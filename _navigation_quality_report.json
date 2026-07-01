@@ -1,0 +1,1274 @@
+{
+  "generated_at_utc": "2026-07-01T16:43:45.036460Z",
+  "summary": {
+    "total_pages_with_permalink": 242,
+    "visible_pages": 211,
+    "hidden_pages": 31,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "inline_internal_edge_count": 1360,
+    "inline_internal_target_page_count": 211,
+    "visible_pages_gaining_inbound_from_inline_links": 0,
+    "visible_pages_without_inline_inbound_links": 0,
+    "visible_pages_with_inline_outbound_links": 211,
+    "average_inline_inbound_links_per_visible_page": 6.45,
+    "unresolved_inline_internal_target_count": 0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "visible_gaining_inbound_from_inline_links": [],
+    "visible_without_inline_inbound_links": [],
+    "top_inline_internal_targets": [
+      {
+        "basename": "forteana_50bdc8",
+        "title": "Forteana",
+        "permalink": "/forteana/",
+        "inline_inbound_count": 120
+      },
+      {
+        "basename": "forteana_50bdc8_witness_testimony_re_99a07b_observation_vs_infer_9acea6",
+        "title": "Observation",
+        "permalink": "/observation/",
+        "inline_inbound_count": 98
+      },
+      {
+        "basename": "forteana_50bdc8_folklore_evidence_me_a6b0f2",
+        "title": "Folklore",
+        "permalink": "/folklore/",
+        "inline_inbound_count": 93
+      },
+      {
+        "basename": "forteana_50bdc8_belief_doubt_suspend_51d00d_experience_vs_interp_18f1c3",
+        "title": "Experience",
+        "permalink": "/experience/",
+        "inline_inbound_count": 81
+      },
+      {
+        "basename": "forteana_50bdc8_weather_strange_fall_4c1363",
+        "title": "Weather",
+        "permalink": "/weather/",
+        "inline_inbound_count": 69
+      },
+      {
+        "basename": "forteana_50bdc8_newspaper_clippings_7fc540",
+        "title": "Newspapers",
+        "permalink": "/newspapers/",
+        "inline_inbound_count": 56
+      },
+      {
+        "basename": "forteana_50bdc8_fortean_journalism_s_f57056_first_reports_retell_d24a84",
+        "title": "Retellings",
+        "permalink": "/retellings/",
+        "inline_inbound_count": 54
+      },
+      {
+        "basename": "forteana_50bdc8_anomalistics_neutral_85ebb2_ordinary_explanation_a805d0",
+        "title": "Ordinary Causes",
+        "permalink": "/ordinary-causes/",
+        "inline_inbound_count": 48
+      },
+      {
+        "basename": "forteana_50bdc8_charles_fort_damned_42d28d",
+        "title": "Charles Fort",
+        "permalink": "/charles-fort/",
+        "inline_inbound_count": 36
+      },
+      {
+        "basename": "forteana_50bdc8_scientific_dismissal_1e0731",
+        "title": "Dismissal",
+        "permalink": "/dismissal/",
+        "inline_inbound_count": 36
+      },
+      {
+        "basename": "forteana_50bdc8_misidentification_bi_3761ff",
+        "title": "Mistakes",
+        "permalink": "/mistakes/",
+        "inline_inbound_count": 31
+      },
+      {
+        "basename": "forteana_50bdc8_anomalistics_neutral_85ebb2_sincere_witness_psyc_754640",
+        "title": "Psychology",
+        "permalink": "/psychology/",
+        "inline_inbound_count": 30
+      },
+      {
+        "basename": "forteana_50bdc8_hoaxes_fortean_histo_191d98",
+        "title": "Hoaxes",
+        "permalink": "/hoaxes/",
+        "inline_inbound_count": 24
+      },
+      {
+        "basename": "forteana_50bdc8_ufo_evidence_problem_238bdf",
+        "title": "UFO Reports",
+        "permalink": "/ufo-reports/",
+        "inline_inbound_count": 22
+      },
+      {
+        "basename": "forteana_50bdc8_parapsychology_bound_d30a61_apparitions_survival_52ca91",
+        "title": "Apparitions",
+        "permalink": "/apparitions/",
+        "inline_inbound_count": 21
+      },
+      {
+        "basename": "forteana_50bdc8_missing_people_retel_d09daa",
+        "title": "Disappearances",
+        "permalink": "/disappearances/",
+        "inline_inbound_count": 17
+      },
+      {
+        "basename": "forteana_50bdc8_mothman_local_legend_6e5fa0_point_pleasant_touri_909bc1",
+        "title": "Tourism",
+        "permalink": "/tourism/",
+        "inline_inbound_count": 16
+      },
+      {
+        "basename": "forteana_50bdc8_witness_testimony_re_99a07b_honest_but_wrong_714afd",
+        "title": "Sincerity",
+        "permalink": "/sincerity/",
+        "inline_inbound_count": 16
+      },
+      {
+        "basename": "forteana_50bdc8_ghost_reports_memory_fdf4a4",
+        "title": "Ghosts",
+        "permalink": "/ghosts/",
+        "inline_inbound_count": 15
+      },
+      {
+        "basename": "forteana_50bdc8_cryptids_natural_his_3c2db5",
+        "title": "Cryptids",
+        "permalink": "/cryptids/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "forteana_50bdc8_ufo_evidence_problem_238bdf_project_blue_book_re_ce2e03",
+        "title": "Blue Book",
+        "permalink": "/blue-book-75a50c/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "forteana_50bdc8_uncanny_coincidences_4f1cf2",
+        "title": "Coincidences",
+        "permalink": "/coincidences/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "forteana_50bdc8_belief_doubt_suspend_51d00d",
+        "title": "Doubt",
+        "permalink": "/doubt/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "forteana_50bdc8_animal_falls_explana_03e792_waterspout_animal_fa_d2972f",
+        "title": "Waterspouts",
+        "permalink": "/waterspouts/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "forteana_50bdc8_charles_fort_damned_42d28d_book_damned_satire_abe9d2",
+        "title": "The Book",
+        "permalink": "/the-book/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "forteana_50bdc8_fortean_fieldwork_be_af012d",
+        "title": "Fieldwork",
+        "permalink": "/fieldwork/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "forteana_50bdc8_spontaneous_combusti_2682c4",
+        "title": "Combustion",
+        "permalink": "/combustion/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "forteana_50bdc8_folklore_evidence_me_a6b0f2_lochness_tourism_mea_d6e9ad",
+        "title": "Loch Ness",
+        "permalink": "/loch-ness/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "forteana_50bdc8_miracle_claims_expla_5c0e6a",
+        "title": "Miracles",
+        "permalink": "/miracles/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "forteana_50bdc8_parapsychology_bound_d30a61",
+        "title": "Parapsychology",
+        "permalink": "/parapsychology/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "forteana_50bdc8_fortean_journalism_s_f57056",
+        "title": "Strange News",
+        "permalink": "/strange-news/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "forteana_50bdc8_fortean_journalism_s_f57056_fortean_times_clippi_88bff6",
+        "title": "Clippings",
+        "permalink": "/clippings/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "forteana_50bdc8_mothman_local_legend_6e5fa0_first_witness_report_c5ce0c",
+        "title": "First Report",
+        "permalink": "/first-report/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "forteana_50bdc8_fortean_journalism_s_f57056_strange_news_headlin_92ce77",
+        "title": "Headlines",
+        "permalink": "/headlines/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "forteana_50bdc8_skepticism_without_d_bca821_sleep_paralysis_scep_960608",
+        "title": "Sleep Paralysis",
+        "permalink": "/sleep-paralysis/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "forteana_50bdc8_book_damned_blueprin_833a8a_poltergeist_reports_4ee586",
+        "title": "Poltergeists",
+        "permalink": "/poltergeists-edffb6/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "forteana_50bdc8_cryptozoology_vs_for_0670a8_bigfoot_population_e_622dec",
+        "title": "Bigfoot",
+        "permalink": "/bigfoot/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "forteana_50bdc8_mothman_local_legend_6e5fa0_silver_bridge_prophe_7051f0",
+        "title": "Bridge Collapse",
+        "permalink": "/bridge-collapse/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "forteana_50bdc8_mothman_local_legend_6e5fa0_tnt_area_setting_40d393",
+        "title": "TNT Area",
+        "permalink": "/tnt-area/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "forteana_50bdc8_spontaneous_combusti_2682c4_wick_effect_human_ca_5693e2",
+        "title": "Wick Effect",
+        "permalink": "/wick-effect/",
+        "inline_inbound_count": 6
+      }
+    ],
+    "unresolved_inline_internal_targets": [],
+    "edge_samples": [
+      {
+        "from": "forteana_50bdc8",
+        "to": "forteana_50bdc8_animal_falls_explana_03e792",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8",
+        "to": "forteana_50bdc8_anomalistics_neutral_85ebb2",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8",
+        "to": "forteana_50bdc8_belief_doubt_suspend_51d00d",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8",
+        "to": "forteana_50bdc8_book_damned_blueprin_833a8a",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8",
+        "to": "forteana_50bdc8_charles_fort_damned_42d28d",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8",
+        "to": "forteana_50bdc8_crop_circles_hoaxes_18d275",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8",
+        "to": "forteana_50bdc8_cryptids_natural_his_3c2db5",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8",
+        "to": "forteana_50bdc8_cryptozoology_vs_for_0670a8",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8",
+        "to": "forteana_50bdc8_folklore_evidence_me_a6b0f2",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8",
+        "to": "forteana_50bdc8_fortean_fieldwork_be_af012d",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8",
+        "to": "forteana_50bdc8_fortean_journalism_s_f57056",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8",
+        "to": "forteana_50bdc8_fortean_taxonomies_w_7e6998",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8",
+        "to": "forteana_50bdc8_ghost_reports_memory_fdf4a4",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8",
+        "to": "forteana_50bdc8_hoaxes_fortean_histo_191d98",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8",
+        "to": "forteana_50bdc8_index",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8",
+        "to": "forteana_50bdc8_miracle_claims_expla_5c0e6a",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8",
+        "to": "forteana_50bdc8_misidentification_bi_3761ff",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8",
+        "to": "forteana_50bdc8_missing_people_retel_d09daa",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8",
+        "to": "forteana_50bdc8_mothman_local_legend_6e5fa0",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8",
+        "to": "forteana_50bdc8_newspaper_clippings_7fc540",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8",
+        "to": "forteana_50bdc8_parapsychology_bound_d30a61",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8",
+        "to": "forteana_50bdc8_poltergeist_noisy_ev_2e0936",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8",
+        "to": "forteana_50bdc8_scientific_dismissal_1e0731",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8",
+        "to": "forteana_50bdc8_skepticism_without_d_bca821",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8",
+        "to": "forteana_50bdc8_spontaneous_combusti_2682c4",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8",
+        "to": "forteana_50bdc8_ufo_evidence_problem_238bdf",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8",
+        "to": "forteana_50bdc8_ufology_vs_forteana_e2c263",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8",
+        "to": "forteana_50bdc8_uncanny_coincidences_4f1cf2",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8",
+        "to": "forteana_50bdc8_unexplained_hum_repo_c3e069",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8",
+        "to": "forteana_50bdc8_weather_strange_fall_4c1363",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8",
+        "to": "forteana_50bdc8_witness_testimony_re_99a07b",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8_charles_fort_damned_42d28d",
+        "to": "forteana_50bdc8",
+        "type": "parent"
+      },
+      {
+        "from": "forteana_50bdc8_charles_fort_damned_42d28d",
+        "to": "forteana_50bdc8_animal_falls_explana_03e792",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_charles_fort_damned_42d28d",
+        "to": "forteana_50bdc8_anomalistics_neutral_85ebb2",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_charles_fort_damned_42d28d",
+        "to": "forteana_50bdc8_belief_doubt_suspend_51d00d",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_charles_fort_damned_42d28d",
+        "to": "forteana_50bdc8_book_damned_blueprin_833a8a",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_charles_fort_damned_42d28d",
+        "to": "forteana_50bdc8_crop_circles_hoaxes_18d275",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_charles_fort_damned_42d28d",
+        "to": "forteana_50bdc8_cryptids_natural_his_3c2db5",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_charles_fort_damned_42d28d",
+        "to": "forteana_50bdc8_cryptozoology_vs_for_0670a8",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_charles_fort_damned_42d28d",
+        "to": "forteana_50bdc8_folklore_evidence_me_a6b0f2",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_charles_fort_damned_42d28d",
+        "to": "forteana_50bdc8_fortean_fieldwork_be_af012d",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_charles_fort_damned_42d28d",
+        "to": "forteana_50bdc8_fortean_journalism_s_f57056",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_charles_fort_damned_42d28d",
+        "to": "forteana_50bdc8_fortean_taxonomies_w_7e6998",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_charles_fort_damned_42d28d",
+        "to": "forteana_50bdc8_ghost_reports_memory_fdf4a4",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_charles_fort_damned_42d28d",
+        "to": "forteana_50bdc8_hoaxes_fortean_histo_191d98",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_charles_fort_damned_42d28d",
+        "to": "forteana_50bdc8_miracle_claims_expla_5c0e6a",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_charles_fort_damned_42d28d",
+        "to": "forteana_50bdc8_misidentification_bi_3761ff",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_charles_fort_damned_42d28d",
+        "to": "forteana_50bdc8_missing_people_retel_d09daa",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_charles_fort_damned_42d28d",
+        "to": "forteana_50bdc8_mothman_local_legend_6e5fa0",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_charles_fort_damned_42d28d",
+        "to": "forteana_50bdc8_newspaper_clippings_7fc540",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_charles_fort_damned_42d28d",
+        "to": "forteana_50bdc8_parapsychology_bound_d30a61",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_charles_fort_damned_42d28d",
+        "to": "forteana_50bdc8_poltergeist_noisy_ev_2e0936",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_charles_fort_damned_42d28d",
+        "to": "forteana_50bdc8_scientific_dismissal_1e0731",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_charles_fort_damned_42d28d",
+        "to": "forteana_50bdc8_skepticism_without_d_bca821",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_charles_fort_damned_42d28d",
+        "to": "forteana_50bdc8_spontaneous_combusti_2682c4",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_charles_fort_damned_42d28d",
+        "to": "forteana_50bdc8_ufo_evidence_problem_238bdf",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_charles_fort_damned_42d28d",
+        "to": "forteana_50bdc8_ufology_vs_forteana_e2c263",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_charles_fort_damned_42d28d",
+        "to": "forteana_50bdc8_uncanny_coincidences_4f1cf2",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_charles_fort_damned_42d28d",
+        "to": "forteana_50bdc8_unexplained_hum_repo_c3e069",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_charles_fort_damned_42d28d",
+        "to": "forteana_50bdc8_weather_strange_fall_4c1363",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_charles_fort_damned_42d28d",
+        "to": "forteana_50bdc8_witness_testimony_re_99a07b",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_charles_fort_damned_42d28d",
+        "to": "forteana_50bdc8_charles_fort_damned_42d28d_book_damned_satire_abe9d2",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8_charles_fort_damned_42d28d",
+        "to": "forteana_50bdc8_charles_fort_damned_42d28d_damned_facts_evidenc_4c57af",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8_charles_fort_damned_42d28d",
+        "to": "forteana_50bdc8_charles_fort_damned_42d28d_falling_animals_fort_b9a80d",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8_charles_fort_damned_42d28d",
+        "to": "forteana_50bdc8_charles_fort_damned_42d28d_fort_library_method_1adca4",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8_charles_fort_damned_42d28d",
+        "to": "forteana_50bdc8_charles_fort_damned_42d28d_fortean_suspended_co_e40975",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8_charles_fort_damned_42d28d",
+        "to": "forteana_50bdc8_charles_fort_damned_42d28d_index",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8_charles_fort_damned_42d28d",
+        "to": "forteana_50bdc8_charles_fort_damned_42d28d_super_sargasso_sea_3f3e2b",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8_charles_fort_damned_42d28d",
+        "to": "forteana_50bdc8",
+        "type": "ancestor"
+      },
+      {
+        "from": "forteana_50bdc8_crop_circles_hoaxes_18d275",
+        "to": "forteana_50bdc8",
+        "type": "parent"
+      },
+      {
+        "from": "forteana_50bdc8_crop_circles_hoaxes_18d275",
+        "to": "forteana_50bdc8_animal_falls_explana_03e792",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_crop_circles_hoaxes_18d275",
+        "to": "forteana_50bdc8_anomalistics_neutral_85ebb2",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_crop_circles_hoaxes_18d275",
+        "to": "forteana_50bdc8_belief_doubt_suspend_51d00d",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_crop_circles_hoaxes_18d275",
+        "to": "forteana_50bdc8_book_damned_blueprin_833a8a",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_crop_circles_hoaxes_18d275",
+        "to": "forteana_50bdc8_charles_fort_damned_42d28d",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_crop_circles_hoaxes_18d275",
+        "to": "forteana_50bdc8_cryptids_natural_his_3c2db5",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_crop_circles_hoaxes_18d275",
+        "to": "forteana_50bdc8_cryptozoology_vs_for_0670a8",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_crop_circles_hoaxes_18d275",
+        "to": "forteana_50bdc8_folklore_evidence_me_a6b0f2",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_crop_circles_hoaxes_18d275",
+        "to": "forteana_50bdc8_fortean_fieldwork_be_af012d",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_crop_circles_hoaxes_18d275",
+        "to": "forteana_50bdc8_fortean_journalism_s_f57056",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_crop_circles_hoaxes_18d275",
+        "to": "forteana_50bdc8_fortean_taxonomies_w_7e6998",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_crop_circles_hoaxes_18d275",
+        "to": "forteana_50bdc8_ghost_reports_memory_fdf4a4",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_crop_circles_hoaxes_18d275",
+        "to": "forteana_50bdc8_hoaxes_fortean_histo_191d98",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_crop_circles_hoaxes_18d275",
+        "to": "forteana_50bdc8_miracle_claims_expla_5c0e6a",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_crop_circles_hoaxes_18d275",
+        "to": "forteana_50bdc8_misidentification_bi_3761ff",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_crop_circles_hoaxes_18d275",
+        "to": "forteana_50bdc8_missing_people_retel_d09daa",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_crop_circles_hoaxes_18d275",
+        "to": "forteana_50bdc8_mothman_local_legend_6e5fa0",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_crop_circles_hoaxes_18d275",
+        "to": "forteana_50bdc8_newspaper_clippings_7fc540",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_crop_circles_hoaxes_18d275",
+        "to": "forteana_50bdc8_parapsychology_bound_d30a61",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_crop_circles_hoaxes_18d275",
+        "to": "forteana_50bdc8_poltergeist_noisy_ev_2e0936",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_crop_circles_hoaxes_18d275",
+        "to": "forteana_50bdc8_scientific_dismissal_1e0731",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_crop_circles_hoaxes_18d275",
+        "to": "forteana_50bdc8_skepticism_without_d_bca821",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_crop_circles_hoaxes_18d275",
+        "to": "forteana_50bdc8_spontaneous_combusti_2682c4",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_crop_circles_hoaxes_18d275",
+        "to": "forteana_50bdc8_ufo_evidence_problem_238bdf",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_crop_circles_hoaxes_18d275",
+        "to": "forteana_50bdc8_ufology_vs_forteana_e2c263",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_crop_circles_hoaxes_18d275",
+        "to": "forteana_50bdc8_uncanny_coincidences_4f1cf2",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_crop_circles_hoaxes_18d275",
+        "to": "forteana_50bdc8_unexplained_hum_repo_c3e069",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_crop_circles_hoaxes_18d275",
+        "to": "forteana_50bdc8_weather_strange_fall_4c1363",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_crop_circles_hoaxes_18d275",
+        "to": "forteana_50bdc8_witness_testimony_re_99a07b",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_crop_circles_hoaxes_18d275",
+        "to": "forteana_50bdc8_crop_circles_hoaxes_18d275_bower_chorley_confes_57f3cd",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8_crop_circles_hoaxes_18d275",
+        "to": "forteana_50bdc8_crop_circles_hoaxes_18d275_crop_circle_aerial_i_d1ef94",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8_crop_circles_hoaxes_18d275",
+        "to": "forteana_50bdc8_crop_circles_hoaxes_18d275_crop_circle_belief_s_0ecc1c",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8_crop_circles_hoaxes_18d275",
+        "to": "forteana_50bdc8_crop_circles_hoaxes_18d275_crop_circles_land_ar_c2552c",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8_crop_circles_hoaxes_18d275",
+        "to": "forteana_50bdc8_crop_circles_hoaxes_18d275_index",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8_crop_circles_hoaxes_18d275",
+        "to": "forteana_50bdc8_crop_circles_hoaxes_18d275_simple_crop_circle_t_d064e3",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8_crop_circles_hoaxes_18d275",
+        "to": "forteana_50bdc8_crop_circles_hoaxes_18d275_wiltshire_crop_circl_4c401a",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8_crop_circles_hoaxes_18d275",
+        "to": "forteana_50bdc8",
+        "type": "ancestor"
+      },
+      {
+        "from": "forteana_50bdc8_newspaper_clippings_7fc540",
+        "to": "forteana_50bdc8",
+        "type": "parent"
+      },
+      {
+        "from": "forteana_50bdc8_newspaper_clippings_7fc540",
+        "to": "forteana_50bdc8_animal_falls_explana_03e792",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_newspaper_clippings_7fc540",
+        "to": "forteana_50bdc8_anomalistics_neutral_85ebb2",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_newspaper_clippings_7fc540",
+        "to": "forteana_50bdc8_belief_doubt_suspend_51d00d",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_newspaper_clippings_7fc540",
+        "to": "forteana_50bdc8_book_damned_blueprin_833a8a",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_newspaper_clippings_7fc540",
+        "to": "forteana_50bdc8_charles_fort_damned_42d28d",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_newspaper_clippings_7fc540",
+        "to": "forteana_50bdc8_crop_circles_hoaxes_18d275",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_newspaper_clippings_7fc540",
+        "to": "forteana_50bdc8_cryptids_natural_his_3c2db5",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_newspaper_clippings_7fc540",
+        "to": "forteana_50bdc8_cryptozoology_vs_for_0670a8",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_newspaper_clippings_7fc540",
+        "to": "forteana_50bdc8_folklore_evidence_me_a6b0f2",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_newspaper_clippings_7fc540",
+        "to": "forteana_50bdc8_fortean_fieldwork_be_af012d",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_newspaper_clippings_7fc540",
+        "to": "forteana_50bdc8_fortean_journalism_s_f57056",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_newspaper_clippings_7fc540",
+        "to": "forteana_50bdc8_fortean_taxonomies_w_7e6998",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_newspaper_clippings_7fc540",
+        "to": "forteana_50bdc8_ghost_reports_memory_fdf4a4",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_newspaper_clippings_7fc540",
+        "to": "forteana_50bdc8_hoaxes_fortean_histo_191d98",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_newspaper_clippings_7fc540",
+        "to": "forteana_50bdc8_miracle_claims_expla_5c0e6a",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_newspaper_clippings_7fc540",
+        "to": "forteana_50bdc8_misidentification_bi_3761ff",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_newspaper_clippings_7fc540",
+        "to": "forteana_50bdc8_missing_people_retel_d09daa",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_newspaper_clippings_7fc540",
+        "to": "forteana_50bdc8_mothman_local_legend_6e5fa0",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_newspaper_clippings_7fc540",
+        "to": "forteana_50bdc8_parapsychology_bound_d30a61",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_newspaper_clippings_7fc540",
+        "to": "forteana_50bdc8_poltergeist_noisy_ev_2e0936",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_newspaper_clippings_7fc540",
+        "to": "forteana_50bdc8_scientific_dismissal_1e0731",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_newspaper_clippings_7fc540",
+        "to": "forteana_50bdc8_skepticism_without_d_bca821",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_newspaper_clippings_7fc540",
+        "to": "forteana_50bdc8_spontaneous_combusti_2682c4",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_newspaper_clippings_7fc540",
+        "to": "forteana_50bdc8_ufo_evidence_problem_238bdf",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_newspaper_clippings_7fc540",
+        "to": "forteana_50bdc8_ufology_vs_forteana_e2c263",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_newspaper_clippings_7fc540",
+        "to": "forteana_50bdc8_uncanny_coincidences_4f1cf2",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_newspaper_clippings_7fc540",
+        "to": "forteana_50bdc8_unexplained_hum_repo_c3e069",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_newspaper_clippings_7fc540",
+        "to": "forteana_50bdc8_weather_strange_fall_4c1363",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_newspaper_clippings_7fc540",
+        "to": "forteana_50bdc8_witness_testimony_re_99a07b",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_newspaper_clippings_7fc540",
+        "to": "forteana_50bdc8_newspaper_clippings_7fc540_clipping_cross_check_d6ddc4",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8_newspaper_clippings_7fc540",
+        "to": "forteana_50bdc8_newspaper_clippings_7fc540_devils_footprints_fr_830ab3",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8_newspaper_clippings_7fc540",
+        "to": "forteana_50bdc8_newspaper_clippings_7fc540_earliest_account_tes_d3c67c",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8_newspaper_clippings_7fc540",
+        "to": "forteana_50bdc8_newspaper_clippings_7fc540_great_moon_hoax_warn_5c6674",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8_newspaper_clippings_7fc540",
+        "to": "forteana_50bdc8_newspaper_clippings_7fc540_index",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8_newspaper_clippings_7fc540",
+        "to": "forteana_50bdc8_newspaper_clippings_7fc540_mystery_airship_clip_a109e0",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8_newspaper_clippings_7fc540",
+        "to": "forteana_50bdc8_newspaper_clippings_7fc540_syndicated_reprint_t_d21ffd",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8_newspaper_clippings_7fc540",
+        "to": "forteana_50bdc8",
+        "type": "ancestor"
+      },
+      {
+        "from": "forteana_50bdc8_ufology_vs_forteana_e2c263",
+        "to": "forteana_50bdc8",
+        "type": "parent"
+      },
+      {
+        "from": "forteana_50bdc8_ufology_vs_forteana_e2c263",
+        "to": "forteana_50bdc8_animal_falls_explana_03e792",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_ufology_vs_forteana_e2c263",
+        "to": "forteana_50bdc8_anomalistics_neutral_85ebb2",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_ufology_vs_forteana_e2c263",
+        "to": "forteana_50bdc8_belief_doubt_suspend_51d00d",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_ufology_vs_forteana_e2c263",
+        "to": "forteana_50bdc8_book_damned_blueprin_833a8a",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_ufology_vs_forteana_e2c263",
+        "to": "forteana_50bdc8_charles_fort_damned_42d28d",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_ufology_vs_forteana_e2c263",
+        "to": "forteana_50bdc8_crop_circles_hoaxes_18d275",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_ufology_vs_forteana_e2c263",
+        "to": "forteana_50bdc8_cryptids_natural_his_3c2db5",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_ufology_vs_forteana_e2c263",
+        "to": "forteana_50bdc8_cryptozoology_vs_for_0670a8",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_ufology_vs_forteana_e2c263",
+        "to": "forteana_50bdc8_folklore_evidence_me_a6b0f2",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_ufology_vs_forteana_e2c263",
+        "to": "forteana_50bdc8_fortean_fieldwork_be_af012d",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_ufology_vs_forteana_e2c263",
+        "to": "forteana_50bdc8_fortean_journalism_s_f57056",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_ufology_vs_forteana_e2c263",
+        "to": "forteana_50bdc8_fortean_taxonomies_w_7e6998",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_ufology_vs_forteana_e2c263",
+        "to": "forteana_50bdc8_ghost_reports_memory_fdf4a4",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_ufology_vs_forteana_e2c263",
+        "to": "forteana_50bdc8_hoaxes_fortean_histo_191d98",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_ufology_vs_forteana_e2c263",
+        "to": "forteana_50bdc8_miracle_claims_expla_5c0e6a",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_ufology_vs_forteana_e2c263",
+        "to": "forteana_50bdc8_misidentification_bi_3761ff",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_ufology_vs_forteana_e2c263",
+        "to": "forteana_50bdc8_missing_people_retel_d09daa",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_ufology_vs_forteana_e2c263",
+        "to": "forteana_50bdc8_mothman_local_legend_6e5fa0",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_ufology_vs_forteana_e2c263",
+        "to": "forteana_50bdc8_newspaper_clippings_7fc540",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_ufology_vs_forteana_e2c263",
+        "to": "forteana_50bdc8_parapsychology_bound_d30a61",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_ufology_vs_forteana_e2c263",
+        "to": "forteana_50bdc8_poltergeist_noisy_ev_2e0936",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_ufology_vs_forteana_e2c263",
+        "to": "forteana_50bdc8_scientific_dismissal_1e0731",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_ufology_vs_forteana_e2c263",
+        "to": "forteana_50bdc8_skepticism_without_d_bca821",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_ufology_vs_forteana_e2c263",
+        "to": "forteana_50bdc8_spontaneous_combusti_2682c4",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_ufology_vs_forteana_e2c263",
+        "to": "forteana_50bdc8_ufo_evidence_problem_238bdf",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_ufology_vs_forteana_e2c263",
+        "to": "forteana_50bdc8_uncanny_coincidences_4f1cf2",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_ufology_vs_forteana_e2c263",
+        "to": "forteana_50bdc8_unexplained_hum_repo_c3e069",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_ufology_vs_forteana_e2c263",
+        "to": "forteana_50bdc8_weather_strange_fall_4c1363",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_ufology_vs_forteana_e2c263",
+        "to": "forteana_50bdc8_witness_testimony_re_99a07b",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_ufology_vs_forteana_e2c263",
+        "to": "forteana_50bdc8_ufology_vs_forteana_e2c263_aaro_unresolved_case_7f814d",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8_ufology_vs_forteana_e2c263",
+        "to": "forteana_50bdc8_ufology_vs_forteana_e2c263_blue_book_evidence_h_2161d9",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8_ufology_vs_forteana_e2c263",
+        "to": "forteana_50bdc8_ufology_vs_forteana_e2c263_galileo_project_sens_6a270f",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8_ufology_vs_forteana_e2c263",
+        "to": "forteana_50bdc8_ufology_vs_forteana_e2c263_hynek_close_encounte_402c04",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8_ufology_vs_forteana_e2c263",
+        "to": "forteana_50bdc8_ufology_vs_forteana_e2c263_index",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8_ufology_vs_forteana_e2c263",
+        "to": "forteana_50bdc8_ufology_vs_forteana_e2c263_magonia_folklore_com_78bc32",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8_ufology_vs_forteana_e2c263",
+        "to": "forteana_50bdc8_ufology_vs_forteana_e2c263_nasa_uap_data_standa_355e01",
+        "type": "child"
+      },
+      {
+        "from": "forteana_50bdc8_ufology_vs_forteana_e2c263",
+        "to": "forteana_50bdc8",
+        "type": "ancestor"
+      },
+      {
+        "from": "forteana_50bdc8_animal_falls_explana_03e792",
+        "to": "forteana_50bdc8",
+        "type": "parent"
+      },
+      {
+        "from": "forteana_50bdc8_animal_falls_explana_03e792",
+        "to": "forteana_50bdc8_anomalistics_neutral_85ebb2",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_animal_falls_explana_03e792",
+        "to": "forteana_50bdc8_belief_doubt_suspend_51d00d",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_animal_falls_explana_03e792",
+        "to": "forteana_50bdc8_book_damned_blueprin_833a8a",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_animal_falls_explana_03e792",
+        "to": "forteana_50bdc8_charles_fort_damned_42d28d",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_animal_falls_explana_03e792",
+        "to": "forteana_50bdc8_crop_circles_hoaxes_18d275",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_animal_falls_explana_03e792",
+        "to": "forteana_50bdc8_cryptids_natural_his_3c2db5",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_animal_falls_explana_03e792",
+        "to": "forteana_50bdc8_cryptozoology_vs_for_0670a8",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_animal_falls_explana_03e792",
+        "to": "forteana_50bdc8_folklore_evidence_me_a6b0f2",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_animal_falls_explana_03e792",
+        "to": "forteana_50bdc8_fortean_fieldwork_be_af012d",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_animal_falls_explana_03e792",
+        "to": "forteana_50bdc8_fortean_journalism_s_f57056",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_animal_falls_explana_03e792",
+        "to": "forteana_50bdc8_fortean_taxonomies_w_7e6998",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_animal_falls_explana_03e792",
+        "to": "forteana_50bdc8_ghost_reports_memory_fdf4a4",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_animal_falls_explana_03e792",
+        "to": "forteana_50bdc8_hoaxes_fortean_histo_191d98",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_animal_falls_explana_03e792",
+        "to": "forteana_50bdc8_miracle_claims_expla_5c0e6a",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_animal_falls_explana_03e792",
+        "to": "forteana_50bdc8_misidentification_bi_3761ff",
+        "type": "sibling"
+      },
+      {
+        "from": "forteana_50bdc8_animal_falls_explana_03e792",
+        "to": "forteana_50bdc8_missing_people_retel_d09daa",
+        "type": "sibling"
+      }
+    ]
+  }
+}

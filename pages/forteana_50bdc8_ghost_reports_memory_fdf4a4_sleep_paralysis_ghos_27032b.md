@@ -274,13 +274,13 @@ image: /assets/images/forteana_50bdc8_ghost_reports_memory_fdf4a4_sleep_paralysi
 
 ## Introduction
 
-Many reports of a “ghost in the bedroom” begin with a strikingly similar sequence: the person wakes, realises they cannot move, feels overwhelming fear, senses that someone else is in the room, and may see a shadowy figure standing by the bed or pressing on their chest. In Fortean collections these accounts are often presented as hauntings, yet sleep medicine recognises the same pattern as a well-described phenomenon known as isolated [sleep paralysis]({{ 'sleep-paralysis/' | relative_url }}). The [experience]({{ 'experience/' | relative_url }}) is intensely real to those who undergo it, and understanding its mechanisms does not diminish the emotional impact. Instead, it helps explain why one of the world's most common supernatural experiences so often occurs in bedrooms, at the edge of sleep, and why different cultures describe remarkably similar events while giving the visitor very different identities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11344621/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by V Bhalerao · 2024 · Cited by 10 — Sleep paralysis (SP) is a phenomenon wherein individuals awaken from deep sleep but are unable to...</span></span></span>
+Many reports of a “ghost in the bedroom” begin with a strikingly similar sequence: the person wakes, realises they cannot move, feels overwhelming fear, senses that someone else is in the room, and may see a shadowy figure standing by the bed or pressing on their chest. In Fortean collections these accounts are often presented as hauntings, yet sleep medicine recognises the same pattern as a well-described phenomenon known as isolated [sleep paralysis]({{ 'sleep-paralysis/' | relative_url }}). The [experience]({{ 'experience/' | relative_url }}) is intensely real to those who undergo it, and understanding its mechanisms does not diminish the emotional impact. Instead, it helps explain why one of the world's most common supernatural experiences so often occurs in bedrooms, at the edge of sleep, and why different cultures describe remarkably similar events while giving the visitor very different identities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11344621/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by V Bhalerao · 2024 · Cited by 10 — Sleep paralysis (SP) is a phenomenon wherein individuals awaken from deep sleep but are unable to...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_ghost_reports_memory_fdf4a4_sleep_paralysis_ghos_27032b-Illustration-1-dark.svg" | relative_url }}" alt="Sleep ghosts illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_ghost_reports_memory_fdf4a4_sleep_paralysis_ghos_27032b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_ghost_reports_memory_fdf4a4_sleep_paralysis_ghos_27032b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What witnesses report during waking paralysis
 
-Sleep paralysis occurs during the transition between rapid eye movement (REM) sleep and wakefulness. During REM sleep, the brain normally switches off most voluntary muscle movement to prevent people acting out dreams. Occasionally, consciousness returns before this muscle paralysis has ended. The result is an unsettling state in which the person is awake enough to perceive their bedroom but remains unable to move or call for help. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11344621/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by V Bhalerao · 2024 · Cited by 10 — Sleep paralysis (SP) is a phenomenon wherein individuals awaken from deep sleep but are unable to...</span></span></span>
+Sleep paralysis occurs during the transition between rapid eye movement (REM) sleep and wakefulness. During REM sleep, the brain normally switches off most voluntary muscle movement to prevent people acting out dreams. Occasionally, consciousness returns before this muscle paralysis has ended. The result is an unsettling state in which the person is awake enough to perceive their bedroom but remains unable to move or call for help.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11344621/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by V Bhalerao · 2024 · Cited by 10 — Sleep paralysis (SP) is a phenomenon wherein individuals awaken from deep sleep but are unable to...</span></span></span>
 
 For witnesses, the paralysis is only part of the experience. Reports frequently include:
 
@@ -289,9 +289,9 @@ For witnesses, the paralysis is only part of the experience. Reports frequently 
 * Pressure on the chest or difficulty taking a deep breath.
 * The feeling that the figure is watching, approaching or climbing onto the bed.
 * Sounds such as footsteps, whispers, breathing or knocking.
-* In some cases, the sensation of floating, leaving the body or seeing the room from above. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12349844/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNightmares or a crippling reality?</span><span class="citation-popover-snippet">A review on sleep paralysisby A Honnekeri · 2025 — SP is also largely associated with three types of hallucinations – the &#x27;intruder&#x27;, the...</span></span></span>
+* In some cases, the sensation of floating, leaving the body or seeing the room from above.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12349844/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNightmares or a crippling reality?</span><span class="citation-popover-snippet">A review on sleep paralysisby A Honnekeri · 2025 — SP is also largely associated with three types of hallucinations – the &#x27;intruder&#x27;, the...</span></span></span>
 
-Researchers studying sleep paralysis have repeatedly found that the "sensed presence" is among its most characteristic features. The person often becomes convinced that another conscious being occupies the room, even before seeing any visual image. This feeling can be so compelling that many witnesses remain convinced for years that they experienced an external entity rather than an altered state of consciousness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11344621/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by V Bhalerao · 2024 · Cited by 10 — Sleep paralysis (SP) is a phenomenon wherein individuals awaken from deep sleep but are unable to...</span></span></span>
+Researchers studying sleep paralysis have repeatedly found that the "sensed presence" is among its most characteristic features. The person often becomes convinced that another conscious being occupies the room, even before seeing any visual image. This feeling can be so compelling that many witnesses remain convinced for years that they experienced an external entity rather than an altered state of consciousness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11344621/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by V Bhalerao · 2024 · Cited by 10 — Sleep paralysis (SP) is a phenomenon wherein individuals awaken from deep sleep but are unable to...</span></span></span>
 
 Within Fortean literature this is important because many classic bedroom haunting narratives match this sequence almost exactly: awakening, paralysis, fear, presence and only then interpretation.
 
@@ -302,11 +302,11 @@ Within Fortean literature this is important because many classic bedroom hauntin
 
 The remarkable realism of sleep paralysis comes from several processes occurring simultaneously rather than from a single hallucination.
 
-The sleeper is partially awake and correctly perceives much of the real bedroom. Unlike an ordinary dream, familiar furniture, doors and windows may all appear exactly where they should be. Into this genuine scene, dream imagery and threat-related expectations become blended. Because the room itself is real, the added figure often seems equally real. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11344621/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by V Bhalerao · 2024 · Cited by 10 — Sleep paralysis (SP) is a phenomenon wherein individuals awaken from deep sleep but are unable to...</span></span></span>
+The sleeper is partially awake and correctly perceives much of the real bedroom. Unlike an ordinary dream, familiar furniture, doors and windows may all appear exactly where they should be. Into this genuine scene, dream imagery and threat-related expectations become blended. Because the room itself is real, the added figure often seems equally real.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11344621/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by V Bhalerao · 2024 · Cited by 10 — Sleep paralysis (SP) is a phenomenon wherein individuals awaken from deep sleep but are unable to...</span></span></span>
 
-Researchers have proposed that the brain's systems for monitoring threats become unusually active during these episodes. The feeling that "someone is there" may appear before any visual image forms, after which the brain constructs a figure consistent with that expectation. The hallucinated presence therefore behaves less like a random dream character than like an intruder whose intentions feel immediately dangerous. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/314103398_Sleep_Paralysis_The_Ghostly_Bedroom_Intruder_and_Out-of-Body_Experiences_The_Role_of_Mirror_Neurons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Sleep Paralysis, “The Ghostly Bedroom Intruder” and...28 Feb 2017 — Cheyne and Girard characterize felt presence (FP)...</span></span></span>
+Researchers have proposed that the brain's systems for monitoring threats become unusually active during these episodes. The feeling that "someone is there" may appear before any visual image forms, after which the brain constructs a figure consistent with that expectation. The hallucinated presence therefore behaves less like a random dream character than like an intruder whose intentions feel immediately dangerous.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/314103398_Sleep_Paralysis_The_Ghostly_Bedroom_Intruder_and_Out-of-Body_Experiences_The_Role_of_Mirror_Neurons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Sleep Paralysis, “The Ghostly Bedroom Intruder” and...28 Feb 2017 — Cheyne and Girard characterize felt presence (FP)...</span></span></span>
 
-Chest pressure also contributes to supernatural interpretations. During REM sleep, breathing becomes shallower and the muscles involved in deep voluntary breathing remain partly inhibited. When people awaken in this state, they commonly experience the frightening sensation that something heavy is pressing on their chest or preventing them from breathing properly. Throughout history this sensation has been interpreted as an attacking spirit, demon or ghost physically restraining the sleeper. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK562322/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBISleep Paralysis</span><span class="citation-popover-snippet">It tends...Read more...</span></span></span>
+Chest pressure also contributes to supernatural interpretations. During REM sleep, breathing becomes shallower and the muscles involved in deep voluntary breathing remain partly inhibited. When people awaken in this state, they commonly experience the frightening sensation that something heavy is pressing on their chest or preventing them from breathing properly. Throughout history this sensation has been interpreted as an attacking spirit, demon or ghost physically restraining the sleeper.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK562322/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBISleep Paralysis</span><span class="citation-popover-snippet">It tends...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_ghost_reports_memory_fdf4a4_sleep_paralysis_ghos_27032b-Illustration-2-dark.svg" | relative_url }}" alt="Sleep ghosts illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_ghost_reports_memory_fdf4a4_sleep_paralysis_ghos_27032b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_ghost_reports_memory_fdf4a4_sleep_paralysis_ghos_27032b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -314,11 +314,11 @@ Chest pressure also contributes to supernatural interpretations. During REM slee
 
 One of the strongest findings in sleep paralysis research is that the underlying experience remains remarkably consistent while the identity of the perceived visitor varies across cultures.
 
-Historical Europe commonly described an incubus, succubus or "Old Hag" sitting upon the sleeper. In parts of East Asia, experiences have been attributed to [ghosts]({{ 'ghosts/' | relative_url }}) or spirit attacks. Egyptian traditions frequently identify a jinn, while many other societies have developed their own supernatural explanations for the same core experience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6082011/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Sleep Paralysis, a Medical Condition with a Diverse Cultural...by E Olunu · 2018 · Cited by 54 — This review aims to medically descri...</span></span></span>
+Historical Europe commonly described an incubus, succubus or "Old Hag" sitting upon the sleeper. In parts of East Asia, experiences have been attributed to [ghosts]({{ 'ghosts/' | relative_url }}) or spirit attacks. Egyptian traditions frequently identify a jinn, while many other societies have developed their own supernatural explanations for the same core experience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6082011/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Sleep Paralysis, a Medical Condition with a Diverse Cultural...by E Olunu · 2018 · Cited by 54 — This review aims to medically descri...</span></span></span>
 
-Modern accounts show the same pattern of cultural updating. Rather than medieval demons, witnesses may report shadow people, unidentified entities or even alien visitors. The underlying sensations—paralysis, presence and fear—remain stable, while the narrative reflects the beliefs, stories and expectations most available to the witness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thecut.com/article/what-is-sleep-paralysis-symptoms-causes-how-to-prevent.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecut.com">[The Cut]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecut.com</span><span class="citation-popover-title">The Cut Why Is Sleep Paralysis So Terrifying?</span><span class="citation-popover-snippet">It affects around 7.6% of the U.S. population. During sleep paralysis, some people report seeing hallucinations, often of shadowy or demo...</span></span></span>
+Modern accounts show the same pattern of cultural updating. Rather than medieval demons, witnesses may report shadow people, unidentified entities or even alien visitors. The underlying sensations—paralysis, presence and fear—remain stable, while the narrative reflects the beliefs, stories and expectations most available to the witness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thecut.com/article/what-is-sleep-paralysis-symptoms-causes-how-to-prevent.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecut.com">[The Cut]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecut.com</span><span class="citation-popover-title">The Cut Why Is Sleep Paralysis So Terrifying?</span><span class="citation-popover-snippet">It affects around 7.6% of the U.S. population. During sleep paralysis, some people report seeing hallucinations, often of shadowy or demo...</span></span></span>
 
-Some studies suggest that cultural beliefs influence more than interpretation alone. Where people strongly fear supernatural attacks during sleep, anticipation itself may increase anxiety around bedtime, making episodes feel longer, more frightening and potentially more frequent. This creates a feedback loop in which terrifying experiences reinforce supernatural expectations, which in turn heighten fear before future sleep. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/6952708/sleep-paralysis-around-the-world-essay/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">The condition occurs when there is a glitch at the transition between wakefulness and REM sleep, leaving individuals paralyzed and often...</span></span></span>
+Some studies suggest that cultural beliefs influence more than interpretation alone. Where people strongly fear supernatural attacks during sleep, anticipation itself may increase anxiety around bedtime, making episodes feel longer, more frightening and potentially more frequent. This creates a feedback loop in which terrifying experiences reinforce supernatural expectations, which in turn heighten fear before future sleep.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/6952708/sleep-paralysis-around-the-world-essay/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">The condition occurs when there is a glitch at the transition between wakefulness and REM sleep, leaving individuals paralyzed and often...</span></span></span>
 
 For researchers interested in [Forteana]({{ 'forteana/' | relative_url }}), this illustrates an important distinction. [Folklore]({{ 'folklore/' | relative_url }}) does not necessarily create the experience from nothing; rather, it appears to shape how an already distinctive neurological event is recognised, remembered and retold.
 
@@ -340,7 +340,7 @@ Consider whether:
 * The event lasted seconds or a few minutes before suddenly ending.
 * Normal movement returned all at once.
 * The figure disappeared as soon as full movement returned.
-* The experience occurred during periods of stress, disrupted sleep, sleep deprivation or irregular sleep schedules. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11344621/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by V Bhalerao · 2024 · Cited by 10 — Sleep paralysis (SP) is a phenomenon wherein individuals awaken from deep sleep but are unable to...</span></span></span>
+* The experience occurred during periods of stress, disrupted sleep, sleep deprivation or irregular sleep schedules.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11344621/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by V Bhalerao · 2024 · Cited by 10 — Sleep paralysis (SP) is a phenomenon wherein individuals awaken from deep sleep but are unable to...</span></span></span>
 
 </div>
 
@@ -350,203 +350,203 @@ When most of these features are present together, sleep paralysis becomes a stro
 <img src="{{ "/assets/images/forteana_50bdc8_ghost_reports_memory_fdf4a4_sleep_paralysis_ghos_27032b-Illustration-3-dark.svg" | relative_url }}" alt="Sleep ghosts illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_ghost_reports_memory_fdf4a4_sleep_paralysis_ghos_27032b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_ghost_reports_memory_fdf4a4_sleep_paralysis_ghos_27032b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why this matters in witness testimony
 
-Recognising sleep paralysis should not be confused with dismissing witnesses. The fear experienced during an episode is genuine, and many people retain vivid memories decades later. Because the hallucination occurs against the backdrop of a real bedroom, the memory often carries the certainty usually associated with ordinary waking perception. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11344621/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by V Bhalerao · 2024 · Cited by 10 — Sleep paralysis (SP) is a phenomenon wherein individuals awaken from deep sleep but are unable to...</span></span></span>
+Recognising sleep paralysis should not be confused with dismissing witnesses. The fear experienced during an episode is genuine, and many people retain vivid memories decades later. Because the hallucination occurs against the backdrop of a real bedroom, the memory often carries the certainty usually associated with ordinary waking perception.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11344621/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by V Bhalerao · 2024 · Cited by 10 — Sleep paralysis (SP) is a phenomenon wherein individuals awaken from deep sleep but are unable to...</span></span></span>
 
-For this reason, investigators of ghost reports increasingly distinguish between the [sincerity]({{ 'sincerity/' | relative_url }}) of a witness and the source of the experience. A person can honestly report seeing a terrifying figure in the room while that figure originated from the interaction between REM sleep, waking consciousness and the brain's threat-detection systems rather than from an external supernatural presence. Within Fortean research, sleep paralysis therefore occupies an important boundary zone: it demonstrates how authentic, emotionally overwhelming experiences can become enduring ghost narratives without requiring deception or deliberate invention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/314103398_Sleep_Paralysis_The_Ghostly_Bedroom_Intruder_and_Out-of-Body_Experiences_The_Role_of_Mirror_Neurons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Sleep Paralysis, “The Ghostly Bedroom Intruder” and...28 Feb 2017 — Cheyne and Girard characterize felt presence (FP)...</span></span></span>
+For this reason, investigators of ghost reports increasingly distinguish between the [sincerity]({{ 'sincerity/' | relative_url }}) of a witness and the source of the experience. A person can honestly report seeing a terrifying figure in the room while that figure originated from the interaction between REM sleep, waking consciousness and the brain's threat-detection systems rather than from an external supernatural presence. Within Fortean research, sleep paralysis therefore occupies an important boundary zone: it demonstrates how authentic, emotionally overwhelming experiences can become enduring ghost narratives without requiring deception or deliberate invention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/314103398_Sleep_Paralysis_The_Ghostly_Bedroom_Intruder_and_Out-of-Body_Experiences_The_Role_of_Mirror_Neurons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Sleep Paralysis, “The Ghostly Bedroom Intruder” and...28 Feb 2017 — Cheyne and Girard characterize felt presence (FP)...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LUiTB47kHBk" title="The Creepy Truth About Sleep Paralysis &amp; Shadow People" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LUiTB47kHBk" target="_blank" rel="noopener noreferrer">The Creepy Truth About Sleep Paralysis &amp; Shadow People</a></p><p class="youtube-embed-meta">Channel: The Edge Treatment Center</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LUiTB47kHBk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LUiTB47kHBk">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When a Bedroom Ghost May Be Sleep Paralysis. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When a Bedroom Ghost May Be Sleep Paralysis. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why We Sleep on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZlU3DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why We Sleep" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why We Sleep">Why We Sleep</a>
-        </h4>
-        <p class="fr-book-author">By Matthew Walker</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why We Sleep on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZlU3DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why We Sleep" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why We Sleep">Why We Sleep</a>
+</h4>
+<p class="fr-book-author">By Matthew Walker</p>
         
-        <p class="fr-book-desc">Provides accessible background on REM sleep and related phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides accessible background on REM sleep and related phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Encourages evidence-based interpretation of extraordinary experiences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages evidence-based interpretation of extraordinary experiences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hallucinations+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hallucinations on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10107284-M.jpg" alt="Cover for Hallucinations" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hallucinations+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hallucinations">Hallucinations</a>
-        </h4>
-        <p class="fr-book-author">By Oliver Sacks</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Hallucinations+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hallucinations on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10107284-M.jpg" alt="Cover for Hallucinations" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Hallucinations+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hallucinations">Hallucinations</a>
+</h4>
+<p class="fr-book-author">By Oliver Sacks</p>
         
-        <p class="fr-book-desc">First published 2012. Subjects: Hallucinations, Perceptual Disorders, Hallucinations and illusions, Cognition disorders, New York Times b...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hallucinations+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2012. Subjects: Hallucinations, Perceptual Disorders, Hallucinations and illusions, Cognition disorders, New York Times b...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Hallucinations+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Paranormality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12284173-M.jpg" alt="Cover for Paranormality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Paranormality">Paranormality</a>
-        </h4>
-        <p class="fr-book-author">By Richard Wiseman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Paranormality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12284173-M.jpg" alt="Cover for Paranormality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Paranormality">Paranormality</a>
+</h4>
+<p class="fr-book-author">By Richard Wiseman</p>
         
-        <p class="fr-book-desc">First published 2011. Subjects: Parapsychology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011. Subjects: Parapsychology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+We+Sleep&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why We Sleep</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hallucinations&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hallucinations</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+We+Sleep&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why We Sleep</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Hallucinations&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hallucinations</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HexBox Spirit Box Ghost Hunting Equipment AM FM Radio Scanner Paranormal ITC"><img src="{{ '/assets/images/marketplace-covers/d6dd7edad5dea306e788.jpg' | relative_url }}" alt="Listing image for HexBox Spirit Box Ghost Hunting Equipment AM FM Radio Scanner Paranormal ITC" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer">HexBox Spirit Box Ghost Hunting Equipment AM FM Radio Scanner Paranormal ITC</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost hunting equipment">Search <span data-ebay-domain-label>eBay.co.uk</span>: ghost hunting equipment</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HexBox Spirit Box Ghost Hunting Equipment AM FM Radio Scanner Paranormal ITC"><img src="{{ '/assets/images/marketplace-covers/d6dd7edad5dea306e788.jpg' | relative_url }}" alt="Listing image for HexBox Spirit Box Ghost Hunting Equipment AM FM Radio Scanner Paranormal ITC" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer">HexBox Spirit Box Ghost Hunting Equipment AM FM Radio Scanner Paranormal ITC</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost hunting equipment">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost hunting equipment</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LED EMF Meter Magnetic Field Detector Ghost Hunting Paranormal Equipment Tool"><img src="{{ '/assets/images/marketplace-covers/e23d48a6a558029d1fee.jpg' | relative_url }}" alt="Listing image for LED EMF Meter Magnetic Field Detector Ghost Hunting Paranormal Equipment Tool" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer">LED EMF Meter Magnetic Field Detector Ghost Hunting Paranormal Equipment Tool</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost hunting equipment">Search <span data-ebay-domain-label>eBay.co.uk</span>: ghost hunting equipment</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LED EMF Meter Magnetic Field Detector Ghost Hunting Paranormal Equipment Tool"><img src="{{ '/assets/images/marketplace-covers/e23d48a6a558029d1fee.jpg' | relative_url }}" alt="Listing image for LED EMF Meter Magnetic Field Detector Ghost Hunting Paranormal Equipment Tool" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer">LED EMF Meter Magnetic Field Detector Ghost Hunting Paranormal Equipment Tool</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost hunting equipment">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost hunting equipment</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HexBox Spirit Box Ghost Hunting Equipment AM FM Radio Scanner Paranormal ITC"><img src="{{ '/assets/images/marketplace-covers/dd7028a2e6a5372b45f2.jpg' | relative_url }}" alt="Listing image for HexBox Spirit Box Ghost Hunting Equipment AM FM Radio Scanner Paranormal ITC" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer">HexBox Spirit Box Ghost Hunting Equipment AM FM Radio Scanner Paranormal ITC</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost hunting equipment">Search <span data-ebay-domain-label>eBay.co.uk</span>: ghost hunting equipment</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HexBox Spirit Box Ghost Hunting Equipment AM FM Radio Scanner Paranormal ITC"><img src="{{ '/assets/images/marketplace-covers/dd7028a2e6a5372b45f2.jpg' | relative_url }}" alt="Listing image for HexBox Spirit Box Ghost Hunting Equipment AM FM Radio Scanner Paranormal ITC" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer">HexBox Spirit Box Ghost Hunting Equipment AM FM Radio Scanner Paranormal ITC</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost hunting equipment">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost hunting equipment</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HexCom - WordBank Word Generator Ghost Hunting Equipment Paranormal Kit EMF"><img src="{{ '/assets/images/marketplace-covers/7b176348381057a6cfde.jpg' | relative_url }}" alt="Listing image for HexCom - WordBank Word Generator Ghost Hunting Equipment Paranormal Kit EMF" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer">HexCom - WordBank Word Generator Ghost Hunting Equipment Paranormal Kit EMF</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost hunting equipment">Search <span data-ebay-domain-label>eBay.co.uk</span>: ghost hunting equipment</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HexCom - WordBank Word Generator Ghost Hunting Equipment Paranormal Kit EMF"><img src="{{ '/assets/images/marketplace-covers/7b176348381057a6cfde.jpg' | relative_url }}" alt="Listing image for HexCom - WordBank Word Generator Ghost Hunting Equipment Paranormal Kit EMF" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer">HexCom - WordBank Word Generator Ghost Hunting Equipment Paranormal Kit EMF</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost hunting equipment">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost hunting equipment</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="sleep-ghosts-when-a-bedroom-ghost-may-be-sleep-paralysis-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -562,7 +562,7 @@ For this reason, investigators of ghost reports increasingly distinguish between
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -582,7 +582,7 @@ For this reason, investigators of ghost reports increasingly distinguish between
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -614,7 +614,7 @@ For this reason, investigators of ghost reports increasingly distinguish between
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -666,7 +666,7 @@ For this reason, investigators of ghost reports increasingly distinguish between
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -711,7 +711,7 @@ For this reason, investigators of ghost reports increasingly distinguish between
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -752,151 +752,151 @@ For this reason, investigators of ghost reports increasingly distinguish between
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11344621/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11344621/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by V Bhalerao · 2024 · Cited by 10 — Sleep paralysis (SP) is a phenomenon wherein individuals awaken from deep sleep but are unable to...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11344621/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11344621/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by V Bhalerao · 2024 · Cited by 10 — Sleep paralysis (SP) is a phenomenon wherein individuals awaken from deep sleep but are unable to...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6082011/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6082011/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep Paralysis, a Medical Condition with a Diverse Cultural...by E Olunu · 2018 · Cited by 54 — This review aims to medically descri...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6082011/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6082011/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep Paralysis, a Medical Condition with a Diverse Cultural...by E Olunu · 2018 · Cited by 54 — This review aims to medically descri...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBISleep Paralysis  
-   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK562322/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK562322/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It tends...Read more...</p></details>
+   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK562322/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK562322/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It tends...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCNightmares or a crippling reality?  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12349844/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12349844/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A review on sleep paralysisby A Honnekeri · 2025 — SP is also largely associated with three types of hallucinations – the &#x27;intruder&#x27;, the...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12349844/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12349844/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A review on sleep paralysisby A Honnekeri · 2025 — SP is also largely associated with three types of hallucinations – the &#x27;intruder&#x27;, the...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/314103398_Sleep_Paralysis_The_Ghostly_Bedroom_Intruder_and_Out-of-Body_Experiences_The_Role_of_Mirror_Neurons" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/314103398_Sleep_Paralysis_The_Ghostly_Bedroom_Intruder_and_Out-of-Body_Experiences_The_Role_of_Mirror_Neurons</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Sleep Paralysis, “The Ghostly Bedroom Intruder” and...28 Feb 2017 — Cheyne and Girard characterize felt presence (FP)...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/314103398_Sleep_Paralysis_The_Ghostly_Bedroom_Intruder_and_Out-of-Body_Experiences_The_Role_of_Mirror_Neurons" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/314103398_Sleep_Paralysis_The_Ghostly_Bedroom_Intruder_and_Out-of-Body_Experiences_The_Role_of_Mirror_Neurons</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Sleep Paralysis, “The Ghostly Bedroom Intruder” and...28 Feb 2017 — Cheyne and Girard characterize felt presence (FP)...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: time.com  
-   Link: <a href="https://time.com/6259846/sleep-paralysis-ghosts/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6259846/sleep-paralysis-ghosts/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This state often leads to terrifying hallucinations, including ghostly [apparitions](&amp;#123;&amp;#123; &#x27;apparitions/&#x27; | relative_url &amp;#125;&amp;#125;). The brain paralyzes the body during REM sleep to prev...</p></details>
+   Link:<a href="https://time.com/6259846/sleep-paralysis-ghosts/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6259846/sleep-paralysis-ghosts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This state often leads to terrifying hallucinations, including ghostly [apparitions](&amp;#123;&amp;#123; &#x27;apparitions/&#x27; | relative_url &amp;#125;&amp;#125;). The brain paralyzes the body during REM sleep to prev...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCSleep paralysis and folklore  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5167075/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5167075/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The earliest reference to Lilith is found in the Sumerian King list of 2400 BC known as Lilitu...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5167075/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5167075/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The earliest reference to Lilith is found in the Sumerian King list of 2400 BC known as Lilitu...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: time.com  
-   Link: <a href="https://time.com/6952708/sleep-paralysis-around-the-world-essay/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6952708/sleep-paralysis-around-the-world-essay/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The condition occurs when there is a glitch at the transition between wakefulness and REM sleep, leaving individuals paralyzed and often...</p></details>
+   Link:<a href="https://time.com/6952708/sleep-paralysis-around-the-world-essay/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6952708/sleep-paralysis-around-the-world-essay/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The condition occurs when there is a glitch at the transition between wakefulness and REM sleep, leaving individuals paralyzed and often...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/282802121_Sleep_paralysis_and_folklore" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/282802121_Sleep_paralysis_and_folklore</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Sleep paralysis and folkloreSleep paralysis is a relatively new term to describe what for hundreds of years many believed to be a v...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/282802121_Sleep_paralysis_and_folklore" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/282802121_Sleep_paralysis_and_folklore</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Sleep paralysis and folkloreSleep paralysis is a relatively new term to describe what for hundreds of years many believed to be a v...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/384269326_Universal_Sleep_Paralysis_Hallucinations_A_Systematic_Literature_Review_of_Associations_Characteristics_and_Explanations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/384269326_Universal_Sleep_Paralysis_Hallucinations_A_Systematic_Literature_Review_of_Associations_Characteristics_and_Explanations</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Universal Sleep Paralysis Hallucinations24 Sept 2024 — This review investigates and accesses associations, characteristics, and pos...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/384269326_Universal_Sleep_Paralysis_Hallucinations_A_Systematic_Literature_Review_of_Associations_Characteristics_and_Explanations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/384269326_Universal_Sleep_Paralysis_Hallucinations_A_Systematic_Literature_Review_of_Associations_Characteristics_and_Explanations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Universal Sleep Paralysis Hallucinations24 Sept 2024 — This review investigates and accesses associations, characteristics, and pos...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: thecut.com  
    Title: The Cut Why Is Sleep Paralysis So Terrifying?  
-   Link: <a href="https://www.thecut.com/article/what-is-sleep-paralysis-symptoms-causes-how-to-prevent.html" target="_blank" rel="noopener noreferrer nofollow">https://www.thecut.com/article/what-is-sleep-paralysis-symptoms-causes-how-to-prevent.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It affects around 7.6% of the U.S. population. During sleep paralysis, some people report seeing hallucinations, often of shadowy or demo...</p></details>
+   Link:<a href="https://www.thecut.com/article/what-is-sleep-paralysis-symptoms-causes-how-to-prevent.html" target="_blank" rel="noopener noreferrer nofollow">https://www.thecut.com/article/what-is-sleep-paralysis-symptoms-causes-how-to-prevent.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It affects around 7.6% of the U.S. population. During sleep paralysis, some people report seeing hallucinations, often of shadowy or demo...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10902800/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10902800/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It may be combined with stress and depression and may be combined...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10902800/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10902800/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It may be combined with stress and depression and may be combined...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9704722/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9704722/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>incubus phenomenon: Prevalence, frequency and risk...by ML Molendijk · 2022 · Cited by 15 — The incubus phenomenon is a paroxysmal sleep...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9704722/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9704722/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>incubus phenomenon: Prevalence, frequency and risk...by ML Molendijk · 2022 · Cited by 15 — The incubus phenomenon is a paroxysmal sleep...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6208952/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6208952/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>neuropharmacology of sleep paralysis hallucinations - PMCby B Jalal · 2018 · Cited by 72 — Moreover, like hallucinogenic drugs, sleep par...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6208952/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6208952/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>neuropharmacology of sleep paralysis hallucinations - PMCby B Jalal · 2018 · Cited by 72 — Moreover, like hallucinogenic drugs, sleep par...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Incubus" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Incubus</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IncubusHistorically, folkloric belief in incubi was motivated by distressing nighttime phenomena, chiefly wet dreams and sleep paralys...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Incubus" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Incubus</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IncubusHistorically, folkloric belief in incubi was motivated by distressing nighttime phenomena, chiefly wet dreams and sleep paralys...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/[psychology" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/[psychology</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Focused-Attention Meditation Combined with Muscle Relaxation (MR Therapy)—A Direct Treatment...Read more...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/[psychology" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/[psychology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Focused-Attention Meditation Combined with Muscle Relaxation (MR Therapy)—A Direct Treatment...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.01294/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.01294/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cheyne et al. (1999) observed a correlation between types (a)...Read more...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.01294/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.01294/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cheyne et al. (1999) observed a correlation between types (a)...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: mostwiedzy.pl  
    Title: Sleep Paralysis  
-   Link: <a href="https://mostwiedzy.pl/pl/publication/download/0/sleep-paralysis-cultural-significance-and-its-management_202301091537292501531.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mostwiedzy.pl/pl/publication/download/0/sleep-paralysis-cultural-significance-and-its-management_202301091537292501531.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cultural Significance and Its Management.by JA SIDDIQUI · 2019 · Cited by 1 — SP is misinterpreted in societies for not only delusions of...</p></details>
+   Link:<a href="https://mostwiedzy.pl/pl/publication/download/0/sleep-paralysis-cultural-significance-and-its-management_202301091537292501531.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mostwiedzy.pl/pl/publication/download/0/sleep-paralysis-cultural-significance-and-its-management_202301091537292501531.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cultural Significance and Its Management.by JA SIDDIQUI · 2019 · Cited by 1 — SP is misinterpreted in societies for not only delusions of...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: study.com  
-   Link: <a href="https://study.com/academy/lesson/incubus-overview-legends-facts.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/incubus-overview-legends-facts.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Incubus Legends, Descriptions &amp; ExplanationsAn incubus is an evil spirit or demon who appears in the masculine form to sexually prey on s...</p></details>
+   Link:<a href="https://study.com/academy/lesson/incubus-overview-legends-facts.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/incubus-overview-legends-facts.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Incubus Legends, Descriptions &amp; ExplanationsAn incubus is an evil spirit or demon who appears in the masculine form to sexually prey on s...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: dreamstudies.org  
-   Link: <a href="https://dreamstudies.org/the-ghosts-goblins-and-vampires-of-sleep-paralysis/" target="_blank" rel="noopener noreferrer nofollow">https://dreamstudies.org/the-ghosts-goblins-and-vampires-of-sleep-paralysis/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>They often are first seen in doorways... These demons were known as the Incubus (male) and the Succubus (female).Read more...</p></details>
+   Link:<a href="https://dreamstudies.org/the-ghosts-goblins-and-vampires-of-sleep-paralysis/" target="_blank" rel="noopener noreferrer nofollow">https://dreamstudies.org/the-ghosts-goblins-and-vampires-of-sleep-paralysis/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>They often are first seen in doorways... These demons were known as the Incubus (male) and the Succubus (female).Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: clinicaltrials.gov  
-   Link: <a href="https://clinicaltrials.gov/study/NCT04483310" target="_blank" rel="noopener noreferrer nofollow">https://clinicaltrials.gov/study/NCT04483310</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Meditation Relaxation therapy for Sleep Paralyses in patients with...Read more...</p></details>
+   Link:<a href="https://clinicaltrials.gov/study/NCT04483310" target="_blank" rel="noopener noreferrer nofollow">https://clinicaltrials.gov/study/NCT04483310</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Meditation Relaxation therapy for Sleep Paralyses in patients with...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/40425427/Sleep_Paralysis_Cultural_Significance_and_Its_Management" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/40425427/Sleep_Paralysis_Cultural_Significance_and_Its_Management</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>st relevant to practitioners; also summarizes the many historical and artistic...Read more...</p></details>
+   Link:<a href="https://www.academia.edu/40425427/Sleep_Paralysis_Cultural_Significance_and_Its_Management" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/40425427/Sleep_Paralysis_Cultural_Significance_and_Its_Management</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>st relevant to practitioners; also summarizes the many historical and artistic...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: mythfolks.com  
-   Link: <a href="https://www.mythfolks.com/sleep-paralysis-folklore" target="_blank" rel="noopener noreferrer nofollow">https://www.mythfolks.com/sleep-paralysis-folklore</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep paralysis folklore &amp; nightmare creatures around the...Dec 8, 2024 — Learn how cultures around the world have sought to explain sle...</p></details>
+   Link:<a href="https://www.mythfolks.com/sleep-paralysis-folklore" target="_blank" rel="noopener noreferrer nofollow">https://www.mythfolks.com/sleep-paralysis-folklore</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep paralysis folklore &amp; nightmare creatures around the...Dec 8, 2024 — Learn how cultures around the world have sought to explain sle...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: ubiehealth.com  
    Title: sleep paralysis hallucinations causes eval when 37122e3  
-   Link: <a href="https://ubiehealth.com/doctors-note/sleep-paralysis-hallucinations-causes-eval-when-37122e3" target="_blank" rel="noopener noreferrer nofollow">https://ubiehealth.com/doctors-note/sleep-paralysis-hallucinations-causes-eval-when-37122e3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep Paralysis Hallucinations: Why They Happen &amp; When to...Jan 16, 2026 — Sleep paralysis hallucinations happen when REM sleep&#x27;s muscle...</p></details>
+   Link:<a href="https://ubiehealth.com/doctors-note/sleep-paralysis-hallucinations-causes-eval-when-37122e3" target="_blank" rel="noopener noreferrer nofollow">https://ubiehealth.com/doctors-note/sleep-paralysis-hallucinations-causes-eval-when-37122e3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep Paralysis Hallucinations: Why They Happen &amp; When to...Jan 16, 2026 — Sleep paralysis hallucinations happen when REM sleep&#x27;s muscle...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: ubiehealth.com  
    Title: Sleep paralysis hallucinations aren't random—here's  
-   Link: <a href="https://ubiehealth.com/doctors-note/sleep-paralysis-hallucination-trigger-cause-37-why122e3" target="_blank" rel="noopener noreferrer nofollow">https://ubiehealth.com/doctors-note/sleep-paralysis-hallucination-trigger-cause-37-why122e3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ubie18 Jan 2026 — Sleep paralysis hallucinations stem from REM intrusion, sensory mismatches, and threat-oriented brain activity, and the...</p></details>
+   Link:<a href="https://ubiehealth.com/doctors-note/sleep-paralysis-hallucination-trigger-cause-37-why122e3" target="_blank" rel="noopener noreferrer nofollow">https://ubiehealth.com/doctors-note/sleep-paralysis-hallucination-trigger-cause-37-why122e3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ubie18 Jan 2026 — Sleep paralysis hallucinations stem from REM intrusion, sensory mismatches, and threat-oriented brain activity, and the...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: boisestate.edu  
-   Link: <a href="https://www.boisestate.edu/presidents-writing-awards/the-science-behind-sleep-paralysis/" target="_blank" rel="noopener noreferrer nofollow">https://www.boisestate.edu/presidents-writing-awards/the-science-behind-sleep-paralysis/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The hallucinations accompanying the sleep paralysis are “identical...Read...</p></details>
+   Link:<a href="https://www.boisestate.edu/presidents-writing-awards/the-science-behind-sleep-paralysis/" target="_blank" rel="noopener noreferrer nofollow">https://www.boisestate.edu/presidents-writing-awards/the-science-behind-sleep-paralysis/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The hallucinations accompanying the sleep paralysis are “identical...Read...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/281886105961506/posts/1792655881551180/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/281886105961506/posts/1792655881551180/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Many cultures describe experiences where a malevolent, old...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/281886105961506/posts/1792655881551180/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/281886105961506/posts/1792655881551180/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Many cultures describe experiences where a malevolent, old...Read more...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/LucidDreaming/comments/153jlbg/hallucination_during_sleep_paralysis_anyone_else/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/LucidDreaming/comments/153jlbg/hallucination_during_sleep_paralysis_anyone_else/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>d a guide for how to calm yourself down during SP and as...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/LucidDreaming/comments/153jlbg/hallucination_during_sleep_paralysis_anyone_else/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/LucidDreaming/comments/153jlbg/hallucination_during_sleep_paralysis_anyone_else/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>d a guide for how to calm yourself down during SP and as...Read more...</p></details>

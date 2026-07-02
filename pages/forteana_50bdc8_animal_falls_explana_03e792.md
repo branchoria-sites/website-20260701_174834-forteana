@@ -441,17 +441,17 @@ image: /assets/images/forteana_50bdc8_animal_falls_explana_03e792-overview-socia
 
 ## Introduction
 
-Yes: fish, frogs and other small animals can plausibly fall from the sky, but the useful answer is less magical than the classic Fortean image suggests. The strongest [ordinary explanations]({{ 'ordinary-causes/' | relative_url }}) are selective lifting by storm updraughts or tornadic [waterspouts]({{ 'waterspouts/' | relative_url }}), local flooding and wind scattering, animals emerging after rain, and, in some fish cases, birds dropping or regurgitating prey. The mystery usually begins because witnesses see the last stage — animals suddenly on roads, roofs, gardens or pavements — rather than the earlier stage that moved them there. The Library of Congress notes that scientists commonly point to tornadic waterspouts as a plausible mechanism for some fish and frog falls, while NOAA distinguishes these dangerous thunderstorm-linked waterspouts from weaker fair-weather waterspouts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/meteorology-climatology/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">Most scientists agree that salt, stones, fish, or frogs can be</span><span class="citation-popover-snippet">The Library of CongressCan it rain frogs, fish, and other objects?Many scientists believe tornadic waterspouts may be responsible for fro...</span></span></span>
+Yes: fish, frogs and other small animals can plausibly fall from the sky, but the useful answer is less magical than the classic Fortean image suggests. The strongest [ordinary explanations]({{ 'ordinary-causes/' | relative_url }}) are selective lifting by storm updraughts or tornadic [waterspouts]({{ 'waterspouts/' | relative_url }}), local flooding and wind scattering, animals emerging after rain, and, in some fish cases, birds dropping or regurgitating prey. The mystery usually begins because witnesses see the last stage — animals suddenly on roads, roofs, gardens or pavements — rather than the earlier stage that moved them there. The Library of Congress notes that scientists commonly point to tornadic waterspouts as a plausible mechanism for some fish and frog falls, while NOAA distinguishes these dangerous thunderstorm-linked waterspouts from weaker fair-weather waterspouts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/meteorology-climatology/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">Most scientists agree that salt, stones, fish, or frogs can be</span><span class="citation-popover-snippet">The Library of CongressCan it rain frogs, fish, and other objects?Many scientists believe tornadic waterspouts may be responsible for fro...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_animal_falls_explana_03e792-overview.webp" | relative_url }}" alt="Overview image for Animal Falls" loading="eager" decoding="sync" fetchpriority="high">
-Animal falls remain one of the most recognisable forms of [Forteana]({{ 'forteana/' | relative_url }}) because they sit in a perfect middle zone: strange enough to feel impossible, physical enough to leave bodies on the ground, and ordinary enough that weather, animals and human reporting can often explain them without erasing their oddness. [Charles Fort]({{ 'charles-fort/' | relative_url }})’s *The Book of the Damned* helped make rains of frogs, fish and other “falls” part of the Fortean canon, and later summaries of Forteana still list anomalous falls from the sky as a central category. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/ebooks/22472" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Fort catalogs anomalous phenomena that mainstream science has excluded or...Read more...</span></span></span>
+Animal falls remain one of the most recognisable forms of [Forteana]({{ 'forteana/' | relative_url }}) because they sit in a perfect middle zone: strange enough to feel impossible, physical enough to leave bodies on the ground, and ordinary enough that weather, animals and human reporting can often explain them without erasing their oddness. [Charles Fort]({{ 'charles-fort/' | relative_url }})’s *The Book of the Damned* helped make rains of frogs, fish and other “falls” part of the Fortean canon, and later summaries of Forteana still list anomalous falls from the sky as a central category.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/ebooks/22472" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Fort catalogs anomalous phenomena that mainstream science has excluded or...Read more...</span></span></span>
 
 ## What witnesses usually report
 
 The typical animal-fall report is not a scientist watching fish rise from a pond into a funnel cloud. It is a resident, driver, shopkeeper or farm worker noticing small creatures during or just after rain: fish on a street, frogs on a path, worms on a pavement, or birds dropping suddenly across a neighbourhood. That matters because the [observation]({{ 'observation/' | relative_url }}) is often real while the implied story — that the animals formed in the clouds or travelled a long distance through the sky — may be an inference.
 
-Several details recur in credible and semi-credible reports. The animals are usually small, light and numerous. They are often all of one kind, such as tiny fish or frogs, rather than a random scoop of pond life. The event is often associated with storms, heavy rain, gust fronts or recent flooding. In older accounts, the precise time, weather radar, species identification and collection records are often missing, which makes later assessment difficult. The Library of Congress’s overview, for example, treats the phenomenon as rare but physically possible, while also presenting it through reported cases and explanatory hypotheses rather than as a routinely observed meteorological process. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/meteorology-climatology/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">Most scientists agree that salt, stones, fish, or frogs can be</span><span class="citation-popover-snippet">The Library of CongressCan it rain frogs, fish, and other objects?Many scientists believe tornadic waterspouts may be responsible for fro...</span></span></span>
+Several details recur in credible and semi-credible reports. The animals are usually small, light and numerous. They are often all of one kind, such as tiny fish or frogs, rather than a random scoop of pond life. The event is often associated with storms, heavy rain, gust fronts or recent flooding. In older accounts, the precise time, weather radar, species identification and collection records are often missing, which makes later assessment difficult. The Library of Congress’s overview, for example, treats the phenomenon as rare but physically possible, while also presenting it through reported cases and explanatory hypotheses rather than as a routinely observed meteorological process.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/meteorology-climatology/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">Most scientists agree that salt, stones, fish, or frogs can be</span><span class="citation-popover-snippet">The Library of CongressCan it rain frogs, fish, and other objects?Many scientists believe tornadic waterspouts may be responsible for fro...</span></span></span>
 
 That gap between the seen and the unseen is where the Fortean charge comes from. “Fish on the ground after a storm” is a fact that can be photographed. “Fish were sucked from a lake and carried over town” is a proposed mechanism. The best investigations keep those two claims separate. A report becomes stronger when there are many independent witnesses, animals are found on roofs or in truck beds rather than only beside drains, the species is identified, and local weather and animal behaviour are checked.
 
@@ -461,9 +461,9 @@ The opposite is also true. A report becomes weaker when the animals could have w
 <img src="{{ "/assets/images/forteana_50bdc8_animal_falls_explana_03e792-Illustration-1-dark.svg" | relative_url }}" alt="Animal Falls illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_animal_falls_explana_03e792-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_animal_falls_explana_03e792-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Waterspouts, storms and animals
 
-The most familiar ordinary explanation is the waterspout. In simple terms, a waterspout is a rotating column of air over water. NOAA explains that waterspouts come in two broad types: tornadic waterspouts, which develop downward from thunderstorms, and fair-weather waterspouts, which begin near the water surface and work upward under developing cumulus clouds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oceanservice.noaa.gov/facts/waterspout.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oceanservice.noaa.gov">[National Ocean Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oceanservice.noaa.gov</span><span class="citation-popover-snippet">National Ocean ServiceWhat is a waterspout?16 Jun 2024 — While tornadic waterspouts develop downward in a thunderstorm, a fair weather wa...</span></span></span>
+The most familiar ordinary explanation is the waterspout. In simple terms, a waterspout is a rotating column of air over water. NOAA explains that waterspouts come in two broad types: tornadic waterspouts, which develop downward from thunderstorms, and fair-weather waterspouts, which begin near the water surface and work upward under developing cumulus clouds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://oceanservice.noaa.gov/facts/waterspout.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oceanservice.noaa.gov">[National Ocean Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oceanservice.noaa.gov</span><span class="citation-popover-snippet">National Ocean ServiceWhat is a waterspout?16 Jun 2024 — While tornadic waterspouts develop downward in a thunderstorm, a fair weather wa...</span></span></span>
 
-For animal falls, the more relevant candidate is usually the tornadic or storm-related version, because it has stronger updraughts and is connected with severe weather. The basic idea is straightforward: a vortex or intense updraught passes over shallow water, a pond edge, a flooded field or a concentrated school of small fish, lifts some of the contents, carries them for a short distance, and drops them when the circulation weakens. The Library of Congress cites the view that tornadic waterspouts may lift frogs, fish and other small objects, and notes a Purdue meteorologist’s comment that small ponds can be emptied by passing tornadoes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/meteorology-climatology/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">Most scientists agree that salt, stones, fish, or frogs can be</span><span class="citation-popover-snippet">The Library of CongressCan it rain frogs, fish, and other objects?Many scientists believe tornadic waterspouts may be responsible for fro...</span></span></span>
+For animal falls, the more relevant candidate is usually the tornadic or storm-related version, because it has stronger updraughts and is connected with severe weather. The basic idea is straightforward: a vortex or intense updraught passes over shallow water, a pond edge, a flooded field or a concentrated school of small fish, lifts some of the contents, carries them for a short distance, and drops them when the circulation weakens. The Library of Congress cites the view that tornadic waterspouts may lift frogs, fish and other small objects, and notes a Purdue meteorologist’s comment that small ponds can be emptied by passing tornadoes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/meteorology-climatology/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">Most scientists agree that salt, stones, fish, or frogs can be</span><span class="citation-popover-snippet">The Library of CongressCan it rain frogs, fish, and other objects?Many scientists believe tornadic waterspouts may be responsible for fro...</span></span></span>
 
 This explanation is plausible, but it is not a magic key for every case. It has limits:
 
@@ -484,11 +484,11 @@ That last point is important because popular [retellings]({{ 'retellings/' | rel
 
 ## When the fish did fall: Texarkana as a modern test case
 
-The December 2021 fish fall in Texarkana, Texas, is valuable because it shows how an animal-fall case can move from instant folklore to evidence-based sorting. Residents reported fish on streets and properties during a storm, and early public explanations leaned towards the standard waterspout idea. Local reporting and city statements treated it as an uncommon but real example of “animal rain”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wdbj7.com/2021/12/30/fish-fall-sky-during-rainstorm-eastern-texas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wdbj7.com">[https://www.wdbj7.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wdbj7.com</span><span class="citation-popover-snippet">Open source on wdbj7.com.</span></span></span>
+The December 2021 fish fall in Texarkana, Texas, is valuable because it shows how an animal-fall case can move from instant folklore to evidence-based sorting. Residents reported fish on streets and properties during a storm, and early public explanations leaned towards the standard waterspout idea. Local reporting and city statements treated it as an uncommon but real example of “animal rain”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wdbj7.com/2021/12/30/fish-fall-sky-during-rainstorm-eastern-texas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wdbj7.com">[https://www.wdbj7.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wdbj7.com</span><span class="citation-popover-snippet">Open source on wdbj7.com.</span></span></span>
 
-Later investigation complicated that neat explanation. Independent researchers Paul Cropper and Sharon A. Hill collected witness accounts, photographs and video evidence, and obtained help identifying the fish. Hill reports that the fish were identified as gizzard shad and showed signs consistent with partial digestion. The researchers argued that the best explanation was not a waterspout but birds, probably cormorants, regurgitating fish while caught in storm conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sharonahill.com/texarkana-fish-rain-mystery-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sharonahill.com">[Sharon A. Hill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sharonahill.com</span><span class="citation-popover-title">Sharon A. Hill Texarkana Fish Rain Mystery Solved &#124; Sharon A. Hill</span><span class="citation-popover-snippet">Sharon A. Hill Texarkana Fish Rain Mystery Solved &#124; Sharon A. Hill</span></span></span>
+Later investigation complicated that neat explanation. Independent researchers Paul Cropper and Sharon A. Hill collected witness accounts, photographs and video evidence, and obtained help identifying the fish. Hill reports that the fish were identified as gizzard shad and showed signs consistent with partial digestion. The researchers argued that the best explanation was not a waterspout but birds, probably cormorants, regurgitating fish while caught in storm conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sharonahill.com/texarkana-fish-rain-mystery-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sharonahill.com">[Sharon A. Hill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sharonahill.com</span><span class="citation-popover-title">Sharon A. Hill Texarkana Fish Rain Mystery Solved &#124; Sharon A. Hill</span><span class="citation-popover-snippet">Sharon A. Hill Texarkana Fish Rain Mystery Solved &#124; Sharon A. Hill</span></span></span>
 
-The case is especially useful because it did not simply debunk the fall. Some evidence supported actual descent from above: fish were reportedly found on roofs, in truck beds and on exposed surfaces where simple flooding was hard to reconcile. The question shifted from “Did fish appear?” to “What lifted or dropped them?” In that sense, Texarkana is a model Fortean case: the event was strange, the first explanation was plausible but too broad, and a more specific ordinary mechanism emerged when species, condition, weather and local wildlife were examined. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sharonahill.com/texarkana-fish-rain-mystery-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sharonahill.com">[Sharon A. Hill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sharonahill.com</span><span class="citation-popover-title">Sharon A. Hill Texarkana Fish Rain Mystery Solved &#124; Sharon A. Hill</span><span class="citation-popover-snippet">Sharon A. Hill Texarkana Fish Rain Mystery Solved &#124; Sharon A. Hill</span></span></span>
+The case is especially useful because it did not simply debunk the fall. Some evidence supported actual descent from above: fish were reportedly found on roofs, in truck beds and on exposed surfaces where simple flooding was hard to reconcile. The question shifted from “Did fish appear?” to “What lifted or dropped them?” In that sense, Texarkana is a model Fortean case: the event was strange, the first explanation was plausible but too broad, and a more specific ordinary mechanism emerged when species, condition, weather and local wildlife were examined.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sharonahill.com/texarkana-fish-rain-mystery-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sharonahill.com">[Sharon A. Hill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sharonahill.com</span><span class="citation-popover-title">Sharon A. Hill Texarkana Fish Rain Mystery Solved &#124; Sharon A. Hill</span><span class="citation-popover-snippet">Sharon A. Hill Texarkana Fish Rain Mystery Solved &#124; Sharon A. Hill</span></span></span>
 
 It also shows why animal falls should not be treated as a single phenomenon. “Fish fell from the sky” can describe several mechanisms: storm uplift from water, birds dropping prey, human dumping, flooding, or a mixture of wind and misperception. The phrase is vivid, but it hides the investigative work.
 
@@ -496,7 +496,7 @@ It also shows why animal falls should not be treated as a single phenomenon. “
 <img src="{{ "/assets/images/forteana_50bdc8_animal_falls_explana_03e792-Illustration-2-dark.svg" | relative_url }}" alt="Animal Falls illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_animal_falls_explana_03e792-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_animal_falls_explana_03e792-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Older fish rains and the problem of partial evidence
 
-The classic Marksville, Louisiana fish fall of 23 October 1947 shows both the appeal and the difficulty of older cases. A short 1949 notice by A. D. Bajkov in *Science* is indexed by PubMed under the title “Do Fish Fall from the Sky?”, and later summaries identify Marksville as one of the better-known American fish-fall reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/17749958/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+The classic Marksville, Louisiana fish fall of 23 October 1947 shows both the appeal and the difficulty of older cases. A short 1949 notice by A. D. Bajkov in *Science* is indexed by PubMed under the title “Do Fish Fall from the Sky?”, and later summaries identify Marksville as one of the better-known American fish-fall reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/17749958/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
 The case is memorable because it was not just a rumour retold from centuries past. It involved named observation, a date, a location and later discussion in scientific and popular sources. But it also illustrates why old animal-fall accounts rarely settle the question. Weather records may be incomplete by modern standards, photographs may be absent, species evidence may not have been preserved, and the most dramatic part of the event may rest on retrospective testimony.
 
@@ -506,7 +506,7 @@ That does not make such cases worthless. They are useful as case-family evidence
 
 Frog and toad falls are a slightly different problem from fish falls. Amphibians already behave in ways that can fool observers. After heavy rain, tiny frogs and toads may emerge in large numbers, move across roads and pavements, or appear suddenly from damp cover. A person who steps outside after a storm and sees the ground alive with small frogs may honestly describe it as though they “rained down”, even if many emerged from nearby habitat.
 
-This does not rule out wind transport. Small frogs are light, and powerful winds can move living creatures as well as leaves, water and debris. But frog reports need careful handling because there are several ordinary routes to the same visual result. The Library of Congress includes frogs among the animals that may be pulled into storm updraughts, while sceptical discussion of Fortean frog falls stresses that lack of direct observation of the lifting stage is not surprising during dangerous storm conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/meteorology-climatology/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">Most scientists agree that salt, stones, fish, or frogs can be</span><span class="citation-popover-snippet">The Library of CongressCan it rain frogs, fish, and other objects?Many scientists believe tornadic waterspouts may be responsible for fro...</span></span></span>
+This does not rule out wind transport. Small frogs are light, and powerful winds can move living creatures as well as leaves, water and debris. But frog reports need careful handling because there are several ordinary routes to the same visual result. The Library of Congress includes frogs among the animals that may be pulled into storm updraughts, while sceptical discussion of Fortean frog falls stresses that lack of direct observation of the lifting stage is not surprising during dangerous storm conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/meteorology-climatology/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">Most scientists agree that salt, stones, fish, or frogs can be</span><span class="citation-popover-snippet">The Library of CongressCan it rain frogs, fish, and other objects?Many scientists believe tornadic waterspouts may be responsible for fro...</span></span></span>
 
 The most convincing frog-fall cases would therefore need more than “many frogs appeared after rain”. Useful details would include frogs landing on people or roofs, a narrow fall path, clear timing during gusts, absence of nearby breeding habitat, and specimens collected immediately after the event. Without those details, a frog fall may still be an interesting local story, but the simplest explanation may be mass emergence after rain rather than aerial transport.
 
@@ -517,7 +517,7 @@ The most convincing frog-fall cases would therefore need more than “many frogs
 
 Animal falls survive as Fortean stories because explanation does not remove the surprise. A waterspout lifting fish is ordinary physics, but it is still an extraordinary thing to witness. Birds vomiting fish during a storm is ordinary biology, but it may look more uncanny than a textbook waterspout. Frogs emerging all at once after rain is ordinary animal behaviour, but to a witness it can feel like the ground has been transformed in minutes.
 
-The fascination also comes from how these cases expose the messy boundary between evidence and interpretation. A witness may be right that fish were on the roof. A city may be right that “animal rain” is a known rare phenomenon. A journalist may be right that a storm had passed. Yet the first explanation repeated by everyone may still be wrong. Texarkana’s shift from “probably waterspout” to “probably bird regurgitation” is a reminder that ordinary explanations compete with each other; scepticism is not just choosing the least strange answer, but choosing the answer that best fits the details. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sharonahill.com/texarkana-fish-rain-mystery-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sharonahill.com">[Sharon A. Hill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sharonahill.com</span><span class="citation-popover-title">Sharon A. Hill Texarkana Fish Rain Mystery Solved &#124; Sharon A. Hill</span><span class="citation-popover-snippet">Sharon A. Hill Texarkana Fish Rain Mystery Solved &#124; Sharon A. Hill</span></span></span>
+The fascination also comes from how these cases expose the messy boundary between evidence and interpretation. A witness may be right that fish were on the roof. A city may be right that “animal rain” is a known rare phenomenon. A journalist may be right that a storm had passed. Yet the first explanation repeated by everyone may still be wrong. Texarkana’s shift from “probably waterspout” to “probably bird regurgitation” is a reminder that ordinary explanations compete with each other; scepticism is not just choosing the least strange answer, but choosing the answer that best fits the details.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sharonahill.com/texarkana-fish-rain-mystery-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sharonahill.com">[Sharon A. Hill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sharonahill.com</span><span class="citation-popover-title">Sharon A. Hill Texarkana Fish Rain Mystery Solved &#124; Sharon A. Hill</span><span class="citation-popover-snippet">Sharon A. Hill Texarkana Fish Rain Mystery Solved &#124; Sharon A. Hill</span></span></span>
 
 That is why animal falls belong so naturally within Forteana. They are not strong evidence for paranormal forces, but they are strong evidence that the world can generate events which feel paranormal before they are investigated. They also show why Charles Fort’s challenge still has some bite even when his speculations do not. Fort was interested in reports that seemed too odd, too embarrassing or too inconvenient for tidy categories. Animal falls remain useful because they reward neither gullibility nor instant [dismissal]({{ 'dismissal/' | relative_url }}). They ask for the slower habit of looking: What exactly was seen? What else was happening? What ordinary process could produce such an unlikely scene?
 
@@ -546,194 +546,194 @@ These questions do not make the story dull. They make it sharper. A vague marvel
 <img src="{{ "/assets/images/forteana_50bdc8_animal_falls_explana_03e792-Illustration-3-dark.svg" | relative_url }}" alt="Animal Falls illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_animal_falls_explana_03e792-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_animal_falls_explana_03e792-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Fish and Frogs Really Fall From the Sky?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Fish and Frogs Really Fall From the Sky?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
-        </h4>
-        <p class="fr-book-author">By Charles Fort</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
+</h4>
+<p class="fr-book-author">By Charles Fort</p>
         
-        <p class="fr-book-desc">Introduced famous accounts of animal falls and anomalous rains.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduced famous accounts of animal falls and anomalous rains.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+Books+of+Charles+Fort+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete Books of Charles Fort on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NaFUhCtOCb4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Complete Books of Charles Fort" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Complete+Books+of+Charles+Fort+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Books of Charles Fort">The Complete Books of Charles Fort</a>
-        </h4>
-        <p class="fr-book-author">By Charles Fort</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+Books+of+Charles+Fort+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete Books of Charles Fort on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NaFUhCtOCb4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Complete Books of Charles Fort" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Complete+Books+of+Charles+Fort+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Books of Charles Fort">The Complete Books of Charles Fort</a>
+</h4>
+<p class="fr-book-author">By Charles Fort</p>
         
-        <p class="fr-book-desc">Collects Fort&#x27;s major discussions of anomalous falls and reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Complete+Books+of+Charles+Fort+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Collects Fort&#x27;s major discussions of anomalous falls and reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Complete+Books+of+Charles+Fort+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Explores why remarkable stories and beliefs persist across generations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Explores why remarkable stories and beliefs persist across generations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mysteries of the Unexplained on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysteries of the Unexplained">Mysteries of the Unexplained</a>
-        </h4>
-        <p class="fr-book-author">By Reader&#x27;s Digest Association</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mysteries of the Unexplained on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysteries of the Unexplained">Mysteries of the Unexplained</a>
+</h4>
+<p class="fr-book-author">By Reader&#x27;s Digest Association</p>
         
-        <p class="fr-book-desc">First published 1985.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1985.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Complete+Books+of+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Complete Books of Charles Fort</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Complete+Books+of+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Complete Books of Charles Fort</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Grinder fish rain clouds Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/9f733ce224aa6b0a4349.jpg' | relative_url }}" alt="Listing image for The Grinder fish rain clouds Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">The Grinder fish rain clouds Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Grinder fish rain clouds Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/9f733ce224aa6b0a4349.jpg' | relative_url }}" alt="Listing image for The Grinder fish rain clouds Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">The Grinder fish rain clouds Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Man Monochrome Rain Rainy Cloudy Walk Walking Behind Back Fish Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/27ff5433e18ed337d089.jpg' | relative_url }}" alt="Listing image for Man Monochrome Rain Rainy Cloudy Walk Walking Behind Back Fish Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">Man Monochrome Rain Rainy Cloudy Walk Walking Behind Back Fish Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Man Monochrome Rain Rainy Cloudy Walk Walking Behind Back Fish Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/27ff5433e18ed337d089.jpg' | relative_url }}" alt="Listing image for Man Monochrome Rain Rainy Cloudy Walk Walking Behind Back Fish Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">Man Monochrome Rain Rainy Cloudy Walk Walking Behind Back Fish Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print"><img src="{{ '/assets/images/marketplace-covers/c7769be80584af0e631f.jpg' | relative_url }}" alt="Listing image for Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print"><img src="{{ '/assets/images/marketplace-covers/c7769be80584af0e631f.jpg' | relative_url }}" alt="Listing image for Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print Fish Man Human Rain Umbrella Weird Strange Funny Ironic Out Of Water"><img src="{{ '/assets/images/marketplace-covers/83ba5668697ac14b9dab.jpg' | relative_url }}" alt="Listing image for Art Print Fish Man Human Rain Umbrella Weird Strange Funny Ironic Out Of Water" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">Art Print Fish Man Human Rain Umbrella Weird Strange Funny Ironic Out Of Water</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print Fish Man Human Rain Umbrella Weird Strange Funny Ironic Out Of Water"><img src="{{ '/assets/images/marketplace-covers/83ba5668697ac14b9dab.jpg' | relative_url }}" alt="Listing image for Art Print Fish Man Human Rain Umbrella Weird Strange Funny Ironic Out Of Water" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">Art Print Fish Man Human Rain Umbrella Weird Strange Funny Ironic Out Of Water</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="animal-falls-can-fish-and-frogs-really-fall-from-the-sky-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -749,7 +749,7 @@ These questions do not make the story dull. They make it sharper. A vague marvel
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -769,7 +769,7 @@ These questions do not make the story dull. They make it sharper. A vague marvel
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -801,7 +801,7 @@ These questions do not make the story dull. They make it sharper. A vague marvel
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -853,7 +853,7 @@ These questions do not make the story dull. They make it sharper. A vague marvel
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -898,7 +898,7 @@ These questions do not make the story dull. They make it sharper. A vague marvel
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -939,163 +939,163 @@ These questions do not make the story dull. They make it sharper. A vague marvel
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: oceanservice.noaa.gov  
-   Link: <a href="https://oceanservice.noaa.gov/facts/waterspout.html" target="_blank" rel="noopener noreferrer nofollow">https://oceanservice.noaa.gov/facts/waterspout.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Ocean ServiceWhat is a waterspout?16 Jun 2024 — While tornadic waterspouts develop downward in a thunderstorm, a fair weather wa...</p></details>
+   Link:<a href="https://oceanservice.noaa.gov/facts/waterspout.html" target="_blank" rel="noopener noreferrer nofollow">https://oceanservice.noaa.gov/facts/waterspout.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Ocean ServiceWhat is a waterspout?16 Jun 2024 — While tornadic waterspouts develop downward in a thunderstorm, a fair weather wa...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/ebooks/22472" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/ebooks/22472</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fort catalogs anomalous phenomena that mainstream science has excluded or...Read more...</p></details>
+   Link:<a href="https://www.gutenberg.org/ebooks/22472" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/ebooks/22472</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fort catalogs anomalous phenomena that mainstream science has excluded or...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/tbw/waterspouts" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/tbw/waterspouts</a>  
+   Link:<a href="https://www.weather.gov/tbw/waterspouts" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/tbw/waterspouts</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: wdbj7.com  
-   Link: <a href="https://www.wdbj7.com/2021/12/30/fish-fall-sky-during-rainstorm-eastern-texas/" target="_blank" rel="noopener noreferrer nofollow">https://www.wdbj7.com/2021/12/30/fish-fall-sky-during-rainstorm-eastern-texas/</a>  
+   Link:<a href="https://www.wdbj7.com/2021/12/30/fish-fall-sky-during-rainstorm-eastern-texas/" target="_blank" rel="noopener noreferrer nofollow">https://www.wdbj7.com/2021/12/30/fish-fall-sky-during-rainstorm-eastern-texas/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/</a>  
+   Link:<a href="https://www.weather.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: forecast.weather.gov  
-   Link: <a href="https://forecast.weather.gov/MapClick.php?FcstType=text&amp;lat=33.42513&amp;lg=english&amp;lon=-94.04769" target="_blank" rel="noopener noreferrer nofollow">https://forecast.weather.gov/MapClick.php?FcstType=text&amp;lat=33.42513&amp;lg=english&amp;lon=-94.04769</a>  
+   Link:<a href="https://forecast.weather.gov/MapClick.php?FcstType=text&amp;lat=33.42513&amp;lg=english&amp;lon=-94.04769" target="_blank" rel="noopener noreferrer nofollow">https://forecast.weather.gov/MapClick.php?FcstType=text&amp;lat=33.42513&amp;lg=english&amp;lon=-94.04769</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: forecast.weather.gov  
-   Link: <a href="https://forecast.weather.gov/MapClick.php?lat=33.44&amp;lon=-94.13" target="_blank" rel="noopener noreferrer nofollow">https://forecast.weather.gov/MapClick.php?lat=33.44&amp;lon=-94.13</a>  
+   Link:<a href="https://forecast.weather.gov/MapClick.php?lat=33.44&amp;lon=-94.13" target="_blank" rel="noopener noreferrer nofollow">https://forecast.weather.gov/MapClick.php?lat=33.44&amp;lon=-94.13</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/ncrfc/" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/ncrfc/</a>  
+   Link:<a href="https://www.weather.gov/ncrfc/" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/ncrfc/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/mfl/waterspouts" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/mfl/waterspouts</a>  
+   Link:<a href="https://www.weather.gov/mfl/waterspouts" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/mfl/waterspouts</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/apx/waterspout" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/apx/waterspout</a>  
+   Link:<a href="https://www.weather.gov/apx/waterspout" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/apx/waterspout</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/files/22472/22472-h/22472-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/22472/22472-h/22472-h.htm</a>  
+   Link:<a href="https://www.gutenberg.org/files/22472/22472-h/22472-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/22472/22472-h/22472-h.htm</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/ebooks/author/25343" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/ebooks/author/25343</a>  
+   Link:<a href="https://www.gutenberg.org/ebooks/author/25343" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/ebooks/author/25343</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: spo.nmfs.noaa.gov  
-   Link: <a href="https://spo.nmfs.noaa.gov/Fishery%20Leaflets/leaflet513.pdf" target="_blank" rel="noopener noreferrer nofollow">https://spo.nmfs.noaa.gov/Fishery%20Leaflets/leaflet513.pdf</a>  
+   Link:<a href="https://spo.nmfs.noaa.gov/Fishery%20Leaflets/leaflet513.pdf" target="_blank" rel="noopener noreferrer nofollow">https://spo.nmfs.noaa.gov/Fishery%20Leaflets/leaflet513.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: oceantoday.noaa.gov  
-   Link: <a href="https://oceantoday.noaa.gov/waterspouts/" target="_blank" rel="noopener noreferrer nofollow">https://oceantoday.noaa.gov/waterspouts/</a>  
+   Link:<a href="https://oceantoday.noaa.gov/waterspouts/" target="_blank" rel="noopener noreferrer nofollow">https://oceantoday.noaa.gov/waterspouts/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: forums.forteana.org  
-   Link: <a href="https://forums.forteana.org/index.php?threads%2Fwhat-is-forteana-bob-rickards-the-fortean-scope.3101%2F=" target="_blank" rel="noopener noreferrer nofollow">https://forums.forteana.org/index.php?threads%2Fwhat-is-forteana-bob-rickards-the-fortean-scope.3101%2F=</a>  
+   Link:<a href="https://forums.forteana.org/index.php?threads%2Fwhat-is-forteana-bob-rickards-the-fortean-scope.3101%2F=" target="_blank" rel="noopener noreferrer nofollow">https://forums.forteana.org/index.php?threads%2Fwhat-is-forteana-bob-rickards-the-fortean-scope.3101%2F=</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: time.com  
    Title: animals have actually rained from the sky  
-   Link: <a href="https://time.com/28894/animals-have-actually-rained-from-the-sky/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/28894/animals-have-actually-rained-from-the-sky/</a>  
+   Link:<a href="https://time.com/28894/animals-have-actually-rained-from-the-sky/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/28894/animals-have-actually-rained-from-the-sky/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: loc.gov  
    Title: Most scientists agree that salt, stones, fish, or frogs can be  
-   Link: <a href="https://www.loc.gov/everyday-mysteries/meteorology-climatology/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/everyday-mysteries/meteorology-climatology/item/can-it-rain-frogs-fish-and-other-objects/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Library of CongressCan it rain frogs, fish, and other objects?Many scientists believe tornadic waterspouts may be responsible for fro...</p></details>
+   Link:<a href="https://www.loc.gov/everyday-mysteries/meteorology-climatology/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/everyday-mysteries/meteorology-climatology/item/can-it-rain-frogs-fish-and-other-objects/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Library of CongressCan it rain frogs, fish, and other objects?Many scientists believe tornadic waterspouts may be responsible for fro...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: sharonahill.com  
    Title: Sharon A. Hill [Texarkana Fish Rain](&#123;&#123; 'texarkana-fish/' | relative_url &#125;&#125;) Mystery Solved | Sharon A. Hill  
-   Link: <a href="https://sharonahill.com/texarkana-fish-rain-mystery-solved/" target="_blank" rel="noopener noreferrer nofollow">https://sharonahill.com/texarkana-fish-rain-mystery-solved/</a>  
+   Link:<a href="https://sharonahill.com/texarkana-fish-rain-mystery-solved/" target="_blank" rel="noopener noreferrer nofollow">https://sharonahill.com/texarkana-fish-rain-mystery-solved/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/17749958/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/17749958/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/17749958/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/17749958/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Animal" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Animal</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Animal" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Animal</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Waterspout" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Waterspout</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Waterspout" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Waterspout</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: The Book of the Damned  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Book_of_the_Damned" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Book_of_the_Damned</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Book_of_the_Damned" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Book_of_the_Damned</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: linguee.com.br  
-   Link: <a href="https://www.linguee.com.br/ingles-portugues/traducao/raining.html" target="_blank" rel="noopener noreferrer nofollow">https://www.linguee.com.br/ingles-portugues/traducao/raining.html</a>  
+   Link:<a href="https://www.linguee.com.br/ingles-portugues/traducao/raining.html" target="_blank" rel="noopener noreferrer nofollow">https://www.linguee.com.br/ingles-portugues/traducao/raining.html</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: books.google.com  
    Title: The Book of the Damned  
-   Link: <a href="https://books.google.com/books/about/The_Book_of_the_Damned.html?id=ho00KqhKx2wC" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/The_Book_of_the_Damned.html?id=ho00KqhKx2wC</a>  
+   Link:<a href="https://books.google.com/books/about/The_Book_of_the_Damned.html?id=ho00KqhKx2wC" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/The_Book_of_the_Damned.html?id=ho00KqhKx2wC</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: nhcgov.com  
-   Link: <a href="https://www.nhcgov.com/2475/Waterspouts" target="_blank" rel="noopener noreferrer nofollow">https://www.nhcgov.com/2475/Waterspouts</a>  
+   Link:<a href="https://www.nhcgov.com/2475/Waterspouts" target="_blank" rel="noopener noreferrer nofollow">https://www.nhcgov.com/2475/Waterspouts</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: journalofscientificexploration.org  
-   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/3629/2501" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/3629/2501</a>  
+   Link:<a href="https://journalofscientificexploration.org/index.php/jse/article/view/3629/2501" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/3629/2501</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: earthsky.org  
    Title: raining fish and frogs  
-   Link: <a href="https://earthsky.org/earth/raining-fish-and-frogs/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/earth/raining-fish-and-frogs/</a>  
+   Link:<a href="https://earthsky.org/earth/raining-fish-and-frogs/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/earth/raining-fish-and-frogs/</a>  
 
 ### Additional References
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: psi-encyclopedia.spr.ac.uk  
    Title: Psi Encyclopedia Forteana  
-   Link: <a href="https://psi-encyclopedia.spr.ac.uk/articles/forteana/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/articles/forteana/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These include ice block falls, falls of sulphur...Read more...</p></details>
+   Link:<a href="https://psi-encyclopedia.spr.ac.uk/articles/forteana/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/articles/forteana/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These include ice block falls, falls of sulphur...Read more...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TTMetService/posts/didyouknow-the-difference-between-a-tornado-and-a-waterspout-find-out-here/1129031256080372/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TTMetService/posts/didyouknow-the-difference-between-a-tornado-and-a-waterspout-find-out-here/1129031256080372/</a>  
+   Link:<a href="https://www.facebook.com/TTMetService/posts/didyouknow-the-difference-between-a-tornado-and-a-waterspout-find-out-here/1129031256080372/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TTMetService/posts/didyouknow-the-difference-between-a-tornado-and-a-waterspout-find-out-here/1129031256080372/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WHO13News/posts/researchers-have-an-alternative-explanation-for-the-raining-fish-that-fell-from-/10166584722440313/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WHO13News/posts/researchers-have-an-alternative-explanation-for-the-raining-fish-that-fell-from-/10166584722440313/</a>  
+   Link:<a href="https://www.facebook.com/WHO13News/posts/researchers-have-an-alternative-explanation-for-the-raining-fish-that-fell-from-/10166584722440313/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WHO13News/posts/researchers-have-an-alternative-explanation-for-the-raining-fish-that-fell-from-/10166584722440313/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/KTSM9News/posts/raining-fish-that-fell-from-sky-in-texas-were-vomited-by-birds-researchers-claim/400209602143453/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KTSM9News/posts/raining-fish-that-fell-from-sky-in-texas-were-vomited-by-birds-researchers-claim/400209602143453/</a>  
+   Link:<a href="https://www.facebook.com/KTSM9News/posts/raining-fish-that-fell-from-sky-in-texas-were-vomited-by-birds-researchers-claim/400209602143453/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KTSM9News/posts/raining-fish-that-fell-from-sky-in-texas-were-vomited-by-birds-researchers-claim/400209602143453/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: philosophynow.org  
-   Link: <a href="https://philosophynow.org/issues/38/A_Late_Disciple_of_Lucretius" target="_blank" rel="noopener noreferrer nofollow">https://philosophynow.org/issues/38/A_Late_Disciple_of_Lucretius</a>  
+   Link:<a href="https://philosophynow.org/issues/38/A_Late_Disciple_of_Lucretius" target="_blank" rel="noopener noreferrer nofollow">https://philosophynow.org/issues/38/A_Late_Disciple_of_Lucretius</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/13abc/posts/animal-rain-happens-when-small-water-animals-like-fish-frogs-and-crabs-are-swept/10159511629081897/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/13abc/posts/animal-rain-happens-when-small-water-animals-like-fish-frogs-and-crabs-are-swept/10159511629081897/</a>  
+   Link:<a href="https://www.facebook.com/13abc/posts/animal-rain-happens-when-small-water-animals-like-fish-frogs-and-crabs-are-swept/10159511629081897/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/13abc/posts/animal-rain-happens-when-small-water-animals-like-fish-frogs-and-crabs-are-swept/10159511629081897/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RicWTSP/posts/can-fish-really-fall-from-the-sky-actually-yes-but-its-rare-of-course-the-fish-d/1041286680695506/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RicWTSP/posts/can-fish-really-fall-from-the-sky-actually-yes-but-its-rare-of-course-the-fish-d/1041286680695506/</a>  
+   Link:<a href="https://www.facebook.com/RicWTSP/posts/can-fish-really-fall-from-the-sky-actually-yes-but-its-rare-of-course-the-fish-d/1041286680695506/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RicWTSP/posts/can-fish-really-fall-from-the-sky-actually-yes-but-its-rare-of-course-the-fish-d/1041286680695506/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: cantab.net  
-   Link: <a href="https://www.cantab.net/users/michael.behrend/ebooks/MoreThings/pages/Chapter_01.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cantab.net/users/michael.behrend/ebooks/MoreThings/pages/Chapter_01.html</a>  
+   Link:<a href="https://www.cantab.net/users/michael.behrend/ebooks/MoreThings/pages/Chapter_01.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cantab.net/users/michael.behrend/ebooks/MoreThings/pages/Chapter_01.html</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/859661916/The-Complete-Books-of-Charles-Fort-The-Book-Of-The-Damned-Lo-Wild-Talents-New-Lands-Academic-PDF-Download" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/859661916/The-Complete-Books-of-Charles-Fort-The-Book-Of-The-Damned-Lo-Wild-Talents-New-Lands-Academic-PDF-Download</a>  
+   Link:<a href="https://www.scribd.com/document/859661916/The-Complete-Books-of-Charles-Fort-The-Book-Of-The-Damned-Lo-Wild-Talents-New-Lands-Academic-PDF-Download" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/859661916/The-Complete-Books-of-Charles-Fort-The-Book-Of-The-Damned-Lo-Wild-Talents-New-Lands-Academic-PDF-Download</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: unteachablecourses.com  
-   Link: <a href="https://unteachablecourses.com/fortean-phenomena-explained/" target="_blank" rel="noopener noreferrer nofollow">https://unteachablecourses.com/fortean-phenomena-explained/</a>  
+   Link:<a href="https://unteachablecourses.com/fortean-phenomena-explained/" target="_blank" rel="noopener noreferrer nofollow">https://unteachablecourses.com/fortean-phenomena-explained/</a>  

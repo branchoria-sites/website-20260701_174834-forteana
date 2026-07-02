@@ -274,7 +274,7 @@ image: /assets/images/forteana_50bdc8_spontaneous_combusti_2682c4_alcohol_myths_
 
 ## Introduction
 
-One of the most persistent ideas in the history of spontaneous human [combustion]({{ 'combustion/' | relative_url }}) is that alcohol somehow made the human body capable of bursting into flames. For more than two centuries, heavy drinking appeared repeatedly in medical reports, newspaper stories and popular fiction as an apparent risk factor. Yet the role assigned to alcohol was rarely based on experimental evidence. Instead, it reflected a mixture of limited medical knowledge, selective reporting and powerful moral attitudes towards drunkenness. Modern fire science and forensic pathology have rejected the notion that alcohol saturates the body sufficiently to make it spontaneously combustible. Instead, investigators explain many historical cases through ordinary ignition sources, prolonged burning and the so-called [wick effect]({{ 'wick-effect/' | relative_url }}), while recognising that intoxication may have increased the likelihood of an accidental fire rather than causing combustion itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Spontaneous_human_combustion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Spontaneous human combustion</span><span class="citation-popover-snippet">Spontaneous human combustion</span></span></span>
+One of the most persistent ideas in the history of spontaneous human [combustion]({{ 'combustion/' | relative_url }}) is that alcohol somehow made the human body capable of bursting into flames. For more than two centuries, heavy drinking appeared repeatedly in medical reports, newspaper stories and popular fiction as an apparent risk factor. Yet the role assigned to alcohol was rarely based on experimental evidence. Instead, it reflected a mixture of limited medical knowledge, selective reporting and powerful moral attitudes towards drunkenness. Modern fire science and forensic pathology have rejected the notion that alcohol saturates the body sufficiently to make it spontaneously combustible. Instead, investigators explain many historical cases through ordinary ignition sources, prolonged burning and the so-called [wick effect]({{ 'wick-effect/' | relative_url }}), while recognising that intoxication may have increased the likelihood of an accidental fire rather than causing combustion itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Spontaneous_human_combustion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Spontaneous human combustion</span><span class="citation-popover-snippet">Spontaneous human combustion</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_spontaneous_combusti_2682c4_alcohol_myths_combus_fda2ed-Illustration-1-dark.svg" | relative_url }}" alt="Alcohol Myths illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_spontaneous_combusti_2682c4_alcohol_myths_combus_fda2ed-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_spontaneous_combusti_2682c4_alcohol_myths_combus_fda2ed-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,9 +282,9 @@ One of the most persistent ideas in the history of spontaneous human [combustion
 
 The association between alcohol and spontaneous combustion emerged during the eighteenth century, when physicians attempted to explain a handful of unusual burning deaths without understanding the behaviour of prolonged, low-temperature body fires.
 
-One of the earliest influential examples was the reported death of Countess Cornelia Zangari Bandi in the early eighteenth century. Paul Rolli's 1746 account, published in the *Philosophical Transactions of the Royal Society*, described the case while noting reports that the victim regularly consumed spirits. The implication that excessive drinking somehow altered the body into a combustible substance became highly influential, despite the absence of experimental proof. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Spontaneous_human_combustion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Spontaneous human combustion</span><span class="citation-popover-snippet">Spontaneous human combustion</span></span></span>
+One of the earliest influential examples was the reported death of Countess Cornelia Zangari Bandi in the early eighteenth century. Paul Rolli's 1746 account, published in the *Philosophical Transactions of the Royal Society*, described the case while noting reports that the victim regularly consumed spirits. The implication that excessive drinking somehow altered the body into a combustible substance became highly influential, despite the absence of experimental proof.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Spontaneous_human_combustion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Spontaneous human combustion</span><span class="citation-popover-snippet">Spontaneous human combustion</span></span></span>
 
-By the early nineteenth century, medical texts frequently repeated earlier cases instead of critically re-examining them. Works on medical jurisprudence listed habitual drunkenness as a common characteristic among alleged victims, gradually transforming an [observation]({{ 'observation/' | relative_url }}) from a small collection of anecdotes into what appeared to be an established medical pattern. The repetition itself gave the claim an undeserved authority. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Spontaneous_human_combustion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Spontaneous human combustion</span><span class="citation-popover-snippet">Spontaneous human combustion</span></span></span>
+By the early nineteenth century, medical texts frequently repeated earlier cases instead of critically re-examining them. Works on medical jurisprudence listed habitual drunkenness as a common characteristic among alleged victims, gradually transforming an [observation]({{ 'observation/' | relative_url }}) from a small collection of anecdotes into what appeared to be an established medical pattern. The repetition itself gave the claim an undeserved authority.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Spontaneous_human_combustion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Spontaneous human combustion</span><span class="citation-popover-snippet">Spontaneous human combustion</span></span></span>
 
 Importantly, physicians of the period often confused correlation with causation. Many reported victims were elderly, infirm, socially isolated or intoxicated—factors that also increased the likelihood of accidental fires involving candles, fireplaces, oil lamps or tobacco.
 
@@ -294,7 +294,7 @@ The alcohol connection survived not simply because of medical speculation but be
 
 Rather than presenting combustion as a random tragedy, many accounts implied that victims had brought disaster upon themselves through vice. This moral framing made the stories memorable and easy to repeat. As temperance movements gained influence during the nineteenth century, spontaneous combustion narratives could function almost as parables about the dangers of drunkenness, regardless of whether the evidence supported such conclusions.
 
-This pattern is visible in many early case reports. Details about alcohol consumption were often highlighted, while equally important circumstances—such as fireplaces, candles, smoking materials or limited mobility—received comparatively little attention or disappeared entirely in later [retellings]({{ 'retellings/' | relative_url }}). Modern investigators have noted that the omission of ordinary ignition sources helped reinforce the illusion that the fires originated inside the body. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Spontaneous_human_combustion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Spontaneous human combustion</span><span class="citation-popover-snippet">Spontaneous human combustion</span></span></span>
+This pattern is visible in many early case reports. Details about alcohol consumption were often highlighted, while equally important circumstances—such as fireplaces, candles, smoking materials or limited mobility—received comparatively little attention or disappeared entirely in later [retellings]({{ 'retellings/' | relative_url }}). Modern investigators have noted that the omission of ordinary ignition sources helped reinforce the illusion that the fires originated inside the body.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Spontaneous_human_combustion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Spontaneous human combustion</span><span class="citation-popover-snippet">Spontaneous human combustion</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_AU9EWNTn2A" title="The Baffling Cases of Spontaneous Human Combustion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_AU9EWNTn2A" target="_blank" rel="noopener noreferrer">The Baffling Cases of Spontaneous Human Combustion</a></p><p class="youtube-embed-meta">Channel: Popular Science</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_AU9EWNTn2A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_AU9EWNTn2A">Open on YouTube</a></p></div></div></div>
@@ -305,7 +305,7 @@ The medical myth spread well beyond scientific circles because popular writers a
 
 Perhaps the best-known literary example is Charles Dickens's *Bleak House* (1852–1853), in which the alcoholic rag-and-bottle dealer Mr Krook dies by spontaneous combustion. Dickens defended his decision after critics argued that he had promoted an impossible phenomenon, insisting that he had relied on published case histories then considered respectable.
 
-The episode illustrates how medical belief and popular culture reinforced one another. Readers encountered spontaneous combustion not only in [newspapers]({{ 'newspapers/' | relative_url }}) and medical books but also in one of the most widely read novels of the Victorian period. Because Krook is portrayed as chronically intoxicated, the fictional death strengthened the perceived connection between alcoholism and combustion for generations of readers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Spontaneous_human_combustion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Spontaneous human combustion</span><span class="citation-popover-snippet">Spontaneous human combustion</span></span></span>
+The episode illustrates how medical belief and popular culture reinforced one another. Readers encountered spontaneous combustion not only in [newspapers]({{ 'newspapers/' | relative_url }}) and medical books but also in one of the most widely read novels of the Victorian period. Because Krook is portrayed as chronically intoxicated, the fictional death strengthened the perceived connection between alcoholism and combustion for generations of readers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Spontaneous_human_combustion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Spontaneous human combustion</span><span class="citation-popover-snippet">Spontaneous human combustion</span></span></span>
 
 Other nineteenth-century fiction likewise portrayed drunken characters as especially vulnerable to "animal combustion" or similar internal fires, reflecting contemporary assumptions rather than experimental evidence.
 
@@ -317,9 +317,9 @@ The theory initially appeared reasonable because alcohol is flammable in concent
 
 Modern chemistry shows why this idea fails.
 
-The human body remains mostly water, even after heavy drinking. Alcohol absorbed into tissues is rapidly metabolised and never approaches the concentrations needed for spontaneous ignition. Blood alcohol levels that are medically dangerous are still far below those required to sustain combustion. There is therefore no known biological mechanism by which drinking alcohol could make a living person's tissues ignite without an external flame. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Spontaneous_human_combustion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Spontaneous human combustion</span><span class="citation-popover-snippet">Spontaneous human combustion</span></span></span>
+The human body remains mostly water, even after heavy drinking. Alcohol absorbed into tissues is rapidly metabolised and never approaches the concentrations needed for spontaneous ignition. Blood alcohol levels that are medically dangerous are still far below those required to sustain combustion. There is therefore no known biological mechanism by which drinking alcohol could make a living person's tissues ignite without an external flame.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Spontaneous_human_combustion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Spontaneous human combustion</span><span class="citation-popover-snippet">Spontaneous human combustion</span></span></span>
 
-Occasionally, speculative modern hypotheses have suggested that metabolic products such as acetone might contribute to unusual fires under rare circumstances. These ideas remain unsupported as explanations for alleged spontaneous human combustion and have not displaced the forensic consensus that external ignition is required. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Spontaneous_human_combustion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Spontaneous human combustion</span><span class="citation-popover-snippet">Spontaneous human combustion</span></span></span>
+Occasionally, speculative modern hypotheses have suggested that metabolic products such as acetone might contribute to unusual fires under rare circumstances. These ideas remain unsupported as explanations for alleged spontaneous human combustion and have not displaced the forensic consensus that external ignition is required.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Spontaneous_human_combustion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Spontaneous human combustion</span><span class="citation-popover-snippet">Spontaneous human combustion</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eMXv7bylYt4" title="Can Spontaneous Human Combustion REALLY Happen?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eMXv7bylYt4" target="_blank" rel="noopener noreferrer">Can Spontaneous Human Combustion REALLY Happen?</a></p><p class="youtube-embed-meta">Channel: Math and Science</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eMXv7bylYt4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eMXv7bylYt4">Open on YouTube</a></p></div></div></div>
@@ -340,9 +340,9 @@ Detailed analyses by fire investigators and forensic specialists showed that man
 
 </div>
 
-This process became known as the wick effect. In this model, clothing acts like the wick of a candle while body fat supplies the fuel after ignition from an ordinary external source. The result can appear remarkably selective, producing scenes that earlier observers interpreted as mysterious internal combustion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Wick_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Wick effect</span><span class="citation-popover-snippet">Wick effect</span></span></span>
+This process became known as the wick effect. In this model, clothing acts like the wick of a candle while body fat supplies the fuel after ignition from an ordinary external source. The result can appear remarkably selective, producing scenes that earlier observers interpreted as mysterious internal combustion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Wick_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Wick effect</span><span class="citation-popover-snippet">Wick effect</span></span></span>
 
-Modern investigators therefore distinguish sharply between alcohol as a behavioural risk factor and alcohol as a combustion mechanism. Heavy intoxication may increase the chances of falling asleep with a lit cigarette, collapsing near a fire or failing to react after clothing ignites. It does not make the body chemically capable of spontaneous ignition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Spontaneous_human_combustion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Spontaneous human combustion</span><span class="citation-popover-snippet">Spontaneous human combustion</span></span></span>
+Modern investigators therefore distinguish sharply between alcohol as a behavioural risk factor and alcohol as a combustion mechanism. Heavy intoxication may increase the chances of falling asleep with a lit cigarette, collapsing near a fire or failing to react after clothing ignites. It does not make the body chemically capable of spontaneous ignition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Spontaneous_human_combustion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Spontaneous human combustion</span><span class="citation-popover-snippet">Spontaneous human combustion</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_spontaneous_combusti_2682c4_alcohol_myths_combus_fda2ed-Illustration-3-dark.svg" | relative_url }}" alt="Alcohol Myths illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_spontaneous_combusti_2682c4_alcohol_myths_combus_fda2ed-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_spontaneous_combusti_2682c4_alcohol_myths_combus_fda2ed-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -359,194 +359,194 @@ The evolution of this idea offers a broader lesson in the history of Fortean cla
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Alcohol Became Part of the Myth. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Alcohol Became Part of the Myth. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Provides critical thinking tools for assessing folklore and pseudoscientific explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides critical thinking tools for assessing folklore and pseudoscientific explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explains why unsupported ideas such as alcohol-induced combustion persist.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why unsupported ideas such as alcohol-induced combustion persist.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unexplained+Phenomena+by+Roy+Bainton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Book of Unexplained Phenomena on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YHCeBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mammoth Book of Unexplained Phenomena" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unexplained+Phenomena+by+Roy+Bainton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of Unexplained Phenomena">The Mammoth Book of Unexplained Phenomena</a>
-        </h4>
-        <p class="fr-book-author">By Roy Bainton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unexplained+Phenomena+by+Roy+Bainton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Book of Unexplained Phenomena on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YHCeBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mammoth Book of Unexplained Phenomena" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unexplained+Phenomena+by+Roy+Bainton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of Unexplained Phenomena">The Mammoth Book of Unexplained Phenomena</a>
+</h4>
+<p class="fr-book-author">By Roy Bainton</p>
         
-        <p class="fr-book-desc">Places spontaneous combustion within the wider Fortean tradition.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unexplained+Phenomena+by+Roy+Bainton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places spontaneous combustion within the wider Fortean tradition.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unexplained+Phenomena+by+Roy+Bainton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Spontaneous+human+combustion+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Spontaneous human combustion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1346249-M.jpg" alt="Cover for Spontaneous human combustion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Spontaneous+human+combustion+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spontaneous human combustion">Spontaneous human combustion</a>
-        </h4>
-        <p class="fr-book-author">By Jenny Randles, Peter Hough</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Spontaneous+human+combustion+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Spontaneous human combustion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1346249-M.jpg" alt="Cover for Spontaneous human combustion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Spontaneous+human+combustion+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spontaneous human combustion">Spontaneous human combustion</a>
+</h4>
+<p class="fr-book-author">By Jenny Randles, Peter Hough</p>
         
-        <p class="fr-book-desc">First published 2007. Subjects: Spontaneous human Combustion, Spontaneous Combustion, History, BODY, MIND &amp; SPIRIT, Unexplained Phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Spontaneous+human+combustion+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2007. Subjects: Spontaneous human Combustion, Spontaneous Combustion, History, BODY, MIND &amp; SPIRIT, Unexplained Phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Spontaneous+human+combustion+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unexplained+Phenomena&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mammoth Book of Unexplained Phenomena</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unexplained+Phenomena&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mammoth Book of Unexplained Phenomena</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sound+level+meter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sound level meter" data-ebay-reference="alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Digital Sound Level Meter 30~130dB Professional Sound Noise Level Decibel Meter"><img src="{{ '/assets/images/marketplace-covers/db07a6b78e2bde7a54f7.jpg' | relative_url }}" alt="Listing image for Digital Sound Level Meter 30~130dB Professional Sound Noise Level Decibel Meter" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sound+level+meter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sound level meter" data-ebay-reference="alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter" target="_blank" rel="sponsored noopener noreferrer">Digital Sound Level Meter 30~130dB Professional Sound Noise Level Decibel Meter</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sound+level+meter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sound level meter" data-ebay-reference="alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sound level meter">Search <span data-ebay-domain-label>eBay.co.uk</span>: sound level meter</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sound+level+meter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sound level meter" data-ebay-reference="alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sound+level+meter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sound level meter" data-ebay-reference="alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Digital Sound Level Meter 30~130dB Professional Sound Noise Level Decibel Meter"><img src="{{ '/assets/images/marketplace-covers/db07a6b78e2bde7a54f7.jpg' | relative_url }}" alt="Listing image for Digital Sound Level Meter 30~130dB Professional Sound Noise Level Decibel Meter" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sound+level+meter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sound level meter" data-ebay-reference="alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter" target="_blank" rel="sponsored noopener noreferrer">Digital Sound Level Meter 30~130dB Professional Sound Noise Level Decibel Meter</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sound+level+meter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sound level meter" data-ebay-reference="alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sound level meter">Search<span data-ebay-domain-label>eBay.co.uk</span>: sound level meter</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sound+level+meter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sound level meter" data-ebay-reference="alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sound+level+meter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sound level meter" data-ebay-reference="alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Parkside Sound Level Meter With High Accuracy Standard Sound Source"><img src="{{ '/assets/images/marketplace-covers/fd2071f1b6b00c6a17c3.jpg' | relative_url }}" alt="Listing image for Parkside Sound Level Meter With High Accuracy Standard Sound Source" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sound+level+meter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sound level meter" data-ebay-reference="alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter" target="_blank" rel="sponsored noopener noreferrer">Parkside Sound Level Meter With High Accuracy Standard Sound Source</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sound+level+meter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sound level meter" data-ebay-reference="alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sound level meter">Search <span data-ebay-domain-label>eBay.co.uk</span>: sound level meter</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sound+level+meter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sound level meter" data-ebay-reference="alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sound+level+meter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sound level meter" data-ebay-reference="alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Parkside Sound Level Meter With High Accuracy Standard Sound Source"><img src="{{ '/assets/images/marketplace-covers/fd2071f1b6b00c6a17c3.jpg' | relative_url }}" alt="Listing image for Parkside Sound Level Meter With High Accuracy Standard Sound Source" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sound+level+meter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sound level meter" data-ebay-reference="alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter" target="_blank" rel="sponsored noopener noreferrer">Parkside Sound Level Meter With High Accuracy Standard Sound Source</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sound+level+meter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sound level meter" data-ebay-reference="alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sound level meter">Search<span data-ebay-domain-label>eBay.co.uk</span>: sound level meter</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sound+level+meter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sound level meter" data-ebay-reference="alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sound+level+meter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sound level meter" data-ebay-reference="alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cadrim Portable Sound Level Meter HT-80A, 30-130 Decibel"><img src="{{ '/assets/images/marketplace-covers/0d896448a2bf0f0c4f5d.jpg' | relative_url }}" alt="Listing image for Cadrim Portable Sound Level Meter HT-80A, 30-130 Decibel" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sound+level+meter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sound level meter" data-ebay-reference="alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter" target="_blank" rel="sponsored noopener noreferrer">Cadrim Portable Sound Level Meter HT-80A, 30-130 Decibel</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sound+level+meter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sound level meter" data-ebay-reference="alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sound level meter">Search <span data-ebay-domain-label>eBay.co.uk</span>: sound level meter</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sound+level+meter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sound level meter" data-ebay-reference="alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sound+level+meter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sound level meter" data-ebay-reference="alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cadrim Portable Sound Level Meter HT-80A, 30-130 Decibel"><img src="{{ '/assets/images/marketplace-covers/0d896448a2bf0f0c4f5d.jpg' | relative_url }}" alt="Listing image for Cadrim Portable Sound Level Meter HT-80A, 30-130 Decibel" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sound+level+meter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sound level meter" data-ebay-reference="alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter" target="_blank" rel="sponsored noopener noreferrer">Cadrim Portable Sound Level Meter HT-80A, 30-130 Decibel</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sound+level+meter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sound level meter" data-ebay-reference="alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sound level meter">Search<span data-ebay-domain-label>eBay.co.uk</span>: sound level meter</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sound+level+meter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sound level meter" data-ebay-reference="alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sound+level+meter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sound level meter" data-ebay-reference="alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Digital Level Audio Sound Meter 30-130Db Decibel Meter Portable Noise Meter"><img src="{{ '/assets/images/marketplace-covers/287b529bccbd7e33bbc0.jpg' | relative_url }}" alt="Listing image for Digital Level Audio Sound Meter 30-130Db Decibel Meter Portable Noise Meter" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sound+level+meter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sound level meter" data-ebay-reference="alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter" target="_blank" rel="sponsored noopener noreferrer">Digital Level Audio Sound Meter 30-130Db Decibel Meter Portable Noise Meter</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sound+level+meter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sound level meter" data-ebay-reference="alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sound level meter">Search <span data-ebay-domain-label>eBay.co.uk</span>: sound level meter</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sound+level+meter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sound level meter" data-ebay-reference="alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=sound+level+meter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sound level meter" data-ebay-reference="alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sound+level+meter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sound level meter" data-ebay-reference="alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Digital Level Audio Sound Meter 30-130Db Decibel Meter Portable Noise Meter"><img src="{{ '/assets/images/marketplace-covers/287b529bccbd7e33bbc0.jpg' | relative_url }}" alt="Listing image for Digital Level Audio Sound Meter 30-130Db Decibel Meter Portable Noise Meter" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sound+level+meter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sound level meter" data-ebay-reference="alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter" target="_blank" rel="sponsored noopener noreferrer">Digital Level Audio Sound Meter 30-130Db Decibel Meter Portable Noise Meter</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sound+level+meter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sound level meter" data-ebay-reference="alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sound level meter">Search<span data-ebay-domain-label>eBay.co.uk</span>: sound level meter</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sound+level+meter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sound level meter" data-ebay-reference="alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=sound+level+meter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sound level meter" data-ebay-reference="alcohol-myths-how-alcohol-became-part-of-the-myth-forteana-sound-level-meter" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -562,7 +562,7 @@ The evolution of this idea offers a broader lesson in the history of Fortean cla
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -582,7 +582,7 @@ The evolution of this idea offers a broader lesson in the history of Fortean cla
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -614,7 +614,7 @@ The evolution of this idea offers a broader lesson in the history of Fortean cla
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -666,7 +666,7 @@ The evolution of this idea offers a broader lesson in the history of Fortean cla
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -711,7 +711,7 @@ The evolution of this idea offers a broader lesson in the history of Fortean cla
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -752,43 +752,43 @@ The evolution of this idea offers a broader lesson in the history of Fortean cla
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Spontaneous human combustion  
-   Link: <a href="https://en.wikipedia.org/wiki/Spontaneous_human_combustion" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Spontaneous_human_combustion</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Spontaneous_human_combustion" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Spontaneous_human_combustion</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Wick effect  
-   Link: <a href="https://en.wikipedia.org/wiki/Wick_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wick_effect</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Wick_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wick_effect</a>  
 
 ### Additional References
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: youtube.com  
    Title: Spontaneous Human Combustion: The "Human Candle" Mystery Solved  
-   Link: <a href="https://www.youtube.com/watch?v=AvIJ59RbpuM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AvIJ59RbpuM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Can You Spontaneously Combust? | Earth Science...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=AvIJ59RbpuM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AvIJ59RbpuM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can You Spontaneously Combust? | Earth Science...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: Can Spontaneous Human Combustion REALLY Happen?  
-   Link: <a href="https://www.youtube.com/watch?v=eMXv7bylYt4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eMXv7bylYt4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spontaneous Human Combustion: The &quot;Human Candle&quot; Mystery Solved...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=eMXv7bylYt4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eMXv7bylYt4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spontaneous Human Combustion: The &quot;Human Candle&quot; Mystery Solved...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: The Baffling Cases of Spontaneous Human Combustion  
-   Link: <a href="https://www.youtube.com/watch?v=_AU9EWNTn2A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_AU9EWNTn2A</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What Really Causes Spontaneous Human Combustion?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_AU9EWNTn2A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_AU9EWNTn2A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Really Causes Spontaneous Human Combustion?...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: What Really Causes Spontaneous Human Combustion?  
-   Link: <a href="https://www.youtube.com/watch?v=7ferZAfkG4A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7ferZAfkG4A</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Can Spontaneous Human Combustion REALLY Happen?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7ferZAfkG4A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7ferZAfkG4A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can Spontaneous Human Combustion REALLY Happen?...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Can You Spontaneously Combust? | Earth Science  
-   Link: <a href="https://www.youtube.com/watch?v=cilvOCBXI1c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cilvOCBXI1c</a>  
+   Link:<a href="https://www.youtube.com/watch?v=cilvOCBXI1c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cilvOCBXI1c</a>  

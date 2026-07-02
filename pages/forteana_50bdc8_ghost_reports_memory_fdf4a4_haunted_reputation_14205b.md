@@ -284,7 +284,7 @@ A haunted reputation can change what people notice long before anything unusual 
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_ghost_reports_memory_fdf4a4_haunted_reputation_14205b-Illustration-1-dark.svg" | relative_url }}" alt="Place reputation illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_ghost_reports_memory_fdf4a4_haunted_reputation_14205b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_ghost_reports_memory_fdf4a4_haunted_reputation_14205b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within Fortean research, this mechanism matters because legends are not merely background stories. They become part of the evidence chain itself. Every new witness arrives carrying expectations shaped by [folklore]({{ 'folklore/' | relative_url }}), media coverage, tour guides, friends or previous visitors. Those expectations affect what is noticed, remembered and later reported, making it difficult to separate the physical environment from the cultural story attached to it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/12803815/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">An investigation into alleged &#x27;hauntings&#x27;by R Wiseman · 2003 · Cited by 120 — The two studies reported here explored the psychologi...</span></span></span>
+Within Fortean research, this mechanism matters because legends are not merely background stories. They become part of the evidence chain itself. Every new witness arrives carrying expectations shaped by [folklore]({{ 'folklore/' | relative_url }}), media coverage, tour guides, friends or previous visitors. Those expectations affect what is noticed, remembered and later reported, making it difficult to separate the physical environment from the cultural story attached to it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/12803815/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">An investigation into alleged &#x27;hauntings&#x27;by R Wiseman · 2003 · Cited by 120 — The two studies reported here explored the psychologi...</span></span></span>
 
 ## How legends prime attention before anything happens
 
@@ -303,7 +303,7 @@ In a location known for hauntings, that filter changes. Visitors may become unus
 
 </div>
 
-The same sensations in an office block or railway station might simply be ignored. Inside a famous haunted location, however, they are more likely to be interpreted as meaningful because visitors have already been told that unusual events occur there. Psychologists refer to this broad process as expectation or perceptual priming: previous knowledge influences the interpretation of ambiguous information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gold.ac.uk/news/chris-french-halloween-ghosts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gold.ac.uk">[Goldsmiths, University of London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gold.ac.uk</span><span class="citation-popover-title">chris french halloween ghosts</span><span class="citation-popover-snippet">smiths, University of LondonGhost-busting with Chris French26 Oct 2015 — Chris French discusses some of the factors that might lead s...</span></span></span>
+The same sensations in an office block or railway station might simply be ignored. Inside a famous haunted location, however, they are more likely to be interpreted as meaningful because visitors have already been told that unusual events occur there. Psychologists refer to this broad process as expectation or perceptual priming: previous knowledge influences the interpretation of ambiguous information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gold.ac.uk/news/chris-french-halloween-ghosts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gold.ac.uk">[Goldsmiths, University of London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gold.ac.uk</span><span class="citation-popover-title">chris french halloween ghosts</span><span class="citation-popover-snippet">smiths, University of LondonGhost-busting with Chris French26 Oct 2015 — Chris French discusses some of the factors that might lead s...</span></span></span>
 
 Importantly, this mechanism concerns interpretation rather than dishonesty. A witness may report exactly what they sincerely experienced while still being influenced by the reputation of the setting.
 
@@ -330,9 +330,9 @@ Participants walked through the sites and recorded experiences such as:
 
 </div>
 
-The researchers compared these reports with the specific locations' reputations and also examined possible physical influences, including local magnetic fields and environmental conditions. Across the studies, participants consistently reported more unusual experiences in areas already regarded as haunted. Remarkably, this pattern appeared even when participants were not specifically aware which individual rooms or passages carried the strongest ghost traditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/12803815/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Richard Wiseman]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">An investigation into alleged &#x27;hauntings&#x27;by R Wiseman · 2003 · Cited by 120 — The two studies reported here explored the psychologi...</span></span></span>
+The researchers compared these reports with the specific locations' reputations and also examined possible physical influences, including local magnetic fields and environmental conditions. Across the studies, participants consistently reported more unusual experiences in areas already regarded as haunted. Remarkably, this pattern appeared even when participants were not specifically aware which individual rooms or passages carried the strongest ghost traditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/12803815/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Richard Wiseman]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">An investigation into alleged &#x27;hauntings&#x27;by R Wiseman · 2003 · Cited by 120 — The two studies reported here explored the psychologi...</span></span></span>
 
-The earlier Hampton Court investigation also explored suggestion directly. Some volunteers received information implying that particular areas had recently produced many unusual experiences, while others received the opposite message. The interaction between belief and suggestion influenced how experiences were reported, although the effects were not simple or uniform across all participants. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://researchprofiles.herts.ac.uk/en/publications/an-investigation-into-the-alleged-haunting-of-hampton-court-palac/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchprofiles.herts.ac.uk">[Hertfordshire Research Profiles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchprofiles.herts.ac.uk</span><span class="citation-popover-title">an investigation into the alleged haunting of hampton court palac</span><span class="citation-popover-snippet">Hertfordshire Research ProfilesAn investigation into the alleged haunting of Hampton...by R Wiseman · 2002 · Cited by 72 — Hampton Court...</span></span></span>
+The earlier Hampton Court investigation also explored suggestion directly. Some volunteers received information implying that particular areas had recently produced many unusual experiences, while others received the opposite message. The interaction between belief and suggestion influenced how experiences were reported, although the effects were not simple or uniform across all participants.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://researchprofiles.herts.ac.uk/en/publications/an-investigation-into-the-alleged-haunting-of-hampton-court-palac/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchprofiles.herts.ac.uk">[Hertfordshire Research Profiles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchprofiles.herts.ac.uk</span><span class="citation-popover-title">an investigation into the alleged haunting of hampton court palac</span><span class="citation-popover-snippet">Hertfordshire Research ProfilesAn investigation into the alleged haunting of Hampton...by R Wiseman · 2002 · Cited by 72 — Hampton Court...</span></span></span>
 
 These findings are often misunderstood. They did not conclude that ghost reports are "all in the mind", nor did they demonstrate paranormal activity. Instead, they showed that psychological expectations and environmental features can combine in ways that increase reports of unusual experiences.
 
@@ -357,9 +357,9 @@ This process resembles a feedback loop. Reputation encourages heightened attenti
 
 ## Hampton Court as a case study in reputation
 
-Hampton Court Palace illustrates how history and folklore intertwine. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hrp.org.uk/hampton-court-palace/history-and-stories/historic-hauntings-at-hampton-court-palace/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hrp.org.uk">[hrp.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hrp.org.uk</span><span class="citation-popover-title">historic hauntings at hampton court palace</span><span class="citation-popover-snippet">Historic Royal PalacesHistoric hauntings at Hampton Court PalaceIn May 2000, the noted psychologist Richard Wiseman conducted an experime...</span><span class="citation-popover-meta">Published: May 2000</span></span></span>
+Hampton Court Palace illustrates how history and folklore intertwine.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hrp.org.uk/hampton-court-palace/history-and-stories/historic-hauntings-at-hampton-court-palace/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hrp.org.uk">[hrp.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hrp.org.uk</span><span class="citation-popover-title">historic hauntings at hampton court palace</span><span class="citation-popover-snippet">Historic Royal PalacesHistoric hauntings at Hampton Court PalaceIn May 2000, the noted psychologist Richard Wiseman conducted an experime...</span><span class="citation-popover-meta">Published: May 2000</span></span></span>
 
-The palace is associated with legends surrounding figures such as Catherine Howard, whose reported apparition is said to run screaming through what became known as the Haunted Gallery. Whether or not visitors believe these stories, they provide a powerful interpretive framework before anyone enters the building. The palace itself openly presents these legends as part of its historical visitor experience while distinguishing documented history from later ghost traditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hrp.org.uk/hampton-court-palace/history-and-stories/historic-hauntings-at-hampton-court-palace/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hrp.org.uk">[Historic Royal Palaces]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hrp.org.uk</span><span class="citation-popover-title">historic hauntings at hampton court palace</span><span class="citation-popover-snippet">Historic Royal PalacesHistoric hauntings at Hampton Court PalaceIn May 2000, the noted psychologist Richard Wiseman conducted an experime...</span><span class="citation-popover-meta">Published: May 2000</span></span></span>
+The palace is associated with legends surrounding figures such as Catherine Howard, whose reported apparition is said to run screaming through what became known as the Haunted Gallery. Whether or not visitors believe these stories, they provide a powerful interpretive framework before anyone enters the building. The palace itself openly presents these legends as part of its historical visitor experience while distinguishing documented history from later ghost traditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hrp.org.uk/hampton-court-palace/history-and-stories/historic-hauntings-at-hampton-court-palace/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hrp.org.uk">[Historic Royal Palaces]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hrp.org.uk</span><span class="citation-popover-title">historic hauntings at hampton court palace</span><span class="citation-popover-snippet">Historic Royal PalacesHistoric hauntings at Hampton Court PalaceIn May 2000, the noted psychologist Richard Wiseman conducted an experime...</span><span class="citation-popover-meta">Published: May 2000</span></span></span>
 
 For researchers, this makes Hampton Court especially valuable. It combines:
 
@@ -395,7 +395,7 @@ This creates an evidential challenge. A cluster of similar reports might reflect
 
 </div>
 
-For that reason, researchers increasingly examine not only *what* witnesses report but also *how* they learned about the place beforehand. Prior knowledge becomes a relevant part of the evidence rather than a distraction from it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/12803815/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">An investigation into alleged &#x27;hauntings&#x27;by R Wiseman · 2003 · Cited by 120 — The two studies reported here explored the psychologi...</span></span></span>
+For that reason, researchers increasingly examine not only *what* witnesses report but also *how* they learned about the place beforehand. Prior knowledge becomes a relevant part of the evidence rather than a distraction from it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/12803815/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">An investigation into alleged &#x27;hauntings&#x27;by R Wiseman · 2003 · Cited by 120 — The two studies reported here explored the psychologi...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Jve3p0ws-nI" title="An Introduction to Paranormal Psychology - with Chris French" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Jve3p0ws-nI" target="_blank" rel="noopener noreferrer">An Introduction to Paranormal Psychology - with Chris French</a></p><p class="youtube-embed-meta">Channel: The Royal Institution</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Jve3p0ws-nI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Jve3p0ws-nI">Open on YouTube</a></p></div></div></div>
@@ -404,199 +404,199 @@ For that reason, researchers increasingly examine not only *what* witnesses repo
 
 The strongest evidence does not support a simple choice between "ghosts are real" and "everyone imagined it." Instead, it shows that haunted reputations measurably influence attention, interpretation and reporting.
 
-Studies at well-known haunted locations indicate that unusual experiences occur more often where powerful legends already exist, but they do not establish that folklore alone explains every report, nor do they demonstrate paranormal causes. Environmental conditions, individual beliefs, personality differences and cultural expectations all appear to contribute in varying combinations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/12803815/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">An investigation into alleged &#x27;hauntings&#x27;by R Wiseman · 2003 · Cited by 120 — The two studies reported here explored the psychologi...</span></span></span>
+Studies at well-known haunted locations indicate that unusual experiences occur more often where powerful legends already exist, but they do not establish that folklore alone explains every report, nor do they demonstrate paranormal causes. Environmental conditions, individual beliefs, personality differences and cultural expectations all appear to contribute in varying combinations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/12803815/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">An investigation into alleged &#x27;hauntings&#x27;by R Wiseman · 2003 · Cited by 120 — The two studies reported here explored the psychologi...</span></span></span>
 
 For students of [Forteana]({{ 'forteana/' | relative_url }}), this is precisely why haunted places remain compelling. The stories surrounding them are not merely decoration—they become active participants in how new experiences are perceived, remembered and transformed into the next generation of ghost reports.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can a Haunted Reputation Create Experiences?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can a Haunted Reputation Create Experiences?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Provides tools for evaluating extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides tools for evaluating extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The vanishing hitchhiker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4614126-M.jpg" alt="Cover for The vanishing hitchhiker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The vanishing hitchhiker">The vanishing hitchhiker</a>
-        </h4>
-        <p class="fr-book-author">By Jan Harold Brunvand</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The vanishing hitchhiker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4614126-M.jpg" alt="Cover for The vanishing hitchhiker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The vanishing hitchhiker">The vanishing hitchhiker</a>
+</h4>
+<p class="fr-book-author">By Jan Harold Brunvand</p>
         
-        <p class="fr-book-desc">First published 1981. Subjects: History and criticism, Legends, Urban folklore, Légendes, Folklore urbain.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1981. Subjects: History and criticism, Legends, Urban folklore, Légendes, Folklore urbain.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Spook+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Spook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/247995-M.jpg" alt="Cover for Spook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Spook+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spook">Spook</a>
-        </h4>
-        <p class="fr-book-author">By Mary Roach</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Spook+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Spook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/247995-M.jpg" alt="Cover for Spook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Spook+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spook">Spook</a>
+</h4>
+<p class="fr-book-author">By Mary Roach</p>
         
-        <p class="fr-book-desc">First published 2005. Subjects: Religion and science, Consciousness, Near-death experiences, Soul, Future life.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Spook+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2005. Subjects: Religion and science, Consciousness, Near-death experiences, Soul, Future life.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Spook+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Paranormality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12284173-M.jpg" alt="Cover for Paranormality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Paranormality">Paranormality</a>
-        </h4>
-        <p class="fr-book-author">By Richard Wiseman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Paranormality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12284173-M.jpg" alt="Cover for Paranormality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Paranormality">Paranormality</a>
+</h4>
+<p class="fr-book-author">By Richard Wiseman</p>
         
-        <p class="fr-book-desc">First published 2011. Subjects: Parapsychology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011. Subjects: Parapsychology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+vanishing+hitchhiker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The vanishing hitchhiker</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Spook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Spook</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+vanishing+hitchhiker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The vanishing hitchhiker</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Spook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Spook</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ghost - live band music show 2022 TOUR promotional tour concert gig poster"><img src="{{ '/assets/images/marketplace-covers/75e6bc036c3aa8306735.jpg' | relative_url }}" alt="Listing image for Ghost - live band music show 2022 TOUR promotional tour concert gig poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer">Ghost - live band music show 2022 TOUR promotional tour concert gig poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ghost poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ghost - live band music show 2022 TOUR promotional tour concert gig poster"><img src="{{ '/assets/images/marketplace-covers/75e6bc036c3aa8306735.jpg' | relative_url }}" alt="Listing image for Ghost - live band music show 2022 TOUR promotional tour concert gig poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer">Ghost - live band music show 2022 TOUR promotional tour concert gig poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for GHOST WORLD - SCARLETT JOHANSSON / BUSCEMI / HIGH SCHOOL - ORIGINAL MOVIE POSTER"><img src="{{ '/assets/images/marketplace-covers/713afac198ea9ae2ac19.jpg' | relative_url }}" alt="Listing image for GHOST WORLD - SCARLETT JOHANSSON / BUSCEMI / HIGH SCHOOL - ORIGINAL MOVIE POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer">GHOST WORLD - SCARLETT JOHANSSON / BUSCEMI / HIGH SCHOOL - ORIGINAL MOVIE POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ghost poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for GHOST WORLD - SCARLETT JOHANSSON / BUSCEMI / HIGH SCHOOL - ORIGINAL MOVIE POSTER"><img src="{{ '/assets/images/marketplace-covers/713afac198ea9ae2ac19.jpg' | relative_url }}" alt="Listing image for GHOST WORLD - SCARLETT JOHANSSON / BUSCEMI / HIGH SCHOOL - ORIGINAL MOVIE POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer">GHOST WORLD - SCARLETT JOHANSSON / BUSCEMI / HIGH SCHOOL - ORIGINAL MOVIE POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ghost - live music show Nov 2019 promotional tour concert gig poster"><img src="{{ '/assets/images/marketplace-covers/e9bbab17781e4df43065.jpg' | relative_url }}" alt="Listing image for Ghost - live music show Nov 2019 promotional tour concert gig poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer">Ghost - live music show Nov 2019 promotional tour concert gig poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ghost poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ghost - live music show Nov 2019 promotional tour concert gig poster"><img src="{{ '/assets/images/marketplace-covers/e9bbab17781e4df43065.jpg' | relative_url }}" alt="Listing image for Ghost - live music show Nov 2019 promotional tour concert gig poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer">Ghost - live music show Nov 2019 promotional tour concert gig poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Poster Ghost in the Shell 420mm x 594mm (size A2)"><img src="{{ '/assets/images/marketplace-covers/ed5a1be57c89939f869e.jpg' | relative_url }}" alt="Listing image for Poster Ghost in the Shell 420mm x 594mm (size A2)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer">Poster Ghost in the Shell 420mm x 594mm (size A2)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ghost poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Poster Ghost in the Shell 420mm x 594mm (size A2)"><img src="{{ '/assets/images/marketplace-covers/ed5a1be57c89939f869e.jpg' | relative_url }}" alt="Listing image for Poster Ghost in the Shell 420mm x 594mm (size A2)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer">Poster Ghost in the Shell 420mm x 594mm (size A2)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="place-reputation-can-a-haunted-reputation-create-experiences-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -612,7 +612,7 @@ For students of [Forteana]({{ 'forteana/' | relative_url }}), this is precisely 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -632,7 +632,7 @@ For students of [Forteana]({{ 'forteana/' | relative_url }}), this is precisely 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -664,7 +664,7 @@ For students of [Forteana]({{ 'forteana/' | relative_url }}), this is precisely 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -716,7 +716,7 @@ For students of [Forteana]({{ 'forteana/' | relative_url }}), this is precisely 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -761,7 +761,7 @@ For students of [Forteana]({{ 'forteana/' | relative_url }}), this is precisely 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -802,145 +802,145 @@ For students of [Forteana]({{ 'forteana/' | relative_url }}), this is precisely 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/282948909_Suggestion_belief_in_the_paranormal_proneness_to_reality_testing_deficits_and_perception_of_an_allegedly_haunted_building" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/282948909_Suggestion_belief_in_the_paranormal_proneness_to_reality_testing_deficits_and_perception_of_an_allegedly_haunted_building</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Suggestion, belief in the paranormal, proneness to...The present study investigated whether suggestion, level of belief in the par...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/282948909_Suggestion_belief_in_the_paranormal_proneness_to_reality_testing_deficits_and_perception_of_an_allegedly_haunted_building" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/282948909_Suggestion_belief_in_the_paranormal_proneness_to_reality_testing_deficits_and_perception_of_an_allegedly_haunted_building</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Suggestion, belief in the paranormal, proneness to...The present study investigated whether suggestion, level of belief in the par...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/242695933_An_investigation_into_the_alleged_haunting_of_Hampton_Court_Palace_Psychological_variables_and_magnetic_fields" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/242695933_An_investigation_into_the_alleged_haunting_of_Hampton_Court_Palace_Psychological_variables_and_magnetic_fields</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>with both staff and visitors reporting unusual phenomena in many areas of...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/242695933_An_investigation_into_the_alleged_haunting_of_Hampton_Court_Palace_Psychological_variables_and_magnetic_fields" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/242695933_An_investigation_into_the_alleged_haunting_of_Hampton_Court_Palace_Psychological_variables_and_magnetic_fields</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>with both staff and visitors reporting unusual phenomena in many areas of...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
    Title: 342720967 ARTICLE REVIEW INVESTIGATION INTO HAUNTINGS  
-   Link: <a href="https://www.researchgate.net/publication/342720967_ARTICLE_REVIEW_INVESTIGATION_INTO_HAUNTINGS" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342720967_ARTICLE_REVIEW_INVESTIGATION_INTO_HAUNTINGS</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>article review: investigation into hauntingsJul 6, 2020 — PDF | This journal article review was completed as part of the requirements for...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/342720967_ARTICLE_REVIEW_INVESTIGATION_INTO_HAUNTINGS" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342720967_ARTICLE_REVIEW_INVESTIGATION_INTO_HAUNTINGS</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>article review: investigation into hauntingsJul 6, 2020 — PDF | This journal article review was completed as part of the requirements for...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
    Title: 10710505 An investigation into alleged 'hauntings'  
-   Link: <a href="https://www.researchgate.net/publication/10710505_An_investigation_into_alleged_%27hauntings%27" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/10710505_An_investigation_into_alleged_%27hauntings%27</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) An investigation into alleged &#x27;hauntings&#x27;Aug 21, 2018 — The experiments took place at two locations that have a considerable reputa...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/10710505_An_investigation_into_alleged_%27hauntings%27" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/10710505_An_investigation_into_alleged_%27hauntings%27</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) An investigation into alleged &#x27;hauntings&#x27;Aug 21, 2018 — The experiments took place at two locations that have a considerable reputa...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/12803815/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/12803815/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An investigation into alleged &#x27;hauntings&#x27;by R Wiseman · 2003 · Cited by 120 — The two studies reported here explored the psychologi...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/12803815/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/12803815/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An investigation into alleged &#x27;hauntings&#x27;by R Wiseman · 2003 · Cited by 120 — The two studies reported here explored the psychologi...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: gold.ac.uk  
    Title: chris french halloween ghosts  
-   Link: <a href="https://www.gold.ac.uk/news/chris-french-halloween-ghosts/" target="_blank" rel="noopener noreferrer nofollow">https://www.gold.ac.uk/news/chris-french-halloween-ghosts/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>smiths, University of LondonGhost-busting with Chris French26 Oct 2015 — Chris French discusses some of the factors that might lead s...</p></details>
+   Link:<a href="https://www.gold.ac.uk/news/chris-french-halloween-ghosts/" target="_blank" rel="noopener noreferrer nofollow">https://www.gold.ac.uk/news/chris-french-halloween-ghosts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>smiths, University of LondonGhost-busting with Chris French26 Oct 2015 — Chris French discusses some of the factors that might lead s...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: richardwiseman.com  
    Title: Richard Wiseman An investigation into alleged 'hauntings'  
-   Link: <a href="https://www.richardwiseman.com/resources/BJP-hauntings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.richardwiseman.com/resources/BJP-hauntings.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An investigation into alleged &#x27;hauntings&#x27; - Richard Wisemanby R Wiseman · 2003 · Cited by 120 — The experiments took place at two locatio...</p></details>
+   Link:<a href="https://www.richardwiseman.com/resources/BJP-hauntings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.richardwiseman.com/resources/BJP-hauntings.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An investigation into alleged &#x27;hauntings&#x27; - Richard Wisemanby R Wiseman · 2003 · Cited by 120 — The experiments took place at two locatio...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchprofiles.herts.ac.uk  
    Title: an investigation into alleged hauntings  
-   Link: <a href="https://researchprofiles.herts.ac.uk/en/publications/an-investigation-into-alleged-hauntings/" target="_blank" rel="noopener noreferrer nofollow">https://researchprofiles.herts.ac.uk/en/publications/an-investigation-into-alleged-hauntings/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hertfordshire Research ProfilesAn investigation into alleged &#x27;hauntings&#x27;by R Wiseman · 2003 · Cited by 120 — The experiments took place a...</p></details>
+   Link:<a href="https://researchprofiles.herts.ac.uk/en/publications/an-investigation-into-alleged-hauntings/" target="_blank" rel="noopener noreferrer nofollow">https://researchprofiles.herts.ac.uk/en/publications/an-investigation-into-alleged-hauntings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hertfordshire Research ProfilesAn investigation into alleged &#x27;hauntings&#x27;by R Wiseman · 2003 · Cited by 120 — The experiments took place a...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchprofiles.herts.ac.uk  
    Title: an investigation into the alleged haunting of hampton court palac  
-   Link: <a href="https://researchprofiles.herts.ac.uk/en/publications/an-investigation-into-the-alleged-haunting-of-hampton-court-palac/" target="_blank" rel="noopener noreferrer nofollow">https://researchprofiles.herts.ac.uk/en/publications/an-investigation-into-the-alleged-haunting-of-hampton-court-palac/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hertfordshire Research ProfilesAn investigation into the alleged haunting of Hampton...by R Wiseman · 2002 · Cited by 72 — Hampton Court...</p></details>
+   Link:<a href="https://researchprofiles.herts.ac.uk/en/publications/an-investigation-into-the-alleged-haunting-of-hampton-court-palac/" target="_blank" rel="noopener noreferrer nofollow">https://researchprofiles.herts.ac.uk/en/publications/an-investigation-into-the-alleged-haunting-of-hampton-court-palac/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hertfordshire Research ProfilesAn investigation into the alleged haunting of Hampton...by R Wiseman · 2002 · Cited by 72 — Hampton Court...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: hrp.org.uk  
    Title: historic hauntings at hampton court palace  
-   Link: <a href="https://www.hrp.org.uk/hampton-court-palace/history-and-stories/historic-hauntings-at-hampton-court-palace/" target="_blank" rel="noopener noreferrer nofollow">https://www.hrp.org.uk/hampton-court-palace/history-and-stories/historic-hauntings-at-hampton-court-palace/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Historic Royal PalacesHistoric hauntings at Hampton Court PalaceIn May 2000, the noted psychologist Richard Wiseman conducted an experime...</p></details>
+   Link:<a href="https://www.hrp.org.uk/hampton-court-palace/history-and-stories/historic-hauntings-at-hampton-court-palace/" target="_blank" rel="noopener noreferrer nofollow">https://www.hrp.org.uk/hampton-court-palace/history-and-stories/historic-hauntings-at-hampton-court-palace/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Historic Royal PalacesHistoric hauntings at Hampton Court PalaceIn May 2000, the noted psychologist Richard Wiseman conducted an experime...</p></details>
    Published: May 2000  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: hrp.org.uk  
-   Link: <a href="https://www.hrp.org.uk/hampton-court-palace/whats-on/haunted-gallery-and-processional-route/" target="_blank" rel="noopener noreferrer nofollow">https://www.hrp.org.uk/hampton-court-palace/whats-on/haunted-gallery-and-processional-route/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Historic Royal PalacesHaunted Gallery and Processional Route | Hampton Court...Walk Henry VIII&#x27;s route from his private apartments to th...</p></details>
+   Link:<a href="https://www.hrp.org.uk/hampton-court-palace/whats-on/haunted-gallery-and-processional-route/" target="_blank" rel="noopener noreferrer nofollow">https://www.hrp.org.uk/hampton-court-palace/whats-on/haunted-gallery-and-processional-route/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Historic Royal PalacesHaunted Gallery and Processional Route | Hampton Court...Walk Henry VIII&#x27;s route from his private apartments to th...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9216229/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9216229/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by J Houran · 2022 · Cited by 17 — Haunted People Syndrome (HP-S) denotes individuals who recurrently report various “supernatural” en...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9216229/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9216229/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by J Houran · 2022 · Cited by 17 — Haunted People Syndrome (HP-S) denotes individuals who recurrently report various “supernatural” en...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: richardwiseman.wordpress.com  
    Title: [psychology](&#123;&#123; 'psychology/' | relative_url &#125;&#125;) of ghosts and hauntings  
-   Link: <a href="https://richardwiseman.wordpress.com/research/psychology-of-ghosts-and-hauntings/" target="_blank" rel="noopener noreferrer nofollow">https://richardwiseman.wordpress.com/research/psychology-of-ghosts-and-hauntings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Edinburgh Vaults (2001)... The experiment was carried out by the same team of researchers that conducted the study at Hampton Court...</p></details>
+   Link:<a href="https://richardwiseman.wordpress.com/research/psychology-of-ghosts-and-hauntings/" target="_blank" rel="noopener noreferrer nofollow">https://richardwiseman.wordpress.com/research/psychology-of-ghosts-and-hauntings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Edinburgh Vaults (2001)... The experiment was carried out by the same team of researchers that conducted the study at Hampton Court...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: richardwiseman.wordpress.com  
    Title: the science of ghost hunting  
-   Link: <a href="https://richardwiseman.wordpress.com/2024/12/12/the-science-of-ghost-hunting/" target="_blank" rel="noopener noreferrer nofollow">https://richardwiseman.wordpress.com/2024/12/12/the-science-of-ghost-hunting/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>science of ghost hunting - Richard Wiseman12 Dec 2024 — In the 1990s, I obtained a PhD in the psychology of the paranormal from Edinburgh...</p></details>
+   Link:<a href="https://richardwiseman.wordpress.com/2024/12/12/the-science-of-ghost-hunting/" target="_blank" rel="noopener noreferrer nofollow">https://richardwiseman.wordpress.com/2024/12/12/the-science-of-ghost-hunting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>science of ghost hunting - Richard Wiseman12 Dec 2024 — In the 1990s, I obtained a PhD in the psychology of the paranormal from Edinburgh...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: tlu.ee  
-   Link: <a href="https://www.tlu.ee/~kivihall/C1.2%20%2819.02.15%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.tlu.ee/~kivihall/C1.2%20%2819.02.15%29.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Richard WisemanF One was Hampton Court, the former royal palace near London which is said to be haunted by the screaming ghost of Catheri...</p></details>
+   Link:<a href="https://www.tlu.ee/~kivihall/C1.2%20%2819.02.15%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.tlu.ee/~kivihall/C1.2%20%2819.02.15%29.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Richard WisemanF One was Hampton Court, the former royal palace near London which is said to be haunted by the screaming ghost of Catheri...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: apa.org  
-   Link: <a href="https://www.apa.org/news/podcasts/speaking-of-psychology/paranormal" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/news/podcasts/speaking-of-psychology/paranormal</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationSpeaking of Psychology: Ghosts, Ouija boards, and ESPFrench discusses how psychological explanations su...</p></details>
+   Link:<a href="https://www.apa.org/news/podcasts/speaking-of-psychology/paranormal" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/news/podcasts/speaking-of-psychology/paranormal</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationSpeaking of Psychology: Ghosts, Ouija boards, and ESPFrench discusses how psychological explanations su...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: guinnessworldrecords.com  
-   Link: <a href="https://www.guinnessworldrecords.com/news/2026/5/psychologists-asked-1000-people-to-walk-around-a-haunted-house-what-did-they-learn" target="_blank" rel="noopener noreferrer nofollow">https://www.guinnessworldrecords.com/news/2026/5/psychologists-asked-1000-people-to-walk-around-a-haunted-house-what-did-they-learn</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychologists asked 1000 people to walk around a...May 22, 2026 — The largest study into an (allegedly) haunted house revealed as much i...</p></details>
+   Link:<a href="https://www.guinnessworldrecords.com/news/2026/5/psychologists-asked-1000-people-to-walk-around-a-haunted-house-what-did-they-learn" target="_blank" rel="noopener noreferrer nofollow">https://www.guinnessworldrecords.com/news/2026/5/psychologists-asked-1000-people-to-walk-around-a-haunted-house-what-did-they-learn</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psychologists asked 1000 people to walk around a...May 22, 2026 — The largest study into an (allegedly) haunted house revealed as much i...</p></details>
    Published: May 22, 2026  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
    Title: turns out there is at least some truth behind your favorite ghost story heres wh  
-   Link: <a href="https://www.facebook.com/TED/posts/turns-out-there-is-at-least-some-truth-behind-your-favorite-ghost-story-heres-wh/1411224010577073/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TED/posts/turns-out-there-is-at-least-some-truth-behind-your-favorite-ghost-story-heres-wh/1411224010577073/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Turns out, there is at least *some* truth behind your favorite...The Haunted Edinburgh Vaults In 2001 Wiseman decided to investigate the...</p></details>
+   Link:<a href="https://www.facebook.com/TED/posts/turns-out-there-is-at-least-some-truth-behind-your-favorite-ghost-story-heres-wh/1411224010577073/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TED/posts/turns-out-there-is-at-least-some-truth-behind-your-favorite-ghost-story-heres-wh/1411224010577073/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Turns out, there is at least *some* truth behind your favorite...The Haunted Edinburgh Vaults In 2001 Wiseman decided to investigate the...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: guinnessworldrecords.com  
    Title: 76933 most participants in a scientific study into an alleged haunted house  
-   Link: <a href="https://www.guinnessworldrecords.com/world-records/76933-most-participants-in-a-scientific-study-into-an-alleged-haunted-house" target="_blank" rel="noopener noreferrer nofollow">https://www.guinnessworldrecords.com/world-records/76933-most-participants-in-a-scientific-study-into-an-alleged-haunted-house</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Most participants in a scientific study into an alleged...Between 26 May and 4 June 2000, Psychologist Richard Wiseman (University of He...</p></details>
+   Link:<a href="https://www.guinnessworldrecords.com/world-records/76933-most-participants-in-a-scientific-study-into-an-alleged-haunted-house" target="_blank" rel="noopener noreferrer nofollow">https://www.guinnessworldrecords.com/world-records/76933-most-participants-in-a-scientific-study-into-an-alleged-haunted-house</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Most participants in a scientific study into an alleged...Between 26 May and 4 June 2000, Psychologist Richard Wiseman (University of He...</p></details>
    Published: June 2000  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: hamptoncourtsnugs.com  
-   Link: <a href="https://www.hamptoncourtsnugs.com/pages/hampton-court-palace%27s-haunted-histories" target="_blank" rel="noopener noreferrer nofollow">https://www.hamptoncourtsnugs.com/pages/hampton-court-palace%27s-haunted-histories</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On occasions, reports of spectral dogs and a ghostly cat have emerged—...Read more...</p></details>
+   Link:<a href="https://www.hamptoncourtsnugs.com/pages/hampton-court-palace%27s-haunted-histories" target="_blank" rel="noopener noreferrer nofollow">https://www.hamptoncourtsnugs.com/pages/hampton-court-palace%27s-haunted-histories</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On occasions, reports of spectral dogs and a ghostly cat have emerged—...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: deadlive.co.uk  
-   Link: <a href="https://deadlive.co.uk/hamptoncourtpalace-haunted/" target="_blank" rel="noopener noreferrer nofollow">https://deadlive.co.uk/hamptoncourtpalace-haunted/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Visitors report cold spots near the portraits, unexplained screams...Read more...</p></details>
+   Link:<a href="https://deadlive.co.uk/hamptoncourtpalace-haunted/" target="_blank" rel="noopener noreferrer nofollow">https://deadlive.co.uk/hamptoncourtpalace-haunted/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Visitors report cold spots near the portraits, unexplained screams...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: businessinsider.com  
    Title: hampton court palace haunted ghost stories 2021 10  
-   Link: <a href="https://www.businessinsider.com/hampton-court-palace-haunted-ghost-stories-2021-10" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/hampton-court-palace-haunted-ghost-stories-2021-10</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 eerie stories about Hampton Court Palace, which is said...Oct 19, 2022 — Hampton Court Palace has been the location of multiple ghost...</p></details>
+   Link:<a href="https://www.businessinsider.com/hampton-court-palace-haunted-ghost-stories" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/hampton-court-palace-haunted-ghost-stories</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 eerie stories about Hampton Court Palace, which is said...Oct 19, 2022 — Hampton Court Palace has been the location of multiple ghost...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/hamptoncourtpalace/posts/beware-the-ghosts-of-hampton-court-palace-have-returned-can-you-spot-them-glidin/1253329080159830/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/hamptoncourtpalace/posts/beware-the-ghosts-of-hampton-court-palace-have-returned-can-you-spot-them-glidin/1253329080159830/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>es, it was the famous 1 minute long surveillance footage...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/hamptoncourtpalace/posts/beware-the-ghosts-of-hampton-court-palace-have-returned-can-you-spot-them-glidin/1253329080159830/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/hamptoncourtpalace/posts/beware-the-ghosts-of-hampton-court-palace-have-returned-can-you-spot-them-glidin/1253329080159830/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>es, it was the famous 1 minute long surveillance footage...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Ghosts/comments/1rdef32/hampton_court_do_you_know_any_ghost_stories_about/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Ghosts/comments/1rdef32/hampton_court_do_you_know_any_ghost_stories_about/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ghost tours in London. Things to do near Hampton Court Palace...</p></details>
+   Link:<a href="https://www.reddit.com/r/Ghosts/comments/1rdef32/hampton_court_do_you_know_any_ghost_stories_about/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Ghosts/comments/1rdef32/hampton_court_do_you_know_any_ghost_stories_about/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ghost tours in London. Things to do near Hampton Court Palace...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: research.ed.ac.uk  
    Title: an investigation into alleged hauntings  
-   Link: <a href="https://www.research.ed.ac.uk/en/publications/an-investigation-into-alleged-hauntings/" target="_blank" rel="noopener noreferrer nofollow">https://www.research.ed.ac.uk/en/publications/an-investigation-into-alleged-hauntings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>investigation into alleged &#x27;hauntings&#x27;by R Wiseman · 2003 · Cited by 122 — The experiments took place at two locations that have a consid...</p></details>
+   Link:<a href="https://www.research.ed.ac.uk/en/publications/an-investigation-into-alleged-hauntings/" target="_blank" rel="noopener noreferrer nofollow">https://www.research.ed.ac.uk/en/publications/an-investigation-into-alleged-hauntings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>investigation into alleged &#x27;hauntings&#x27;by R Wiseman · 2003 · Cited by 122 — The experiments took place at two locations that have a consid...</p></details>

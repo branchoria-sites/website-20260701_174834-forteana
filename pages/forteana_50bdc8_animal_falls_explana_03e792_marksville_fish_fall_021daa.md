@@ -280,17 +280,17 @@ image: /assets/images/forteana_50bdc8_animal_falls_explana_03e792_marksville_fis
 
 ## Introduction
 
-The reported fish fall at Marksville, Louisiana, on 23 October 1947 remains one of the best-known American examples of an alleged "rain of animals" because it was investigated by a trained fisheries biologist soon after it occurred rather than surviving only as local [folklore]({{ 'folklore/' | relative_url }}). That combination of a specific date, named witnesses and a published scientific account gives the incident unusual historical value. At the same time, it illustrates the limits of what older reports can establish. Even with contemporary investigation, no one directly observed the mechanism that brought the fish into the air, no meteorological record conclusively identified a waterspout, and many of the details that modern investigators would seek were never collected. Rather than proving that fish routinely fall from storms, the Marksville case demonstrates both how surprisingly well documented some historical reports can be and why they still leave important questions unresolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://spo.nmfs.noaa.gov/Fishery%20Leaflets/leaflet513.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spo.nmfs.noaa.gov">[NMFS Scientific Publications Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spo.nmfs.noaa.gov</span><span class="citation-popover-snippet">1947 in Marksville, Louisiana (Bajkov, 1949). Between 7 and 8 o &#x27;clock of that morrdng rish, raneing from...Read more...</span></span></span>
+The reported fish fall at Marksville, Louisiana, on 23 October 1947 remains one of the best-known American examples of an alleged "rain of animals" because it was investigated by a trained fisheries biologist soon after it occurred rather than surviving only as local [folklore]({{ 'folklore/' | relative_url }}). That combination of a specific date, named witnesses and a published scientific account gives the incident unusual historical value. At the same time, it illustrates the limits of what older reports can establish. Even with contemporary investigation, no one directly observed the mechanism that brought the fish into the air, no meteorological record conclusively identified a waterspout, and many of the details that modern investigators would seek were never collected. Rather than proving that fish routinely fall from storms, the Marksville case demonstrates both how surprisingly well documented some historical reports can be and why they still leave important questions unresolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://spo.nmfs.noaa.gov/Fishery%20Leaflets/leaflet513.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spo.nmfs.noaa.gov">[NMFS Scientific Publications Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spo.nmfs.noaa.gov</span><span class="citation-popover-snippet">1947 in Marksville, Louisiana (Bajkov, 1949). Between 7 and 8 o &#x27;clock of that morrdng rish, raneing from...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_animal_falls_explana_03e792_marksville_fish_fall_021daa-Illustration-1-dark.svg" | relative_url }}" alt="Marksville illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_animal_falls_explana_03e792_marksville_fish_fall_021daa-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_animal_falls_explana_03e792_marksville_fish_fall_021daa-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The 1947 Louisiana report
 
-On the morning of 23 October 1947, residents of Marksville reported fish falling over a relatively confined part of the town between roughly seven and eight o'clock. Accounts described fish scattered across streets, pavements and rooftops over an area approximately 1,000 feet (about 300 metres) long and 75–80 feet (23–24 metres) wide. Vehicles reportedly crushed fish already lying on the road while some witnesses claimed they were struck by falling specimens. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://spo.nmfs.noaa.gov/Fishery%20Leaflets/leaflet513.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spo.nmfs.noaa.gov">[NMFS Scientific Publications Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spo.nmfs.noaa.gov</span><span class="citation-popover-snippet">1947 in Marksville, Louisiana (Bajkov, 1949). Between 7 and 8 o &#x27;clock of that morrdng rish, raneing from...Read more...</span></span></span>
+On the morning of 23 October 1947, residents of Marksville reported fish falling over a relatively confined part of the town between roughly seven and eight o'clock. Accounts described fish scattered across streets, pavements and rooftops over an area approximately 1,000 feet (about 300 metres) long and 75–80 feet (23–24 metres) wide. Vehicles reportedly crushed fish already lying on the road while some witnesses claimed they were struck by falling specimens.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://spo.nmfs.noaa.gov/Fishery%20Leaflets/leaflet513.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spo.nmfs.noaa.gov">[NMFS Scientific Publications Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spo.nmfs.noaa.gov</span><span class="citation-popover-snippet">1947 in Marksville, Louisiana (Bajkov, 1949). Between 7 and 8 o &#x27;clock of that morrdng rish, raneing from...Read more...</span></span></span>
 
-What distinguishes this case from many nineteenth-century anecdotes is the presence of Alexander D. Bajkov, a fisheries biologist who happened to be in Marksville conducting field work. After hearing reports from a waitress while eating breakfast, he examined the scene, collected specimens and later published a paper in the journal *Science* titled "Do Fish Fall from the Sky?" in 1949. His account identified the animals as local freshwater species rather than exotic or marine fish. They included largemouth bass, goggle-eye (warmouth), sunfish, minnows and hickory shad, generally measuring between about two and nine inches long. NMFS Scientific Publications Office+2Skeptics Stack Exchange <span class="citation-link-wrap"><a class="citation-inline-link" href="https://spo.nmfs.noaa.gov/Fishery%20Leaflets/leaflet513.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spo.nmfs.noaa.gov">[spo.nmfs.noaa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spo.nmfs.noaa.gov</span><span class="citation-popover-snippet">1947 in Marksville, Louisiana (Bajkov, 1949). Between 7 and 8 o &#x27;clock of that morrdng rish, raneing from...Read more...</span></span></span>
+What distinguishes this case from many nineteenth-century anecdotes is the presence of Alexander D. Bajkov, a fisheries biologist who happened to be in Marksville conducting field work. After hearing reports from a waitress while eating breakfast, he examined the scene, collected specimens and later published a paper in the journal *Science* titled "Do Fish Fall from the Sky?" in 1949. His account identified the animals as local freshwater species rather than exotic or marine fish. They included largemouth bass, goggle-eye (warmouth), sunfish, minnows and hickory shad, generally measuring between about two and nine inches long. NMFS Scientific Publications Office+2Skeptics Stack Exchange<span class="citation-link-wrap"><a class="citation-inline-link" href="https://spo.nmfs.noaa.gov/Fishery%20Leaflets/leaflet513.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spo.nmfs.noaa.gov">[spo.nmfs.noaa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spo.nmfs.noaa.gov</span><span class="citation-popover-snippet">1947 in Marksville, Louisiana (Bajkov, 1949). Between 7 and 8 o &#x27;clock of that morrdng rish, raneing from...Read more...</span></span></span>
 
-Bajkov also recorded named witnesses, including local businessmen and a bank employee, rather than relying solely on anonymous testimony. That level of documentation makes the Marksville report far stronger than many historical animal-fall stories whose origins cannot be traced beyond newspaper [retellings]({{ 'retellings/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skeptics.stackexchange.com/questions/27745/has-it-ever-rained-fish" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptics.stackexchange.com">[Skeptics Stack Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptics.stackexchange.com</span><span class="citation-popover-title">has it ever rained fish</span><span class="citation-popover-snippet">Skeptics Stack ExchangeHas it ever rained fish?17 May 2015 — There have been several reports of &quot;raining fish&quot; where fish fall from the s...</span><span class="citation-popover-meta">Published: May 2015</span></span></span>
+Bajkov also recorded named witnesses, including local businessmen and a bank employee, rather than relying solely on anonymous testimony. That level of documentation makes the Marksville report far stronger than many historical animal-fall stories whose origins cannot be traced beyond newspaper [retellings]({{ 'retellings/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skeptics.stackexchange.com/questions/27745/has-it-ever-rained-fish" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptics.stackexchange.com">[Skeptics Stack Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptics.stackexchange.com</span><span class="citation-popover-title">has it ever rained fish</span><span class="citation-popover-snippet">Skeptics Stack ExchangeHas it ever rained fish?17 May 2015 — There have been several reports of &quot;raining fish&quot; where fish fall from the s...</span><span class="citation-popover-meta">Published: May 2015</span></span></span>
 
 ## Why named testimony matters
 
@@ -301,7 +301,7 @@ Several features increase its credibility as a genuine observational event:
 * The investigator was a professional fisheries biologist rather than a later compiler of unusual stories.
 * Fish were reportedly collected and identified shortly after the event.
 * Multiple named local witnesses independently described fish falling rather than merely finding them later.
-* The reported distribution covered a defined corridor instead of an entire town, consistent with a localised atmospheric event rather than widespread flooding. NMFS Scientific Publications Office+2Skeptics Stack Exchange <span class="citation-link-wrap"><a class="citation-inline-link" href="https://spo.nmfs.noaa.gov/Fishery%20Leaflets/leaflet513.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spo.nmfs.noaa.gov">[spo.nmfs.noaa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spo.nmfs.noaa.gov</span><span class="citation-popover-snippet">1947 in Marksville, Louisiana (Bajkov, 1949). Between 7 and 8 o &#x27;clock of that morrdng rish, raneing from...Read more...</span></span></span>
+* The reported distribution covered a defined corridor instead of an entire town, consistent with a localised atmospheric event rather than widespread flooding. NMFS Scientific Publications Office+2Skeptics Stack Exchange<span class="citation-link-wrap"><a class="citation-inline-link" href="https://spo.nmfs.noaa.gov/Fishery%20Leaflets/leaflet513.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spo.nmfs.noaa.gov">[spo.nmfs.noaa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spo.nmfs.noaa.gov</span><span class="citation-popover-snippet">1947 in Marksville, Louisiana (Bajkov, 1949). Between 7 and 8 o &#x27;clock of that morrdng rish, raneing from...Read more...</span></span></span>
 
 Importantly, these strengths support one conclusion more confidently than another. They make it more likely that fish genuinely appeared across part of Marksville under unusual circumstances. They do **not** by themselves establish exactly how the fish reached the ground.
 
@@ -316,11 +316,11 @@ The enduring fascination of Marksville comes from the gap between well-documente
 
 ### No direct observation of transport
 
-No witness described seeing fish lifted into the atmosphere. Observers only encountered the final stage: fish descending or already lying on streets. Consequently, the most dramatic part of the story—the journey through the air—was inferred rather than observed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://spo.nmfs.noaa.gov/Fishery%20Leaflets/leaflet513.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spo.nmfs.noaa.gov">[NMFS Scientific Publications Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spo.nmfs.noaa.gov</span><span class="citation-popover-snippet">1947 in Marksville, Louisiana (Bajkov, 1949). Between 7 and 8 o &#x27;clock of that morrdng rish, raneing from...Read more...</span></span></span>
+No witness described seeing fish lifted into the atmosphere. Observers only encountered the final stage: fish descending or already lying on streets. Consequently, the most dramatic part of the story—the journey through the air—was inferred rather than observed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://spo.nmfs.noaa.gov/Fishery%20Leaflets/leaflet513.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spo.nmfs.noaa.gov">[NMFS Scientific Publications Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spo.nmfs.noaa.gov</span><span class="citation-popover-snippet">1947 in Marksville, Louisiana (Bajkov, 1949). Between 7 and 8 o &#x27;clock of that morrdng rish, raneing from...Read more...</span></span></span>
 
 ### Limited meteorological evidence
 
-Modern investigators would compare eyewitness reports with Doppler radar, satellite imagery, detailed wind fields and high-resolution storm records. None of these existed in 1947. Later discussions often suggest a waterspout or other strong atmospheric vortex as the most plausible mechanism because such phenomena can transport lightweight aquatic animals. However, no definitive meteorological [observation]({{ 'observation/' | relative_url }}) confirms that one occurred at the relevant place and time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theweathernetwork.com/en/news/nature/animals/october-23-1947-fish-falling-from-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theweathernetwork.com">[The Weather Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theweathernetwork.com</span><span class="citation-popover-snippet">The Weather NetworkOctober 23, 1947 - Fish fall from the sky23 Oct 2020 — On October 23, 1947, the forecast was incorrect for Marksville...</span><span class="citation-popover-meta">Published: October 23, 1947</span></span></span>
+Modern investigators would compare eyewitness reports with Doppler radar, satellite imagery, detailed wind fields and high-resolution storm records. None of these existed in 1947. Later discussions often suggest a waterspout or other strong atmospheric vortex as the most plausible mechanism because such phenomena can transport lightweight aquatic animals. However, no definitive meteorological [observation]({{ 'observation/' | relative_url }}) confirms that one occurred at the relevant place and time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theweathernetwork.com/en/news/nature/animals/october-23-1947-fish-falling-from-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theweathernetwork.com">[The Weather Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theweathernetwork.com</span><span class="citation-popover-snippet">The Weather NetworkOctober 23, 1947 - Fish fall from the sky23 Oct 2020 — On October 23, 1947, the forecast was incorrect for Marksville...</span><span class="citation-popover-meta">Published: October 23, 1947</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_animal_falls_explana_03e792_marksville_fish_fall_021daa-Illustration-2-dark.svg" | relative_url }}" alt="Marksville illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_animal_falls_explana_03e792_marksville_fish_fall_021daa-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_animal_falls_explana_03e792_marksville_fish_fall_021daa-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -334,7 +334,7 @@ Although the fish were identified, many details that could test competing explan
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * water levels in nearby bayous;
-* whether similar fish appeared outside the reported fall zone; <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thefortean.com/category/fish-fall/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thefortean.com">[thefortean.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thefortean.com</span><span class="citation-popover-title">Fish Fall Archives</span><span class="citation-popover-snippet">The ForteanThe Honduran media is reporting that the annual fish rain in Yoro, Honduras took place on Saturday 16 June.Read more...</span></span></span>
+* whether similar fish appeared outside the reported fall zone;<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thefortean.com/category/fish-fall/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thefortean.com">[thefortean.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thefortean.com</span><span class="citation-popover-title">Fish Fall Archives</span><span class="citation-popover-snippet">The ForteanThe Honduran media is reporting that the annual fish rain in Yoro, Honduras took place on Saturday 16 June.Read more...</span></span></span>
 * comprehensive mapping of where every specimen landed.
 
 </div>
@@ -346,7 +346,7 @@ These gaps are unsurprising for a 1947 field investigation but limit what later 
 
 ## Why the waterspout explanation remains plausible but unproven
 
-Bajkov himself regarded atmospheric transport as the most likely explanation, and later discussions have generally favoured some form of vortex associated with nearby water. Marksville lies close to waterways such as Spring Bayou, providing an obvious potential source for small freshwater fish. A rotating column of air could, in principle, lift fish from shallow water and deposit them over a narrow area after losing strength. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://spo.nmfs.noaa.gov/Fishery%20Leaflets/leaflet513.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spo.nmfs.noaa.gov">[NMFS Scientific Publications Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spo.nmfs.noaa.gov</span><span class="citation-popover-snippet">1947 in Marksville, Louisiana (Bajkov, 1949). Between 7 and 8 o &#x27;clock of that morrdng rish, raneing from...Read more...</span></span></span>
+Bajkov himself regarded atmospheric transport as the most likely explanation, and later discussions have generally favoured some form of vortex associated with nearby water. Marksville lies close to waterways such as Spring Bayou, providing an obvious potential source for small freshwater fish. A rotating column of air could, in principle, lift fish from shallow water and deposit them over a narrow area after losing strength.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://spo.nmfs.noaa.gov/Fishery%20Leaflets/leaflet513.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spo.nmfs.noaa.gov">[NMFS Scientific Publications Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spo.nmfs.noaa.gov</span><span class="citation-popover-snippet">1947 in Marksville, Louisiana (Bajkov, 1949). Between 7 and 8 o &#x27;clock of that morrdng rish, raneing from...Read more...</span></span></span>
 
 Yet plausibility is not proof. No photograph captured such a vortex, no observer reported seeing fish lifted from the bayou, and alternative mechanisms—while often less persuasive—cannot be eliminated with certainty decades later.
 
@@ -357,7 +357,7 @@ The case therefore occupies an intermediate position. It is considerably stronge
 
 ## What Marksville can and cannot prove
 
-The Marksville fish fall remains historically important because it shows that reports of animal falls are not invariably products of rumour or embellishment. A professional investigator documented the event, identified the fish and recorded named eyewitnesses. Those features make it one of the most substantial twentieth-century American cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://spo.nmfs.noaa.gov/Fishery%20Leaflets/leaflet513.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spo.nmfs.noaa.gov">[NMFS Scientific Publications Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spo.nmfs.noaa.gov</span><span class="citation-popover-snippet">1947 in Marksville, Louisiana (Bajkov, 1949). Between 7 and 8 o &#x27;clock of that morrdng rish, raneing from...Read more...</span></span></span>
+The Marksville fish fall remains historically important because it shows that reports of animal falls are not invariably products of rumour or embellishment. A professional investigator documented the event, identified the fish and recorded named eyewitnesses. Those features make it one of the most substantial twentieth-century American cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://spo.nmfs.noaa.gov/Fishery%20Leaflets/leaflet513.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spo.nmfs.noaa.gov">[NMFS Scientific Publications Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spo.nmfs.noaa.gov</span><span class="citation-popover-snippet">1947 in Marksville, Louisiana (Bajkov, 1949). Between 7 and 8 o &#x27;clock of that morrdng rish, raneing from...Read more...</span></span></span>
 
 However, its evidential value also has clear limits. It cannot demonstrate that [waterspouts]({{ 'waterspouts/' | relative_url }}) caused the fall, because the lifting mechanism was never observed. Nor can it establish that every historical report of raining fish has the same explanation. Instead, Marksville illustrates a broader lesson about older anomalous reports: careful contemporary documentation can greatly improve confidence that an unusual event occurred, yet still leave the crucial causal question unresolved because the decisive evidence was never captured.
 
@@ -367,194 +367,194 @@ Within the history of [Forteana]({{ 'forteana/' | relative_url }}), that balance
 <img src="{{ "/assets/images/forteana_50bdc8_animal_falls_explana_03e792_marksville_fish_fall_021daa-Illustration-3-dark.svg" | relative_url }}" alt="Marksville illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_animal_falls_explana_03e792_marksville_fish_fall_021daa-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_animal_falls_explana_03e792_marksville_fish_fall_021daa-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Marksville Can and Cannot Prove. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Marksville Can and Cannot Prove. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
-        </h4>
-        <p class="fr-book-author">By Charles Fort</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
+</h4>
+<p class="fr-book-author">By Charles Fort</p>
         
-        <p class="fr-book-desc">Historic source for anomalous falls and unexplained events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Historic source for anomalous falls and unexplained events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Explores why remarkable stories and beliefs persist across generations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Explores why remarkable stories and beliefs persist across generations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weather For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LtoPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Weather For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
-        </h4>
-        <p class="fr-book-author">By John D. Cox</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weather For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LtoPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Weather For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
+</h4>
+<p class="fr-book-author">By John D. Cox</p>
         
-        <p class="fr-book-desc">Explains storms and meteorological mechanisms relevant to fish falls.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains storms and meteorological mechanisms relevant to fish falls.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=National+Audubon+Society+Field+Guide+to+North+American+Fishes+National+Audubon+Society&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open National Audubon Society Field Guide to North American Fishes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/226323-M.jpg" alt="Cover for National Audubon Society Field Guide to North American Fishes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=National+Audubon+Society+Field+Guide+to+North+American+Fishes+National+Audubon+Society&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="National Audubon Society Field Guide to North American Fishes">National Audubon Society Field Guide to North American Fishes</a>
-        </h4>
-        <p class="fr-book-author">By National Audubon Society</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=National+Audubon+Society+Field+Guide+to+North+American+Fishes+National+Audubon+Society&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open National Audubon Society Field Guide to North American Fishes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/226323-M.jpg" alt="Cover for National Audubon Society Field Guide to North American Fishes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=National+Audubon+Society+Field+Guide+to+North+American+Fishes+National+Audubon+Society&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="National Audubon Society Field Guide to North American Fishes">National Audubon Society Field Guide to North American Fishes</a>
+</h4>
+<p class="fr-book-author">By National Audubon Society</p>
         
-        <p class="fr-book-desc">First published 2002. Subjects: Fishes, Identification, Fishes, north america.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=National+Audubon+Society+Field+Guide+to+North+American+Fishes+National+Audubon+Society&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2002. Subjects: Fishes, Identification, Fishes, north america.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=National+Audubon+Society+Field+Guide+to+North+American+Fishes+National+Audubon+Society&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Weather+For+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weather For Dummies</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Weather+For+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weather For Dummies</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for After The Rain Fjord Sea Boat Fishing Finnmark Norway Green Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/61d368165882a17db39e.jpg' | relative_url }}" alt="Listing image for After The Rain Fjord Sea Boat Fishing Finnmark Norway Green Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">After The Rain Fjord Sea Boat Fishing Finnmark Norway Green Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for After The Rain Fjord Sea Boat Fishing Finnmark Norway Green Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/61d368165882a17db39e.jpg' | relative_url }}" alt="Listing image for After The Rain Fjord Sea Boat Fishing Finnmark Norway Green Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">After The Rain Fjord Sea Boat Fishing Finnmark Norway Green Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Grinder fish rain clouds Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/9f733ce224aa6b0a4349.jpg' | relative_url }}" alt="Listing image for The Grinder fish rain clouds Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">The Grinder fish rain clouds Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Grinder fish rain clouds Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/9f733ce224aa6b0a4349.jpg' | relative_url }}" alt="Listing image for The Grinder fish rain clouds Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">The Grinder fish rain clouds Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Man Monochrome Rain Rainy Cloudy Walk Walking Behind Back Fish Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/27ff5433e18ed337d089.jpg' | relative_url }}" alt="Listing image for Man Monochrome Rain Rainy Cloudy Walk Walking Behind Back Fish Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">Man Monochrome Rain Rainy Cloudy Walk Walking Behind Back Fish Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Man Monochrome Rain Rainy Cloudy Walk Walking Behind Back Fish Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/27ff5433e18ed337d089.jpg' | relative_url }}" alt="Listing image for Man Monochrome Rain Rainy Cloudy Walk Walking Behind Back Fish Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">Man Monochrome Rain Rainy Cloudy Walk Walking Behind Back Fish Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print"><img src="{{ '/assets/images/marketplace-covers/c7769be80584af0e631f.jpg' | relative_url }}" alt="Listing image for Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print"><img src="{{ '/assets/images/marketplace-covers/c7769be80584af0e631f.jpg' | relative_url }}" alt="Listing image for Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="marksville-what-marksville-can-and-cannot-prove-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -570,7 +570,7 @@ Within the history of [Forteana]({{ 'forteana/' | relative_url }}), that balance
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -590,7 +590,7 @@ Within the history of [Forteana]({{ 'forteana/' | relative_url }}), that balance
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -622,7 +622,7 @@ Within the history of [Forteana]({{ 'forteana/' | relative_url }}), that balance
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -674,7 +674,7 @@ Within the history of [Forteana]({{ 'forteana/' | relative_url }}), that balance
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -719,7 +719,7 @@ Within the history of [Forteana]({{ 'forteana/' | relative_url }}), that balance
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -760,90 +760,90 @@ Within the history of [Forteana]({{ 'forteana/' | relative_url }}), that balance
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: spo.nmfs.noaa.gov  
-   Link: <a href="https://spo.nmfs.noaa.gov/Fishery%20Leaflets/leaflet513.pdf" target="_blank" rel="noopener noreferrer nofollow">https://spo.nmfs.noaa.gov/Fishery%20Leaflets/leaflet513.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1947 in Marksville, Louisiana (Bajkov, 1949). Between 7 and 8 o &#x27;clock of that morrdng rish, raneing from...Read more...</p></details>
+   Link:<a href="https://spo.nmfs.noaa.gov/Fishery%20Leaflets/leaflet513.pdf" target="_blank" rel="noopener noreferrer nofollow">https://spo.nmfs.noaa.gov/Fishery%20Leaflets/leaflet513.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1947 in Marksville, Louisiana (Bajkov, 1949). Between 7 and 8 o &#x27;clock of that morrdng rish, raneing from...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: theweathernetwork.com  
-   Link: <a href="https://www.theweathernetwork.com/en/news/nature/animals/october-23-1947-fish-falling-from-the-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.theweathernetwork.com/en/news/nature/animals/october-23-1947-fish-falling-from-the-sky</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Weather NetworkOctober 23, 1947 - Fish fall from the sky23 Oct 2020 — On October 23, 1947, the forecast was incorrect for Marksville...</p></details>
+   Link:<a href="https://www.theweathernetwork.com/en/news/nature/animals/october-23-1947-fish-falling-from-the-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.theweathernetwork.com/en/news/nature/animals/october-23-1947-fish-falling-from-the-sky</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Weather NetworkOctober 23, 1947 - Fish fall from the sky23 Oct 2020 — On October 23, 1947, the forecast was incorrect for Marksville...</p></details>
    Published: October 23, 1947  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: skeptics.stackexchange.com  
    Title: has it ever rained fish  
-   Link: <a href="https://skeptics.stackexchange.com/questions/27745/has-it-ever-rained-fish" target="_blank" rel="noopener noreferrer nofollow">https://skeptics.stackexchange.com/questions/27745/has-it-ever-rained-fish</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptics Stack ExchangeHas it ever rained fish?17 May 2015 — There have been several reports of &quot;raining fish&quot; where fish fall from the s...</p></details>
+   Link:<a href="https://skeptics.stackexchange.com/questions/27745/has-it-ever-rained-fish" target="_blank" rel="noopener noreferrer nofollow">https://skeptics.stackexchange.com/questions/27745/has-it-ever-rained-fish</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptics Stack ExchangeHas it ever rained fish?17 May 2015 — There have been several reports of &quot;raining fish&quot; where fish fall from the s...</p></details>
    Published: May 2015  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ground.news  
-   Link: <a href="https://ground.news/article/a-fishy-mystery-in-marksville-fish-rained-down-on-the-city-in-1947-but-what-caused-it" target="_blank" rel="noopener noreferrer nofollow">https://ground.news/article/a-fishy-mystery-in-marksville-fish-rained-down-on-the-city-in-1947-but-what-caused-it</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fish rained down on the city in 1947, but what caused it?28 Dec 2025 — Biologists sent to Marksville, Louisiana, to study the raining fis...</p></details>
+   Link:<a href="https://ground.news/article/a-fishy-mystery-in-marksville-fish-rained-down-on-the-city-in-1947-but-what-caused-it" target="_blank" rel="noopener noreferrer nofollow">https://ground.news/article/a-fishy-mystery-in-marksville-fish-rained-down-on-the-city-in-1947-but-what-caused-it</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fish rained down on the city in 1947, but what caused it?28 Dec 2025 — Biologists sent to Marksville, Louisiana, to study the raining fis...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Rain of animals  
-   Link: <a href="https://en.wikipedia.org/wiki/Rain_of_animals" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rain_of_animals</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rain of animalsOne hypothesis is that tornadic waterspouts sometimes pick up creatures such as fish or frogs and carry them for up to...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Rain_of_animals" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rain_of_animals</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rain of animalsOne hypothesis is that tornadic waterspouts sometimes pick up creatures such as fish or frogs and carry them for up to...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: fws.gov  
-   Link: <a href="https://www.fws.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.fws.gov/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Fish and Wildlife ServiceWorking with others to conserve, protect, and enhance fish, wildlife, plants, and their habitats for the co...</p></details>
+   Link:<a href="https://www.fws.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.fws.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Fish and Wildlife ServiceWorking with others to conserve, protect, and enhance fish, wildlife, plants, and their habitats for the co...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: naturalhistorymag.com  
-   Link: <a href="https://www.naturalhistorymag.com/picks-from-the-past/271577/rains-of-fishes?page=6" target="_blank" rel="noopener noreferrer nofollow">https://www.naturalhistorymag.com/picks-from-the-past/271577/rains-of-fishes?page=6</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rains of FishesIs it permissible to suppose that a waterspout, in passing over some large river of Sumatra, had drawn up the fish and car...</p></details>
+   Link:<a href="https://www.naturalhistorymag.com/picks-from-the-past/271577/rains-of-fishes?page=6" target="_blank" rel="noopener noreferrer nofollow">https://www.naturalhistorymag.com/picks-from-the-past/271577/rains-of-fishes?page=6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rains of FishesIs it permissible to suppose that a waterspout, in passing over some large river of Sumatra, had drawn up the fish and car...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
    Title: a fishy mystery in marksville fish rained down on the city in 1947 but what caus  
-   Link: <a href="https://www.facebook.com/NOLAnews/posts/a-fishy-mystery-in-marksville-fish-rained-down-on-the-city-in-1947-but-what-caus/1315131930642881/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NOLAnews/posts/a-fishy-mystery-in-marksville-fish-rained-down-on-the-city-in-1947-but-what-caus/1315131930642881/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Thousands of fish fell from the sky in an area 1,000 feet long by 80 feet wide...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/NOLAnews/posts/a-fishy-mystery-in-marksville-fish-rained-down-on-the-city-in-1947-but-what-caus/1315131930642881/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NOLAnews/posts/a-fishy-mystery-in-marksville-fish-rained-down-on-the-city-in-1947-but-what-caus/1315131930642881/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thousands of fish fell from the sky in an area 1,000 feet long by 80 feet wide...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
    Title: they saw fish falling from the skythey thought the world was coming to an endsuc  
-   Link: <a href="https://www.facebook.com/stevecaparottachannel9/posts/they-saw-fish-falling-from-the-skythey-thought-the-world-was-coming-to-an-endsuc/292796125538437/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/stevecaparottachannel9/posts/they-saw-fish-falling-from-the-skythey-thought-the-world-was-coming-to-an-endsuc/292796125538437/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Thousands of fish fell from the sky in an area 1,000 feet long by 80 feet wide...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/stevecaparottachannel9/posts/they-saw-fish-falling-from-the-skythey-thought-the-world-was-coming-to-an-endsuc/292796125538437/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/stevecaparottachannel9/posts/they-saw-fish-falling-from-the-skythey-thought-the-world-was-coming-to-an-endsuc/292796125538437/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thousands of fish fell from the sky in an area 1,000 feet long by 80 feet wide...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: avoyellestoday.com  
    Title: the day fish rained from the sky in marksville  
-   Link: <a href="https://www.avoyellestoday.com/the-day-fish-rained-from-the-sky-in-marksville/" target="_blank" rel="noopener noreferrer nofollow">https://www.avoyellestoday.com/the-day-fish-rained-from-the-sky-in-marksville/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>🐟 The Day Fish Rained from the Sky in Marksville25 Jan 2026 — 23 1947 Fish of various sizes rained down across parts of Marksville landin...</p></details>
+   Link:<a href="https://www.avoyellestoday.com/the-day-fish-rained-from-the-sky-in-marksville/" target="_blank" rel="noopener noreferrer nofollow">https://www.avoyellestoday.com/the-day-fish-rained-from-the-sky-in-marksville/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>🐟 The Day Fish Rained from the Sky in Marksville25 Jan 2026 — 23 1947 Fish of various sizes rained down across parts of Marksville landin...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: countryroadsmagazine.com  
    Title: raining fish birds louisiana  
-   Link: <a href="https://countryroadsmagazine.com/art-and-culture/history/raining-fish-birds-louisiana/" target="_blank" rel="noopener noreferrer nofollow">https://countryroadsmagazine.com/art-and-culture/history/raining-fish-birds-louisiana/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s Raining Fish and Birds29 Jul 2016 — There have been several documented cases in Louisiana where it rained birds, fish, and even worm...</p></details>
+   Link:<a href="https://countryroadsmagazine.com/art-and-culture/history/raining-fish-birds-louisiana/" target="_blank" rel="noopener noreferrer nofollow">https://countryroadsmagazine.com/art-and-culture/history/raining-fish-birds-louisiana/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s Raining Fish and Birds29 Jul 2016 — There have been several documented cases in Louisiana where it rained birds, fish, and even worm...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/theadvocateaca/posts/a-fishy-mystery-in-marksville-fish-rained-down-on-the-city-in-1947-but-what-caus/1448040473994772/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theadvocateaca/posts/a-fishy-mystery-in-marksville-fish-rained-down-on-the-city-in-1947-but-what-caus/1448040473994772/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A fishy mystery in Marksville: Fish rained down on the city...In 1947, the town of Marksville, Louisiana, experienced a deluge of fish f...</p></details>
+   Link:<a href="https://www.facebook.com/theadvocateaca/posts/a-fishy-mystery-in-marksville-fish-rained-down-on-the-city-in-1947-but-what-caus/1448040473994772/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theadvocateaca/posts/a-fishy-mystery-in-marksville-fish-rained-down-on-the-city-in-1947-but-what-caus/1448040473994772/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A fishy mystery in Marksville: Fish rained down on the city...In 1947, the town of Marksville, Louisiana, experienced a deluge of fish f...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: thefortean.com  
    Title: Fish Fall Archives  
-   Link: <a href="https://www.thefortean.com/category/fish-fall/" target="_blank" rel="noopener noreferrer nofollow">https://www.thefortean.com/category/fish-fall/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The ForteanThe Honduran media is reporting that the annual fish rain in Yoro, Honduras took place on Saturday 16 June.Read more...</p></details>
+   Link:<a href="https://www.thefortean.com/category/fish-fall/" target="_blank" rel="noopener noreferrer nofollow">https://www.thefortean.com/category/fish-fall/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The ForteanThe Honduran media is reporting that the annual fish rain in Yoro, Honduras took place on Saturday 16 June.Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: markriddaway.com  
    Title: fish frogs  
-   Link: <a href="https://www.markriddaway.com/selected-writing/fish-frogs" target="_blank" rel="noopener noreferrer nofollow">https://www.markriddaway.com/selected-writing/fish-frogs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Piscine in the wind22 Aug 2025 — late October 1947 and Dr Alexander Dimitrivitch Bajkov was in Marksville, Louisiana, fish were falling f...</p></details>
+   Link:<a href="https://www.markriddaway.com/selected-writing/fish-frogs" target="_blank" rel="noopener noreferrer nofollow">https://www.markriddaway.com/selected-writing/fish-frogs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Piscine in the wind22 Aug 2025 — late October 1947 and Dr Alexander Dimitrivitch Bajkov was in Marksville, Louisiana, fish were falling f...</p></details>
    Published: October 1947  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=jIE6ilT8IKo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jIE6ilT8IKo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>y 80 ft wide in Marksville Louisiana...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jIE6ilT8IKo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jIE6ilT8IKo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>y 80 ft wide in Marksville Louisiana...</p></details>

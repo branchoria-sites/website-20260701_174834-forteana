@@ -280,7 +280,7 @@ image: /assets/images/forteana_50bdc8_animal_falls_explana_03e792_texarkana_fish
 
 ## Introduction
 
-On 29 December 2021, residents of Texarkana reported one of the most widely documented modern cases of "fish rain". After a powerful thunderstorm passed through the city, dozens to hundreds of small fish were found scattered across roads, car parks, rooftops, truck beds and even an airport runway. The event quickly became international news and was initially explained in the familiar way: a waterspout had supposedly lifted fish from a nearby lake before dropping them over the city. However, a subsequent investigation proposed a far more specific—and arguably more evidence-based—explanation. Rather than being carried by a rotating column of air, the fish were probably regurgitated by flocks of fish-eating birds caught in the storm. The Texarkana case has therefore become an important example within Fortean studies because it illustrates how careful investigation can replace a traditional explanation with one that better fits the physical evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wdbj7.com/2021/12/30/fish-fall-sky-during-rainstorm-eastern-texas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wdbj7.com">[https://www.wdbj7.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wdbj7.com</span><span class="citation-popover-snippet">Source details in endnotes.</span><span class="citation-popover-meta">Published: December 30, 2021</span></span></span>
+On 29 December 2021, residents of Texarkana reported one of the most widely documented modern cases of "fish rain". After a powerful thunderstorm passed through the city, dozens to hundreds of small fish were found scattered across roads, car parks, rooftops, truck beds and even an airport runway. The event quickly became international news and was initially explained in the familiar way: a waterspout had supposedly lifted fish from a nearby lake before dropping them over the city. However, a subsequent investigation proposed a far more specific—and arguably more evidence-based—explanation. Rather than being carried by a rotating column of air, the fish were probably regurgitated by flocks of fish-eating birds caught in the storm. The Texarkana case has therefore become an important example within Fortean studies because it illustrates how careful investigation can replace a traditional explanation with one that better fits the physical evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wdbj7.com/2021/12/30/fish-fall-sky-during-rainstorm-eastern-texas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wdbj7.com">[https://www.wdbj7.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wdbj7.com</span><span class="citation-popover-snippet">Source details in endnotes.</span><span class="citation-popover-meta">Published: December 30, 2021</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_animal_falls_explana_03e792_texarkana_fish_rain_53b975-Illustration-1-dark.svg" | relative_url }}" alt="Texarkana Fish illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_animal_falls_explana_03e792_texarkana_fish_rain_53b975-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_animal_falls_explana_03e792_texarkana_fish_rain_53b975-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,7 +288,7 @@ On 29 December 2021, residents of Texarkana reported one of the most widely docu
 
 The thunderstorm struck Texarkana during the afternoon of 29 December 2021. Almost immediately afterwards, residents across several parts of the city began posting photographs of small silvery fish lying on pavements, roads, lawns and commercial premises. Workers at Texarkana Regional Airport reported collecting substantial quantities of fish from the runway, while other witnesses found fish in the beds of pickup trucks and on rooftops.
 
-These details proved especially significant. Fish on roads could potentially have been washed there by floodwater, but fish resting on elevated surfaces such as roofs and inside open vehicle beds strongly suggested that at least some had fallen from above rather than simply being carried across the ground. Security camera footage obtained from a local tyre business also appeared to capture fish striking the ground during the storm, providing unusually direct evidence that the animals were genuinely falling through the air rather than merely being discovered after rainfall. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sharonahill.com/texarkana-fish-rain-mystery-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sharonahill.com">[Sharon A. Hill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sharonahill.com</span><span class="citation-popover-snippet">HillTexarkana Fish Rain Mystery Solved &#124; Sharon A. Hill18 Jun 2022 — The fish that fell in a December thunderstorm likely came from the n...</span></span></span>
+These details proved especially significant. Fish on roads could potentially have been washed there by floodwater, but fish resting on elevated surfaces such as roofs and inside open vehicle beds strongly suggested that at least some had fallen from above rather than simply being carried across the ground. Security camera footage obtained from a local tyre business also appeared to capture fish striking the ground during the storm, providing unusually direct evidence that the animals were genuinely falling through the air rather than merely being discovered after rainfall.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sharonahill.com/texarkana-fish-rain-mystery-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sharonahill.com">[Sharon A. Hill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sharonahill.com</span><span class="citation-popover-snippet">HillTexarkana Fish Rain Mystery Solved &#124; Sharon A. Hill18 Jun 2022 — The fish that fell in a December thunderstorm likely came from the n...</span></span></span>
 
 The affected area extended for several miles rather than being confined to the edge of a single pond or drainage channel. That distribution made a simple flooding explanation increasingly difficult to sustain, while still leaving open the question of what mechanism had actually delivered the fish.
 
@@ -297,18 +297,18 @@ The affected area extended for several miles rather than being confined to the e
 
 ## Why gizzard shad changed the explanation
 
-A crucial development came when biologists examined preserved specimens and identified them as juvenile gizzard shad (*Dorosoma cepedianum*), a common freshwater fish found throughout reservoirs and rivers in the region. Identification of the species did more than satisfy curiosity: it narrowed the list of realistic transport mechanisms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sharonahill.com/texarkana-fish-rain-mystery-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sharonahill.com">[Sharon A. Hill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sharonahill.com</span><span class="citation-popover-snippet">HillTexarkana Fish Rain Mystery Solved &#124; Sharon A. Hill18 Jun 2022 — The fish that fell in a December thunderstorm likely came from the n...</span></span></span>
+A crucial development came when biologists examined preserved specimens and identified them as juvenile gizzard shad (*Dorosoma cepedianum*), a common freshwater fish found throughout reservoirs and rivers in the region. Identification of the species did more than satisfy curiosity: it narrowed the list of realistic transport mechanisms.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sharonahill.com/texarkana-fish-rain-mystery-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sharonahill.com">[Sharon A. Hill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sharonahill.com</span><span class="citation-popover-snippet">HillTexarkana Fish Rain Mystery Solved &#124; Sharon A. Hill18 Jun 2022 — The fish that fell in a December thunderstorm likely came from the n...</span></span></span>
 
 Investigators Sharon A. Hill and Paul Cropper noted several observations that pointed away from the traditional waterspout explanation.
 
-First, the fish reportedly showed signs consistent with having passed through a predator's digestive system rather than appearing as freshly netted fish. Second, eyewitnesses and airport personnel recalled large numbers of cormorants in the area around the time of the storm. Cormorants commonly feed on schools of gizzard shad and are known to regurgitate recently swallowed prey under some circumstances. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sharonahill.com/texarkana-fish-rain-mystery-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sharonahill.com">[Sharon A. Hill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sharonahill.com</span><span class="citation-popover-snippet">HillTexarkana Fish Rain Mystery Solved &#124; Sharon A. Hill18 Jun 2022 — The fish that fell in a December thunderstorm likely came from the n...</span></span></span>
+First, the fish reportedly showed signs consistent with having passed through a predator's digestive system rather than appearing as freshly netted fish. Second, eyewitnesses and airport personnel recalled large numbers of cormorants in the area around the time of the storm. Cormorants commonly feed on schools of gizzard shad and are known to regurgitate recently swallowed prey under some circumstances.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sharonahill.com/texarkana-fish-rain-mystery-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sharonahill.com">[Sharon A. Hill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sharonahill.com</span><span class="citation-popover-snippet">HillTexarkana Fish Rain Mystery Solved &#124; Sharon A. Hill18 Jun 2022 — The fish that fell in a December thunderstorm likely came from the n...</span></span></span>
 
 The investigation also examined competing possibilities:
 
 * **Flooding:** inconsistent with fish found on roofs and elevated surfaces.
 * **Aircraft accident or deliberate dumping:** flight records and the distribution pattern did not support this.
 * **Waterspout:** meteorological review reportedly found no evidence that a waterspout had formed during the storm.
-* **Birds:** matched both the species involved and the known feeding behaviour of local cormorants. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popsci.com/environment/fish-falling-from-sky-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popsci.com">[Popular Science+2Sharon A. Hill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popsci.com</span><span class="citation-popover-title">fish falling from sky mystery</span><span class="citation-popover-snippet">Popular ScienceWe may know why fish rained from the sky over Texas6 Jul 2022 — Experts hypothesized that the storm whipped up a tornadic...</span></span></span>
+* **Birds:** matched both the species involved and the known feeding behaviour of local cormorants.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popsci.com/environment/fish-falling-from-sky-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popsci.com">[Popular Science+2Sharon A. Hill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popsci.com</span><span class="citation-popover-title">fish falling from sky mystery</span><span class="citation-popover-snippet">Popular ScienceWe may know why fish rained from the sky over Texas6 Jul 2022 — Experts hypothesized that the storm whipped up a tornadic...</span></span></span>
 
 Rather than treating "fish rain" as a single meteorological phenomenon, the investigation argued that this particular event had a biological explanation.
 
@@ -316,7 +316,7 @@ Rather than treating "fish rain" as a single meteorological phenomenon, the inve
 <img src="{{ "/assets/images/forteana_50bdc8_animal_falls_explana_03e792_texarkana_fish_rain_53b975-Illustration-2-dark.svg" | relative_url }}" alt="Texarkana Fish illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_animal_falls_explana_03e792_texarkana_fish_rain_53b975-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_animal_falls_explana_03e792_texarkana_fish_rain_53b975-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How birds can mimic animal rain
 
-The proposed mechanism is surprisingly straightforward. Cormorants often feed communally, swallowing multiple small fish before flying to resting sites. Birds under sudden stress—including severe [weather]({{ 'weather/' | relative_url }}), rapid take-off or disturbance—may disgorge stomach contents. Although the precise biological trigger is not fully understood, regurgitation is well documented in cormorants and several other fish-eating birds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sharonahill.com/texarkana-fish-rain-mystery-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sharonahill.com">[Sharon A. Hill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sharonahill.com</span><span class="citation-popover-snippet">HillTexarkana Fish Rain Mystery Solved &#124; Sharon A. Hill18 Jun 2022 — The fish that fell in a December thunderstorm likely came from the n...</span></span></span>
+The proposed mechanism is surprisingly straightforward. Cormorants often feed communally, swallowing multiple small fish before flying to resting sites. Birds under sudden stress—including severe [weather]({{ 'weather/' | relative_url }}), rapid take-off or disturbance—may disgorge stomach contents. Although the precise biological trigger is not fully understood, regurgitation is well documented in cormorants and several other fish-eating birds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sharonahill.com/texarkana-fish-rain-mystery-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sharonahill.com">[Sharon A. Hill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sharonahill.com</span><span class="citation-popover-snippet">HillTexarkana Fish Rain Mystery Solved &#124; Sharon A. Hill18 Jun 2022 — The fish that fell in a December thunderstorm likely came from the n...</span></span></span>
 
 If a flock carrying recently swallowed shad encountered the advancing thunderstorm, numerous birds could potentially expel fish while airborne over the same general area. Because the fish would fall during heavy rain and hail, observers on the ground would naturally [experience]({{ 'experience/' | relative_url }}) what appeared to be fish raining from the sky.
 
@@ -328,7 +328,7 @@ This mechanism also explains several features that [waterspouts]({{ 'waterspouts
 * The fish belonged largely to a single prey species favoured by local fish-eating birds.
 * Some specimens reportedly showed evidence consistent with partial digestion.
 * The fish were scattered across a broad urban area rather than deposited in a narrow trail expected from some storm transport scenarios.
-* Independent reports confirmed cormorants were present locally during the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sharonahill.com/texarkana-fish-rain-mystery-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sharonahill.com">[Sharon A. Hill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sharonahill.com</span><span class="citation-popover-snippet">HillTexarkana Fish Rain Mystery Solved &#124; Sharon A. Hill18 Jun 2022 — The fish that fell in a December thunderstorm likely came from the n...</span></span></span>
+* Independent reports confirmed cormorants were present locally during the event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sharonahill.com/texarkana-fish-rain-mystery-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sharonahill.com">[Sharon A. Hill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sharonahill.com</span><span class="citation-popover-snippet">HillTexarkana Fish Rain Mystery Solved &#124; Sharon A. Hill18 Jun 2022 — The fish that fell in a December thunderstorm likely came from the n...</span></span></span>
 
 </div>
 
@@ -344,9 +344,9 @@ The explanation does not require fish to survive violent atmospheric transport o
 
 The Texarkana event remains unusual because the [observation]({{ 'observation/' | relative_url }}) itself is not seriously disputed: fish really did fall onto parts of the city during the storm. What changed was the proposed cause.
 
-Early news coverage repeated the familiar [folklore]({{ 'folklore/' | relative_url }}) that waterspouts regularly suck fish from lakes before depositing them inland, an explanation frequently attached to reports of animal rain. Later investigation argued that this default assumption did not fit either the local meteorology or the biological evidence from the recovered fish. Instead, the researchers concluded that bird regurgitation provided the best match for all available observations. https://www.wdbj7.com+2Sharon A. Hill <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wdbj7.com/2021/12/30/fish-fall-sky-during-rainstorm-eastern-texas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wdbj7.com">[wdbj7.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wdbj7.com</span><span class="citation-popover-snippet">Source details in endnotes.</span><span class="citation-popover-meta">Published: December 30, 2021</span></span></span>
+Early news coverage repeated the familiar [folklore]({{ 'folklore/' | relative_url }}) that waterspouts regularly suck fish from lakes before depositing them inland, an explanation frequently attached to reports of animal rain. Later investigation argued that this default assumption did not fit either the local meteorology or the biological evidence from the recovered fish. Instead, the researchers concluded that bird regurgitation provided the best match for all available observations. https://www.wdbj7.com+2Sharon A. Hill<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wdbj7.com/2021/12/30/fish-fall-sky-during-rainstorm-eastern-texas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wdbj7.com">[wdbj7.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wdbj7.com</span><span class="citation-popover-snippet">Source details in endnotes.</span><span class="citation-popover-meta">Published: December 30, 2021</span></span></span>
 
-Importantly, the bird hypothesis remains an inference rather than direct proof. No one observed cormorants expelling the fish over Texarkana, and no mechanism can be confirmed with absolute certainty after the fact. Nevertheless, many investigators regard it as a stronger explanation because it attempts to account simultaneously for the species involved, the weather conditions, witness reports, the physical condition of the fish and the absence of evidence for a waterspout. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sharonahill.com/texarkana-fish-rain-mystery-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sharonahill.com">[Sharon A. Hill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sharonahill.com</span><span class="citation-popover-snippet">HillTexarkana Fish Rain Mystery Solved &#124; Sharon A. Hill18 Jun 2022 — The fish that fell in a December thunderstorm likely came from the n...</span></span></span>
+Importantly, the bird hypothesis remains an inference rather than direct proof. No one observed cormorants expelling the fish over Texarkana, and no mechanism can be confirmed with absolute certainty after the fact. Nevertheless, many investigators regard it as a stronger explanation because it attempts to account simultaneously for the species involved, the weather conditions, witness reports, the physical condition of the fish and the absence of evidence for a waterspout.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sharonahill.com/texarkana-fish-rain-mystery-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sharonahill.com">[Sharon A. Hill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sharonahill.com</span><span class="citation-popover-snippet">HillTexarkana Fish Rain Mystery Solved &#124; Sharon A. Hill18 Jun 2022 — The fish that fell in a December thunderstorm likely came from the n...</span></span></span>
 
 For [Forteana]({{ 'forteana/' | relative_url }}) more broadly, the Texarkana case demonstrates that extraordinary-looking events do not always require extraordinary atmospheric mechanisms. Sometimes the mystery lies not in whether something fell from the sky—it clearly did—but in correctly identifying what was already flying overhead.
 
@@ -354,194 +354,194 @@ For [Forteana]({{ 'forteana/' | relative_url }}) more broadly, the Texarkana cas
 <img src="{{ "/assets/images/forteana_50bdc8_animal_falls_explana_03e792_texarkana_fish_rain_53b975-Illustration-3-dark.svg" | relative_url }}" alt="Texarkana Fish illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_animal_falls_explana_03e792_texarkana_fish_rain_53b975-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_animal_falls_explana_03e792_texarkana_fish_rain_53b975-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Fish Really Rain on Texarkana?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Fish Really Rain on Texarkana?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
-        </h4>
-        <p class="fr-book-author">By Charles Fort</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
+</h4>
+<p class="fr-book-author">By Charles Fort</p>
         
-        <p class="fr-book-desc">Historic framework for unusual falls from the sky.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Historic framework for unusual falls from the sky.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Explores why remarkable stories and beliefs persist across generations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Explores why remarkable stories and beliefs persist across generations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weather For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LtoPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Weather For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
-        </h4>
-        <p class="fr-book-author">By John D. Cox</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weather For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LtoPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Weather For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
+</h4>
+<p class="fr-book-author">By John D. Cox</p>
         
-        <p class="fr-book-desc">Explains thunderstorms and storm dynamics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains thunderstorms and storm dynamics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=National+Geographic+field+guide+to+the+birds+of+North+America+Jon+Dunn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open National Geographic field guide to the birds of North America on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/557180-M.jpg" alt="Cover for National Geographic field guide to the birds of North America" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=National+Geographic+field+guide+to+the+birds+of+North+America+Jon+Dunn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="National Geographic field guide to the birds of North America">National Geographic field guide to the birds of North America</a>
-        </h4>
-        <p class="fr-book-author">By Jon Dunn, Jon L. Dunn et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=National+Geographic+field+guide+to+the+birds+of+North+America+Jon+Dunn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open National Geographic field guide to the birds of North America on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/557180-M.jpg" alt="Cover for National Geographic field guide to the birds of North America" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=National+Geographic+field+guide+to+the+birds+of+North+America+Jon+Dunn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="National Geographic field guide to the birds of North America">National Geographic field guide to the birds of North America</a>
+</h4>
+<p class="fr-book-author">By Jon Dunn, Jon L. Dunn et al.</p>
         
-        <p class="fr-book-desc">First published 2006. Subjects: Identification, Birds, Birds &amp; birdwatching, Birds (ornithology), Bird Watching.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=National+Geographic+field+guide+to+the+birds+of+North+America+Jon+Dunn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2006. Subjects: Identification, Birds, Birds &amp; birdwatching, Birds (ornithology), Bird Watching.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=National+Geographic+field+guide+to+the+birds+of+North+America+Jon+Dunn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Weather+For+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weather For Dummies</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Weather+For+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weather For Dummies</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for After The Rain Fjord Sea Boat Fishing Finnmark Norway Green Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/61d368165882a17db39e.jpg' | relative_url }}" alt="Listing image for After The Rain Fjord Sea Boat Fishing Finnmark Norway Green Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">After The Rain Fjord Sea Boat Fishing Finnmark Norway Green Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for After The Rain Fjord Sea Boat Fishing Finnmark Norway Green Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/61d368165882a17db39e.jpg' | relative_url }}" alt="Listing image for After The Rain Fjord Sea Boat Fishing Finnmark Norway Green Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">After The Rain Fjord Sea Boat Fishing Finnmark Norway Green Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Man Monochrome Rain Rainy Cloudy Walk Walking Behind Back Fish Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/27ff5433e18ed337d089.jpg' | relative_url }}" alt="Listing image for Man Monochrome Rain Rainy Cloudy Walk Walking Behind Back Fish Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">Man Monochrome Rain Rainy Cloudy Walk Walking Behind Back Fish Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Man Monochrome Rain Rainy Cloudy Walk Walking Behind Back Fish Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/27ff5433e18ed337d089.jpg' | relative_url }}" alt="Listing image for Man Monochrome Rain Rainy Cloudy Walk Walking Behind Back Fish Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">Man Monochrome Rain Rainy Cloudy Walk Walking Behind Back Fish Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print Fish Man Human Rain Umbrella Weird Strange Funny Ironic Out Of Water"><img src="{{ '/assets/images/marketplace-covers/83ba5668697ac14b9dab.jpg' | relative_url }}" alt="Listing image for Art Print Fish Man Human Rain Umbrella Weird Strange Funny Ironic Out Of Water" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">Art Print Fish Man Human Rain Umbrella Weird Strange Funny Ironic Out Of Water</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print Fish Man Human Rain Umbrella Weird Strange Funny Ironic Out Of Water"><img src="{{ '/assets/images/marketplace-covers/83ba5668697ac14b9dab.jpg' | relative_url }}" alt="Listing image for Art Print Fish Man Human Rain Umbrella Weird Strange Funny Ironic Out Of Water" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">Art Print Fish Man Human Rain Umbrella Weird Strange Funny Ironic Out Of Water</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print"><img src="{{ '/assets/images/marketplace-covers/c7769be80584af0e631f.jpg' | relative_url }}" alt="Listing image for Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print"><img src="{{ '/assets/images/marketplace-covers/c7769be80584af0e631f.jpg' | relative_url }}" alt="Listing image for Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="texarkana-fish-did-fish-really-rain-on-texarkana-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -557,7 +557,7 @@ For [Forteana]({{ 'forteana/' | relative_url }}) more broadly, the Texarkana cas
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -577,7 +577,7 @@ For [Forteana]({{ 'forteana/' | relative_url }}) more broadly, the Texarkana cas
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -609,7 +609,7 @@ For [Forteana]({{ 'forteana/' | relative_url }}) more broadly, the Texarkana cas
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -661,7 +661,7 @@ For [Forteana]({{ 'forteana/' | relative_url }}) more broadly, the Texarkana cas
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -706,7 +706,7 @@ For [Forteana]({{ 'forteana/' | relative_url }}) more broadly, the Texarkana cas
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -747,76 +747,76 @@ For [Forteana]({{ 'forteana/' | relative_url }}) more broadly, the Texarkana cas
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: wdbj7.com  
-   Link: <a href="https://www.wdbj7.com/2021/12/30/fish-fall-sky-during-rainstorm-eastern-texas/" target="_blank" rel="noopener noreferrer nofollow">https://www.wdbj7.com/2021/12/30/fish-fall-sky-during-rainstorm-eastern-texas/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>[https://www.wdbj7.comFish](https://www.wdbj7.comFish) fall from the sky during rainstorm in eastern TexasDecember 30, 2021 — 30 Dec 2021 — According to The City of T...</p></details>
+   Link:<a href="https://www.wdbj7.com/2021/12/30/fish-fall-sky-during-rainstorm-eastern-texas/" target="_blank" rel="noopener noreferrer nofollow">https://www.wdbj7.com/2021/12/30/fish-fall-sky-during-rainstorm-eastern-texas/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[https://www.wdbj7.comFish](https://www.wdbj7.comFish) fall from the sky during rainstorm in eastern TexasDecember 30, 2021 — 30 Dec 2021 — According to The City of T...</p></details>
    Published: December 30, 2021  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sharonahill.com  
-   Link: <a href="https://sharonahill.com/texarkana-fish-rain-mystery-solved/" target="_blank" rel="noopener noreferrer nofollow">https://sharonahill.com/texarkana-fish-rain-mystery-solved/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HillTexarkana Fish Rain Mystery Solved | Sharon A. Hill18 Jun 2022 — The fish that fell in a December thunderstorm likely came from the n...</p></details>
+   Link:<a href="https://sharonahill.com/texarkana-fish-rain-mystery-solved/" target="_blank" rel="noopener noreferrer nofollow">https://sharonahill.com/texarkana-fish-rain-mystery-solved/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HillTexarkana Fish Rain Mystery Solved | Sharon A. Hill18 Jun 2022 — The fish that fell in a December thunderstorm likely came from the n...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: popsci.com  
    Title: fish falling from sky mystery  
-   Link: <a href="https://www.popsci.com/environment/fish-falling-from-sky-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://www.popsci.com/environment/fish-falling-from-sky-mystery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Popular ScienceWe may know why fish rained from the sky over Texas6 Jul 2022 — Experts hypothesized that the storm whipped up a tornadic...</p></details>
+   Link:<a href="https://www.popsci.com/environment/fish-falling-from-sky-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://www.popsci.com/environment/fish-falling-from-sky-mystery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Popular ScienceWe may know why fish rained from the sky over Texas6 Jul 2022 — Experts hypothesized that the storm whipped up a tornadic...</p></details>
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nbcdfw.com  
-   Link: <a href="https://www.nbcdfw.com/news/local/texas-news/scientists-figured-out-why-fish-fell-from-the-sky-in-texarkana-and-its-pretty-gross/2998046/" target="_blank" rel="noopener noreferrer nofollow">https://www.nbcdfw.com/news/local/texas-news/scientists-figured-out-why-fish-fell-from-the-sky-in-texarkana-and-its-pretty-gross/2998046/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NBC 5 Dallas-Fort WorthScientists Figured Out Why Fish Fell From the Sky in...22 Jun 2022 — Two independent researchers say they may hav...</p></details>
+   Link:<a href="https://www.nbcdfw.com/news/local/texas-news/scientists-figured-out-why-fish-fell-from-the-sky-in-texarkana-and-its-pretty-gross/2998046/" target="_blank" rel="noopener noreferrer nofollow">https://www.nbcdfw.com/news/local/texas-news/scientists-figured-out-why-fish-fell-from-the-sky-in-texarkana-and-its-pretty-gross/2998046/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NBC 5 Dallas-Fort WorthScientists Figured Out Why Fish Fell From the Sky in...22 Jun 2022 — Two independent researchers say they may hav...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
    Title: researchers recently concluded a study stating fish that fell in texarkana durin  
-   Link: <a href="https://www.facebook.com/TexarkanaGazette/posts/researchers-recently-concluded-a-study-stating-fish-that-fell-in-texarkana-durin/7661992347205801/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TexarkanaGazette/posts/researchers-recently-concluded-a-study-stating-fish-that-fell-in-texarkana-durin/7661992347205801/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers recently concluded a study stating fish that fell...22 Jun 2022 — a study stating fish that fell in Texarkana during a sudde...</p></details>
+   Link:<a href="https://www.facebook.com/TexarkanaGazette/posts/researchers-recently-concluded-a-study-stating-fish-that-fell-in-texarkana-durin/7661992347205801/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TexarkanaGazette/posts/researchers-recently-concluded-a-study-stating-fish-that-fell-in-texarkana-durin/7661992347205801/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers recently concluded a study stating fish that fell...22 Jun 2022 — a study stating fish that fell in Texarkana during a sudde...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: tnvalleyweather.com  
    Title: fish in the forecast the bizarre phenomenon of fish rain in texarkana  
-   Link: <a href="https://tnvalleyweather.com/fish-in-the-forecast-the-bizarre-phenomenon-of-fish-rain-in-texarkana" target="_blank" rel="noopener noreferrer nofollow">https://tnvalleyweather.com/fish-in-the-forecast-the-bizarre-phenomenon-of-fish-rain-in-texarkana</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Bizarre Phenomenon of “Fish Rain” in Texarkana15 Jun 2023 — Strong waterspouts that picked up small fish and dropped them in Texarkan...</p></details>
+   Link:<a href="https://tnvalleyweather.com/fish-in-the-forecast-the-bizarre-phenomenon-of-fish-rain-in-texarkana" target="_blank" rel="noopener noreferrer nofollow">https://tnvalleyweather.com/fish-in-the-forecast-the-bizarre-phenomenon-of-fish-rain-in-texarkana</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Bizarre Phenomenon of “Fish Rain” in Texarkana15 Jun 2023 — Strong waterspouts that picked up small fish and dropped them in Texarkan...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WHO13News/posts/researchers-have-an-alternative-explanation-for-the-raining-fish-that-fell-from-/10166584722440313/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WHO13News/posts/researchers-have-an-alternative-explanation-for-the-raining-fish-that-fell-from-/10166584722440313/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ity... and birds are swept up by waterspouts or...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/WHO13News/posts/researchers-have-an-alternative-explanation-for-the-raining-fish-that-fell-from-/10166584722440313/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WHO13News/posts/researchers-have-an-alternative-explanation-for-the-raining-fish-that-fell-from-/10166584722440313/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ity... and birds are swept up by waterspouts or...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: wftv.com  
-   Link: <a href="https://www.wftv.com/news/trending/study-raining-fish-texas-arkansas-towns-was-caused-by-nervous-stomachs-birds/AGPZQULMOZCVNBQ2NEL3QQJLN4/" target="_blank" rel="noopener noreferrer nofollow">https://www.wftv.com/news/trending/study-raining-fish-texas-arkansas-towns-was-caused-by-nervous-stomachs-birds/AGPZQULMOZCVNBQ2NEL3QQJLN4/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Study: Raining fish in Texas, Arkansas towns was caused...27 Jun 2022 — The researchers found there was no evidence to support the idea...</p></details>
+   Link:<a href="https://www.wftv.com/news/trending/study-raining-fish-texas-arkansas-towns-was-caused-by-nervous-stomachs-birds/AGPZQULMOZCVNBQ2NEL3QQJLN4/" target="_blank" rel="noopener noreferrer nofollow">https://www.wftv.com/news/trending/study-raining-fish-texas-arkansas-towns-was-caused-by-nervous-stomachs-birds/AGPZQULMOZCVNBQ2NEL3QQJLN4/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Study: Raining fish in Texas, Arkansas towns was caused...27 Jun 2022 — The researchers found there was no evidence to support the idea...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: wsoctv.com  
-   Link: <a href="https://www.wsoctv.com/news/trending/study-raining-fish-texas-arkansas-towns-was-caused-by-nervous-stomachs-birds/AGPZQULMOZCVNBQ2NEL3QQJLN4/" target="_blank" rel="noopener noreferrer nofollow">https://www.wsoctv.com/news/trending/study-raining-fish-texas-arkansas-towns-was-caused-by-nervous-stomachs-birds/AGPZQULMOZCVNBQ2NEL3QQJLN4/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Study: Raining fish in Texas, Arkansas towns was caused...27 Jun 2022 — The researchers found there was no evidence to support the idea...</p></details>
+   Link:<a href="https://www.wsoctv.com/news/trending/study-raining-fish-texas-arkansas-towns-was-caused-by-nervous-stomachs-birds/AGPZQULMOZCVNBQ2NEL3QQJLN4/" target="_blank" rel="noopener noreferrer nofollow">https://www.wsoctv.com/news/trending/study-raining-fish-texas-arkansas-towns-was-caused-by-nervous-stomachs-birds/AGPZQULMOZCVNBQ2NEL3QQJLN4/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Study: Raining fish in Texas, Arkansas towns was caused...27 Jun 2022 — The researchers found there was no evidence to support the idea...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: wlox.com  
    Title: fish fall sky texarkana  
-   Link: <a href="https://www.wlox.com/video/2021/12/30/fish-fall-sky-texarkana/" target="_blank" rel="noopener noreferrer nofollow">https://www.wlox.com/video/2021/12/30/fish-fall-sky-texarkana/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fish fall from sky in TexarkanaFish fall from sky in Texarkana Updated: Dec. 30, 2021 … some tropical moisture could bring better rain ch...</p></details>
+   Link:<a href="https://www.wlox.com/video/2021/12/30/fish-fall-sky-texarkana/" target="_blank" rel="noopener noreferrer nofollow">https://www.wlox.com/video/2021/12/30/fish-fall-sky-texarkana/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fish fall from sky in TexarkanaFish fall from sky in Texarkana Updated: Dec. 30, 2021 … some tropical moisture could bring better rain ch...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Fish falling from the sky during storm in Texas  
-   Link: <a href="https://www.youtube.com/watch?v=7Q1CvZyQcSs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7Q1CvZyQcSs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Texarkana Fish Rain or Fishnado Dec 2021 dropped waterfowl too...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7Q1CvZyQcSs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7Q1CvZyQcSs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Texarkana Fish Rain or Fishnado Dec 2021 dropped waterfowl too...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Fish rain from sky in Texarkana  
-   Link: <a href="https://www.youtube.com/watch?v=d-tpL5GAWBI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d-tpL5GAWBI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fish falling from the sky during storm in Texas...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=d-tpL5GAWBI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d-tpL5GAWBI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fish falling from the sky during storm in Texas...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=1cgIxBdBBAg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1cgIxBdBBAg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s raining fish in East Texas...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1cgIxBdBBAg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1cgIxBdBBAg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s raining fish in East Texas...</p></details>

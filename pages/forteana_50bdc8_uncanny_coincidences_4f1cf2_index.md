@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /forteana-50bdc8-uncanny-coincidences/
 description: Focused pages that expand on Coincidences.
-date: '2026-07-01'
+date: '2026'
 layout: default
 parent_basename: forteana_50bdc8_uncanny_coincidences_4f1cf2
 parent_title: Coincidences
@@ -16,7 +16,7 @@ parent_permalink: /coincidences/
 
 # Explore Topics in Coincidences
 
-The following pages expand on the main **[Coincidences]({{ '/coincidences/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Coincidences]({{ '/coincidences/' | relative_url }})** page and cover its key branches in.
 
 - [Birthday Odds]({{ '/birthday-odds/' | relative_url }})
 - [Coincidence Log]({{ '/coincidence-log/' | relative_url }})

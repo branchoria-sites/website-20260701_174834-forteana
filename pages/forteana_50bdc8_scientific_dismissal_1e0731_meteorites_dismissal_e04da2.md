@@ -274,7 +274,7 @@ image: /assets/images/forteana_50bdc8_scientific_dismissal_1e0731_meteorites_dis
 
 ## Introduction
 
-Reports of stones falling from the sky once occupied an uncomfortable space between [folklore]({{ 'folklore/' | relative_url }}) and natural philosophy. To many educated observers in the eighteenth century, such stories sounded impossible because they conflicted with prevailing ideas about the heavens. The transformation of meteorites from objects of ridicule into accepted scientific evidence is therefore one of the clearest historical examples of how apparently absurd reports can become legitimate science when [observation]({{ 'observation/' | relative_url }}), physical specimens and theory converge. It also illustrates an important Fortean lesson: dismissing eyewitness accounts too quickly can delay discovery, but accepting them uncritically is equally hazardous. Meteorites became accepted not because scepticism disappeared, but because scepticism was redirected towards testing evidence instead of rejecting reports outright. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amnh.org/learn-teach/curriculum-collections/cosmic-horizons-book/ernst-chladni-meteoritics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amnh.org">[American Museum of Natural History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amnh.org</span><span class="citation-popover-title">ernst chladni meteoritics</span><span class="citation-popover-snippet">American Museum of Natural HistoryErnst Chladni and Meteoritics: Rocks from the SkyThen in 1794, the German physicist Ernst Chladni publi...</span></span></span>
+Reports of stones falling from the sky once occupied an uncomfortable space between [folklore]({{ 'folklore/' | relative_url }}) and natural philosophy. To many educated observers in the eighteenth century, such stories sounded impossible because they conflicted with prevailing ideas about the heavens. The transformation of meteorites from objects of ridicule into accepted scientific evidence is therefore one of the clearest historical examples of how apparently absurd reports can become legitimate science when [observation]({{ 'observation/' | relative_url }}), physical specimens and theory converge. It also illustrates an important Fortean lesson: dismissing eyewitness accounts too quickly can delay discovery, but accepting them uncritically is equally hazardous. Meteorites became accepted not because scepticism disappeared, but because scepticism was redirected towards testing evidence instead of rejecting reports outright.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amnh.org/learn-teach/curriculum-collections/cosmic-horizons-book/ernst-chladni-meteoritics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amnh.org">[American Museum of Natural History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amnh.org</span><span class="citation-popover-title">ernst chladni meteoritics</span><span class="citation-popover-snippet">American Museum of Natural HistoryErnst Chladni and Meteoritics: Rocks from the SkyThen in 1794, the German physicist Ernst Chladni publi...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_scientific_dismissal_1e0731_meteorites_dismissal_e04da2-Illustration-1-dark.svg" | relative_url }}" alt="Meteorites illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_scientific_dismissal_1e0731_meteorites_dismissal_e04da2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_scientific_dismissal_1e0731_meteorites_dismissal_e04da2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,7 +282,7 @@ Reports of stones falling from the sky once occupied an uncomfortable space betw
 
 For centuries, people across Europe and elsewhere reported fireballs followed by stones landing on the ground. Many of these accounts were preserved in local records, church chronicles and eyewitness testimony. Yet most natural philosophers regarded them as misunderstandings or superstition.
 
-The resistance was not simply prejudice. It reflected the best scientific framework available at the time. Aristotelian cosmology treated the heavens as fundamentally different from the Earth, while later Enlightenment science largely assumed that space contained planets, comets and stars, but not countless small rocky bodies capable of reaching the ground. If rocks could not exist between planets, reports of falling stones demanded terrestrial explanations instead. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amnh.org/learn-teach/curriculum-collections/cosmic-horizons-book/ernst-chladni-meteoritics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amnh.org">[American Museum of Natural History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amnh.org</span><span class="citation-popover-title">ernst chladni meteoritics</span><span class="citation-popover-snippet">American Museum of Natural HistoryErnst Chladni and Meteoritics: Rocks from the SkyThen in 1794, the German physicist Ernst Chladni publi...</span></span></span>
+The resistance was not simply prejudice. It reflected the best scientific framework available at the time. Aristotelian cosmology treated the heavens as fundamentally different from the Earth, while later Enlightenment science largely assumed that space contained planets, comets and stars, but not countless small rocky bodies capable of reaching the ground. If rocks could not exist between planets, reports of falling stones demanded terrestrial explanations instead.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amnh.org/learn-teach/curriculum-collections/cosmic-horizons-book/ernst-chladni-meteoritics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amnh.org">[American Museum of Natural History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amnh.org</span><span class="citation-popover-title">ernst chladni meteoritics</span><span class="citation-popover-snippet">American Museum of Natural HistoryErnst Chladni and Meteoritics: Rocks from the SkyThen in 1794, the German physicist Ernst Chladni publi...</span></span></span>
 
 Several alternative explanations were proposed:
 
@@ -296,7 +296,7 @@ Several alternative explanations were proposed:
 
 </div>
 
-From the perspective of contemporary science, these explanations appeared more reasonable than the suggestion that rocks travelled through space before striking Earth. The problem was therefore one of theoretical plausibility rather than a simple refusal to examine evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/252075579_Meteorites_in_history_An_overview_from_the_Renaissance_to_the_20th_century" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Meteorites in history: An overview from the Renaissance to...They dismissed reports of fallen stones or irons as tales told...</span></span></span>
+From the perspective of contemporary science, these explanations appeared more reasonable than the suggestion that rocks travelled through space before striking Earth. The problem was therefore one of theoretical plausibility rather than a simple refusal to examine evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/252075579_Meteorites_in_history_An_overview_from_the_Renaissance_to_the_20th_century" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Meteorites in history: An overview from the Renaissance to...They dismissed reports of fallen stones or irons as tales told...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UVBd4l7qqEw" title="Murchison Meteorite: Witnessing the fall of the most famous space rock" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UVBd4l7qqEw" target="_blank" rel="noopener noreferrer">Murchison Meteorite: Witnessing the fall of the most famous space rock</a></p><p class="youtube-embed-meta">Channel: GeoscienceAustralia</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UVBd4l7qqEw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UVBd4l7qqEw">Open on YouTube</a></p></div></div></div>
@@ -305,19 +305,19 @@ From the perspective of contemporary science, these explanations appeared more r
 
 The decisive change did not come from a single spectacular event but from several different kinds of evidence reinforcing one another over roughly a decade.
 
-German physicist Ernst Chladni's 1794 treatise argued that reported fireballs, iron masses and falling stones all described the same natural phenomenon. Rather than dismissing eyewitness testimony, he compared independent reports from different countries and suggested that these objects originated in space. His proposal was widely criticised because it contradicted accepted astronomical thinking, yet it provided a coherent hypothesis that could be tested. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amnh.org/learn-teach/curriculum-collections/cosmic-horizons-book/ernst-chladni-meteoritics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amnh.org">[American Museum of Natural History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amnh.org</span><span class="citation-popover-title">ernst chladni meteoritics</span><span class="citation-popover-snippet">American Museum of Natural HistoryErnst Chladni and Meteoritics: Rocks from the SkyThen in 1794, the German physicist Ernst Chladni publi...</span></span></span>
+German physicist Ernst Chladni's 1794 treatise argued that reported fireballs, iron masses and falling stones all described the same natural phenomenon. Rather than dismissing eyewitness testimony, he compared independent reports from different countries and suggested that these objects originated in space. His proposal was widely criticised because it contradicted accepted astronomical thinking, yet it provided a coherent hypothesis that could be tested.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amnh.org/learn-teach/curriculum-collections/cosmic-horizons-book/ernst-chladni-meteoritics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amnh.org">[American Museum of Natural History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amnh.org</span><span class="citation-popover-title">ernst chladni meteoritics</span><span class="citation-popover-snippet">American Museum of Natural HistoryErnst Chladni and Meteoritics: Rocks from the SkyThen in 1794, the German physicist Ernst Chladni publi...</span></span></span>
 
-The next shift came through repeated, well-observed meteorite falls. Incidents such as Siena in 1794 and Wold Cottage in England in 1795 produced physical specimens witnessed by numerous observers. Instead of isolated anecdotes, investigators now had multiple events with comparable characteristics occurring in different places. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.meteorite-times.com/siena-wold-cottage-laigle-soldani-chladni-baptiste-biot-king-and-howard-contributed-to-starting-meteoritics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: meteorite-times.com">[meteorite-times.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">meteorite-times.com</span><span class="citation-popover-snippet">Siena, Wold Cottage, L&#x27;Aigle, Soldani, Chladni, Baptiste-...1 Jan 2023 — Historians have often argued that L&#x27;Aigle in the French provinc...</span></span></span>
+The next shift came through repeated, well-observed meteorite falls. Incidents such as Siena in 1794 and Wold Cottage in England in 1795 produced physical specimens witnessed by numerous observers. Instead of isolated anecdotes, investigators now had multiple events with comparable characteristics occurring in different places.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.meteorite-times.com/siena-wold-cottage-laigle-soldani-chladni-baptiste-biot-king-and-howard-contributed-to-starting-meteoritics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: meteorite-times.com">[meteorite-times.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">meteorite-times.com</span><span class="citation-popover-snippet">Siena, Wold Cottage, L&#x27;Aigle, Soldani, Chladni, Baptiste-...1 Jan 2023 — Historians have often argued that L&#x27;Aigle in the French provinc...</span></span></span>
 
-Laboratory work also strengthened the case. British chemist Edward Howard and French mineralogist Jacques-Louis de Bournon analysed meteorite specimens and found remarkably consistent chemical compositions, including nickel-rich iron that differed from ordinary terrestrial rocks. Similar materials appearing in geographically separate falls suggested they belonged to a distinct class of objects rather than local geological accidents. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Meteorite_fall" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Meteorite fall</span><span class="citation-popover-snippet">Meteorite fall</span></span></span>
+Laboratory work also strengthened the case. British chemist Edward Howard and French mineralogist Jacques-Louis de Bournon analysed meteorite specimens and found remarkably consistent chemical compositions, including nickel-rich iron that differed from ordinary terrestrial rocks. Similar materials appearing in geographically separate falls suggested they belonged to a distinct class of objects rather than local geological accidents.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Meteorite_fall" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Meteorite fall</span><span class="citation-popover-snippet">Meteorite fall</span></span></span>
 
-Meanwhile, astronomical discoveries helped close the theoretical gap. The discovery of the first asteroids between 1801 and 1807 made the existence of numerous small bodies in the Solar System increasingly plausible, reducing one of the main conceptual objections to Chladni's proposal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/249551093_The_meteorite_fall_at_L%27Aigle_and_the_Biot_report_Exploring_the_cradle_of_meteorites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) The meteorite fall at L&#x27;Aigle and the Biot report7 Apr 2016 — Five advances leading to the acceptance of meteorites wer...</span></span></span>
+Meanwhile, astronomical discoveries helped close the theoretical gap. The discovery of the first asteroids between 1801 and 1807 made the existence of numerous small bodies in the Solar System increasingly plausible, reducing one of the main conceptual objections to Chladni's proposal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/249551093_The_meteorite_fall_at_L%27Aigle_and_the_Biot_report_Exploring_the_cradle_of_meteorites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) The meteorite fall at L&#x27;Aigle and the Biot report7 Apr 2016 — Five advances leading to the acceptance of meteorites wer...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_scientific_dismissal_1e0731_meteorites_dismissal_e04da2-Illustration-2-dark.svg" | relative_url }}" alt="Meteorites illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_scientific_dismissal_1e0731_meteorites_dismissal_e04da2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_scientific_dismissal_1e0731_meteorites_dismissal_e04da2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The L'Aigle investigation that changed minds
 
-The event most often identified as the turning point occurred near L'Aigle, France, on 26 April 1803. Thousands of stones fell over a broad area in daylight, witnessed by large numbers of people from different communities. The sheer scale of the event made simple [dismissal]({{ 'dismissal/' | relative_url }}) increasingly difficult. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/L%27Aigle_%28meteorite%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">L&#x27;Aigle (meteorite</span><span class="citation-popover-snippet">April 26, 2026 — Ernst Chladni had theorised and published a book in 1794 saying that meteorites originated beyond Earth. Although some o...</span><span class="citation-popover-meta">Published: April 26, 2026</span></span></span>
+The event most often identified as the turning point occurred near L'Aigle, France, on 26 April 1803. Thousands of stones fell over a broad area in daylight, witnessed by large numbers of people from different communities. The sheer scale of the event made simple [dismissal]({{ 'dismissal/' | relative_url }}) increasingly difficult.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/L%27Aigle_%28meteorite%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">L&#x27;Aigle (meteorite</span><span class="citation-popover-snippet">April 26, 2026 — Ernst Chladni had theorised and published a book in 1794 saying that meteorites originated beyond Earth. Although some o...</span><span class="citation-popover-meta">Published: April 26, 2026</span></span></span>
 
 The French Academy of Sciences sent Jean-Baptiste Biot to investigate. His importance lay less in discovering something entirely new than in demonstrating how extraordinary claims could be investigated systematically.
 
@@ -333,7 +333,7 @@ Biot's inquiry combined several independent lines of evidence:
 
 </div>
 
-Rather than relying on dramatic testimony alone, he treated the event as a field investigation. The convergence of independent witnesses, recoverable objects and geographical patterning produced a standard of evidence that many sceptical scientists found persuasive. His report became a landmark in the acceptance of meteorites as genuine extraterrestrial objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jean-Baptiste_Biot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jean-Baptiste Biot</span><span class="citation-popover-snippet">Jean-Baptiste Biot</span></span></span>
+Rather than relying on dramatic testimony alone, he treated the event as a field investigation. The convergence of independent witnesses, recoverable objects and geographical patterning produced a standard of evidence that many sceptical scientists found persuasive. His report became a landmark in the acceptance of meteorites as genuine extraterrestrial objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jean-Baptiste_Biot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jean-Baptiste Biot</span><span class="citation-popover-snippet">Jean-Baptiste Biot</span></span></span>
 
 Importantly, no single witness convinced science. No single stone did either. Acceptance emerged because multiple forms of evidence pointed towards the same explanation.
 
@@ -344,9 +344,9 @@ Importantly, no single witness convinced science. No single stone did either. Ac
 
 From a Fortean perspective, meteorites demonstrate a subtle form of scientific failure. The principal mistake was not that scientists demanded evidence. The mistake was allowing theoretical expectations to reduce the credibility of observations before adequate investigation had occurred.
 
-Had every report of falling stones simply been ignored, researchers would have lost opportunities to collect fresh specimens, compare independent cases and recognise recurring patterns. The delay in accepting meteorites illustrates how valuable observations can remain invisible when existing theories define them as impossible in advance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lyellcollection.org/doi/10.1144/gsl.sp.2006.256.01.02" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lyellcollection.org">[Lyell Collection]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lyellcollection.org</span><span class="citation-popover-snippet">Lyell CollectionMeteorites in history: an overview from the Renaissance to...The decade between 1794 and 1804 witnessed a dramatic advan...</span></span></span>
+Had every report of falling stones simply been ignored, researchers would have lost opportunities to collect fresh specimens, compare independent cases and recognise recurring patterns. The delay in accepting meteorites illustrates how valuable observations can remain invisible when existing theories define them as impossible in advance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lyellcollection.org/doi/10.1144/gsl.sp.2006.256.01.02" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lyellcollection.org">[Lyell Collection]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lyellcollection.org</span><span class="citation-popover-snippet">Lyell CollectionMeteorites in history: an overview from the Renaissance to...The decade between 1794 and 1804 witnessed a dramatic advan...</span></span></span>
 
-At the same time, the history also warns against romanticising rejected claims. Many extraordinary reports throughout history have indeed proved mistaken, exaggerated or fraudulent. Meteorites succeeded because the evidence became progressively stronger through repeatability, physical recovery, chemical analysis and careful documentation—not because disbelief itself became evidence of truth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Meteorite_fall" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Meteorite fall</span><span class="citation-popover-snippet">Meteorite fall</span></span></span>
+At the same time, the history also warns against romanticising rejected claims. Many extraordinary reports throughout history have indeed proved mistaken, exaggerated or fraudulent. Meteorites succeeded because the evidence became progressively stronger through repeatability, physical recovery, chemical analysis and careful documentation—not because disbelief itself became evidence of truth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Meteorite_fall" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Meteorite fall</span><span class="citation-popover-snippet">Meteorite fall</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JR7epn_qdR0" title="The Road to Recognition" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JR7epn_qdR0" target="_blank" rel="noopener noreferrer">The Road to Recognition</a></p><p class="youtube-embed-meta">Channel: UCLA Meteorite Collection &amp; Gallery</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JR7epn_qdR0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JR7epn_qdR0">Open on YouTube</a></p></div></div></div>
@@ -373,194 +373,194 @@ For [Forteana]({{ 'forteana/' | relative_url }}), meteorites are significant not
 <img src="{{ "/assets/images/forteana_50bdc8_scientific_dismissal_1e0731_meteorites_dismissal_e04da2-Illustration-3-dark.svg" | relative_url }}" alt="Meteorites illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_scientific_dismissal_1e0731_meteorites_dismissal_e04da2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_scientific_dismissal_1e0731_meteorites_dismissal_e04da2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Falling Stones Became Real Science. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Falling Stones Became Real Science. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rocks from Space on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ypTvAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Rocks from Space" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocks from Space">Rocks from Space</a>
-        </h4>
-        <p class="fr-book-author">By O. Richard Norton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rocks from Space on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ypTvAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Rocks from Space" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocks from Space">Rocks from Space</a>
+</h4>
+<p class="fr-book-author">By O. Richard Norton</p>
         
-        <p class="fr-book-desc">Covers the history and science of meteorites.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers the history and science of meteorites.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
-        </h4>
-        <p class="fr-book-author">By Charles Fort</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
+</h4>
+<p class="fr-book-author">By Charles Fort</p>
         
-        <p class="fr-book-desc">Includes famous anomalous falls and rejected reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes famous anomalous falls and rejected reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Provides historical context for belief, skepticism and social judgment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Provides historical context for belief, skepticism and social judgment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Structure+of+Scientific+Revolutions+by+Thomas+S.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Structure of Scientific Revolutions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Structure+of+Scientific+Revolutions+by+Thomas+S.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Structure of Scientific Revolutions">The Structure of Scientific Revolutions</a>
-        </h4>
-        <p class="fr-book-author">By Thomas S. Kuhn</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Structure+of+Scientific+Revolutions+by+Thomas+S.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Structure of Scientific Revolutions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Structure+of+Scientific+Revolutions+by+Thomas+S.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Structure of Scientific Revolutions">The Structure of Scientific Revolutions</a>
+</h4>
+<p class="fr-book-author">By Thomas S. Kuhn</p>
         
-        <p class="fr-book-desc">Provides context for shifts in scientific acceptance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Structure+of+Scientific+Revolutions+by+Thomas+S.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for shifts in scientific acceptance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Structure+of+Scientific+Revolutions+by+Thomas+S.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Rocks+from+Space&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rocks from Space</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Rocks+from+Space&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rocks from Space</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorites-when-falling-stones-became-real-science-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="meteorites-when-falling-stones-became-real-science-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart"><img src="{{ '/assets/images/marketplace-covers/2d540458477f76b2be20.jpg' | relative_url }}" alt="Listing image for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorites-when-falling-stones-became-real-science-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="meteorites-when-falling-stones-became-real-science-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer">Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorites-when-falling-stones-became-real-science-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="meteorites-when-falling-stones-became-real-science-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorites-when-falling-stones-became-real-science-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="meteorites-when-falling-stones-became-real-science-forteana-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorites-when-falling-stones-became-real-science-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="meteorites-when-falling-stones-became-real-science-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart"><img src="{{ '/assets/images/marketplace-covers/2d540458477f76b2be20.jpg' | relative_url }}" alt="Listing image for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorites-when-falling-stones-became-real-science-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="meteorites-when-falling-stones-became-real-science-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer">Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorites-when-falling-stones-became-real-science-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="meteorites-when-falling-stones-became-real-science-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorites-when-falling-stones-became-real-science-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="meteorites-when-falling-stones-became-real-science-forteana-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorites-when-falling-stones-became-real-science-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="meteorites-when-falling-stones-became-real-science-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster"><img src="{{ '/assets/images/marketplace-covers/fe6eac85e0cbd3115c4c.jpg' | relative_url }}" alt="Listing image for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorites-when-falling-stones-became-real-science-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="meteorites-when-falling-stones-became-real-science-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer">PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorites-when-falling-stones-became-real-science-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="meteorites-when-falling-stones-became-real-science-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorites-when-falling-stones-became-real-science-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="meteorites-when-falling-stones-became-real-science-forteana-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorites-when-falling-stones-became-real-science-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="meteorites-when-falling-stones-became-real-science-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster"><img src="{{ '/assets/images/marketplace-covers/fe6eac85e0cbd3115c4c.jpg' | relative_url }}" alt="Listing image for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorites-when-falling-stones-became-real-science-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="meteorites-when-falling-stones-became-real-science-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer">PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorites-when-falling-stones-became-real-science-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="meteorites-when-falling-stones-became-real-science-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorites-when-falling-stones-became-real-science-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="meteorites-when-falling-stones-became-real-science-forteana-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorites-when-falling-stones-became-real-science-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="meteorites-when-falling-stones-became-real-science-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd"><img src="{{ '/assets/images/marketplace-covers/7b9530e3e70391be5ab3.jpg' | relative_url }}" alt="Listing image for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorites-when-falling-stones-became-real-science-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="meteorites-when-falling-stones-became-real-science-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer">Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorites-when-falling-stones-became-real-science-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="meteorites-when-falling-stones-became-real-science-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorites-when-falling-stones-became-real-science-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="meteorites-when-falling-stones-became-real-science-forteana-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorites-when-falling-stones-became-real-science-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="meteorites-when-falling-stones-became-real-science-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd"><img src="{{ '/assets/images/marketplace-covers/7b9530e3e70391be5ab3.jpg' | relative_url }}" alt="Listing image for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorites-when-falling-stones-became-real-science-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="meteorites-when-falling-stones-became-real-science-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer">Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorites-when-falling-stones-became-real-science-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="meteorites-when-falling-stones-became-real-science-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorites-when-falling-stones-became-real-science-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="meteorites-when-falling-stones-became-real-science-forteana-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorites-when-falling-stones-became-real-science-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="meteorites-when-falling-stones-became-real-science-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic table with elements poster Science Wall Chart UPDATED Education Poster"><img src="{{ '/assets/images/marketplace-covers/4353dda57fefeae45a72.jpg' | relative_url }}" alt="Listing image for Periodic table with elements poster Science Wall Chart UPDATED Education Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorites-when-falling-stones-became-real-science-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="meteorites-when-falling-stones-became-real-science-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer">Periodic table with elements poster Science Wall Chart UPDATED Education Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorites-when-falling-stones-became-real-science-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="meteorites-when-falling-stones-became-real-science-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorites-when-falling-stones-became-real-science-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="meteorites-when-falling-stones-became-real-science-forteana-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorites-when-falling-stones-became-real-science-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="meteorites-when-falling-stones-became-real-science-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorites-when-falling-stones-became-real-science-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="meteorites-when-falling-stones-became-real-science-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic table with elements poster Science Wall Chart UPDATED Education Poster"><img src="{{ '/assets/images/marketplace-covers/4353dda57fefeae45a72.jpg' | relative_url }}" alt="Listing image for Periodic table with elements poster Science Wall Chart UPDATED Education Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorites-when-falling-stones-became-real-science-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="meteorites-when-falling-stones-became-real-science-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer">Periodic table with elements poster Science Wall Chart UPDATED Education Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorites-when-falling-stones-became-real-science-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="meteorites-when-falling-stones-became-real-science-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorites-when-falling-stones-became-real-science-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="meteorites-when-falling-stones-became-real-science-forteana-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteorites-when-falling-stones-became-real-science-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="meteorites-when-falling-stones-became-real-science-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -576,7 +576,7 @@ For [Forteana]({{ 'forteana/' | relative_url }}), meteorites are significant not
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -596,7 +596,7 @@ For [Forteana]({{ 'forteana/' | relative_url }}), meteorites are significant not
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -628,7 +628,7 @@ For [Forteana]({{ 'forteana/' | relative_url }}), meteorites are significant not
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -680,7 +680,7 @@ For [Forteana]({{ 'forteana/' | relative_url }}), meteorites are significant not
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -725,7 +725,7 @@ For [Forteana]({{ 'forteana/' | relative_url }}), meteorites are significant not
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -766,111 +766,111 @@ For [Forteana]({{ 'forteana/' | relative_url }}), meteorites are significant not
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/252075579_Meteorites_in_history_An_overview_from_the_Renaissance_to_the_20th_century" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/252075579_Meteorites_in_history_An_overview_from_the_Renaissance_to_the_20th_century</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteorites in history: An overview from the Renaissance to...They dismissed reports of fallen stones or irons as tales told...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/252075579_Meteorites_in_history_An_overview_from_the_Renaissance_to_the_20th_century" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/252075579_Meteorites_in_history_An_overview_from_the_Renaissance_to_the_20th_century</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meteorites in history: An overview from the Renaissance to...They dismissed reports of fallen stones or irons as tales told...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: meteorite-times.com  
-   Link: <a href="https://www.meteorite-times.com/siena-wold-cottage-laigle-soldani-chladni-baptiste-biot-king-and-howard-contributed-to-starting-meteoritics/" target="_blank" rel="noopener noreferrer nofollow">https://www.meteorite-times.com/siena-wold-cottage-laigle-soldani-chladni-baptiste-biot-king-and-howard-contributed-to-starting-meteoritics/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Siena, Wold Cottage, L&#x27;Aigle, Soldani, Chladni, Baptiste-...1 Jan 2023 — Historians have often argued that L&#x27;Aigle in the French provinc...</p></details>
+   Link:<a href="https://www.meteorite-times.com/siena-wold-cottage-laigle-soldani-chladni-baptiste-biot-king-and-howard-contributed-to-starting-meteoritics/" target="_blank" rel="noopener noreferrer nofollow">https://www.meteorite-times.com/siena-wold-cottage-laigle-soldani-chladni-baptiste-biot-king-and-howard-contributed-to-starting-meteoritics/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Siena, Wold Cottage, L&#x27;Aigle, Soldani, Chladni, Baptiste-...1 Jan 2023 — Historians have often argued that L&#x27;Aigle in the French provinc...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: meteorite.fr  
-   Link: <a href="https://www.meteorite.fr/en/basics/meteoritics.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.meteorite.fr/en/basics/meteoritics.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>History of MeteoriticsIn the late 1790s, rocks from space just didn&#x27;t fit into the concept of nature. However, nature itself came to Chla...</p></details>
+   Link:<a href="https://www.meteorite.fr/en/basics/meteoritics.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.meteorite.fr/en/basics/meteoritics.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History of MeteoriticsIn the late 1790s, rocks from space just didn&#x27;t fit into the concept of nature. However, nature itself came to Chla...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Meteorite fall  
-   Link: <a href="https://en.wikipedia.org/wiki/Meteorite_fall" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteorite_fall</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Meteorite_fall" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteorite_fall</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/249551093_The_meteorite_fall_at_L%27Aigle_and_the_Biot_report_Exploring_the_cradle_of_meteorites" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/249551093_The_meteorite_fall_at_L%27Aigle_and_the_Biot_report_Exploring_the_cradle_of_meteorites</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) The meteorite fall at L&#x27;Aigle and the Biot report7 Apr 2016 — Five advances leading to the acceptance of meteorites wer...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/249551093_The_meteorite_fall_at_L%27Aigle_and_the_Biot_report_Exploring_the_cradle_of_meteorites" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/249551093_The_meteorite_fall_at_L%27Aigle_and_the_Biot_report_Exploring_the_cradle_of_meteorites</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) The meteorite fall at L&#x27;Aigle and the Biot report7 Apr 2016 — Five advances leading to the acceptance of meteorites wer...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: L'Aigle (meteorite)  
-   Link: <a href="https://en.wikipedia.org/wiki/L%27Aigle_%28meteorite%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/L%27Aigle_%28meteorite%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 26, 2026 — Ernst Chladni had theorised and published a book in 1794 saying that meteorites originated beyond Earth. Although some o...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/L%27Aigle_%28meteorite%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/L%27Aigle_%28meteorite%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 26, 2026 — Ernst Chladni had theorised and published a book in 1794 saying that meteorites originated beyond Earth. Although some o...</p></details>
    Published: April 26, 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Jean-Baptiste Biot  
-   Link: <a href="https://en.wikipedia.org/wiki/Jean-Baptiste_Biot" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jean-Baptiste_Biot</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Jean-Baptiste_Biot" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jean-Baptiste_Biot</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: amnh.org  
    Title: ernst chladni meteoritics  
-   Link: <a href="https://www.amnh.org/learn-teach/curriculum-collections/cosmic-horizons-book/ernst-chladni-meteoritics" target="_blank" rel="noopener noreferrer nofollow">https://www.amnh.org/learn-teach/curriculum-collections/cosmic-horizons-book/ernst-chladni-meteoritics</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>American Museum of Natural HistoryErnst Chladni and Meteoritics: Rocks from the SkyThen in 1794, the German physicist Ernst Chladni publi...</p></details>
+   Link:<a href="https://www.amnh.org/learn-teach/curriculum-collections/cosmic-horizons-book/ernst-chladni-meteoritics" target="_blank" rel="noopener noreferrer nofollow">https://www.amnh.org/learn-teach/curriculum-collections/cosmic-horizons-book/ernst-chladni-meteoritics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Museum of Natural HistoryErnst Chladni and Meteoritics: Rocks from the SkyThen in 1794, the German physicist Ernst Chladni publi...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: lyellcollection.org  
-   Link: <a href="https://www.lyellcollection.org/doi/10.1144/gsl.sp.2006.256.01.02" target="_blank" rel="noopener noreferrer nofollow">https://www.lyellcollection.org/doi/10.1144/gsl.sp.2006.256.01.02</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lyell CollectionMeteorites in history: an overview from the Renaissance to...The decade between 1794 and 1804 witnessed a dramatic advan...</p></details>
+   Link:<a href="https://www.lyellcollection.org/doi/10.1144/gsl.sp.2006.256.01.02" target="_blank" rel="noopener noreferrer nofollow">https://www.lyellcollection.org/doi/10.1144/gsl.sp.2006.256.01.02</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lyell CollectionMeteorites in history: an overview from the Renaissance to...The decade between 1794 and 1804 witnessed a dramatic advan...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aas.org  
    Title: American Astronomical Society This Month in Astronomical History  
-   Link: <a href="https://aas.org/posts/news/2018/05/month-astronomical-history" target="_blank" rel="noopener noreferrer nofollow">https://aas.org/posts/news/2018/05/month-astronomical-history</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Astronomical SocietyThis Month in Astronomical HistoryMay 2, 2018 — Then, in 1794, nine years before the L&#x27;Aigle fall, physicist...</p></details>
+   Link:<a href="https://aas.org/posts/news/2018/05/month-astronomical-history" target="_blank" rel="noopener noreferrer nofollow">https://aas.org/posts/news/2018/05/month-astronomical-history</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Astronomical SocietyThis Month in Astronomical HistoryMay 2, 2018 — Then, in 1794, nine years before the L&#x27;Aigle fall, physicist...</p></details>
    Published: May 2, 2018  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: m.espacepourlavie.ca  
    Title: ca How did meteorites become extraterrestrial objects?  
-   Link: <a href="https://m.espacepourlavie.ca/blogue/en/how-did-meteorites-become-extraterrestrial-objects" target="_blank" rel="noopener noreferrer nofollow">https://m.espacepourlavie.ca/blogue/en/how-did-meteorites-become-extraterrestrial-objects</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blog16 Aug 2023 — For Biot, the fall of stones at L&#x27;Aigle in 1803 could only be explained by accepting that they fell from the sky. He...</p></details>
+   Link:<a href="https://m.espacepourlavie.ca/blogue/en/how-did-meteorites-become-extraterrestrial-objects" target="_blank" rel="noopener noreferrer nofollow">https://m.espacepourlavie.ca/blogue/en/how-did-meteorites-become-extraterrestrial-objects</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blog16 Aug 2023 — For Biot, the fall of stones at L&#x27;Aigle in 1803 could only be explained by accepting that they fell from the sky. He...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: lweb.cfa.harvard.edu  
-   Link: <a href="https://lweb.cfa.harvard.edu/~loeb/UM1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://lweb.cfa.harvard.edu/~loeb/UM1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ernst Florens Friedrich Chladni (1756–1827) and the origins...The meteorite fall at L&#x27;Aigle and the Biot report: Exploring the cradle of...</p></details>
+   Link:<a href="https://lweb.cfa.harvard.edu/~loeb/UM1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://lweb.cfa.harvard.edu/~loeb/UM1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ernst Florens Friedrich Chladni (1756–1827) and the origins...The meteorite fall at L&#x27;Aigle and the Biot report: Exploring the cradle of...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: geriwalton.com  
    Title: jean baptiste biot and meteorites in 1803  
-   Link: <a href="https://www.geriwalton.com/jean-baptiste-biot-and-meteorites-in-1803/" target="_blank" rel="noopener noreferrer nofollow">https://www.geriwalton.com/jean-baptiste-biot-and-meteorites-in-1803/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jean-Baptiste Biot and L&#x27;Aigle Meteorite in 180320 Apr 2018 — Jean-Baptiste Biot found a chance to prove the origins of the stones becaus...</p></details>
+   Link:<a href="https://www.geriwalton.com/jean-baptiste-biot-and-meteorites-in-1803/" target="_blank" rel="noopener noreferrer nofollow">https://www.geriwalton.com/jean-baptiste-biot-and-meteorites-in-1803/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jean-Baptiste Biot and L&#x27;Aigle Meteorite in 180320 Apr 2018 — Jean-Baptiste Biot found a chance to prove the origins of the stones becaus...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: smithsonianmag.com  
    Title: Chladni was hesitant to publish, writes  
-   Link: <a href="https://www.smithsonianmag.com/smart-news/1803-rain-rocks-helped-establish-existence-meteorites-180963017/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smart-news/1803-rain-rocks-helped-establish-existence-meteorites-180963017/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian MagazineScientists Didn&#x27;t Believe in Meteorites Until 1803Apr 26, 2017 — A physicist named Ernst Chladni had published a book...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/smart-news/1803-rain-rocks-helped-establish-existence-meteorites-180963017/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smart-news/1803-rain-rocks-helped-establish-existence-meteorites-180963017/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian MagazineScientists Didn&#x27;t Believe in Meteorites Until 1803Apr 26, 2017 — A physicist named Ernst Chladni had published a book...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Murchison Meteorite: Witnessing the fall of the most famous space rock  
-   Link: <a href="https://www.youtube.com/watch?v=UVBd4l7qqEw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UVBd4l7qqEw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>From Wolfe Creek to Tunguska - Meteorites in Cultural Traditions (Full)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UVBd4l7qqEw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UVBd4l7qqEw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From Wolfe Creek to Tunguska - Meteorites in Cultural Traditions (Full)...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: This Space Rock is 4.5 Billion Years Old. Here's Its Secret  
-   Link: <a href="https://www.youtube.com/watch?v=SFLCtAc38AE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SFLCtAc38AE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Murchison Meteorite: Witnessing the fall of the most famous space rock...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=SFLCtAc38AE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SFLCtAc38AE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Murchison Meteorite: Witnessing the fall of the most famous space rock...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: amusingplanet.com  
-   Link: <a href="https://www.amusingplanet.com/2024/01/the-laigle-meteorite-shower-and-birth.html" target="_blank" rel="noopener noreferrer nofollow">https://www.amusingplanet.com/2024/01/the-laigle-meteorite-shower-and-birth.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The L&#x27;Aigle Meteorite Shower And The Birth of Meteoritics17 Jan 2024 — In 1794, the German physicist Ernst Chladni challenged this view b...</p></details>
+   Link:<a href="https://www.amusingplanet.com/2024/01/the-laigle-meteorite-shower-and-birth.html" target="_blank" rel="noopener noreferrer nofollow">https://www.amusingplanet.com/2024/01/the-laigle-meteorite-shower-and-birth.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The L&#x27;Aigle Meteorite Shower And The Birth of Meteoritics17 Jan 2024 — In 1794, the German physicist Ernst Chladni challenged this view b...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: inamidst.com  
-   Link: <a href="https://inamidst.com/lo/aerolites" target="_blank" rel="noopener noreferrer nofollow">https://inamidst.com/lo/aerolites</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to MeteoritesOnly Ernst Chladni, in 1794, suggested that they were from outer space. On 26th April 1803, however, there was a breakthroug...</p></details>
+   Link:<a href="https://inamidst.com/lo/aerolites" target="_blank" rel="noopener noreferrer nofollow">https://inamidst.com/lo/aerolites</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to MeteoritesOnly Ernst Chladni, in 1794, suggested that they were from outer space. On 26th April 1803, however, there was a breakthroug...</p></details>
    Published: April 1803  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: The Road to Recognition  
-   Link: <a href="https://www.youtube.com/watch?v=JR7epn_qdR0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JR7epn_qdR0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This Space Rock is 4.5 Billion Years Old. Here&#x27;s Its Secret...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JR7epn_qdR0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JR7epn_qdR0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This Space Rock is 4.5 Billion Years Old. Here&#x27;s Its Secret...</p></details>

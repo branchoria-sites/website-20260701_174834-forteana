@@ -280,7 +280,7 @@ image: /assets/images/forteana_50bdc8_fortean_journalism_s_f57056_first_reports_
 
 ## Introduction
 
-The strongest evidence in many classic Fortean cases is often found not in the most famous version of the story but in the earliest one. Initial newspaper reports, police statements and local interviews usually preserve uncertainty: witnesses describe "something", "a bird-like creature", "a strange light" or "an unusual sound" because they do not yet know what they have seen. As a case spreads through national [newspapers]({{ 'newspapers/' | relative_url }}), books, documentaries and the internet, that uncertainty frequently shrinks. Details become more dramatic, loose connections become firm conclusions, and later writers may unintentionally combine multiple reports into a single, cleaner narrative. Understanding this process is essential to reading [Fortean journalism]({{ 'strange-news/' | relative_url }}) critically. It does not determine whether an event was ordinary or extraordinary, but it helps distinguish what witnesses originally reported from what later tradition added. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://shura.shu.ac.uk/24606/3/Clarke_Mothman_Of_West%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[SHURA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-snippet">The Mothman of West Virginia: A case study in Legendary...March 4, 2020 — by D Clarke · 2022 · Cited by 6 — The book is a classic o...</span><span class="citation-popover-meta">Published: March 4, 2020</span></span></span>
+The strongest evidence in many classic Fortean cases is often found not in the most famous version of the story but in the earliest one. Initial newspaper reports, police statements and local interviews usually preserve uncertainty: witnesses describe "something", "a bird-like creature", "a strange light" or "an unusual sound" because they do not yet know what they have seen. As a case spreads through national [newspapers]({{ 'newspapers/' | relative_url }}), books, documentaries and the internet, that uncertainty frequently shrinks. Details become more dramatic, loose connections become firm conclusions, and later writers may unintentionally combine multiple reports into a single, cleaner narrative. Understanding this process is essential to reading [Fortean journalism]({{ 'strange-news/' | relative_url }}) critically. It does not determine whether an event was ordinary or extraordinary, but it helps distinguish what witnesses originally reported from what later tradition added.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://shura.shu.ac.uk/24606/3/Clarke_Mothman_Of_West%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[SHURA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-snippet">The Mothman of West Virginia: A case study in Legendary...March 4, 2020 — by D Clarke · 2022 · Cited by 6 — The book is a classic o...</span><span class="citation-popover-meta">Published: March 4, 2020</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_fortean_journalism_s_f57056_first_reports_retell_d24a84-Illustration-1-dark.svg" | relative_url }}" alt="Retellings illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_fortean_journalism_s_f57056_first_reports_retell_d24a84-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_fortean_journalism_s_f57056_first_reports_retell_d24a84-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -299,9 +299,9 @@ The first published account has a unique evidential value because it is usually 
 
 As stories circulate, editors naturally favour memorable phrases over hesitant ones. A headline needs a recognisable subject, whereas eyewitnesses often do not have one. The result is a gradual shift from [observation]({{ 'observation/' | relative_url }}) to interpretation.
 
-The famous Point Pleasant reports illustrate this clearly. The first newspaper headline did not announce that "Mothman" had appeared. Instead it referred to a "Man-Sized Bird...Creature...Something", reflecting genuine uncertainty about what had been seen. The later name "Mothman" quickly became the dominant frame, encouraging readers to imagine a specific creature rather than an unidentified observation. Researchers of the legend have noted that this shift influenced virtually every later retelling. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklife.si.edu">[Smithsonian Folklife Center+2SHURA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklife.si.edu</span><span class="citation-popover-title">mothman point pleasant west virginia</span><span class="citation-popover-snippet">Smithsonian Folklife CenterAn Ode to a Hometown Creature: Mothman of Point Pleasant...6 Jun 2021 — The creature has risen from local app...</span></span></span>
+The famous Point Pleasant reports illustrate this clearly. The first newspaper headline did not announce that "Mothman" had appeared. Instead it referred to a "Man-Sized Bird...Creature...Something", reflecting genuine uncertainty about what had been seen. The later name "Mothman" quickly became the dominant frame, encouraging readers to imagine a specific creature rather than an unidentified observation. Researchers of the legend have noted that this shift influenced virtually every later retelling.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklife.si.edu">[Smithsonian Folklife Center+2SHURA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklife.si.edu</span><span class="citation-popover-title">mothman point pleasant west virginia</span><span class="citation-popover-snippet">Smithsonian Folklife CenterAn Ode to a Hometown Creature: Mothman of Point Pleasant...6 Jun 2021 — The creature has risen from local app...</span></span></span>
 
-The same pattern appears in many cryptid and [UFO reports]({{ 'ufo-reports/' | relative_url }}). Initial witnesses often reject confident interpretations. In the first Point Pleasant coverage, one witness explicitly insisted that the object was not a flying saucer. Later accounts, however, frequently discuss UFO connections because those ideas entered the story afterwards through subsequent investigations and publications rather than through the original witness statements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uwm.edu/letters-science/in-focus-2021/history-student-tells-the-story-of-the-mothman/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uwm.edu">[UW-Milwaukee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uwm.edu</span><span class="citation-popover-title">UW-Milwaukee History student tells the story of the Mothman</span><span class="citation-popover-snippet">UW-MilwaukeeHistory student tells the story of the MothmanJuly 12, 2021 — 12 Jul 2021 — In mid-November, 1966, in the small town of Point...</span><span class="citation-popover-meta">Published: July 12, 2021</span></span></span>
+The same pattern appears in many cryptid and [UFO reports]({{ 'ufo-reports/' | relative_url }}). Initial witnesses often reject confident interpretations. In the first Point Pleasant coverage, one witness explicitly insisted that the object was not a flying saucer. Later accounts, however, frequently discuss UFO connections because those ideas entered the story afterwards through subsequent investigations and publications rather than through the original witness statements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uwm.edu/letters-science/in-focus-2021/history-student-tells-the-story-of-the-mothman/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uwm.edu">[UW-Milwaukee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uwm.edu</span><span class="citation-popover-title">UW-Milwaukee History student tells the story of the Mothman</span><span class="citation-popover-snippet">UW-MilwaukeeHistory student tells the story of the MothmanJuly 12, 2021 — 12 Jul 2021 — In mid-November, 1966, in the small town of Point...</span><span class="citation-popover-meta">Published: July 12, 2021</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O1__lo0hhHA" title="The Legendary Mothman and the Evolution of Folklore - Jack Daly" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O1__lo0hhHA" target="_blank" rel="noopener noreferrer">The Legendary Mothman and the Evolution of Folklore - Jack Daly</a></p><p class="youtube-embed-meta">Channel: Jon Solo</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O1__lo0hhHA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O1__lo0hhHA">Open on YouTube</a></p></div></div></div>
@@ -312,13 +312,13 @@ Once an unusual local report attracts wider attention, several mechanisms tend t
 
 ### A memorable label replaces descriptive language
 
-Names such as "Mothman", "Nessie" or the "Flatwoods Monster" are useful shorthand, but they also encourage readers to assume that separate reports concern the same entity. Early reports often contain much broader or more ambiguous descriptions than the later label suggests. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Loch Ness Monster</span><span class="citation-popover-snippet">Loch Ness Monster</span></span></span>
+Names such as "Mothman", "Nessie" or the "Flatwoods Monster" are useful shorthand, but they also encourage readers to assume that separate reports concern the same entity. Early reports often contain much broader or more ambiguous descriptions than the later label suggests.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Loch Ness Monster</span><span class="citation-popover-snippet">Loch Ness Monster</span></span></span>
 
 ### Separate incidents become a single narrative
 
 Local newspapers commonly publish sightings over days or weeks as distinct events. Later books often arrange them into a coherent storyline with a beginning, middle and end. This creates a more satisfying narrative but can blur differences between witnesses, dates and locations.
 
-Studies of the Mothman tradition note that later authors connected diverse experiences—including UFO reports, mysterious visitors, unusual lights and eventually the collapse of the Silver Bridge—into one integrated legend. Those links became culturally influential even though they emerged progressively rather than appearing fully formed in the earliest reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://shura.shu.ac.uk/24606/3/Clarke_Mothman_Of_West%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[SHURA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-snippet">The Mothman of West Virginia: A case study in Legendary...March 4, 2020 — by D Clarke · 2022 · Cited by 6 — The book is a classic o...</span><span class="citation-popover-meta">Published: March 4, 2020</span></span></span>
+Studies of the Mothman tradition note that later authors connected diverse experiences—including UFO reports, mysterious visitors, unusual lights and eventually the collapse of the Silver Bridge—into one integrated legend. Those links became culturally influential even though they emerged progressively rather than appearing fully formed in the earliest reporting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://shura.shu.ac.uk/24606/3/Clarke_Mothman_Of_West%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[SHURA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-snippet">The Mothman of West Virginia: A case study in Legendary...March 4, 2020 — by D Clarke · 2022 · Cited by 6 — The book is a classic o...</span><span class="citation-popover-meta">Published: March 4, 2020</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_fortean_journalism_s_f57056_first_reports_retell_d24a84-Illustration-2-dark.svg" | relative_url }}" alt="Retellings illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_fortean_journalism_s_f57056_first_reports_retell_d24a84-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_fortean_journalism_s_f57056_first_reports_retell_d24a84-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -330,7 +330,7 @@ A witness who originally said "it looked like" may later be remembered as saying
 
 ### Additional folklore attaches itself
 
-As publicity increases, unrelated experiences are sometimes retrospectively connected to the famous case. Later researchers have documented how reports from different countries and earlier decades have occasionally been reclassified as examples of Mothman-like encounters, even though they were not originally interpreted that way. This illustrates how legends expand by absorbing older material once a recognised narrative exists. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://scholarworks.iu.edu/journals/index.php/cl/article/download/41747/44362/128005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholarworks.iu.edu">[IUScholarWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholarworks.iu.edu</span><span class="citation-popover-snippet">ScholarWorksThe Mothman: The Migration of a Local Legendby E HASKEN — In an interview on March 13, 2016, Ashley Wamsley shared the foll...</span><span class="citation-popover-meta">Published: March 13, 2016</span></span></span>
+As publicity increases, unrelated experiences are sometimes retrospectively connected to the famous case. Later researchers have documented how reports from different countries and earlier decades have occasionally been reclassified as examples of Mothman-like encounters, even though they were not originally interpreted that way. This illustrates how legends expand by absorbing older material once a recognised narrative exists.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://scholarworks.iu.edu/journals/index.php/cl/article/download/41747/44362/128005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholarworks.iu.edu">[IUScholarWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholarworks.iu.edu</span><span class="citation-popover-snippet">ScholarWorksThe Mothman: The Migration of a Local Legendby E HASKEN — In an interview on March 13, 2016, Ashley Wamsley shared the foll...</span><span class="citation-popover-meta">Published: March 13, 2016</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OCwIK7XL1IQ" title="THE CHUPACABRA HOAX: How a Hollywood Movie Created a Real-Life Monster | Paskvan Podcasts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OCwIK7XL1IQ" target="_blank" rel="noopener noreferrer">THE CHUPACABRA HOAX: How a Hollywood Movie Created a Real-Life Monster | Paskvan Podcasts</a></p><p class="youtube-embed-meta">Channel: Paskvan Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OCwIK7XL1IQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OCwIK7XL1IQ">Open on YouTube</a></p></div></div></div>
@@ -339,9 +339,9 @@ As publicity increases, unrelated experiences are sometimes retrospectively conn
 
 The Mothman story remains one of the clearest demonstrations of how a Fortean report evolves through successive layers of retelling.
 
-The November 1966 newspaper coverage presented frightened witnesses describing an unidentified winged figure. Subsequent local reporting expanded the number of sightings. John Keel's later investigations added broader paranormal themes, including alleged Men in Black encounters and wider patterns of unexplained phenomena. The 2002 film adaptation then introduced further dramatic restructuring for storytelling purposes, bringing the legend to audiences far beyond West Virginia. Each stage preserved elements of earlier reporting while also introducing new emphases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklife.si.edu">[Smithsonian Folklife Center+2SHURA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklife.si.edu</span><span class="citation-popover-title">mothman point pleasant west virginia</span><span class="citation-popover-snippet">Smithsonian Folklife CenterAn Ode to a Hometown Creature: Mothman of Point Pleasant...6 Jun 2021 — The creature has risen from local app...</span></span></span>
+The November 1966 newspaper coverage presented frightened witnesses describing an unidentified winged figure. Subsequent local reporting expanded the number of sightings. John Keel's later investigations added broader paranormal themes, including alleged Men in Black encounters and wider patterns of unexplained phenomena. The 2002 film adaptation then introduced further dramatic restructuring for storytelling purposes, bringing the legend to audiences far beyond West Virginia. Each stage preserved elements of earlier reporting while also introducing new emphases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklife.si.edu">[Smithsonian Folklife Center+2SHURA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklife.si.edu</span><span class="citation-popover-title">mothman point pleasant west virginia</span><span class="citation-popover-snippet">Smithsonian Folklife CenterAn Ode to a Hometown Creature: Mothman of Point Pleasant...6 Jun 2021 — The creature has risen from local app...</span></span></span>
 
-The modern [Loch Ness]({{ 'loch-ness/' | relative_url }}) Monster tradition followed a similar, although longer, process. Early newspaper reports from 1933 described unusual disturbances in the water using varied language such as "beast" or "whale-like fish". As international coverage increased, the single image of a long-necked monster became dominant. Later discussions often focus on iconic photographs, particularly the "Surgeon's Photograph", despite its eventual exposure as a hoax. The famous image came to shape public memory more strongly than many earlier written accounts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Loch Ness Monster</span><span class="citation-popover-snippet">Loch Ness Monster</span></span></span>
+The modern [Loch Ness]({{ 'loch-ness/' | relative_url }}) Monster tradition followed a similar, although longer, process. Early newspaper reports from 1933 described unusual disturbances in the water using varied language such as "beast" or "whale-like fish". As international coverage increased, the single image of a long-necked monster became dominant. Later discussions often focus on iconic photographs, particularly the "Surgeon's Photograph", despite its eventual exposure as a hoax. The famous image came to shape public memory more strongly than many earlier written accounts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Loch Ness Monster</span><span class="citation-popover-snippet">Loch Ness Monster</span></span></span>
 
 These examples demonstrate that later versions are not necessarily false; rather, they often represent a mixture of original testimony, later interpretation and accumulated folklore.
 
@@ -357,185 +357,185 @@ QuestionWhy it mattersDoes the witness's original wording still appear?Direct qu
 
 For Fortean journalism, later retellings are valuable historical documents in their own right, but they answer a different question from first reports. Early newspaper accounts primarily document what people claimed at the time. Later books, documentaries and anniversary features reveal how communities remember, reinterpret and reshape unusual events.
 
-Rather than treating one version as automatically correct, careful readers compare successive layers. The earliest reports preserve immediacy and ambiguity; later retellings reveal which details proved memorable, commercially attractive or culturally meaningful. Seen together, they show not only how strange stories spread but also how uncertainty itself can gradually be edited out of the historical record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://shura.shu.ac.uk/24606/3/Clarke_Mothman_Of_West%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[SHURA+2IUScholarWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-snippet">The Mothman of West Virginia: A case study in Legendary...March 4, 2020 — by D Clarke · 2022 · Cited by 6 — The book is a classic o...</span><span class="citation-popover-meta">Published: March 4, 2020</span></span></span>
+Rather than treating one version as automatically correct, careful readers compare successive layers. The earliest reports preserve immediacy and ambiguity; later retellings reveal which details proved memorable, commercially attractive or culturally meaningful. Seen together, they show not only how strange stories spread but also how uncertainty itself can gradually be edited out of the historical record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://shura.shu.ac.uk/24606/3/Clarke_Mothman_Of_West%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[SHURA+2IUScholarWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-snippet">The Mothman of West Virginia: A case study in Legendary...March 4, 2020 — by D Clarke · 2022 · Cited by 6 — The book is a classic o...</span><span class="citation-popover-meta">Published: March 4, 2020</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/b9v51FZvS5k" title="Mothman: The Legend Of Point Pleasant And The Evidence | Boogeymen | Documentary Central" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=b9v51FZvS5k" target="_blank" rel="noopener noreferrer">Mothman: The Legend Of Point Pleasant And The Evidence | Boogeymen | Documentary Central</a></p><p class="youtube-embed-meta">Channel: Documentary Central</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=b9v51FZvS5k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=b9v51FZvS5k">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Later Legends Add to First Reports. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Later Legends Add to First Reports. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
-        </h4>
-        <p class="fr-book-author">By Charles Fort</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
+</h4>
+<p class="fr-book-author">By Charles Fort</p>
         
-        <p class="fr-book-desc">Demonstrates reliance on original published reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates reliance on original published reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Explains how narratives evolve as they circulate.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Explains how narratives evolve as they circulate.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explores memory and self-justification relevant to retellings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores memory and self-justification relevant to retellings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (But Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1119860-M.jpg" alt="Cover for Mistakes Were Made (But Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (But Not by Me)">Mistakes Were Made (But Not by Me)</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (But Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1119860-M.jpg" alt="Cover for Mistakes Were Made (But Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (But Not by Me)">Mistakes Were Made (But Not by Me)</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">First published 2007. Subjects: Fouten, Vergissingen, Cognitive dissonance, Self-deception, Rechtvaardiging.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2007. Subjects: Fouten, Vergissingen, Cognitive dissonance, Self-deception, Rechtvaardiging.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-what-later-legends-add-to-first-reports-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="retellings-what-later-legends-add-to-first-reports-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-what-later-legends-add-to-first-reports-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="retellings-what-later-legends-add-to-first-reports-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-what-later-legends-add-to-first-reports-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="retellings-what-later-legends-add-to-first-reports-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-what-later-legends-add-to-first-reports-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="retellings-what-later-legends-add-to-first-reports-forteana-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-what-later-legends-add-to-first-reports-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="retellings-what-later-legends-add-to-first-reports-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-what-later-legends-add-to-first-reports-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="retellings-what-later-legends-add-to-first-reports-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-what-later-legends-add-to-first-reports-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="retellings-what-later-legends-add-to-first-reports-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-what-later-legends-add-to-first-reports-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="retellings-what-later-legends-add-to-first-reports-forteana-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-what-later-legends-add-to-first-reports-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="retellings-what-later-legends-add-to-first-reports-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-what-later-legends-add-to-first-reports-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="retellings-what-later-legends-add-to-first-reports-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-what-later-legends-add-to-first-reports-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="retellings-what-later-legends-add-to-first-reports-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-what-later-legends-add-to-first-reports-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="retellings-what-later-legends-add-to-first-reports-forteana-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-what-later-legends-add-to-first-reports-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="retellings-what-later-legends-add-to-first-reports-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-what-later-legends-add-to-first-reports-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="retellings-what-later-legends-add-to-first-reports-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-what-later-legends-add-to-first-reports-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="retellings-what-later-legends-add-to-first-reports-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-what-later-legends-add-to-first-reports-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="retellings-what-later-legends-add-to-first-reports-forteana-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-what-later-legends-add-to-first-reports-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="retellings-what-later-legends-add-to-first-reports-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-what-later-legends-add-to-first-reports-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="retellings-what-later-legends-add-to-first-reports-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-what-later-legends-add-to-first-reports-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="retellings-what-later-legends-add-to-first-reports-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-what-later-legends-add-to-first-reports-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="retellings-what-later-legends-add-to-first-reports-forteana-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-what-later-legends-add-to-first-reports-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="retellings-what-later-legends-add-to-first-reports-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-what-later-legends-add-to-first-reports-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="retellings-what-later-legends-add-to-first-reports-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-what-later-legends-add-to-first-reports-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="retellings-what-later-legends-add-to-first-reports-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-what-later-legends-add-to-first-reports-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="retellings-what-later-legends-add-to-first-reports-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-what-later-legends-add-to-first-reports-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="retellings-what-later-legends-add-to-first-reports-forteana-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retellings-what-later-legends-add-to-first-reports-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="retellings-what-later-legends-add-to-first-reports-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -551,7 +551,7 @@ Rather than treating one version as automatically correct, careful readers compa
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -571,7 +571,7 @@ Rather than treating one version as automatically correct, careful readers compa
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -603,7 +603,7 @@ Rather than treating one version as automatically correct, careful readers compa
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -655,7 +655,7 @@ Rather than treating one version as automatically correct, careful readers compa
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -700,7 +700,7 @@ Rather than treating one version as automatically correct, careful readers compa
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -741,89 +741,89 @@ Rather than treating one version as automatically correct, careful readers compa
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: shura.shu.ac.uk  
-   Link: <a href="https://shura.shu.ac.uk/24606/3/Clarke_Mothman_Of_West%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/24606/3/Clarke_Mothman_Of_West%28AM%29.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mothman of West Virginia: A case study in Legendary...March 4, 2020 — by D Clarke · 2022 · Cited by 6 — [The book](&amp;#123;&amp;#123; &#x27;the-book/&#x27; | relative_url &amp;#125;&amp;#125;) is a classic o...</p></details>
+   Link:<a href="https://shura.shu.ac.uk/24606/3/Clarke_Mothman_Of_West%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/24606/3/Clarke_Mothman_Of_West%28AM%29.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Mothman of West Virginia: A case study in Legendary...March 4, 2020 — by D Clarke · 2022 · Cited by 6 — [The book](&amp;#123;&amp;#123; &#x27;the-book/&#x27; | relative_url &amp;#125;&amp;#125;) is a classic o...</p></details>
    Published: March 4, 2020  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Loch Ness Monster  
-   Link: <a href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Loch_Ness_Monster</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Loch_Ness_Monster</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Flatwoods monster  
-   Link: <a href="https://en.wikipedia.org/wiki/Flatwoods_monster" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flatwoods_monster</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Flatwoods_monster" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flatwoods_monster</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Mothman" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mothman</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MothmanThe first newspaper report was published in the Point Pleasant Register, dated November 16, 1966, titled &quot;Couples See Man-Sized...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Mothman" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mothman</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MothmanThe first newspaper report was published in the Point Pleasant Register, dated November 16, 1966, titled &quot;Couples See Man-Sized...</p></details>
    Published: November 16, 1966  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: folklife.si.edu  
    Title: mothman point pleasant west virginia  
-   Link: <a href="https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia" target="_blank" rel="noopener noreferrer nofollow">https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian Folklife CenterAn Ode to a Hometown Creature: Mothman of Point Pleasant...6 Jun 2021 — The creature has risen from local app...</p></details>
+   Link:<a href="https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia" target="_blank" rel="noopener noreferrer nofollow">https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian Folklife CenterAn Ode to a Hometown Creature: Mothman of Point Pleasant...6 Jun 2021 — The creature has risen from local app...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: uwm.edu  
    Title: UW-Milwaukee History student tells the story of the Mothman  
-   Link: <a href="https://uwm.edu/letters-science/in-focus-2021/history-student-tells-the-story-of-the-mothman/" target="_blank" rel="noopener noreferrer nofollow">https://uwm.edu/letters-science/in-focus-2021/history-student-tells-the-story-of-the-mothman/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UW-MilwaukeeHistory student tells the story of the MothmanJuly 12, 2021 — 12 Jul 2021 — In mid-November, 1966, in the small town of Point...</p></details>
+   Link:<a href="https://uwm.edu/letters-science/in-focus-2021/history-student-tells-the-story-of-the-mothman/" target="_blank" rel="noopener noreferrer nofollow">https://uwm.edu/letters-science/in-focus-2021/history-student-tells-the-story-of-the-mothman/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UW-MilwaukeeHistory student tells the story of the MothmanJuly 12, 2021 — 12 Jul 2021 — In mid-November, 1966, in the small town of Point...</p></details>
    Published: July 12, 2021  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: scholarworks.iu.edu  
-   Link: <a href="https://scholarworks.iu.edu/journals/index.php/cl/article/download/41747/44362/128005" target="_blank" rel="noopener noreferrer nofollow">https://scholarworks.iu.edu/journals/index.php/cl/article/download/41747/44362/128005</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScholarWorksThe Mothman: The Migration of a Local Legendby E HASKEN — In an interview on March 13, 2016, Ashley Wamsley shared the foll...</p></details>
+   Link:<a href="https://scholarworks.iu.edu/journals/index.php/cl/article/download/41747/44362/128005" target="_blank" rel="noopener noreferrer nofollow">https://scholarworks.iu.edu/journals/index.php/cl/article/download/41747/44362/128005</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ScholarWorksThe Mothman: The Migration of a Local Legendby E HASKEN — In an interview on March 13, 2016, Ashley Wamsley shared the foll...</p></details>
    Published: March 13, 2016  
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheFolklorePodcast/posts/today-november-16th-is-the-anniversary-of-the-first-newspaper-report-detailing-a/1328382092636041/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheFolklorePodcast/posts/today-november-16th-is-the-anniversary-of-the-first-newspaper-report-detailing-a/1328382092636041/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Folklore PodcastToday, November 16th, is the anniversary of the first newspaper report detailing a sighting of Mothman. It appeared i...</p></details>
+   Link:<a href="https://www.facebook.com/TheFolklorePodcast/posts/today-november-16th-is-the-anniversary-of-the-first-newspaper-report-detailing-a/1328382092636041/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheFolklorePodcast/posts/today-november-16th-is-the-anniversary-of-the-first-newspaper-report-detailing-a/1328382092636041/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Folklore PodcastToday, November 16th, is the anniversary of the first newspaper report detailing a sighting of Mothman. It appeared i...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: wvpublic.org  
-   Link: <a href="https://wvpublic.org/story/arts-culture/from-mothman-to-the-silver-bridge-13-months-in-the-life-of-a-local-journalist/" target="_blank" rel="noopener noreferrer nofollow">https://wvpublic.org/story/arts-culture/from-mothman-to-the-silver-bridge-13-months-in-the-life-of-a-local-journalist/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>West Virginia Public BroadcastingFrom Mothman To The Silver Bridge: 13 Months In The Life...20 Oct 2025 — The first time anyone saw the...</p></details>
+   Link:<a href="https://wvpublic.org/story/arts-culture/from-mothman-to-the-silver-bridge-13-months-in-the-life-of-a-local-journalist/" target="_blank" rel="noopener noreferrer nofollow">https://wvpublic.org/story/arts-culture/from-mothman-to-the-silver-bridge-13-months-in-the-life-of-a-local-journalist/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>West Virginia Public BroadcastingFrom Mothman To The Silver Bridge: 13 Months In The Life...20 Oct 2025 — The first time anyone saw the...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: search.proquest.com  
-   Link: <a href="https://search.proquest.com/openview/57c18a0cf28b0bbd58c534caa36fd893/1?cbl=18750&amp;diss=y&amp;pq-origsite=gscholar" target="_blank" rel="noopener noreferrer nofollow">https://search.proquest.com/openview/57c18a0cf28b0bbd58c534caa36fd893/1?cbl=18750&amp;diss=y&amp;pq-origsite=gscholar</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Migration of a Local Legend: The Case of Mothmanby EA Hasken · 2022 · Cited by 1 — In this dissertation, I propose to explore how legends...</p></details>
+   Link:<a href="https://search.proquest.com/openview/57c18a0cf28b0bbd58c534caa36fd893/1?cbl=18750&amp;diss=y&amp;pq-origsite=gscholar" target="_blank" rel="noopener noreferrer nofollow">https://search.proquest.com/openview/57c18a0cf28b0bbd58c534caa36fd893/1?cbl=18750&amp;diss=y&amp;pq-origsite=gscholar</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Migration of a Local Legend: The Case of Mothmanby EA Hasken · 2022 · Cited by 1 — In this dissertation, I propose to explore how legends...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: The Legendary Mothman and the Evolution of Folklore  
-   Link: <a href="https://www.youtube.com/watch?v=O1__lo0hhHA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O1__lo0hhHA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE CHUPACABRA HOAX: How a Hollywood Movie Created a Real-Life Monster...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=O1__lo0hhHA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O1__lo0hhHA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE CHUPACABRA HOAX: How a Hollywood Movie Created a Real-Life Monster...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Mothman: The Legend Of Point Pleasant And The Evidence  
-   Link: <a href="https://www.youtube.com/watch?v=b9v51FZvS5k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b9v51FZvS5k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Neil deGrasse Tyson Debunks UFO Sightings &amp; Alien Abductions Science vs Myth...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=b9v51FZvS5k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b9v51FZvS5k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Neil deGrasse Tyson Debunks UFO Sightings &amp; Alien Abductions Science vs Myth...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: THE CHUPACABRA HOAX: How a Hollywood Movie Created a Real-Life Monster  
-   Link: <a href="https://www.youtube.com/watch?v=OCwIK7XL1IQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OCwIK7XL1IQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mothman: Harbinger of Doom or Cryptid Legend?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OCwIK7XL1IQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OCwIK7XL1IQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mothman: Harbinger of Doom or Cryptid Legend?...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Mothman: Harbinger of Doom or Cryptid Legend?  
-   Link: <a href="https://www.youtube.com/watch?v=XQ1vDIGI_4c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XQ1vDIGI_4c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mothman: The Legend Of Point Pleasant And The Evidence...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=XQ1vDIGI_4c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XQ1vDIGI_4c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mothman: The Legend Of Point Pleasant And The Evidence...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Neil de Grasse Tyson Debunks UFO Sightings & Alien Abductions Science vs Myth  
-   Link: <a href="https://www.youtube.com/watch?v=HFf83Kyq3cI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HFf83Kyq3cI</a>  
+   Link:<a href="https://www.youtube.com/watch?v=HFf83Kyq3cI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HFf83Kyq3cI</a>  

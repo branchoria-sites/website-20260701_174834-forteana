@@ -280,7 +280,7 @@ image: /assets/images/forteana_50bdc8_missing_people_retel_d09daa_ambiguous_loss
 
 ## Introduction
 
-Missing-person stories occupy a difficult place in Fortean culture. They invite speculation because the ending is unknown, yet that very uncertainty is also what makes them emotionally and ethically fraught. Behind many famous [disappearances]({{ 'disappearances/' | relative_url }}) are relatives who continue living without confirmation of death, survival or return. Psychologist Pauline Boss described this state as **ambiguous loss**: a form of loss in which a person is physically absent but psychologically present because certainty never arrives. Rather than being a dramatic narrative device, ambiguous loss is a recognised framework for understanding the unique strain placed on families of missing people. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/11924081/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Missing People]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Author Pauline G Boss 1. Department of Family Social Science, St. Paul, MN, USA</span><span class="citation-popover-snippet">Ambiguous loss: working with families of the missingby PG Boss · 2002 · Cited by 248 — Ambiguous loss: working with families of the...</span></span></span>
+Missing-person stories occupy a difficult place in Fortean culture. They invite speculation because the ending is unknown, yet that very uncertainty is also what makes them emotionally and ethically fraught. Behind many famous [disappearances]({{ 'disappearances/' | relative_url }}) are relatives who continue living without confirmation of death, survival or return. Psychologist Pauline Boss described this state as **ambiguous loss**: a form of loss in which a person is physically absent but psychologically present because certainty never arrives. Rather than being a dramatic narrative device, ambiguous loss is a recognised framework for understanding the unique strain placed on families of missing people.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/11924081/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Missing People]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Author Pauline G Boss 1. Department of Family Social Science, St. Paul, MN, USA</span><span class="citation-popover-snippet">Ambiguous loss: working with families of the missingby PG Boss · 2002 · Cited by 248 — Ambiguous loss: working with families of the...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_missing_people_retel_d09daa_ambiguous_loss_ethic_a61a6e-Illustration-1-dark.svg" | relative_url }}" alt="Ethics illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_missing_people_retel_d09daa_ambiguous_loss_ethic_a61a6e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_missing_people_retel_d09daa_ambiguous_loss_ethic_a61a6e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -303,9 +303,9 @@ Instead, they may experience contradictory emotions simultaneously:
 
 </div>
 
-Boss argues that the central problem is not a failure to grieve correctly but the absence of reliable knowledge. The uncertainty itself becomes the source of chronic stress. Therapeutic work therefore focuses less on achieving "closure" than on helping families live with unanswered questions while maintaining meaningful lives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/11924081/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2guildhumanservices.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Author Pauline G Boss 1. Department of Family Social Science, St. Paul, MN, USA</span><span class="citation-popover-snippet">Ambiguous loss: working with families of the missingby PG Boss · 2002 · Cited by 248 — Ambiguous loss: working with families of the...</span></span></span>
+Boss argues that the central problem is not a failure to grieve correctly but the absence of reliable knowledge. The uncertainty itself becomes the source of chronic stress. Therapeutic work therefore focuses less on achieving "closure" than on helping families live with unanswered questions while maintaining meaningful lives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/11924081/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2guildhumanservices.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Author Pauline G Boss 1. Department of Family Social Science, St. Paul, MN, USA</span><span class="citation-popover-snippet">Ambiguous loss: working with families of the missingby PG Boss · 2002 · Cited by 248 — Ambiguous loss: working with families of the...</span></span></span>
 
-Research and support organisations working specifically with missing-person families echo this point. The charity Missing People notes that relatives often struggle because society expects grief to follow familiar patterns that simply do not fit disappearance. Family members may disagree about what they believe happened, creating additional tension within households already coping with uncertainty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.missingpeople.org.uk/for-professionals/policy-and-research/information-and-research/what-does-ambiguous-loss-mean" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: missingpeople.org.uk">[Missing People]</a><span class="citation-popover" role="note"><span class="citation-popover-source">missingpeople.org.uk</span><span class="citation-popover-title">Missing People What does ambiguous loss mean?</span><span class="citation-popover-snippet">Missing PeopleWhat does ambiguous loss mean? - Missing PeopleA researcher named Pauline Boss developed the concept of &#x27;ambiguous loss&#x27;, n...</span></span></span>
+Research and support organisations working specifically with missing-person families echo this point. The charity Missing People notes that relatives often struggle because society expects grief to follow familiar patterns that simply do not fit disappearance. Family members may disagree about what they believe happened, creating additional tension within households already coping with uncertainty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.missingpeople.org.uk/for-professionals/policy-and-research/information-and-research/what-does-ambiguous-loss-mean" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: missingpeople.org.uk">[Missing People]</a><span class="citation-popover" role="note"><span class="citation-popover-source">missingpeople.org.uk</span><span class="citation-popover-title">Missing People What does ambiguous loss mean?</span><span class="citation-popover-snippet">Missing PeopleWhat does ambiguous loss mean? - Missing PeopleA researcher named Pauline Boss developed the concept of &#x27;ambiguous loss&#x27;, n...</span></span></span>
 
 This perspective also explains why anniversaries, renewed searches, unidentified human remains or media coverage can reopen emotional wounds decades after the disappearance. Unlike conventional bereavement, the uncertainty never fully recedes.
 
@@ -362,7 +362,7 @@ Useful practices include:
 
 </div>
 
-These practices reflect broader principles used by organisations supporting families of missing people, which emphasise respectful language, careful media engagement and awareness that publicity can simultaneously assist investigations and deepen emotional strain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.missingpeople.org.uk/for-professionals/policy-and-research/information-and-research/what-does-ambiguous-loss-mean" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: missingpeople.org.uk">[Missing People]</a><span class="citation-popover" role="note"><span class="citation-popover-source">missingpeople.org.uk</span><span class="citation-popover-title">Missing People What does ambiguous loss mean?</span><span class="citation-popover-snippet">Missing PeopleWhat does ambiguous loss mean? - Missing PeopleA researcher named Pauline Boss developed the concept of &#x27;ambiguous loss&#x27;, n...</span></span></span>
+These practices reflect broader principles used by organisations supporting families of missing people, which emphasise respectful language, careful media engagement and awareness that publicity can simultaneously assist investigations and deepen emotional strain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.missingpeople.org.uk/for-professionals/policy-and-research/information-and-research/what-does-ambiguous-loss-mean" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: missingpeople.org.uk">[Missing People]</a><span class="citation-popover" role="note"><span class="citation-popover-source">missingpeople.org.uk</span><span class="citation-popover-title">Missing People What does ambiguous loss mean?</span><span class="citation-popover-snippet">Missing PeopleWhat does ambiguous loss mean? - Missing PeopleA researcher named Pauline Boss developed the concept of &#x27;ambiguous loss&#x27;, n...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_missing_people_retel_d09daa_ambiguous_loss_ethic_a61a6e-Illustration-3-dark.svg" | relative_url }}" alt="Ethics illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_missing_people_retel_d09daa_ambiguous_loss_ethic_a61a6e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_missing_people_retel_d09daa_ambiguous_loss_ethic_a61a6e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -370,7 +370,7 @@ These practices reflect broader principles used by organisations supporting fami
 
 Popular culture frequently speaks about finding closure, but ambiguous loss theory challenges the assumption that closure is always possible or even desirable.
 
-Boss argues that insisting upon closure can become another burden placed upon families. When certainty does not exist, expecting emotional finality may leave relatives feeling that they have failed if they continue hoping, searching or grieving years later. Instead, resilience comes from accepting that some questions may never receive complete answers while still finding ways to build meaningful relationships, routines and identities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/11924081/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2guildhumanservices.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Author Pauline G Boss 1. Department of Family Social Science, St. Paul, MN, USA</span><span class="citation-popover-snippet">Ambiguous loss: working with families of the missingby PG Boss · 2002 · Cited by 248 — Ambiguous loss: working with families of the...</span></span></span>
+Boss argues that insisting upon closure can become another burden placed upon families. When certainty does not exist, expecting emotional finality may leave relatives feeling that they have failed if they continue hoping, searching or grieving years later. Instead, resilience comes from accepting that some questions may never receive complete answers while still finding ways to build meaningful relationships, routines and identities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/11924081/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2guildhumanservices.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Author Pauline G Boss 1. Department of Family Social Science, St. Paul, MN, USA</span><span class="citation-popover-snippet">Ambiguous loss: working with families of the missingby PG Boss · 2002 · Cited by 248 — Ambiguous loss: working with families of the...</span></span></span>
 
 This shift has practical implications for how disappearance stories are told. Rather than ending with a definitive paranormal explanation simply because uncertainty feels uncomfortable, ethical retellings can acknowledge that uncertainty itself is the authentic ending currently available.
 
@@ -381,194 +381,194 @@ For Fortean audiences, this approach preserves curiosity without sacrificing com
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Mystery Retellings Hurt the Living. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Mystery Retellings Hurt the Living. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
-        </h4>
-        <p class="fr-book-author">By Charles Fort</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
+</h4>
+<p class="fr-book-author">By Charles Fort</p>
         
-        <p class="fr-book-desc">Provides broader Fortean context without focusing on speculation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader Fortean context without focusing on speculation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Stranger+Beside+Me+Ann+Rule&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Stranger Beside Me on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/292770-M.jpg" alt="Cover for The Stranger Beside Me" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Stranger+Beside+Me+Ann+Rule&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Stranger Beside Me">The Stranger Beside Me</a>
-        </h4>
-        <p class="fr-book-author">By Ann Rule</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Stranger+Beside+Me+Ann+Rule&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Stranger Beside Me on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/292770-M.jpg" alt="Cover for The Stranger Beside Me" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Stranger+Beside+Me+Ann+Rule&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Stranger Beside Me">The Stranger Beside Me</a>
+</h4>
+<p class="fr-book-author">By Ann Rule</p>
         
-        <p class="fr-book-desc">First published 1980. Subjects: Criminals, Biography, Serial murderers, Murderers, Criminals, biography.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Stranger+Beside+Me+Ann+Rule&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1980. Subjects: Criminals, Biography, Serial murderers, Murderers, Criminals, biography.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Stranger+Beside+Me+Ann+Rule&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Loving+someone+who+has+dementia+Pauline+Boss&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Loving someone who has dementia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7253611-M.jpg" alt="Cover for Loving someone who has dementia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Loving+someone+who+has+dementia+Pauline+Boss&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Loving someone who has dementia">Loving someone who has dementia</a>
-        </h4>
-        <p class="fr-book-author">By Pauline Boss</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Loving+someone+who+has+dementia+Pauline+Boss&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Loving someone who has dementia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7253611-M.jpg" alt="Cover for Loving someone who has dementia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Loving+someone+who+has+dementia+Pauline+Boss&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Loving someone who has dementia">Loving someone who has dementia</a>
+</h4>
+<p class="fr-book-author">By Pauline Boss</p>
         
-        <p class="fr-book-desc">First published 2011. Subjects: Stress (Psychology), Grief, Care, Patients, Psychological aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Loving+someone+who+has+dementia+Pauline+Boss&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011. Subjects: Stress (Psychology), Grief, Care, Patients, Psychological aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Loving+someone+who+has+dementia+Pauline+Boss&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ambiguous+loss+Pauline+Boss&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ambiguous loss on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6798373-M.jpg" alt="Cover for Ambiguous loss" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ambiguous+loss+Pauline+Boss&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ambiguous loss">Ambiguous loss</a>
-        </h4>
-        <p class="fr-book-author">By Pauline Boss</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ambiguous+loss+Pauline+Boss&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ambiguous loss on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6798373-M.jpg" alt="Cover for Ambiguous loss" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ambiguous+loss+Pauline+Boss&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ambiguous loss">Ambiguous loss</a>
+</h4>
+<p class="fr-book-author">By Pauline Boss</p>
         
-        <p class="fr-book-desc">First published 1999. Subjects: Death, Psychology, Verlust, Rouw, Perte (Psychologie).</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ambiguous+loss+Pauline+Boss&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1999. Subjects: Death, Psychology, Verlust, Rouw, Perte (Psychologie).</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ambiguous+loss+Pauline+Boss&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Stranger+Beside+Me&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Stranger Beside Me</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Loving+someone+who+has+dementia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Loving someone who has dementia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Stranger+Beside+Me&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Stranger Beside Me</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Loving+someone+who+has+dementia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Loving someone who has dementia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mystery forest Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5eb2b9bf8e926c565ad6.jpg' | relative_url }}" alt="Listing image for Mystery forest Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Mystery forest Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mystery forest Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5eb2b9bf8e926c565ad6.jpg' | relative_url }}" alt="Listing image for Mystery forest Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Mystery forest Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &quot;Lilac Mystery&quot; Original Handmade Acrylic Canvas Painting Wall Art Gift Idea"><img src="{{ '/assets/images/marketplace-covers/1cb7fd0276a469bd10b1.jpg' | relative_url }}" alt="Listing image for &quot;Lilac Mystery&quot; Original Handmade Acrylic Canvas Painting Wall Art Gift Idea" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">&quot;Lilac Mystery&quot; Original Handmade Acrylic Canvas Painting Wall Art Gift Idea</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &quot;Lilac Mystery&quot; Original Handmade Acrylic Canvas Painting Wall Art Gift Idea"><img src="{{ '/assets/images/marketplace-covers/1cb7fd0276a469bd10b1.jpg' | relative_url }}" alt="Listing image for &quot;Lilac Mystery&quot; Original Handmade Acrylic Canvas Painting Wall Art Gift Idea" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">&quot;Lilac Mystery&quot; Original Handmade Acrylic Canvas Painting Wall Art Gift Idea</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gothic Silhouette Painting on Rustic Wood | Staircase Mystery Wall Art"><img src="{{ '/assets/images/marketplace-covers/7f3f2c5e40c1a5c1ca26.jpg' | relative_url }}" alt="Listing image for Gothic Silhouette Painting on Rustic Wood | Staircase Mystery Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Gothic Silhouette Painting on Rustic Wood | Staircase Mystery Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gothic Silhouette Painting on Rustic Wood | Staircase Mystery Wall Art"><img src="{{ '/assets/images/marketplace-covers/7f3f2c5e40c1a5c1ca26.jpg' | relative_url }}" alt="Listing image for Gothic Silhouette Painting on Rustic Wood | Staircase Mystery Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Gothic Silhouette Painting on Rustic Wood | Staircase Mystery Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mystery gang silhouette Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9e466ddc691680c84338.jpg' | relative_url }}" alt="Listing image for Mystery gang silhouette Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Mystery gang silhouette Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mystery gang silhouette Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9e466ddc691680c84338.jpg' | relative_url }}" alt="Listing image for Mystery gang silhouette Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Mystery gang silhouette Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="ethics-e7c627-when-mystery-retellings-hurt-the-living-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -584,7 +584,7 @@ For Fortean audiences, this approach preserves curiosity without sacrificing com
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -604,7 +604,7 @@ For Fortean audiences, this approach preserves curiosity without sacrificing com
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -636,7 +636,7 @@ For Fortean audiences, this approach preserves curiosity without sacrificing com
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -688,7 +688,7 @@ For Fortean audiences, this approach preserves curiosity without sacrificing com
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -733,7 +733,7 @@ For Fortean audiences, this approach preserves curiosity without sacrificing com
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -774,79 +774,79 @@ For Fortean audiences, this approach preserves curiosity without sacrificing com
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Author Pauline G Boss 1. Department of Family Social Science, St. Paul, MN, USA  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/11924081/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/11924081/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ambiguous loss: working with families of the missingby PG Boss · 2002 · Cited by 248 — Ambiguous loss: working with families of the...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/11924081/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/11924081/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ambiguous loss: working with families of the missingby PG Boss · 2002 · Cited by 248 — Ambiguous loss: working with families of the...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: missingpeople.org.uk  
    Title: Missing People What does ambiguous loss mean?  
-   Link: <a href="https://www.missingpeople.org.uk/for-professionals/policy-and-research/information-and-research/what-does-ambiguous-loss-mean" target="_blank" rel="noopener noreferrer nofollow">https://www.missingpeople.org.uk/for-professionals/policy-and-research/information-and-research/what-does-ambiguous-loss-mean</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Missing PeopleWhat does ambiguous loss mean? - Missing PeopleA researcher named Pauline Boss developed the concept of &#x27;ambiguous loss&#x27;, n...</p></details>
+   Link:<a href="https://www.missingpeople.org.uk/for-professionals/policy-and-research/information-and-research/what-does-ambiguous-loss-mean" target="_blank" rel="noopener noreferrer nofollow">https://www.missingpeople.org.uk/for-professionals/policy-and-research/information-and-research/what-does-ambiguous-loss-mean</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Missing PeopleWhat does ambiguous loss mean? - Missing PeopleA researcher named Pauline Boss developed the concept of &#x27;ambiguous loss&#x27;, n...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: guildhumanservices.org  
    Title: It has no closure or finality because the loss is ongoing  
-   Link: <a href="https://www.guildhumanservices.org/sites/default/files/2024-06/AmbiguousLossArticlewithPB.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.guildhumanservices.org/sites/default/files/2024-06/AmbiguousLossArticlewithPB.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ambiguous loss: A complicated type of grief when loved...20 Aug 2014 — Ambiguous loss is a loss that remains unclear and without resolution...</p></details>
+   Link:<a href="https://www.guildhumanservices.org/sites/default/files/2024-06/AmbiguousLossArticlewithPB.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.guildhumanservices.org/sites/default/files/2024-06/AmbiguousLossArticlewithPB.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ambiguous loss: A complicated type of grief when loved...20 Aug 2014 — Ambiguous loss is a loss that remains unclear and without resolution...</p></details>
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ncfr.org  
-   Link: <a href="https://www.ncfr.org/resources/resource-collections/ambiguous-loss-resources" target="_blank" rel="noopener noreferrer nofollow">https://www.ncfr.org/resources/resource-collections/ambiguous-loss-resources</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Council on Family RelationsAmbiguous Loss ResourcesIn this book, pioneering therapist Pauline Boss identifies these vague feelin...</p></details>
+   Link:<a href="https://www.ncfr.org/resources/resource-collections/ambiguous-loss-resources" target="_blank" rel="noopener noreferrer nofollow">https://www.ncfr.org/resources/resource-collections/ambiguous-loss-resources</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Council on Family RelationsAmbiguous Loss ResourcesIn this book, pioneering therapist Pauline Boss identifies these vague feelin...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: missed.org.au  
-   Link: <a href="https://missed.org.au/support/alm-ambiguous-loss-101/" target="_blank" rel="noopener noreferrer nofollow">https://missed.org.au/support/alm-ambiguous-loss-101/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Missed FoundationAmbiguous Loss 101Ambiguous Loss 101 offers essential skills for professionals and loved ones of missing people, hel...</p></details>
+   Link:<a href="https://missed.org.au/support/alm-ambiguous-loss-101/" target="_blank" rel="noopener noreferrer nofollow">https://missed.org.au/support/alm-ambiguous-loss-101/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Missed FoundationAmbiguous Loss 101Ambiguous Loss 101 offers essential skills for professionals and loved ones of missing people, hel...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: icrc.org  
    Title: agony and uncertainty missing loved ones and ambiguous loss  
-   Link: <a href="https://www.icrc.org/en/document/agony-and-uncertainty-missing-loved-ones-and-ambiguous-loss" target="_blank" rel="noopener noreferrer nofollow">https://www.icrc.org/en/document/agony-and-uncertainty-missing-loved-ones-and-ambiguous-loss</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Missing loved ones and ambiguous loss2 Jun 2015 — She defined ambiguous loss as &quot;a situation of unclear loss resulting from not knowing w...</p></details>
+   Link:<a href="https://www.icrc.org/en/document/agony-and-uncertainty-missing-loved-ones-and-ambiguous-loss" target="_blank" rel="noopener noreferrer nofollow">https://www.icrc.org/en/document/agony-and-uncertainty-missing-loved-ones-and-ambiguous-loss</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Missing loved ones and ambiguous loss2 Jun 2015 — She defined ambiguous loss as &quot;a situation of unclear loss resulting from not knowing w...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
    Title: 10970360 Ambiguous Loss in Families of the Missing  
-   Link: <a href="https://www.researchgate.net/publication/10970360_Ambiguous_Loss_in_Families_of_the_Missing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/10970360_Ambiguous_Loss_in_Families_of_the_Missing</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ambiguous Loss in Families of the Missing | Request PDFBoss (2002) described this &quot;loss&quot; as ambiguous -a loss that creates uncertainty an...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/10970360_Ambiguous_Loss_in_Families_of_the_Missing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/10970360_Ambiguous_Loss_in_Families_of_the_Missing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ambiguous Loss in Families of the Missing | Request PDFBoss (2002) described this &quot;loss&quot; as ambiguous -a loss that creates uncertainty an...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ncfr.org  
-   Link: <a href="https://www.ncfr.org/zippy-news/weekly-videos/ambiguous-loss-and-approaches-working-families-missing" target="_blank" rel="noopener noreferrer nofollow">https://www.ncfr.org/zippy-news/weekly-videos/ambiguous-loss-and-approaches-working-families-missing</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>widely recognized for her research focused on the theory of ambiguous loss...</p></details>
+   Link:<a href="https://www.ncfr.org/zippy-news/weekly-videos/ambiguous-loss-and-approaches-working-families-missing" target="_blank" rel="noopener noreferrer nofollow">https://www.ncfr.org/zippy-news/weekly-videos/ambiguous-loss-and-approaches-working-families-missing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>widely recognized for her research focused on the theory of ambiguous loss...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: missingadults.ca  
    Title: Ambiguous Loss UK Fact Sheet Final  
-   Link: <a href="https://www.missingadults.ca/wp-content/uploads/2017/05/Ambiguous-Loss-UK_Fact-Sheet-Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.missingadults.ca/wp-content/uploads/2017/05/Ambiguous-Loss-UK_Fact-Sheet-Final.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>lack of resolution and ambiguous lossPauline Boss developed the concept of &#x27;ambiguous loss&#x27; (Boss 1999, 2002, 2007), naming this as. “the...</p></details>
+   Link:<a href="https://www.missingadults.ca/wp-content/uploads/2017/05/Ambiguous-Loss-UK_Fact-Sheet-Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.missingadults.ca/wp-content/uploads/2017/05/Ambiguous-Loss-UK_Fact-Sheet-Final.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lack of resolution and ambiguous lossPauline Boss developed the concept of &#x27;ambiguous loss&#x27; (Boss 1999, 2002, 2007), naming this as. “the...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sir.advancedleadership.harvard.edu  
    Title: ambiguous loss giving a name to global disappearances  
-   Link: <a href="https://www.sir.advancedleadership.harvard.edu/articles/ambiguous-loss-giving-a-name-to-global-disappearances" target="_blank" rel="noopener noreferrer nofollow">https://www.sir.advancedleadership.harvard.edu/articles/ambiguous-loss-giving-a-name-to-global-disappearances</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This previously unnamed kind of loss lies at the root of much global uncertainty, trauma, and human...</p></details>
+   Link:<a href="https://www.sir.advancedleadership.harvard.edu/articles/ambiguous-loss-giving-a-name-to-global-disappearances" target="_blank" rel="noopener noreferrer nofollow">https://www.sir.advancedleadership.harvard.edu/articles/ambiguous-loss-giving-a-name-to-global-disappearances</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This previously unnamed kind of loss lies at the root of much global uncertainty, trauma, and human...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Ambiguous Loss: Why Savannah Guthrie's Grief Feels Personal  
-   Link: <a href="https://www.youtube.com/watch?v=Is9Kc5Mp4tc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Is9Kc5Mp4tc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>400 Feet From Home - Leah Sottile on Hush Season 2...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Is9Kc5Mp4tc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Is9Kc5Mp4tc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>400 Feet From Home - Leah Sottile on Hush Season 2...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Understanding Ambiguous Losses (The Mary Hanson Show)  
-   Link: <a href="https://www.youtube.com/watch?v=FI0w9n4hZfU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FI0w9n4hZfU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ambiguous Loss: Why Savannah Guthrie&#x27;s Grief Feels Personal...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FI0w9n4hZfU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FI0w9n4hZfU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ambiguous Loss: Why Savannah Guthrie&#x27;s Grief Feels Personal...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Ambiguous Loss 101  
-   Link: <a href="https://www.youtube.com/watch?v=Jm9ZkpfyxyI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Jm9ZkpfyxyI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Ambiguous Losses (The Mary Hanson Show)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Jm9ZkpfyxyI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Jm9ZkpfyxyI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Ambiguous Losses (The Mary Hanson Show)...</p></details>

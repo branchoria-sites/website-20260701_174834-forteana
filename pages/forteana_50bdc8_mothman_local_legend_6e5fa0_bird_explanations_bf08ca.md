@@ -274,15 +274,15 @@ image: /assets/images/forteana_50bdc8_mothman_local_legend_6e5fa0_bird_explanati
 
 ## Introduction
 
-The most widely discussed natural explanation for the original Mothman reports is not an undiscovered creature but a misidentified bird seen under difficult conditions. Since the first Point Pleasant sightings in November 1966, sceptics, wildlife experts and [folklore]({{ 'folklore/' | relative_url }}) researchers have repeatedly suggested that large owls, sandhill cranes or other unusually large birds could account for at least some of the eyewitness descriptions. This idea does not claim that every report involved the same animal or that all witnesses were mistaken in the same way. Instead, it argues that darkness, surprise, car headlights and an unfamiliar setting can transform an ordinary encounter into an extraordinary memory. The debate remains central to [Forteana]({{ 'forteana/' | relative_url }}) because the bird hypothesis is plausible enough to challenge paranormal interpretations while still leaving genuine questions about why the legend became so powerful. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.audubon.org/news/is-mothman-west-virginia-owl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audubon.org">[Audubon+2wvencyclopedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audubon.org</span><span class="citation-popover-title">Is the Mothman of West Virginia an Owl?</span><span class="citation-popover-snippet">Is the Mothman of West Virginia an Owl?October 26, 2018 — 26 Oct 2018 — Barred Owl&#x27;s exhibit extreme eyeshine when caught by a bea...</span><span class="citation-popover-meta">Published: October 26, 2018</span></span></span>
+The most widely discussed natural explanation for the original Mothman reports is not an undiscovered creature but a misidentified bird seen under difficult conditions. Since the first Point Pleasant sightings in November 1966, sceptics, wildlife experts and [folklore]({{ 'folklore/' | relative_url }}) researchers have repeatedly suggested that large owls, sandhill cranes or other unusually large birds could account for at least some of the eyewitness descriptions. This idea does not claim that every report involved the same animal or that all witnesses were mistaken in the same way. Instead, it argues that darkness, surprise, car headlights and an unfamiliar setting can transform an ordinary encounter into an extraordinary memory. The debate remains central to [Forteana]({{ 'forteana/' | relative_url }}) because the bird hypothesis is plausible enough to challenge paranormal interpretations while still leaving genuine questions about why the legend became so powerful.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.audubon.org/news/is-mothman-west-virginia-owl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audubon.org">[Audubon+2wvencyclopedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audubon.org</span><span class="citation-popover-title">Is the Mothman of West Virginia an Owl?</span><span class="citation-popover-snippet">Is the Mothman of West Virginia an Owl?October 26, 2018 — 26 Oct 2018 — Barred Owl&#x27;s exhibit extreme eyeshine when caught by a bea...</span><span class="citation-popover-meta">Published: October 26, 2018</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_mothman_local_legend_6e5fa0_bird_explanations_bf08ca-Illustration-1-dark.svg" | relative_url }}" alt="Bird Theory illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_mothman_local_legend_6e5fa0_bird_explanations_bf08ca-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_mothman_local_legend_6e5fa0_bird_explanations_bf08ca-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Eyeshine, silhouettes and headlights
 
-One of the strongest parts of the bird explanation concerns the famous glowing red eyes. Many nocturnal birds exhibit intense eyeshine when illuminated by vehicle headlights or bright torches. Rather than producing light themselves, their eyes reflect incoming light from specialised tissue behind the retina, making them appear to glow dramatically in darkness. Depending on the viewing angle, colour balance and surrounding conditions, witnesses may perceive this reflection as orange or red. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.audubon.org/news/is-mothman-west-virginia-owl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audubon.org">[Audubon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audubon.org</span><span class="citation-popover-title">Is the Mothman of West Virginia an Owl?</span><span class="citation-popover-snippet">Is the Mothman of West Virginia an Owl?October 26, 2018 — 26 Oct 2018 — Barred Owl&#x27;s exhibit extreme eyeshine when caught by a bea...</span><span class="citation-popover-meta">Published: October 26, 2018</span></span></span>
+One of the strongest parts of the bird explanation concerns the famous glowing red eyes. Many nocturnal birds exhibit intense eyeshine when illuminated by vehicle headlights or bright torches. Rather than producing light themselves, their eyes reflect incoming light from specialised tissue behind the retina, making them appear to glow dramatically in darkness. Depending on the viewing angle, colour balance and surrounding conditions, witnesses may perceive this reflection as orange or red.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.audubon.org/news/is-mothman-west-virginia-owl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audubon.org">[Audubon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audubon.org</span><span class="citation-popover-title">Is the Mothman of West Virginia an Owl?</span><span class="citation-popover-snippet">Is the Mothman of West Virginia an Owl?October 26, 2018 — 26 Oct 2018 — Barred Owl&#x27;s exhibit extreme eyeshine when caught by a bea...</span><span class="citation-popover-meta">Published: October 26, 2018</span></span></span>
 
-Night-time perception is also much less reliable than people often assume. Human observers estimate size, distance and speed poorly in unfamiliar, low-light environments. A bird perched on a post, tree or embankment can appear much larger if only partly illuminated. If it suddenly takes flight as a car approaches, its expanding wingspan may create the impression that a human-shaped figure has unfolded into the air. Audubon's review of the case notes that barred owls, in particular, combine forward-facing eyes, broad wings and striking eyeshine in ways that can appear surprisingly unsettling when encountered unexpectedly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.audubon.org/news/is-mothman-west-virginia-owl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audubon.org">[Audubon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audubon.org</span><span class="citation-popover-title">Is the Mothman of West Virginia an Owl?</span><span class="citation-popover-snippet">Is the Mothman of West Virginia an Owl?October 26, 2018 — 26 Oct 2018 — Barred Owl&#x27;s exhibit extreme eyeshine when caught by a bea...</span><span class="citation-popover-meta">Published: October 26, 2018</span></span></span>
+Night-time perception is also much less reliable than people often assume. Human observers estimate size, distance and speed poorly in unfamiliar, low-light environments. A bird perched on a post, tree or embankment can appear much larger if only partly illuminated. If it suddenly takes flight as a car approaches, its expanding wingspan may create the impression that a human-shaped figure has unfolded into the air. Audubon's review of the case notes that barred owls, in particular, combine forward-facing eyes, broad wings and striking eyeshine in ways that can appear surprisingly unsettling when encountered unexpectedly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.audubon.org/news/is-mothman-west-virginia-owl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audubon.org">[Audubon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audubon.org</span><span class="citation-popover-title">Is the Mothman of West Virginia an Owl?</span><span class="citation-popover-snippet">Is the Mothman of West Virginia an Owl?October 26, 2018 — 26 Oct 2018 — Barred Owl&#x27;s exhibit extreme eyeshine when caught by a bea...</span><span class="citation-popover-meta">Published: October 26, 2018</span></span></span>
 
 Witnesses also reported that the creature seemed to follow their car without flapping its wings. Large birds often alternate short bursts of flapping with gliding, especially when benefiting from air currents or moving downhill. Under stress, brief observations can easily be remembered as continuous silent flight.
 
@@ -295,9 +295,9 @@ They are:
 * Active after dark, when nearly all classic Mothman encounters occurred.
 * Capable of producing intense reflected eyeshine.
 * Broad-winged and capable of very quiet flight.
-* Difficult to identify accurately when viewed briefly in poor light. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.audubon.org/news/is-mothman-west-virginia-owl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audubon.org">[Audubon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audubon.org</span><span class="citation-popover-title">Is the Mothman of West Virginia an Owl?</span><span class="citation-popover-snippet">Is the Mothman of West Virginia an Owl?October 26, 2018 — 26 Oct 2018 — Barred Owl&#x27;s exhibit extreme eyeshine when caught by a bea...</span><span class="citation-popover-meta">Published: October 26, 2018</span></span></span>
+* Difficult to identify accurately when viewed briefly in poor light.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.audubon.org/news/is-mothman-west-virginia-owl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audubon.org">[Audubon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audubon.org</span><span class="citation-popover-title">Is the Mothman of West Virginia an Owl?</span><span class="citation-popover-snippet">Is the Mothman of West Virginia an Owl?October 26, 2018 — 26 Oct 2018 — Barred Owl&#x27;s exhibit extreme eyeshine when caught by a bea...</span><span class="citation-popover-meta">Published: October 26, 2018</span></span></span>
 
-Joe Nickell and other sceptical investigators have argued that investigators should begin with known wildlife before proposing unknown creatures. Their approach does not accuse witnesses of fabrication. Instead, it assumes that sincere people can honestly describe what they believed they saw while unintentionally misidentifying an animal under unusual conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.audubon.org/news/is-mothman-west-virginia-owl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audubon.org">[Audubon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audubon.org</span><span class="citation-popover-title">Is the Mothman of West Virginia an Owl?</span><span class="citation-popover-snippet">Is the Mothman of West Virginia an Owl?October 26, 2018 — 26 Oct 2018 — Barred Owl&#x27;s exhibit extreme eyeshine when caught by a bea...</span><span class="citation-popover-meta">Published: October 26, 2018</span></span></span>
+Joe Nickell and other sceptical investigators have argued that investigators should begin with known wildlife before proposing unknown creatures. Their approach does not accuse witnesses of fabrication. Instead, it assumes that sincere people can honestly describe what they believed they saw while unintentionally misidentifying an animal under unusual conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.audubon.org/news/is-mothman-west-virginia-owl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audubon.org">[Audubon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audubon.org</span><span class="citation-popover-title">Is the Mothman of West Virginia an Owl?</span><span class="citation-popover-snippet">Is the Mothman of West Virginia an Owl?October 26, 2018 — 26 Oct 2018 — Barred Owl&#x27;s exhibit extreme eyeshine when caught by a bea...</span><span class="citation-popover-meta">Published: October 26, 2018</span></span></span>
 
 However, the owl theory also has limitations. Several witnesses described a figure considerably taller than even the largest North American owls. Others reported long legs, an almost human outline or wings attached to a humanoid body rather than a recognisable bird. These inconsistencies mean that even supporters of [ordinary explanations]({{ 'ordinary-causes/' | relative_url }}) do not necessarily argue that every reported encounter involved an owl.
 
@@ -306,7 +306,7 @@ However, the owl theory also has limitations. Several witnesses described a figu
 
 ## The sandhill crane hypothesis
 
-The second major natural explanation is the sandhill crane. This proposal dates back to the original sighting wave rather than being a modern reinterpretation. Wildlife specialists noted that an out-of-range crane could have appeared unfamiliar to many local residents, especially at night. Contemporary newspaper reports even referred to the possibility of a "monster bird" being a crane. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wvencyclopedia.org/entries/1369" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wvencyclopedia.org">[wvencyclopedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wvencyclopedia.org</span><span class="citation-popover-snippet">Mothman22 Feb 2024 — Skeptics offered various explanations, some arguing that the creature was a stray sandhill crane. As sightings incre...</span></span></span>
+The second major natural explanation is the sandhill crane. This proposal dates back to the original sighting wave rather than being a modern reinterpretation. Wildlife specialists noted that an out-of-range crane could have appeared unfamiliar to many local residents, especially at night. Contemporary newspaper reports even referred to the possibility of a "monster bird" being a crane.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wvencyclopedia.org/entries/1369" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wvencyclopedia.org">[wvencyclopedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wvencyclopedia.org</span><span class="citation-popover-snippet">Mothman22 Feb 2024 — Skeptics offered various explanations, some arguing that the creature was a stray sandhill crane. As sightings incre...</span></span></span>
 
 A sandhill crane possesses several features that resemble parts of the classic Mothman description:
 
@@ -316,17 +316,17 @@ A sandhill crane possesses several features that resemble parts of the classic M
 * It can stand almost as tall as an adult person.
 * Its wingspan approaches two metres.
 * Adults have conspicuous reddish bare skin around the eyes.
-* Long legs and an elongated neck produce an unusual silhouette when seen unexpectedly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sandhill_crane" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sandhill crane</span><span class="citation-popover-snippet">Sandhill crane</span></span></span>
+* Long legs and an elongated neck produce an unusual silhouette when seen unexpectedly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sandhill_crane" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sandhill crane</span><span class="citation-popover-snippet">Sandhill crane</span></span></span>
 
 </div>
 
-Because cranes are relatively uncommon in the Point Pleasant area, especially outside normal migration patterns, an isolated individual could have appeared both unfamiliar and alarming. This explanation became influential enough that the sandhill crane is now routinely mentioned in summaries of the Mothman legend. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wvencyclopedia.org/entries/1369" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wvencyclopedia.org">[wvencyclopedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wvencyclopedia.org</span><span class="citation-popover-snippet">Mothman22 Feb 2024 — Skeptics offered various explanations, some arguing that the creature was a stray sandhill crane. As sightings incre...</span></span></span>
+Because cranes are relatively uncommon in the Point Pleasant area, especially outside normal migration patterns, an isolated individual could have appeared both unfamiliar and alarming. This explanation became influential enough that the sandhill crane is now routinely mentioned in summaries of the Mothman legend.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wvencyclopedia.org/entries/1369" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wvencyclopedia.org">[wvencyclopedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wvencyclopedia.org</span><span class="citation-popover-snippet">Mothman22 Feb 2024 — Skeptics offered various explanations, some arguing that the creature was a stray sandhill crane. As sightings incre...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_mothman_local_legend_6e5fa0_bird_explanations_bf08ca-Illustration-2-dark.svg" | relative_url }}" alt="Bird Theory illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_mothman_local_legend_6e5fa0_bird_explanations_bf08ca-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_mothman_local_legend_6e5fa0_bird_explanations_bf08ca-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The TNT Area made misidentification more likely
 
-The abandoned [TNT Area]({{ 'tnt-area/' | relative_url }}) was an unusually favourable environment for confusing wildlife encounters. Built during the Second World War and later left largely abandoned, it contained woodland, wetlands, old storage bunkers and isolated roads. Such habitats support numerous bird species, particularly nocturnal predators and wetland birds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklife.si.edu">[Smithsonian Folklife Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklife.si.edu</span><span class="citation-popover-title">Its eyes are glowing red.Read more</span><span class="citation-popover-snippet">Smithsonian Folklife CenterAn Ode to a Hometown Creature: Mothman of Point Pleasant...6 Jun 2021 — A large mothlike figure, flying above...</span></span></span>
+The abandoned [TNT Area]({{ 'tnt-area/' | relative_url }}) was an unusually favourable environment for confusing wildlife encounters. Built during the Second World War and later left largely abandoned, it contained woodland, wetlands, old storage bunkers and isolated roads. Such habitats support numerous bird species, particularly nocturnal predators and wetland birds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklife.si.edu">[Smithsonian Folklife Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklife.si.edu</span><span class="citation-popover-title">Its eyes are glowing red.Read more</span><span class="citation-popover-snippet">Smithsonian Folklife CenterAn Ode to a Hometown Creature: Mothman of Point Pleasant...6 Jun 2021 — A large mothlike figure, flying above...</span></span></span>
 
 Equally important was the way visitors experienced the landscape. Most sightings occurred while people were driving at night through an unfamiliar industrial ruin. Headlights created narrow cones of illumination separated by deep darkness. Objects appeared suddenly, disappeared just as quickly and were viewed from moving vehicles. Modern research into eyewitness perception consistently shows that stress, surprise and poor visibility increase the likelihood of confident but inaccurate identifications, especially when observers encounter something unexpected.
 
@@ -340,14 +340,14 @@ The bird explanation answers several features of the reports but leaves others o
 
 Supporters argue that it explains:
 
-* The glowing eyes through reflected light. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.audubon.org/news/is-mothman-west-virginia-owl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audubon.org">[audubon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audubon.org</span><span class="citation-popover-title">Is the Mothman of West Virginia an Owl?</span><span class="citation-popover-snippet">Is the Mothman of West Virginia an Owl?October 26, 2018 — 26 Oct 2018 — Barred Owl&#x27;s exhibit extreme eyeshine when caught by a bea...</span><span class="citation-popover-meta">Published: October 26, 2018</span></span></span>
+* The glowing eyes through reflected light.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.audubon.org/news/is-mothman-west-virginia-owl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audubon.org">[audubon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audubon.org</span><span class="citation-popover-title">Is the Mothman of West Virginia an Owl?</span><span class="citation-popover-snippet">Is the Mothman of West Virginia an Owl?October 26, 2018 — 26 Oct 2018 — Barred Owl&#x27;s exhibit extreme eyeshine when caught by a bea...</span><span class="citation-popover-meta">Published: October 26, 2018</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The winged appearance.
 * Silent flight.
 * The concentration of sightings in wildlife habitat.
-* Variation between eyewitness descriptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.audubon.org/news/is-mothman-west-virginia-owl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audubon.org">[Audubon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audubon.org</span><span class="citation-popover-title">Is the Mothman of West Virginia an Owl?</span><span class="citation-popover-snippet">Is the Mothman of West Virginia an Owl?October 26, 2018 — 26 Oct 2018 — Barred Owl&#x27;s exhibit extreme eyeshine when caught by a bea...</span><span class="citation-popover-meta">Published: October 26, 2018</span></span></span>
+* Variation between eyewitness descriptions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.audubon.org/news/is-mothman-west-virginia-owl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audubon.org">[Audubon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audubon.org</span><span class="citation-popover-title">Is the Mothman of West Virginia an Owl?</span><span class="citation-popover-snippet">Is the Mothman of West Virginia an Owl?October 26, 2018 — 26 Oct 2018 — Barred Owl&#x27;s exhibit extreme eyeshine when caught by a bea...</span><span class="citation-popover-meta">Published: October 26, 2018</span></span></span>
 
 </div>
 
@@ -372,7 +372,7 @@ Whether these remaining details represent exaggeration, memory reconstruction, m
 
 Perhaps the most important lesson is that solving the zoological question does not automatically explain the cultural one. Even if some original encounters involved owls or cranes, that alone cannot explain why Point Pleasant developed one of the world's most famous cryptid legends.
 
-The [first reports]({{ 'first-report/' | relative_url }}) appeared at a time when [newspapers]({{ 'newspapers/' | relative_url }}), television and word of mouth rapidly reinforced a common image. Each retelling encouraged later witnesses to compare unfamiliar experiences with an already established figure. The abandoned TNT Area provided an atmospheric stage, while later association with the Silver Bridge disaster gave the legend emotional significance far beyond its initial sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklife.si.edu">[Smithsonian Folklife Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklife.si.edu</span><span class="citation-popover-title">Its eyes are glowing red.Read more</span><span class="citation-popover-snippet">Smithsonian Folklife CenterAn Ode to a Hometown Creature: Mothman of Point Pleasant...6 Jun 2021 — A large mothlike figure, flying above...</span></span></span>
+The [first reports]({{ 'first-report/' | relative_url }}) appeared at a time when [newspapers]({{ 'newspapers/' | relative_url }}), television and word of mouth rapidly reinforced a common image. Each retelling encouraged later witnesses to compare unfamiliar experiences with an already established figure. The abandoned TNT Area provided an atmospheric stage, while later association with the Silver Bridge disaster gave the legend emotional significance far beyond its initial sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklife.si.edu">[Smithsonian Folklife Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklife.si.edu</span><span class="citation-popover-title">Its eyes are glowing red.Read more</span><span class="citation-popover-snippet">Smithsonian Folklife CenterAn Ode to a Hometown Creature: Mothman of Point Pleasant...6 Jun 2021 — A large mothlike figure, flying above...</span></span></span>
 
 For Fortean researchers, this is why the owl and crane explanations remain so important. They demonstrate that a convincing natural mechanism and a powerful legend are not mutually exclusive. A plausible bird may explain many of the observations, yet the transformation of those observations into Mothman belongs to the separate processes of memory, storytelling and local folklore.
 
@@ -381,194 +381,194 @@ For Fortean researchers, this is why the owl and crane explanations remain so im
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was Mothman Really a Misidentified Bird?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was Mothman Really a Misidentified Bird?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mothman+prophecies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mothman prophecies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/15088088-M.jpg" alt="Cover for The Mothman prophecies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mothman+prophecies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mothman prophecies">The Mothman prophecies</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mothman+prophecies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mothman prophecies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/15088088-M.jpg" alt="Cover for The Mothman prophecies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mothman+prophecies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mothman prophecies">The Mothman prophecies</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Provides the core eyewitness accounts and competing interpretations, including natural explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mothman+prophecies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the core eyewitness accounts and competing interpretations, including natural explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mothman+prophecies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bird+brains+Candace+Sherk+Savage&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bird brains on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3910552-M.jpg" alt="Cover for Bird brains" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bird+brains+Candace+Sherk+Savage&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bird brains">Bird brains</a>
-        </h4>
-        <p class="fr-book-author">By Candace Sherk Savage</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bird+brains+Candace+Sherk+Savage&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bird brains on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3910552-M.jpg" alt="Cover for Bird brains" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bird+brains+Candace+Sherk+Savage&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bird brains">Bird brains</a>
+</h4>
+<p class="fr-book-author">By Candace Sherk Savage</p>
         
-        <p class="fr-book-desc">First published 1995. Subjects: Corvidae, Psychology, Animal intelligence, Pictorial works, Crows.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bird+brains+Candace+Sherk+Savage&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1995. Subjects: Corvidae, Psychology, Animal intelligence, Pictorial works, Crows.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bird+brains+Candace+Sherk+Savage&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Monsters+of+West+Virginia+Rosemary+Ellen+Guiley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Monsters of West Virginia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Monsters+of+West+Virginia+Rosemary+Ellen+Guiley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Monsters of West Virginia">Monsters of West Virginia</a>
-        </h4>
-        <p class="fr-book-author">By Rosemary Ellen Guiley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Monsters+of+West+Virginia+Rosemary+Ellen+Guiley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Monsters of West Virginia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Monsters+of+West+Virginia+Rosemary+Ellen+Guiley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Monsters of West Virginia">Monsters of West Virginia</a>
+</h4>
+<p class="fr-book-author">By Rosemary Ellen Guiley</p>
         
-        <p class="fr-book-desc">First published 2023.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Monsters+of+West+Virginia+Rosemary+Ellen+Guiley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2023.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Monsters+of+West+Virginia+Rosemary+Ellen+Guiley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science">Abominable Science</a>
-        </h4>
-        <p class="fr-book-author">By Donald R. Prothero, Daniel Loxton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science">Abominable Science</a>
+</h4>
+<p class="fr-book-author">By Donald R. Prothero, Daniel Loxton</p>
         
-        <p class="fr-book-desc">First published 2012. Subjects: Animals, mythical.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2012. Subjects: Animals, mythical.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mothman+prophecies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mothman prophecies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bird+brains&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bird brains</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Monsters+of+West+Virginia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Monsters of West Virginia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mothman+prophecies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mothman prophecies</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bird+brains&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bird brains</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Monsters+of+West+Virginia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Monsters of West Virginia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman t shirt" data-ebay-reference="bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mothman The Man The Moth The Legend T Shirt Movie Retro Vintage Music Tee 2375"><img src="{{ '/assets/images/marketplace-covers/4ca03bb1b77778bce17e.jpg' | relative_url }}" alt="Listing image for Mothman The Man The Moth The Legend T Shirt Movie Retro Vintage Music Tee 2375" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman t shirt" data-ebay-reference="bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Mothman The Man The Moth The Legend T Shirt Movie Retro Vintage Music Tee 2375</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman t shirt" data-ebay-reference="bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mothman t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: Mothman t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman t shirt" data-ebay-reference="bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman t shirt" data-ebay-reference="bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mothman The Man The Moth The Legend T Shirt Movie Retro Vintage Music Tee 2375"><img src="{{ '/assets/images/marketplace-covers/4ca03bb1b77778bce17e.jpg' | relative_url }}" alt="Listing image for Mothman The Man The Moth The Legend T Shirt Movie Retro Vintage Music Tee 2375" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman t shirt" data-ebay-reference="bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Mothman The Man The Moth The Legend T Shirt Movie Retro Vintage Music Tee 2375</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman t shirt" data-ebay-reference="bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mothman t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: Mothman t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman t shirt" data-ebay-reference="bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman t shirt" data-ebay-reference="bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mothman Weird Strange Unusual Cryptid Cryptozoology Gift Tee T Shirt 475"><img src="{{ '/assets/images/marketplace-covers/a2f05d250c61d6d16eb5.jpg' | relative_url }}" alt="Listing image for Mothman Weird Strange Unusual Cryptid Cryptozoology Gift Tee T Shirt 475" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman t shirt" data-ebay-reference="bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Mothman Weird Strange Unusual Cryptid Cryptozoology Gift Tee T Shirt 475</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman t shirt" data-ebay-reference="bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mothman t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: Mothman t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman t shirt" data-ebay-reference="bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman t shirt" data-ebay-reference="bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mothman Weird Strange Unusual Cryptid Cryptozoology Gift Tee T Shirt 475"><img src="{{ '/assets/images/marketplace-covers/a2f05d250c61d6d16eb5.jpg' | relative_url }}" alt="Listing image for Mothman Weird Strange Unusual Cryptid Cryptozoology Gift Tee T Shirt 475" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman t shirt" data-ebay-reference="bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Mothman Weird Strange Unusual Cryptid Cryptozoology Gift Tee T Shirt 475</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman t shirt" data-ebay-reference="bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mothman t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: Mothman t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman t shirt" data-ebay-reference="bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman t shirt" data-ebay-reference="bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mothman 3xl Black Shirt Pt. Pleasant, West Virginia, Mothman Legend On Back"><img src="{{ '/assets/images/marketplace-covers/2eaa2f0d95af1c173b7b.jpg' | relative_url }}" alt="Listing image for Mothman 3xl Black Shirt Pt. Pleasant, West Virginia, Mothman Legend On Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman t shirt" data-ebay-reference="bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Mothman 3xl Black Shirt Pt. Pleasant, West Virginia, Mothman Legend On Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman t shirt" data-ebay-reference="bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mothman t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: Mothman t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman t shirt" data-ebay-reference="bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman t shirt" data-ebay-reference="bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mothman 3xl Black Shirt Pt. Pleasant, West Virginia, Mothman Legend On Back"><img src="{{ '/assets/images/marketplace-covers/2eaa2f0d95af1c173b7b.jpg' | relative_url }}" alt="Listing image for Mothman 3xl Black Shirt Pt. Pleasant, West Virginia, Mothman Legend On Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman t shirt" data-ebay-reference="bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Mothman 3xl Black Shirt Pt. Pleasant, West Virginia, Mothman Legend On Back</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman t shirt" data-ebay-reference="bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mothman t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: Mothman t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman t shirt" data-ebay-reference="bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman t shirt" data-ebay-reference="bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mothman Encounter Point Pleasant Retro Funny Gift Tee T Shirt 2731"><img src="{{ '/assets/images/marketplace-covers/0d70ec2171daece7c29a.jpg' | relative_url }}" alt="Listing image for Mothman Encounter Point Pleasant Retro Funny Gift Tee T Shirt 2731" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman t shirt" data-ebay-reference="bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Mothman Encounter Point Pleasant Retro Funny Gift Tee T Shirt 2731</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman t shirt" data-ebay-reference="bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mothman t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: Mothman t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman t shirt" data-ebay-reference="bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman t shirt" data-ebay-reference="bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman t shirt" data-ebay-reference="bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mothman Encounter Point Pleasant Retro Funny Gift Tee T Shirt 2731"><img src="{{ '/assets/images/marketplace-covers/0d70ec2171daece7c29a.jpg' | relative_url }}" alt="Listing image for Mothman Encounter Point Pleasant Retro Funny Gift Tee T Shirt 2731" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman t shirt" data-ebay-reference="bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Mothman Encounter Point Pleasant Retro Funny Gift Tee T Shirt 2731</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman t shirt" data-ebay-reference="bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mothman t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: Mothman t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman t shirt" data-ebay-reference="bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman t shirt" data-ebay-reference="bird-theory-was-mothman-really-a-misidentified-bird-forteana-mothman-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -584,7 +584,7 @@ For Fortean researchers, this is why the owl and crane explanations remain so im
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -604,7 +604,7 @@ For Fortean researchers, this is why the owl and crane explanations remain so im
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -636,7 +636,7 @@ For Fortean researchers, this is why the owl and crane explanations remain so im
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -688,7 +688,7 @@ For Fortean researchers, this is why the owl and crane explanations remain so im
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -733,7 +733,7 @@ For Fortean researchers, this is why the owl and crane explanations remain so im
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -774,86 +774,86 @@ For Fortean researchers, this is why the owl and crane explanations remain so im
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: audubon.org  
    Title: Is the Mothman of West Virginia an Owl?  
-   Link: <a href="https://www.audubon.org/news/is-mothman-west-virginia-owl" target="_blank" rel="noopener noreferrer nofollow">https://www.audubon.org/news/is-mothman-west-virginia-owl</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Is the Mothman of West Virginia an Owl?October 26, 2018 — 26 Oct 2018 — Barred Owl&#x27;s exhibit extreme eyeshine when caught by a bea...</p></details>
+   Link:<a href="https://www.audubon.org/news/is-mothman-west-virginia-owl" target="_blank" rel="noopener noreferrer nofollow">https://www.audubon.org/news/is-mothman-west-virginia-owl</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is the Mothman of West Virginia an Owl?October 26, 2018 — 26 Oct 2018 — Barred Owl&#x27;s exhibit extreme eyeshine when caught by a bea...</p></details>
    Published: October 26, 2018  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: wvencyclopedia.org  
-   Link: <a href="https://www.wvencyclopedia.org/entries/1369" target="_blank" rel="noopener noreferrer nofollow">https://www.wvencyclopedia.org/entries/1369</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mothman22 Feb 2024 — Skeptics offered various explanations, some arguing that the creature was a stray sandhill crane. As sightings incre...</p></details>
+   Link:<a href="https://www.wvencyclopedia.org/entries/1369" target="_blank" rel="noopener noreferrer nofollow">https://www.wvencyclopedia.org/entries/1369</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mothman22 Feb 2024 — Skeptics offered various explanations, some arguing that the creature was a stray sandhill crane. As sightings incre...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Mothman" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mothman</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Mothman" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mothman</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Sandhill crane  
-   Link: <a href="https://en.wikipedia.org/wiki/Sandhill_crane" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sandhill_crane</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Sandhill_crane" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sandhill_crane</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: folklife.si.edu  
    Title: Its eyes are glowing red.Read more  
-   Link: <a href="https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia" target="_blank" rel="noopener noreferrer nofollow">https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian Folklife CenterAn Ode to a Hometown Creature: Mothman of Point Pleasant...6 Jun 2021 — A large mothlike figure, flying above...</p></details>
+   Link:<a href="https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia" target="_blank" rel="noopener noreferrer nofollow">https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian Folklife CenterAn Ode to a Hometown Creature: Mothman of Point Pleasant...6 Jun 2021 — A large mothlike figure, flying above...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: thepennsylvaniarambler.wordpress.com  
-   Link: <a href="https://thepennsylvaniarambler.wordpress.com/2021/08/22/mothman/" target="_blank" rel="noopener noreferrer nofollow">https://thepennsylvaniarambler.wordpress.com/2021/08/22/mothman/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>From the start, the sand hill crane was considered to be the creature behind the...Read more...</p></details>
+   Link:<a href="https://thepennsylvaniarambler.wordpress.com/2021/08/22/mothman/" target="_blank" rel="noopener noreferrer nofollow">https://thepennsylvaniarambler.wordpress.com/2021/08/22/mothman/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From the start, the sand hill crane was considered to be the creature behind the...Read more...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2022/06/the-mothman-and-the-crane-a-contemporary-perspective/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2022/06/the-mothman-and-the-crane-a-contemporary-perspective/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerThe Mothman and the Crane: A Contemporary Perspectivethe cryptid creature&#x27;s sightings were due to highly imaginative pe...</p></details>
+   Link:<a href="https://skepticalinquirer.org/2022/06/the-mothman-and-the-crane-a-contemporary-perspective/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2022/06/the-mothman-and-the-crane-a-contemporary-perspective/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerThe Mothman and the Crane: A Contemporary Perspectivethe cryptid creature&#x27;s sightings were due to highly imaginative pe...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pocketmags.com  
-   Link: <a href="https://pocketmags.com/us/skeptical-inquirer-magazine/julyaugust-2022/articles/the-mothman-and-the-crane-a-contemporary-perspective?srsltid=AfmBOor6H2-kC22UNlMoMzXuhCMQIUlrXuBqnfSCop7PXqLtPv_iM0QF" target="_blank" rel="noopener noreferrer nofollow">https://pocketmags.com/us/skeptical-inquirer-magazine/julyaugust-2022/articles/the-mothman-and-the-crane-a-contemporary-perspective?srsltid=AfmBOor6H2-kC22UNlMoMzXuhCMQIUlrXuBqnfSCop7PXqLtPv_iM0QF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mothman and the Crane: A Contemporary PerspectiveIn his book Tracking the Man-Beasts, author Joe Nickell asserts, “Very likely the Mo...</p></details>
+   Link:<a href="https://pocketmags.com/us/skeptical-inquirer-magazine/julyaugust-2022/articles/the-mothman-and-the-crane-a-contemporary-perspective?srsltid=AfmBOor6H2-kC22UNlMoMzXuhCMQIUlrXuBqnfSCop7PXqLtPv_iM0QF" target="_blank" rel="noopener noreferrer nofollow">https://pocketmags.com/us/skeptical-inquirer-magazine/julyaugust-2022/articles/the-mothman-and-the-crane-a-contemporary-perspective?srsltid=AfmBOor6H2-kC22UNlMoMzXuhCMQIUlrXuBqnfSCop7PXqLtPv_iM0QF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Mothman and the Crane: A Contemporary PerspectiveIn his book Tracking the Man-Beasts, author Joe Nickell asserts, “Very likely the Mo...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: appalachianhistorian.org  
    Title: Eyewitnesses did not entirely agree on details  
-   Link: <a href="https://appalachianhistorian.org/the-mothman-of-point-pleasant-how-a-bird-monster-became-appalachian-folklore/" target="_blank" rel="noopener noreferrer nofollow">https://appalachianhistorian.org/the-mothman-of-point-pleasant-how-a-bird-monster-became-appalachian-folklore/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mothman of Point Pleasant: How a Bird Monster Became...11 Dec 2025 — Others argued for sandhill cranes that had wandered out of thei...</p></details>
+   Link:<a href="https://appalachianhistorian.org/the-mothman-of-point-pleasant-how-a-bird-monster-became-appalachian-folklore/" target="_blank" rel="noopener noreferrer nofollow">https://appalachianhistorian.org/the-mothman-of-point-pleasant-how-a-bird-monster-became-appalachian-folklore/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Mothman of Point Pleasant: How a Bird Monster Became...11 Dec 2025 — Others argued for sandhill cranes that had wandered out of thei...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
    Title: Some ufologists believe it was an extraterrestrial.Read more  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/9lsdar/the_mothman_sightings_a_sandhill_crane_or/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/9lsdar/the_mothman_sightings_a_sandhill_crane_or/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mothman Sightings: A Sandhill Crane or Something...Most scientists think people were seeing a sand hill crane, a barred owl, [hoaxes](&amp;#123;&amp;#123; &#x27;hoaxes/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/9lsdar/the_mothman_sightings_a_sandhill_crane_or/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/9lsdar/the_mothman_sightings_a_sandhill_crane_or/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Mothman Sightings: A Sandhill Crane or Something...Most scientists think people were seeing a sand hill crane, a barred owl, [hoaxes](&amp;#123;&amp;#123; &#x27;hoaxes/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ancientwhispers/posts/mothman-mystery-began-in-nineteen-sixty-six-near-point-pleasant-west-virginia-a-/876929888659767/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/mothman-mystery-began-in-nineteen-sixty-six-near-point-pleasant-west-virginia-a-/876929888659767/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>large birds such as sandhill cranes or owls...</p></details>
+   Link:<a href="https://www.facebook.com/ancientwhispers/posts/mothman-mystery-began-in-nineteen-sixty-six-near-point-pleasant-west-virginia-a-/876929888659767/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/mothman-mystery-began-in-nineteen-sixty-six-near-point-pleasant-west-virginia-a-/876929888659767/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>large birds such as sandhill cranes or owls...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Mothman: Harbinger of Doom or Cryptid Legend?  
-   Link: <a href="https://www.youtube.com/watch?v=XQ1vDIGI_4c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XQ1vDIGI_4c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Do Monsters Really Exist? Mothman, Globsters, and Monkey Man Explained...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=XQ1vDIGI_4c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XQ1vDIGI_4c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Do Monsters Really Exist? Mothman, Globsters, and Monkey Man Explained...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Mothman: America's Notorious Winged Monster | Monstrum  
-   Link: <a href="https://www.youtube.com/watch?v=GUpeDwiD64M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GUpeDwiD64M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mothman: Harbinger of Doom or Cryptid Legend?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=GUpeDwiD64M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GUpeDwiD64M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mothman: Harbinger of Doom or Cryptid Legend?...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: MOTHMAN MONSTER  
-   Link: <a href="https://www.youtube.com/watch?v=GJrKSZy3MQ4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GJrKSZy3MQ4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MOTHMAN: AN AMERICAN LEGEND | Detective Ridiculous...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=GJrKSZy3MQ4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GJrKSZy3MQ4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MOTHMAN: AN AMERICAN LEGEND | Detective Ridiculous...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: MOTHMAN: AN AMERICAN LEGEND | Detective Ridiculous  
-   Link: <a href="https://www.youtube.com/watch?v=143Q44S6G5Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=143Q44S6G5Q</a>  
+   Link:<a href="https://www.youtube.com/watch?v=143Q44S6G5Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=143Q44S6G5Q</a>  

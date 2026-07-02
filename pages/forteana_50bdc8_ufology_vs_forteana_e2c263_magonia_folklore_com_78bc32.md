@@ -280,11 +280,11 @@ image: /assets/images/forteana_50bdc8_ufology_vs_forteana_e2c263_magonia_folklor
 
 ## Introduction
 
-Jacques Vallée's *Passport to Magonia*, first published in 1969, is one of the most influential books in the Fortean approach to UFOs because it asks a different question from conventional UFOlogy. Rather than arguing simply that unidentified flying objects are either alien spacecraft or mistaken observations, Vallée proposed that modern [UFO reports]({{ 'ufo-reports/' | relative_url }}) resemble much older traditions about fairies, mysterious sky visitors, supernatural kidnappings and other extraordinary encounters. His argument was not that medieval people were literally describing extraterrestrials. Instead, he suggested that similar patterns of [experience]({{ 'experience/' | relative_url }}) recur across centuries while the cultural language used to describe them changes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jacques_Vall%C3%A9e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jacques Vallée</span><span class="citation-popover-snippet">Jacques Vallée</span></span></span>
+Jacques Vallée's *Passport to Magonia*, first published in 1969, is one of the most influential books in the Fortean approach to UFOs because it asks a different question from conventional UFOlogy. Rather than arguing simply that unidentified flying objects are either alien spacecraft or mistaken observations, Vallée proposed that modern [UFO reports]({{ 'ufo-reports/' | relative_url }}) resemble much older traditions about fairies, mysterious sky visitors, supernatural kidnappings and other extraordinary encounters. His argument was not that medieval people were literally describing extraterrestrials. Instead, he suggested that similar patterns of [experience]({{ 'experience/' | relative_url }}) recur across centuries while the cultural language used to describe them changes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jacques_Vall%C3%A9e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jacques Vallée</span><span class="citation-popover-snippet">Jacques Vallée</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_ufology_vs_forteana_e2c263_magonia_folklore_com_78bc32-Illustration-1-dark.svg" | relative_url }}" alt="Magonia illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_ufology_vs_forteana_e2c263_magonia_folklore_com_78bc32-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_ufology_vs_forteana_e2c263_magonia_folklore_com_78bc32-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within [Forteana]({{ 'forteana/' | relative_url }}), this comparison became a major turning point. It shifted attention away from identifying unusual objects alone and towards recurring stories, witness testimony and cultural interpretation. Whether readers ultimately accept Vallée's conclusions or reject them, *Passport to Magonia* remains a landmark because it reframed UFO reports as part of a much longer history of anomalous experiences rather than as a phenomenon beginning with the flying saucer era of the late 1940s. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jacques_Vall%C3%A9e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jacques Vallée</span><span class="citation-popover-snippet">Jacques Vallée</span></span></span>
+Within [Forteana]({{ 'forteana/' | relative_url }}), this comparison became a major turning point. It shifted attention away from identifying unusual objects alone and towards recurring stories, witness testimony and cultural interpretation. Whether readers ultimately accept Vallée's conclusions or reject them, *Passport to Magonia* remains a landmark because it reframed UFO reports as part of a much longer history of anomalous experiences rather than as a phenomenon beginning with the flying saucer era of the late 1940s.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jacques_Vall%C3%A9e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jacques Vallée</span><span class="citation-popover-snippet">Jacques Vallée</span></span></span>
 
 ## Airships, fairies and sky visitors
 
@@ -304,9 +304,9 @@ He assembled examples ranging from European fairy [folklore]({{ 'folklore/' | re
 
 </div>
 
-Rather than treating these similarities as coincidence, Vallée argued that they deserved systematic comparison. He believed UFO investigators had concentrated too narrowly on modern technology while overlooking centuries of reports with comparable narrative structures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jacques_Vall%C3%A9e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jacques Vallée</span><span class="citation-popover-snippet">Jacques Vallée</span></span></span>
+Rather than treating these similarities as coincidence, Vallée argued that they deserved systematic comparison. He believed UFO investigators had concentrated too narrowly on modern technology while overlooking centuries of reports with comparable narrative structures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jacques_Vall%C3%A9e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jacques Vallée</span><span class="citation-popover-snippet">Jacques Vallée</span></span></span>
 
-The late nineteenth-century American "mystery airship" wave became one of his favourite examples. Witnesses described advanced flying machines decades before practical aircraft became commonplace. To Vallée, this suggested that unexplained aerial reports often appear in forms that fit contemporary expectations. In earlier centuries, impossible visitors arrived as angels, demons or fairy beings. During the industrial age they appeared as fantastic dirigibles. In the space age they increasingly resembled extraterrestrial craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://jeroenthoughts.wordpress.com/2024/08/28/review-passport-to-magonia-1969-by-jacques-vallee/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jeroenthoughts.wordpress.com">[A Sky of Books and Movies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jeroenthoughts.wordpress.com</span><span class="citation-popover-title">UFO stories behave exactly like folk tales, fairy faith and religious</span><span class="citation-popover-snippet">A Sky of Books and MoviesReview: Passport to Magonia (1969) by Jacques Vallée28 Aug 2024 — It is the quintessential and highest regarded...</span></span></span>
+The late nineteenth-century American "mystery airship" wave became one of his favourite examples. Witnesses described advanced flying machines decades before practical aircraft became commonplace. To Vallée, this suggested that unexplained aerial reports often appear in forms that fit contemporary expectations. In earlier centuries, impossible visitors arrived as angels, demons or fairy beings. During the industrial age they appeared as fantastic dirigibles. In the space age they increasingly resembled extraterrestrial craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://jeroenthoughts.wordpress.com/2024/08/28/review-passport-to-magonia-1969-by-jacques-vallee/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jeroenthoughts.wordpress.com">[A Sky of Books and Movies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jeroenthoughts.wordpress.com</span><span class="citation-popover-title">UFO stories behave exactly like folk tales, fairy faith and religious</span><span class="citation-popover-snippet">A Sky of Books and MoviesReview: Passport to Magonia (1969) by Jacques Vallée28 Aug 2024 — It is the quintessential and highest regarded...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TPahmE7X4Js" title="Passport to Magonia by Jacques Vallee: UFOs, Folklore, and Parallel Worlds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TPahmE7X4Js" target="_blank" rel="noopener noreferrer">Passport to Magonia by Jacques Vallee: UFOs, Folklore, and Parallel Worlds</a></p><p class="youtube-embed-meta">Channel: Starseed Films</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TPahmE7X4Js" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TPahmE7X4Js">Open on YouTube</a></p></div></div></div>
@@ -319,9 +319,9 @@ Vallée suggested that witnesses describe extraordinary experiences using concep
 
 This does not necessarily mean the underlying experiences are identical. Rather, the interpretation evolves alongside culture. The "language" used by witnesses changes even if certain recurring features remain remarkably stable.
 
-From a Fortean perspective, this helps explain why reports seem to adapt across historical periods without requiring every account to represent the same objective event. Instead of asking only, "What object was seen?", Vallée encouraged readers to ask, "Why do people repeatedly describe extraordinary encounters in culturally meaningful forms?" <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jacques_Vall%C3%A9e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jacques Vallée</span><span class="citation-popover-snippet">Jacques Vallée</span></span></span>
+From a Fortean perspective, this helps explain why reports seem to adapt across historical periods without requiring every account to represent the same objective event. Instead of asking only, "What object was seen?", Vallée encouraged readers to ask, "Why do people repeatedly describe extraordinary encounters in culturally meaningful forms?"<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jacques_Vall%C3%A9e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jacques Vallée</span><span class="citation-popover-snippet">Jacques Vallée</span></span></span>
 
-This approach also explains why Vallée became increasingly dissatisfied with the simple extraterrestrial hypothesis. If modern UFO narratives closely resemble older traditions that predate modern astronomy, then any complete explanation should account for both historical continuity and changing cultural imagery rather than focusing exclusively on visitors from another planet. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.goodreads.com/work/quotes/395681-passport-to-magonia-on-ufos-folklore-and-parallel-worlds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goodreads.com">[Goodreads]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goodreads.com</span><span class="citation-popover-title">Passport to Magonia Quotes by Jacques F</span><span class="citation-popover-snippet">ValléeIt would be nice to hold on to the common belief that the UFOs are craft from a superior space-civilization, because this is a hypo...</span></span></span>
+This approach also explains why Vallée became increasingly dissatisfied with the simple extraterrestrial hypothesis. If modern UFO narratives closely resemble older traditions that predate modern astronomy, then any complete explanation should account for both historical continuity and changing cultural imagery rather than focusing exclusively on visitors from another planet.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.goodreads.com/work/quotes/395681-passport-to-magonia-on-ufos-folklore-and-parallel-worlds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goodreads.com">[Goodreads]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goodreads.com</span><span class="citation-popover-title">Passport to Magonia Quotes by Jacques F</span><span class="citation-popover-snippet">ValléeIt would be nice to hold on to the common belief that the UFOs are craft from a superior space-civilization, because this is a hypo...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_ufology_vs_forteana_e2c263_magonia_folklore_com_78bc32-Illustration-2-dark.svg" | relative_url }}" alt="Magonia illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_ufology_vs_forteana_e2c263_magonia_folklore_com_78bc32-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_ufology_vs_forteana_e2c263_magonia_folklore_com_78bc32-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -334,7 +334,7 @@ Instead, he criticised two opposite extremes:
 * reducing all reports to [hoaxes]({{ 'hoaxes/' | relative_url }}), misidentifications or psychological error;
 * assuming every unexplained encounter must involve extraterrestrial spacecraft.
 
-His comparative method occupies an intermediate position. Folklore, in this view, is valuable not because it proves supernatural beings exist, but because it preserves recurring patterns of human testimony. Those patterns may reveal something about perception, culture or an unidentified phenomenon that neither conventional scepticism nor straightforward extraterrestrial explanations fully capture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/%40hfwnbq/passport-to-magonia-b9fea8bb0740" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">PASSPORT TO MAGONIA. On UFOs, Folklore, and Parallel...Passport to Magonia was unusual in the literature of its subject because it...</span></span></span>
+His comparative method occupies an intermediate position. Folklore, in this view, is valuable not because it proves supernatural beings exist, but because it preserves recurring patterns of human testimony. Those patterns may reveal something about perception, culture or an unidentified phenomenon that neither conventional scepticism nor straightforward extraterrestrial explanations fully capture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/%40hfwnbq/passport-to-magonia-b9fea8bb0740" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">PASSPORT TO MAGONIA. On UFOs, Folklore, and Parallel...Passport to Magonia was unusual in the literature of its subject because it...</span></span></span>
 
 This distinction has become especially important within Forteana, where folklore is often treated as historical evidence for recurring experiences rather than historical proof of literal supernatural entities.
 
@@ -345,9 +345,9 @@ This distinction has become especially important within Forteana, where folklore
 
 *Passport to Magonia* remains influential partly because it raises difficult questions without providing a universally accepted answer.
 
-Supporters argue that Vallée broadened UFO research by introducing anthropology, comparative religion and folklore into a field previously dominated by aerospace thinking. They see the historical parallels as too persistent to ignore and credit him with identifying patterns overlooked by conventional investigators. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://talkingtheweird.com/reviewing-the-weird-passport-to-magonia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: talkingtheweird.com">[TALKING THE WEIRD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">talkingtheweird.com</span><span class="citation-popover-title">reviewing the weird passport to magonia</span><span class="citation-popover-snippet">TALKING THE WEIRDReviewing the Weird: Passport to MagoniaFeb 18, 2021 — The book is over 50 years old and “outdated” only in the sense th...</span></span></span>
+Supporters argue that Vallée broadened UFO research by introducing anthropology, comparative religion and folklore into a field previously dominated by aerospace thinking. They see the historical parallels as too persistent to ignore and credit him with identifying patterns overlooked by conventional investigators.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://talkingtheweird.com/reviewing-the-weird-passport-to-magonia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: talkingtheweird.com">[TALKING THE WEIRD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">talkingtheweird.com</span><span class="citation-popover-title">reviewing the weird passport to magonia</span><span class="citation-popover-snippet">TALKING THE WEIRDReviewing the Weird: Passport to MagoniaFeb 18, 2021 — The book is over 50 years old and “outdated” only in the sense th...</span></span></span>
 
-Critics, however, argue that similarities between stories do not demonstrate a common underlying cause. Human cultures often produce recurring myths involving journeys, mysterious beings and encounters with the unknown. Shared narrative motifs may arise through psychology, storytelling traditions and cultural transmission rather than through encounters with an external phenomenon. Some also argue that Vallée sometimes groups together reports from very different historical contexts, making broad comparisons that are difficult to test empirically. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://jeroenthoughts.wordpress.com/2024/08/28/review-passport-to-magonia-1969-by-jacques-vallee/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jeroenthoughts.wordpress.com">[A Sky of Books and Movies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jeroenthoughts.wordpress.com</span><span class="citation-popover-title">UFO stories behave exactly like folk tales, fairy faith and religious</span><span class="citation-popover-snippet">A Sky of Books and MoviesReview: Passport to Magonia (1969) by Jacques Vallée28 Aug 2024 — It is the quintessential and highest regarded...</span></span></span>
+Critics, however, argue that similarities between stories do not demonstrate a common underlying cause. Human cultures often produce recurring myths involving journeys, mysterious beings and encounters with the unknown. Shared narrative motifs may arise through psychology, storytelling traditions and cultural transmission rather than through encounters with an external phenomenon. Some also argue that Vallée sometimes groups together reports from very different historical contexts, making broad comparisons that are difficult to test empirically.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://jeroenthoughts.wordpress.com/2024/08/28/review-passport-to-magonia-1969-by-jacques-vallee/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jeroenthoughts.wordpress.com">[A Sky of Books and Movies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jeroenthoughts.wordpress.com</span><span class="citation-popover-title">UFO stories behave exactly like folk tales, fairy faith and religious</span><span class="citation-popover-snippet">A Sky of Books and MoviesReview: Passport to Magonia (1969) by Jacques Vallée28 Aug 2024 — It is the quintessential and highest regarded...</span></span></span>
 
 The debate therefore centres less on whether parallels exist—they plainly do—and more on what those parallels actually mean.
 
@@ -359,201 +359,201 @@ Within the broader landscape of Forteana, *Passport to Magonia* helped redefine 
 
 Its lasting influence lies in encouraging investigators to compare witness accounts across centuries instead of treating the flying saucer era as a complete historical beginning. Fairies, miraculous aerial signs, phantom airships and modern UFOs become part of a continuous conversation about how people interpret encounters that resist [ordinary explanation]({{ 'ordinary-causes/' | relative_url }}).
 
-Whether one views these reports as psychological, cultural, physical or some combination of all three, Vallée's comparative framework continues to shape Fortean thinking because it shifts attention from isolated sightings to recurring human patterns. In doing so, it asks not only what witnesses saw, but why extraordinary encounters repeatedly emerge in forms that each generation finds believable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jacques_Vall%C3%A9e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jacques Vallée</span><span class="citation-popover-snippet">Jacques Vallée</span></span></span>
+Whether one views these reports as psychological, cultural, physical or some combination of all three, Vallée's comparative framework continues to shape Fortean thinking because it shifts attention from isolated sightings to recurring human patterns. In doing so, it asks not only what witnesses saw, but why extraordinary encounters repeatedly emerge in forms that each generation finds believable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jacques_Vall%C3%A9e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jacques Vallée</span><span class="citation-popover-snippet">Jacques Vallée</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ASnRs1ri44o" title="Carl Jung on UFOs: A Modern Myth of Hope and Fear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ASnRs1ri44o" target="_blank" rel="noopener noreferrer">Carl Jung on UFOs: A Modern Myth of Hope and Fear</a></p><p class="youtube-embed-meta">Channel: Eternalised &middot; Views: 233.4K &middot; Uploaded: July 2024 &middot; Length: 50 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ASnRs1ri44o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ASnRs1ri44o">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Are UFO Stories Older Than Saucers?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Are UFO Stories Older Than Saucers?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Represents the contrasting evidence-first tradition.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Represents the contrasting evidence-first tradition.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Directly argues that UFO stories resemble older folklore traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly argues that UFO stories resemble older folklore traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
-        </h4>
-        <p class="fr-book-author">By Charles Fort</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
+</h4>
+<p class="fr-book-author">By Charles Fort</p>
         
-        <p class="fr-book-desc">Places anomalous reports into the broader Fortean tradition.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places anomalous reports into the broader Fortean tradition.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from folklore to flying saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/594147-M.jpg" alt="Cover for Passport to Magonia: from folklore to flying saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from folklore to flying saucers">Passport to Magonia: from folklore to flying saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee, Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from folklore to flying saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/594147-M.jpg" alt="Cover for Passport to Magonia: from folklore to flying saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from folklore to flying saucers">Passport to Magonia: from folklore to flying saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee, Vallee</p>
         
-        <p class="fr-book-desc">First published 1969. Subjects: Unidentified flying objects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1969. Subjects: Unidentified flying objects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/f85be2c5b8e158c6af1f.jpg' | relative_url }}" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/f85be2c5b8e158c6af1f.jpg' | relative_url }}" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="magonia-are-ufo-stories-older-than-saucers-forteana-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -569,7 +569,7 @@ Whether one views these reports as psychological, cultural, physical or some com
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -589,7 +589,7 @@ Whether one views these reports as psychological, cultural, physical or some com
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -621,7 +621,7 @@ Whether one views these reports as psychological, cultural, physical or some com
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -673,7 +673,7 @@ Whether one views these reports as psychological, cultural, physical or some com
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -718,7 +718,7 @@ Whether one views these reports as psychological, cultural, physical or some com
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -759,129 +759,129 @@ Whether one views these reports as psychological, cultural, physical or some com
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Jacques Vallée  
-   Link: <a href="https://en.wikipedia.org/wiki/Jacques_Vall%C3%A9e" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jacques_Vall%C3%A9e</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Jacques_Vall%C3%A9e" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jacques_Vall%C3%A9e</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: books.google.com  
    Title: Passport to Magonia from Folklore to Fly  
-   Link: <a href="https://books.google.com/books/about/Passport_to_Magonia_from_Folklore_to_Fly.html?id=HRJDAAAAIAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Passport_to_Magonia_from_Folklore_to_Fly.html?id=HRJDAAAAIAAJ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google BooksPassport to Magonia: from Folklore to Flying SaucersAn instant classic when first published in 1969, the book remains a must...</p></details>
+   Link:<a href="https://books.google.com/books/about/Passport_to_Magonia_from_Folklore_to_Fly.html?id=HRJDAAAAIAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Passport_to_Magonia_from_Folklore_to_Fly.html?id=HRJDAAAAIAAJ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google BooksPassport to Magonia: from Folklore to Flying SaucersAn instant classic when first published in 1969, the book remains a must...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40xavierortegareads/from-ancient-myths-to-modern-ufos-jacques-vallees-passport-to-magonia-d836b58d71db" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40xavierortegareads/from-ancient-myths-to-modern-ufos-jacques-vallees-passport-to-magonia-d836b58d71db</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>port to Magonia” introduces a paradigm shift in our...Read more...</p></details>
+   Link:<a href="https://medium.com/%40xavierortegareads/from-ancient-myths-to-modern-ufos-jacques-vallees-passport-to-magonia-d836b58d71db" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40xavierortegareads/from-ancient-myths-to-modern-ufos-jacques-vallees-passport-to-magonia-d836b58d71db</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>port to Magonia” introduces a paradigm shift in our...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: goodreads.com  
    Title: Passport to Magonia Quotes by Jacques F  
-   Link: <a href="https://www.goodreads.com/work/quotes/395681-passport-to-magonia-on-ufos-folklore-and-parallel-worlds" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/work/quotes/395681-passport-to-magonia-on-ufos-folklore-and-parallel-worlds</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ValléeIt would be nice to hold on to the common belief that the UFOs are craft from a superior space-civilization, because this is a hypo...</p></details>
+   Link:<a href="https://www.goodreads.com/work/quotes/395681-passport-to-magonia-on-ufos-folklore-and-parallel-worlds" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/work/quotes/395681-passport-to-magonia-on-ufos-folklore-and-parallel-worlds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ValléeIt would be nice to hold on to the common belief that the UFOs are craft from a superior space-civilization, because this is a hypo...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40hfwnbq/passport-to-magonia-b9fea8bb0740" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40hfwnbq/passport-to-magonia-b9fea8bb0740</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PASSPORT TO MAGONIA. On UFOs, Folklore, and Parallel...Passport to Magonia was unusual in the literature of its subject because it...</p></details>
+   Link:<a href="https://medium.com/%40hfwnbq/passport-to-magonia-b9fea8bb0740" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40hfwnbq/passport-to-magonia-b9fea8bb0740</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PASSPORT TO MAGONIA. On UFOs, Folklore, and Parallel...Passport to Magonia was unusual in the literature of its subject because it...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: talkingtheweird.com  
    Title: reviewing the weird passport to magonia  
-   Link: <a href="https://talkingtheweird.com/reviewing-the-weird-passport-to-magonia/" target="_blank" rel="noopener noreferrer nofollow">https://talkingtheweird.com/reviewing-the-weird-passport-to-magonia/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TALKING THE WEIRDReviewing the Weird: Passport to MagoniaFeb 18, 2021 — The book is over 50 years old and “outdated” only in the sense th...</p></details>
+   Link:<a href="https://talkingtheweird.com/reviewing-the-weird-passport-to-magonia/" target="_blank" rel="noopener noreferrer nofollow">https://talkingtheweird.com/reviewing-the-weird-passport-to-magonia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TALKING THE WEIRDReviewing the Weird: Passport to MagoniaFeb 18, 2021 — The book is over 50 years old and “outdated” only in the sense th...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: goodreads.com  
-   Link: <a href="https://www.goodreads.com/book/show/406344.Passport_to_Magonia" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/book/show/406344.Passport_to_Magonia</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Passport to Magonia: On UFOs, Folklore, and Parallel WorldsVallée presents the idea that there is no true difference between the phenomen...</p></details>
+   Link:<a href="https://www.goodreads.com/book/show/406344.Passport_to_Magonia" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/book/show/406344.Passport_to_Magonia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Passport to Magonia: On UFOs, Folklore, and Parallel WorldsVallée presents the idea that there is no true difference between the phenomen...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: goodreads.com  
-   Link: <a href="https://www.goodreads.com/book/show/24988635-passport-to-magonia" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/book/show/24988635-passport-to-magonia</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Passport to Magonia: From Folklore to Flying SaucersThis is THE book- it&#x27;s a masterpiece in the ufology sub-genre in fact- that made me f...</p></details>
+   Link:<a href="https://www.goodreads.com/book/show/24988635-passport-to-magonia" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/book/show/24988635-passport-to-magonia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Passport to Magonia: From Folklore to Flying SaucersThis is THE book- it&#x27;s a masterpiece in the ufology sub-genre in fact- that made me f...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: goodreads.com  
    Title: 406344.Passport to Magonia  
-   Link: <a href="https://www.goodreads.com/en/book/show/406344.Passport_to_Magonia" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/en/book/show/406344.Passport_to_Magonia</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Passport to Magonia: On UFOs, Folklore, and Parallel WorldsAn instant classic when first published in 1969, the book remains a must-have...</p></details>
+   Link:<a href="https://www.goodreads.com/en/book/show/406344.Passport_to_Magonia" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/en/book/show/406344.Passport_to_Magonia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Passport to Magonia: On UFOs, Folklore, and Parallel WorldsAn instant classic when first published in 1969, the book remains a must-have...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Passport to Magonia: UFOs, Folklore, and Parallel Worlds -- Jacques Vallée  
-   Link: <a href="https://www.youtube.com/watch?v=0l8oBAM3s54" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0l8oBAM3s54</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google Books...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0l8oBAM3s54" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0l8oBAM3s54</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google Books...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: jeroenthoughts.wordpress.com  
    Title: UFO stories behave exactly like folk tales, fairy faith and religious  
-   Link: <a href="https://jeroenthoughts.wordpress.com/2024/08/28/review-passport-to-magonia-1969-by-jacques-vallee/" target="_blank" rel="noopener noreferrer nofollow">https://jeroenthoughts.wordpress.com/2024/08/28/review-passport-to-magonia-1969-by-jacques-vallee/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Sky of Books and MoviesReview: Passport to Magonia (1969) by Jacques Vallée28 Aug 2024 — It is the quintessential and highest regarded...</p></details>
+   Link:<a href="https://jeroenthoughts.wordpress.com/2024/08/28/review-passport-to-magonia-1969-by-jacques-vallee/" target="_blank" rel="noopener noreferrer nofollow">https://jeroenthoughts.wordpress.com/2024/08/28/review-passport-to-magonia-1969-by-jacques-vallee/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Sky of Books and MoviesReview: Passport to Magonia (1969) by Jacques Vallée28 Aug 2024 — It is the quintessential and highest regarded...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: thetalkingllama.wordpress.com  
    Title: passport to magonia  
-   Link: <a href="https://thetalkingllama.wordpress.com/2012/06/27/passport-to-magonia/" target="_blank" rel="noopener noreferrer nofollow">https://thetalkingllama.wordpress.com/2012/06/27/passport-to-magonia/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to Magonia | Sketches By Boze - WordPress.comJun 27, 2012 — Vallée began exploring the commonalities between UFOs, cults, religious movem...</p></details>
+   Link:<a href="https://thetalkingllama.wordpress.com/2012/06/27/passport-to-magonia/" target="_blank" rel="noopener noreferrer nofollow">https://thetalkingllama.wordpress.com/2012/06/27/passport-to-magonia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to Magonia | Sketches By Boze - WordPress.comJun 27, 2012 — Vallée began exploring the commonalities between UFOs, cults, religious movem...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sobrief.com  
    Title: Passport to Magonia  
-   Link: <a href="https://sobrief.com/books/passport-to-magonia-2" target="_blank" rel="noopener noreferrer nofollow">https://sobrief.com/books/passport-to-magonia-2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Summary, Audio, Quotes, FAQ10 Jun 2026 — 10 Takeaways: 1) UFOs are a Modern Resurgence of Ancient Beliefs 2) Humanoid Descriptions Show S...</p></details>
+   Link:<a href="https://sobrief.com/books/passport-to-magonia-2" target="_blank" rel="noopener noreferrer nofollow">https://sobrief.com/books/passport-to-magonia-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Summary, Audio, Quotes, FAQ10 Jun 2026 — 10 Takeaways: 1) UFOs are a Modern Resurgence of Ancient Beliefs 2) Humanoid Descriptions Show S...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1d6rn56/anyone_else_read_passport_to_magonia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1d6rn56/anyone_else_read_passport_to_magonia/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anyone else read &#x27;Passport to Magonia&#x27;?: r/UFOsI&#x27;ve fallen asleep listening to audiobook past month...don&#x27;t recommend as it can be night...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1d6rn56/anyone_else_read_passport_to_magonia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1d6rn56/anyone_else_read_passport_to_magonia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anyone else read &#x27;Passport to Magonia&#x27;?: r/UFOsI&#x27;ve fallen asleep listening to audiobook past month...don&#x27;t recommend as it can be night...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: amazon.co.uk  
-   Link: <a href="https://www.amazon.co.uk/Passport-Magonia-Folklore-Parallel-Worlds/dp/0809237962?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Passport-Magonia-Folklore-Parallel-Worlds/dp/0809237962?tag=searcht-20</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Passport to Magonia: On UFOs, Folklore, and Parallel WorldsOver two decades ago, eminent scientist Vallee wrote a provocative book about...</p></details>
+   Link:<a href="https://www.amazon.co.uk/Passport-Magonia-Folklore-Parallel-Worlds/dp/0809237962?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Passport-Magonia-Folklore-Parallel-Worlds/dp/0809237962?tag=searcht-20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Passport to Magonia: On UFOs, Folklore, and Parallel WorldsOver two decades ago, eminent scientist Vallee wrote a provocative book about...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ubuy.com.gr  
-   Link: <a href="https://www.ubuy.com.gr/en/product/4F5C3LQAO-jacques-vallee-passport-to-magonia-from-folklore-to-flying-saucers-paperback?srsltid=AfmBOoqLm7BmAk3AAGv1ijqGiMEOxI-jNQuJcqXZSYkWBuuMiPFbXiCh" target="_blank" rel="noopener noreferrer nofollow">https://www.ubuy.com.gr/en/product/4F5C3LQAO-jacques-vallee-passport-to-magonia-from-folklore-to-flying-saucers-paperback?srsltid=AfmBOoqLm7BmAk3AAGv1ijqGiMEOxI-jNQuJcqXZSYkWBuuMiPFbXiCh</a>  
+   Link:<a href="https://www.ubuy.com.gr/en/product/4F5C3LQAO-jacques-vallee-passport-to-magonia-from-folklore-to-flying-saucers-paperback?srsltid=AfmBOoqLm7BmAk3AAGv1ijqGiMEOxI-jNQuJcqXZSYkWBuuMiPFbXiCh" target="_blank" rel="noopener noreferrer nofollow">https://www.ubuy.com.gr/en/product/4F5C3LQAO-jacques-vallee-passport-to-magonia-from-folklore-to-flying-saucers-paperback?srsltid=AfmBOoqLm7BmAk3AAGv1ijqGiMEOxI-jNQuJcqXZSYkWBuuMiPFbXiCh</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: amazon.nl  
-   Link: <a href="https://www.amazon.nl/Passport-Magonia-Folklore-Flying-Saucers/dp/0987422480?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.nl/Passport-Magonia-Folklore-Flying-Saucers/dp/0987422480?tag=searcht-20</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Passport to Magonia: From Folklore to Flying SaucersMagonia, heaven, hell, Elfland - all such places have in common one characteristic: w...</p></details>
+   Link:<a href="https://www.amazon.nl/Passport-Magonia-Folklore-Flying-Saucers/dp/0987422480?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.nl/Passport-Magonia-Folklore-Flying-Saucers/dp/0987422480?tag=searcht-20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Passport to Magonia: From Folklore to Flying SaucersMagonia, heaven, hell, Elfland - all such places have in common one characteristic: w...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: drmsh.com  
    Title: magonia review of new book by vallee and aubeck on ufos throughout history  
-   Link: <a href="https://drmsh.com/magonia-review-of-new-book-by-vallee-and-aubeck-on-ufos-throughout-history/" target="_blank" rel="noopener noreferrer nofollow">https://drmsh.com/magonia-review-of-new-book-by-vallee-and-aubeck-on-ufos-throughout-history/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Magonia Review of New Book by Vallee and Aubeck on...26 Jan 2011 — The Magonia Blog posted a review today on an important new book by Ja...</p></details>
+   Link:<a href="https://drmsh.com/magonia-review-of-new-book-by-vallee-and-aubeck-on-ufos-throughout-history/" target="_blank" rel="noopener noreferrer nofollow">https://drmsh.com/magonia-review-of-new-book-by-vallee-and-aubeck-on-ufos-throughout-history/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Magonia Review of New Book by Vallee and Aubeck on...26 Jan 2011 — The Magonia Blog posted a review today on an important new book by Ja...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: jasoncolavito.com  
    Title: review of ancient aliens s20e15 jacques vallee ufo pioneer  
-   Link: <a href="https://www.jasoncolavito.com/blog/review-of-ancient-aliens-s20e15-jacques-vallee-ufo-pioneer" target="_blank" rel="noopener noreferrer nofollow">https://www.jasoncolavito.com/blog/review-of-ancient-aliens-s20e15-jacques-vallee-ufo-pioneer</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Review of Ancient Aliens S20E15: “Jacques Vallée: UFO...9 Aug 2024 — ​Vallée&#x27;s biography is fascinating as a portrait of the gradual cra...</p></details>
+   Link:<a href="https://www.jasoncolavito.com/blog/review-of-ancient-aliens-s20e15-jacques-vallee-ufo-pioneer" target="_blank" rel="noopener noreferrer nofollow">https://www.jasoncolavito.com/blog/review-of-ancient-aliens-s20e15-jacques-vallee-ufo-pioneer</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Review of Ancient Aliens S20E15: “Jacques Vallée: UFO...9 Aug 2024 — ​Vallée&#x27;s biography is fascinating as a portrait of the gradual cra...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: amazon.co.uk  
-   Link: <a href="https://www.amazon.co.uk/Passport-Magonia-Folklore-Flying-Saucers/dp/0987422480?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Passport-Magonia-Folklore-Flying-Saucers/dp/0987422480?tag=searcht-20</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and ancient folklore, revealing patterns of aerial visitors interacting...Read more...</p></details>
+   Link:<a href="https://www.amazon.co.uk/Passport-Magonia-Folklore-Flying-Saucers/dp/0987422480?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Passport-Magonia-Folklore-Flying-Saucers/dp/0987422480?tag=searcht-20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and ancient folklore, revealing patterns of aerial visitors interacting...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: strangehistory.net  
    Title: did you hear the one about the fairy and the alien  
-   Link: <a href="https://www.strangehistory.net/2011/09/09/did-you-hear-the-one-about-the-fairy-and-the-alien/" target="_blank" rel="noopener noreferrer nofollow">https://www.strangehistory.net/2011/09/09/did-you-hear-the-one-about-the-fairy-and-the-alien/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>?9 Sept 2011 — Jacques Vallee&#x27;s Passport to Magonia covers the serious overlap of mythology, particularly fairies, and UFO&#x27;s.Read more...</p></details>
+   Link:<a href="https://www.strangehistory.net/2011/09/09/did-you-hear-the-one-about-the-fairy-and-the-alien/" target="_blank" rel="noopener noreferrer nofollow">https://www.strangehistory.net/2011/09/09/did-you-hear-the-one-about-the-fairy-and-the-alien/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?9 Sept 2011 — Jacques Vallee&#x27;s Passport to Magonia covers the serious overlap of mythology, particularly fairies, and UFO&#x27;s.Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/198ln7d/has_anybody_here_ever_read_passport_to_magonia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/198ln7d/has_anybody_here_ever_read_passport_to_magonia/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the present day abductions or alien visitations are the same.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/198ln7d/has_anybody_here_ever_read_passport_to_magonia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/198ln7d/has_anybody_here_ever_read_passport_to_magonia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the present day abductions or alien visitations are the same.Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/hellier/comments/kw9i2s/looking_for_more_books_covering_the_same_topics/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/hellier/comments/kw9i2s/looking_for_more_books_covering_the_same_topics/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>allee - fairies/fae-folk, their lives, customs, rituals...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/hellier/comments/kw9i2s/looking_for_more_books_covering_the_same_topics/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/hellier/comments/kw9i2s/looking_for_more_books_covering_the_same_topics/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>allee - fairies/fae-folk, their lives, customs, rituals...Read more...</p></details>

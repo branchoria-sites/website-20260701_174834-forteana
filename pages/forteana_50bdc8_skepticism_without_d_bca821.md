@@ -447,13 +447,13 @@ image: /assets/images/forteana_50bdc8_skepticism_without_d_bca821-overview-socia
 
 ## Introduction
 
-Scepticism without [dismissal]({{ 'dismissal/' | relative_url }}) is the working discipline that lets Forteana be examined seriously without turning every odd report into a belief claim. It means neither “accept the paranormal until disproved” nor “laugh the witness out of the room”. A Fortean report is usually a mixture of event, memory, context, interpretation and later retelling. The sceptical task is to separate those layers carefully: what was actually reported, what evidence survives, what [ordinary explanations]({{ 'ordinary-causes/' | relative_url }}) fit, and what remains genuinely unresolved. That balance matters because premature belief turns anomalies into folklore dressed as fact, while premature dismissal can destroy useful testimony, discourage future reporting and miss the social or scientific reason a case became strange in the first place. Modern anomalistics frames this as a method of inquiry: anomalous claims are assessed with scientific caution, but the existence of an unexplained residue is not treated as proof of the paranormal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/anomalistics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">Psi Encyclopedia Anomalistics</span><span class="citation-popover-snippet">Psi EncyclopediaAnomalistics - Psi Encyclopedia13 Apr 2015 — Anomalistics is generally governed by the Mertonian norms of science: commun...</span></span></span>
+Scepticism without [dismissal]({{ 'dismissal/' | relative_url }}) is the working discipline that lets Forteana be examined seriously without turning every odd report into a belief claim. It means neither “accept the paranormal until disproved” nor “laugh the witness out of the room”. A Fortean report is usually a mixture of event, memory, context, interpretation and later retelling. The sceptical task is to separate those layers carefully: what was actually reported, what evidence survives, what [ordinary explanations]({{ 'ordinary-causes/' | relative_url }}) fit, and what remains genuinely unresolved. That balance matters because premature belief turns anomalies into folklore dressed as fact, while premature dismissal can destroy useful testimony, discourage future reporting and miss the social or scientific reason a case became strange in the first place. Modern anomalistics frames this as a method of inquiry: anomalous claims are assessed with scientific caution, but the existence of an unexplained residue is not treated as proof of the paranormal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/anomalistics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">Psi Encyclopedia Anomalistics</span><span class="citation-popover-snippet">Psi EncyclopediaAnomalistics - Psi Encyclopedia13 Apr 2015 — Anomalistics is generally governed by the Mertonian norms of science: commun...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_skepticism_without_d_bca821-overview.webp" | relative_url }}" alt="Overview image for Scepticism" loading="eager" decoding="sync" fetchpriority="high">
 ## Suspended belief is a method, not a mood
 
-The most useful Fortean stance is temporary non-belief: hold the story open long enough to investigate it, but do not promote it into a conclusion before the evidence earns that move. This is close to the “zetetic” approach associated with sociologist Marcello Truzzi, who argued that real scepticism begins with [doubt]({{ 'doubt/' | relative_url }}) before inquiry, not with a negative verdict announced in advance. In that sense, scepticism without dismissal is less a personality trait than an operating rule: keep curiosity active, keep standards high, and avoid confusing “not yet explained” with “therefore paranormal”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newdualism.org/papers/M.Truzzi/TruzzionScientificUnorthodoxy.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newdualism.org">[newdualism.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newdualism.org</span><span class="citation-popover-snippet">Truzzi on Scientific UnorthodoxyTrue skepticism which is a part of science consists of doubt preceeding inquiry, and that essentially tak...</span></span></span>
+The most useful Fortean stance is temporary non-belief: hold the story open long enough to investigate it, but do not promote it into a conclusion before the evidence earns that move. This is close to the “zetetic” approach associated with sociologist Marcello Truzzi, who argued that real scepticism begins with [doubt]({{ 'doubt/' | relative_url }}) before inquiry, not with a negative verdict announced in advance. In that sense, scepticism without dismissal is less a personality trait than an operating rule: keep curiosity active, keep standards high, and avoid confusing “not yet explained” with “therefore paranormal”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newdualism.org/papers/M.Truzzi/TruzzionScientificUnorthodoxy.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newdualism.org">[newdualism.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newdualism.org</span><span class="citation-popover-snippet">Truzzi on Scientific UnorthodoxyTrue skepticism which is a part of science consists of doubt preceeding inquiry, and that essentially tak...</span></span></span>
 
 This matters especially in [Forteana]({{ 'forteana/' | relative_url }}) because many cases begin as sincere reports rather than formal claims. A person may report a light, apparition, animal, fall of objects, strange sound or coincidence without claiming to know what caused it. If the investigator immediately treats the witness as gullible, deceptive or irrational, the case is no longer being examined; it is being socially managed. But if the investigator treats [sincerity]({{ 'sincerity/' | relative_url }}) as proof, the opposite error appears: honest perception is mistaken for accurate description of external reality.
 
@@ -474,23 +474,23 @@ That order is crucial. A haunting report may be genuine as an experience while m
 <img src="{{ "/assets/images/forteana_50bdc8_skepticism_without_d_bca821-Illustration-1-dark.svg" | relative_url }}" alt="Scepticism illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_skepticism_without_d_bca821-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_skepticism_without_d_bca821-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Questions before conclusions
 
-The first intervention in a Fortean case is not an explanation but a better set of questions. Forteana attracts claims that cross domains, so the question set must cross domains too: astronomy for aerial lights, zoology for unknown animals, psychology for apparitions, meteorology for strange falls, folklore for recurring motifs, and media history for stories that grow through repetition. The Society for Psychical Research’s overview of anomalistics stresses that anomalous cases are often multidisciplinary because it is not obvious at the start which discipline will resolve them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/anomalistics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">Psi Encyclopedia Anomalistics</span><span class="citation-popover-snippet">Psi EncyclopediaAnomalistics - Psi Encyclopedia13 Apr 2015 — Anomalistics is generally governed by the Mertonian norms of science: commun...</span></span></span>
+The first intervention in a Fortean case is not an explanation but a better set of questions. Forteana attracts claims that cross domains, so the question set must cross domains too: astronomy for aerial lights, zoology for unknown animals, psychology for apparitions, meteorology for strange falls, folklore for recurring motifs, and media history for stories that grow through repetition. The Society for Psychical Research’s overview of anomalistics stresses that anomalous cases are often multidisciplinary because it is not obvious at the start which discipline will resolve them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/anomalistics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">Psi Encyclopedia Anomalistics</span><span class="citation-popover-snippet">Psi EncyclopediaAnomalistics - Psi Encyclopedia13 Apr 2015 — Anomalistics is generally governed by the Mertonian norms of science: commun...</span></span></span>
 
 Good sceptical questioning begins with the least dramatic facts. What time was it? Where exactly was the witness standing? What direction were they facing? How long did the event last? Was there weather, traffic, aircraft activity, wildlife, machinery, a festival, military activity, a known astronomical object, or a prior expectation shaping what was noticed? Were there photographs, logs, radar, call records, medical notes, local news reports or other witnesses? How soon after the event was the account recorded?
 
 The point is not to bury wonder under bureaucracy. It is to prevent a common Fortean failure: letting the most exciting interpretation organise the evidence. Once a case is labelled “ghost”, “monster” or “alien craft”, later readers tend to filter details through that label. A better method keeps several explanations alive at once and lets each one make predictions. A balloon explanation should fit wind, altitude, appearance and duration. A sleep-related explanation should fit timing, paralysis, fear, bedroom setting and dreamlike presence. A hoax explanation should fit motive, opportunity and trace evidence. A genuinely unresolved classification should fit the absence of adequate data, not the investigator’s impatience.
 
-This is where “extraordinary claims require extraordinary evidence” is useful but easily misused. The maxim, popularised by Carl Sagan and developed from earlier formulations associated with Laplace and Truzzi, reminds readers that claims with major implications need stronger support than ordinary claims. But as a method, it should mean proportionate evidence, not an excuse to ignore reports before inquiry begins. Philosophers and scientists have criticised the phrase when “extraordinary” becomes subjective or when the standard is applied so vaguely that no unusual claim could ever receive a fair hearing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Extraordinary_claims_require_extraordinary_evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Extraordinary claims require extraordinary evidence</span><span class="citation-popover-snippet">Extraordinary claims require extraordinary evidence</span></span></span>
+This is where “extraordinary claims require extraordinary evidence” is useful but easily misused. The maxim, popularised by Carl Sagan and developed from earlier formulations associated with Laplace and Truzzi, reminds readers that claims with major implications need stronger support than ordinary claims. But as a method, it should mean proportionate evidence, not an excuse to ignore reports before inquiry begins. Philosophers and scientists have criticised the phrase when “extraordinary” becomes subjective or when the standard is applied so vaguely that no unusual claim could ever receive a fair hearing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Extraordinary_claims_require_extraordinary_evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Extraordinary claims require extraordinary evidence</span><span class="citation-popover-snippet">Extraordinary claims require extraordinary evidence</span></span></span>
 
 ## Why witnesses deserve respect even when reports fail
 
 A central lesson of sceptical Forteana is that false conclusions do not require foolish witnesses. Human perception is active, selective and context-sensitive. Under uncertainty, people infer shape, agency, intention and meaning from incomplete signals. That is not a defect found only in “believers”; it is part of normal cognition.
 
-Research on paranormal belief and perception shows why this distinction matters. Studies have linked paranormal belief with greater susceptibility to illusory pattern perception, agency detection and attention biases, but the findings do not show that every witness is deluded or dishonest. They show that ambiguous stimuli can be interpreted differently depending on expectation, context and individual differences. Pareidolia — perceiving meaningful forms, such as faces or figures, in ambiguous patterns — is especially relevant to ghost photographs, faces in windows, shapes in smoke and “figures” in low-light images. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9473424/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+Research on paranormal belief and perception shows why this distinction matters. Studies have linked paranormal belief with greater susceptibility to illusory pattern perception, agency detection and attention biases, but the findings do not show that every witness is deluded or dishonest. They show that ambiguous stimuli can be interpreted differently depending on expectation, context and individual differences. Pareidolia — perceiving meaningful forms, such as faces or figures, in ambiguous patterns — is especially relevant to ghost photographs, faces in windows, shapes in smoke and “figures” in low-light images.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9473424/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
-Sleep paralysis is another useful example because it shows how an experience can be terrifying, vivid and culturally meaningful without requiring a paranormal cause. During sleep paralysis, a person may wake while unable to move and may experience visual, auditory or tactile hallucinations, often including a sensed presence. Researchers describe it as a hybrid state between dreaming and waking, and public explainers note its frequent connection with ghost, demon or intruder interpretations. A respectful sceptical reading does not say, “Nothing happened.” Something did happen: the question is whether the best explanation is neurological, environmental, cultural, paranormal, or some combination of perception and interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1704.02342" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2cashp.columbian.gwu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Sleep Paralysis: phenomenology, neurophysiology and treatment</span><span class="citation-popover-snippet">arXiv Sleep Paralysis: phenomenology, neurophysiology and treatment</span></span></span>
+Sleep paralysis is another useful example because it shows how an experience can be terrifying, vivid and culturally meaningful without requiring a paranormal cause. During sleep paralysis, a person may wake while unable to move and may experience visual, auditory or tactile hallucinations, often including a sensed presence. Researchers describe it as a hybrid state between dreaming and waking, and public explainers note its frequent connection with ghost, demon or intruder interpretations. A respectful sceptical reading does not say, “Nothing happened.” Something did happen: the question is whether the best explanation is neurological, environmental, cultural, paranormal, or some combination of perception and interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1704.02342" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2cashp.columbian.gwu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Sleep Paralysis: phenomenology, neurophysiology and treatment</span><span class="citation-popover-snippet">arXiv Sleep Paralysis: phenomenology, neurophysiology and treatment</span></span></span>
 
-The same discipline applies to aerial reports. Pilots, police officers, soldiers and airport staff can be competent observers and still encounter conditions in which distance, speed, size and identity are hard to judge. Modern UAP investigations repeatedly stress that “unidentified” often reflects poor data rather than exotic origin. NASA’s independent UAP study highlighted stigma and low-quality data as major barriers to understanding reports, while the US All-domain Anomaly Resolution Office notes that cases can remain unidentified simply because available sensors did not capture enough information for a positive identification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
+The same discipline applies to aerial reports. Pilots, police officers, soldiers and airport staff can be competent observers and still encounter conditions in which distance, speed, size and identity are hard to judge. Modern UAP investigations repeatedly stress that “unidentified” often reflects poor data rather than exotic origin. NASA’s independent UAP study highlighted stigma and low-quality data as major barriers to understanding reports, while the US All-domain Anomaly Resolution Office notes that cases can remain unidentified simply because available sensors did not capture enough information for a positive identification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
 Respect, then, is not the same as credulity. It means taking the witness’s experience seriously enough to ask what conditions could have produced it.
 
@@ -501,9 +501,9 @@ Respect, then, is not the same as credulity. It means taking the witness’s exp
 
 The most important distinction in sceptical Forteana is between unresolved and paranormal. A report can remain unresolved for many ordinary reasons: missing data, poor photographs, contradictory testimony, late reporting, ambiguous environmental conditions, unavailable records, or a one-off event that cannot be repeated. None of those reasons automatically supports [ghosts]({{ 'ghosts/' | relative_url }}), alien visitors, unknown animals or supernatural forces.
 
-Official UAP classification systems make this distinction visible. France’s GEIPAN, created by the French space agency CNES, classifies cases from identified to unidentified, with a specific category for cases not identified because of lack of data and another for cases still unidentified after investigation. It also allows revisiting cases if new information appears. That is a model of suspended judgement: a case can be open, weakly evidenced, probably explained, or genuinely puzzling without being converted into a paranormal conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan+2CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+Official UAP classification systems make this distinction visible. France’s GEIPAN, created by the French space agency CNES, classifies cases from identified to unidentified, with a specific category for cases not identified because of lack of data and another for cases still unidentified after investigation. It also allows revisiting cases if new information appears. That is a model of suspended judgement: a case can be open, weakly evidenced, probably explained, or genuinely puzzling without being converted into a paranormal conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan+2CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-The same caution appears in recent US reporting. AARO’s historical review found no evidence that any US government investigation, academic-sponsored research or official panel had confirmed a UAP sighting as extraterrestrial technology, while also acknowledging that many reports remain unsolved or unidentified. Reuters’ coverage of the 2024 Pentagon report captured the central point: most sightings assessed across official investigations were ordinary objects or phenomena, and better-quality data would probably resolve many remaining cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span></span></span>
+The same caution appears in recent US reporting. AARO’s historical review found no evidence that any US government investigation, academic-sponsored research or official panel had confirmed a UAP sighting as extraterrestrial technology, while also acknowledging that many reports remain unsolved or unidentified. Reuters’ coverage of the 2024 Pentagon report captured the central point: most sightings assessed across official investigations were ordinary objects or phenomena, and better-quality data would probably resolve many remaining cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span></span></span>
 
 For Forteana, this creates a useful three-part vocabulary:
 
@@ -522,11 +522,11 @@ Many popular retellings skip the middle category. Scepticism without dismissal p
 <img src="{{ "/assets/images/forteana_50bdc8_skepticism_without_d_bca821-Illustration-2-dark.svg" | relative_url }}" alt="Scepticism illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_skepticism_without_d_bca821-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_skepticism_without_d_bca821-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The danger of debunking too fast
 
-Dismissiveness can damage an investigation in ways belief cannot repair afterwards. If witnesses expect ridicule, they may delay reporting, omit details, exaggerate defensively, or avoid official channels altogether. NASA’s UAP report explicitly identified stigma as a barrier because it leads to data loss: people who might have useful observations may not come forward, and evidence that could be checked soon after an event disappears. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
+Dismissiveness can damage an investigation in ways belief cannot repair afterwards. If witnesses expect ridicule, they may delay reporting, omit details, exaggerate defensively, or avoid official channels altogether. NASA’s UAP report explicitly identified stigma as a barrier because it leads to data loss: people who might have useful observations may not come forward, and evidence that could be checked soon after an event disappears.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
-Fast debunking also creates a trust problem. When authorities or commentators appear to force a weak explanation onto a stronger mystery, believers may treat that as evidence of institutional bad faith. UFO history is full of this pattern. J. Allen Hynek, originally a sceptical consultant to US Air Force UFO investigations, later criticised shallow explanations and argued for more serious scientific treatment of better cases. The lesson is not that every official explanation is wrong; it is that a visibly careless explanation can strengthen the very mystery it was meant to resolve. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-snippet">After Project Blue Book&#x27;s closure in 1969, Hynek continued independently promoting &quot;ufology,&quot; emphasizing scientific rigor, and creating...</span></span></span>
+Fast debunking also creates a trust problem. When authorities or commentators appear to force a weak explanation onto a stronger mystery, believers may treat that as evidence of institutional bad faith. UFO history is full of this pattern. J. Allen Hynek, originally a sceptical consultant to US Air Force UFO investigations, later criticised shallow explanations and argued for more serious scientific treatment of better cases. The lesson is not that every official explanation is wrong; it is that a visibly careless explanation can strengthen the very mystery it was meant to resolve.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-snippet">After Project Blue Book&#x27;s closure in 1969, Hynek continued independently promoting &quot;ufology,&quot; emphasizing scientific rigor, and creating...</span></span></span>
 
-The 2018 Gatwick drone incident shows how difficult this can be outside classic paranormal territory. Hundreds of flights were cancelled or diverted after reported drone sightings, affecting more than 140,000 passengers according to later reporting, yet no clear photograph, video or culprit emerged. The case has been argued over because many witnesses were plausible, the consequences were real, and the physical evidence remained elusive. A dismissive reading says, “There was never anything there.” A credulous reading says, “The sightings prove a malicious drone attack.” A better Fortean reading asks what the incident reveals about witness confidence, institutional risk, technology panic, poor evidence capture and the way uncertainty escalates when safety decisions must be made quickly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk-news/2020/dec/01/the-mystery-of-the-gatwick-drone" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian The mystery of the Gatwick drone</span><span class="citation-popover-snippet">The incident prompted increased drone regulation in the UK and spurred extensive debate about drone security, misuse, and the need for co...</span></span></span>
+The 2018 Gatwick drone incident shows how difficult this can be outside classic paranormal territory. Hundreds of flights were cancelled or diverted after reported drone sightings, affecting more than 140,000 passengers according to later reporting, yet no clear photograph, video or culprit emerged. The case has been argued over because many witnesses were plausible, the consequences were real, and the physical evidence remained elusive. A dismissive reading says, “There was never anything there.” A credulous reading says, “The sightings prove a malicious drone attack.” A better Fortean reading asks what the incident reveals about witness confidence, institutional risk, technology panic, poor evidence capture and the way uncertainty escalates when safety decisions must be made quickly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk-news/2020/dec/01/the-mystery-of-the-gatwick-drone" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian The mystery of the Gatwick drone</span><span class="citation-popover-snippet">The incident prompted increased drone regulation in the UK and spurred extensive debate about drone security, misuse, and the need for co...</span></span></span>
 
 That is the wider value of Forteana. Even when the “monster” disappears, the case may still reveal something important about perception, institutions, media, fear, technology or collective storytelling.
 
@@ -536,7 +536,7 @@ If dismissiveness loses data, credulity corrupts it. Once a Fortean report is ab
 
 This is why scepticism without dismissal still needs firm thresholds. A single sincere testimony may justify recording a case, but not declaring a new phenomenon. A photograph may justify examination, but not a paranormal claim if metadata, scale, location and chain of custody are missing. A cluster of reports may justify pattern analysis, but not a conclusion if reports are copied from each other or shaped by media coverage. Fortean reading should be hospitable to anomalies but hostile to evidential inflation.
 
-The field of anomalistics is useful because it treats unusual reports as worthy of systematic study without assuming that their most dramatic interpretations are true. The Psi Encyclopedia summary of anomalistics emphasises scientific norms such as communal scrutiny, disinterestedness and scepticism, while also recognising that anomalies occur across disciplines and can be misclassified when approached too narrowly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/anomalistics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">Psi Encyclopedia Anomalistics</span><span class="citation-popover-snippet">Psi EncyclopediaAnomalistics - Psi Encyclopedia13 Apr 2015 — Anomalistics is generally governed by the Mertonian norms of science: commun...</span></span></span>
+The field of anomalistics is useful because it treats unusual reports as worthy of systematic study without assuming that their most dramatic interpretations are true. The Psi Encyclopedia summary of anomalistics emphasises scientific norms such as communal scrutiny, disinterestedness and scepticism, while also recognising that anomalies occur across disciplines and can be misclassified when approached too narrowly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/anomalistics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">Psi Encyclopedia Anomalistics</span><span class="citation-popover-snippet">Psi EncyclopediaAnomalistics - Psi Encyclopedia13 Apr 2015 — Anomalistics is generally governed by the Mertonian norms of science: commun...</span></span></span>
 
 A fair sceptical policy therefore asks for proportionate escalation:
 
@@ -566,7 +566,7 @@ Scepticism without dismissal can be implemented as a decision path for reading, 
 
 **Ask what evidence would change the assessment.** This keeps the inquiry honest. If no possible evidence could move the reader away from belief or dismissal, the stance is no longer investigative.
 
-**Use unresolved as a valid outcome.** GEIPAN’s distinction between “not identified due to lack of data” and “not identified after investigation” is a useful model beyond UAP cases. Some mysteries are weakly evidenced; others are well investigated but still puzzling. Treating both as the same category muddies the record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+**Use unresolved as a valid outcome.** GEIPAN’s distinction between “not identified due to lack of data” and “not identified after investigation” is a useful model beyond UAP cases. Some mysteries are weakly evidenced; others are well investigated but still puzzling. Treating both as the same category muddies the record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
 **Protect human dignity.** Witnesses can be mistaken without being stupid. Believers can be sincere without being correct. Sceptics can be right about a case while wrong in tone. A good Fortean account should leave readers better able to think, not merely better armed to mock.
 
@@ -585,194 +585,194 @@ The central rule is simple but demanding: do not confuse respect with belief, an
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How to Be Sceptical Without Being Dismissive. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How to Be Sceptical Without Being Dismissive. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Perfect fit for respectful, evidence-based inquiry.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Perfect fit for respectful, evidence-based inquiry.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explains belief formation without ridiculing believers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains belief formation without ridiculing believers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Directly addresses extraordinary claims and critical thinking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses extraordinary claims and critical thinking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Shows recurring patterns of collective belief.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Shows recurring patterns of collective belief.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd"><img src="{{ '/assets/images/marketplace-covers/7b9530e3e70391be5ab3.jpg' | relative_url }}" alt="Listing image for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer">Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd"><img src="{{ '/assets/images/marketplace-covers/7b9530e3e70391be5ab3.jpg' | relative_url }}" alt="Listing image for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer">Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic table with elements poster Science Wall Chart UPDATED Education Poster"><img src="{{ '/assets/images/marketplace-covers/4353dda57fefeae45a72.jpg' | relative_url }}" alt="Listing image for Periodic table with elements poster Science Wall Chart UPDATED Education Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer">Periodic table with elements poster Science Wall Chart UPDATED Education Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic table with elements poster Science Wall Chart UPDATED Education Poster"><img src="{{ '/assets/images/marketplace-covers/4353dda57fefeae45a72.jpg' | relative_url }}" alt="Listing image for Periodic table with elements poster Science Wall Chart UPDATED Education Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer">Periodic table with elements poster Science Wall Chart UPDATED Education Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Snellen Eye Chart Optician Glasses Test Science Poster | A5-A1 | Wall Poster"><img src="{{ '/assets/images/marketplace-covers/44585abe482a25573224.jpg' | relative_url }}" alt="Listing image for Snellen Eye Chart Optician Glasses Test Science Poster | A5-A1 | Wall Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer">Snellen Eye Chart Optician Glasses Test Science Poster | A5-A1 | Wall Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Snellen Eye Chart Optician Glasses Test Science Poster | A5-A1 | Wall Poster"><img src="{{ '/assets/images/marketplace-covers/44585abe482a25573224.jpg' | relative_url }}" alt="Listing image for Snellen Eye Chart Optician Glasses Test Science Poster | A5-A1 | Wall Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer">Snellen Eye Chart Optician Glasses Test Science Poster | A5-A1 | Wall Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster"><img src="{{ '/assets/images/marketplace-covers/fe6eac85e0cbd3115c4c.jpg' | relative_url }}" alt="Listing image for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer">PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster"><img src="{{ '/assets/images/marketplace-covers/fe6eac85e0cbd3115c4c.jpg' | relative_url }}" alt="Listing image for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer">PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="scepticism-how-to-be-sceptical-without-being-dismissive-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -788,7 +788,7 @@ The central rule is simple but demanding: do not confuse respect with belief, an
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -808,7 +808,7 @@ The central rule is simple but demanding: do not confuse respect with belief, an
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -840,7 +840,7 @@ The central rule is simple but demanding: do not confuse respect with belief, an
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -892,7 +892,7 @@ The central rule is simple but demanding: do not confuse respect with belief, an
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -937,7 +937,7 @@ The central rule is simple but demanding: do not confuse respect with belief, an
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -978,241 +978,241 @@ The central rule is simple but demanding: do not confuse respect with belief, an
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: newdualism.org  
-   Link: <a href="https://www.newdualism.org/papers/M.Truzzi/TruzzionScientificUnorthodoxy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.newdualism.org/papers/M.Truzzi/TruzzionScientificUnorthodoxy.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Truzzi on Scientific UnorthodoxyTrue skepticism which is a part of science consists of doubt preceeding inquiry, and that essentially tak...</p></details>
+   Link:<a href="https://www.newdualism.org/papers/M.Truzzi/TruzzionScientificUnorthodoxy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.newdualism.org/papers/M.Truzzi/TruzzionScientificUnorthodoxy.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Truzzi on Scientific UnorthodoxyTrue skepticism which is a part of science consists of doubt preceeding inquiry, and that essentially tak...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Extraordinary claims require extraordinary evidence  
-   Link: <a href="https://en.wikipedia.org/wiki/Extraordinary_claims_require_extraordinary_evidence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Extraordinary_claims_require_extraordinary_evidence</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Extraordinary_claims_require_extraordinary_evidence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Extraordinary_claims_require_extraordinary_evidence</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCExtraordinary Claims Require Extraordinary Evidence  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3114207/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3114207/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3114207/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3114207/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9473424/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9473424/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9473424/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9473424/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4482736/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4482736/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4482736/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4482736/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
    Title: arXiv Sleep Paralysis: phenomenology, neurophysiology and treatment  
-   Link: <a href="https://arxiv.org/abs/1704.02342" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1704.02342</a>  
+   Link:<a href="https://arxiv.org/abs/1704.02342" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1704.02342</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cashp.columbian.gwu.edu  
-   Link: <a href="https://cashp.columbian.gwu.edu/close-encounter-or-just-half-sleep-how-scientific-inquiry-can-inform-paranormal-experiences" target="_blank" rel="noopener noreferrer nofollow">https://cashp.columbian.gwu.edu/close-encounter-or-just-half-sleep-how-scientific-inquiry-can-inform-paranormal-experiences</a>  
+   Link:<a href="https://cashp.columbian.gwu.edu/close-encounter-or-just-half-sleep-how-scientific-inquiry-can-inform-paranormal-experiences" target="_blank" rel="noopener noreferrer nofollow">https://cashp.columbian.gwu.edu/close-encounter-or-just-half-sleep-how-scientific-inquiry-can-inform-paranormal-experiences</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: time.com  
    Title: sleep paralysis ghosts  
-   Link: <a href="https://time.com/6259846/sleep-paralysis-ghosts/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6259846/sleep-paralysis-ghosts/</a>  
+   Link:<a href="https://time.com/6259846/sleep-paralysis-ghosts/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6259846/sleep-paralysis-ghosts/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cnes.fr  
-   Link: <a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
+   Link:<a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
+   Link:<a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reuters.com  
    Title: nasa panel hold first public meeting ufo study ahead report 2023 05 31  
-   Link: <a href="https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/</a>  
+   Link:<a href="https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Gatwick Airport drone incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Gatwick_Airport_drone_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gatwick_Airport_drone_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Gatwick_Airport_drone_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gatwick_Airport_drone_incident</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: forums.forteana.org  
-   Link: <a href="https://forums.forteana.org/index.php?threads%2Fwhen-scepticism-goes-belly-up.68236%2F=" target="_blank" rel="noopener noreferrer nofollow">https://forums.forteana.org/index.php?threads%2Fwhen-scepticism-goes-belly-up.68236%2F=</a>  
+   Link:<a href="https://forums.forteana.org/index.php?threads%2Fwhen-scepticism-goes-belly-up.68236%2F=" target="_blank" rel="noopener noreferrer nofollow">https://forums.forteana.org/index.php?threads%2Fwhen-scepticism-goes-belly-up.68236%2F=</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: [Charles Fort](&#123;&#123; 'charles-fort/' | relative_url &#125;&#125;)  
-   Link: <a href="https://en.wikipedia.org/wiki/Charles_Fort" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Charles_Fort</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Charles_Fort" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Charles_Fort</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Marcello Truzzi  
-   Link: <a href="https://en.wikipedia.org/wiki/Marcello_Truzzi" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Marcello_Truzzi</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Marcello_Truzzi" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Marcello_Truzzi</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: en:Talk:Marcello Truzzi  
-   Link: <a href="https://en.wikipedia.org/wiki/en%3ATalk%3AMarcello_Truzzi" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/en%3ATalk%3AMarcello_Truzzi</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/en%3ATalk%3AMarcello_Truzzi" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/en%3ATalk%3AMarcello_Truzzi</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Identification studies of UFOs  
-   Link: <a href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identification_studies_of_UFOs</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identification_studies_of_UFOs</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Unidentified flying object  
-   Link: <a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
+   Link:<a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: geipan.fr  
-   Link: <a href="https://www.geipan.fr/sites/default/files/15_VALLEE_full.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/sites/default/files/15_VALLEE_full.pdf</a>  
+   Link:<a href="https://www.geipan.fr/sites/default/files/15_VALLEE_full.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/sites/default/files/15_VALLEE_full.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: encyclopedia.pub  
-   Link: <a href="https://encyclopedia.pub/entry/34659" target="_blank" rel="noopener noreferrer nofollow">https://encyclopedia.pub/entry/34659</a>  
+   Link:<a href="https://encyclopedia.pub/entry/34659" target="_blank" rel="noopener noreferrer nofollow">https://encyclopedia.pub/entry/34659</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: psi-encyclopedia.spr.ac.uk  
    Title: Psi Encyclopedia Anomalistics  
-   Link: <a href="https://psi-encyclopedia.spr.ac.uk/articles/anomalistics/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/articles/anomalistics/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Psi EncyclopediaAnomalistics - Psi Encyclopedia13 Apr 2015 — Anomalistics is generally governed by the Mertonian norms of science: commun...</p></details>
+   Link:<a href="https://psi-encyclopedia.spr.ac.uk/articles/anomalistics/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/articles/anomalistics/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psi EncyclopediaAnomalistics - Psi Encyclopedia13 Apr 2015 — Anomalistics is generally governed by the Mertonian norms of science: commun...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: psi-encyclopedia.spr.ac.uk  
    Title: Psi Encyclopedia Forteana  
-   Link: <a href="https://psi-encyclopedia.spr.ac.uk/articles/forteana/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/articles/forteana/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Psi EncyclopediaForteana - Psi Encyclopedia - Society for Psychical Research23 Nov 2014 — Debate over Forteana has produced rival explana...</p></details>
+   Link:<a href="https://psi-encyclopedia.spr.ac.uk/articles/forteana/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/articles/forteana/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psi EncyclopediaForteana - Psi Encyclopedia - Society for Psychical Research23 Nov 2014 — Debate over Forteana has produced rival explana...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
+   Link:<a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/en/node/58788" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58788</a>  
+   Link:<a href="https://www.cnes-geipan.fr/en/node/58788" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58788</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: popularmechanics.com  
-   Link: <a href="https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>After Project Blue Book&#x27;s closure in 1969, Hynek continued independently promoting &quot;ufology,&quot; emphasizing scientific rigor, and creating...</p></details>
+   Link:<a href="https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>After Project Blue Book&#x27;s closure in 1969, Hynek continued independently promoting &quot;ufology,&quot; emphasizing scientific rigor, and creating...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: theguardian.com  
    Title: The Guardian The mystery of the Gatwick drone  
-   Link: <a href="https://www.theguardian.com/uk-news/2020/dec/01/the-mystery-of-the-gatwick-drone" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk-news/2020/dec/01/the-mystery-of-the-gatwick-drone</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The incident prompted increased drone regulation in the UK and spurred extensive debate about drone security, misuse, and the need for co...</p></details>
+   Link:<a href="https://www.theguardian.com/uk-news/2020/dec/01/the-mystery-of-the-gatwick-drone" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk-news/2020/dec/01/the-mystery-of-the-gatwick-drone</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The incident prompted increased drone regulation in the UK and spurred extensive debate about drone security, misuse, and the need for co...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7347654/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7347654/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7347654/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7347654/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9216229/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9216229/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9216229/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9216229/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: quoteinvestigator.com  
-   Link: <a href="https://quoteinvestigator.com/2021/12/05/extraordinary/" target="_blank" rel="noopener noreferrer nofollow">https://quoteinvestigator.com/2021/12/05/extraordinary/</a>  
+   Link:<a href="https://quoteinvestigator.com/2021/12/05/extraordinary/" target="_blank" rel="noopener noreferrer nofollow">https://quoteinvestigator.com/2021/12/05/extraordinary/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/sites/default/files/Aids_to_identification_of_flying_objects_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/Aids_to_identification_of_flying_objects_0.pdf</a>  
+   Link:<a href="https://www.cnes-geipan.fr/sites/default/files/Aids_to_identification_of_flying_objects_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/Aids_to_identification_of_flying_objects_0.pdf</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: cnes-geipan.fr  
    Title: 2015 09 01 Spatial Point Pattern Analysis of the Unidentified  
-   Link: <a href="https://www.cnes-geipan.fr/sites/default/files/2015-09-01_Spatial_Point_Pattern_Analysis_of_the_Unidentified.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/2015-09-01_Spatial_Point_Pattern_Analysis_of_the_Unidentified.pdf</a>  
+   Link:<a href="https://www.cnes-geipan.fr/sites/default/files/2015-09-01_Spatial_Point_Pattern_Analysis_of_the_Unidentified.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/2015-09-01_Spatial_Point_Pattern_Analysis_of_the_Unidentified.pdf</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: wikidoc.org  
-   Link: <a href="https://www.wikidoc.org/index.php/Paranormal" target="_blank" rel="noopener noreferrer nofollow">https://www.wikidoc.org/index.php/Paranormal</a>  
+   Link:<a href="https://www.wikidoc.org/index.php/Paranormal" target="_blank" rel="noopener noreferrer nofollow">https://www.wikidoc.org/index.php/Paranormal</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: en.wikiquote.org  
    Title: Carl Sagan  
-   Link: <a href="https://en.wikiquote.org/wiki/Carl_Sagan" target="_blank" rel="noopener noreferrer nofollow">https://en.wikiquote.org/wiki/Carl_Sagan</a>  
+   Link:<a href="https://en.wikiquote.org/wiki/Carl_Sagan" target="_blank" rel="noopener noreferrer nofollow">https://en.wikiquote.org/wiki/Carl_Sagan</a>  
 
 ### Additional References
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: youtube.com  
    Title: The Amazing Randi and American "Skepticism" with Mitch Horowitz  
-   Link: <a href="https://www.youtube.com/watch?v=gYE1LHX0gN8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gYE1LHX0gN8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chris French - Weird Science: An Introduction to Anomalistic Psychology...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=gYE1LHX0gN8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gYE1LHX0gN8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chris French - Weird Science: An Introduction to Anomalistic Psychology...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: youtube.com  
    Title: Chris French  
-   Link: <a href="https://www.youtube.com/watch?v=rzHEw7ph-kg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rzHEw7ph-kg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anomalistic Psychology with Stanley Krippner...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rzHEw7ph-kg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rzHEw7ph-kg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anomalistic Psychology with Stanley Krippner...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100040013-4" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100040013-4</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100040013-4" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100040013-4</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: michaelanees.com  
-   Link: <a href="https://michaelanees.com/s/Nees-Phillips-2015-Applied-Cognitive-Psychology-author-preprint.pdf" target="_blank" rel="noopener noreferrer nofollow">https://michaelanees.com/s/Nees-Phillips-2015-Applied-Cognitive-Psychology-author-preprint.pdf</a>  
+   Link:<a href="https://michaelanees.com/s/Nees-Phillips-2015-Applied-Cognitive-Psychology-author-preprint.pdf" target="_blank" rel="noopener noreferrer nofollow">https://michaelanees.com/s/Nees-Phillips-2015-Applied-Cognitive-Psychology-author-preprint.pdf</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/DebateReligion/comments/1ktk77k/anomalistics_the_investigation_of_realitys/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/DebateReligion/comments/1ktk77k/anomalistics_the_investigation_of_realitys/</a>  
+   Link:<a href="https://www.reddit.com/r/DebateReligion/comments/1ktk77k/anomalistics_the_investigation_of_realitys/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/DebateReligion/comments/1ktk77k/anomalistics_the_investigation_of_realitys/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: anomalist.com  
-   Link: <a href="https://www.anomalist.com/commentaries/pseudo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.anomalist.com/commentaries/pseudo.html</a>  
+   Link:<a href="https://www.anomalist.com/commentaries/pseudo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.anomalist.com/commentaries/pseudo.html</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/DebateReligion/comments/vyke05/correcting_a_popular_misconception_extraordinary/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/DebateReligion/comments/vyke05/correcting_a_popular_misconception_extraordinary/</a>  
+   Link:<a href="https://www.reddit.com/r/DebateReligion/comments/vyke05/correcting_a_popular_misconception_extraordinary/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/DebateReligion/comments/vyke05/correcting_a_popular_misconception_extraordinary/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: smithsonianmag.com  
-   Link: <a href="https://www.smithsonianmag.com/air-space-magazine/department-of-flying-saucers-2294791/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/air-space-magazine/department-of-flying-saucers-2294791/</a>  
+   Link:<a href="https://www.smithsonianmag.com/air-space-magazine/department-of-flying-saucers-2294791/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/air-space-magazine/department-of-flying-saucers-2294791/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/339886820_Do_extraordinary_claims_require_extraordinary_evidence_The_proper_role_of_Sagan%27s_dictum_in_astrobiology" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/339886820_Do_extraordinary_claims_require_extraordinary_evidence_The_proper_role_of_Sagan%27s_dictum_in_astrobiology</a>  
+   Link:<a href="https://www.researchgate.net/publication/339886820_Do_extraordinary_claims_require_extraordinary_evidence_The_proper_role_of_Sagan%27s_dictum_in_astrobiology" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/339886820_Do_extraordinary_claims_require_extraordinary_evidence_The_proper_role_of_Sagan%27s_dictum_in_astrobiology</a>  

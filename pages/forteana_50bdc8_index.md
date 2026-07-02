@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /forteana-50bdc8-index/
 description: Focused pages that expand on Forteana.
-date: '2026-07-01'
+date: '2026'
 layout: default
 parent_basename: forteana_50bdc8
 parent_title: Forteana
@@ -16,7 +16,7 @@ parent_permalink: /forteana/
 
 # Explore Topics in Forteana
 
-The following pages expand on the main **[Forteana]({{ '/forteana/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Forteana]({{ '/forteana/' | relative_url }})** page and cover its key branches in.
 
 - [Animal Falls]({{ '/animal-falls/' | relative_url }})
 - [Anomalistics]({{ '/anomalistics/' | relative_url }})

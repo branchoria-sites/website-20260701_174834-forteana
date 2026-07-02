@@ -280,17 +280,17 @@ image: /assets/images/forteana_50bdc8_charles_fort_damned_42d28d_falling_animals
 
 ## Introduction
 
-Reports of frogs, fish and other small animals falling from the sky became the most recognisable examples in [Charles Fort]({{ 'charles-fort/' | relative_url }})'s collection of "[damned facts]({{ 'damned-facts/' | relative_url }})". Their importance was never simply that they were strange. Rather, they exposed what Fort regarded as a deeper problem: when an event does not fit established categories, people often rush to force it into a familiar explanation or dismiss it altogether. In *The Book of the Damned* (1919), repeated accounts of animal falls became a testing ground for this argument. Fort was less interested in proving that animals literally descended from mysterious realms than in showing how awkward observations challenge the boundaries between accepted fact, folklore, meteorology and error. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/22472/22472-h/22472-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Project GutenbergThe Book of the DamnedFor instance, chemical analysis can reveal that almost any dead man was poisoned with arsenic, we&#x27;...</span></span></span>
+Reports of frogs, fish and other small animals falling from the sky became the most recognisable examples in [Charles Fort]({{ 'charles-fort/' | relative_url }})'s collection of "[damned facts]({{ 'damned-facts/' | relative_url }})". Their importance was never simply that they were strange. Rather, they exposed what Fort regarded as a deeper problem: when an event does not fit established categories, people often rush to force it into a familiar explanation or dismiss it altogether. In *The Book of the Damned* (1919), repeated accounts of animal falls became a testing ground for this argument. Fort was less interested in proving that animals literally descended from mysterious realms than in showing how awkward observations challenge the boundaries between accepted fact, folklore, meteorology and error.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/22472/22472-h/22472-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Project GutenbergThe Book of the DamnedFor instance, chemical analysis can reveal that almost any dead man was poisoned with arsenic, we&#x27;...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_charles_fort_damned_42d28d_falling_animals_fort_b9a80d-Illustration-1-dark.svg" | relative_url }}" alt="Falling Animals illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_charles_fort_damned_42d28d_falling_animals_fort_b9a80d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_charles_fort_damned_42d28d_falling_animals_fort_b9a80d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why sky falls mattered to Fort
 
-Fort's books contain dozens of reports of fish, frogs, worms, jelly-like substances and other biological material allegedly falling during rainstorms. Many came from [newspapers]({{ 'newspapers/' | relative_url }}), scientific journals and local correspondents rather than occult literature, a choice that was central to his method. By collecting reports that had already appeared in respectable publications, he could ask why they rarely became part of mainstream scientific discussion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/22472/22472-h/22472-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Project GutenbergThe Book of the DamnedFor instance, chemical analysis can reveal that almost any dead man was poisoned with arsenic, we&#x27;...</span></span></span>
+Fort's books contain dozens of reports of fish, frogs, worms, jelly-like substances and other biological material allegedly falling during rainstorms. Many came from [newspapers]({{ 'newspapers/' | relative_url }}), scientific journals and local correspondents rather than occult literature, a choice that was central to his method. By collecting reports that had already appeared in respectable publications, he could ask why they rarely became part of mainstream scientific discussion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/22472/22472-h/22472-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Project GutenbergThe Book of the DamnedFor instance, chemical analysis can reveal that almost any dead man was poisoned with arsenic, we&#x27;...</span></span></span>
 
-A frequently repeated example was an 1873 report from Kansas City describing a shower of frogs that supposedly "darkened the air". Fort juxtaposed this with numerous similar accounts from Europe and North America, not because any single case was conclusive, but because the accumulation itself became his argument. If independent observers repeatedly described similar events across decades, he believed they deserved more attention than they usually received. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.livescience.com/44760-raining-frogs.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">me, &quot;The Book of the Damned&quot;: Any number of small animals have been</span><span class="citation-popover-snippet">Live ScienceRaining Frogs &amp; Fish: A Whirlwind of TheoriesApril 11, 2014 — 10 Apr 2014 — Charles Fort was an early collector of reports ab...</span><span class="citation-popover-meta">Published: April 11, 2014</span></span></span>
+A frequently repeated example was an 1873 report from Kansas City describing a shower of frogs that supposedly "darkened the air". Fort juxtaposed this with numerous similar accounts from Europe and North America, not because any single case was conclusive, but because the accumulation itself became his argument. If independent observers repeatedly described similar events across decades, he believed they deserved more attention than they usually received.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.livescience.com/44760-raining-frogs.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">me, &quot;The Book of the Damned&quot;: Any number of small animals have been</span><span class="citation-popover-snippet">Live ScienceRaining Frogs &amp; Fish: A Whirlwind of TheoriesApril 11, 2014 — 10 Apr 2014 — Charles Fort was an early collector of reports ab...</span><span class="citation-popover-meta">Published: April 11, 2014</span></span></span>
 
-This illustrates a characteristic feature of Fortean thinking. Instead of treating each report as an isolated curiosity, Fort arranged them into patterns that challenged conventional classification. The emphasis shifted from asking, "Did this exact frog shower happen exactly as described?" to asking, "Why do reports like this keep recurring, and why are they so difficult to fit into existing categories?" <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publicdomainreview.org/essay/charles-fort-and-the-book-of-the-damned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publicdomainreview.org">[The Public Domain Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publicdomainreview.org</span><span class="citation-popover-title">charles fort and the book of the damned</span><span class="citation-popover-snippet">The Public Domain ReviewStrange Gods: Charles Fort&#x27;s Book of the Damned (1919)26 Nov 2024 — Rains of blood and frogs, mysterious disappea...</span></span></span>
+This illustrates a characteristic feature of Fortean thinking. Instead of treating each report as an isolated curiosity, Fort arranged them into patterns that challenged conventional classification. The emphasis shifted from asking, "Did this exact frog shower happen exactly as described?" to asking, "Why do reports like this keep recurring, and why are they so difficult to fit into existing categories?"<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publicdomainreview.org/essay/charles-fort-and-the-book-of-the-damned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publicdomainreview.org">[The Public Domain Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publicdomainreview.org</span><span class="citation-popover-title">charles fort and the book of the damned</span><span class="citation-popover-snippet">The Public Domain ReviewStrange Gods: Charles Fort&#x27;s Book of the Damned (1919)26 Nov 2024 — Rains of blood and frogs, mysterious disappea...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZDUcA3h5p9M" title="The Book of the Damned (1/2) 🌟 By Charles Fort. FULL Audiobook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZDUcA3h5p9M" target="_blank" rel="noopener noreferrer">The Book of the Damned (1/2) 🌟 By Charles Fort. FULL Audiobook</a></p><p class="youtube-embed-meta">Channel: Audiobooks. Full length, free</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZDUcA3h5p9M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZDUcA3h5p9M">Open on YouTube</a></p></div></div></div>
@@ -299,7 +299,7 @@ This illustrates a characteristic feature of Fortean thinking. Instead of treati
 
 Modern science does not regard most reports of falling animals as evidence for unknown forces. Instead, several natural mechanisms can account for at least some well-documented cases.
 
-The best-supported explanation involves waterspouts or tornado-like vortices. Powerful rotating columns of air can lift lightweight aquatic animals from ponds, rivers or shallow coastal waters and transport them some distance before depositing them elsewhere. This explains why many reported falls involve only [one species]({{ 'one-species/' | relative_url }}) of fish or frog and often occur during severe weather. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/meteorology-climatology/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress+2centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">can it rain frogs fish and other objects</span><span class="citation-popover-snippet">The Library of CongressCan it rain frogs, fish, and other objects?Many scientists believe tornadic waterspouts may be responsible for fro...</span></span></span>
+The best-supported explanation involves waterspouts or tornado-like vortices. Powerful rotating columns of air can lift lightweight aquatic animals from ponds, rivers or shallow coastal waters and transport them some distance before depositing them elsewhere. This explains why many reported falls involve only [one species]({{ 'one-species/' | relative_url }}) of fish or frog and often occur during severe weather.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/meteorology-climatology/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress+2centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">can it rain frogs fish and other objects</span><span class="citation-popover-snippet">The Library of CongressCan it rain frogs, fish, and other objects?Many scientists believe tornadic waterspouts may be responsible for fro...</span></span></span>
 
 Other cases may arise through different mechanisms:
 
@@ -309,11 +309,11 @@ Other cases may arise through different mechanisms:
 * Birds sometimes drop or regurgitate fish while flying.
 * Heavy rain can suddenly reveal animals already present on the ground, creating the illusion that they have fallen from the sky.
 * Eyewitnesses may exaggerate unusual events, while newspapers historically favoured dramatic reporting.
-* Separate incidents may become merged through retelling until they appear more mysterious than the original observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rain_of_animals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rain of animals</span><span class="citation-popover-snippet">Rain of animals</span></span></span>
+* Separate incidents may become merged through retelling until they appear more mysterious than the original observations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rain_of_animals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rain of animals</span><span class="citation-popover-snippet">Rain of animals</span></span></span>
 
 </div>
 
-Importantly, these explanations do not eliminate every historical report. Many older accounts lack enough detail to determine exactly what happened. For Fort, that uncertainty itself was revealing. He argued that science too often moved directly from "insufficient evidence" to "nothing happened", whereas he preferred to leave some cases unresolved until better evidence existed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/22472/22472-h/22472-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Project GutenbergThe Book of the DamnedFor instance, chemical analysis can reveal that almost any dead man was poisoned with arsenic, we&#x27;...</span></span></span>
+Importantly, these explanations do not eliminate every historical report. Many older accounts lack enough detail to determine exactly what happened. For Fort, that uncertainty itself was revealing. He argued that science too often moved directly from "insufficient evidence" to "nothing happened", whereas he preferred to leave some cases unresolved until better evidence existed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/22472/22472-h/22472-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Project GutenbergThe Book of the DamnedFor instance, chemical analysis can reveal that almost any dead man was poisoned with arsenic, we&#x27;...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_charles_fort_damned_42d28d_falling_animals_fort_b9a80d-Illustration-2-dark.svg" | relative_url }}" alt="Falling Animals illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_charles_fort_damned_42d28d_falling_animals_fort_b9a80d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_charles_fort_damned_42d28d_falling_animals_fort_b9a80d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -333,11 +333,11 @@ Imagine encountering hundreds of frogs scattered across a road immediately after
 
 </div>
 
-Fort argued that the choice among these categories often occurred before the evidence had been fully examined. Once an event entered the label of "mistake" or "folklore", it effectively disappeared from scientific discussion. It became one of the "damned" facts excluded from respectable knowledge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/22472/22472-h/22472-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Project GutenbergThe Book of the DamnedFor instance, chemical analysis can reveal that almost any dead man was poisoned with arsenic, we&#x27;...</span></span></span>
+Fort argued that the choice among these categories often occurred before the evidence had been fully examined. Once an event entered the label of "mistake" or "folklore", it effectively disappeared from scientific discussion. It became one of the "damned" facts excluded from respectable knowledge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/files/22472/22472-h/22472-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Project GutenbergThe Book of the DamnedFor instance, chemical analysis can reveal that almost any dead man was poisoned with arsenic, we&#x27;...</span></span></span>
 
 This is why rains of frogs became such powerful Fortean icons. They sit precisely at the boundary between the ordinary and the extraordinary. Modern meteorology can plausibly explain many examples, yet individual reports vary widely in quality, leaving some impossible to verify or confidently reconstruct. The phenomenon therefore illustrates the tension between incomplete evidence and the human desire for tidy explanations.
 
-Fort himself occasionally speculated about highly unconventional possibilities, including fantastical ideas such as a "Super-Sargasso Sea" where lost objects accumulated before returning to Earth. Most historians of his work interpret these proposals less as settled beliefs than as provocative thought experiments intended to expose the confidence with which conventional explanations were accepted. His larger point remained methodological rather than literal: if every anomaly is explained away too quickly, opportunities to improve understanding may be lost. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Book_of_the_Damned" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2The Public Domain Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Book of the Damned</span><span class="citation-popover-snippet">The Book of the Damned</span></span></span>
+Fort himself occasionally speculated about highly unconventional possibilities, including fantastical ideas such as a "Super-Sargasso Sea" where lost objects accumulated before returning to Earth. Most historians of his work interpret these proposals less as settled beliefs than as provocative thought experiments intended to expose the confidence with which conventional explanations were accepted. His larger point remained methodological rather than literal: if every anomaly is explained away too quickly, opportunities to improve understanding may be lost.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Book_of_the_Damned" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2The Public Domain Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Book of the Damned</span><span class="citation-popover-snippet">The Book of the Damned</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dCuIjx4QYoo" title="Book Of The Damned, by Charles Hoy Fort, Part 1, Chapters 1-14, Full Length Audiobook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dCuIjx4QYoo" target="_blank" rel="noopener noreferrer">Book Of The Damned, by Charles Hoy Fort, Part 1, Chapters 1-14, Full Length Audiobook</a></p><p class="youtube-embed-meta">Channel: The Classic Archives Old Time Radio Channel</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dCuIjx4QYoo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dCuIjx4QYoo">Open on YouTube</a></p></div></div></div>
@@ -349,200 +349,200 @@ Fort himself occasionally speculated about highly unconventional possibilities, 
 
 Among all of Fort's examples, falling animals proved especially memorable because they combine vivid imagery with an accessible philosophical puzzle. Almost anyone can imagine the surprise of finding fish on a street after a storm. The event demands classification: is it weather, biology, coincidence, reporting error or something genuinely unexplained?
 
-That immediate uncertainty captures the essence of [Forteana]({{ 'forteana/' | relative_url }}). The stories endure not because they demonstrate the paranormal, but because they reveal how knowledge is organised. Falling frogs became symbols of Fort's challenge to rigid systems of thought precisely because they resist easy placement. Even when later scientific explanations solve many individual cases, the broader lesson remains: anomalous reports deserve careful investigation before they are either embraced as marvels or discarded as impossibilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publicdomainreview.org/essay/charles-fort-and-the-book-of-the-damned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publicdomainreview.org">[The Public Domain Review+2centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publicdomainreview.org</span><span class="citation-popover-title">charles fort and the book of the damned</span><span class="citation-popover-snippet">The Public Domain ReviewStrange Gods: Charles Fort&#x27;s Book of the Damned (1919)26 Nov 2024 — Rains of blood and frogs, mysterious disappea...</span></span></span>
+That immediate uncertainty captures the essence of [Forteana]({{ 'forteana/' | relative_url }}). The stories endure not because they demonstrate the paranormal, but because they reveal how knowledge is organised. Falling frogs became symbols of Fort's challenge to rigid systems of thought precisely because they resist easy placement. Even when later scientific explanations solve many individual cases, the broader lesson remains: anomalous reports deserve careful investigation before they are either embraced as marvels or discarded as impossibilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publicdomainreview.org/essay/charles-fort-and-the-book-of-the-damned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publicdomainreview.org">[The Public Domain Review+2centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publicdomainreview.org</span><span class="citation-popover-title">charles fort and the book of the damned</span><span class="citation-popover-snippet">The Public Domain ReviewStrange Gods: Charles Fort&#x27;s Book of the Damned (1919)26 Nov 2024 — Rains of blood and frogs, mysterious disappea...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_charles_fort_damned_42d28d_falling_animals_fort_b9a80d-Illustration-3-dark.svg" | relative_url }}" alt="Falling Animals illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_charles_fort_damned_42d28d_falling_animals_fort_b9a80d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_charles_fort_damned_42d28d_falling_animals_fort_b9a80d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Falling Frogs Became Fortean Icons. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Falling Frogs Became Fortean Icons. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
-        </h4>
-        <p class="fr-book-author">By Charles Fort</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
+</h4>
+<p class="fr-book-author">By Charles Fort</p>
         
-        <p class="fr-book-desc">Primary source for Fort&#x27;s discussion of falling animals.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Primary source for Fort&#x27;s discussion of falling animals.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Provides tools for evaluating remarkable reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides tools for evaluating remarkable reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Explores recurring extraordinary beliefs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Explores recurring extraordinary beliefs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Lo%21+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lo! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/875394-M.jpg" alt="Cover for Lo!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Lo%21+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lo!">Lo!</a>
-        </h4>
-        <p class="fr-book-author">By Charles Fort</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Lo%21+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lo! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/875394-M.jpg" alt="Cover for Lo!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Lo%21+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lo!">Lo!</a>
+</h4>
+<p class="fr-book-author">By Charles Fort</p>
         
-        <p class="fr-book-desc">First published 1931. Subjects: Miscellanea, Science.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Lo%21+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1931. Subjects: Miscellanea, Science.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Lo%21+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fort Savage Raiders 1950 Original Columbia Western Movie Poster Charles Starrett"><img src="{{ '/assets/images/marketplace-covers/1c3213463c0985445320.jpg' | relative_url }}" alt="Listing image for Fort Savage Raiders 1950 Original Columbia Western Movie Poster Charles Starrett" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer">Fort Savage Raiders 1950 Original Columbia Western Movie Poster Charles Starrett</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Charles Fort poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Charles Fort poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fort Savage Raiders 1950 Original Columbia Western Movie Poster Charles Starrett"><img src="{{ '/assets/images/marketplace-covers/1c3213463c0985445320.jpg' | relative_url }}" alt="Listing image for Fort Savage Raiders 1950 Original Columbia Western Movie Poster Charles Starrett" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer">Fort Savage Raiders 1950 Original Columbia Western Movie Poster Charles Starrett</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Charles Fort poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Charles Fort poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FORT SAVAGE RAIDERS 1951 Charles Starrett, Smiley Burnette US 1-SHEET POSTER"><img src="{{ '/assets/images/marketplace-covers/6f64e015a25167c90ce3.jpg' | relative_url }}" alt="Listing image for FORT SAVAGE RAIDERS 1951 Charles Starrett, Smiley Burnette US 1-SHEET POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer">FORT SAVAGE RAIDERS 1951 Charles Starrett, Smiley Burnette US 1-SHEET POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Charles Fort poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Charles Fort poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FORT SAVAGE RAIDERS 1951 Charles Starrett, Smiley Burnette US 1-SHEET POSTER"><img src="{{ '/assets/images/marketplace-covers/6f64e015a25167c90ce3.jpg' | relative_url }}" alt="Listing image for FORT SAVAGE RAIDERS 1951 Charles Starrett, Smiley Burnette US 1-SHEET POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer">FORT SAVAGE RAIDERS 1951 Charles Starrett, Smiley Burnette US 1-SHEET POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Charles Fort poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Charles Fort poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Charles Wesley Godwin Fort Worth Texas September 20 2025 Poster"><img src="{{ '/assets/images/marketplace-covers/c6b57ec8abcffcb0235d.jpg' | relative_url }}" alt="Listing image for Charles Wesley Godwin Fort Worth Texas September 20 2025 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer">Charles Wesley Godwin Fort Worth Texas September 20 2025 Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Charles Fort poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Charles Fort poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Charles Wesley Godwin Fort Worth Texas September 20 2025 Poster"><img src="{{ '/assets/images/marketplace-covers/c6b57ec8abcffcb0235d.jpg' | relative_url }}" alt="Listing image for Charles Wesley Godwin Fort Worth Texas September 20 2025 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer">Charles Wesley Godwin Fort Worth Texas September 20 2025 Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Charles Fort poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Charles Fort poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Charles Wesley Godwin Fort Worth Texas September 20 2025 Poster"><img src="{{ '/assets/images/marketplace-covers/56569d7478de65de310d.jpg' | relative_url }}" alt="Listing image for Charles Wesley Godwin Fort Worth Texas September 20 2025 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer">Charles Wesley Godwin Fort Worth Texas September 20 2025 Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Charles Fort poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Charles Fort poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Charles Wesley Godwin Fort Worth Texas September 20 2025 Poster"><img src="{{ '/assets/images/marketplace-covers/56569d7478de65de310d.jpg' | relative_url }}" alt="Listing image for Charles Wesley Godwin Fort Worth Texas September 20 2025 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer">Charles Wesley Godwin Fort Worth Texas September 20 2025 Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Charles Fort poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Charles Fort poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="falling-animals-why-falling-frogs-became-fortean-icons-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -558,7 +558,7 @@ That immediate uncertainty captures the essence of [Forteana]({{ 'forteana/' | r
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -578,7 +578,7 @@ That immediate uncertainty captures the essence of [Forteana]({{ 'forteana/' | r
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -610,7 +610,7 @@ That immediate uncertainty captures the essence of [Forteana]({{ 'forteana/' | r
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -662,7 +662,7 @@ That immediate uncertainty captures the essence of [Forteana]({{ 'forteana/' | r
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -707,7 +707,7 @@ That immediate uncertainty captures the essence of [Forteana]({{ 'forteana/' | r
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -748,119 +748,119 @@ That immediate uncertainty captures the essence of [Forteana]({{ 'forteana/' | r
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/files/22472/22472-h/22472-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/22472/22472-h/22472-h.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project GutenbergThe Book of the DamnedFor instance, chemical analysis can reveal that almost any dead man was poisoned with arsenic, we&#x27;...</p></details>
+   Link:<a href="https://www.gutenberg.org/files/22472/22472-h/22472-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/22472/22472-h/22472-h.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project GutenbergThe Book of the DamnedFor instance, chemical analysis can reveal that almost any dead man was poisoned with arsenic, we&#x27;...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: centerforinquiry.org  
    Title: frog falls and fallacies  
-   Link: <a href="https://centerforinquiry.org/blog/frog_falls_and_fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.org/blog/frog_falls_and_fallacies/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Nov 2014 — The most likely explanation for how small frogs get up into the sky in the first place is meteorological: a whirlwind, torn...</p></details>
+   Link:<a href="https://centerforinquiry.org/blog/frog_falls_and_fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.org/blog/frog_falls_and_fallacies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>18 Nov 2014 — The most likely explanation for how small frogs get up into the sky in the first place is meteorological: a whirlwind, torn...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Rain of animals  
-   Link: <a href="https://en.wikipedia.org/wiki/Rain_of_animals" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rain_of_animals</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Rain_of_animals" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rain_of_animals</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: [The Book](&#123;&#123; 'the-book/' | relative_url &#125;&#125;) of the Damned  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Book_of_the_Damned" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Book_of_the_Damned</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Book_of_the_Damned" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Book_of_the_Damned</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/ebooks/22472" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/ebooks/22472</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Book of the Damned by Charles Fort&quot;The Book of the Damned&quot; by Charles Fort is a nonfiction work published in 1919. Fort catalogs anom...</p></details>
+   Link:<a href="https://www.gutenberg.org/ebooks/22472" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/ebooks/22472</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Book of the Damned by Charles Fort&quot;The Book of the Damned&quot; by Charles Fort is a nonfiction work published in 1919. Fort catalogs anom...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: publicdomainreview.org  
    Title: charles fort and the book of the damned  
-   Link: <a href="https://publicdomainreview.org/essay/charles-fort-and-the-book-of-the-damned/" target="_blank" rel="noopener noreferrer nofollow">https://publicdomainreview.org/essay/charles-fort-and-the-book-of-the-damned/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Public Domain ReviewStrange Gods: Charles Fort&#x27;s Book of the Damned (1919)26 Nov 2024 — Rains of blood and frogs, mysterious disappea...</p></details>
+   Link:<a href="https://publicdomainreview.org/essay/charles-fort-and-the-book-of-the-damned/" target="_blank" rel="noopener noreferrer nofollow">https://publicdomainreview.org/essay/charles-fort-and-the-book-of-the-damned/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Public Domain ReviewStrange Gods: Charles Fort&#x27;s Book of the Damned (1919)26 Nov 2024 — Rains of blood and frogs, mysterious disappea...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: livescience.com  
    Title: me, "The Book of the Damned": Any number of small animals have been  
-   Link: <a href="https://www.livescience.com/44760-raining-frogs.html" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/44760-raining-frogs.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Live ScienceRaining Frogs &amp; Fish: A Whirlwind of TheoriesApril 11, 2014 — 10 Apr 2014 — Charles Fort was an early collector of reports ab...</p></details>
+   Link:<a href="https://www.livescience.com/44760-raining-frogs.html" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/44760-raining-frogs.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Live ScienceRaining Frogs &amp; Fish: A Whirlwind of TheoriesApril 11, 2014 — 10 Apr 2014 — Charles Fort was an early collector of reports ab...</p></details>
    Published: April 11, 2014  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: loc.gov  
    Title: can it rain frogs fish and other objects  
-   Link: <a href="https://www.loc.gov/everyday-mysteries/meteorology-climatology/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/everyday-mysteries/meteorology-climatology/item/can-it-rain-frogs-fish-and-other-objects/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Library of CongressCan it rain frogs, fish, and other objects?Many scientists believe tornadic waterspouts may be responsible for fro...</p></details>
+   Link:<a href="https://www.loc.gov/everyday-mysteries/meteorology-climatology/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/everyday-mysteries/meteorology-climatology/item/can-it-rain-frogs-fish-and-other-objects/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Library of CongressCan it rain frogs, fish, and other objects?Many scientists believe tornadic waterspouts may be responsible for fro...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: steveawiggins.com  
    Title: charles fort  
-   Link: <a href="https://steveawiggins.com/tag/charles-fort/" target="_blank" rel="noopener noreferrer nofollow">https://steveawiggins.com/tag/charles-fort/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Jun 2018 — Charles Fort, the great anomalist, is perhaps most famous for his irrepressible insistence that rains of fish had a more exo...</p></details>
+   Link:<a href="https://steveawiggins.com/tag/charles-fort/" target="_blank" rel="noopener noreferrer nofollow">https://steveawiggins.com/tag/charles-fort/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1 Jun 2018 — Charles Fort, the great anomalist, is perhaps most famous for his irrepressible insistence that rains of fish had a more exo...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: mitch-horowitz-nyc.medium.com  
    Title: philosopher of the damned 1bde85bd3c5c  
-   Link: <a href="https://mitch-horowitz-nyc.medium.com/philosopher-of-the-damned-1bde85bd3c5c" target="_blank" rel="noopener noreferrer nofollow">https://mitch-horowitz-nyc.medium.com/philosopher-of-the-damned-1bde85bd3c5c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of the Damned - Mitch Horowitz - MediumThe enduring work of paranormalist writer Charles Fort (1874–1932) served to poke holes in the str...</p></details>
+   Link:<a href="https://mitch-horowitz-nyc.medium.com/philosopher-of-the-damned-1bde85bd3c5c" target="_blank" rel="noopener noreferrer nofollow">https://mitch-horowitz-nyc.medium.com/philosopher-of-the-damned-1bde85bd3c5c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of the Damned - Mitch Horowitz - MediumThe enduring work of paranormalist writer Charles Fort (1874–1932) served to poke holes in the str...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: lithub.com  
    Title: in praise of the paranormal curiosity of charles fort patron saint of cranks  
-   Link: <a href="https://lithub.com/in-praise-of-the-paranormal-curiosity-of-charles-fort-patron-saint-of-cranks/" target="_blank" rel="noopener noreferrer nofollow">https://lithub.com/in-praise-of-the-paranormal-curiosity-of-charles-fort-patron-saint-of-cranks/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In Praise of the Paranormal Curiosity of Charles Fort...10 Jun 2024 — Scientific American would report that there rained a “shower of f...</p></details>
+   Link:<a href="https://lithub.com/in-praise-of-the-paranormal-curiosity-of-charles-fort-patron-saint-of-cranks/" target="_blank" rel="noopener noreferrer nofollow">https://lithub.com/in-praise-of-the-paranormal-curiosity-of-charles-fort-patron-saint-of-cranks/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In Praise of the Paranormal Curiosity of Charles Fort...10 Jun 2024 — Scientific American would report that there rained a “shower of f...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pearl-hifi.com  
    Title: Charles Fort The Fortean Collection The Book of The Damned  
-   Link: <a href="https://pearl-hifi.com/11_Spirited_Growth/01_Books/Fort_Charles/Charles_Fort_The_Fortean_Collection__The_Book_of_The_Damned.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pearl-hifi.com/11_Spirited_Growth/01_Books/Fort_Charles/Charles_Fort_The_Fortean_Collection__The_Book_of_The_Damned.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Book of The Damned, New Lands, LO!, Wild Talents...8 Feb 2024 — The aggregate appearance is of dignity and dissoluteness: the aggre...</p></details>
+   Link:<a href="https://pearl-hifi.com/11_Spirited_Growth/01_Books/Fort_Charles/Charles_Fort_The_Fortean_Collection__The_Book_of_The_Damned.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pearl-hifi.com/11_Spirited_Growth/01_Books/Fort_Charles/Charles_Fort_The_Fortean_Collection__The_Book_of_The_Damned.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Book of The Damned, New Lands, LO!, Wild Talents...8 Feb 2024 — The aggregate appearance is of dignity and dissoluteness: the aggre...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pearl-hifi.com  
-   Link: <a href="https://pearl-hifi.com/11_Spirited_Growth/01_Books/Fort_Charles/Charles_Fort_The_Complete_Books_of_Charles_Fort.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pearl-hifi.com/11_Spirited_Growth/01_Books/Fort_Charles/Charles_Fort_The_Complete_Books_of_Charles_Fort.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Complete Books of Charles FortThe individual books by Fort were originally published as follows: The Book of the Damned...</p></details>
+   Link:<a href="https://pearl-hifi.com/11_Spirited_Growth/01_Books/Fort_Charles/Charles_Fort_The_Complete_Books_of_Charles_Fort.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pearl-hifi.com/11_Spirited_Growth/01_Books/Fort_Charles/Charles_Fort_The_Complete_Books_of_Charles_Fort.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Complete Books of Charles FortThe individual books by Fort were originally published as follows: The Book of the Damned...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: time.com  
    Title: animals have actually rained from the sky  
-   Link: <a href="https://time.com/28894/animals-have-actually-rained-from-the-sky/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/28894/animals-have-actually-rained-from-the-sky/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Mar 2014 — Modern Farmer magazine reports that animals have actually rained from the sky, including fish, frogs, and snakes. Sharknado...</p></details>
+   Link:<a href="https://time.com/28894/animals-have-actually-rained-from-the-sky/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/28894/animals-have-actually-rained-from-the-sky/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>18 Mar 2014 — Modern Farmer magazine reports that animals have actually rained from the sky, including fish, frogs, and snakes. Sharknado...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: almanac.com  
    Title: Why Does It Rain Frogs, Worms, and Bugs?  
-   Link: <a href="https://www.almanac.com/can-it-rain-frogs-and-spiders" target="_blank" rel="noopener noreferrer nofollow">https://www.almanac.com/can-it-rain-frogs-and-spiders</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science...10 Apr 2026 — When the storm loses its energy and the pressure drops, the clouds will release rain—as well as frogs and sm...</p></details>
+   Link:<a href="https://www.almanac.com/can-it-rain-frogs-and-spiders" target="_blank" rel="noopener noreferrer nofollow">https://www.almanac.com/can-it-rain-frogs-and-spiders</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Science...10 Apr 2026 — When the storm loses its energy and the pressure drops, the clouds will release rain—as well as frogs and sm...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: roccioletti.com  
-   Link: <a href="https://roccioletti.com/wp-content/uploads/2019/07/charles-fort-the-book-of-damned.pdf" target="_blank" rel="noopener noreferrer nofollow">https://roccioletti.com/wp-content/uploads/2019/07/charles-fort-the-book-of-damned.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE BOOK OF THE DAMNEDby C FORT · Cited by 162 — a storm of glutinous drops neither jelly fish nor masses of frog spawn, but something of...</p></details>
+   Link:<a href="https://roccioletti.com/wp-content/uploads/2019/07/charles-fort-the-book-of-damned.pdf" target="_blank" rel="noopener noreferrer nofollow">https://roccioletti.com/wp-content/uploads/2019/07/charles-fort-the-book-of-damned.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE BOOK OF THE DAMNEDby C FORT · Cited by 162 — a storm of glutinous drops neither jelly fish nor masses of frog spawn, but something of...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: blog.education.nationalgeographic.org  
    Title: fish rain down on sri lankan village  
-   Link: <a href="https://blog.education.nationalgeographic.org/2014/05/07/fish-rain-down-on-sri-lankan-village/" target="_blank" rel="noopener noreferrer nofollow">https://blog.education.nationalgeographic.org/2014/05/07/fish-rain-down-on-sri-lankan-village/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rain Down on Sri Lankan Village7 May 2014 — Animal rain is the result of drastic changes in temperature, humidity, and wind speed. The re...</p></details>
+   Link:<a href="https://blog.education.nationalgeographic.org/2014/05/07/fish-rain-down-on-sri-lankan-village/" target="_blank" rel="noopener noreferrer nofollow">https://blog.education.nationalgeographic.org/2014/05/07/fish-rain-down-on-sri-lankan-village/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rain Down on Sri Lankan Village7 May 2014 — Animal rain is the result of drastic changes in temperature, humidity, and wind speed. The re...</p></details>
    Published: May 2014  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/PDHeroes/posts/8753391634729564/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/PDHeroes/posts/8753391634729564/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s a naturalistic explanation of the...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/PDHeroes/posts/8753391634729564/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/PDHeroes/posts/8753391634729564/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s a naturalistic explanation of the...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: lsop.colostate.edu  
    Title: Can it really rain fish and frogs?  
-   Link: <a href="https://www.lsop.colostate.edu/wp-content/uploads/sites/6/2014/10/FishAndFrogs1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lsop.colostate.edu/wp-content/uploads/sites/6/2014/10/FishAndFrogs1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Little Shop of PhysicsIt can&#x27;t rain cats and dogs, but it can rain fish and frogs—though some extreme weather is involved! The culprit is...</p></details>
+   Link:<a href="https://www.lsop.colostate.edu/wp-content/uploads/sites/6/2014/10/FishAndFrogs1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lsop.colostate.edu/wp-content/uploads/sites/6/2014/10/FishAndFrogs1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Little Shop of PhysicsIt can&#x27;t rain cats and dogs, but it can rain fish and frogs—though some extreme weather is involved! The culprit is...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: windy.app  
    Title: What is animal rain and how do it occur  
-   Link: <a href="https://windy.app/textbook/what-is-animal-rain.html" target="_blank" rel="noopener noreferrer nofollow">https://windy.app/textbook/what-is-animal-rain.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>scientific hypothesis suggests that most fish and [frog rains](&amp;#123;&amp;#123; &#x27;frog-rains/&#x27; | relative_url &amp;#125;&amp;#125;) are linked to waterspouts or tornadoes.Read more...</p></details>
+   Link:<a href="https://windy.app/textbook/what-is-animal-rain.html" target="_blank" rel="noopener noreferrer nofollow">https://windy.app/textbook/what-is-animal-rain.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>scientific hypothesis suggests that most fish and [frog rains](&amp;#123;&amp;#123; &#x27;frog-rains/&#x27; | relative_url &amp;#125;&amp;#125;) are linked to waterspouts or tornadoes.Read more...</p></details>

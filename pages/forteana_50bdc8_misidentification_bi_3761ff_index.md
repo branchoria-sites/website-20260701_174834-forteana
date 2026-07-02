@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /forteana-50bdc8-misidentification-bi/
 description: Focused pages that expand on Mistakes.
-date: '2026-07-01'
+date: '2026'
 layout: default
 parent_basename: forteana_50bdc8_misidentification_bi_3761ff
 parent_title: Mistakes
@@ -16,7 +16,7 @@ parent_permalink: /mistakes/
 
 # Explore Topics in Mistakes
 
-The following pages expand on the main **[Mistakes]({{ '/mistakes/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Mistakes]({{ '/mistakes/' | relative_url }})** page and cover its key branches in.
 
 - [Balloon UAPs]({{ '/balloon-uaps/' | relative_url }})
 - [Bird Monsters]({{ '/bird-monsters/' | relative_url }})

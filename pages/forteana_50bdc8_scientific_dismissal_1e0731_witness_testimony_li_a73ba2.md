@@ -274,7 +274,7 @@ image: /assets/images/forteana_50bdc8_scientific_dismissal_1e0731_witness_testim
 
 ## Introduction
 
-Many anomalous claims begin with someone reporting something they genuinely believe they saw. Within Forteana, that simple fact is often overlooked in two opposite ways: sceptics may dismiss witnesses because the claim sounds unusual, while believers may treat sincerity as proof that an extraordinary event occurred. Neither conclusion follows. A person can be completely honest and still misperceive distance, speed, scale, lighting or sequence, while an unusual [observation]({{ 'observation/' | relative_url }}) can also contain accurate details worth preserving. The challenge is not deciding whether a witness is truthful or deceptive, but separating the reliability of the observation from the interpretation placed upon it. Modern [psychology]({{ 'psychology/' | relative_url }}), investigative practice and recent guidance on unidentified anomalous phenomena all support the same principle: careful documentation should come before confident explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</span></span></span>
+Many anomalous claims begin with someone reporting something they genuinely believe they saw. Within Forteana, that simple fact is often overlooked in two opposite ways: sceptics may dismiss witnesses because the claim sounds unusual, while believers may treat sincerity as proof that an extraordinary event occurred. Neither conclusion follows. A person can be completely honest and still misperceive distance, speed, scale, lighting or sequence, while an unusual [observation]({{ 'observation/' | relative_url }}) can also contain accurate details worth preserving. The challenge is not deciding whether a witness is truthful or deceptive, but separating the reliability of the observation from the interpretation placed upon it. Modern [psychology]({{ 'psychology/' | relative_url }}), investigative practice and recent guidance on unidentified anomalous phenomena all support the same principle: careful documentation should come before confident explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_scientific_dismissal_1e0731_witness_testimony_li_a73ba2-Illustration-1-dark.svg" | relative_url }}" alt="Witnesses illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_scientific_dismissal_1e0731_witness_testimony_li_a73ba2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_scientific_dismissal_1e0731_witness_testimony_li_a73ba2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -292,7 +292,7 @@ Even when witnesses disagree about interpretation, they frequently preserve usef
 
 For investigators of unusual aerial sightings, mysterious lights or other Fortean reports, these descriptive details are often more valuable than a witness's explanation of what they believe they saw. A report that carefully distinguishes between "I observed a bright object changing direction" and "I saw an alien craft" preserves evidence while avoiding premature conclusions.
 
-NASA's independent study of unidentified anomalous phenomena explicitly recommends systematic reporting, improved observational data and reduced stigma surrounding reporting. The report argues that collecting observations consistently is more productive than dismissing witnesses or accepting extraordinary interpretations without supporting evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</span></span></span>
+NASA's independent study of unidentified anomalous phenomena explicitly recommends systematic reporting, improved observational data and reduced stigma surrounding reporting. The report argues that collecting observations consistently is more productive than dismissing witnesses or accepting extraordinary interpretations without supporting evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</span></span></span>
 
 ## Where perception and memory fail
 
@@ -305,15 +305,15 @@ The limitations of eyewitness testimony are not signs of dishonesty. They arise 
 
 Observers rarely [experience]({{ 'experience/' | relative_url }}) ideal viewing conditions. Distance compresses depth, darkness removes visual cues, atmospheric effects alter apparent motion, and unexpected events unfold quickly. A bright light against a dark sky provides few reference points, making size, speed and altitude particularly difficult to judge.
 
-Stress can also narrow attention. In criminal psychology this is illustrated by the well-studied "weapon focus" effect, where attention becomes concentrated on a threatening object at the expense of surrounding details. Although anomalous sightings differ greatly from crimes, the broader principle remains relevant: surprising events often reduce rather than improve overall observational accuracy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Eyewitness_identification" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Eyewitness identification</span><span class="citation-popover-snippet">Eyewitness identification</span></span></span>
+Stress can also narrow attention. In criminal psychology this is illustrated by the well-studied "weapon focus" effect, where attention becomes concentrated on a threatening object at the expense of surrounding details. Although anomalous sightings differ greatly from crimes, the broader principle remains relevant: surprising events often reduce rather than improve overall observational accuracy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Eyewitness_identification" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Eyewitness identification</span><span class="citation-popover-snippet">Eyewitness identification</span></span></span>
 
 ### Memory after the event
 
 Remembering is an active reconstruction rather than a replay of stored footage. Every recollection can be influenced by later conversations, media reports, repeated questioning or new assumptions.
 
-Research led by psychologists such as Elizabeth Loftus has repeatedly demonstrated the misinformation effect: subtle wording changes or misleading information introduced after an event can alter later recollections. People may become highly confident in details that were never originally observed. Confidence therefore cannot be treated as a direct measure of accuracy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Eyewitness_testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Eyewitness testimony</span><span class="citation-popover-snippet">Eyewitness testimony</span></span></span>
+Research led by psychologists such as Elizabeth Loftus has repeatedly demonstrated the misinformation effect: subtle wording changes or misleading information introduced after an event can alter later recollections. People may become highly confident in details that were never originally observed. Confidence therefore cannot be treated as a direct measure of accuracy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Eyewitness_testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Eyewitness testimony</span><span class="citation-popover-snippet">Eyewitness testimony</span></span></span>
 
-Memory can also become contaminated through social processes. Witnesses who discuss events together often converge on shared narratives, even when individual memories initially differed. More recently, studies have shown that searching social media after an event may unintentionally introduce new faces, images or assumptions into memory, making later identification less reliable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/390349912_The_Contaminating_Effect_of_Social_Media_on_Eyewitness_Memory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">The Contaminating Effect of Social Media on Eyewitness...Social media searches can alter eyewitness memory and reduce the re...</span></span></span>
+Memory can also become contaminated through social processes. Witnesses who discuss events together often converge on shared narratives, even when individual memories initially differed. More recently, studies have shown that searching social media after an event may unintentionally introduce new faces, images or assumptions into memory, making later identification less reliable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/390349912_The_Contaminating_Effect_of_Social_Media_on_Eyewitness_Memory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">The Contaminating Effect of Social Media on Eyewitness...Social media searches can alter eyewitness memory and reduce the re...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_scientific_dismissal_1e0731_witness_testimony_li_a73ba2-Illustration-2-dark.svg" | relative_url }}" alt="Witnesses illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_scientific_dismissal_1e0731_witness_testimony_li_a73ba2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_scientific_dismissal_1e0731_witness_testimony_li_a73ba2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -359,7 +359,7 @@ Established interviewing methods encourage investigators to:
 
 </div>
 
-The cognitive interview, developed from psychological research on eyewitness memory, aims to maximise accurate recall while reducing interviewer influence. Rather than supplying possible explanations, investigators encourage witnesses to reconstruct the original context and describe events in their own words. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cognitive_interview" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cognitive interview</span><span class="citation-popover-snippet">Cognitive interview</span></span></span>
+The cognitive interview, developed from psychological research on eyewitness memory, aims to maximise accurate recall while reducing interviewer influence. Rather than supplying possible explanations, investigators encourage witnesses to reconstruct the original context and describe events in their own words.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cognitive_interview" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cognitive interview</span><span class="citation-popover-snippet">Cognitive interview</span></span></span>
 
 Within [Forteana]({{ 'forteana/' | relative_url }}), these practices are especially valuable because many reports concern singular, unrepeatable events. Once memory becomes contaminated, the original observation may never be recoverable.
 
@@ -371,185 +371,185 @@ The weaknesses of eyewitness evidence do not make it worthless. Scientific histo
 
 The appropriate lesson is therefore balanced. Witness testimony alone rarely establishes an extraordinary claim, but it frequently identifies events deserving further investigation. A sincere witness contributes a data point rather than a verdict.
 
-This balanced position reflects both modern cognitive psychology and contemporary approaches to anomalous reports. Honest observation deserves respectful documentation, yet every account remains subject to the ordinary limits of human perception and memory. Those limits do not prove that an anomalous event was ordinary, nor do they justify assuming it was extraordinary. They simply define the evidential weight that eyewitness testimony can reasonably bear. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</span></span></span>
+This balanced position reflects both modern cognitive psychology and contemporary approaches to anomalous reports. Honest observation deserves respectful documentation, yet every account remains subject to the ordinary limits of human perception and memory. Those limits do not prove that an anomalous event was ordinary, nor do they justify assuming it was extraordinary. They simply define the evidential weight that eyewitness testimony can reasonably bear.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iAVQOL8g6iQ" title="NASA holds news brief on Unidentified Anomalous Phenomena (UAP) Independent Study Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iAVQOL8g6iQ" target="_blank" rel="noopener noreferrer">NASA holds news brief on Unidentified Anomalous Phenomena (UAP) Independent Study Report</a></p><p class="youtube-embed-meta">Channel: Yahoo Finance &middot; Views: 8.3K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iAVQOL8g6iQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iAVQOL8g6iQ">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Sincere Witnesses Can Still Be Wrong. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Sincere Witnesses Can Still Be Wrong. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Eyewitness Testimony on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WgcsAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Eyewitness Testimony" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Eyewitness Testimony">Eyewitness Testimony</a>
-        </h4>
-        <p class="fr-book-author">By Elizabeth F. Loftus, James M. Doyle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Eyewitness Testimony on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WgcsAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Eyewitness Testimony" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Eyewitness Testimony">Eyewitness Testimony</a>
+</h4>
+<p class="fr-book-author">By Elizabeth F. Loftus, James M. Doyle</p>
         
-        <p class="fr-book-desc">Explains strengths and weaknesses of eyewitness memory.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains strengths and weaknesses of eyewitness memory.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explores perception, interpretation and belief.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores perception, interpretation and belief.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Shows how testimony and evidence should be evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how testimony and evidence should be evaluated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Provides historical context for belief, skepticism and social judgment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Provides historical context for belief, skepticism and social judgment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Eyewitness+Testimony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Eyewitness Testimony</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Eyewitness+Testimony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Eyewitness Testimony</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-7c648d-why-sincere-witnesses-can-still-be-wrong-forteana-charles-fort-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster -book -books" data-ebay-reference="witnesses-7c648d-why-sincere-witnesses-can-still-be-wrong-forteana-charles-fort-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FORT SAVAGE RAIDERS 1951 Charles Starrett, Smiley Burnette US 1-SHEET POSTER"><img src="{{ '/assets/images/marketplace-covers/6f64e015a25167c90ce3.jpg' | relative_url }}" alt="Listing image for FORT SAVAGE RAIDERS 1951 Charles Starrett, Smiley Burnette US 1-SHEET POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-7c648d-why-sincere-witnesses-can-still-be-wrong-forteana-charles-fort-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster -book -books" data-ebay-reference="witnesses-7c648d-why-sincere-witnesses-can-still-be-wrong-forteana-charles-fort-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">FORT SAVAGE RAIDERS 1951 Charles Starrett, Smiley Burnette US 1-SHEET POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-7c648d-why-sincere-witnesses-can-still-be-wrong-forteana-charles-fort-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster -book -books" data-ebay-reference="witnesses-7c648d-why-sincere-witnesses-can-still-be-wrong-forteana-charles-fort-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Charles Fort poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Charles Fort poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-7c648d-why-sincere-witnesses-can-still-be-wrong-forteana-charles-fort-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster -book -books" data-ebay-reference="witnesses-7c648d-why-sincere-witnesses-can-still-be-wrong-forteana-charles-fort-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-7c648d-why-sincere-witnesses-can-still-be-wrong-forteana-charles-fort-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster -book -books" data-ebay-reference="witnesses-7c648d-why-sincere-witnesses-can-still-be-wrong-forteana-charles-fort-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FORT SAVAGE RAIDERS 1951 Charles Starrett, Smiley Burnette US 1-SHEET POSTER"><img src="{{ '/assets/images/marketplace-covers/6f64e015a25167c90ce3.jpg' | relative_url }}" alt="Listing image for FORT SAVAGE RAIDERS 1951 Charles Starrett, Smiley Burnette US 1-SHEET POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-7c648d-why-sincere-witnesses-can-still-be-wrong-forteana-charles-fort-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster -book -books" data-ebay-reference="witnesses-7c648d-why-sincere-witnesses-can-still-be-wrong-forteana-charles-fort-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">FORT SAVAGE RAIDERS 1951 Charles Starrett, Smiley Burnette US 1-SHEET POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-7c648d-why-sincere-witnesses-can-still-be-wrong-forteana-charles-fort-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster -book -books" data-ebay-reference="witnesses-7c648d-why-sincere-witnesses-can-still-be-wrong-forteana-charles-fort-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Charles Fort poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Charles Fort poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-7c648d-why-sincere-witnesses-can-still-be-wrong-forteana-charles-fort-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster -book -books" data-ebay-reference="witnesses-7c648d-why-sincere-witnesses-can-still-be-wrong-forteana-charles-fort-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-7c648d-why-sincere-witnesses-can-still-be-wrong-forteana-charles-fort-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster -book -books" data-ebay-reference="witnesses-7c648d-why-sincere-witnesses-can-still-be-wrong-forteana-charles-fort-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cinema Poster The Solitary Of Fort Humboldt Charles Bronson - 120 X 160 CM"><img src="{{ '/assets/images/marketplace-covers/18f7cc68af86c73b2f99.jpg' | relative_url }}" alt="Listing image for Cinema Poster The Solitary Of Fort Humboldt Charles Bronson - 120 X 160 CM" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-7c648d-why-sincere-witnesses-can-still-be-wrong-forteana-charles-fort-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster -book -books" data-ebay-reference="witnesses-7c648d-why-sincere-witnesses-can-still-be-wrong-forteana-charles-fort-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Cinema Poster The Solitary Of Fort Humboldt Charles Bronson - 120 X 160 CM</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-7c648d-why-sincere-witnesses-can-still-be-wrong-forteana-charles-fort-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster -book -books" data-ebay-reference="witnesses-7c648d-why-sincere-witnesses-can-still-be-wrong-forteana-charles-fort-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Charles Fort poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Charles Fort poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-7c648d-why-sincere-witnesses-can-still-be-wrong-forteana-charles-fort-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster -book -books" data-ebay-reference="witnesses-7c648d-why-sincere-witnesses-can-still-be-wrong-forteana-charles-fort-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-7c648d-why-sincere-witnesses-can-still-be-wrong-forteana-charles-fort-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster -book -books" data-ebay-reference="witnesses-7c648d-why-sincere-witnesses-can-still-be-wrong-forteana-charles-fort-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cinema Poster The Solitary Of Fort Humboldt Charles Bronson - 120 X 160 CM"><img src="{{ '/assets/images/marketplace-covers/18f7cc68af86c73b2f99.jpg' | relative_url }}" alt="Listing image for Cinema Poster The Solitary Of Fort Humboldt Charles Bronson - 120 X 160 CM" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-7c648d-why-sincere-witnesses-can-still-be-wrong-forteana-charles-fort-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster -book -books" data-ebay-reference="witnesses-7c648d-why-sincere-witnesses-can-still-be-wrong-forteana-charles-fort-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Cinema Poster The Solitary Of Fort Humboldt Charles Bronson - 120 X 160 CM</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-7c648d-why-sincere-witnesses-can-still-be-wrong-forteana-charles-fort-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster -book -books" data-ebay-reference="witnesses-7c648d-why-sincere-witnesses-can-still-be-wrong-forteana-charles-fort-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Charles Fort poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Charles Fort poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-7c648d-why-sincere-witnesses-can-still-be-wrong-forteana-charles-fort-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster -book -books" data-ebay-reference="witnesses-7c648d-why-sincere-witnesses-can-still-be-wrong-forteana-charles-fort-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-7c648d-why-sincere-witnesses-can-still-be-wrong-forteana-charles-fort-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster -book -books" data-ebay-reference="witnesses-7c648d-why-sincere-witnesses-can-still-be-wrong-forteana-charles-fort-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Charles Wesley Godwin Fort Worth Texas September 20 2025 Poster"><img src="{{ '/assets/images/marketplace-covers/56569d7478de65de310d.jpg' | relative_url }}" alt="Listing image for Charles Wesley Godwin Fort Worth Texas September 20 2025 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-7c648d-why-sincere-witnesses-can-still-be-wrong-forteana-charles-fort-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster -book -books" data-ebay-reference="witnesses-7c648d-why-sincere-witnesses-can-still-be-wrong-forteana-charles-fort-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Charles Wesley Godwin Fort Worth Texas September 20 2025 Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-7c648d-why-sincere-witnesses-can-still-be-wrong-forteana-charles-fort-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster -book -books" data-ebay-reference="witnesses-7c648d-why-sincere-witnesses-can-still-be-wrong-forteana-charles-fort-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Charles Fort poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Charles Fort poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-7c648d-why-sincere-witnesses-can-still-be-wrong-forteana-charles-fort-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster -book -books" data-ebay-reference="witnesses-7c648d-why-sincere-witnesses-can-still-be-wrong-forteana-charles-fort-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-7c648d-why-sincere-witnesses-can-still-be-wrong-forteana-charles-fort-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster -book -books" data-ebay-reference="witnesses-7c648d-why-sincere-witnesses-can-still-be-wrong-forteana-charles-fort-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-7c648d-why-sincere-witnesses-can-still-be-wrong-forteana-charles-fort-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster -book -books" data-ebay-reference="witnesses-7c648d-why-sincere-witnesses-can-still-be-wrong-forteana-charles-fort-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Charles Wesley Godwin Fort Worth Texas September 20 2025 Poster"><img src="{{ '/assets/images/marketplace-covers/56569d7478de65de310d.jpg' | relative_url }}" alt="Listing image for Charles Wesley Godwin Fort Worth Texas September 20 2025 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-7c648d-why-sincere-witnesses-can-still-be-wrong-forteana-charles-fort-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster -book -books" data-ebay-reference="witnesses-7c648d-why-sincere-witnesses-can-still-be-wrong-forteana-charles-fort-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Charles Wesley Godwin Fort Worth Texas September 20 2025 Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-7c648d-why-sincere-witnesses-can-still-be-wrong-forteana-charles-fort-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster -book -books" data-ebay-reference="witnesses-7c648d-why-sincere-witnesses-can-still-be-wrong-forteana-charles-fort-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Charles Fort poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Charles Fort poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-7c648d-why-sincere-witnesses-can-still-be-wrong-forteana-charles-fort-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster -book -books" data-ebay-reference="witnesses-7c648d-why-sincere-witnesses-can-still-be-wrong-forteana-charles-fort-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-7c648d-why-sincere-witnesses-can-still-be-wrong-forteana-charles-fort-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster -book -books" data-ebay-reference="witnesses-7c648d-why-sincere-witnesses-can-still-be-wrong-forteana-charles-fort-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -565,7 +565,7 @@ This balanced position reflects both modern cognitive psychology and contemporar
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -585,7 +585,7 @@ This balanced position reflects both modern cognitive psychology and contemporar
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -617,7 +617,7 @@ This balanced position reflects both modern cognitive psychology and contemporar
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -669,7 +669,7 @@ This balanced position reflects both modern cognitive psychology and contemporar
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -714,7 +714,7 @@ This balanced position reflects both modern cognitive psychology and contemporar
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -755,94 +755,94 @@ This balanced position reflects both modern cognitive psychology and contemporar
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Eyewitness memory  
-   Link: <a href="https://en.wikipedia.org/wiki/Eyewitness_memory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eyewitness_memory</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Eyewitness_memory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eyewitness_memory</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of events in the sky...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of events in the sky...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Eyewitness identification  
-   Link: <a href="https://en.wikipedia.org/wiki/Eyewitness_identification" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eyewitness_identification</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Eyewitness_identification" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eyewitness_identification</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Eyewitness testimony  
-   Link: <a href="https://en.wikipedia.org/wiki/Eyewitness_testimony" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eyewitness_testimony</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Eyewitness_testimony" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eyewitness_testimony</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/390349912_The_Contaminating_Effect_of_Social_Media_on_Eyewitness_Memory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390349912_The_Contaminating_Effect_of_Social_Media_on_Eyewitness_Memory</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Contaminating Effect of Social Media on Eyewitness...Social media searches can alter eyewitness memory and reduce the re...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/390349912_The_Contaminating_Effect_of_Social_Media_on_Eyewitness_Memory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390349912_The_Contaminating_Effect_of_Social_Media_on_Eyewitness_Memory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Contaminating Effect of Social Media on Eyewitness...Social media searches can alter eyewitness memory and reduce the re...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/353550108_Eyewitness_memory_contamination_through_misleading_questions_by_reporters" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/353550108_Eyewitness_memory_contamination_through_misleading_questions_by_reporters</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness memory contamination through misleading...A series of three studies examined how misleading questions and misinformation in a...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/353550108_Eyewitness_memory_contamination_through_misleading_questions_by_reporters" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/353550108_Eyewitness_memory_contamination_through_misleading_questions_by_reporters</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness memory contamination through misleading...A series of three studies examined how misleading questions and misinformation in a...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Cognitive interview  
-   Link: <a href="https://en.wikipedia.org/wiki/Cognitive_interview" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cognitive_interview</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cognitive_interview" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cognitive_interview</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: How reliable is your memory? | Elizabeth Loftus  
-   Link: <a href="https://www.youtube.com/watch?v=PB2OegI6wvI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PB2OegI6wvI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology - Eyewitness Testimony...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PB2OegI6wvI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PB2OegI6wvI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology - Eyewitness Testimony...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=m6aY9Wr-xjI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m6aY9Wr-xjI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The New Science of Eyewitness Memory | John Wixted...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=m6aY9Wr-xjI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m6aY9Wr-xjI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The New Science of Eyewitness Memory | John Wixted...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/shawnryanshow/posts/physicist-warns-ufo-disclosure-is-a-government-distractionevery-time-theres-a-bi/1737335251174128/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/shawnryanshow/posts/physicist-warns-ufo-disclosure-is-a-government-distractionevery-time-theres-a-bi/1737335251174128/</a>  
+   Link:<a href="https://www.facebook.com/shawnryanshow/posts/physicist-warns-ufo-disclosure-is-a-government-distractionevery-time-theres-a-bi/1737335251174128/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/shawnryanshow/posts/physicist-warns-ufo-disclosure-is-a-government-distractionevery-time-theres-a-bi/1737335251174128/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony</a>  
+   Link:<a href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/61565670779330/posts/the-santilli-alien-autopsy-footage-remains-one-of-the-most-controversial-and-wid/122199986060522359/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61565670779330/posts/the-santilli-alien-autopsy-footage-remains-one-of-the-most-controversial-and-wid/122199986060522359/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>d widely discussed subjects in UFO history...</p></details>
+   Link:<a href="https://www.facebook.com/61565670779330/posts/the-santilli-alien-autopsy-footage-remains-one-of-the-most-controversial-and-wid/122199986060522359/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61565670779330/posts/the-santilli-alien-autopsy-footage-remains-one-of-the-most-controversial-and-wid/122199986060522359/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>d widely discussed subjects in UFO history...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/uap_global/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/uap_global/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ng | Stay in the loop.Read more...</p></details>
+   Link:<a href="https://www.instagram.com/uap_global/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/uap_global/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ng | Stay in the loop.Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: How Reliable is Eyewitness Testimony?  
-   Link: <a href="https://www.youtube.com/watch?v=ChgPk2OiZCw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ChgPk2OiZCw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;This Is Psychology&quot; Episode 5: Eyewitness testimony...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ChgPk2OiZCw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ChgPk2OiZCw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;This Is Psychology&quot; Episode 5: Eyewitness testimony...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=iAVQOL8g6iQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iAVQOL8g6iQ</a>  
+   Link:<a href="https://www.youtube.com/watch?v=iAVQOL8g6iQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iAVQOL8g6iQ</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: The New Science of Eyewitness Memory | John Wixted  
-   Link: <a href="https://www.youtube.com/watch?v=93ocNhHyGVo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=93ocNhHyGVo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Reliable is Eyewitness Testimony?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=93ocNhHyGVo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=93ocNhHyGVo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Reliable is Eyewitness Testimony?...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: "This Is Psychology" Episode 5: Eyewitness testimony  
-   Link: <a href="https://www.youtube.com/watch?v=wPvGadHulSE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wPvGadHulSE</a>  
+   Link:<a href="https://www.youtube.com/watch?v=wPvGadHulSE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wPvGadHulSE</a>  

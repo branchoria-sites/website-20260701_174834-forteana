@@ -284,7 +284,7 @@ Dreams are among the most compelling sources of seemingly impossible [coincidenc
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_uncanny_coincidences_4f1cf2_prophetic_dream_miss_3a2c06-Illustration-1-dark.svg" | relative_url }}" alt="Dream Hits illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_uncanny_coincidences_4f1cf2_prophetic_dream_miss_3a2c06-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_uncanny_coincidences_4f1cf2_prophetic_dream_miss_3a2c06-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This imbalance is central to evaluating claims of prophetic dreams. The question is not simply whether one dream resembled a later event, but how many other dreams did not. Researchers studying coincidences, memory and dream reports consistently argue that fair evaluation requires counting both successes and failures. Without the forgotten misses, even ordinary chance can produce remarkably convincing stories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stat.berkeley.edu/~aldous/157/Papers/diaconis_mosteller.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stat.berkeley.edu">[Department of Statistics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stat.berkeley.edu</span><span class="citation-popover-title">These include data-gathering methods (informal.Read more</span><span class="citation-popover-snippet">Department of StatisticsMethods for Studying CoincidencesJuly 24, 2007 — by P DlACONlS · 1989 · Cited by 428 — This article illustrates b...</span><span class="citation-popover-meta">Published: July 24, 2007</span></span></span>
+This imbalance is central to evaluating claims of prophetic dreams. The question is not simply whether one dream resembled a later event, but how many other dreams did not. Researchers studying coincidences, memory and dream reports consistently argue that fair evaluation requires counting both successes and failures. Without the forgotten misses, even ordinary chance can produce remarkably convincing stories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stat.berkeley.edu/~aldous/157/Papers/diaconis_mosteller.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stat.berkeley.edu">[Department of Statistics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stat.berkeley.edu</span><span class="citation-popover-title">These include data-gathering methods (informal.Read more</span><span class="citation-popover-snippet">Department of StatisticsMethods for Studying CoincidencesJuly 24, 2007 — by P DlACONlS · 1989 · Cited by 428 — This article illustrates b...</span><span class="citation-popover-meta">Published: July 24, 2007</span></span></span>
 
 ## Why remembered dream hits feel so convincing
 
@@ -292,9 +292,9 @@ Dreams possess several qualities that make coincidences especially persuasive.
 
 First, dreams are emotionally intense. Fear, surprise and strong imagery increase the likelihood that a dream will be remembered after an unusual real-world event gives it new significance. A dream about a collapsing bridge may be forgotten within hours unless a bridge accident appears in the news days later, at which point the dream suddenly seems prophetic.
 
-Second, dream memories are often reconstructed rather than replayed exactly. Modern dream research shows that remembering dreams is an act of recall, not retrieving a perfect recording. As with ordinary autobiographical memory, details may shift over time, especially after later experiences provide an attractive narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2814941/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">NIHby Y Nir · 2010 · Cited by 866 — Dreams are a most remarkable experiment in psychology and neuroscience, conducted every night i...</span></span></span>
+Second, dream memories are often reconstructed rather than replayed exactly. Modern dream research shows that remembering dreams is an act of recall, not retrieving a perfect recording. As with ordinary autobiographical memory, details may shift over time, especially after later experiences provide an attractive narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2814941/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">NIHby Y Nir · 2010 · Cited by 866 — Dreams are a most remarkable experiment in psychology and neuroscience, conducted every night i...</span></span></span>
 
-Finally, people usually dream several times each night, yet remember only a fraction of those dreams. Even frequent dream recall captures only a small sample of total dream [experience]({{ 'experience/' | relative_url }}), meaning the apparent "success rate" is calculated from an incomplete record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9149660/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by M Schredl · 2022 · Cited by 15 — Dream recall frequency and lucid dream frequency showed large inter-individual differences that ar...</span></span></span>
+Finally, people usually dream several times each night, yet remember only a fraction of those dreams. Even frequent dream recall captures only a small sample of total dream [experience]({{ 'experience/' | relative_url }}), meaning the apparent "success rate" is calculated from an incomplete record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9149660/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by M Schredl · 2022 · Cited by 15 — Dream recall frequency and lucid dream frequency showed large inter-individual differences that ar...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/T_seRpqUJDo" title="Dreams, Nightmares, and Neuroscience | Dr. Baland Jalal | EP 533" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=T_seRpqUJDo" target="_blank" rel="noopener noreferrer">Dreams, Nightmares, and Neuroscience | Dr. Baland Jalal | EP 533</a></p><p class="youtube-embed-meta">Channel: Jordan B Peterson</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=T_seRpqUJDo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=T_seRpqUJDo">Open on YouTube</a></p></div></div></div>
@@ -317,7 +317,7 @@ A contemporaneous dream diary fixes the wording, imagery and timing before later
 
 This distinction explains why psychologists prefer prospective recording over retrospective storytelling. Prospective methods prevent the dream itself from changing in response to later events.
 
-Historically, some researchers interested in precognition have attempted prospective dream studies by asking participants to document dreams before target events were selected or before future news became known. These approaches reduce hindsight bias, although they have generally not produced evidence strong enough to establish precognition as an accepted scientific phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://koestlerunit.wordpress.com/wp-content/uploads/2015/06/watt-et-al-2015.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koestlerunit.wordpress.com">[Koestler Unit+2Pure Edinburgh]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koestlerunit.wordpress.com</span><span class="citation-popover-title">Koestler Unit Prospectively Reported Spontaneous Precognitive Dreams</span><span class="citation-popover-snippet">For instance Besterman (1933) had forty-three percipients document their dreams...Read more...</span></span></span>
+Historically, some researchers interested in precognition have attempted prospective dream studies by asking participants to document dreams before target events were selected or before future news became known. These approaches reduce hindsight bias, although they have generally not produced evidence strong enough to establish precognition as an accepted scientific phenomenon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://koestlerunit.wordpress.com/wp-content/uploads/2015/06/watt-et-al-2015.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koestlerunit.wordpress.com">[Koestler Unit+2Pure Edinburgh]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koestlerunit.wordpress.com</span><span class="citation-popover-title">Koestler Unit Prospectively Reported Spontaneous Precognitive Dreams</span><span class="citation-popover-snippet">For instance Besterman (1933) had forty-three percipients document their dreams...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ht89rJUZUv4" title="Dream Telepathy with Stanley Krippner" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ht89rJUZUv4" target="_blank" rel="noopener noreferrer">Dream Telepathy with Stanley Krippner</a></p><p class="youtube-embed-meta">Channel: New Thinking Allowed with Jeffrey Mishlove</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ht89rJUZUv4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ht89rJUZUv4">Open on YouTube</a></p></div></div></div>
@@ -339,7 +339,7 @@ For example, a dream involving:
 
 </div>
 
-Statisticians refer to this as the problem of multiple possible endpoints. If many different outcomes qualify as successful matches, apparent accuracy increases dramatically. The more interpretative freedom available, the easier it becomes to find convincing correspondences after the fact. Diaconis and Mosteller identified this flexibility, together with near-matches and selective perception, as major generators of striking coincidences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stat.berkeley.edu/~aldous/157/Papers/diaconis_mosteller.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stat.berkeley.edu">[Department of Statistics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stat.berkeley.edu</span><span class="citation-popover-title">These include data-gathering methods (informal.Read more</span><span class="citation-popover-snippet">Department of StatisticsMethods for Studying CoincidencesJuly 24, 2007 — by P DlACONlS · 1989 · Cited by 428 — This article illustrates b...</span><span class="citation-popover-meta">Published: July 24, 2007</span></span></span>
+Statisticians refer to this as the problem of multiple possible endpoints. If many different outcomes qualify as successful matches, apparent accuracy increases dramatically. The more interpretative freedom available, the easier it becomes to find convincing correspondences after the fact. Diaconis and Mosteller identified this flexibility, together with near-matches and selective perception, as major generators of striking coincidences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stat.berkeley.edu/~aldous/157/Papers/diaconis_mosteller.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stat.berkeley.edu">[Department of Statistics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stat.berkeley.edu</span><span class="citation-popover-title">These include data-gathering methods (informal.Read more</span><span class="citation-popover-snippet">Department of StatisticsMethods for Studying CoincidencesJuly 24, 2007 — by P DlACONlS · 1989 · Cited by 428 — This article illustrates b...</span><span class="citation-popover-meta">Published: July 24, 2007</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_uncanny_coincidences_4f1cf2_prophetic_dream_miss_3a2c06-Illustration-2-dark.svg" | relative_url }}" alt="Dream Hits illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_uncanny_coincidences_4f1cf2_prophetic_dream_miss_3a2c06-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_uncanny_coincidences_4f1cf2_prophetic_dream_miss_3a2c06-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -362,7 +362,7 @@ Once the denominator is restored, the apparent improbability changes.
 
 This pattern resembles publication bias in science: successful results receive attention while unsuccessful ones disappear. In dream coincidence stories, the forgotten misses create a similar distortion. Stories naturally preserve emotionally satisfying successes while quietly discarding failures.
 
-Psychological studies of precognitive dream belief support this concern. Researchers have shown that selective recall and a greater tendency to identify meaningful correspondences between unrelated dream reports and later events both contribute to stronger belief in prophetic dreams. These mechanisms do not require dishonesty; they arise from normal cognitive processes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/11218/7617/27716" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.ub.uni-heidelberg.de">[heiJOURNALS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.ub.uni-heidelberg.de</span><span class="citation-popover-snippet">heiJOURNALSPsychological factors in precognitive dream ex- periences:...by C Watt · Cited by 17 — Controlling for sensory factors and ch...</span></span></span>
+Psychological studies of precognitive dream belief support this concern. Researchers have shown that selective recall and a greater tendency to identify meaningful correspondences between unrelated dream reports and later events both contribute to stronger belief in prophetic dreams. These mechanisms do not require dishonesty; they arise from normal cognitive processes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/11218/7617/27716" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.ub.uni-heidelberg.de">[heiJOURNALS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.ub.uni-heidelberg.de</span><span class="citation-popover-snippet">heiJOURNALSPsychological factors in precognitive dream ex- periences:...by C Watt · Cited by 17 — Controlling for sensory factors and ch...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BXhs8bYL1bo" title="The Quantum Physics of Synchronicity - The Jung-Pauli Conjecture" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BXhs8bYL1bo" target="_blank" rel="noopener noreferrer">The Quantum Physics of Synchronicity - The Jung-Pauli Conjecture</a></p><p class="youtube-embed-meta">Channel: Mirror</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BXhs8bYL1bo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BXhs8bYL1bo">Open on YouTube</a></p></div></div></div>
@@ -384,7 +384,7 @@ Useful criteria include:
 
 </div>
 
-These principles mirror broader statistical approaches for studying coincidences: reduce hindsight, specify criteria in advance and compare observed successes with all possible opportunities for apparent matches. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stat.berkeley.edu/~aldous/157/Papers/diaconis_mosteller.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stat.berkeley.edu">[Department of Statistics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stat.berkeley.edu</span><span class="citation-popover-title">These include data-gathering methods (informal.Read more</span><span class="citation-popover-snippet">Department of StatisticsMethods for Studying CoincidencesJuly 24, 2007 — by P DlACONlS · 1989 · Cited by 428 — This article illustrates b...</span><span class="citation-popover-meta">Published: July 24, 2007</span></span></span>
+These principles mirror broader statistical approaches for studying coincidences: reduce hindsight, specify criteria in advance and compare observed successes with all possible opportunities for apparent matches.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stat.berkeley.edu/~aldous/157/Papers/diaconis_mosteller.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stat.berkeley.edu">[Department of Statistics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stat.berkeley.edu</span><span class="citation-popover-title">These include data-gathering methods (informal.Read more</span><span class="citation-popover-snippet">Department of StatisticsMethods for Studying CoincidencesJuly 24, 2007 — by P DlACONlS · 1989 · Cited by 428 — This article illustrates b...</span><span class="citation-popover-meta">Published: July 24, 2007</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_uncanny_coincidences_4f1cf2_prophetic_dream_miss_3a2c06-Illustration-3-dark.svg" | relative_url }}" alt="Dream Hits illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_uncanny_coincidences_4f1cf2_prophetic_dream_miss_3a2c06-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_uncanny_coincidences_4f1cf2_prophetic_dream_miss_3a2c06-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -392,199 +392,199 @@ These principles mirror broader statistical approaches for studying coincidences
 
 Prophetic dreams remain an enduring subject within [Forteana]({{ 'forteana/' | relative_url }}) because they combine intensely personal experiences with events that sometimes appear astonishingly specific. Individual cases can be emotionally persuasive, particularly when documented before the event or involving highly unusual details.
 
-At the same time, attempts to move from compelling anecdotes to repeatable scientific evidence have proven difficult. Famous laboratory programmes investigating dream-related anomalous cognition attracted attention for striking early findings, but later replications were inconsistent, and the overall evidence has remained controversial rather than conclusive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/maimonides-dream-telepathy-research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">Psi Encyclopedia Maimonides Dream Telepathy Research</span><span class="citation-popover-snippet">Psi EncyclopediaMaimonides Dream Telepathy Research - Psi Encyclopediaby R Van de Castle — The resulting studies became some of the best...</span></span></span>
+At the same time, attempts to move from compelling anecdotes to repeatable scientific evidence have proven difficult. Famous laboratory programmes investigating dream-related anomalous cognition attracted attention for striking early findings, but later replications were inconsistent, and the overall evidence has remained controversial rather than conclusive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/maimonides-dream-telepathy-research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">Psi Encyclopedia Maimonides Dream Telepathy Research</span><span class="citation-popover-snippet">Psi EncyclopediaMaimonides Dream Telepathy Research - Psi Encyclopediaby R Van de Castle — The resulting studies became some of the best...</span></span></span>
 
 For readers interested in coincidences rather than proving or disproving paranormal claims, the most important lesson is methodological. A dream that appears prophetic is only meaningful when evaluated alongside all the dreams that did not come true. The forgotten misses are not an inconvenience to the story—they are the information needed to judge whether the apparent miracle is genuinely exceptional or simply the memorable survivor of a much larger collection of ordinary dreams.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Prophetic Dreams Need the Missing Misses. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Prophetic Dreams Need the Missing Misses. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Examines memory, bias and extraordinary belief.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines memory, bias and extraordinary belief.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Encourages careful testing of remarkable claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages careful testing of remarkable claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Drunkard%27s+Walk+Leonard+Mlodinow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Drunkard&#x27;s Walk on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8509813-M.jpg" alt="Cover for The Drunkard&#x27;s Walk" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Drunkard%27s+Walk+Leonard+Mlodinow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drunkard&#x27;s Walk">The Drunkard&#x27;s Walk</a>
-        </h4>
-        <p class="fr-book-author">By Leonard Mlodinow</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Drunkard%27s+Walk+Leonard+Mlodinow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Drunkard&#x27;s Walk on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8509813-M.jpg" alt="Cover for The Drunkard&#x27;s Walk" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Drunkard%27s+Walk+Leonard+Mlodinow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drunkard&#x27;s Walk">The Drunkard&#x27;s Walk</a>
+</h4>
+<p class="fr-book-author">By Leonard Mlodinow</p>
         
-        <p class="fr-book-desc">First published 2008. Subjects: Probabilities, Chance, Random variables, Mathematics, Nonfiction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Drunkard%27s+Walk+Leonard+Mlodinow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2008. Subjects: Probabilities, Chance, Random variables, Mathematics, Nonfiction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Drunkard%27s+Walk+Leonard+Mlodinow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Improbability+Principle+David+J.+Hand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Improbability Principle on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13851833-M.jpg" alt="Cover for The Improbability Principle" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Improbability+Principle+David+J.+Hand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Improbability Principle">The Improbability Principle</a>
-        </h4>
-        <p class="fr-book-author">By David J. Hand</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Improbability+Principle+David+J.+Hand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Improbability Principle on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13851833-M.jpg" alt="Cover for The Improbability Principle" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Improbability+Principle+David+J.+Hand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Improbability Principle">The Improbability Principle</a>
+</h4>
+<p class="fr-book-author">By David J. Hand</p>
         
-        <p class="fr-book-desc">First published 2014. Subjects: Probabilities, Mathematics, popular works, Coincidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Improbability+Principle+David+J.+Hand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2014. Subjects: Probabilities, Mathematics, popular works, Coincidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Improbability+Principle+David+J.+Hand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Drunkard%27s+Walk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Drunkard&#x27;s Walk</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Drunkard%27s+Walk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Drunkard&#x27;s Walk</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MISSING PERSONS BAND PROMO POSTER 11 X 17 - FREE SHIPPING"><img src="{{ '/assets/images/marketplace-covers/0fa6bae2bd549815b494.jpg' | relative_url }}" alt="Listing image for MISSING PERSONS BAND PROMO POSTER 11 X 17 - FREE SHIPPING" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">MISSING PERSONS BAND PROMO POSTER 11 X 17 - FREE SHIPPING</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missing persons poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: missing persons poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MISSING PERSONS BAND PROMO POSTER 11 X 17 - FREE SHIPPING"><img src="{{ '/assets/images/marketplace-covers/0fa6bae2bd549815b494.jpg' | relative_url }}" alt="Listing image for MISSING PERSONS BAND PROMO POSTER 11 X 17 - FREE SHIPPING" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">MISSING PERSONS BAND PROMO POSTER 11 X 17 - FREE SHIPPING</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missing persons poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: missing persons poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for For Fan Missing Persons Band Ablum Poster Red T-shirt S to 5XL"><img src="{{ '/assets/images/marketplace-covers/a509598f94cd70967db4.jpg' | relative_url }}" alt="Listing image for For Fan Missing Persons Band Ablum Poster Red T-shirt S to 5XL" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">For Fan Missing Persons Band Ablum Poster Red T-shirt S to 5XL</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missing persons poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: missing persons poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for For Fan Missing Persons Band Ablum Poster Red T-shirt S to 5XL"><img src="{{ '/assets/images/marketplace-covers/a509598f94cd70967db4.jpg' | relative_url }}" alt="Listing image for For Fan Missing Persons Band Ablum Poster Red T-shirt S to 5XL" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">For Fan Missing Persons Band Ablum Poster Red T-shirt S to 5XL</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missing persons poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: missing persons poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Missing Persons Concert Poster Greek Theatre"><img src="{{ '/assets/images/marketplace-covers/b139e6959141b1a0be5d.jpg' | relative_url }}" alt="Listing image for Missing Persons Concert Poster Greek Theatre" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">Missing Persons Concert Poster Greek Theatre</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missing persons poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: missing persons poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Missing Persons Concert Poster Greek Theatre"><img src="{{ '/assets/images/marketplace-covers/b139e6959141b1a0be5d.jpg' | relative_url }}" alt="Listing image for Missing Persons Concert Poster Greek Theatre" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">Missing Persons Concert Poster Greek Theatre</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missing persons poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: missing persons poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1c4d78cf65d0439dd374.jpg' | relative_url }}" alt="Listing image for Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missing persons poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: missing persons poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1c4d78cf65d0439dd374.jpg' | relative_url }}" alt="Listing image for Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missing persons poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: missing persons poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="dream-hits-why-prophetic-dreams-need-the-missing-misses-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -600,7 +600,7 @@ For readers interested in coincidences rather than proving or disproving paranor
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -620,7 +620,7 @@ For readers interested in coincidences rather than proving or disproving paranor
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -652,7 +652,7 @@ For readers interested in coincidences rather than proving or disproving paranor
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -704,7 +704,7 @@ For readers interested in coincidences rather than proving or disproving paranor
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -749,7 +749,7 @@ For readers interested in coincidences rather than proving or disproving paranor
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -790,152 +790,152 @@ For readers interested in coincidences rather than proving or disproving paranor
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2814941/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2814941/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby Y Nir · 2010 · Cited by 866 — Dreams are a most remarkable experiment in [psychology](&amp;#123;&amp;#123; &#x27;psychology/&#x27; | relative_url &amp;#125;&amp;#125;) and neuroscience, conducted every night i...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2814941/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2814941/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby Y Nir · 2010 · Cited by 866 — Dreams are a most remarkable experiment in [psychology](&amp;#123;&amp;#123; &#x27;psychology/&#x27; | relative_url &amp;#125;&amp;#125;) and neuroscience, conducted every night i...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3819526/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3819526/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>dream experience: Why (not) to be skeptical about...by JM Windt · 2013 · Cited by 173 — The goal of this article is to investigate the r...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3819526/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3819526/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>dream experience: Why (not) to be skeptical about...by JM Windt · 2013 · Cited by 173 — The goal of this article is to investigate the r...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9149660/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9149660/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by M Schredl · 2022 · Cited by 15 — Dream recall frequency and lucid dream frequency showed large inter-individual differences that ar...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9149660/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9149660/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by M Schredl · 2022 · Cited by 15 — Dream recall frequency and lucid dream frequency showed large inter-individual differences that ar...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/286574140_Psychological_factors_in_precognitive_dream_experiences_The_role_of_paranormal_belief_selective_recall_and_propensity_to_find_correspondences" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/286574140_Psychological_factors_in_precognitive_dream_experiences_The_role_of_paranormal_belief_selective_recall_and_propensity_to_find_correspondences</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychological factors in precognitive dream experiencesWe report two studies into psychological factors that have been proposed to contri...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/286574140_Psychological_factors_in_precognitive_dream_experiences_The_role_of_paranormal_belief_selective_recall_and_propensity_to_find_correspondences" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/286574140_Psychological_factors_in_precognitive_dream_experiences_The_role_of_paranormal_belief_selective_recall_and_propensity_to_find_correspondences</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psychological factors in precognitive dream experiencesWe report two studies into psychological factors that have been proposed to contri...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/18835283_Telepathy_and_Dreams_A_Failure_to_Replicate" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/18835283_Telepathy_and_Dreams_A_Failure_to_Replicate</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Telepathy and Dreams: A Failure to Replicate | Request PDFAn attempt was made to replicate the procedures and findings of a previous drea...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/18835283_Telepathy_and_Dreams_A_Failure_to_Replicate" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/18835283_Telepathy_and_Dreams_A_Failure_to_Replicate</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Telepathy and Dreams: A Failure to Replicate | Request PDFAn attempt was made to replicate the procedures and findings of a previous drea...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/226555156_Methods_for_Studying_Coincidences" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/226555156_Methods_for_Studying_Coincidences</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Methods for Studying CoincidencesThis article illustrates basic statistical techniques for studying coincidences. These include data-gath...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/226555156_Methods_for_Studying_Coincidences" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/226555156_Methods_for_Studying_Coincidences</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Methods for Studying CoincidencesThis article illustrates basic statistical techniques for studying coincidences. These include data-gath...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
    Title: 232513393 A Precognitive Dream Study with a Single Subject  
-   Link: <a href="https://www.researchgate.net/publication/232513393_A_Precognitive_Dream_Study_with_a_Single_Subject" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232513393_A_Precognitive_Dream_Study_with_a_Single_Subject</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Precognitive Dream Study with a Single Subject2 Dec 2015 — Conducted an 8-night dream study with Malcolm Bessant, an English &quot;sensitive...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/232513393_A_Precognitive_Dream_Study_with_a_Single_Subject" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232513393_A_Precognitive_Dream_Study_with_a_Single_Subject</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Precognitive Dream Study with a Single Subject2 Dec 2015 — Conducted an 8-night dream study with Malcolm Bessant, an English &quot;sensitive...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
    Title: 338113087 Precognitive Dreaming  
-   Link: <a href="https://www.researchgate.net/publication/338113087_Precognitive_Dreaming" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/338113087_Precognitive_Dreaming</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Precognitive Dreaming22 Dec 2019 — This preprint aims to explore the empirically controversial phenomenon of precognitive dreaming...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/338113087_Precognitive_Dreaming" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/338113087_Precognitive_Dreaming</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Precognitive Dreaming22 Dec 2019 — This preprint aims to explore the empirically controversial phenomenon of precognitive dreaming...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: stat.berkeley.edu  
    Title: These include data-gathering methods (informal.Read more  
-   Link: <a href="https://www.stat.berkeley.edu/~aldous/157/Papers/diaconis_mosteller.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.stat.berkeley.edu/~aldous/157/Papers/diaconis_mosteller.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of StatisticsMethods for Studying CoincidencesJuly 24, 2007 — by P DlACONlS · 1989 · Cited by 428 — This article illustrates b...</p></details>
+   Link:<a href="https://www.stat.berkeley.edu/~aldous/157/Papers/diaconis_mosteller.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.stat.berkeley.edu/~aldous/157/Papers/diaconis_mosteller.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of StatisticsMethods for Studying CoincidencesJuly 24, 2007 — by P DlACONlS · 1989 · Cited by 428 — This article illustrates b...</p></details>
    Published: July 24, 2007  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: journals.ub.uni-heidelberg.de  
-   Link: <a href="https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/11218/7617/27716" target="_blank" rel="noopener noreferrer nofollow">https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/11218/7617/27716</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>heiJOURNALSPsychological factors in precognitive dream ex- periences:...by C Watt · Cited by 17 — Controlling for sensory factors and ch...</p></details>
+   Link:<a href="https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/11218/7617/27716" target="_blank" rel="noopener noreferrer nofollow">https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/download/11218/7617/27716</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>heiJOURNALSPsychological factors in precognitive dream ex- periences:...by C Watt · Cited by 17 — Controlling for sensory factors and ch...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: koestlerunit.wordpress.com  
    Title: Koestler Unit Prospectively Reported Spontaneous Precognitive Dreams  
-   Link: <a href="https://koestlerunit.wordpress.com/wp-content/uploads/2015/06/watt-et-al-2015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://koestlerunit.wordpress.com/wp-content/uploads/2015/06/watt-et-al-2015.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>For instance Besterman (1933) had forty-three percipients document their dreams...Read more...</p></details>
+   Link:<a href="https://koestlerunit.wordpress.com/wp-content/uploads/2015/06/watt-et-al-2015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://koestlerunit.wordpress.com/wp-content/uploads/2015/06/watt-et-al-2015.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For instance Besterman (1933) had forty-three percipients document their dreams...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pure.ed.ac.uk  
-   Link: <a href="https://www.pure.ed.ac.uk/ws/files/15018943/WattDreamsJPAuthorVersion.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pure.ed.ac.uk/ws/files/15018943/WattDreamsJPAuthorVersion.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pure EdinburghEdinburgh Research Explorer - Precognitive dreaming - AccountABSTRACT: This online dream precognition study examined variab...</p></details>
+   Link:<a href="https://www.pure.ed.ac.uk/ws/files/15018943/WattDreamsJPAuthorVersion.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pure.ed.ac.uk/ws/files/15018943/WattDreamsJPAuthorVersion.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pure EdinburghEdinburgh Research Explorer - Precognitive dreaming - AccountABSTRACT: This online dream precognition study examined variab...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: journals.ub.uni-heidelberg.de  
-   Link: <a href="https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/100871" target="_blank" rel="noopener noreferrer nofollow">https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/100871</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>home dream precognition and exploring links to...by D Vernon · 2024 · Cited by 2 — Precognition refers to the idea that an individual ma...</p></details>
+   Link:<a href="https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/100871" target="_blank" rel="noopener noreferrer nofollow">https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/100871</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>home dream precognition and exploring links to...by D Vernon · 2024 · Cited by 2 — Precognition refers to the idea that an individual ma...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: psi-encyclopedia.spr.ac.uk  
    Title: Psi Encyclopedia Maimonides Dream Telepathy Research  
-   Link: <a href="https://psi-encyclopedia.spr.ac.uk/articles/maimonides-dream-telepathy-research/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/articles/maimonides-dream-telepathy-research/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Psi EncyclopediaMaimonides Dream Telepathy Research - Psi Encyclopediaby R Van de Castle — The resulting studies became some of the best...</p></details>
+   Link:<a href="https://psi-encyclopedia.spr.ac.uk/articles/maimonides-dream-telepathy-research/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/articles/maimonides-dream-telepathy-research/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psi EncyclopediaMaimonides Dream Telepathy Research - Psi Encyclopediaby R Van de Castle — The resulting studies became some of the best...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: journals.ub.uni-heidelberg.de  
-   Link: <a href="https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/34888/pdf" target="_blank" rel="noopener noreferrer nofollow">https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/34888/pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>heiJOURNALSA meta-analysis of dream-ESP studies, 1966-2016by L Storm · 2017 · Cited by 74 — Studies fell into two categories: the Maimoni...</p></details>
+   Link:<a href="https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/34888/pdf" target="_blank" rel="noopener noreferrer nofollow">https://journals.ub.uni-heidelberg.de/index.php/IJoDR/article/view/34888/pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>heiJOURNALSA meta-analysis of dream-ESP studies, 1966-2016by L Storm · 2017 · Cited by 74 — Studies fell into two categories: the Maimoni...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4700581/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4700581/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>REM Dreaming as Prospective Coding - PMCby S Llewellyn · 2016 · Cited by 104 — The analysis of this dream encompassed two related process...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4700581/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4700581/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>REM Dreaming as Prospective Coding - PMCby S Llewellyn · 2016 · Cited by 104 — The analysis of this dream encompassed two related process...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11125470/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11125470/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>more meaningful coincidences is associated...by C Rominger · 2024 · Cited by 10 — Therefore, the propensity to experience meaningful coi...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11125470/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11125470/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>more meaningful coincidences is associated...by C Rominger · 2024 · Cited by 10 — Therefore, the propensity to experience meaningful coi...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Precognition" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Precognition</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PrecognitionPrecognition is the purported psychic phenomenon of seeing, or otherwise becoming directly aware of, events in the future...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Precognition" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Precognition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PrecognitionPrecognition is the purported psychic phenomenon of seeing, or otherwise becoming directly aware of, events in the future...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/186452051709412/posts/595251004162846/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/186452051709412/posts/595251004162846/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DREAM TELEPATHY..... Parapsychological studies...Alcock concluded the dream telepathy experiments at Maimonides have failed to provide e...</p></details>
+   Link:<a href="https://www.facebook.com/groups/186452051709412/posts/595251004162846/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/186452051709412/posts/595251004162846/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DREAM TELEPATHY..... Parapsychological studies...Alcock concluded the dream telepathy experiments at Maimonides have failed to provide e...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: dreslerlab.org  
-   Link: <a href="https://dreslerlab.org/dreaming/" target="_blank" rel="noopener noreferrer nofollow">https://dreslerlab.org/dreaming/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dreaming – Donders Sleep &amp; Memory LabThe neural architecture of dream recall frequency: insights from interindividual variations in brain...</p></details>
+   Link:<a href="https://dreslerlab.org/dreaming/" target="_blank" rel="noopener noreferrer nofollow">https://dreslerlab.org/dreaming/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dreaming – Donders Sleep &amp; Memory LabThe neural architecture of dream recall frequency: insights from interindividual variations in brain...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40ispeakdead/the-precognitive-dream-that-earned-me-a-reputation-fbc3ae41f2b9" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40ispeakdead/the-precognitive-dream-that-earned-me-a-reputation-fbc3ae41f2b9</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Precognitive Dream That Earned Me a ReputationPrecognitive dreams, predicting future events, documenting premonitions, psychic dreams...</p></details>
+   Link:<a href="https://medium.com/%40ispeakdead/the-precognitive-dream-that-earned-me-a-reputation-fbc3ae41f2b9" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40ispeakdead/the-precognitive-dream-that-earned-me-a-reputation-fbc3ae41f2b9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Precognitive Dream That Earned Me a ReputationPrecognitive dreams, predicting future events, documenting premonitions, psychic dreams...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: bialfoundation.com  
-   Link: <a href="https://bialfoundation.com/en-GB/science-stories/factors-influence-dream-recall" target="_blank" rel="noopener noreferrer nofollow">https://bialfoundation.com/en-GB/science-stories/factors-influence-dream-recall</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Which factors influence dream recall?Research revealed the main factors that determine dream recall: attitude towards dreams, tendency to...</p></details>
+   Link:<a href="https://bialfoundation.com/en-GB/science-stories/factors-influence-dream-recall" target="_blank" rel="noopener noreferrer nofollow">https://bialfoundation.com/en-GB/science-stories/factors-influence-dream-recall</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Which factors influence dream recall?Research revealed the main factors that determine dream recall: attitude towards dreams, tendency to...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/32906734/Coincidence_I_Think_Not_Coincidences_Throughout_Time_and_How_to_Understand_Them" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/32906734/Coincidence_I_Think_Not_Coincidences_Throughout_Time_and_How_to_Understand_Them</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Many researchers are baffled by them, wondering what they are, how they tie into our lives...</p></details>
+   Link:<a href="https://www.academia.edu/32906734/Coincidence_I_Think_Not_Coincidences_Throughout_Time_and_How_to_Understand_Them" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/32906734/Coincidence_I_Think_Not_Coincidences_Throughout_Time_and_How_to_Understand_Them</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Many researchers are baffled by them, wondering what they are, how they tie into our lives...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: dreamnetworkjournal.com  
-   Link: <a href="https://dreamnetworkjournal.com/bcpov4rsipre/identify-precognitive-dreams" target="_blank" rel="noopener noreferrer nofollow">https://dreamnetworkjournal.com/bcpov4rsipre/identify-precognitive-dreams</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These premonitory dreams are characterized by their crystal...Read more...</p></details>
+   Link:<a href="https://dreamnetworkjournal.com/bcpov4rsipre/identify-precognitive-dreams" target="_blank" rel="noopener noreferrer nofollow">https://dreamnetworkjournal.com/bcpov4rsipre/identify-precognitive-dreams</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These premonitory dreams are characterized by their crystal...Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/Methods-for-studying-coincidences-Diaconis-Mosteller/89e006611a917325ba3e88e373af6dc950333daa" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Methods-for-studying-coincidences-Diaconis-Mosteller/89e006611a917325ba3e88e373af6dc950333daa</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[PDF] Methods for studying coincidences1 Dec 1989 — This article illustrates basic statistical techniques for studying coincidences. Thes...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/Methods-for-studying-coincidences-Diaconis-Mosteller/89e006611a917325ba3e88e373af6dc950333daa" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Methods-for-studying-coincidences-Diaconis-Mosteller/89e006611a917325ba3e88e373af6dc950333daa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[PDF] Methods for studying coincidences1 Dec 1989 — This article illustrates basic statistical techniques for studying coincidences. Thes...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: netherlands.openaire.eu  
    Title: eu Methods for Studying Coincidences  
-   Link: <a href="https://netherlands.openaire.eu/search/publication?pid=10.1080%2F01621459.1989.10478847" target="_blank" rel="noopener noreferrer nofollow">https://netherlands.openaire.eu/search/publication?pid=10.1080%2F01621459.1989.10478847</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>for Studying CoincidencesAbstract This article illustrates basic statistical techniques for studying coincidences. These include data-gat...</p></details>
+   Link:<a href="https://netherlands.openaire.eu/search/publication?pid=10.1080%2F01621459.1989.10478847" target="_blank" rel="noopener noreferrer nofollow">https://netherlands.openaire.eu/search/publication?pid=10.1080%2F01621459.1989.10478847</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>for Studying CoincidencesAbstract This article illustrates basic statistical techniques for studying coincidences. These include data-gat...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/348457870/dreams1971failure-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/348457870/dreams1971failure-pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The original study found that a...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/348457870/dreams1971failure-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/348457870/dreams1971failure-pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The original study found that a...Read more...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: undark.org  
    Title: a coincidence or simple con  
-   Link: <a href="https://undark.org/2016/02/29/a-coincidence-or-simple-con/" target="_blank" rel="noopener noreferrer nofollow">https://undark.org/2016/02/29/a-coincidence-or-simple-con/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Coincidence, Or Simple Con?29 Feb 2016 — “With a large enough sample,” Diaconis and Mosteller write, “any outrageous thing is likely to h...</p></details>
+   Link:<a href="https://undark.org/2016/02/29/a-coincidence-or-simple-con/" target="_blank" rel="noopener noreferrer nofollow">https://undark.org/2016/02/29/a-coincidence-or-simple-con/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Coincidence, Or Simple Con?29 Feb 2016 — “With a large enough sample,” Diaconis and Mosteller write, “any outrageous thing is likely to h...</p></details>

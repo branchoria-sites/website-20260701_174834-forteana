@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /forteana-50bdc8-miracle-claims-expla/
 description: Focused pages that expand on Miracles.
-date: '2026-07-01'
+date: '2026'
 layout: default
 parent_basename: forteana_50bdc8_miracle_claims_expla_5c0e6a
 parent_title: Miracles
@@ -16,7 +16,7 @@ parent_permalink: /miracles/
 
 # Explore Topics in Miracles
 
-The following pages expand on the main **[Miracles]({{ '/miracles/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Miracles]({{ '/miracles/' | relative_url }})** page and cover its key branches in.
 
 - [Lourdes Cures]({{ '/lourdes-cures/' | relative_url }})
 - [Early Records]({{ '/early-records/' | relative_url }})

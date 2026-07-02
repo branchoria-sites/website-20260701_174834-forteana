@@ -280,23 +280,23 @@ image: /assets/images/forteana_50bdc8_ufology_vs_forteana_e2c263_hynek_close_enc
 
 ## Introduction
 
-J. Allen Hynek's classification system became one of the most influential organisational tools in UFOlogy because it attempted to separate fundamentally different kinds of reports instead of treating every sighting as equally significant. Rather than arguing that unexplained objects were extraterrestrial, Hynek proposed categories that distinguished distant observations from events reported at close range, where witnesses could potentially provide richer detail and where simple [misidentification]({{ 'mistakes/' | relative_url }}) might be less likely. This "close encounter filter" was intended as an investigative aid, not as proof that close reports were true. Within the wider debate between UFOlogy and [Forteana]({{ 'forteana/' | relative_url }}), the classification is important because it shows how investigators tried to impose order on a highly varied body of testimony while leaving open the possibility that some reports would remain resistant to straightforward explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.si.edu/object/siris_sil_16876" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: si.edu">[Smithsonian Institution]</a><span class="citation-popover" role="note"><span class="citation-popover-source">si.edu</span><span class="citation-popover-title">Smithsonian Institution The UFO experience a scientific inquiry [by] J</span><span class="citation-popover-snippet">Allen HynekNocturnal lights -- UFOs seen in the daytime: daylight discs -- Radar-visual... encounters of the second kind -- Close encou...</span></span></span>
+J. Allen Hynek's classification system became one of the most influential organisational tools in UFOlogy because it attempted to separate fundamentally different kinds of reports instead of treating every sighting as equally significant. Rather than arguing that unexplained objects were extraterrestrial, Hynek proposed categories that distinguished distant observations from events reported at close range, where witnesses could potentially provide richer detail and where simple [misidentification]({{ 'mistakes/' | relative_url }}) might be less likely. This "close encounter filter" was intended as an investigative aid, not as proof that close reports were true. Within the wider debate between UFOlogy and [Forteana]({{ 'forteana/' | relative_url }}), the classification is important because it shows how investigators tried to impose order on a highly varied body of testimony while leaving open the possibility that some reports would remain resistant to straightforward explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.si.edu/object/siris_sil_16876" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: si.edu">[Smithsonian Institution]</a><span class="citation-popover" role="note"><span class="citation-popover-source">si.edu</span><span class="citation-popover-title">Smithsonian Institution The UFO experience a scientific inquiry [by] J</span><span class="citation-popover-snippet">Allen HynekNocturnal lights -- UFOs seen in the daytime: daylight discs -- Radar-visual... encounters of the second kind -- Close encou...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_ufology_vs_forteana_e2c263_hynek_close_encounte_402c04-Illustration-1-dark.svg" | relative_url }}" alt="Hynek Scale illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_ufology_vs_forteana_e2c263_hynek_close_encounte_402c04-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_ufology_vs_forteana_e2c263_hynek_close_encounte_402c04-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Hynek created categories instead of a single UFO label
 
-Hynek's [experience]({{ 'experience/' | relative_url }}) as scientific adviser to the US Air Force's Project Sign, Project Grudge and [Project Blue Book]({{ 'blue-book-75a50c/' | relative_url }}) convinced him that "UFO" covered many different kinds of events. A brief glimpse of a moving light at night did not offer the same evidential value as an object observed at close range for several minutes by multiple witnesses. His 1972 book *The UFO Experience: A Scientific Inquiry* therefore introduced a structured classification that encouraged investigators to record comparable information rather than relying on dramatic narratives alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.si.edu/object/siris_sil_16876" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: si.edu">[Smithsonian Institution]</a><span class="citation-popover" role="note"><span class="citation-popover-source">si.edu</span><span class="citation-popover-title">Smithsonian Institution The UFO experience a scientific inquiry [by] J</span><span class="citation-popover-snippet">Allen HynekNocturnal lights -- UFOs seen in the daytime: daylight discs -- Radar-visual... encounters of the second kind -- Close encou...</span></span></span>
+Hynek's [experience]({{ 'experience/' | relative_url }}) as scientific adviser to the US Air Force's Project Sign, Project Grudge and [Project Blue Book]({{ 'blue-book-75a50c/' | relative_url }}) convinced him that "UFO" covered many different kinds of events. A brief glimpse of a moving light at night did not offer the same evidential value as an object observed at close range for several minutes by multiple witnesses. His 1972 book *The UFO Experience: A Scientific Inquiry* therefore introduced a structured classification that encouraged investigators to record comparable information rather than relying on dramatic narratives alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.si.edu/object/siris_sil_16876" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: si.edu">[Smithsonian Institution]</a><span class="citation-popover" role="note"><span class="citation-popover-source">si.edu</span><span class="citation-popover-title">Smithsonian Institution The UFO experience a scientific inquiry [by] J</span><span class="citation-popover-snippet">Allen HynekNocturnal lights -- UFOs seen in the daytime: daylight discs -- Radar-visual... encounters of the second kind -- Close encou...</span></span></span>
 
-The system also reflected a practical concern. Many reports could ultimately be traced to astronomical objects, aircraft, balloons or atmospheric effects. By grouping cases according to [observation]({{ 'observation/' | relative_url }}) conditions, Hynek hoped investigators could compare similar reports, identify recurring errors and reserve the greatest attention for the relatively small number of cases that resisted conventional explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Identification studies of UFOs</span><span class="citation-popover-snippet">Identification studies of UFOs</span></span></span>
+The system also reflected a practical concern. Many reports could ultimately be traced to astronomical objects, aircraft, balloons or atmospheric effects. By grouping cases according to [observation]({{ 'observation/' | relative_url }}) conditions, Hynek hoped investigators could compare similar reports, identify recurring errors and reserve the greatest attention for the relatively small number of cases that resisted conventional explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Identification studies of UFOs</span><span class="citation-popover-snippet">Identification studies of UFOs</span></span></span>
 
 ## Nocturnal lights and daylight discs
 
 The first part of Hynek's scheme classified observations made at greater distances.
 
-**Nocturnal lights** referred to unusual lights seen in the night sky. These were the most common reports but were often the hardest to interpret because darkness removes visual cues about size, speed and distance. Bright planets, stars, meteors and aircraft lights frequently entered later explanations for these cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Identification studies of UFOs</span><span class="citation-popover-snippet">Identification studies of UFOs</span></span></span>
+**Nocturnal lights** referred to unusual lights seen in the night sky. These were the most common reports but were often the hardest to interpret because darkness removes visual cues about size, speed and distance. Bright planets, stars, meteors and aircraft lights frequently entered later explanations for these cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Identification studies of UFOs</span><span class="citation-popover-snippet">Identification studies of UFOs</span></span></span>
 
-**Daylight discs** covered unidentified objects observed during daylight, regardless of whether they literally resembled a flying saucer. Better lighting could reveal shape and movement more clearly than night sightings, but distance still limited certainty. Hynek therefore treated these as observational reports rather than automatically elevating them to stronger evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close encounter</span><span class="citation-popover-snippet">Close encounter</span></span></span>
+**Daylight discs** covered unidentified objects observed during daylight, regardless of whether they literally resembled a flying saucer. Better lighting could reveal shape and movement more clearly than night sightings, but distance still limited certainty. Hynek therefore treated these as observational reports rather than automatically elevating them to stronger evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close encounter</span><span class="citation-popover-snippet">Close encounter</span></span></span>
 
 The distinction between these categories illustrates an important investigative principle. Hynek was not ranking mystery for its own sake; he was recognising that observation conditions strongly influence the quality of testimony.
 
@@ -307,7 +307,7 @@ The distinction between these categories illustrates an important investigative 
 
 Hynek gave particular attention to reports in which radar operators and visual observers independently described what appeared to be the same event. These became **radar-visual** cases.
 
-At first glance, combining human testimony with instrument readings seems to produce stronger evidence than either source alone. However, Hynek also recognised that radar returns can be affected by atmospheric propagation, equipment limitations and interpretation errors. Consequently, radar confirmation was treated as potentially valuable corroboration rather than decisive proof. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close encounter</span><span class="citation-popover-snippet">Close encounter</span></span></span>
+At first glance, combining human testimony with instrument readings seems to produce stronger evidence than either source alone. However, Hynek also recognised that radar returns can be affected by atmospheric propagation, equipment limitations and interpretation errors. Consequently, radar confirmation was treated as potentially valuable corroboration rather than decisive proof.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close encounter</span><span class="citation-popover-snippet">Close encounter</span></span></span>
 
 This approach anticipated a broader lesson that remains relevant in modern investigations of unidentified aerial phenomena: evidence becomes more persuasive when independent sources converge, but every source has its own limitations. Multiple imperfect observations do not automatically create certainty.
 
@@ -315,7 +315,7 @@ This approach anticipated a broader lesson that remains relevant in modern inves
 <img src="{{ "/assets/images/forteana_50bdc8_ufology_vs_forteana_e2c263_hynek_close_encounte_402c04-Illustration-2-dark.svg" | relative_url }}" alt="Hynek Scale illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_ufology_vs_forteana_e2c263_hynek_close_encounte_402c04-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_ufology_vs_forteana_e2c263_hynek_close_encounte_402c04-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the close encounter filter worked
 
-Hynek's best-known contribution was dividing close-range reports into three progressively richer classes. He suggested that reports occurring within roughly 500 feet (about 150 metres) deserved separate treatment because witnesses should, in principle, have more opportunity to observe details than those watching distant lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close encounter</span><span class="citation-popover-snippet">Close encounter</span></span></span>
+Hynek's best-known contribution was dividing close-range reports into three progressively richer classes. He suggested that reports occurring within roughly 500 feet (about 150 metres) deserved separate treatment because witnesses should, in principle, have more opportunity to observe details than those watching distant lights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close encounter</span><span class="citation-popover-snippet">Close encounter</span></span></span>
 
 The original categories were:
 
@@ -324,13 +324,13 @@ The original categories were:
 
 * **Close Encounter of the First Kind (CE1):** a nearby visual observation without reported physical effects.
 * **Close Encounter of the Second Kind (CE2):** a nearby observation accompanied by claimed physical traces or environmental effects, such as marks on the ground, electrical interference or effects on vegetation.
-* **Close Encounter of the Third Kind (CE3):** a nearby observation in which witnesses reported seeing occupants or entities associated with the object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close encounter</span><span class="citation-popover-snippet">Close encounter</span></span></span>
+* **Close Encounter of the Third Kind (CE3):** a nearby observation in which witnesses reported seeing occupants or entities associated with the object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close encounter</span><span class="citation-popover-snippet">Close encounter</span></span></span>
 
 </div>
 
 The key point is that these were investigative categories rather than endorsements of witness claims. A CE3 report was not considered more believable simply because it involved reported occupants; instead, it was recognised as containing qualitatively different testimony requiring different questions and methods of evaluation.
 
-Later researchers introduced fourth and fifth kinds of close encounter, especially to encompass alleged abduction and communication experiences, but these additions were not part of Hynek's original framework and have never achieved universal acceptance among UFO researchers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close encounter</span><span class="citation-popover-snippet">Close encounter</span></span></span>
+Later researchers introduced fourth and fifth kinds of close encounter, especially to encompass alleged abduction and communication experiences, but these additions were not part of Hynek's original framework and have never achieved universal acceptance among UFO researchers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close encounter</span><span class="citation-popover-snippet">Close encounter</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/L043-gQmdZA" title="What If You Have A Close Encounter Of The Third Kind? | Unveiled" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=L043-gQmdZA" target="_blank" rel="noopener noreferrer">What If You Have A Close Encounter Of The Third Kind? | Unveiled</a></p><p class="youtube-embed-meta">Channel: Unveiled &middot; Views: 15.6K &middot; Uploaded: October 2020</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=L043-gQmdZA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=L043-gQmdZA">Open on YouTube</a></p></div></div></div>
@@ -356,194 +356,194 @@ At the same time, the system has clear limits. Classification does not authentic
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Close Encounters Needed Categories. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Close Encounters Needed Categories. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Introduces and explains close encounter categories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduces and explains close encounter categories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Discusses important cases and investigative reasoning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses important cases and investigative reasoning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Shows how witness quality and evidence remain central.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how witness quality and evidence remain central.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Offers an alternative interpretation of close encounters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers an alternative interpretation of close encounters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Marvel toybiz - sasquatch - 1998 - alpha fight - 6&quot; Figure"><img src="{{ '/assets/images/marketplace-covers/97f3cd1937d9278bf70b.jpg' | relative_url }}" alt="Listing image for Marvel toybiz - sasquatch - 1998 - alpha fight - 6&quot; Figure" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure" target="_blank" rel="sponsored noopener noreferrer">Marvel toybiz - sasquatch - 1998 - alpha fight - 6&quot; Figure</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bigfoot figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bigfoot figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Marvel toybiz - sasquatch - 1998 - alpha fight - 6&quot; Figure"><img src="{{ '/assets/images/marketplace-covers/97f3cd1937d9278bf70b.jpg' | relative_url }}" alt="Listing image for Marvel toybiz - sasquatch - 1998 - alpha fight - 6&quot; Figure" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure" target="_blank" rel="sponsored noopener noreferrer">Marvel toybiz - sasquatch - 1998 - alpha fight - 6&quot; Figure</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bigfoot figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bigfoot figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funko Pop Bigfoot Flocked #14 Myths 2018 Spring Convention LE 2500 Pcs ECCC"><img src="{{ '/assets/images/marketplace-covers/75bdcf96cf1b2d014d30.jpg' | relative_url }}" alt="Listing image for Funko Pop Bigfoot Flocked #14 Myths 2018 Spring Convention LE 2500 Pcs ECCC" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure" target="_blank" rel="sponsored noopener noreferrer">Funko Pop Bigfoot Flocked #14 Myths 2018 Spring Convention LE 2500 Pcs ECCC</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bigfoot figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bigfoot figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funko Pop Bigfoot Flocked #14 Myths 2018 Spring Convention LE 2500 Pcs ECCC"><img src="{{ '/assets/images/marketplace-covers/75bdcf96cf1b2d014d30.jpg' | relative_url }}" alt="Listing image for Funko Pop Bigfoot Flocked #14 Myths 2018 Spring Convention LE 2500 Pcs ECCC" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure" target="_blank" rel="sponsored noopener noreferrer">Funko Pop Bigfoot Flocked #14 Myths 2018 Spring Convention LE 2500 Pcs ECCC</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bigfoot figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bigfoot figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kenner Action Figure Six Million Dollar Man - Bionic Bigfoot VG+"><img src="{{ '/assets/images/marketplace-covers/c95b442fc7e56957b7e9.jpg' | relative_url }}" alt="Listing image for Kenner Action Figure Six Million Dollar Man - Bionic Bigfoot VG+" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure" target="_blank" rel="sponsored noopener noreferrer">Kenner Action Figure Six Million Dollar Man - Bionic Bigfoot VG+</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bigfoot figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bigfoot figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kenner Action Figure Six Million Dollar Man - Bionic Bigfoot VG+"><img src="{{ '/assets/images/marketplace-covers/c95b442fc7e56957b7e9.jpg' | relative_url }}" alt="Listing image for Kenner Action Figure Six Million Dollar Man - Bionic Bigfoot VG+" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure" target="_blank" rel="sponsored noopener noreferrer">Kenner Action Figure Six Million Dollar Man - Bionic Bigfoot VG+</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bigfoot figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bigfoot figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bigfoot Action Figure Mythical Big Foot Gift Novelty Toy Doll Yeti Kitsch Weird"><img src="{{ '/assets/images/marketplace-covers/c8c5ff4166abcca61317.jpg' | relative_url }}" alt="Listing image for Bigfoot Action Figure Mythical Big Foot Gift Novelty Toy Doll Yeti Kitsch Weird" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure" target="_blank" rel="sponsored noopener noreferrer">Bigfoot Action Figure Mythical Big Foot Gift Novelty Toy Doll Yeti Kitsch Weird</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bigfoot figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bigfoot figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bigfoot Action Figure Mythical Big Foot Gift Novelty Toy Doll Yeti Kitsch Weird"><img src="{{ '/assets/images/marketplace-covers/c8c5ff4166abcca61317.jpg' | relative_url }}" alt="Listing image for Bigfoot Action Figure Mythical Big Foot Gift Novelty Toy Doll Yeti Kitsch Weird" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure" target="_blank" rel="sponsored noopener noreferrer">Bigfoot Action Figure Mythical Big Foot Gift Novelty Toy Doll Yeti Kitsch Weird</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bigfoot figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bigfoot figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="hynek-scale-why-close-encounters-needed-categories-forteana-bigfoot-figure" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -559,7 +559,7 @@ At the same time, the system has clear limits. Classification does not authentic
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -579,7 +579,7 @@ At the same time, the system has clear limits. Classification does not authentic
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -611,7 +611,7 @@ At the same time, the system has clear limits. Classification does not authentic
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -663,7 +663,7 @@ At the same time, the system has clear limits. Classification does not authentic
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -708,7 +708,7 @@ At the same time, the system has clear limits. Classification does not authentic
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -749,87 +749,87 @@ At the same time, the system has clear limits. Classification does not authentic
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: J. Allen Hynek  
-   Link: <a href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/J._Allen_Hynek</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/J._Allen_Hynek</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Identification studies of UFOs  
-   Link: <a href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identification_studies_of_UFOs</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identification_studies_of_UFOs</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Close encounter  
-   Link: <a href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_encounter</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_encounter</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: si.edu  
    Title: Smithsonian Institution The UFO experience a scientific inquiry [by] J  
-   Link: <a href="https://www.si.edu/object/siris_sil_16876" target="_blank" rel="noopener noreferrer nofollow">https://www.si.edu/object/siris_sil_16876</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Allen HynekNocturnal lights -- UFOs seen in the daytime: daylight discs -- Radar-visual... encounters of the second kind -- Close encou...</p></details>
+   Link:<a href="https://www.si.edu/object/siris_sil_16876" target="_blank" rel="noopener noreferrer nofollow">https://www.si.edu/object/siris_sil_16876</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Allen HynekNocturnal lights -- UFOs seen in the daytime: daylight discs -- Radar-visual... encounters of the second kind -- Close encou...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: paradelle.wordpress.com  
-   Link: <a href="https://paradelle.wordpress.com/tag/close-encounters/" target="_blank" rel="noopener noreferrer nofollow">https://paradelle.wordpress.com/tag/close-encounters/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>encounters - Weekends in Paradelle - WordPress.comMy own sighting would be classified as the first kind: a sighting more than 500 feet (1...</p></details>
+   Link:<a href="https://paradelle.wordpress.com/tag/close-encounters/" target="_blank" rel="noopener noreferrer nofollow">https://paradelle.wordpress.com/tag/close-encounters/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>encounters - Weekends in Paradelle - WordPress.comMy own sighting would be classified as the first kind: a sighting more than 500 feet (1...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: daviddarling.info  
-   Link: <a href="https://www.daviddarling.info/encyclopedia/H/Hynek.html" target="_blank" rel="noopener noreferrer nofollow">https://www.daviddarling.info/encyclopedia/H/Hynek.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>, J. Allen (1910-1986)type of UFO sighting, description; Nocturnal light, Bright light seen at night; Daylight disk, Usually oval or di...</p></details>
+   Link:<a href="https://www.daviddarling.info/encyclopedia/H/Hynek.html" target="_blank" rel="noopener noreferrer nofollow">https://www.daviddarling.info/encyclopedia/H/Hynek.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>, J. Allen (1910-1986)type of UFO sighting, description; Nocturnal light, Bright light seen at night; Daylight disk, Usually oval or di...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: leifericksonwriting.com  
-   Link: <a href="https://leifericksonwriting.com/close-encounters-sightings-and-abductions/" target="_blank" rel="noopener noreferrer nofollow">https://leifericksonwriting.com/close-encounters-sightings-and-abductions/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters – Sightings and AbductionsThe first three base classifications are Nocturnal Lights, which is seeing lights in the night...</p></details>
+   Link:<a href="https://leifericksonwriting.com/close-encounters-sightings-and-abductions/" target="_blank" rel="noopener noreferrer nofollow">https://leifericksonwriting.com/close-encounters-sightings-and-abductions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters – Sightings and AbductionsThe first three base classifications are Nocturnal Lights, which is seeing lights in the night...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: academickids.com  
-   Link: <a href="https://academickids.com/encyclopedia/index.php/Close_encounter" target="_blank" rel="noopener noreferrer nofollow">https://academickids.com/encyclopedia/index.php/Close_encounter</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Close encounterMore recently, some groups have referred to alien abductions as close encounters of the fourth kind, and encounters in whi...</p></details>
+   Link:<a href="https://academickids.com/encyclopedia/index.php/Close_encounter" target="_blank" rel="noopener noreferrer nofollow">https://academickids.com/encyclopedia/index.php/Close_encounter</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close encounterMore recently, some groups have referred to alien abductions as close encounters of the fourth kind, and encounters in whi...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/library/6483dd0f-9d12-41fa-842b-c064d636c3bb" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/6483dd0f-9d12-41fa-842b-c064d636c3bb</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hynek&#x27;s Close Encounters ScaleNocturnal Lights: Lights in the night sky. Daylight Discs: UFOs seen in the daytime, generally having disco...</p></details>
+   Link:<a href="https://enigmalabs.io/library/6483dd0f-9d12-41fa-842b-c064d636c3bb" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/6483dd0f-9d12-41fa-842b-c064d636c3bb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hynek&#x27;s Close Encounters ScaleNocturnal Lights: Lights in the night sky. Daylight Discs: UFOs seen in the daytime, generally having disco...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: universalcompendium.com  
-   Link: <a href="https://www.universalcompendium.com/tables/phil/ufos.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.universalcompendium.com/tables/phil/ufos.htm</a>  
+   Link:<a href="https://www.universalcompendium.com/tables/phil/ufos.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.universalcompendium.com/tables/phil/ufos.htm</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ufo-com.net  
-   Link: <a href="https://www.ufo-com.net/_pics/vik_gajd/vallee_sysclassif.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/_pics/vik_gajd/vallee_sysclassif.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>use Hynek&#x27;s categories of nocturnal lights, daylight disks and radar-visual cases, especially when the...Read more...</p></details>
+   Link:<a href="https://www.ufo-com.net/_pics/vik_gajd/vallee_sysclassif.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/_pics/vik_gajd/vallee_sysclassif.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>use Hynek&#x27;s categories of nocturnal lights, daylight disks and radar-visual cases, especially when the...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: popularmechanics.com  
    Title: j allen hynek project blue book ufo investigation truth  
-   Link: <a href="https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek &amp; Project Blue Book: UFO Secrets Revealed12 Apr 2026 —... UFO sightings, which involved both distant and close encounters. H...</p></details>
+   Link:<a href="https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek &amp; Project Blue Book: UFO Secrets Revealed12 Apr 2026 —... UFO sightings, which involved both distant and close encounters. H...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: smokingpipes.com  
    Title: allen hynek pipe smoking astronomer and ufo researcher  
-   Link: <a href="https://www.smokingpipes.com/smokingpipesblog/single.cfm/post/allen-hynek-pipe-smoking-astronomer-and-ufo-researcher" target="_blank" rel="noopener noreferrer nofollow">https://www.smokingpipes.com/smokingpipesblog/single.cfm/post/allen-hynek-pipe-smoking-astronomer-and-ufo-researcher</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek: Pipe Smoking Astronomer and UFO...Jan 15, 2021 — This type of encounter can also involve nocturnal lights, daylight discs...</p></details>
+   Link:<a href="https://www.smokingpipes.com/smokingpipesblog/single.cfm/post/allen-hynek-pipe-smoking-astronomer-and-ufo-researcher" target="_blank" rel="noopener noreferrer nofollow">https://www.smokingpipes.com/smokingpipesblog/single.cfm/post/allen-hynek-pipe-smoking-astronomer-and-ufo-researcher</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek: Pipe Smoking Astronomer and UFO...Jan 15, 2021 — This type of encounter can also involve nocturnal lights, daylight discs...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/PropStore/posts/the-hynek-scale-breaks-down-alien-encounters-into-first-kind-visual-sighting-of-/1132931305540635/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PropStore/posts/the-hynek-scale-breaks-down-alien-encounters-into-first-kind-visual-sighting-of-/1132931305540635/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>anged according to increasing proximity: Nocturnal lights...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/PropStore/posts/the-hynek-scale-breaks-down-alien-encounters-into-first-kind-visual-sighting-of-/1132931305540635/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PropStore/posts/the-hynek-scale-breaks-down-alien-encounters-into-first-kind-visual-sighting-of-/1132931305540635/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>anged according to increasing proximity: Nocturnal lights...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
    Title: in close encounters of the third kind 1977 j  
-   Link: <a href="https://www.reddit.com/r/MovieDetails/comments/ew47uw/in_close_encounters_of_the_third_kind_1977_j/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/MovieDetails/comments/ew47uw/in_close_encounters_of_the_third_kind_1977_j/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>worked for the governments official UFO investigation program Project Blue Book and came up with the Close Encounter scale...</p></details>
+   Link:<a href="https://www.reddit.com/r/MovieDetails/comments/ew47uw/in_close_encounters_of_the_third_kind_1977_j/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/MovieDetails/comments/ew47uw/in_close_encounters_of_the_third_kind_1977_j/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>worked for the governments official UFO investigation program Project Blue Book and came up with the Close Encounter scale...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/8282933/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/8282933/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ss who reported UFO experiences were divided into those whose experiences were nonintense (e.g., seeing lights and shapes in the sky) and...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/8282933/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/8282933/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ss who reported UFO experiences were divided into those whose experiences were nonintense (e.g., seeing lights and shapes in the sky) and...</p></details>

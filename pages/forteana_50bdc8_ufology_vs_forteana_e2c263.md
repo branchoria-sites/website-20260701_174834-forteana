@@ -447,23 +447,23 @@ image: /assets/images/forteana_50bdc8_ufology_vs_forteana_e2c263-overview-social
 
 ## Introduction
 
-UFOlogy can be part of Forteana, but it is not simply the same thing. UFOlogy narrows attention to aerial sightings, sensor tracks, alleged craft, close encounters and official files. Forteana treats those reports as one branch of a wider anomaly culture, alongside strange falls, cryptids, [apparitions]({{ 'apparitions/' | relative_url }}), poltergeist claims and other unstable reports that sit awkwardly between evidence, folklore, misperception, hoax, secrecy and genuine uncertainty. The difference matters because the two traditions ask different questions: UFOlogy often asks “what was in the sky?”, while Forteana also asks “why does this kind of report recur, mutate and survive?” Forteana, in that sense, does not dilute [UFO reports]({{ 'ufo-reports/' | relative_url }}). It changes the frame, putting them beside older sky wonders and other “damned” facts rather than forcing every case into either debunking or extraterrestrial belief. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/forteana/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">Psi Encyclopedia Forteana – Psi Encyclopedia</span><span class="citation-popover-snippet">Psi Encyclopedia Forteana – Psi Encyclopedia</span></span></span>
+UFOlogy can be part of Forteana, but it is not simply the same thing. UFOlogy narrows attention to aerial sightings, sensor tracks, alleged craft, close encounters and official files. Forteana treats those reports as one branch of a wider anomaly culture, alongside strange falls, cryptids, [apparitions]({{ 'apparitions/' | relative_url }}), poltergeist claims and other unstable reports that sit awkwardly between evidence, folklore, misperception, hoax, secrecy and genuine uncertainty. The difference matters because the two traditions ask different questions: UFOlogy often asks “what was in the sky?”, while Forteana also asks “why does this kind of report recur, mutate and survive?” Forteana, in that sense, does not dilute [UFO reports]({{ 'ufo-reports/' | relative_url }}). It changes the frame, putting them beside older sky wonders and other “damned” facts rather than forcing every case into either debunking or extraterrestrial belief.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/forteana/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">Psi Encyclopedia Forteana – Psi Encyclopedia</span><span class="citation-popover-snippet">Psi Encyclopedia Forteana – Psi Encyclopedia</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_ufology_vs_forteana_e2c263-overview.webp" | relative_url }}" alt="Overview image for UF Ology" loading="eager" decoding="sync" fetchpriority="high">
 ## Why UFOlogy became its own evidence tradition
 
-Modern UFOlogy grew around a relatively specific problem: people, sometimes including pilots, radar operators, police officers and military personnel, reported things in the sky that they could not identify. That focus produced its own evidence habits. A UFO case is typically sorted by date, location, witness position, duration, angular size, [weather]({{ 'weather/' | relative_url }}), aircraft traffic, radar correlation, photographic material, physical traces and possible conventional explanations. The United States Air Force’s [Project Blue Book]({{ 'blue-book-75a50c/' | relative_url }}) records, now declassified and held by the National Archives, show how official UFO investigation became a document-heavy practice rather than just a body of strange stories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+Modern UFOlogy grew around a relatively specific problem: people, sometimes including pilots, radar operators, police officers and military personnel, reported things in the sky that they could not identify. That focus produced its own evidence habits. A UFO case is typically sorted by date, location, witness position, duration, angular size, [weather]({{ 'weather/' | relative_url }}), aircraft traffic, radar correlation, photographic material, physical traces and possible conventional explanations. The United States Air Force’s [Project Blue Book]({{ 'blue-book-75a50c/' | relative_url }}) records, now declassified and held by the National Archives, show how official UFO investigation became a document-heavy practice rather than just a body of strange stories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
-This is where UFOlogy differs most sharply from broad [Forteana]({{ 'forteana/' | relative_url }}). It has often tried to behave like a specialist inquiry into aerospace anomalies. J. Allen Hynek’s 1972 book *The UFO [Experience]({{ 'experience/' | relative_url }}): A Scientific Inquiry* helped codify that ambition, especially through classifications such as nocturnal lights, daylight discs, radar-visual cases and close encounters. Those categories did not prove that UFOs were alien craft; they gave investigators a shared way to separate weak distant-light reports from closer, richer, more puzzling claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/details/ufoexperience00jall" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Open source on archive.org.</span></span></span>
+This is where UFOlogy differs most sharply from broad [Forteana]({{ 'forteana/' | relative_url }}). It has often tried to behave like a specialist inquiry into aerospace anomalies. J. Allen Hynek’s 1972 book *The UFO [Experience]({{ 'experience/' | relative_url }}): A Scientific Inquiry* helped codify that ambition, especially through classifications such as nocturnal lights, daylight discs, radar-visual cases and close encounters. Those categories did not prove that UFOs were alien craft; they gave investigators a shared way to separate weak distant-light reports from closer, richer, more puzzling claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/details/ufoexperience00jall" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Open source on archive.org.</span></span></span>
 
-Official interest also shaped UFOlogy’s tone. The post-war flying-saucer era unfolded in a world of radar, jet aircraft, nuclear anxiety, Cold War secrecy and later satellite surveillance. UFO reports could therefore be treated not only as folklore or curiosity, but as possible aviation-safety, intelligence or defence matters. That institutional setting continues in the newer language of unidentified anomalous phenomena, or UAP. NASA’s 2023 independent study team report framed the issue as a data problem that could benefit from better collection methods, transparent scientific practice and careful use of existing observational systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP</span><span class="citation-popover-snippet">Science UAP</span></span></span>
+Official interest also shaped UFOlogy’s tone. The post-war flying-saucer era unfolded in a world of radar, jet aircraft, nuclear anxiety, Cold War secrecy and later satellite surveillance. UFO reports could therefore be treated not only as folklore or curiosity, but as possible aviation-safety, intelligence or defence matters. That institutional setting continues in the newer language of unidentified anomalous phenomena, or UAP. NASA’s 2023 independent study team report framed the issue as a data problem that could benefit from better collection methods, transparent scientific practice and careful use of existing observational systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP</span><span class="citation-popover-snippet">Science UAP</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_ufology_vs_forteana_e2c263-Illustration-1-dark.svg" | relative_url }}" alt="UF Ology illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_ufology_vs_forteana_e2c263-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_ufology_vs_forteana_e2c263-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where Forteana changes the question
 
-A Fortean reading begins from a broader premise: some reports are not just unexplained objects, but unstable events that cross boundaries between observation, interpretation and culture. Forteana is interested in why a claim is rejected, why it persists, how witnesses describe it, how authorities handle it, and how old motifs reappear in new dress. The Society for Psychical Research’s Psi Encyclopedia describes Fortean phenomena as “scientific heresies” in Fort’s sense: claims or events rejected by mainstream science but repeatedly collected by anomaly-minded writers and investigators. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/forteana/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">Psi Encyclopedia Forteana – Psi Encyclopedia</span><span class="citation-popover-snippet">Psi Encyclopedia Forteana – Psi Encyclopedia</span></span></span>
+A Fortean reading begins from a broader premise: some reports are not just unexplained objects, but unstable events that cross boundaries between observation, interpretation and culture. Forteana is interested in why a claim is rejected, why it persists, how witnesses describe it, how authorities handle it, and how old motifs reappear in new dress. The Society for Psychical Research’s Psi Encyclopedia describes Fortean phenomena as “scientific heresies” in Fort’s sense: claims or events rejected by mainstream science but repeatedly collected by anomaly-minded writers and investigators.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/forteana/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">Psi Encyclopedia Forteana – Psi Encyclopedia</span><span class="citation-popover-snippet">Psi Encyclopedia Forteana – Psi Encyclopedia</span></span></span>
 
 Applied to UFOs, that means a sighting is not reduced to “aliens or nothing”. A Fortean approach can hold several possibilities together: a misidentified aircraft, a planet seen under unusual conditions, a classified military platform, an atmospheric phenomenon, a social rumour, a hoax, a sincere but distorted memory, or a genuinely unresolved report. The point is not to believe all of them equally. It is to resist premature closure, especially when both believers and sceptics are tempted to make a case simpler than the evidence allows.
 
@@ -474,7 +474,7 @@ This is why Forteana often feels less tidy than UFOlogy. A specialist UFO invest
 
 ## Aerial sightings as anomaly reports
 
-The strongest overlap between UFOlogy and Forteana lies in the raw report: someone sees something in the sky, describes it as extraordinary, and the explanation remains uncertain or disputed. Such reports long predate the phrase “flying saucer”. Fortean and folkloric writers have repeatedly noted that people have described strange lights, celestial signs, aerial vessels and sky beings using the language available in their own time. Jacques Vallée’s *Passport to Magonia* became influential because it argued that modern UFO stories should be compared with older traditions of supernatural visitation, not treated only as reports of spacecraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://books.google.com/books/about/Passport_to_Magonia_from_Folklore_to_Fly.html?id=HRJDAAAAIAAJ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: books.google.com">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">books.google.com</span><span class="citation-popover-title">Books Passport to Magonia: from Folklore to Flying Saucers</span><span class="citation-popover-snippet">Books Passport to Magonia: from Folklore to Flying Saucers</span></span></span>
+The strongest overlap between UFOlogy and Forteana lies in the raw report: someone sees something in the sky, describes it as extraordinary, and the explanation remains uncertain or disputed. Such reports long predate the phrase “flying saucer”. Fortean and folkloric writers have repeatedly noted that people have described strange lights, celestial signs, aerial vessels and sky beings using the language available in their own time. Jacques Vallée’s *Passport to Magonia* became influential because it argued that modern UFO stories should be compared with older traditions of supernatural visitation, not treated only as reports of spacecraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://books.google.com/books/about/Passport_to_Magonia_from_Folklore_to_Fly.html?id=HRJDAAAAIAAJ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: books.google.com">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">books.google.com</span><span class="citation-popover-title">Books Passport to Magonia: from Folklore to Flying Saucers</span><span class="citation-popover-snippet">Books Passport to Magonia: from Folklore to Flying Saucers</span></span></span>
 
 This comparative move is central to “UFOlogy versus Forteana”. UFOlogy tends to preserve the aerial object as the main unit of study. Forteana notices that the object is often only one part of the experience. A witness may report paralysis, missing time, telepathic messages, animal reactions, burns, religious dread, technological imagery or absurd details that do not fit neat aerospace expectations. These elements may be dismissed by technical investigators as noise, but Forteana asks whether the noise is part of the historical pattern.
 
@@ -486,11 +486,11 @@ The comparison is not an argument that medieval fairies were aliens or that mode
 
 UFOlogy’s great strength is that it developed practical filters for better and worse cases. It asks whether a report has multiple witnesses, independent observation, radar or infrared data, photographs, physical traces, contemporaneous notes, and enough environmental information to test mundane explanations. This evidential discipline separates it from loose strange-story collecting.
 
-Recent official UAP material shows both the value and the limits of this approach. AARO’s official imagery page includes cases resolved as balloons, birds or prosaic aircraft, alongside cases still marked unresolved or undergoing analysis. Several unresolved entries remain limited not because they obviously show exotic technology, but because the available data is insufficient to determine exactly what was seen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span>
+Recent official UAP material shows both the value and the limits of this approach. AARO’s official imagery page includes cases resolved as balloons, birds or prosaic aircraft, alongside cases still marked unresolved or undergoing analysis. Several unresolved entries remain limited not because they obviously show exotic technology, but because the available data is insufficient to determine exactly what was seen.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span>
 
-That distinction is important. In UFOlogy, “unidentified” is a status, not a conclusion. Reuters’ summary of AARO’s 2024 historical report noted that US government investigations since the end of the Second World War found no confirmed evidence of extraterrestrial technology, while also acknowledging that some reports remain unsolved and that better data would probably resolve many of them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Open source on reuters.com.</span></span></span>
+That distinction is important. In UFOlogy, “unidentified” is a status, not a conclusion. Reuters’ summary of AARO’s 2024 historical report noted that US government investigations since the end of the Second World War found no confirmed evidence of extraterrestrial technology, while also acknowledging that some reports remain unsolved and that better data would probably resolve many of them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Open source on reuters.com.</span></span></span>
 
-Modern research groups have tried to respond to this weakness by designing dedicated observation systems rather than relying on after-the-fact witness accounts. The Galileo Project, for example, has proposed multimodal ground-based observatories using optical, infrared, radio and other sensors to collect calibrated data on aerial anomalies. UAPx’s first field expedition paper similarly emphasised instrumentation, false-positive reduction and lessons learned from ambiguous detections. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+Modern research groups have tried to respond to this weakness by designing dedicated observation systems rather than relying on after-the-fact witness accounts. The Galileo Project, for example, has proposed multimodal ground-based observatories using optical, infrared, radio and other sensors to collect calibrated data on aerial anomalies. UAPx’s first field expedition paper similarly emphasised instrumentation, false-positive reduction and lessons learned from ambiguous detections.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TPahmE7X4Js" title="Passport to Magonia by Jacques Vallee: UFOs, Folklore, and Parallel Worlds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TPahmE7X4Js" target="_blank" rel="noopener noreferrer">Passport to Magonia by Jacques Vallee: UFOs, Folklore, and Parallel Worlds</a></p><p class="youtube-embed-meta">Channel: Starseed Films</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TPahmE7X4Js" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TPahmE7X4Js">Open on YouTube</a></p></div></div></div>
@@ -501,7 +501,7 @@ Forteana adds three things that specialist UFOlogy often struggles to keep in vi
 
 First, it protects the historical depth of the subject. UFOlogy can sometimes behave as though the mystery began in 1947, with post-war flying saucers and official investigations. Forteana pushes the horizon backwards, asking how older aerial wonders, miracle reports, sky battles, phantom airships and religious apparitions shaped later expectations. That does not make them the same phenomenon, but it prevents the modern UFO narrative from pretending it has no ancestors.
 
-Second, Forteana keeps cultural meaning in the frame. Jacques Vallée’s long career is important here because he refused both the simple debunking model and the simple extraterrestrial-craft model. Wired’s profile of Vallée describes his view that UFO study needs both hard data and cultural interpretation: numbers, databases and pattern analysis, but also attention to how culture moulds what people think they have encountered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/jacques-vallee-still-doesnt-know-what-ufos-are" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Jacques Vallée Still Doesn’t Know What UFOs Are &#124; WIRED</span><span class="citation-popover-snippet">Jacques Vallée Still Doesn’t Know What UFOs Are &#124; WIRED</span></span></span>
+Second, Forteana keeps cultural meaning in the frame. Jacques Vallée’s long career is important here because he refused both the simple debunking model and the simple extraterrestrial-craft model. Wired’s profile of Vallée describes his view that UFO study needs both hard data and cultural interpretation: numbers, databases and pattern analysis, but also attention to how culture moulds what people think they have encountered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/jacques-vallee-still-doesnt-know-what-ufos-are" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Jacques Vallée Still Doesn’t Know What UFOs Are &#124; WIRED</span><span class="citation-popover-snippet">Jacques Vallée Still Doesn’t Know What UFOs Are &#124; WIRED</span></span></span>
 
 Third, Forteana is better at noticing absurdity. Many UFO cases contain details that look counterproductive if interpreted as straightforward reconnaissance by advanced visitors: theatrical appearances, inconsistent behaviour, dreamlike encounters, symbolic messages, and evidence that is just strong enough to disturb but not strong enough to settle the matter. A narrow UFOlogy may treat such details as embarrassing contamination. Forteana treats them as part of the phenomenon’s texture, while still allowing that many may arise from [psychology]({{ 'psychology/' | relative_url }}), storytelling, expectation or error.
 
@@ -513,7 +513,7 @@ There is a danger in the Fortean frame. If every UFO report becomes just another
 
 That is why the best comparison is not “UFOlogy is serious and Forteana is fanciful”, or “Forteana is subtle and UFOlogy is naive”. Each tradition corrects the other. UFOlogy supplies case discipline, technical caution and attention to physical evidence. Forteana supplies historical memory, cultural comparison and resistance to premature certainty.
 
-The tension is visible in official UAP work. NASA’s public-facing approach emphasises better data and scientific method, while AARO’s case summaries show many reports being resolved through ordinary explanations or left unresolved because the evidence is too thin. A Fortean reader would accept those technical conclusions where they are warranted, but would also notice the wider social pattern: secrecy, distrust, media amplification, shifting terminology and the persistent desire to turn “unidentified” into a story about hidden worlds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP</span><span class="citation-popover-snippet">Science UAP</span></span></span>
+The tension is visible in official UAP work. NASA’s public-facing approach emphasises better data and scientific method, while AARO’s case summaries show many reports being resolved through ordinary explanations or left unresolved because the evidence is too thin. A Fortean reader would accept those technical conclusions where they are warranted, but would also notice the wider social pattern: secrecy, distrust, media amplification, shifting terminology and the persistent desire to turn “unidentified” into a story about hidden worlds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP</span><span class="citation-popover-snippet">Science UAP</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Pj7IncfUd44" title="Whimsical. Wooly. Weird. Charles Fort&#x27;s &quot;Book of the Damned!&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Pj7IncfUd44" target="_blank" rel="noopener noreferrer">Whimsical. Wooly. Weird. Charles Fort&#x27;s &quot;Book of the Damned!&quot;</a></p><p class="youtube-embed-meta">Channel: Rudolph Kohn</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Pj7IncfUd44" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Pj7IncfUd44">Open on YouTube</a></p></div></div></div>
@@ -527,194 +527,194 @@ A useful rule is this: UFOlogy asks what can be identified; Forteana asks what r
 That is why UFOlogy versus Forteana is not a rivalry so much as a difference in scale. UFOlogy zooms in on aerial mysteries. Forteana zooms out to the ecology of anomalies. The most careful study of strange sky reports needs both: the discipline to test the object, and the patience to understand the story that gathers around it.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Is UF Ology Part of Forteana?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Is UF Ology Part of Forteana?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
-        </h4>
-        <p class="fr-book-author">By Charles Fort</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
+</h4>
+<p class="fr-book-author">By Charles Fort</p>
         
-        <p class="fr-book-desc">Introduces the core ideas behind Forteana and &#x27;damned facts&#x27;.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduces the core ideas behind Forteana and &#x27;damned facts&#x27;.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Provides a skeptical framework for evaluating anomalous reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a skeptical framework for evaluating anomalous reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Explores why remarkable stories and beliefs persist across generations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Explores why remarkable stories and beliefs persist across generations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Weird+New+Jersey+Mark+Moran+and+Mark+Sceurman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weird New Jersey on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Weird+New+Jersey+Mark+Moran+and+Mark+Sceurman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weird New Jersey">Weird New Jersey</a>
-        </h4>
-        <p class="fr-book-author">By Mark Moran and Mark Sceurman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Weird+New+Jersey+Mark+Moran+and+Mark+Sceurman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weird New Jersey on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Weird+New+Jersey+Mark+Moran+and+Mark+Sceurman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weird New Jersey">Weird New Jersey</a>
+</h4>
+<p class="fr-book-author">By Mark Moran and Mark Sceurman</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Weird+New+Jersey+Mark+Moran+and+Mark+Sceurman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Weird+New+Jersey+Mark+Moran+and+Mark+Sceurman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage GHOST PARANORMAL Wall Art, Seance Haunted House Poster, Halloween Decor"><img src="{{ '/assets/images/marketplace-covers/0e908c9a7e14d4c9e35e.jpg' | relative_url }}" alt="Listing image for Vintage GHOST PARANORMAL Wall Art, Seance Haunted House Poster, Halloween Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage GHOST PARANORMAL Wall Art, Seance Haunted House Poster, Halloween Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage GHOST PARANORMAL Wall Art, Seance Haunted House Poster, Halloween Decor"><img src="{{ '/assets/images/marketplace-covers/0e908c9a7e14d4c9e35e.jpg' | relative_url }}" alt="Listing image for Vintage GHOST PARANORMAL Wall Art, Seance Haunted House Poster, Halloween Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage GHOST PARANORMAL Wall Art, Seance Haunted House Poster, Halloween Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: paranormal wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Twin Paranormal Merch Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e81c3be635c0399faf40.jpg' | relative_url }}" alt="Listing image for Twin Paranormal Merch Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer">Twin Paranormal Merch Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Twin Paranormal Merch Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e81c3be635c0399faf40.jpg' | relative_url }}" alt="Listing image for Twin Paranormal Merch Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer">Twin Paranormal Merch Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: paranormal wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Home Wall Art Print - Vintage Spiritual Paranormal - OUIJA BOARD PRINT -A4,A3,A2"><img src="{{ '/assets/images/marketplace-covers/d774124c198e7e2efe0e.jpg' | relative_url }}" alt="Listing image for Home Wall Art Print - Vintage Spiritual Paranormal - OUIJA BOARD PRINT -A4,A3,A2" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer">Home Wall Art Print - Vintage Spiritual Paranormal - OUIJA BOARD PRINT -A4,A3,A2</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Home Wall Art Print - Vintage Spiritual Paranormal - OUIJA BOARD PRINT -A4,A3,A2"><img src="{{ '/assets/images/marketplace-covers/d774124c198e7e2efe0e.jpg' | relative_url }}" alt="Listing image for Home Wall Art Print - Vintage Spiritual Paranormal - OUIJA BOARD PRINT -A4,A3,A2" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer">Home Wall Art Print - Vintage Spiritual Paranormal - OUIJA BOARD PRINT -A4,A3,A2</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: paranormal wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PARANORMAL SNACKTIVITY - GHOST HALL Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/cb82bc876458c0948562.jpg' | relative_url }}" alt="Listing image for PARANORMAL SNACKTIVITY - GHOST HALL Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer">PARANORMAL SNACKTIVITY - GHOST HALL Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PARANORMAL SNACKTIVITY - GHOST HALL Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/cb82bc876458c0948562.jpg' | relative_url }}" alt="Listing image for PARANORMAL SNACKTIVITY - GHOST HALL Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer">PARANORMAL SNACKTIVITY - GHOST HALL Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: paranormal wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="uf-ology-is-uf-ology-part-of-forteana-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -730,7 +730,7 @@ That is why UFOlogy versus Forteana is not a rivalry so much as a difference in 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -750,7 +750,7 @@ That is why UFOlogy versus Forteana is not a rivalry so much as a difference in 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -782,7 +782,7 @@ That is why UFOlogy versus Forteana is not a rivalry so much as a difference in 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -834,7 +834,7 @@ That is why UFOlogy versus Forteana is not a rivalry so much as a difference in 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -879,7 +879,7 @@ That is why UFOlogy versus Forteana is not a rivalry so much as a difference in 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -920,202 +920,202 @@ That is why UFOlogy versus Forteana is not a rivalry so much as a difference in 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/details/ufoexperience00jall" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/ufoexperience00jall</a>  
+   Link:<a href="https://archive.org/details/ufoexperience00jall" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/ufoexperience00jall</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: science.nasa.gov  
    Title: Science UAP  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: books.google.com  
    Title: Books Passport to Magonia: from Folklore to Flying Saucers  
-   Link: <a href="https://books.google.com/books/about/Passport_to_Magonia_from_Folklore_to_Fly.html?id=HRJDAAAAIAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Passport_to_Magonia_from_Folklore_to_Fly.html?id=HRJDAAAAIAAJ</a>  
+   Link:<a href="https://books.google.com/books/about/Passport_to_Magonia_from_Folklore_to_Fly.html?id=HRJDAAAAIAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Passport_to_Magonia_from_Folklore_to_Fly.html?id=HRJDAAAAIAAJ</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
+   Link:<a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
+   Link:<a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2312.00558" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2312.00558</a>  
+   Link:<a href="https://arxiv.org/abs/2312.00558" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2312.00558</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: wired.com  
    Title: Jacques Vallée Still Doesn’t Know What UFOs Are | WIRED  
-   Link: <a href="https://www.wired.com/story/jacques-vallee-still-doesnt-know-what-ufos-are" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/jacques-vallee-still-doesnt-know-what-ufos-are</a>  
+   Link:<a href="https://www.wired.com/story/jacques-vallee-still-doesnt-know-what-ufos-are" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/jacques-vallee-still-doesnt-know-what-ufos-are</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: archive.org  
    Title: Fort New Lands Lo Wild Talents  
-   Link: <a href="https://archive.org/details/FortNewLandsLoWildTalents" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/FortNewLandsLoWildTalents</a>  
+   Link:<a href="https://archive.org/details/FortNewLandsLoWildTalents" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/FortNewLandsLoWildTalents</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: archive.org  
    Title: scientificstudyo0000unse l5t2  
-   Link: <a href="https://archive.org/details/scientificstudyo0000unse_l5t2" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/scientificstudyo0000unse_l5t2</a>  
+   Link:<a href="https://archive.org/details/scientificstudyo0000unse_l5t2" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/scientificstudyo0000unse_l5t2</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ia601409.us.archive.org  
    Title: Passport to Magonia—UFOs, Folklore, and Parallel Worlds, Jacques Vallée (1993)  
-   Link: <a href="https://ia601409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf</a>  
+   Link:<a href="https://ia601409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ia801305.us.archive.org  
    Title: Fortean Times March 2016  
-   Link: <a href="https://ia801305.us.archive.org/6/items/Fortean_Times_March_2016/Fortean_Times_March_2016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia801305.us.archive.org/6/items/Fortean_Times_March_2016/Fortean_Times_March_2016.pdf</a>  
+   Link:<a href="https://ia801305.us.archive.org/6/items/Fortean_Times_March_2016/Fortean_Times_March_2016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia801305.us.archive.org/6/items/Fortean_Times_March_2016/Fortean_Times_March_2016.pdf</a>  
    Published: March 2016  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/foia/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/foia/ufos.html</a>  
+   Link:<a href="https://www.archives.gov/foia/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/foia/ufos.html</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
+   Link:<a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: forums.forteana.org  
-   Link: <a href="https://forums.forteana.org/index.php?tags%2Fufos%2F=" target="_blank" rel="noopener noreferrer nofollow">https://forums.forteana.org/index.php?tags%2Fufos%2F=</a>  
+   Link:<a href="https://forums.forteana.org/index.php?tags%2Fufos%2F=" target="_blank" rel="noopener noreferrer nofollow">https://forums.forteana.org/index.php?tags%2Fufos%2F=</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: forums.forteana.org  
-   Link: <a href="https://forums.forteana.org/index.php?threads%2Ffortean-categories-definitions-for-classes-of-anomalies.27383%2F=" target="_blank" rel="noopener noreferrer nofollow">https://forums.forteana.org/index.php?threads%2Ffortean-categories-definitions-for-classes-of-anomalies.27383%2F=</a>  
+   Link:<a href="https://forums.forteana.org/index.php?threads%2Ffortean-categories-definitions-for-classes-of-anomalies.27383%2F=" target="_blank" rel="noopener noreferrer nofollow">https://forums.forteana.org/index.php?threads%2Ffortean-categories-definitions-for-classes-of-anomalies.27383%2F=</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/naphology" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/naphology</a>  
+   Link:<a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/naphology" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/naphology</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: psi-encyclopedia.spr.ac.uk  
    Title: Psi Encyclopedia Forteana – Psi Encyclopedia  
-   Link: <a href="https://psi-encyclopedia.spr.ac.uk/articles/forteana/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/articles/forteana/</a>  
+   Link:<a href="https://psi-encyclopedia.spr.ac.uk/articles/forteana/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/articles/forteana/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: psi-encyclopedia.spr.ac.uk  
    Title: Psi Encyclopedia Anomalistics – Psi Encyclopedia  
-   Link: <a href="https://psi-encyclopedia.spr.ac.uk/articles/anomalistics/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/articles/anomalistics/</a>  
+   Link:<a href="https://psi-encyclopedia.spr.ac.uk/articles/anomalistics/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/articles/anomalistics/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: psi-encyclopedia.spr.ac.uk  
    Title: spr.ac.uk General Topics  
-   Link: <a href="https://psi-encyclopedia.spr.ac.uk/category/general-topics/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/category/general-topics/</a>  
+   Link:<a href="https://psi-encyclopedia.spr.ac.uk/category/general-topics/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/category/general-topics/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: psi-encyclopedia.spr.ac.uk  
    Title: spr.ac.uk Miscellaneous Anomalistics  
-   Link: <a href="https://psi-encyclopedia.spr.ac.uk/category/general-topics/miscellaneous-anomalistics/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/category/general-topics/miscellaneous-anomalistics/</a>  
+   Link:<a href="https://psi-encyclopedia.spr.ac.uk/category/general-topics/miscellaneous-anomalistics/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/category/general-topics/miscellaneous-anomalistics/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: journalofscientificexploration.org  
-   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/991/675" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/991/675</a>  
+   Link:<a href="https://journalofscientificexploration.org/index.php/jse/article/view/991/675" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/991/675</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
 ### Additional References
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: A reflection on the Fortean: "We are property" ([Charles Fort](&#123;&#123; 'charles-fort/' | relative_url &#125;&#125;)) | Pure Virtue  
-   Link: <a href="https://www.youtube.com/watch?v=Nr41Kzeu82M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Nr41Kzeu82M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Whimsical. Wooly. Weird. Charles Fort&#x27;s &quot;Book of the Damned!&quot;...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Nr41Kzeu82M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Nr41Kzeu82M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Whimsical. Wooly. Weird. Charles Fort&#x27;s &quot;Book of the Damned!&quot;...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
    Title: Whimsical. Wooly. Weird. Charles Fort's "Book of the Damned!"  
-   Link: <a href="https://www.youtube.com/watch?v=Pj7IncfUd44" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Pj7IncfUd44</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Scientist Who Failed to Disprove UFOs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Pj7IncfUd44" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Pj7IncfUd44</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Scientist Who Failed to Disprove UFOs...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
    Title: Jerome Clark  
-   Link: <a href="https://www.youtube.com/watch?v=SelOdzppZ_g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SelOdzppZ_g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A reflection on the Fortean: &quot;We are property&quot; (Charles Fort) | Pure Virtue...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=SelOdzppZ_g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SelOdzppZ_g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A reflection on the Fortean: &quot;We are property&quot; (Charles Fort) | Pure Virtue...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/241851924_Why_the_future_is_Fortean" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/241851924_Why_the_future_is_Fortean</a>  
+   Link:<a href="https://www.researchgate.net/publication/241851924_Why_the_future_is_Fortean" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/241851924_Why_the_future_is_Fortean</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: archivesfoundation.org  
-   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
+   Link:<a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: cantab.net  
-   Link: <a href="https://www.cantab.net/users/michael.behrend/ebooks/MoreThings/pages/Chapter_01.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cantab.net/users/michael.behrend/ebooks/MoreThings/pages/Chapter_01.html</a>  
+   Link:<a href="https://www.cantab.net/users/michael.behrend/ebooks/MoreThings/pages/Chapter_01.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cantab.net/users/michael.behrend/ebooks/MoreThings/pages/Chapter_01.html</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/397932529/GROSS-Charles-Fort-The-Fortean-Society-UFOs-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/397932529/GROSS-Charles-Fort-The-Fortean-Society-UFOs-pdf</a>  
+   Link:<a href="https://www.scribd.com/document/397932529/GROSS-Charles-Fort-The-Fortean-Society-UFOs-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/397932529/GROSS-Charles-Fort-The-Fortean-Society-UFOs-pdf</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2025/02/handbook-for-the-curious-about-the-damned/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2025/02/handbook-for-the-curious-about-the-damned/</a>  
+   Link:<a href="https://skepticalinquirer.org/2025/02/handbook-for-the-curious-about-the-damned/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2025/02/handbook-for-the-curious-about-the-damned/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/4995087850/posts/10161199049952851/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/4995087850/posts/10161199049952851/</a>  
+   Link:<a href="https://www.facebook.com/groups/4995087850/posts/10161199049952851/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/4995087850/posts/10161199049952851/</a>  

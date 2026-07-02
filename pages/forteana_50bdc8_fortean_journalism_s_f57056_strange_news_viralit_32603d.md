@@ -288,9 +288,9 @@ The key lesson from misinformation research is not that every strange report is 
 
 ## Novelty and surprise are powerful sharing incentives
 
-The most influential dataset on this question comes from researchers at the Massachusetts Institute of Technology, who analysed around 126,000 news stories shared by roughly three million Twitter users between 2006 and 2017. The stories were independently classified as true or false using multiple professional fact-checking organisations. The researchers found that false stories spread farther, faster, more deeply and more broadly than true ones across nearly every news category. False stories were also significantly more likely to reach large audiences quickly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">There is worldwide concern over false news and the possibility that it can influence political, economic, and...Read more...</span></span></span>
+The most influential dataset on this question comes from researchers at the Massachusetts Institute of Technology, who analysed around 126,000 news stories shared by roughly three million Twitter users between 2006 and 2017. The stories were independently classified as true or false using multiple professional fact-checking organisations. The researchers found that false stories spread farther, faster, more deeply and more broadly than true ones across nearly every news category. False stories were also significantly more likely to reach large audiences quickly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">There is worldwide concern over false news and the possibility that it can influence political, economic, and...Read more...</span></span></span>
 
-Their analysis offered an important explanation. False stories tended to contain greater novelty than truthful ones, while replies showed stronger expressions of surprise and disgust. In other words, people were not merely sharing information; they were sharing emotional experiences and unexpected discoveries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">There is worldwide concern over false news and the possibility that it can influence political, economic, and...Read more...</span></span></span>
+Their analysis offered an important explanation. False stories tended to contain greater novelty than truthful ones, while replies showed stronger expressions of surprise and disgust. In other words, people were not merely sharing information; they were sharing emotional experiences and unexpected discoveries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">There is worldwide concern over false news and the possibility that it can influence political, economic, and...Read more...</span></span></span>
 
 This finding helps explain why Fortean stories often travel so effectively. A report of an unidentified animal, unexplained object or impossible event already possesses the characteristics that research identifies as highly shareable:
 
@@ -311,7 +311,7 @@ None of these qualities determine whether a report is accurate. They simply incr
 
 ## People, not just bots, drive the spread
 
-One of the most surprising conclusions from the MIT study was that automated accounts were not the main explanation for the faster spread of false stories. Bots amplified both true and false information at similar rates. Even after accounting for bot activity, human users remained substantially more likely to circulate false or highly questionable stories than verified ones. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ide.mit.edu/wp-content/uploads/2018/12/2017-IDE-Research-Brief-False-News.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ide.mit.edu">[MIT Initiative on the Digital Economy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ide.mit.edu</span><span class="citation-popover-snippet">MIT Initiative on the Digital EconomyTHE SPREAD OF TRUE AND FALSE NEWS ONLINEby S Vosoughi — Contrary to conventional wisdom, robots acce...</span></span></span>
+One of the most surprising conclusions from the MIT study was that automated accounts were not the main explanation for the faster spread of false stories. Bots amplified both true and false information at similar rates. Even after accounting for bot activity, human users remained substantially more likely to circulate false or highly questionable stories than verified ones.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ide.mit.edu/wp-content/uploads/2018/12/2017-IDE-Research-Brief-False-News.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ide.mit.edu">[MIT Initiative on the Digital Economy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ide.mit.edu</span><span class="citation-popover-snippet">MIT Initiative on the Digital EconomyTHE SPREAD OF TRUE AND FALSE NEWS ONLINEby S Vosoughi — Contrary to conventional wisdom, robots acce...</span></span></span>
 
 This matters for strange news because it shifts attention from technological manipulation to ordinary human behaviour. People frequently share remarkable claims because doing so signals curiosity, humour, concern or excitement. An extraordinary report can become socially valuable long before anyone investigates whether it is accurate.
 
@@ -355,7 +355,7 @@ Second, provenance matters. Readers benefit from knowing whether information com
 
 Third, novelty deserves extra scrutiny rather than automatic promotion. Because surprising claims naturally attract attention, journalists have reason to apply greater verification rather than lower standards.
 
-UNESCO's journalism guidance similarly argues that reporters should distinguish between verified facts, rumours and speculation, avoid amplifying unsupported claims through sensational presentation, and make verification methods transparent wherever possible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unesdoc.unesco.org/ark%3A/48223/pf0000265552" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesdoc.unesco.org">[UNESCO Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesdoc.unesco.org</span><span class="citation-popover-snippet">Much of the discourse on &#x27;fake news&#x27; conflates two notions: misinformation and...Read more...</span></span></span>
+UNESCO's journalism guidance similarly argues that reporters should distinguish between verified facts, rumours and speculation, avoid amplifying unsupported claims through sensational presentation, and make verification methods transparent wherever possible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://unesdoc.unesco.org/ark%3A/48223/pf0000265552" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesdoc.unesco.org">[UNESCO Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesdoc.unesco.org</span><span class="citation-popover-snippet">Much of the discourse on &#x27;fake news&#x27; conflates two notions: misinformation and...Read more...</span></span></span>
 
 For editors covering Fortean subjects, these principles do not eliminate mystery. Instead, they preserve the distinction between an unusual [observation]({{ 'observation/' | relative_url }}) and the stronger claims that later retellings may attach to it.
 
@@ -365,7 +365,7 @@ For editors covering Fortean subjects, these principles do not eliminate mystery
 
 The challenge facing modern Fortean journalism is not entirely new. [Newspapers]({{ 'newspapers/' | relative_url }}) have long rewarded novelty because unusual stories attract readers. What has changed is the speed and scale of transmission.
 
-Contemporary audiences increasingly encounter news through social and video platforms rather than directly from news organisations, creating more opportunities for striking but weakly sourced material to circulate without its original context. Concerns about misinformation have risen alongside this shift. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2026/dnr-executive-summary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersinstitute.politics.ox.ac.uk">[reutersinstitute.politics.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersinstitute.politics.ox.ac.uk</span><span class="citation-popover-snippet">Overview and key findings of the 2026 Digital News Report6 days ago — Concerns about fake news are also up, by 4pp to 62% on average, with...</span></span></span>
+Contemporary audiences increasingly encounter news through social and video platforms rather than directly from news organisations, creating more opportunities for striking but weakly sourced material to circulate without its original context. Concerns about misinformation have risen alongside this shift.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2026/dnr-executive-summary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersinstitute.politics.ox.ac.uk">[reutersinstitute.politics.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersinstitute.politics.ox.ac.uk</span><span class="citation-popover-snippet">Overview and key findings of the 2026 Digital News Report6 days ago — Concerns about fake news are also up, by 4pp to 62% on average, with...</span></span></span>
 
 For forteana, this means that the classic lifecycle of a strange report—from local observation to national curiosity and eventually to legend—can now unfold within hours rather than years. The underlying [psychology]({{ 'psychology/' | relative_url }}) identified by misinformation research remains remarkably consistent: people are naturally drawn to stories that are surprising, emotionally engaging and difficult to explain. Understanding that tendency helps explain why odd stories travel so far, while also reminding readers that widespread circulation should never be mistaken for strong evidence.
 
@@ -374,178 +374,178 @@ For forteana, this means that the classic lifecycle of a strange report—from l
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Strange Stories Spread So Fast. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Strange Stories Spread So Fast. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Contagious on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=J2l7pgwTiW4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Contagious" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Contagious">Contagious</a>
-        </h4>
-        <p class="fr-book-author">By Jonah Berger</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Contagious on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=J2l7pgwTiW4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Contagious" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Contagious">Contagious</a>
+</h4>
+<p class="fr-book-author">By Jonah Berger</p>
         
-        <p class="fr-book-desc">Directly addresses why surprising stories spread.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses why surprising stories spread.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Made to Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kW9nrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Made to Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Made to Stick">Made to Stick</a>
-        </h4>
-        <p class="fr-book-author">By Chip Heath, Dan Heath</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Made to Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kW9nrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Made to Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Made to Stick">Made to Stick</a>
+</h4>
+<p class="fr-book-author">By Chip Heath, Dan Heath</p>
         
-        <p class="fr-book-desc">Explains memorable story transmission.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains memorable story transmission.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trust Me I&#x27;m Lying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHU7DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Trust Me I&#x27;m Lying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trust Me I&#x27;m Lying">Trust Me I&#x27;m Lying</a>
-        </h4>
-        <p class="fr-book-author">By Ryan Holiday</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trust Me I&#x27;m Lying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHU7DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Trust Me I&#x27;m Lying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trust Me I&#x27;m Lying">Trust Me I&#x27;m Lying</a>
+</h4>
+<p class="fr-book-author">By Ryan Holiday</p>
         
-        <p class="fr-book-desc">Shows how sensational stories accelerate online.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how sensational stories accelerate online.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Useful for understanding how remarkable stories spread and persist.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Useful for understanding how remarkable stories spread and persist.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Contagious&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Contagious</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Made+to+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Made to Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trust Me I&#x27;m Lying</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Contagious&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Contagious</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Made+to+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Made to Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trust Me I&#x27;m Lying</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=virality-why-strange-stories-spread-so-fast-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="virality-why-strange-stories-spread-so-fast-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=virality-why-strange-stories-spread-so-fast-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="virality-why-strange-stories-spread-so-fast-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=virality-why-strange-stories-spread-so-fast-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="virality-why-strange-stories-spread-so-fast-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=virality-why-strange-stories-spread-so-fast-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="virality-why-strange-stories-spread-so-fast-forteana-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=virality-why-strange-stories-spread-so-fast-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="virality-why-strange-stories-spread-so-fast-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=virality-why-strange-stories-spread-so-fast-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="virality-why-strange-stories-spread-so-fast-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=virality-why-strange-stories-spread-so-fast-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="virality-why-strange-stories-spread-so-fast-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=virality-why-strange-stories-spread-so-fast-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="virality-why-strange-stories-spread-so-fast-forteana-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=virality-why-strange-stories-spread-so-fast-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="virality-why-strange-stories-spread-so-fast-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=virality-why-strange-stories-spread-so-fast-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="virality-why-strange-stories-spread-so-fast-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=virality-why-strange-stories-spread-so-fast-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="virality-why-strange-stories-spread-so-fast-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=virality-why-strange-stories-spread-so-fast-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="virality-why-strange-stories-spread-so-fast-forteana-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=virality-why-strange-stories-spread-so-fast-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="virality-why-strange-stories-spread-so-fast-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=virality-why-strange-stories-spread-so-fast-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="virality-why-strange-stories-spread-so-fast-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=virality-why-strange-stories-spread-so-fast-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="virality-why-strange-stories-spread-so-fast-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=virality-why-strange-stories-spread-so-fast-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="virality-why-strange-stories-spread-so-fast-forteana-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=virality-why-strange-stories-spread-so-fast-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="virality-why-strange-stories-spread-so-fast-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=virality-why-strange-stories-spread-so-fast-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="virality-why-strange-stories-spread-so-fast-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=virality-why-strange-stories-spread-so-fast-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="virality-why-strange-stories-spread-so-fast-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=virality-why-strange-stories-spread-so-fast-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="virality-why-strange-stories-spread-so-fast-forteana-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=virality-why-strange-stories-spread-so-fast-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="virality-why-strange-stories-spread-so-fast-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=virality-why-strange-stories-spread-so-fast-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="virality-why-strange-stories-spread-so-fast-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=virality-why-strange-stories-spread-so-fast-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="virality-why-strange-stories-spread-so-fast-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=virality-why-strange-stories-spread-so-fast-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="virality-why-strange-stories-spread-so-fast-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=virality-why-strange-stories-spread-so-fast-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="virality-why-strange-stories-spread-so-fast-forteana-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=virality-why-strange-stories-spread-so-fast-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="virality-why-strange-stories-spread-so-fast-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -561,7 +561,7 @@ For forteana, this means that the classic lifecycle of a strange report—from l
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -581,7 +581,7 @@ For forteana, this means that the classic lifecycle of a strange report—from l
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -613,7 +613,7 @@ For forteana, this means that the classic lifecycle of a strange report—from l
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -665,7 +665,7 @@ For forteana, this means that the classic lifecycle of a strange report—from l
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -710,7 +710,7 @@ For forteana, this means that the classic lifecycle of a strange report—from l
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -751,133 +751,133 @@ For forteana, this means that the classic lifecycle of a strange report—from l
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ide.mit.edu  
-   Link: <a href="https://ide.mit.edu/wp-content/uploads/2018/12/2017-IDE-Research-Brief-False-News.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ide.mit.edu/wp-content/uploads/2018/12/2017-IDE-Research-Brief-False-News.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT Initiative on the Digital EconomyTHE SPREAD OF TRUE AND FALSE NEWS ONLINEby S Vosoughi — Contrary to conventional wisdom, robots acce...</p></details>
+   Link:<a href="https://ide.mit.edu/wp-content/uploads/2018/12/2017-IDE-Research-Brief-False-News.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ide.mit.edu/wp-content/uploads/2018/12/2017-IDE-Research-Brief-False-News.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MIT Initiative on the Digital EconomyTHE SPREAD OF TRUE AND FALSE NEWS ONLINEby S Vosoughi — Contrary to conventional wisdom, robots acce...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: news.mit.edu  
    Title: study twitter false news travels faster true stories 0308  
-   Link: <a href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow">https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT NewsStudy: On Twitter, false news travels faster than true stories8 Mar 2018 — A new study by three MIT scholars has found that false...</p></details>
+   Link:<a href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow">https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MIT NewsStudy: On Twitter, false news travels faster than true stories8 Mar 2018 — A new study by three MIT scholars has found that false...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: unesdoc.unesco.org  
-   Link: <a href="https://unesdoc.unesco.org/ark%3A/48223/pf0000265552" target="_blank" rel="noopener noreferrer nofollow">https://unesdoc.unesco.org/ark%3A/48223/pf0000265552</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Much of the discourse on &#x27;fake news&#x27; conflates two notions: misinformation and...Read more...</p></details>
+   Link:<a href="https://unesdoc.unesco.org/ark%3A/48223/pf0000265552" target="_blank" rel="noopener noreferrer nofollow">https://unesdoc.unesco.org/ark%3A/48223/pf0000265552</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Much of the discourse on &#x27;fake news&#x27; conflates two notions: misinformation and...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/en/tags/disinformation-0" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/tags/disinformation-0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What is Disinformation? Meaning, Definition.Disinformation refers to the deliberate dissemination of false or misleading informatio...</p></details>
+   Link:<a href="https://www.unesco.org/en/tags/disinformation-0" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/tags/disinformation-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is Disinformation? Meaning, Definition.Disinformation refers to the deliberate dissemination of false or misleading informatio...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2026/dnr-executive-summary" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2026/dnr-executive-summary</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Overview and key findings of the 2026 Digital News Report6 days ago — Concerns about fake news are also up, by 4pp to 62% on average, with...</p></details>
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2026/dnr-executive-summary" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2026/dnr-executive-summary</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Overview and key findings of the 2026 Digital News Report6 days ago — Concerns about fake news are also up, by 4pp to 62% on average, with...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: politics.media.mit.edu  
    Title: Vosoughi Science  
-   Link: <a href="https://politics.media.mit.edu/papers/Vosoughi_Science.pdf" target="_blank" rel="noopener noreferrer nofollow">https://politics.media.mit.edu/papers/Vosoughi_Science.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>spread of true and false news onlineby S Vosoughi · Cited by 14376 — Contrary to conventional wisdom, robots accelerated the spread of tr...</p></details>
+   Link:<a href="https://politics.media.mit.edu/papers/Vosoughi_Science.pdf" target="_blank" rel="noopener noreferrer nofollow">https://politics.media.mit.edu/papers/Vosoughi_Science.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>spread of true and false news onlineby S Vosoughi · Cited by 14376 — Contrary to conventional wisdom, robots accelerated the spread of tr...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: unesco.org  
    Title: Fake news worldwide  
-   Link: <a href="https://www.unesco.org/en/world-media-trends/fake-news-worldwide-statistics-facts" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/world-media-trends/fake-news-worldwide-statistics-facts</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>statistics &amp; factsFake news worldwide - statistics &amp; facts. The risk of encountering... Scam alert · Policies · Protection of human righ...</p></details>
+   Link:<a href="https://www.unesco.org/en/world-media-trends/fake-news-worldwide-statistics-facts" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/world-media-trends/fake-news-worldwide-statistics-facts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>statistics &amp; factsFake news worldwide - statistics &amp; facts. The risk of encountering... Scam alert · Policies · Protection of human righ...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: unesco.org  
    Title: deepfakes and crisis knowing  
-   Link: <a href="https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Deepfakes and the crisis of knowingOct 27, 2025 — What if our obsession with spotting fakes diverts attention from a deeper epistemologic...</p></details>
+   Link:<a href="https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deepfakes and the crisis of knowingOct 27, 2025 — What if our obsession with spotting fakes diverts attention from a deeper epistemologic...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/news/eu-media-literacy-drive-should-address-poor-algorithm-awareness" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/news/eu-media-literacy-drive-should-address-poor-algorithm-awareness</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>media literacy drive should address poor algorithm...Media literacy has been much debated in recent years, especially following widespre...</p></details>
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/news/eu-media-literacy-drive-should-address-poor-algorithm-awareness" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/news/eu-media-literacy-drive-should-address-poor-algorithm-awareness</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>media literacy drive should address poor algorithm...Media literacy has been much debated in recent years, especially following widespre...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/our-research/news-you-dont-believe-audience-perspectives-fake-news" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/our-research/news-you-dont-believe-audience-perspectives-fake-news</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>only in part about fabricated news reports narrowly defined, and much more about a wider...Read more...</p></details>
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/our-research/news-you-dont-believe-audience-perspectives-fake-news" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/our-research/news-you-dont-believe-audience-perspectives-fake-news</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>only in part about fabricated news reports narrowly defined, and much more about a wider...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
    Title: digital news report  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>News Report 2025Jun 17, 2025 — We find traditional news media struggling to connect with much of the public, with declining engagement, l...</p></details>
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>News Report 2025Jun 17, 2025 — We find traditional news media struggling to connect with much of the public, with declining engagement, l...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: science.org  
-   Link: <a href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.aap9559</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>There is worldwide concern over false news and the possibility that it can influence political, economic, and...Read more...</p></details>
+   Link:<a href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.aap9559</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>There is worldwide concern over false news and the possibility that it can influence political, economic, and...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sciencenews.org  
    Title: A few simple tricks make fake news stories stick in the brain  
-   Link: <a href="https://www.sciencenews.org/article/misinformation-fake-news-stories-social-media-brain" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencenews.org/article/misinformation-fake-news-stories-social-media-brain</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>anger and anxiety, even relative to other false news [headlines](&amp;#123;&amp;#123; &#x27;headlines/&#x27; | relative_url &amp;#125;&amp;#125;).... Reliance on emotion promotes belief in fake news. Cognitive Research...</p></details>
+   Link:<a href="https://www.sciencenews.org/article/misinformation-fake-news-stories-social-media-brain" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencenews.org/article/misinformation-fake-news-stories-social-media-brain</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>anger and anxiety, even relative to other false news [headlines](&amp;#123;&amp;#123; &#x27;headlines/&#x27; | relative_url &amp;#125;&amp;#125;).... Reliance on emotion promotes belief in fake news. Cognitive Research...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: science.org  
    Title: fake news spreads faster true news twitter thanks people not bots  
-   Link: <a href="https://www.science.org/content/article/fake-news-spreads-faster-true-news-twitter-thanks-people-not-bots" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/fake-news-spreads-faster-true-news-twitter-thanks-people-not-bots</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fake news spreads faster than true news on Twitter...Tweets containing falsehoods reach 1500 people on Twitter six times faster than tru...</p></details>
+   Link:<a href="https://www.science.org/content/article/fake-news-spreads-faster-true-news-twitter-thanks-people-not-bots" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/fake-news-spreads-faster-true-news-twitter-thanks-people-not-bots</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fake news spreads faster than true news on Twitter...Tweets containing falsehoods reach 1500 people on Twitter six times faster than tru...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/36447785/The_spread_of_true_and_false_news_online" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/36447785/The_spread_of_true_and_false_news_online</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The spread of true and false news onlineThis research examines the dynamics of true and false news dissemination on Twitter, focusi...</p></details>
+   Link:<a href="https://www.academia.edu/36447785/The_spread_of_true_and_false_news_online" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/36447785/The_spread_of_true_and_false_news_online</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The spread of true and false news onlineThis research examines the dynamics of true and false news dissemination on Twitter, focusi...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: sinanaral.medium.com  
-   Link: <a href="https://sinanaral.medium.com/fake-news-about-our-fake-news-study-spread-faster-than-its-truth-just-as-we-predicted-77db6d9ca8c8" target="_blank" rel="noopener noreferrer nofollow">https://sinanaral.medium.com/fake-news-about-our-fake-news-study-spread-faster-than-its-truth-just-as-we-predicted-77db6d9ca8c8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>News about our Fake News Study Spread Faster than its...They claimed that a study my colleagues Deb Roy, Soroush Vosoughi and I publishe...</p></details>
+   Link:<a href="https://sinanaral.medium.com/fake-news-about-our-fake-news-study-spread-faster-than-its-truth-just-as-we-predicted-77db6d9ca8c8" target="_blank" rel="noopener noreferrer nofollow">https://sinanaral.medium.com/fake-news-about-our-fake-news-study-spread-faster-than-its-truth-just-as-we-predicted-77db6d9ca8c8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>News about our Fake News Study Spread Faster than its...They claimed that a study my colleagues Deb Roy, Soroush Vosoughi and I publishe...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ohchr.org  
-   Link: <a href="https://www.ohchr.org/sites/default/files/Documents/Issues/Expression/disinformation/5-Others/UNESCO.docx" target="_blank" rel="noopener noreferrer nofollow">https://www.ohchr.org/sites/default/files/Documents/Issues/Expression/disinformation/5-Others/UNESCO.docx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>unescoUNESCO&#x27;s use of the term “disinformation” as a chapeau covers false... Journalism, &#x27;Fake News&#x27; and Disinformation: A Handbook for...</p></details>
+   Link:<a href="https://www.ohchr.org/sites/default/files/Documents/Issues/Expression/disinformation/5-Others/UNESCO.docx" target="_blank" rel="noopener noreferrer nofollow">https://www.ohchr.org/sites/default/files/Documents/Issues/Expression/disinformation/5-Others/UNESCO.docx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>unescoUNESCO&#x27;s use of the term “disinformation” as a chapeau covers false... Journalism, &#x27;Fake News&#x27; and Disinformation: A Handbook for...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: mediadefence.org  
-   Link: <a href="https://www.mediadefence.org/ereader/publications/modules-on-litigating-freedom-of-expression-and-digital-rights-in-south-and-southeast-asia/module-8-false-news-misinformation-and-propaganda/misinformation-disinformation-and-mal-information/" target="_blank" rel="noopener noreferrer nofollow">https://www.mediadefence.org/ereader/publications/modules-on-litigating-freedom-of-expression-and-digital-rights-in-south-and-southeast-asia/module-8-false-news-misinformation-and-propaganda/misinformation-disinformation-and-mal-information/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Problem... UNESCO, &#x27;Journalism, Fake News &amp; Disinformation&#x27; (2018) at p.18 (accessible...Read more...</p></details>
+   Link:<a href="https://www.mediadefence.org/ereader/publications/modules-on-litigating-freedom-of-expression-and-digital-rights-in-south-and-southeast-asia/module-8-false-news-misinformation-and-propaganda/misinformation-disinformation-and-mal-information/" target="_blank" rel="noopener noreferrer nofollow">https://www.mediadefence.org/ereader/publications/modules-on-litigating-freedom-of-expression-and-digital-rights-in-south-and-southeast-asia/module-8-false-news-misinformation-and-propaganda/misinformation-disinformation-and-mal-information/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Problem... UNESCO, &#x27;Journalism, Fake News &amp; Disinformation&#x27; (2018) at p.18 (accessible...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/aurora9_media-information-literacy-for-all-closing-activity-7415334830889922560-Z92D" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/aurora9_media-information-literacy-for-all-closing-activity-7415334830889922560-Z92D</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Finland systematically teaches students how to spot misinformation, disinformation, and related...Read more...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/aurora9_media-information-literacy-for-all-closing-activity-7415334830889922560-Z92D" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/aurora9_media-information-literacy-for-all-closing-activity-7415334830889922560-Z92D</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Finland systematically teaches students how to spot misinformation, disinformation, and related...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: tandfonline.com  
    Title: These are news stories meant to be a hoax, to deliberately  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/23311983.2022.2037229" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/23311983.2022.2037229</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Combating fake news, disinformation, and misinformationby T Dame Adjin-Tettey · 2022 · Cited by 349 — Fake news and misinformation do not...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/23311983.2022.2037229" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/23311983.2022.2037229</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Combating fake news, disinformation, and misinformationby T Dame Adjin-Tettey · 2022 · Cited by 349 — Fake news and misinformation do not...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/323649207_The_spread_of_true_and_false_news_online" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/323649207_The_spread_of_true_and_false_news_online</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>onal appeals, sensationalism, and confirmation biases, posing a significant...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/323649207_The_spread_of_true_and_false_news_online" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/323649207_The_spread_of_true_and_false_news_online</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>onal appeals, sensationalism, and confirmation biases, posing a significant...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: We can't abdicate that responsibility because we humans are responsible  
-   Link: <a href="https://www.youtube.com/watch?v=Ah9H4-QSBLo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ah9H4-QSBLo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Don&#x27;t blame bots, fake news is spread by humans | Sinan Aral...Bots are not responsible for the differential diffusion of truth and fals...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ah9H4-QSBLo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ah9H4-QSBLo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Don&#x27;t blame bots, fake news is spread by humans | Sinan Aral...Bots are not responsible for the differential diffusion of truth and fals...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/29590045/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29590045/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>spread of true and false news onlineby S Vosoughi · 2018 · Cited by 14376 — Contrary to conventional wisdom, robots accelerated the sprea...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/29590045/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29590045/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>spread of true and false news onlineby S Vosoughi · 2018 · Cited by 14376 — Contrary to conventional wisdom, robots accelerated the sprea...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/thewire.in/posts/study-finds-that-falsehoods-spread-much-faster-wider-and-deeper-than-truths-and-/1806446636096325/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thewire.in/posts/study-finds-that-falsehoods-spread-much-faster-wider-and-deeper-than-truths-and-/1806446636096325/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and that humans, not bots, are responsible for this trend...</p></details>
+   Link:<a href="https://www.facebook.com/thewire.in/posts/study-finds-that-falsehoods-spread-much-faster-wider-and-deeper-than-truths-and-/1806446636096325/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thewire.in/posts/study-finds-that-falsehoods-spread-much-faster-wider-and-deeper-than-truths-and-/1806446636096325/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and that humans, not bots, are responsible for this trend...</p></details>

@@ -377,25 +377,25 @@ image: /assets/images/forteana_50bdc8-overview-social.jpg
 
 ## Introduction
 
-The useful way to read Forteana is not as a catalogue of things that must be true. It is better understood as a culture of anomaly: part [folklore]({{ 'folklore/' | relative_url }}), part sceptical journalism, part history of science, and part challenge to how societies decide what counts as evidence. The strongest Fortean tradition keeps belief suspended. It asks why a report survives, what witnesses thought they saw, how institutions responded, and whether [ordinary explanations]({{ 'ordinary-causes/' | relative_url }}) are sufficient without pretending that every strange story proves a paranormal world. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/anomalistics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">Psi Encyclopedia Anomalistics – Psi Encyclopedia</span><span class="citation-popover-snippet">Psi Encyclopedia Anomalistics – Psi Encyclopedia</span></span></span>
+The useful way to read Forteana is not as a catalogue of things that must be true. It is better understood as a culture of anomaly: part [folklore]({{ 'folklore/' | relative_url }}), part sceptical journalism, part history of science, and part challenge to how societies decide what counts as evidence. The strongest Fortean tradition keeps belief suspended. It asks why a report survives, what witnesses thought they saw, how institutions responded, and whether [ordinary explanations]({{ 'ordinary-causes/' | relative_url }}) are sufficient without pretending that every strange story proves a paranormal world.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/anomalistics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">Psi Encyclopedia Anomalistics – Psi Encyclopedia</span><span class="citation-popover-snippet">Psi Encyclopedia Anomalistics – Psi Encyclopedia</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8-overview.webp" | relative_url }}" alt="Overview image for Forteana" loading="eager" decoding="sync" fetchpriority="high">
 ## What makes something Fortean?
 
-A Fortean item is not just “weird”. It usually has three features: it is reported as a real-world event, it resists easy classification, and it sits awkwardly between established explanation and popular wonder. Forteana therefore overlaps with paranormal studies, folklore, cryptozoology, unidentified flying object reports, psychical research and unusual natural history, but it is not identical with any one of them. The Society for Psychical Research’s Psi Encyclopedia notes that the boundaries vary, with commonly listed areas including [parapsychology]({{ 'parapsychology/' | relative_url }}), cryptozoology and UFOlogy, while broader surveys add animal falls, odd hums, spontaneous human [combustion]({{ 'combustion/' | relative_url }}) claims, crop circles, miracles and hoaxes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/forteana/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">Psi Encyclopedia Forteana – Psi Encyclopedia</span><span class="citation-popover-snippet">Psi Encyclopedia Forteana – Psi Encyclopedia</span></span></span>
+A Fortean item is not just “weird”. It usually has three features: it is reported as a real-world event, it resists easy classification, and it sits awkwardly between established explanation and popular wonder. Forteana therefore overlaps with paranormal studies, folklore, cryptozoology, unidentified flying object reports, psychical research and unusual natural history, but it is not identical with any one of them. The Society for Psychical Research’s Psi Encyclopedia notes that the boundaries vary, with commonly listed areas including [parapsychology]({{ 'parapsychology/' | relative_url }}), cryptozoology and UFOlogy, while broader surveys add animal falls, odd hums, spontaneous human [combustion]({{ 'combustion/' | relative_url }}) claims, crop circles, miracles and hoaxes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/forteana/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">Psi Encyclopedia Forteana – Psi Encyclopedia</span><span class="citation-popover-snippet">Psi Encyclopedia Forteana – Psi Encyclopedia</span></span></span>
 
 That breadth is the point. Forteana is a category for cases that do not sit neatly inside one discipline. A report of a light in the sky might involve astronomy, aircraft recognition, military secrecy, psychology, rumour, local journalism and myth-making. A report of raining fish might involve meteorology, animal behaviour, newspaper exaggeration and witness memory. A haunting story might involve architecture, bereavement, folklore, fraud, [sleep paralysis]({{ 'sleep-paralysis/' | relative_url }}) or genuine uncertainty. Forteana keeps these possibilities in play long enough to examine them.
 
-The word also carries a stance. A Fortean approach is not the same as simply believing in monsters, ghosts or alien visitors. Fort’s own writing was playful, abrasive and often satirical. Later commentators have stressed that he offered extravagant hypotheses, such as a “Super-Sargasso Sea” in the sky, partly to mock the confidence with which conventional explanations were sometimes offered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cantab.net/users/michael.behrend/ebooks/MoreThings/pages/Chapter_01.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cantab.net">[cantab.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cantab.net</span><span class="citation-popover-title">Chapter 1 &lt; Moore and Forrest, More Things</span><span class="citation-popover-snippet">Chapter 1 &lt; Moore and Forrest, More Things</span></span></span>
+The word also carries a stance. A Fortean approach is not the same as simply believing in monsters, ghosts or alien visitors. Fort’s own writing was playful, abrasive and often satirical. Later commentators have stressed that he offered extravagant hypotheses, such as a “Super-Sargasso Sea” in the sky, partly to mock the confidence with which conventional explanations were sometimes offered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cantab.net/users/michael.behrend/ebooks/MoreThings/pages/Chapter_01.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cantab.net">[cantab.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cantab.net</span><span class="citation-popover-title">Chapter 1 &lt; Moore and Forrest, More Things</span><span class="citation-popover-snippet">Chapter 1 &lt; Moore and Forrest, More Things</span></span></span>
 
 ## Charles Fort and the “damned” facts
 
-Charles Fort was born in Albany, New York, in 1874 and became a journalist and writer before turning his attention to anomalous reports gathered from newspapers, magazines and scientific journals. Scholar Charlotte Sleigh describes a decisive shift in the mid-1910s, when Fort began collecting unusual phenomena from published sources and reworked that material, with encouragement from novelist Theodore Dreiser, into four books: *The Book of the Damned* in 1919, *New Lands* in 1923, *Lo!* in 1931 and *Wild Talents* in 1932. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kar.kent.ac.uk/50907/1/C.%20Sleigh%20-%20An%20outcry%20of%20silence.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kar.kent.ac.uk">[Kent Academic Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kar.kent.ac.uk</span><span class="citation-popover-title">Kent Academic Repository The Silences of Science</span><span class="citation-popover-snippet">Kent Academic Repository The Silences of Science</span></span></span>
+Charles Fort was born in Albany, New York, in 1874 and became a journalist and writer before turning his attention to anomalous reports gathered from newspapers, magazines and scientific journals. Scholar Charlotte Sleigh describes a decisive shift in the mid-1910s, when Fort began collecting unusual phenomena from published sources and reworked that material, with encouragement from novelist Theodore Dreiser, into four books: *The Book of the Damned* in 1919, *New Lands* in 1923, *Lo!* in 1931 and *Wild Talents* in 1932.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kar.kent.ac.uk/50907/1/C.%20Sleigh%20-%20An%20outcry%20of%20silence.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kar.kent.ac.uk">[Kent Academic Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kar.kent.ac.uk</span><span class="citation-popover-title">Kent Academic Repository The Silences of Science</span><span class="citation-popover-snippet">Kent Academic Repository The Silences of Science</span></span></span>
 
-Fort’s method was simple but disruptive. He compiled reports that seemed to have been ignored, minimised or explained away: odd lights, strange falls, missing people, improbable coincidences and other “outcast” data. Project Gutenberg’s entry for *The Book of the Damned* summarises the book as a catalogue of anomalous phenomena that mainstream science had excluded or “damned”, including unusual sky sightings, mysterious falls of fish and frogs, poltergeist claims and unexplained disappearances. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/ebooks/22472" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">Project Gutenberg The Book of the Damned by Charles Fort &#124; Project Gutenberg</span><span class="citation-popover-snippet">Project Gutenberg The Book of the Damned by Charles Fort &#124; Project Gutenberg</span></span></span>
+Fort’s method was simple but disruptive. He compiled reports that seemed to have been ignored, minimised or explained away: odd lights, strange falls, missing people, improbable coincidences and other “outcast” data. Project Gutenberg’s entry for *The Book of the Damned* summarises the book as a catalogue of anomalous phenomena that mainstream science had excluded or “damned”, including unusual sky sightings, mysterious falls of fish and frogs, poltergeist claims and unexplained disappearances.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/ebooks/22472" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">Project Gutenberg The Book of the Damned by Charles Fort &#124; Project Gutenberg</span><span class="citation-popover-snippet">Project Gutenberg The Book of the Damned by Charles Fort &#124; Project Gutenberg</span></span></span>
 
-His target was not only individual explanations. It was the authority by which explanations become respectable. Joshua Blu Buhs, writing for *The Public Domain Review*, argues that Fort’s quarrel with science centred on its habit of cutting reality into accepted and rejected pieces; Fort’s own philosophy blurred “true” and “false” into an unstable middle realm. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publicdomainreview.org/essay/charles-fort-and-the-book-of-the-damned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publicdomainreview.org">[The Public Domain Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publicdomainreview.org</span><span class="citation-popover-title">charles fort and the book of the damned</span><span class="citation-popover-snippet">The Public Domain Review...</span></span></span>
+His target was not only individual explanations. It was the authority by which explanations become respectable. Joshua Blu Buhs, writing for *The Public Domain Review*, argues that Fort’s quarrel with science centred on its habit of cutting reality into accepted and rejected pieces; Fort’s own philosophy blurred “true” and “false” into an unstable middle realm.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publicdomainreview.org/essay/charles-fort-and-the-book-of-the-damned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publicdomainreview.org">[The Public Domain Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publicdomainreview.org</span><span class="citation-popover-title">charles fort and the book of the damned</span><span class="citation-popover-snippet">The Public Domain Review...</span></span></span>
 
 This is why Fort remains more interesting than a simple crank or credulous collector. He was often unfair to science, and many of his cases were weakly sourced by modern standards. Yet he recognised a real problem: institutions can be too quick to discard awkward observations, while enthusiasts can be too quick to turn uncertainty into belief. Forteana lives in that tension.
 
@@ -403,9 +403,9 @@ This is why Fort remains more interesting than a simple crank or credulous colle
 <img src="{{ "/assets/images/forteana_50bdc8-Illustration-1-dark.svg" | relative_url }}" alt="Forteana illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The classic Fortean case: things falling from the sky
 
-If one image defines Forteana, it is probably the rain of frogs or fish. Fort collected many reports of anomalous falls: not just animals, but ice, sulphur, blood-like substances, hay, insects, shells, birds and other odd material. The Psi Encyclopedia calls anomalous falls “archetypical” Fortean phenomena because they are transient, recurrent, hard to investigate after the event, and easily surrounded by supernatural or mythical interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/forteana/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">Psi Encyclopedia Forteana – Psi Encyclopedia</span><span class="citation-popover-snippet">Psi Encyclopedia Forteana – Psi Encyclopedia</span></span></span>
+If one image defines Forteana, it is probably the rain of frogs or fish. Fort collected many reports of anomalous falls: not just animals, but ice, sulphur, blood-like substances, hay, insects, shells, birds and other odd material. The Psi Encyclopedia calls anomalous falls “archetypical” Fortean phenomena because they are transient, recurrent, hard to investigate after the event, and easily surrounded by supernatural or mythical interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/forteana/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">Psi Encyclopedia Forteana – Psi Encyclopedia</span><span class="citation-popover-snippet">Psi Encyclopedia Forteana – Psi Encyclopedia</span></span></span>
 
-Modern explanations often reduce the mystery without erasing the fascination. Waterspouts, whirlwinds, storms and tornadic activity can lift small animals or debris and deposit them elsewhere; in some frog cases, animals may simply emerge from hiding during rain and create the impression of a fall. A 2021 fish fall in Texas has even been discussed as possibly involving seabird regurgitation rather than a sky-borne shower. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/forteana/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">Psi Encyclopedia Forteana – Psi Encyclopedia</span><span class="citation-popover-snippet">Psi Encyclopedia Forteana – Psi Encyclopedia</span></span></span>
+Modern explanations often reduce the mystery without erasing the fascination. Waterspouts, whirlwinds, storms and tornadic activity can lift small animals or debris and deposit them elsewhere; in some frog cases, animals may simply emerge from hiding during rain and create the impression of a fall. A 2021 fish fall in Texas has even been discussed as possibly involving seabird regurgitation rather than a sky-borne shower.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/forteana/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">Psi Encyclopedia Forteana – Psi Encyclopedia</span><span class="citation-popover-snippet">Psi Encyclopedia Forteana – Psi Encyclopedia</span></span></span>
 
 The Fortean lesson is not that fish rain proves a hidden cosmic mechanism. It is that the same report can be several things at once: a meteorological puzzle, a newspaper story, a witness-memory problem, a piece of local folklore and a reminder that rare natural events can sound impossible when stripped of context. Forteana is strongest when it holds those layers together rather than forcing a premature verdict.
 
@@ -413,9 +413,9 @@ The Fortean lesson is not that fish rain proves a hidden cosmic mechanism. It is
 
 Forteana is often confused with anti-science, but the better distinction is between scepticism and dismissal. Scepticism asks for evidence, considers alternative explanations and accepts that some cases may remain unresolved. Dismissal decides in advance that a report is not worth attention. Fort attacked the latter, though he sometimes veered into rhetorical overreach against science as a whole.
 
-The related field of anomalistics gives this tension a more formal shape. The Psi Encyclopedia describes anomalistics as the study of unexplained claims without committing to belief or disbelief, treating anomalies as opportunities for disciplined inquiry. It notes that anomalistics overlaps with Forteana but places stronger emphasis on scientific evaluation, with Marcello Truzzi framing it as a neutral “friend of the court” in disputes over extraordinary claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/anomalistics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">Psi Encyclopedia Anomalistics – Psi Encyclopedia</span><span class="citation-popover-snippet">Psi Encyclopedia Anomalistics – Psi Encyclopedia</span></span></span>
+The related field of anomalistics gives this tension a more formal shape. The Psi Encyclopedia describes anomalistics as the study of unexplained claims without committing to belief or disbelief, treating anomalies as opportunities for disciplined inquiry. It notes that anomalistics overlaps with Forteana but places stronger emphasis on scientific evaluation, with Marcello Truzzi framing it as a neutral “friend of the court” in disputes over extraordinary claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/anomalistics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">Psi Encyclopedia Anomalistics – Psi Encyclopedia</span><span class="citation-popover-snippet">Psi Encyclopedia Anomalistics – Psi Encyclopedia</span></span></span>
 
-Sceptical writers have pushed back against Fort’s legacy from the other side. Joe Nickell, writing in *Skeptical Inquirer*, characterises Fort as someone who enjoyed taunting orthodox scientists with reports such as rains of frogs and other poorly examined anomalies. That criticism matters: a large part of Fortean material is anecdotal, duplicated, misreported, exaggerated or later explained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/newsletter/charles-fort-purveyor-of-the-unprobed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Open source on skepticalinquirer.org.</span></span></span>
+Sceptical writers have pushed back against Fort’s legacy from the other side. Joe Nickell, writing in *Skeptical Inquirer*, characterises Fort as someone who enjoyed taunting orthodox scientists with reports such as rains of frogs and other poorly examined anomalies. That criticism matters: a large part of Fortean material is anecdotal, duplicated, misreported, exaggerated or later explained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/newsletter/charles-fort-purveyor-of-the-unprobed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Open source on skepticalinquirer.org.</span></span></span>
 
 A balanced Fortean method therefore asks four practical questions:
 
@@ -429,9 +429,9 @@ A balanced Fortean method therefore asks four practical questions:
 
 ## Why folklore and culture matter as much as proof
 
-Many Fortean cases survive because they become meaningful, not because they become proven. The Mothman story of Point Pleasant, West Virginia, is a useful example. The reported sightings began in 1966 and later became attached to a wider mythology involving disaster, prophecy and local identity. Smithsonian Folklife reports that Point Pleasant’s Mothman Museum and annual festival have become major cultural markers for the town, with one organiser estimating that the festival would have drawn more than 15,000 visitors in 2020 had the pandemic not intervened. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklife.si.edu">[Smithsonian Folklife Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklife.si.edu</span><span class="citation-popover-snippet">Open source on si.edu.</span></span></span>
+Many Fortean cases survive because they become meaningful, not because they become proven. The Mothman story of Point Pleasant, West Virginia, is a useful example. The reported sightings began in 1966 and later became attached to a wider mythology involving disaster, prophecy and local identity. Smithsonian Folklife reports that Point Pleasant’s Mothman Museum and annual festival have become major cultural markers for the town, with one organiser estimating that the festival would have drawn more than 15,000 visitors in 2020 had the pandemic not intervened.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklife.si.edu">[Smithsonian Folklife Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklife.si.edu</span><span class="citation-popover-snippet">Open source on si.edu.</span></span></span>
 
-That does not prove that a winged humanoid existed. It shows how Fortean stories become social facts. People travel, make art, sell souvenirs, tell family stories, argue about explanations and use the mystery to express local pride. Smithsonian’s account quotes the view that the story remains powerful precisely because it has never been fully solved or proven, leaving room for people to make up their own minds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklife.si.edu">[Smithsonian Folklife Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklife.si.edu</span><span class="citation-popover-snippet">Open source on si.edu.</span></span></span>
+That does not prove that a winged humanoid existed. It shows how Fortean stories become social facts. People travel, make art, sell souvenirs, tell family stories, argue about explanations and use the mystery to express local pride. Smithsonian’s account quotes the view that the story remains powerful precisely because it has never been fully solved or proven, leaving room for people to make up their own minds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklife.si.edu">[Smithsonian Folklife Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklife.si.edu</span><span class="citation-popover-snippet">Open source on si.edu.</span></span></span>
 
 This cultural layer is not a consolation prize after evidence fails. It is central to Forteana. A strange report may be weak as zoology but rich as folklore; weak as physics but revealing as media history; weak as proof but important as a record of what people feared, hoped or noticed at a particular moment. Fortean writing goes wrong when it treats cultural persistence as proof of literal truth. It becomes useful when it asks why some anomalies become unforgettable.
 
@@ -439,11 +439,11 @@ This cultural layer is not a consolation prize after evidence fails. It is centr
 <img src="{{ "/assets/images/forteana_50bdc8-Illustration-3-dark.svg" | relative_url }}" alt="Forteana illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Fortean publishing and the survival of the strange file
 
-Forteana has always depended on archives: clippings, letters, marginal notes, newsletters, private files and specialist magazines. Fort himself left behind a paper trail. The New York Public Library records Charles Fort-related material in the Tiffany Thayer papers, including Fort’s notes on occult phenomena, clippings and letters from the 1920s to around 1932. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archives.nypl.org/controlaccess/13206?term=Fort%2C+Charles%2C-1932" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.nypl.org">[NYPL Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.nypl.org</span><span class="citation-popover-title">Archivesarchives.nypl.org -- Search results</span><span class="citation-popover-snippet">Archivesarchives.nypl.org -- Search results</span></span></span>
+Forteana has always depended on archives: clippings, letters, marginal notes, newsletters, private files and specialist magazines. Fort himself left behind a paper trail. The New York Public Library records Charles Fort-related material in the Tiffany Thayer papers, including Fort’s notes on occult phenomena, clippings and letters from the 1920s to around 1932.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archives.nypl.org/controlaccess/13206?term=Fort%2C+Charles%2C-1932" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.nypl.org">[NYPL Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.nypl.org</span><span class="citation-popover-title">Archivesarchives.nypl.org -- Search results</span><span class="citation-popover-snippet">Archivesarchives.nypl.org -- Search results</span></span></span>
 
-The organised Fortean tradition began shortly before Fort’s death. Tiffany Thayer founded the Fortean Society in 1931 to promote Fort’s books and continue gathering “damned” data; Theodore Dreiser, who had helped Fort get *The Book of the Damned* published, became its first president. Fort himself reportedly declined to join, a revealing gesture from a writer suspicious of organised belief even when organised in his name. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cantab.net/users/michael.behrend/ebooks/MoreThings/pages/Chapter_01.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cantab.net">[cantab.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cantab.net</span><span class="citation-popover-title">Chapter 1 &lt; Moore and Forrest, More Things</span><span class="citation-popover-snippet">Chapter 1 &lt; Moore and Forrest, More Things</span></span></span>
+The organised Fortean tradition began shortly before Fort’s death. Tiffany Thayer founded the Fortean Society in 1931 to promote Fort’s books and continue gathering “damned” data; Theodore Dreiser, who had helped Fort get *The Book of the Damned* published, became its first president. Fort himself reportedly declined to join, a revealing gesture from a writer suspicious of organised belief even when organised in his name.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cantab.net/users/michael.behrend/ebooks/MoreThings/pages/Chapter_01.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cantab.net">[cantab.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cantab.net</span><span class="citation-popover-title">Chapter 1 &lt; Moore and Forrest, More Things</span><span class="citation-popover-snippet">Chapter 1 &lt; Moore and Forrest, More Things</span></span></span>
 
-In Britain, the most durable public face of Forteana has been *Fortean Times*. The magazine began in 1973 as Bob Rickard’s self-published *The News* and later became *Fortean Times*. Archival and publishing accounts describe it as continuing Fort’s habit of collecting strange reports, curiosities and anomalous claims, while the Archives for the Unexplained in Sweden has digitised large quantities of editorial files, clippings, correspondence and manuscripts connected with the magazine and the Charles Fort Institute. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Fortean_Times" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Fortean Times</span><span class="citation-popover-snippet">Fortean Times</span></span></span>
+In Britain, the most durable public face of Forteana has been *Fortean Times*. The magazine began in 1973 as Bob Rickard’s self-published *The News* and later became *Fortean Times*. Archival and publishing accounts describe it as continuing Fort’s habit of collecting strange reports, curiosities and anomalous claims, while the Archives for the Unexplained in Sweden has digitised large quantities of editorial files, clippings, correspondence and manuscripts connected with the magazine and the Charles Fort Institute.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Fortean_Times" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Fortean Times</span><span class="citation-popover-snippet">Fortean Times</span></span></span>
 
 This archival habit is one reason Forteana has lasted. Its raw material is not only spectacular claims; it is the long accumulation of minor oddities. One isolated frog fall may be a curiosity. Hundreds of similar reports, even if many are explainable, become a history of how people record rare events.
 
@@ -484,194 +484,194 @@ That is the enduring value of Forteana: it teaches a disciplined comfort with un
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Strange Stories Refuse to Disappear. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Strange Stories Refuse to Disappear. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
-        </h4>
-        <p class="fr-book-author">By Charles Fort</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
+</h4>
+<p class="fr-book-author">By Charles Fort</p>
         
-        <p class="fr-book-desc">Introduces the core ideas behind Forteana and &#x27;damned facts&#x27;.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduces the core ideas behind Forteana and &#x27;damned facts&#x27;.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Provides a skeptical framework for evaluating anomalous reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a skeptical framework for evaluating anomalous reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Explores why remarkable stories and beliefs persist across generations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Explores why remarkable stories and beliefs persist across generations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+World+of+the+Unknown+Ghosts+%28World+of+the+Unknown%29+Christopher+Maynard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The World of the Unknown Ghosts (World of the Unknown) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8561060-M.jpg" alt="Cover for The World of the Unknown Ghosts (World of the Unknown)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+World+of+the+Unknown+Ghosts+%28World+of+the+Unknown%29+Christopher+Maynard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World of the Unknown Ghosts (World of the Unknown)">The World of the Unknown Ghosts (World of the Unknown)</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Maynard</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+World+of+the+Unknown+Ghosts+%28World+of+the+Unknown%29+Christopher+Maynard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The World of the Unknown Ghosts (World of the Unknown) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8561060-M.jpg" alt="Cover for The World of the Unknown Ghosts (World of the Unknown)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+World+of+the+Unknown+Ghosts+%28World+of+the+Unknown%29+Christopher+Maynard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World of the Unknown Ghosts (World of the Unknown)">The World of the Unknown Ghosts (World of the Unknown)</a>
+</h4>
+<p class="fr-book-author">By Christopher Maynard</p>
         
-        <p class="fr-book-desc">First published 1977. Subjects: Ghosts, Juvenile literature.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+World+of+the+Unknown+Ghosts+%28World+of+the+Unknown%29+Christopher+Maynard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1977. Subjects: Ghosts, Juvenile literature.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+World+of+the+Unknown+Ghosts+%28World+of+the+Unknown%29+Christopher+Maynard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New Cartoon Mothman Moth Man glow in the dark badge tie pin badge metal Enamel"><img src="{{ '/assets/images/marketplace-covers/28fa4a561bfc85d7635d.jpg' | relative_url }}" alt="Listing image for New Cartoon Mothman Moth Man glow in the dark badge tie pin badge metal Enamel" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">New Cartoon Mothman Moth Man glow in the dark badge tie pin badge metal Enamel</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mothman enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Mothman enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="forteana-mothman-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New Cartoon Mothman Moth Man glow in the dark badge tie pin badge metal Enamel"><img src="{{ '/assets/images/marketplace-covers/28fa4a561bfc85d7635d.jpg' | relative_url }}" alt="Listing image for New Cartoon Mothman Moth Man glow in the dark badge tie pin badge metal Enamel" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">New Cartoon Mothman Moth Man glow in the dark badge tie pin badge metal Enamel</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mothman enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Mothman enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="forteana-mothman-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mothman MothGlam Edition Hard Enamel Pin Ltd Ed /200 Sealed Glitter Wings"><img src="{{ '/assets/images/marketplace-covers/1604eb60d4e2ab6e4ab0.jpg' | relative_url }}" alt="Listing image for Mothman MothGlam Edition Hard Enamel Pin Ltd Ed /200 Sealed Glitter Wings" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Mothman MothGlam Edition Hard Enamel Pin Ltd Ed /200 Sealed Glitter Wings</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mothman enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Mothman enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="forteana-mothman-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mothman MothGlam Edition Hard Enamel Pin Ltd Ed /200 Sealed Glitter Wings"><img src="{{ '/assets/images/marketplace-covers/1604eb60d4e2ab6e4ab0.jpg' | relative_url }}" alt="Listing image for Mothman MothGlam Edition Hard Enamel Pin Ltd Ed /200 Sealed Glitter Wings" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Mothman MothGlam Edition Hard Enamel Pin Ltd Ed /200 Sealed Glitter Wings</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mothman enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Mothman enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="forteana-mothman-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Glow In The Dark Mothman Metal &amp; Enamel Pin Badge Horror Moth New"><img src="{{ '/assets/images/marketplace-covers/58571b93fa7f2e8edd3f.jpg' | relative_url }}" alt="Listing image for Glow In The Dark Mothman Metal &amp; Enamel Pin Badge Horror Moth New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Glow In The Dark Mothman Metal &amp; Enamel Pin Badge Horror Moth New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mothman enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Mothman enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="forteana-mothman-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Glow In The Dark Mothman Metal &amp; Enamel Pin Badge Horror Moth New"><img src="{{ '/assets/images/marketplace-covers/58571b93fa7f2e8edd3f.jpg' | relative_url }}" alt="Listing image for Glow In The Dark Mothman Metal &amp; Enamel Pin Badge Horror Moth New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Glow In The Dark Mothman Metal &amp; Enamel Pin Badge Horror Moth New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mothman enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Mothman enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="forteana-mothman-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mothman for President - Cryptid Enamel Pin - Fun Gift - New &amp; In Stock!"><img src="{{ '/assets/images/marketplace-covers/8ea630391d022c377129.jpg' | relative_url }}" alt="Listing image for Mothman for President - Cryptid Enamel Pin - Fun Gift - New &amp; In Stock!" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Mothman for President - Cryptid Enamel Pin - Fun Gift - New &amp; In Stock!</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mothman enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Mothman enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="forteana-mothman-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mothman for President - Cryptid Enamel Pin - Fun Gift - New &amp; In Stock!"><img src="{{ '/assets/images/marketplace-covers/8ea630391d022c377129.jpg' | relative_url }}" alt="Listing image for Mothman for President - Cryptid Enamel Pin - Fun Gift - New &amp; In Stock!" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Mothman for President - Cryptid Enamel Pin - Fun Gift - New &amp; In Stock!</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mothman enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Mothman enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="forteana-mothman-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -687,7 +687,7 @@ That is the enduring value of Forteana: it teaches a disciplined comfort with un
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -707,7 +707,7 @@ That is the enduring value of Forteana: it teaches a disciplined comfort with un
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -739,7 +739,7 @@ That is the enduring value of Forteana: it teaches a disciplined comfort with un
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -791,7 +791,7 @@ That is the enduring value of Forteana: it teaches a disciplined comfort with un
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -836,7 +836,7 @@ That is the enduring value of Forteana: it teaches a disciplined comfort with un
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -877,231 +877,231 @@ That is the enduring value of Forteana: it teaches a disciplined comfort with un
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: gutenberg.org  
    Title: Project Gutenberg The Book of the Damned by Charles Fort | Project Gutenberg  
-   Link: <a href="https://www.gutenberg.org/ebooks/22472" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/ebooks/22472</a>  
+   Link:<a href="https://www.gutenberg.org/ebooks/22472" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/ebooks/22472</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cantab.net  
-   Title: Chapter 1 < Moore and Forrest, More Things  
-   Link: <a href="https://www.cantab.net/users/michael.behrend/ebooks/MoreThings/pages/Chapter_01.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cantab.net/users/michael.behrend/ebooks/MoreThings/pages/Chapter_01.html</a>  
+   Title: Chapter 1< Moore and Forrest, More Things  
+   Link:<a href="https://www.cantab.net/users/michael.behrend/ebooks/MoreThings/pages/Chapter_01.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cantab.net/users/michael.behrend/ebooks/MoreThings/pages/Chapter_01.html</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archives.nypl.org  
    Title: Archivesarchives.nypl.org -- Search results  
-   Link: <a href="https://archives.nypl.org/controlaccess/13206?term=Fort%2C+Charles%2C-1932" target="_blank" rel="noopener noreferrer nofollow">https://archives.nypl.org/controlaccess/13206?term=Fort%2C+Charles%2C-1932</a>  
+   Link:<a href="https://archives.nypl.org/controlaccess/13206?term=Fort%2C+Charles%2C-1932" target="_blank" rel="noopener noreferrer nofollow">https://archives.nypl.org/controlaccess/13206?term=Fort%2C+Charles%2C-1932</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Fortean Times  
-   Link: <a href="https://en.wikipedia.org/wiki/Fortean_Times" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fortean_Times</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Fortean_Times" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fortean_Times</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Charles Fort  
-   Link: <a href="https://en.wikipedia.org/wiki/Charles_Fort" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Charles_Fort</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Charles_Fort" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Charles_Fort</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: The Book of the Damned  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Book_of_the_Damned" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Book_of_the_Damned</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Book_of_the_Damned" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Book_of_the_Damned</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Anomalistics" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anomalistics</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Anomalistics" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anomalistics</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Mothman" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mothman</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Mothman" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mothman</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: archives.nypl.org  
-   Link: <a href="https://archives.nypl.org/mss/2971" target="_blank" rel="noopener noreferrer nofollow">https://archives.nypl.org/mss/2971</a>  
+   Link:<a href="https://archives.nypl.org/mss/2971" target="_blank" rel="noopener noreferrer nofollow">https://archives.nypl.org/mss/2971</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: archives.nypl.org  
-   Link: <a href="https://archives.nypl.org/controlaccess/3183?term=Occultism" target="_blank" rel="noopener noreferrer nofollow">https://archives.nypl.org/controlaccess/3183?term=Occultism</a>  
+   Link:<a href="https://archives.nypl.org/controlaccess/3183?term=Occultism" target="_blank" rel="noopener noreferrer nofollow">https://archives.nypl.org/controlaccess/3183?term=Occultism</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: archives.nypl.org  
-   Link: <a href="https://archives.nypl.org/mss/321" target="_blank" rel="noopener noreferrer nofollow">https://archives.nypl.org/mss/321</a>  
+   Link:<a href="https://archives.nypl.org/mss/321" target="_blank" rel="noopener noreferrer nofollow">https://archives.nypl.org/mss/321</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nypl.org  
-   Link: <a href="https://www.nypl.org/about/divisions/berg-collection-english-and-american-literature" target="_blank" rel="noopener noreferrer nofollow">https://www.nypl.org/about/divisions/berg-collection-english-and-american-literature</a>  
+   Link:<a href="https://www.nypl.org/about/divisions/berg-collection-english-and-american-literature" target="_blank" rel="noopener noreferrer nofollow">https://www.nypl.org/about/divisions/berg-collection-english-and-american-literature</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: forums.forteana.org  
-   Link: <a href="https://forums.forteana.org/index.php?threads%2Fwhat-is-forteana-bob-rickards-the-fortean-scope.3101%2F=" target="_blank" rel="noopener noreferrer nofollow">https://forums.forteana.org/index.php?threads%2Fwhat-is-forteana-bob-rickards-the-fortean-scope.3101%2F=</a>  
+   Link:<a href="https://forums.forteana.org/index.php?threads%2Fwhat-is-forteana-bob-rickards-the-fortean-scope.3101%2F=" target="_blank" rel="noopener noreferrer nofollow">https://forums.forteana.org/index.php?threads%2Fwhat-is-forteana-bob-rickards-the-fortean-scope.3101%2F=</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: forums.forteana.org  
-   Link: <a href="https://forums.forteana.org/index.php?threads%2Fshockingly-close-to-charles-fort.21526%2F=" target="_blank" rel="noopener noreferrer nofollow">https://forums.forteana.org/index.php?threads%2Fshockingly-close-to-charles-fort.21526%2F=</a>  
+   Link:<a href="https://forums.forteana.org/index.php?threads%2Fshockingly-close-to-charles-fort.21526%2F=" target="_blank" rel="noopener noreferrer nofollow">https://forums.forteana.org/index.php?threads%2Fshockingly-close-to-charles-fort.21526%2F=</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: forums.forteana.org  
-   Link: <a href="https://forums.forteana.org/index.php?tags%2Ffortean-times%2F=" target="_blank" rel="noopener noreferrer nofollow">https://forums.forteana.org/index.php?tags%2Ffortean-times%2F=</a>  
+   Link:<a href="https://forums.forteana.org/index.php?tags%2Ffortean-times%2F=" target="_blank" rel="noopener noreferrer nofollow">https://forums.forteana.org/index.php?tags%2Ffortean-times%2F=</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: encyclopedia.com  
    Title: fort charles hoy 1874 1932  
-   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/fort-charles-hoy-1874-1932" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/fort-charles-hoy-1874-1932</a>  
+   Link:<a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/fort-charles-hoy" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/fort-charles-hoy</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/fortean-times" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/fortean-times</a>  
+   Link:<a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/fortean-times" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/fortean-times</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: publicdomainreview.org  
    Title: charles fort and the book of the damned  
-   Link: <a href="https://publicdomainreview.org/essay/charles-fort-and-the-book-of-the-damned/" target="_blank" rel="noopener noreferrer nofollow">https://publicdomainreview.org/essay/charles-fort-and-the-book-of-the-damned/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Public Domain Review...</p></details>
+   Link:<a href="https://publicdomainreview.org/essay/charles-fort-and-the-book-of-the-damned/" target="_blank" rel="noopener noreferrer nofollow">https://publicdomainreview.org/essay/charles-fort-and-the-book-of-the-damned/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Public Domain Review...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: psi-encyclopedia.spr.ac.uk  
    Title: Psi Encyclopedia Anomalistics – Psi Encyclopedia  
-   Link: <a href="https://psi-encyclopedia.spr.ac.uk/articles/anomalistics/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/articles/anomalistics/</a>  
+   Link:<a href="https://psi-encyclopedia.spr.ac.uk/articles/anomalistics/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/articles/anomalistics/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: kar.kent.ac.uk  
    Title: Kent Academic Repository The Silences of Science  
-   Link: <a href="https://kar.kent.ac.uk/50907/1/C.%20Sleigh%20-%20An%20outcry%20of%20silence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kar.kent.ac.uk/50907/1/C.%20Sleigh%20-%20An%20outcry%20of%20silence.pdf</a>  
+   Link:<a href="https://kar.kent.ac.uk/50907/1/C.%20Sleigh%20-%20An%20outcry%20of%20silence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kar.kent.ac.uk/50907/1/C.%20Sleigh%20-%20An%20outcry%20of%20silence.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: psi-encyclopedia.spr.ac.uk  
    Title: Psi Encyclopedia Forteana – Psi Encyclopedia  
-   Link: <a href="https://psi-encyclopedia.spr.ac.uk/articles/forteana/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/articles/forteana/</a>  
+   Link:<a href="https://psi-encyclopedia.spr.ac.uk/articles/forteana/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/articles/forteana/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/newsletter/charles-fort-purveyor-of-the-unprobed/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/charles-fort-purveyor-of-the-unprobed/</a>  
+   Link:<a href="https://skepticalinquirer.org/newsletter/charles-fort-purveyor-of-the-unprobed/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/charles-fort-purveyor-of-the-unprobed/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: folklife.si.edu  
-   Link: <a href="https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia" target="_blank" rel="noopener noreferrer nofollow">https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia</a>  
+   Link:<a href="https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia" target="_blank" rel="noopener noreferrer nofollow">https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: books.google.com  
    Title: The Book of the Damned  
-   Link: <a href="https://books.google.com/books/about/The_Book_of_the_Damned.html?id=jQXwYbNJPpoC" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/The_Book_of_the_Damned.html?id=jQXwYbNJPpoC</a>  
+   Link:<a href="https://books.google.com/books/about/The_Book_of_the_Damned.html?id=jQXwYbNJPpoC" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/The_Book_of_the_Damned.html?id=jQXwYbNJPpoC</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2018/01/the-interplay-of-science-fiction-and-pseudoscience/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2018/01/the-interplay-of-science-fiction-and-pseudoscience/</a>  
+   Link:<a href="https://skepticalinquirer.org/2018/01/the-interplay-of-science-fiction-and-pseudoscience/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2018/01/the-interplay-of-science-fiction-and-pseudoscience/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: skepticalinquirer.org  
    Title: mothman revisitedinvestigating on site  
-   Link: <a href="https://skepticalinquirer.org/newsletter/mothman-revisitedinvestigating-on-site/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/mothman-revisitedinvestigating-on-site/</a>  
+   Link:<a href="https://skepticalinquirer.org/newsletter/mothman-revisitedinvestigating-on-site/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/mothman-revisitedinvestigating-on-site/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2016/10/creators-of-the-paranormal/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2016/10/creators-of-the-paranormal/</a>  
+   Link:<a href="https://skepticalinquirer.org/2016/10/creators-of-the-paranormal/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2016/10/creators-of-the-paranormal/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: ianjameskidd.weebly.com  
    Title: charles fort  
-   Link: <a href="https://ianjameskidd.weebly.com/charles-fort.html" target="_blank" rel="noopener noreferrer nofollow">https://ianjameskidd.weebly.com/charles-fort.html</a>  
+   Link:<a href="https://ianjameskidd.weebly.com/charles-fort.html" target="_blank" rel="noopener noreferrer nofollow">https://ianjameskidd.weebly.com/charles-fort.html</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: scribd.com  
    Title: Fortean Times  
-   Link: <a href="https://www.scribd.com/document/446047364/Fortean-Times-First-Issue-Nov-1973" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446047364/Fortean-Times-First-Issue-Nov-1973</a>  
+   Link:<a href="https://www.scribd.com/document/446047364/Fortean-Times-First-Issue-Nov-1973" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/446047364/Fortean-Times-First-Issue-Nov-1973</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: historical-figures-and-celebrity.fandom.com  
    Title: Charles Fort  
-   Link: <a href="https://historical-figures-and-celebrity.fandom.com/wiki/Charles_Fort" target="_blank" rel="noopener noreferrer nofollow">https://historical-figures-and-celebrity.fandom.com/wiki/Charles_Fort</a>  
+   Link:<a href="https://historical-figures-and-celebrity.fandom.com/wiki/Charles_Fort" target="_blank" rel="noopener noreferrer nofollow">https://historical-figures-and-celebrity.fandom.com/wiki/Charles_Fort</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/mothman" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/social-sciences-and-humanities/mothman</a>  
+   Link:<a href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/mothman" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/social-sciences-and-humanities/mothman</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: badarchaeology.com  
    Title: charles fort  
-   Link: <a href="https://www.badarchaeology.com/other-dimensions/charles-fort/" target="_blank" rel="noopener noreferrer nofollow">https://www.badarchaeology.com/other-dimensions/charles-fort/</a>  
+   Link:<a href="https://www.badarchaeology.com/other-dimensions/charles-fort/" target="_blank" rel="noopener noreferrer nofollow">https://www.badarchaeology.com/other-dimensions/charles-fort/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: en.wikisource.org  
    Title: The Book of the Damned  
-   Link: <a href="https://en.wikisource.org/wiki/The_Book_of_the_Damned" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/The_Book_of_the_Damned</a>  
+   Link:<a href="https://en.wikisource.org/wiki/The_Book_of_the_Damned" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/The_Book_of_the_Damned</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: wikidoc.org  
-   Link: <a href="https://www.wikidoc.org/index.php/Paranormal" target="_blank" rel="noopener noreferrer nofollow">https://www.wikidoc.org/index.php/Paranormal</a>  
+   Link:<a href="https://www.wikidoc.org/index.php/Paranormal" target="_blank" rel="noopener noreferrer nofollow">https://www.wikidoc.org/index.php/Paranormal</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: toronto.overdrive.com  
-   Link: <a href="https://toronto.overdrive.com/library/magazines/media/5875346" target="_blank" rel="noopener noreferrer nofollow">https://toronto.overdrive.com/library/magazines/media/5875346</a>  
+   Link:<a href="https://toronto.overdrive.com/library/magazines/media/5875346" target="_blank" rel="noopener noreferrer nofollow">https://toronto.overdrive.com/library/magazines/media/5875346</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: artandpopularculture.com  
    Title: Charles Fort  
-   Link: <a href="https://www.artandpopularculture.com/Charles_Fort" target="_blank" rel="noopener noreferrer nofollow">https://www.artandpopularculture.com/Charles_Fort</a>  
+   Link:<a href="https://www.artandpopularculture.com/Charles_Fort" target="_blank" rel="noopener noreferrer nofollow">https://www.artandpopularculture.com/Charles_Fort</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: electronicbookreview.com  
-   Link: <a href="https://electronicbookreview.com/publications/anomalies/" target="_blank" rel="noopener noreferrer nofollow">https://electronicbookreview.com/publications/anomalies/</a>  
+   Link:<a href="https://electronicbookreview.com/publications/anomalies/" target="_blank" rel="noopener noreferrer nofollow">https://electronicbookreview.com/publications/anomalies/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: biodiversitylibrary.org  
-   Link: <a href="https://www.biodiversitylibrary.org/item/56949" target="_blank" rel="noopener noreferrer nofollow">https://www.biodiversitylibrary.org/item/56949</a>  
+   Link:<a href="https://www.biodiversitylibrary.org/item/56949" target="_blank" rel="noopener noreferrer nofollow">https://www.biodiversitylibrary.org/item/56949</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: librarything.com  
    Title: Fortean Times  
-   Link: <a href="https://www.librarything.com/nseries/49719/Fortean-Times" target="_blank" rel="noopener noreferrer nofollow">https://www.librarything.com/nseries/49719/Fortean-Times</a>  
+   Link:<a href="https://www.librarything.com/nseries/49719/Fortean-Times" target="_blank" rel="noopener noreferrer nofollow">https://www.librarything.com/nseries/49719/Fortean-Times</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: holybooks.com  
    Title: the book of the damned  
-   Link: <a href="https://www.holybooks.com/the-book-of-the-damned/" target="_blank" rel="noopener noreferrer nofollow">https://www.holybooks.com/the-book-of-the-damned/</a>  
+   Link:<a href="https://www.holybooks.com/the-book-of-the-damned/" target="_blank" rel="noopener noreferrer nofollow">https://www.holybooks.com/the-book-of-the-damned/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: fancyclopedia.org  
    Title: Bob Rickard  
-   Link: <a href="https://fancyclopedia.org/wiki/Bob_Rickard" target="_blank" rel="noopener noreferrer nofollow">https://fancyclopedia.org/wiki/Bob_Rickard</a>  
+   Link:<a href="https://fancyclopedia.org/wiki/Bob_Rickard" target="_blank" rel="noopener noreferrer nofollow">https://fancyclopedia.org/wiki/Bob_Rickard</a>  
 
 ### Additional References
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: onelook.com  
-   Link: <a href="https://www.onelook.com/?loc=olthes1&amp;w=fortean" target="_blank" rel="noopener noreferrer nofollow">https://www.onelook.com/?loc=olthes1&amp;w=fortean</a>  
+   Link:<a href="https://www.onelook.com/?loc=olthes1&amp;w=fortean" target="_blank" rel="noopener noreferrer nofollow">https://www.onelook.com/?loc=olthes1&amp;w=fortean</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/317754928_Anomalous_phenomena_the_scientific_mind_Some_Insights_from_Psychologist_Louis_Favre_1868-1938" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/317754928_Anomalous_phenomena_the_scientific_mind_Some_Insights_from_Psychologist_Louis_Favre_1868-1938</a>  
+   Link:<a href="https://www.researchgate.net/publication/317754928_Anomalous_phenomena_the_scientific_mind_Some_Insights_from_Psychologist_Louis_Favre" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/317754928_Anomalous_phenomena_the_scientific_mind_Some_Insights_from_Psychologist_Louis_Favre</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RicWTSP/posts/can-fish-really-fall-from-the-sky-actually-yes-but-its-rare-of-course-the-fish-d/1041286680695506/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RicWTSP/posts/can-fish-really-fall-from-the-sky-actually-yes-but-its-rare-of-course-the-fish-d/1041286680695506/</a>  
+   Link:<a href="https://www.facebook.com/RicWTSP/posts/can-fish-really-fall-from-the-sky-actually-yes-but-its-rare-of-course-the-fish-d/1041286680695506/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RicWTSP/posts/can-fish-really-fall-from-the-sky-actually-yes-but-its-rare-of-course-the-fish-d/1041286680695506/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/98980343/Disaster_is_the_Thing_with_Feathers_Tragedy_Voids_and_the_Mothman_as_Animist" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/98980343/Disaster_is_the_Thing_with_Feathers_Tragedy_Voids_and_the_Mothman_as_Animist</a>  
+   Link:<a href="https://www.academia.edu/98980343/Disaster_is_the_Thing_with_Feathers_Tragedy_Voids_and_the_Mothman_as_Animist" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/98980343/Disaster_is_the_Thing_with_Feathers_Tragedy_Voids_and_the_Mothman_as_Animist</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/261945673626284/posts/527245693762946/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/261945673626284/posts/527245693762946/</a>  
+   Link:<a href="https://www.facebook.com/groups/261945673626284/posts/527245693762946/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/261945673626284/posts/527245693762946/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: daviddarling.info  
-   Link: <a href="https://www.daviddarling.info/encyclopedia/F/fortean_falls.html" target="_blank" rel="noopener noreferrer nofollow">https://www.daviddarling.info/encyclopedia/F/fortean_falls.html</a>  
+   Link:<a href="https://www.daviddarling.info/encyclopedia/F/fortean_falls.html" target="_blank" rel="noopener noreferrer nofollow">https://www.daviddarling.info/encyclopedia/F/fortean_falls.html</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: skepticalaboutskeptics.org  
-   Link: <a href="https://skepticalaboutskeptics.org/controversies/anomalistics/key-features-of-anomalistics/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalaboutskeptics.org/controversies/anomalistics/key-features-of-anomalistics/</a>  
+   Link:<a href="https://skepticalaboutskeptics.org/controversies/anomalistics/key-features-of-anomalistics/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalaboutskeptics.org/controversies/anomalistics/key-features-of-anomalistics/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/mothmanmuseum/posts/58-years-ago-today-the-origin-story-of-mothman-began-here-in-point-pleasant-/1080362227215986/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mothmanmuseum/posts/58-years-ago-today-the-origin-story-of-mothman-began-here-in-point-pleasant-/1080362227215986/</a>  
+   Link:<a href="https://www.facebook.com/mothmanmuseum/posts/58-years-ago-today-the-origin-story-of-mothman-began-here-in-point-pleasant-/1080362227215986/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mothmanmuseum/posts/58-years-ago-today-the-origin-story-of-mothman-began-here-in-point-pleasant-/1080362227215986/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/nyctraveltipsandhacks/posts/9463585470333650/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/nyctraveltipsandhacks/posts/9463585470333650/</a>  
+   Link:<a href="https://www.facebook.com/groups/nyctraveltipsandhacks/posts/9463585470333650/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/nyctraveltipsandhacks/posts/9463585470333650/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Newsxonline/posts/residents-in-blue-ridge-were-left-astonished-after-a-bizarre-phenomenon-fish-rai/1296434959180740/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Newsxonline/posts/residents-in-blue-ridge-were-left-astonished-after-a-bizarre-phenomenon-fish-rai/1296434959180740/</a>  
+   Link:<a href="https://www.facebook.com/Newsxonline/posts/residents-in-blue-ridge-were-left-astonished-after-a-bizarre-phenomenon-fish-rai/1296434959180740/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Newsxonline/posts/residents-in-blue-ridge-were-left-astonished-after-a-bizarre-phenomenon-fish-rai/1296434959180740/</a>  

@@ -280,7 +280,7 @@ image: /assets/images/forteana_50bdc8_crop_circles_hoaxes_18d275_crop_circles_la
 
 ## Introduction
 
-Crop circles occupy an unusual place in modern culture because they can be understood simultaneously as [hoaxes]({{ 'hoaxes/' | relative_url }}), performances and works of land art. Unlike most public artworks, they gained much of their power from uncertainty. A crop circle that was openly announced as an artwork became an impressive geometric design in a field; a crop circle that appeared anonymously overnight invited speculation, investigation and belief. For many makers, that ambiguity was not an accidental side effect but part of the artwork itself. The audience was not simply looking at a pattern but participating in a social drama about evidence, authorship and imagination. This makes crop circles a distinctive form of anonymous land art, where the disappearance of the artist was as important as the visible design. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Crop_circle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Crop circle</span><span class="citation-popover-snippet">Crop circle</span></span></span>
+Crop circles occupy an unusual place in modern culture because they can be understood simultaneously as [hoaxes]({{ 'hoaxes/' | relative_url }}), performances and works of land art. Unlike most public artworks, they gained much of their power from uncertainty. A crop circle that was openly announced as an artwork became an impressive geometric design in a field; a crop circle that appeared anonymously overnight invited speculation, investigation and belief. For many makers, that ambiguity was not an accidental side effect but part of the artwork itself. The audience was not simply looking at a pattern but participating in a social drama about evidence, authorship and imagination. This makes crop circles a distinctive form of anonymous land art, where the disappearance of the artist was as important as the visible design.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Crop_circle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Crop circle</span><span class="citation-popover-snippet">Crop circle</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_crop_circles_hoaxes_18d275_crop_circles_land_ar_c2552c-Illustration-1-dark.svg" | relative_url }}" alt="Land Art illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_crop_circles_hoaxes_18d275_crop_circles_land_ar_c2552c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_crop_circles_hoaxes_18d275_crop_circles_land_ar_c2552c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,7 +288,7 @@ Crop circles occupy an unusual place in modern culture because they can be under
 
 Traditional land art often identifies its creator, allowing viewers to appreciate technique, intention and artistic reputation. Crop circles invert that relationship. The maker deliberately withdraws, leaving only the finished image and the mystery surrounding it.
 
-That absence changes how the work is experienced. Instead of asking whether a design is beautiful or technically accomplished, observers first ask who made it and how. The artwork becomes inseparable from competing explanations. Believers may interpret it as evidence of unknown forces, sceptics as evidence of human ingenuity, while others simply admire the visual achievement regardless of origin. The uncertainty itself becomes part of the aesthetic [experience]({{ 'experience/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/artanddesign/2022/may/05/anonymous-anti-capitalist-awe-inspiring-crop-circles-benjamin-myers-great-art" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardianwere crop circles actually great art?</span><span class="citation-popover-snippet">Art and design5 May 2022 — Crop circles could never be commodified but should rightfully be recognised as works of equal value and impo...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
+That absence changes how the work is experienced. Instead of asking whether a design is beautiful or technically accomplished, observers first ask who made it and how. The artwork becomes inseparable from competing explanations. Believers may interpret it as evidence of unknown forces, sceptics as evidence of human ingenuity, while others simply admire the visual achievement regardless of origin. The uncertainty itself becomes part of the aesthetic [experience]({{ 'experience/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/artanddesign/2022/may/05/anonymous-anti-capitalist-awe-inspiring-crop-circles-benjamin-myers-great-art" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardianwere crop circles actually great art?</span><span class="citation-popover-snippet">Art and design5 May 2022 — Crop circles could never be commodified but should rightfully be recognised as works of equal value and impo...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
 
 This mechanism distinguishes crop circles from conventional public sculpture or environmental art:
 
@@ -297,7 +297,7 @@ This mechanism distinguishes crop circles from conventional public sculpture or 
 * **The primary audience often encounters photographs first.** The [aerial image]({{ 'aerial-image/' | relative_url }}) becomes the lasting artwork, while the physical installation disappears.
 * **Interpretation is open-ended.** Viewers cannot rely on gallery labels, catalogues or artist statements.
 
-Because authorship remains hidden, viewers often project their own beliefs onto the work. In this sense, the crop circle functions less like a static object than a performance unfolding through media reports, investigation and debate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Crop_circle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Crop circle</span><span class="citation-popover-snippet">Crop circle</span></span></span>
+Because authorship remains hidden, viewers often project their own beliefs onto the work. In this sense, the crop circle functions less like a static object than a performance unfolding through media reports, investigation and debate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Crop_circle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Crop circle</span><span class="citation-popover-snippet">Crop circle</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WkOL4on26BE" title="Crop Circles - the myth, the legend, the history" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WkOL4on26BE" target="_blank" rel="noopener noreferrer">Crop Circles - the myth, the legend, the history</a></p><p class="youtube-embed-meta">Channel: The History Guy: History Deserves to Be Remembered</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WkOL4on26BE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WkOL4on26BE">Open on YouTube</a></p></div></div></div>
@@ -306,13 +306,13 @@ Because authorship remains hidden, viewers often project their own beliefs onto 
 
 Crop circles create an unusual network of participants, each giving the work a different meaning.
 
-The **maker** designs and executes the formation, often under cover of darkness using careful planning, simple tools or, in later years, surveying techniques and GPS-assisted layout for complex geometry. Success depends partly on remaining anonymous long enough for discovery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Crop_circle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Crop circle</span><span class="citation-popover-snippet">Crop circle</span></span></span>
+The **maker** designs and executes the formation, often under cover of darkness using careful planning, simple tools or, in later years, surveying techniques and GPS-assisted layout for complex geometry. Success depends partly on remaining anonymous long enough for discovery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Crop_circle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Crop circle</span><span class="citation-popover-snippet">Crop circle</span></span></span>
 
-The **farmer** owns the canvas but rarely volunteers it. Crop circles therefore occupy an uncomfortable position between artistic intervention and property damage. Some landowners regarded them as costly vandalism because flattened crops reduced yields and attracted trespassers. Others accepted visitor access or even benefited from donations and increased [tourism]({{ 'tourism/' | relative_url }}), creating an uneasy economic relationship between artwork and agriculture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Crop_circle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Crop circle</span><span class="citation-popover-snippet">Crop circle</span></span></span>
+The **farmer** owns the canvas but rarely volunteers it. Crop circles therefore occupy an uncomfortable position between artistic intervention and property damage. Some landowners regarded them as costly vandalism because flattened crops reduced yields and attracted trespassers. Others accepted visitor access or even benefited from donations and increased [tourism]({{ 'tourism/' | relative_url }}), creating an uneasy economic relationship between artwork and agriculture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Crop_circle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Crop circle</span><span class="citation-popover-snippet">Crop circle</span></span></span>
 
-The **believer** completes part of the artwork by treating the formation as evidence rather than design. Theories involving Earth energies, extraterrestrials or unknown natural forces transformed anonymous geometry into a site of pilgrimage. Whether or not these interpretations were intended by the makers, they became inseparable from the phenomenon's cultural life. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fairobserver.com/culture/crop-circles-elusive-land-art/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fairobserver.com">[Fair Observer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fairobserver.com</span><span class="citation-popover-title">crop circles elusive land art</span><span class="citation-popover-snippet">Fair ObserverCrop Circles: Elusive Land Art20 May 2012 — Crop circles: the infamous and strange formations created on crop fields, where...</span><span class="citation-popover-meta">Published: May 2012</span></span></span>
+The **believer** completes part of the artwork by treating the formation as evidence rather than design. Theories involving Earth energies, extraterrestrials or unknown natural forces transformed anonymous geometry into a site of pilgrimage. Whether or not these interpretations were intended by the makers, they became inseparable from the phenomenon's cultural life.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fairobserver.com/culture/crop-circles-elusive-land-art/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fairobserver.com">[Fair Observer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fairobserver.com</span><span class="citation-popover-title">crop circles elusive land art</span><span class="citation-popover-snippet">Fair ObserverCrop Circles: Elusive Land Art20 May 2012 — Crop circles: the infamous and strange formations created on crop fields, where...</span><span class="citation-popover-meta">Published: May 2012</span></span></span>
 
-The **tourist** experiences the formation as both spectacle and destination. During the peak years of the phenomenon, visitors travelled to southern England not only to inspect the circles but to participate in a landscape already associated with Avebury, Stonehenge and other prehistoric monuments. Helicopter flights, guidebooks, walking tours and local businesses became part of the ecosystem surrounding the artwork. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Crop_circle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Crop circle</span><span class="citation-popover-snippet">Crop circle</span></span></span>
+The **tourist** experiences the formation as both spectacle and destination. During the peak years of the phenomenon, visitors travelled to southern England not only to inspect the circles but to participate in a landscape already associated with Avebury, Stonehenge and other prehistoric monuments. Helicopter flights, guidebooks, walking tours and local businesses became part of the ecosystem surrounding the artwork.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Crop_circle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Crop circle</span><span class="citation-popover-snippet">Crop circle</span></span></span>
 
 These overlapping roles mean that a crop circle is never just a visual object. It is also an event whose meaning depends on how different participants respond to it.
 
@@ -322,9 +322,9 @@ These overlapping roles mean that a crop circle is never just a visual object. I
 
 The [1991 confession]({{ '1991-confession/' | relative_url }}) by Doug Bower and Dave Chorley did not end crop circles. Instead, it shifted attention from mysterious origins towards creative practice.
 
-Bower and Chorley demonstrated that sophisticated formations could be produced with modest equipment and careful planning. Yet their revelation also encouraged others to treat crop-circle making as a legitimate artistic discipline rather than merely an elaborate joke. Instead of collapsing after the confession, the phenomenon evolved into a community of increasingly ambitious makers producing larger and more intricate geometric compositions. Physicist Richard Taylor later observed that the exposure of early hoaxes helped inspire a second generation of crop artists rather than extinguishing the practice. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Crop_circle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Crop circle</span><span class="citation-popover-snippet">Crop circle</span></span></span>
+Bower and Chorley demonstrated that sophisticated formations could be produced with modest equipment and careful planning. Yet their revelation also encouraged others to treat crop-circle making as a legitimate artistic discipline rather than merely an elaborate joke. Instead of collapsing after the confession, the phenomenon evolved into a community of increasingly ambitious makers producing larger and more intricate geometric compositions. Physicist Richard Taylor later observed that the exposure of early hoaxes helped inspire a second generation of crop artists rather than extinguishing the practice.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Crop_circle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Crop circle</span><span class="citation-popover-snippet">Crop circle</span></span></span>
 
-Groups such as Circlemakers openly embraced crop circles as environmental art while still appreciating the theatrical value of anonymity. Members including John Lundberg and Rod Dickinson combined artistic experimentation with commentary on media, belief and spectacle. Their work blurred distinctions between conceptual art, performance, practical geometry and cultural prank. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/John_Lundberg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">John Lundberg</span><span class="citation-popover-snippet">John Lundberg</span></span></span>
+Groups such as Circlemakers openly embraced crop circles as environmental art while still appreciating the theatrical value of anonymity. Members including John Lundberg and Rod Dickinson combined artistic experimentation with commentary on media, belief and spectacle. Their work blurred distinctions between conceptual art, performance, practical geometry and cultural prank.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/John_Lundberg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">John Lundberg</span><span class="citation-popover-snippet">John Lundberg</span></span></span>
 
 This evolution complicates the common assumption that "hoax" and "art" are mutually exclusive. A work can deliberately deceive about its authorship while remaining artistically ambitious in its design, execution and cultural impact.
 
@@ -335,7 +335,7 @@ This evolution complicates the common assumption that "hoax" and "art" are mutua
 
 As the reputation of crop-circle makers grew, businesses and media organisations began hiring them to produce formations deliberately.
 
-Commercial commissions marked an important turning point. Instead of mysterious overnight discoveries, some circles became advertisements, album artwork or promotional events. Circlemakers produced formations for musicians, television programmes and commercial brands, while documentaries commissioned makers to demonstrate how complex circles could be created. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/John_Lundberg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">John Lundberg</span><span class="citation-popover-snippet">John Lundberg</span></span></span>
+Commercial commissions marked an important turning point. Instead of mysterious overnight discoveries, some circles became advertisements, album artwork or promotional events. Circlemakers produced formations for musicians, television programmes and commercial brands, while documentaries commissioned makers to demonstrate how complex circles could be created.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/John_Lundberg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">John Lundberg</span><span class="citation-popover-snippet">John Lundberg</span></span></span>
 
 This altered the artistic mechanism in several ways.
 
@@ -343,7 +343,7 @@ First, the audience no longer wondered whether humans had made the formation; th
 
 Second, commissioned work weakened the delicate relationship between mystery and interpretation. Once a sponsor, client or camera crew was involved, the circle became closer to conventional environmental design than anonymous land art.
 
-Finally, commercialisation exposed a tension within the movement itself. Some observers argued that commissioned circles demonstrated the makers' craftsmanship, while others felt that removing uncertainty stripped away the very quality that had made crop circles culturally distinctive. Anonymous circles invited stories, investigations and competing explanations; branded circles primarily promoted products or events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/artanddesign/2022/may/05/anonymous-anti-capitalist-awe-inspiring-crop-circles-benjamin-myers-great-art" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardianwere crop circles actually great art?</span><span class="citation-popover-snippet">Art and design5 May 2022 — Crop circles could never be commodified but should rightfully be recognised as works of equal value and impo...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
+Finally, commercialisation exposed a tension within the movement itself. Some observers argued that commissioned circles demonstrated the makers' craftsmanship, while others felt that removing uncertainty stripped away the very quality that had made crop circles culturally distinctive. Anonymous circles invited stories, investigations and competing explanations; branded circles primarily promoted products or events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/artanddesign/2022/may/05/anonymous-anti-capitalist-awe-inspiring-crop-circles-benjamin-myers-great-art" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardianwere crop circles actually great art?</span><span class="citation-popover-snippet">Art and design5 May 2022 — Crop circles could never be commodified but should rightfully be recognised as works of equal value and impo...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_crop_circles_hoaxes_18d275_crop_circles_land_ar_c2552c-Illustration-3-dark.svg" | relative_url }}" alt="Land Art illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_crop_circles_hoaxes_18d275_crop_circles_land_ar_c2552c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_crop_circles_hoaxes_18d275_crop_circles_land_ar_c2552c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -351,7 +351,7 @@ Finally, commercialisation exposed a tension within the movement itself. Some ob
 
 Seeing crop circles as land art does not resolve their ethical problems. Anonymous creation leaves unresolved questions about consent, ownership and responsibility.
 
-Unlike gallery installations or officially commissioned landscape projects, crop circles usually alter someone else's working farmland. Even where farmers later tolerated visitors or negotiated access, the initial intervention was commonly unauthorised. This makes crop circles difficult to celebrate uncritically as artworks because their production often depended on trespass and economic loss to others. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Crop_circle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Crop circle</span><span class="citation-popover-snippet">Crop circle</span></span></span>
+Unlike gallery installations or officially commissioned landscape projects, crop circles usually alter someone else's working farmland. Even where farmers later tolerated visitors or negotiated access, the initial intervention was commonly unauthorised. This makes crop circles difficult to celebrate uncritically as artworks because their production often depended on trespass and economic loss to others.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Crop_circle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Crop circle</span><span class="citation-popover-snippet">Crop circle</span></span></span>
 
 At the same time, the phenomenon demonstrates how artistic value can emerge from social interaction rather than physical permanence. A harvested field erases the design, but photographs, media stories and arguments about authenticity continue circulating long afterwards. The artwork survives less as flattened grain than as a shared cultural memory of uncertainty.
 
@@ -362,194 +362,194 @@ Within the broader world of [Forteana]({{ 'forteana/' | relative_url }}), this i
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When a Hoax Becomes Land Art. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When a Hoax Becomes Land Art. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Provides the best-known skeptical framework for evaluating mysteries such as crop circles.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the best-known skeptical framework for evaluating mysteries such as crop circles.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Land+art+Tiberghien%2C+Gilles+A&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Land art on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/812470-M.jpg" alt="Cover for Land art" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Land+art+Tiberghien%2C+Gilles+A&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Land art">Land art</a>
-        </h4>
-        <p class="fr-book-author">By Tiberghien, Gilles A</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Land+art+Tiberghien%2C+Gilles+A&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Land art on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/812470-M.jpg" alt="Cover for Land art" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Land+art+Tiberghien%2C+Gilles+A&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Land art">Land art</a>
+</h4>
+<p class="fr-book-author">By Tiberghien, Gilles A</p>
         
-        <p class="fr-book-desc">First published 1995. Subjects: Earthworks (Art).</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Land+art+Tiberghien%2C+Gilles+A&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1995. Subjects: Earthworks (Art).</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Land+art+Tiberghien%2C+Gilles+A&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Crop+circles+Colin+Andrews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crop circles on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/799791-M.jpg" alt="Cover for Crop circles" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Crop+circles+Colin+Andrews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crop circles">Crop circles</a>
-        </h4>
-        <p class="fr-book-author">By Colin Andrews</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Crop+circles+Colin+Andrews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crop circles on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/799791-M.jpg" alt="Cover for Crop circles" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Crop+circles+Colin+Andrews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crop circles">Crop circles</a>
+</h4>
+<p class="fr-book-author">By Colin Andrews</p>
         
-        <p class="fr-book-desc">First published 2003. Subjects: Crop circles, Curiosities and wonders, Miscellanea, Science, Crop circles -- Miscellanea..</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Crop+circles+Colin+Andrews&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2003. Subjects: Crop circles, Curiosities and wonders, Miscellanea, Science, Crop circles -- Miscellanea..</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Crop+circles+Colin+Andrews&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Circular+evidence+Pat+Delgado&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Circular evidence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8316419-M.jpg" alt="Cover for Circular evidence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Circular+evidence+Pat+Delgado&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Circular evidence">Circular evidence</a>
-        </h4>
-        <p class="fr-book-author">By Pat Delgado, Colin Andrews</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Circular+evidence+Pat+Delgado&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Circular evidence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8316419-M.jpg" alt="Cover for Circular evidence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Circular+evidence+Pat+Delgado&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Circular evidence">Circular evidence</a>
+</h4>
+<p class="fr-book-author">By Pat Delgado, Colin Andrews</p>
         
-        <p class="fr-book-desc">First published 1989. Subjects: Curiosidades y maravillas, Unidentified flying objects, Curiosities and wonders, Sightings and encounters...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Circular+evidence+Pat+Delgado&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1989. Subjects: Curiosidades y maravillas, Unidentified flying objects, Curiosities and wonders, Sightings and encounters...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Circular+evidence+Pat+Delgado&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Land+art&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Land art</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Crop+circles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crop circles</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Land+art&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Land art</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Crop+circles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crop circles</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Crop circle 1 Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e676de007acaf29c0a31.jpg' | relative_url }}" alt="Listing image for Crop circle 1 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art" target="_blank" rel="sponsored noopener noreferrer">Crop circle 1 Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for crop circle wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: crop circle wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Crop circle 1 Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e676de007acaf29c0a31.jpg' | relative_url }}" alt="Listing image for Crop circle 1 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art" target="_blank" rel="sponsored noopener noreferrer">Crop circle 1 Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for crop circle wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: crop circle wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Crop Circle Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e846aa83c4de7b4a7b97.jpg' | relative_url }}" alt="Listing image for Crop Circle Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art" target="_blank" rel="sponsored noopener noreferrer">Crop Circle Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for crop circle wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: crop circle wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Crop Circle Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e846aa83c4de7b4a7b97.jpg' | relative_url }}" alt="Listing image for Crop Circle Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art" target="_blank" rel="sponsored noopener noreferrer">Crop Circle Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for crop circle wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: crop circle wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO CROP CIRCLE Wall Art, Alien Saucer Nest Poster, Retro Sci-fi Cryptid Glyph"><img src="{{ '/assets/images/marketplace-covers/1dcde6b5de2c382a2902.jpg' | relative_url }}" alt="Listing image for UFO CROP CIRCLE Wall Art, Alien Saucer Nest Poster, Retro Sci-fi Cryptid Glyph" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO CROP CIRCLE Wall Art, Alien Saucer Nest Poster, Retro Sci-fi Cryptid Glyph</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for crop circle wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: crop circle wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO CROP CIRCLE Wall Art, Alien Saucer Nest Poster, Retro Sci-fi Cryptid Glyph"><img src="{{ '/assets/images/marketplace-covers/1dcde6b5de2c382a2902.jpg' | relative_url }}" alt="Listing image for UFO CROP CIRCLE Wall Art, Alien Saucer Nest Poster, Retro Sci-fi Cryptid Glyph" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO CROP CIRCLE Wall Art, Alien Saucer Nest Poster, Retro Sci-fi Cryptid Glyph</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for crop circle wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: crop circle wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Crop Circle 1 Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4780e0570388218a9360.jpg' | relative_url }}" alt="Listing image for Crop Circle 1 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art" target="_blank" rel="sponsored noopener noreferrer">Crop Circle 1 Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for crop circle wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: crop circle wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Crop Circle 1 Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4780e0570388218a9360.jpg' | relative_url }}" alt="Listing image for Crop Circle 1 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art" target="_blank" rel="sponsored noopener noreferrer">Crop Circle 1 Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for crop circle wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: crop circle wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="land-art-when-a-hoax-becomes-land-art-forteana-crop-circle-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -565,7 +565,7 @@ Within the broader world of [Forteana]({{ 'forteana/' | relative_url }}), this i
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -585,7 +585,7 @@ Within the broader world of [Forteana]({{ 'forteana/' | relative_url }}), this i
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -617,7 +617,7 @@ Within the broader world of [Forteana]({{ 'forteana/' | relative_url }}), this i
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -669,7 +669,7 @@ Within the broader world of [Forteana]({{ 'forteana/' | relative_url }}), this i
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -714,7 +714,7 @@ Within the broader world of [Forteana]({{ 'forteana/' | relative_url }}), this i
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -755,91 +755,91 @@ Within the broader world of [Forteana]({{ 'forteana/' | relative_url }}), this i
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Crop circle  
-   Link: <a href="https://en.wikipedia.org/wiki/Crop_circle" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Crop_circle</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Crop_circle" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Crop_circle</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: John Lundberg  
-   Link: <a href="https://en.wikipedia.org/wiki/John_Lundberg" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/John_Lundberg</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/John_Lundberg" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/John_Lundberg</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: chillinkristen.medium.com  
    Title: the origin of the crop circles con is surprisingly wholesome 8226f9d252fa  
-   Link: <a href="https://chillinkristen.medium.com/the-origin-of-the-crop-circles-con-is-surprisingly-wholesome-8226f9d252fa" target="_blank" rel="noopener noreferrer nofollow">https://chillinkristen.medium.com/the-origin-of-the-crop-circles-con-is-surprisingly-wholesome-8226f9d252fa</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Origin of the Crop Circles Con is Surprisingly WholesomeBower and Chorley were both artists, and they saw this as creating folk art with...</p></details>
+   Link:<a href="https://chillinkristen.medium.com/the-origin-of-the-crop-circles-con-is-surprisingly-wholesome-8226f9d252fa" target="_blank" rel="noopener noreferrer nofollow">https://chillinkristen.medium.com/the-origin-of-the-crop-circles-con-is-surprisingly-wholesome-8226f9d252fa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Origin of the Crop Circles Con is Surprisingly WholesomeBower and Chorley were both artists, and they saw this as creating folk art with...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: How are Crop Circles Made?  
-   Link: <a href="https://www.youtube.com/watch?v=Ep_AxaWBVPs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ep_AxaWBVPs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Crop Circles - the myth, the legend, the history...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ep_AxaWBVPs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ep_AxaWBVPs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Crop Circles - the myth, the legend, the history...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: Crop Circles  
-   Link: <a href="https://www.youtube.com/watch?v=WkOL4on26BE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WkOL4on26BE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Feature Documentary: Crop Circles – The Hidden Truth by Richard D. Hall...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WkOL4on26BE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WkOL4on26BE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Feature Documentary: Crop Circles – The Hidden Truth by Richard D. Hall...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: Drawing a humble crop circle ⬟ Geometric process  
-   Link: <a href="https://www.youtube.com/watch?v=ghsAWSPXxZk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ghsAWSPXxZk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Crop Circles | Can&#x27;t Sleep? Learn About One of History&#x27;s Strangest Mysteries...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ghsAWSPXxZk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ghsAWSPXxZk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Crop Circles | Can&#x27;t Sleep? Learn About One of History&#x27;s Strangest Mysteries...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Crop Circles | Can't Sleep? Learn About One of History's Strangest Mysteries  
-   Link: <a href="https://www.youtube.com/watch?v=Oq6pGHv1wFE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Oq6pGHv1wFE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This selection outlines the historical shift of crop circles from unexplained anomalies to recognized forms of massive, anonymous land ar...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Oq6pGHv1wFE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Oq6pGHv1wFE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This selection outlines the historical shift of crop circles from unexplained anomalies to recognized forms of massive, anonymous land ar...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: theguardian.com  
    Title: The Guardianwere crop circles actually great art?  
-   Link: <a href="https://www.theguardian.com/artanddesign/2022/may/05/anonymous-anti-capitalist-awe-inspiring-crop-circles-benjamin-myers-great-art" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/artanddesign/2022/may/05/anonymous-anti-capitalist-awe-inspiring-crop-circles-benjamin-myers-great-art</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Art and design5 May 2022 — Crop circles could never be commodified but should rightfully be recognised as works of equal value and impo...</p></details>
+   Link:<a href="https://www.theguardian.com/artanddesign/2022/may/05/anonymous-anti-capitalist-awe-inspiring-crop-circles-benjamin-myers-great-art" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/artanddesign/2022/may/05/anonymous-anti-capitalist-awe-inspiring-crop-circles-benjamin-myers-great-art</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Art and design5 May 2022 — Crop circles could never be commodified but should rightfully be recognised as works of equal value and impo...</p></details>
    Published: May 2022  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: fairobserver.com  
    Title: crop circles elusive land art  
-   Link: <a href="https://www.fairobserver.com/culture/crop-circles-elusive-land-art/" target="_blank" rel="noopener noreferrer nofollow">https://www.fairobserver.com/culture/crop-circles-elusive-land-art/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fair ObserverCrop Circles: Elusive Land Art20 May 2012 — Crop circles: the infamous and strange formations created on crop fields, where...</p></details>
+   Link:<a href="https://www.fairobserver.com/culture/crop-circles-elusive-land-art/" target="_blank" rel="noopener noreferrer nofollow">https://www.fairobserver.com/culture/crop-circles-elusive-land-art/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fair ObserverCrop Circles: Elusive Land Art20 May 2012 — Crop circles: the infamous and strange formations created on crop fields, where...</p></details>
    Published: May 2012  
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/weirdretrohull/posts/2122709654674854/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/weirdretrohull/posts/2122709654674854/</a>  
+   Link:<a href="https://www.facebook.com/groups/weirdretrohull/posts/2122709654674854/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/weirdretrohull/posts/2122709654674854/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: arcomai.org  
    Title: from prank to art the crop circles of doug bower and dave chorley  
-   Link: <a href="https://www.arcomai.org/2026/01/11/from-prank-to-art-the-crop-circles-of-doug-bower-and-dave-chorley/" target="_blank" rel="noopener noreferrer nofollow">https://www.arcomai.org/2026/01/11/from-prank-to-art-the-crop-circles-of-doug-bower-and-dave-chorley/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>From prank to art: The crop circles of Doug Bower and...11 Jan 2026 — The crop circle — or agroglyph — is a vast geometric configuration...</p></details>
+   Link:<a href="https://www.arcomai.org/2026/01/11/from-prank-to-art-the-crop-circles-of-doug-bower-and-dave-chorley/" target="_blank" rel="noopener noreferrer nofollow">https://www.arcomai.org/2026/01/11/from-prank-to-art-the-crop-circles-of-doug-bower-and-dave-chorley/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From prank to art: The crop circles of Doug Bower and...11 Jan 2026 — The crop circle — or agroglyph — is a vast geometric configuration...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: blather.net  
-   Link: <a href="https://www.blather.net/thestore/2006/12/02/crop_circles/" target="_blank" rel="noopener noreferrer nofollow">https://www.blather.net/thestore/2006/12/02/crop_circles/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Art, History and Philosophy of Crop Circle Making - Blather2 Dec 2006 — A later generation of crop circles – inspired by Doug and Dav...</p></details>
+   Link:<a href="https://www.blather.net/thestore/2006/12/02/crop_circles/" target="_blank" rel="noopener noreferrer nofollow">https://www.blather.net/thestore/2006/12/02/crop_circles/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Art, History and Philosophy of Crop Circle Making - Blather2 Dec 2006 — A later generation of crop circles – inspired by Doug and Dav...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
    Title: the aliens who invented crop circles  
-   Link: <a href="https://www.facebook.com/itsryangeorge/posts/the-aliens-who-invented-crop-circles/1050626866874635/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/itsryangeorge/posts/the-aliens-who-invented-crop-circles/1050626866874635/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The modern era of crop circles began in the 1970s and 1980s, with the practice being pioneered by artists and landscape creators like Dou...</p></details>
+   Link:<a href="https://www.facebook.com/itsryangeorge/posts/the-aliens-who-invented-crop-circles/1050626866874635/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/itsryangeorge/posts/the-aliens-who-invented-crop-circles/1050626866874635/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The modern era of crop circles began in the 1970s and 1980s, with the practice being pioneered by artists and landscape creators like Dou...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: markchadbourn.co.uk  
    Title: Crop Circles – New Swirled Order  
-   Link: <a href="https://www.markchadbourn.co.uk/2010/01/crop-circles-new-swirled-order/" target="_blank" rel="noopener noreferrer nofollow">https://www.markchadbourn.co.uk/2010/01/crop-circles-new-swirled-order/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It includes details of research by scientists – physicists, chemists, mathematicians – and specifically signs that...Read more...</p></details>
+   Link:<a href="https://www.markchadbourn.co.uk/2010/01/crop-circles-new-swirled-order/" target="_blank" rel="noopener noreferrer nofollow">https://www.markchadbourn.co.uk/2010/01/crop-circles-new-swirled-order/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It includes details of research by scientists – physicists, chemists, mathematicians – and specifically signs that...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Feature Documentary: Crop Circles – The Hidden Truth by Richard D. Hall  
-   Link: <a href="https://www.youtube.com/watch?v=1DSqSuZA4pM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1DSqSuZA4pM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drawing a humble crop circle ⬟ Geometric process...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1DSqSuZA4pM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1DSqSuZA4pM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drawing a humble crop circle ⬟ Geometric process...</p></details>

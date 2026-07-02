@@ -447,38 +447,38 @@ image: /assets/images/forteana_50bdc8_spontaneous_combusti_2682c4-overview-socia
 
 ## Introduction
 
-Spontaneous human combustion claims sit at the darker edge of [Forteana]({{ 'forteana/' | relative_url }}) because they begin with a real and often tragic fact: a person is found dead, badly burned, while the surrounding room appears strangely intact. The Fortean claim is that the human body can ignite and burn from within without an external flame. The stronger forensic reading is less supernatural but still unsettling: many classic cases look like slow, localised fires in which clothing, chair fabric, bedding, body fat and incapacity combine to produce a “human candle” effect after some ordinary ignition source has been missed, destroyed or wrongly discounted. Forensic pathologist Roger Byard has described spontaneous combustion as a scientifically discredited mythology, while medical and fire-investigation sources continue to discuss the [wick effect]({{ 'wick-effect/' | relative_url }}) as the mechanism that can make these scenes look impossible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26873440/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Forensic Sci Med Pathol. 2016 Sep;12(3):350-2. doi: 10.1007/s12024-016-9748-2. Epub 2016 Feb 12.Read more...</span></span></span>
+Spontaneous human combustion claims sit at the darker edge of [Forteana]({{ 'forteana/' | relative_url }}) because they begin with a real and often tragic fact: a person is found dead, badly burned, while the surrounding room appears strangely intact. The Fortean claim is that the human body can ignite and burn from within without an external flame. The stronger forensic reading is less supernatural but still unsettling: many classic cases look like slow, localised fires in which clothing, chair fabric, bedding, body fat and incapacity combine to produce a “human candle” effect after some ordinary ignition source has been missed, destroyed or wrongly discounted. Forensic pathologist Roger Byard has described spontaneous combustion as a scientifically discredited mythology, while medical and fire-investigation sources continue to discuss the [wick effect]({{ 'wick-effect/' | relative_url }}) as the mechanism that can make these scenes look impossible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26873440/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Forensic Sci Med Pathol. 2016 Sep;12(3):350-2. doi: 10.1007/s12024-016-9748-2. Epub 2016 Feb 12.Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_spontaneous_combusti_2682c4-overview.webp" | relative_url }}" alt="Overview image for Combustion" loading="eager" decoding="sync" fetchpriority="high">
 ## The claim and its pattern
 
-The usual spontaneous human combustion story has a recognisable shape. A victim, often elderly, isolated, asleep, unwell or otherwise unable to escape, is found with the torso almost entirely consumed. Feet or lower legs may remain recognisable. Damage to the room is limited compared with the damage to the body. There may be soot, greasy deposits, heat damage above the body, and a burned chair or patch of flooring, but not the room-wide destruction many people expect from a fire hot enough to reduce a body to ash. That contrast is what gives the claim its power: the scene looks selective, almost targeted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.irishtimes.com/news/science/explanation-overdue-for-combustion-of-humans-1.628038" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-snippet">The Irish TimesExplanation overdue for combustion of humans20 Oct 2011 — The room in which the victim dies usually shows few, if any, sig...</span></span></span>
+The usual spontaneous human combustion story has a recognisable shape. A victim, often elderly, isolated, asleep, unwell or otherwise unable to escape, is found with the torso almost entirely consumed. Feet or lower legs may remain recognisable. Damage to the room is limited compared with the damage to the body. There may be soot, greasy deposits, heat damage above the body, and a burned chair or patch of flooring, but not the room-wide destruction many people expect from a fire hot enough to reduce a body to ash. That contrast is what gives the claim its power: the scene looks selective, almost targeted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.irishtimes.com/news/science/explanation-overdue-for-combustion-of-humans-1.628038" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-snippet">The Irish TimesExplanation overdue for combustion of humans20 Oct 2011 — The room in which the victim dies usually shows few, if any, sig...</span></span></span>
 
-The phrase “spontaneous human combustion” also smuggles in a conclusion. It does not merely say “unusual burning death”; it says the fire began without an external ignition source. That is the key weakness. In many historical accounts, candles, fireplaces, cigarettes, lamps or other mundane fire sources were present but treated as irrelevant, omitted in [retellings]({{ 'retellings/' | relative_url }}), or impossible to evaluate because the fire itself destroyed the earliest evidence. Nickell and Fischer’s well-known investigation of alleged cases argued that supposed spontaneous combustion deaths often occurred near plausible ignition sources and involved circumstances that could leave the victim unable to react. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Spontaneous_human_combustion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Spontaneous human combustion</span><span class="citation-popover-snippet">Spontaneous human combustion</span></span></span>
+The phrase “spontaneous human combustion” also smuggles in a conclusion. It does not merely say “unusual burning death”; it says the fire began without an external ignition source. That is the key weakness. In many historical accounts, candles, fireplaces, cigarettes, lamps or other mundane fire sources were present but treated as irrelevant, omitted in [retellings]({{ 'retellings/' | relative_url }}), or impossible to evaluate because the fire itself destroyed the earliest evidence. Nickell and Fischer’s well-known investigation of alleged cases argued that supposed spontaneous combustion deaths often occurred near plausible ignition sources and involved circumstances that could leave the victim unable to react.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Spontaneous_human_combustion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Spontaneous human combustion</span><span class="citation-popover-snippet">Spontaneous human combustion</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_spontaneous_combusti_2682c4-Illustration-1-dark.svg" | relative_url }}" alt="Combustion illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_spontaneous_combusti_2682c4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_spontaneous_combusti_2682c4-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Mary Reeser and the “cinder lady” problem
 
-[Mary Reeser]({{ 'mary-reeser/' | relative_url }})’s death in St Petersburg, Florida, in July 1951 became one of the defining modern cases. She was found after her landlady noticed heat at the door; most of Reeser’s body and chair had been consumed, while much of the small apartment remained comparatively undamaged. The case drew police and FBI attention, and later reporting notes that investigators found no evidence of lightning or accelerants such as petrol or alcohol. The more plausible reconstruction is that Reeser, who had taken sleeping pills and was known to smoke, dropped a cigarette that ignited flammable clothing; her body fat and the chair then sustained a slow localised fire. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tampabay.com/news/florida/2019/10/17/spontaneous-combustion-in-st-petersburg-the-curious-case-of-mary-reeser/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tampabay.com">[Tampa Bay Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tampabay.com</span><span class="citation-popover-snippet">Open source on tampabay.com.</span></span></span>
+[Mary Reeser]({{ 'mary-reeser/' | relative_url }})’s death in St Petersburg, Florida, in July 1951 became one of the defining modern cases. She was found after her landlady noticed heat at the door; most of Reeser’s body and chair had been consumed, while much of the small apartment remained comparatively undamaged. The case drew police and FBI attention, and later reporting notes that investigators found no evidence of lightning or accelerants such as petrol or alcohol. The more plausible reconstruction is that Reeser, who had taken sleeping pills and was known to smoke, dropped a cigarette that ignited flammable clothing; her body fat and the chair then sustained a slow localised fire.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tampabay.com/news/florida/2019/10/17/spontaneous-combustion-in-st-petersburg-the-curious-case-of-mary-reeser/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tampabay.com">[Tampa Bay Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tampabay.com</span><span class="citation-popover-snippet">Open source on tampabay.com.</span></span></span>
 
-The case remains memorable because some details do not feel intuitive. A body can be badly destroyed while nearby objects survive; a fire can be lethal without becoming a room-engulfing blaze; and the absence of an obvious ignition source after the event is not the same as proof that no ignition source existed. Reeser’s case shows why spontaneous combustion is a Fortean subject rather than a simple hoax category: the death was real, the scene was unusual, and the mystery grew in the gap between fire science and public expectation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://northeastjournal.org/spontaneous-combustion-the-curious-case-of-mary-reeser/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northeastjournal.org">[northeastjournal.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northeastjournal.org</span><span class="citation-popover-title">Spontaneous Combustion? The Curious Case of Mary</span><span class="citation-popover-snippet">Spontaneous Combustion? The Curious Case of Mary</span></span></span>
+The case remains memorable because some details do not feel intuitive. A body can be badly destroyed while nearby objects survive; a fire can be lethal without becoming a room-engulfing blaze; and the absence of an obvious ignition source after the event is not the same as proof that no ignition source existed. Reeser’s case shows why spontaneous combustion is a Fortean subject rather than a simple hoax category: the death was real, the scene was unusual, and the mystery grew in the gap between fire science and public expectation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://northeastjournal.org/spontaneous-combustion-the-curious-case-of-mary-reeser/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northeastjournal.org">[northeastjournal.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northeastjournal.org</span><span class="citation-popover-title">Spontaneous Combustion? The Curious Case of Mary</span><span class="citation-popover-snippet">Spontaneous Combustion? The Curious Case of Mary</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fEUxT1OZIr4" title="Spontaneous Human Combustion | Debunking Historic Mysteries" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fEUxT1OZIr4" target="_blank" rel="noopener noreferrer">Spontaneous Human Combustion | Debunking Historic Mysteries</a></p><p class="youtube-embed-meta">Channel: Lady of the Library</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fEUxT1OZIr4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fEUxT1OZIr4">Open on YouTube</a></p></div></div></div>
 
 ### Michael Faherty and the modern coroner’s verdict
 
-A much later case renewed the debate. In December 2010, Michael Faherty, aged 76, was found burned in his home in Galway, Ireland. At the 2011 inquest, the coroner said there was no adequate explanation other than spontaneous combustion; fire officers reportedly said the nearby open fire was not the cause, and no accelerant or sign of forced entry was found. The Guardian reported the verdict as the first such conclusion in the coroner’s 25-year career. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2011/sep/23/irish-pensioner-killed-spontaneous-combustion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Spontaneous combustion killed Irish pensioner, inquest rules</span><span class="citation-popover-snippet">The Guardian Spontaneous combustion killed Irish pensioner, inquest rules</span></span></span>
+A much later case renewed the debate. In December 2010, Michael Faherty, aged 76, was found burned in his home in Galway, Ireland. At the 2011 inquest, the coroner said there was no adequate explanation other than spontaneous combustion; fire officers reportedly said the nearby open fire was not the cause, and no accelerant or sign of forced entry was found. The Guardian reported the verdict as the first such conclusion in the coroner’s 25-year career.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2011/sep/23/irish-pensioner-killed-spontaneous-combustion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Spontaneous combustion killed Irish pensioner, inquest rules</span><span class="citation-popover-snippet">The Guardian Spontaneous combustion killed Irish pensioner, inquest rules</span></span></span>
 
-The Faherty case is important because it shows how “spontaneous combustion” can appear in an official setting without settling the scientific question. A coroner’s verdict of no adequate explanation is not a demonstrated mechanism for internal ignition. It marks the limit of that investigation’s reconstruction. Irish Times coverage later noted that Faherty was found near an open fireplace and that the only real fire damage was to the body, the floor beneath and the ceiling above — exactly the kind of pattern that keeps these cases alive in public memory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.irishtimes.com/news/offbeat/ashes-and-cinders-a-spontaneous-combustion-on-prussia-street-1.3369596" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-title">ashes and cinders a spontaneous combustion on prussia street 1.3369596</span><span class="citation-popover-snippet">ashes and cinders a spontaneous combustion on prussia street 1.3369596</span></span></span>
+The Faherty case is important because it shows how “spontaneous combustion” can appear in an official setting without settling the scientific question. A coroner’s verdict of no adequate explanation is not a demonstrated mechanism for internal ignition. It marks the limit of that investigation’s reconstruction. Irish Times coverage later noted that Faherty was found near an open fireplace and that the only real fire damage was to the body, the floor beneath and the ceiling above — exactly the kind of pattern that keeps these cases alive in public memory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.irishtimes.com/news/offbeat/ashes-and-cinders-a-spontaneous-combustion-on-prussia-street-1.3369596" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-title">ashes and cinders a spontaneous combustion on prussia street 1.3369596</span><span class="citation-popover-snippet">ashes and cinders a spontaneous combustion on prussia street 1.3369596</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_spontaneous_combusti_2682c4-Illustration-2-dark.svg" | relative_url }}" alt="Combustion illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_spontaneous_combusti_2682c4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_spontaneous_combusti_2682c4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How fire science changes the mystery
 
-The main forensic explanation is the wick effect, sometimes called the candle effect. The basic idea is simple: clothing, bedding or upholstery acts like a wick, while melted body fat acts as fuel. Once an external flame has started the process, a small, persistent fire can burn for hours. It does not need dramatic flames. It needs time, available fat, absorbent material, oxygen and a victim who is dead, asleep, unconscious, intoxicated, immobile or otherwise unable to stop it. Medscape’s forensic pathology overview describes the wick effect as a smouldering fire perpetuated by melting body fat, like a candle feeding a small flame. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://emedicine.medscape.com/article/1975728-overview" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emedicine.medscape.com">[eMedicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emedicine.medscape.com</span><span class="citation-popover-title">1975728 overview</span><span class="citation-popover-snippet">Forensic Pathology of Thermal Injuries2 Jul 2025 — The wick effect is seen when a smoldering fire is perpetuated by melting fat...</span></span></span>
+The main forensic explanation is the wick effect, sometimes called the candle effect. The basic idea is simple: clothing, bedding or upholstery acts like a wick, while melted body fat acts as fuel. Once an external flame has started the process, a small, persistent fire can burn for hours. It does not need dramatic flames. It needs time, available fat, absorbent material, oxygen and a victim who is dead, asleep, unconscious, intoxicated, immobile or otherwise unable to stop it. Medscape’s forensic pathology overview describes the wick effect as a smouldering fire perpetuated by melting body fat, like a candle feeding a small flame.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://emedicine.medscape.com/article/1975728-overview" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emedicine.medscape.com">[eMedicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emedicine.medscape.com</span><span class="citation-popover-title">1975728 overview</span><span class="citation-popover-snippet">Forensic Pathology of Thermal Injuries2 Jul 2025 — The wick effect is seen when a smoldering fire is perpetuated by melting fat...</span></span></span>
 
 This helps explain the most “impossible” features of the scenes:
 
@@ -492,9 +492,9 @@ This helps explain the most “impossible” features of the scenes:
 
 </div>
 
-Experiments and forensic observations support the broad plausibility of this mechanism. A BBC-linked pig-carcass experiment often cited in discussions of the wick effect showed that a body wrapped in material could burn for hours, destroy much of the fatty central body area, and still leave the surrounding room less damaged than expected. Popular Science’s 2025 explainer summarised forensic scientist John DeHaan’s experiment in similar terms: the pig’s midsection and bones were largely consumed while the less fatty legs remained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popsci.com/health/can-humans-spontaneously-combust-the-baffling-cases-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popsci.com">[Popular Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popsci.com</span><span class="citation-popover-title">Popular Science Can humans spontaneously combust? The baffling cases</span><span class="citation-popover-snippet">Popular Science Can humans spontaneously combust? The baffling cases</span></span></span>
+Experiments and forensic observations support the broad plausibility of this mechanism. A BBC-linked pig-carcass experiment often cited in discussions of the wick effect showed that a body wrapped in material could burn for hours, destroy much of the fatty central body area, and still leave the surrounding room less damaged than expected. Popular Science’s 2025 explainer summarised forensic scientist John DeHaan’s experiment in similar terms: the pig’s midsection and bones were largely consumed while the less fatty legs remained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popsci.com/health/can-humans-spontaneously-combust-the-baffling-cases-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popsci.com">[Popular Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popsci.com</span><span class="citation-popover-title">Popular Science Can humans spontaneously combust? The baffling cases</span><span class="citation-popover-snippet">Popular Science Can humans spontaneously combust? The baffling cases</span></span></span>
 
-The wick effect does not mean every unusual fire death is solved in advance. It is a mechanism for how a body can be extensively consumed after ignition, not a magic answer for where the first spark came from. That distinction matters. In a good investigation, “wick effect” should prompt detailed questions about cigarettes, heaters, fireplaces, candles, clothing fibres, mobility, medication, alcohol, oxygen equipment, bedding and furniture — not become a lazy replacement for scene work. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Spontaneous_human_combustion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Spontaneous human combustion</span><span class="citation-popover-snippet">Spontaneous human combustion</span></span></span>
+The wick effect does not mean every unusual fire death is solved in advance. It is a mechanism for how a body can be extensively consumed after ignition, not a magic answer for where the first spark came from. That distinction matters. In a good investigation, “wick effect” should prompt detailed questions about cigarettes, heaters, fireplaces, candles, clothing fibres, mobility, medication, alcohol, oxygen equipment, bedding and furniture — not become a lazy replacement for scene work.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Spontaneous_human_combustion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Spontaneous human combustion</span><span class="citation-popover-snippet">Spontaneous human combustion</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cilvOCBXI1c" title="Can You Spontaneously Combust? | Earth Science" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cilvOCBXI1c" target="_blank" rel="noopener noreferrer">Can You Spontaneously Combust? | Earth Science</a></p><p class="youtube-embed-meta">Channel: BBC Earth Science</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cilvOCBXI1c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cilvOCBXI1c">Open on YouTube</a></p></div></div></div>
@@ -504,9 +504,9 @@ The wick effect does not mean every unusual fire death is solved in advance. It 
 
 ## Why the phrase remains powerful
 
-Spontaneous human combustion survives because it names a visual shock. People intuitively expect a body reduced to ash to require a furnace-like fire, and they expect such a fire to destroy the whole room. When that expectation fails, the supernatural label feels emotionally satisfying: it preserves the weirdness rather than asking the reader to imagine a slow, greasy, low-flame process taking place over hours. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.irishtimes.com/news/science/explanation-overdue-for-combustion-of-humans-1.628038" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-snippet">The Irish TimesExplanation overdue for combustion of humans20 Oct 2011 — The room in which the victim dies usually shows few, if any, sig...</span></span></span>
+Spontaneous human combustion survives because it names a visual shock. People intuitively expect a body reduced to ash to require a furnace-like fire, and they expect such a fire to destroy the whole room. When that expectation fails, the supernatural label feels emotionally satisfying: it preserves the weirdness rather than asking the reader to imagine a slow, greasy, low-flame process taking place over hours.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.irishtimes.com/news/science/explanation-overdue-for-combustion-of-humans-1.628038" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-snippet">The Irish TimesExplanation overdue for combustion of humans20 Oct 2011 — The room in which the victim dies usually shows few, if any, sig...</span></span></span>
 
-The claim also has a long cultural history. Medical and literary discussions in earlier centuries treated spontaneous combustion as a possible condition, often tangled with moral claims about alcohol. A 2025 historical study notes that spontaneous human combustion, now scientifically discredited, was treated as a legitimate medical entity in parts of Europe from the seventeenth century onward. That older framework helped the idea move from case reports into fiction, [folklore]({{ 'folklore/' | relative_url }}) and popular paranormal catalogues. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2409-9252/5/3/39" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Open source on mdpi.com.</span></span></span>
+The claim also has a long cultural history. Medical and literary discussions in earlier centuries treated spontaneous combustion as a possible condition, often tangled with moral claims about alcohol. A 2025 historical study notes that spontaneous human combustion, now scientifically discredited, was treated as a legitimate medical entity in parts of Europe from the seventeenth century onward. That older framework helped the idea move from case reports into fiction, [folklore]({{ 'folklore/' | relative_url }}) and popular paranormal catalogues.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2409-9252/5/3/39" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Open source on mdpi.com.</span></span></span>
 
 Forteana is full of cases where the label outlives the explanation, and spontaneous human combustion is a strong example. The best modern reading is neither “people simply burst into flame” nor “there was never any mystery”. The mystery usually lies in reconstruction: the victim cannot testify, the early ignition evidence may be gone, and the remaining scene can look more selective than ordinary [experience]({{ 'experience/' | relative_url }}) with fire prepares us to understand. That makes these claims risky in two directions. Believers can overstate the absence of evidence into proof of an impossible mechanism; sceptics can understate how genuinely difficult some fatal fire scenes are to interpret.
 
@@ -516,194 +516,194 @@ The most useful question, then, is not “Can humans spontaneously combust?” i
 <img src="{{ "/assets/images/forteana_50bdc8_spontaneous_combusti_2682c4-Illustration-3-dark.svg" | relative_url }}" alt="Combustion illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_spontaneous_combusti_2682c4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_spontaneous_combusti_2682c4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Explains Spontaneous Human Combustion Claims?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Explains Spontaneous Human Combustion Claims?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Provides a skeptical framework for extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a skeptical framework for extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Explores why remarkable stories and beliefs persist across generations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Explores why remarkable stories and beliefs persist across generations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mysteries+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10290585-M.jpg" alt="Cover for Mysteries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mysteries+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysteries">Mysteries</a>
-        </h4>
-        <p class="fr-book-author">By Colin Wilson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mysteries+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10290585-M.jpg" alt="Cover for Mysteries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mysteries+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysteries">Mysteries</a>
+</h4>
+<p class="fr-book-author">By Colin Wilson</p>
         
-        <p class="fr-book-desc">First published 1978. Subjects: Occultism, Parapsychology, Supernatural, Curiosities and wonders.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mysteries+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1978. Subjects: Occultism, Parapsychology, Supernatural, Curiosities and wonders.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mysteries+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Forensic+Pathology+Dominick+DiMaio&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Forensic Pathology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12383445-M.jpg" alt="Cover for Forensic Pathology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Forensic+Pathology+Dominick+DiMaio&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forensic Pathology">Forensic Pathology</a>
-        </h4>
-        <p class="fr-book-author">By Dominick DiMaio, Vincent J. M. DiMaio et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Forensic+Pathology+Dominick+DiMaio&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Forensic Pathology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12383445-M.jpg" alt="Cover for Forensic Pathology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Forensic+Pathology+Dominick+DiMaio&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forensic Pathology">Forensic Pathology</a>
+</h4>
+<p class="fr-book-author">By Dominick DiMaio, Vincent J. M. DiMaio et al.</p>
         
-        <p class="fr-book-desc">First published 2001. Subjects: Pathology, Medical jurisprudence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Forensic+Pathology+Dominick+DiMaio&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2001. Subjects: Pathology, Medical jurisprudence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Forensic+Pathology+Dominick+DiMaio&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mysteries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mysteries</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mysteries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mysteries</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Grinder fish rain clouds Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/9f733ce224aa6b0a4349.jpg' | relative_url }}" alt="Listing image for The Grinder fish rain clouds Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">The Grinder fish rain clouds Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Grinder fish rain clouds Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/9f733ce224aa6b0a4349.jpg' | relative_url }}" alt="Listing image for The Grinder fish rain clouds Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">The Grinder fish rain clouds Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print"><img src="{{ '/assets/images/marketplace-covers/c7769be80584af0e631f.jpg' | relative_url }}" alt="Listing image for Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print"><img src="{{ '/assets/images/marketplace-covers/c7769be80584af0e631f.jpg' | relative_url }}" alt="Listing image for Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Man Monochrome Rain Rainy Cloudy Walk Walking Behind Back Fish Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/27ff5433e18ed337d089.jpg' | relative_url }}" alt="Listing image for Man Monochrome Rain Rainy Cloudy Walk Walking Behind Back Fish Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">Man Monochrome Rain Rainy Cloudy Walk Walking Behind Back Fish Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Man Monochrome Rain Rainy Cloudy Walk Walking Behind Back Fish Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/27ff5433e18ed337d089.jpg' | relative_url }}" alt="Listing image for Man Monochrome Rain Rainy Cloudy Walk Walking Behind Back Fish Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">Man Monochrome Rain Rainy Cloudy Walk Walking Behind Back Fish Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for After The Rain Fjord Sea Boat Fishing Finnmark Norway Green Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/61d368165882a17db39e.jpg' | relative_url }}" alt="Listing image for After The Rain Fjord Sea Boat Fishing Finnmark Norway Green Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">After The Rain Fjord Sea Boat Fishing Finnmark Norway Green Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for After The Rain Fjord Sea Boat Fishing Finnmark Norway Green Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/61d368165882a17db39e.jpg' | relative_url }}" alt="Listing image for After The Rain Fjord Sea Boat Fishing Finnmark Norway Green Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">After The Rain Fjord Sea Boat Fishing Finnmark Norway Green Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="combustion-what-explains-spontaneous-human-combustion-claims-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -719,7 +719,7 @@ The most useful question, then, is not “Can humans spontaneously combust?” i
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -739,7 +739,7 @@ The most useful question, then, is not “Can humans spontaneously combust?” i
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -771,7 +771,7 @@ The most useful question, then, is not “Can humans spontaneously combust?” i
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -823,7 +823,7 @@ The most useful question, then, is not “Can humans spontaneously combust?” i
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -868,7 +868,7 @@ The most useful question, then, is not “Can humans spontaneously combust?” i
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -909,143 +909,143 @@ The most useful question, then, is not “Can humans spontaneously combust?” i
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: emedicine.medscape.com  
    Title: 1975728 overview  
-   Link: <a href="https://emedicine.medscape.com/article/1975728-overview" target="_blank" rel="noopener noreferrer nofollow">https://emedicine.medscape.com/article/1975728-overview</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Pathology of Thermal Injuries2 Jul 2025 — The wick effect is seen when a smoldering fire is perpetuated by melting fat...</p></details>
+   Link:<a href="https://emedicine.medscape.com/article/1975728-overview" target="_blank" rel="noopener noreferrer nofollow">https://emedicine.medscape.com/article/1975728-overview</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Pathology of Thermal Injuries2 Jul 2025 — The wick effect is seen when a smoldering fire is perpetuated by melting fat...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Spontaneous human combustion  
-   Link: <a href="https://en.wikipedia.org/wiki/Spontaneous_human_combustion" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Spontaneous_human_combustion</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Spontaneous_human_combustion" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Spontaneous_human_combustion</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: northeastjournal.org  
    Title: Spontaneous Combustion? The Curious Case of Mary  
-   Link: <a href="https://northeastjournal.org/spontaneous-combustion-the-curious-case-of-mary-reeser/" target="_blank" rel="noopener noreferrer nofollow">https://northeastjournal.org/spontaneous-combustion-the-curious-case-of-mary-reeser/</a>  
+   Link:<a href="https://northeastjournal.org/spontaneous-combustion-the-curious-case-of-mary-reeser/" target="_blank" rel="noopener noreferrer nofollow">https://northeastjournal.org/spontaneous-combustion-the-curious-case-of-mary-reeser/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Wick effect  
-   Link: <a href="https://en.wikipedia.org/wiki/Wick_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wick_effect</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Wick_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wick_effect</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2409-9252/5/3/39" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2409-9252/5/3/39</a>  
+   Link:<a href="https://www.mdpi.com/2409-9252/5/3/39" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2409-9252/5/3/39</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Death of Mary Reeser  
-   Link: <a href="https://en.wikipedia.org/wiki/Death_of_Mary_Reeser" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Death_of_Mary_Reeser</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Death_of_Mary_Reeser" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Death_of_Mary_Reeser</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: What Really Causes Spontaneous Human Combustion?  
-   Link: <a href="https://www.youtube.com/watch?v=7ferZAfkG4A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7ferZAfkG4A</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spontaneous Human Combustion | Debunking Historic Mysteries...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7ferZAfkG4A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7ferZAfkG4A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spontaneous Human Combustion | Debunking Historic Mysteries...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: Spontaneous Human Combustion | Debunking Historic Mysteries  
-   Link: <a href="https://www.youtube.com/watch?v=fEUxT1OZIr4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fEUxT1OZIr4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Is Spontaneous Human Combustion Real or Fake...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=fEUxT1OZIr4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fEUxT1OZIr4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is Spontaneous Human Combustion Real or Fake...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26873440/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26873440/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Sci Med Pathol. 2016 Sep;12(3):350-2. doi: 10.1007/s12024-016-9748-2. Epub 2016 Feb 12.Read more...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26873440/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26873440/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Sci Med Pathol. 2016 Sep;12(3):350-2. doi: 10.1007/s12024-016-9748-2. Epub 2016 Feb 12.Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: irishtimes.com  
-   Link: <a href="https://www.irishtimes.com/news/science/explanation-overdue-for-combustion-of-humans-1.628038" target="_blank" rel="noopener noreferrer nofollow">https://www.irishtimes.com/news/science/explanation-overdue-for-combustion-of-humans-1.628038</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Irish TimesExplanation overdue for combustion of humans20 Oct 2011 — The room in which the victim dies usually shows few, if any, sig...</p></details>
+   Link:<a href="https://www.irishtimes.com/news/science/explanation-overdue-for-combustion-of-humans-1.628038" target="_blank" rel="noopener noreferrer nofollow">https://www.irishtimes.com/news/science/explanation-overdue-for-combustion-of-humans-1.628038</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Irish TimesExplanation overdue for combustion of humans20 Oct 2011 — The room in which the victim dies usually shows few, if any, sig...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: tampabay.com  
-   Link: <a href="https://www.tampabay.com/news/florida/2019/10/17/spontaneous-combustion-in-st-petersburg-the-curious-case-of-mary-reeser/" target="_blank" rel="noopener noreferrer nofollow">https://www.tampabay.com/news/florida/2019/10/17/spontaneous-combustion-in-st-petersburg-the-curious-case-of-mary-reeser/</a>  
+   Link:<a href="https://www.tampabay.com/news/florida/2019/10/17/spontaneous-combustion-in-st-petersburg-the-curious-case-of-mary-reeser/" target="_blank" rel="noopener noreferrer nofollow">https://www.tampabay.com/news/florida/2019/10/17/spontaneous-combustion-in-st-petersburg-the-curious-case-of-mary-reeser/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: theguardian.com  
    Title: The Guardian Spontaneous combustion killed Irish pensioner, inquest rules  
-   Link: <a href="https://www.theguardian.com/world/2011/sep/23/irish-pensioner-killed-spontaneous-combustion" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2011/sep/23/irish-pensioner-killed-spontaneous-combustion</a>  
+   Link:<a href="https://www.theguardian.com/world/2011/sep/23/irish-pensioner-killed-spontaneous-combustion" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2011/sep/23/irish-pensioner-killed-spontaneous-combustion</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: irishtimes.com  
    Title: ashes and cinders a spontaneous combustion on prussia street 1.3369596  
-   Link: <a href="https://www.irishtimes.com/news/offbeat/ashes-and-cinders-a-spontaneous-combustion-on-prussia-street-1.3369596" target="_blank" rel="noopener noreferrer nofollow">https://www.irishtimes.com/news/offbeat/ashes-and-cinders-a-spontaneous-combustion-on-prussia-street-1.3369596</a>  
+   Link:<a href="https://www.irishtimes.com/news/offbeat/ashes-and-cinders-a-spontaneous-combustion-on-prussia-street-1.3369596" target="_blank" rel="noopener noreferrer nofollow">https://www.irishtimes.com/news/offbeat/ashes-and-cinders-a-spontaneous-combustion-on-prussia-street-1.3369596</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: popsci.com  
    Title: Popular Science Can humans spontaneously combust? The baffling cases  
-   Link: <a href="https://www.popsci.com/health/can-humans-spontaneously-combust-the-baffling-cases-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.popsci.com/health/can-humans-spontaneously-combust-the-baffling-cases-explained/</a>  
+   Link:<a href="https://www.popsci.com/health/can-humans-spontaneously-combust-the-baffling-cases-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.popsci.com/health/can-humans-spontaneously-combust-the-baffling-cases-explained/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/GalwayBeoOnline/photos/this-december-marks-the-15th-anniversary-of-the-death-of-a-well-liked-local-man-/1220399096758724/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GalwayBeoOnline/photos/this-december-marks-the-15th-anniversary-of-the-death-of-a-well-liked-local-man-/1220399096758724/</a>  
+   Link:<a href="https://www.facebook.com/GalwayBeoOnline/photos/this-december-marks-the-15th-anniversary-of-the-death-of-a-well-liked-local-man-/1220399096758724/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GalwayBeoOnline/photos/this-december-marks-the-15th-anniversary-of-the-death-of-a-well-liked-local-man-/1220399096758724/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: laughingsquid.com  
    Title: spontaneous human combustion  
-   Link: <a href="https://laughingsquid.com/spontaneous-human-combustion/" target="_blank" rel="noopener noreferrer nofollow">https://laughingsquid.com/spontaneous-human-combustion/</a>  
+   Link:<a href="https://laughingsquid.com/spontaneous-human-combustion/" target="_blank" rel="noopener noreferrer nofollow">https://laughingsquid.com/spontaneous-human-combustion/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/22269823/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22269823/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/22269823/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22269823/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: crazyalchemist.com  
    Title: Spontaneous Human Combustion  
-   Link: <a href="https://www.crazyalchemist.com/nature-science/spontaneous-human-combustion/" target="_blank" rel="noopener noreferrer nofollow">https://www.crazyalchemist.com/nature-science/spontaneous-human-combustion/</a>  
+   Link:<a href="https://www.crazyalchemist.com/nature-science/spontaneous-human-combustion/" target="_blank" rel="noopener noreferrer nofollow">https://www.crazyalchemist.com/nature-science/spontaneous-human-combustion/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: the-line-up.com  
    Title: spontaneous human combustion  
-   Link: <a href="https://the-line-up.com/spontaneous-human-combustion" target="_blank" rel="noopener noreferrer nofollow">https://the-line-up.com/spontaneous-human-combustion</a>  
+   Link:<a href="https://the-line-up.com/spontaneous-human-combustion" target="_blank" rel="noopener noreferrer nofollow">https://the-line-up.com/spontaneous-human-combustion</a>  
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: popularmechanics.com  
    Title: Popular Mechanics A Woman Burned to Ashes in Her Chair  
-   Link: <a href="https://www.popularmechanics.com/science/a71141494/mary-reeser-spontaneous-combustion/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/science/a71141494/mary-reeser-spontaneous-combustion/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Was the Rest of Her Apartment Untouched by the Flames?In July 1951, 67-year-old Mary Reeser was found burned to ashes in her apartmen...</p></details>
+   Link:<a href="https://www.popularmechanics.com/science/a71141494/mary-reeser-spontaneous-combustion/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/science/a71141494/mary-reeser-spontaneous-combustion/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Was the Rest of Her Apartment Untouched by the Flames?In July 1951, 67-year-old Mary Reeser was found burned to ashes in her apartmen...</p></details>
    Published: July 1951  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Spontaneous Human Combustion: The "Human Candle" Mystery Solved  
-   Link: <a href="https://www.youtube.com/watch?v=AvIJ59RbpuM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AvIJ59RbpuM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Spontaneous Human Combustion Of Mary Reeser...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=AvIJ59RbpuM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AvIJ59RbpuM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Spontaneous Human Combustion Of Mary Reeser...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1396999187093926/posts/5541956735931463/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1396999187093926/posts/5541956735931463/</a>  
+   Link:<a href="https://www.facebook.com/groups/1396999187093926/posts/5541956735931463/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1396999187093926/posts/5541956735931463/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: scispace.com  
-   Link: <a href="https://scispace.com/pdf/debunking-the-spontaneous-human-combustion-myth-experiments-1zpbxt246a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/debunking-the-spontaneous-human-combustion-myth-experiments-1zpbxt246a.pdf</a>  
+   Link:<a href="https://scispace.com/pdf/debunking-the-spontaneous-human-combustion-myth-experiments-1zpbxt246a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/debunking-the-spontaneous-human-combustion-myth-experiments-1zpbxt246a.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1660866237657971/posts/2252139865197269/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1660866237657971/posts/2252139865197269/</a>  
+   Link:<a href="https://www.facebook.com/groups/1660866237657971/posts/2252139865197269/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1660866237657971/posts/2252139865197269/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/230703694_Solving_the_mystery_of_spontaneous_human_combustion" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/230703694_Solving_the_mystery_of_spontaneous_human_combustion</a>  
+   Link:<a href="https://www.researchgate.net/publication/230703694_Solving_the_mystery_of_spontaneous_human_combustion" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/230703694_Solving_the_mystery_of_spontaneous_human_combustion</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40nikyoung/spontaneous-combustion-or-something-else-02114bf78a07" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40nikyoung/spontaneous-combustion-or-something-else-02114bf78a07</a>  
+   Link:<a href="https://medium.com/%40nikyoung/spontaneous-combustion-or-something-else-02114bf78a07" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40nikyoung/spontaneous-combustion-or-something-else-02114bf78a07</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/294966791440730/posts/1750153535922041/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/294966791440730/posts/1750153535922041/</a>  
+   Link:<a href="https://www.facebook.com/groups/294966791440730/posts/1750153535922041/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/294966791440730/posts/1750153535922041/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: thehorrorzine.com  
-   Link: <a href="https://www.thehorrorzine.com/Morbid/HumanCombustion/SpontaneousHumanCombustion.html" target="_blank" rel="noopener noreferrer nofollow">https://www.thehorrorzine.com/Morbid/HumanCombustion/SpontaneousHumanCombustion.html</a>  
+   Link:<a href="https://www.thehorrorzine.com/Morbid/HumanCombustion/SpontaneousHumanCombustion.html" target="_blank" rel="noopener noreferrer nofollow">https://www.thehorrorzine.com/Morbid/HumanCombustion/SpontaneousHumanCombustion.html</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/forensics/comments/1e1xc58/spontaneous_human_combustion/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/forensics/comments/1e1xc58/spontaneous_human_combustion/</a>  
+   Link:<a href="https://www.reddit.com/r/forensics/comments/1e1xc58/spontaneous_human_combustion/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/forensics/comments/1e1xc58/spontaneous_human_combustion/</a>  

@@ -292,7 +292,7 @@ Historic buildings rarely remain acoustically stable. Timber, masonry, metal pip
 
 Some of the most common sources include:
 
-* **Timber expansion and contraction.** Wooden floorboards, roof beams and wall framing expand during warm or humid conditions and contract as temperatures fall. The resulting pops, cracks and groans often occur at night, when cooling is most rapid, creating the impression of footsteps or movement above occupied rooms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/explainlikeimfive/comments/34bvxb/eli5_what_is_a_house_settling_and_what_noses_is/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">ELI5 What is a house &quot;settling&quot; and what noses is it making</span><span class="citation-popover-snippet">ELI5 What is a house &quot;settling&quot; and what noses is it making...April 29, 2015 — It is called thermal expansion and contraction, eac...</span><span class="citation-popover-meta">Published: April 29, 2015</span></span></span>
+* **Timber expansion and contraction.** Wooden floorboards, roof beams and wall framing expand during warm or humid conditions and contract as temperatures fall. The resulting pops, cracks and groans often occur at night, when cooling is most rapid, creating the impression of footsteps or movement above occupied rooms.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/explainlikeimfive/comments/34bvxb/eli5_what_is_a_house_settling_and_what_noses_is/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">ELI5 What is a house &quot;settling&quot; and what noses is it making</span><span class="citation-popover-snippet">ELI5 What is a house &quot;settling&quot; and what noses is it making...April 29, 2015 — It is called thermal expansion and contraction, eac...</span><span class="citation-popover-meta">Published: April 29, 2015</span></span></span>
 * **Water pipes and heating systems.** As hot water circulates, metal pipes lengthen slightly. If pipes are tightly fixed or pass through joists, they can produce sharp clicks, bangs or repeated knocking. Steam systems may produce even louder "water hammer" effects.
 * **Building settlement.** Older structures continue to shift by tiny amounts over decades. While dramatic settling is uncommon, small structural movements can generate isolated creaks, especially after heavy rain, drought or seasonal changes.
 * **Wind loading.** Chimneys, roof timbers, sash windows and loose flashing may vibrate in particular wind directions. Sounds often appear to move through the building because cavities carry vibration surprisingly efficiently.
@@ -321,11 +321,11 @@ Not every reported haunting centres on audible noises. Many witnesses instead de
 
 One proposed contributor is **infrasound**—sound below roughly 20 hertz, generally beneath normal human hearing. Sources can include ventilation systems, ageing machinery, large pipes, wind interacting with architectural openings, or vibrations transmitted from nearby traffic.
 
-Engineer Vic Tandy became interested in this possibility after experiencing anxiety and seeing a vague grey shape while working alone in a laboratory reputed to be haunted. He later traced an approximately 19 Hz vibration to an extractor fan that produced a standing wave within the room. Tandy suggested that low-frequency vibration may have contributed both to feelings of unease and to visual disturbances in at least some environments. His paper proposed a natural explanation for certain haunting reports without claiming it explained all of them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.richardwiseman.com/resources/ghost-in-machine.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: richardwiseman.com">[Richard Wiseman]</a><span class="citation-popover" role="note"><span class="citation-popover-source">richardwiseman.com</span><span class="citation-popover-title">Richard Wiseman The Ghost in the Machine</span><span class="citation-popover-snippet">Using the first author&#x27;s own experience as an example, we...Read more...</span></span></span>
+Engineer Vic Tandy became interested in this possibility after experiencing anxiety and seeing a vague grey shape while working alone in a laboratory reputed to be haunted. He later traced an approximately 19 Hz vibration to an extractor fan that produced a standing wave within the room. Tandy suggested that low-frequency vibration may have contributed both to feelings of unease and to visual disturbances in at least some environments. His paper proposed a natural explanation for certain haunting reports without claiming it explained all of them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.richardwiseman.com/resources/ghost-in-machine.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: richardwiseman.com">[Richard Wiseman]</a><span class="citation-popover" role="note"><span class="citation-popover-source">richardwiseman.com</span><span class="citation-popover-title">Richard Wiseman The Ghost in the Machine</span><span class="citation-popover-snippet">Using the first author&#x27;s own experience as an example, we...Read more...</span></span></span>
 
-Subsequent work by psychologist Richard Wiseman explored whether infrasound could influence subjective experiences. In one experiment, volunteers listening to music containing very low-frequency components reported unusual feelings—including chills, sadness and anxiety—more often than listeners who heard the same music without the added infrasound. These findings suggest that low-frequency vibration can influence emotional [experience]({{ 'experience/' | relative_url }}) even when participants cannot consciously identify the sound itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://richardwiseman.wordpress.com/research/psychology-of-ghosts-and-hauntings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wordpress.com">[Richard Wiseman]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wordpress.com</span><span class="citation-popover-title">Richard Wiseman Ghosts and Hauntings</span><span class="citation-popover-snippet">Richard WisemanGhosts and Hauntings - Richard Wiseman - WordPress.comApril 13, 2020 — Some researchers have suggested that infrasound (ve...</span></span></span>
+Subsequent work by psychologist Richard Wiseman explored whether infrasound could influence subjective experiences. In one experiment, volunteers listening to music containing very low-frequency components reported unusual feelings—including chills, sadness and anxiety—more often than listeners who heard the same music without the added infrasound. These findings suggest that low-frequency vibration can influence emotional [experience]({{ 'experience/' | relative_url }}) even when participants cannot consciously identify the sound itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://richardwiseman.wordpress.com/research/psychology-of-ghosts-and-hauntings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wordpress.com">[Richard Wiseman]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wordpress.com</span><span class="citation-popover-title">Richard Wiseman Ghosts and Hauntings</span><span class="citation-popover-snippet">Richard WisemanGhosts and Hauntings - Richard Wiseman - WordPress.comApril 13, 2020 — Some researchers have suggested that infrasound (ve...</span></span></span>
 
-More recent laboratory research has strengthened the case that infrasound can measurably affect mood and stress. Participants exposed to 18 Hz vibrations showed increased irritation and elevated cortisol, a stress hormone, even though most could not consciously detect the sound. Researchers suggested that ageing pipes, ventilation systems and similar infrastructure found in older buildings may contribute to feelings later interpreted as supernatural, while cautioning that these findings do not explain reports involving clear visual apparitions or moving objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thetimes.com/uk/science/article/bump-in-the-night-pipes-ghosts-h3nx3h3f0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.com">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.com</span><span class="citation-popover-title">The Times Sensed a bump in the night?</span><span class="citation-popover-snippet">It&#x27;s not ghosts - just bad vibrationsApril 27, 2026 — A recent study published in *Frontiers in Behavioural Neuroscience* suggests that e...</span><span class="citation-popover-meta">Published: April 27, 2026</span></span></span>
+More recent laboratory research has strengthened the case that infrasound can measurably affect mood and stress. Participants exposed to 18 Hz vibrations showed increased irritation and elevated cortisol, a stress hormone, even though most could not consciously detect the sound. Researchers suggested that ageing pipes, ventilation systems and similar infrastructure found in older buildings may contribute to feelings later interpreted as supernatural, while cautioning that these findings do not explain reports involving clear visual apparitions or moving objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thetimes.com/uk/science/article/bump-in-the-night-pipes-ghosts-h3nx3h3f0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.com">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.com</span><span class="citation-popover-title">The Times Sensed a bump in the night?</span><span class="citation-popover-snippet">It&#x27;s not ghosts - just bad vibrationsApril 27, 2026 — A recent study published in *Frontiers in Behavioural Neuroscience* suggests that e...</span><span class="citation-popover-meta">Published: April 27, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vheG7i-R7zk" title="Your House Isn&#x27;t Haunted: Here&#x27;s What The Science Says" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vheG7i-R7zk" target="_blank" rel="noopener noreferrer">Your House Isn&#x27;t Haunted: Here&#x27;s What The Science Says</a></p><p class="youtube-embed-meta">Channel: Trace Elements</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vheG7i-R7zk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vheG7i-R7zk">Open on YouTube</a></p></div></div></div>
@@ -369,178 +369,178 @@ Old buildings occupy an important place in Fortean studies because they sit at t
 For investigators, the most productive approach is neither immediate belief nor automatic [dismissal]({{ 'dismissal/' | relative_url }}). Careful attention to acoustics, structural behaviour, environmental conditions and witness experience often reveals that seemingly uncanny sounds emerge from entirely ordinary processes. At the same time, identifying those mechanisms strengthens rather than weakens the investigation of genuinely unusual reports by removing explanations that can be tested and verified.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Ordinary Noises Behind Haunted Houses. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Ordinary Noises Behind Haunted Houses. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports careful testing of ordinary explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports careful testing of ordinary explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The vanishing hitchhiker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4614126-M.jpg" alt="Cover for The vanishing hitchhiker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The vanishing hitchhiker">The vanishing hitchhiker</a>
-        </h4>
-        <p class="fr-book-author">By Jan Harold Brunvand</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The vanishing hitchhiker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4614126-M.jpg" alt="Cover for The vanishing hitchhiker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The vanishing hitchhiker">The vanishing hitchhiker</a>
+</h4>
+<p class="fr-book-author">By Jan Harold Brunvand</p>
         
-        <p class="fr-book-desc">First published 1981. Subjects: History and criticism, Legends, Urban folklore, Légendes, Folklore urbain.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1981. Subjects: History and criticism, Legends, Urban folklore, Légendes, Folklore urbain.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Spook+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Spook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/247995-M.jpg" alt="Cover for Spook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Spook+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spook">Spook</a>
-        </h4>
-        <p class="fr-book-author">By Mary Roach</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Spook+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Spook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/247995-M.jpg" alt="Cover for Spook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Spook+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spook">Spook</a>
+</h4>
+<p class="fr-book-author">By Mary Roach</p>
         
-        <p class="fr-book-desc">First published 2005. Subjects: Religion and science, Consciousness, Near-death experiences, Soul, Future life.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Spook+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2005. Subjects: Religion and science, Consciousness, Near-death experiences, Soul, Future life.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Spook+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Paranormality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12284173-M.jpg" alt="Cover for Paranormality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Paranormality">Paranormality</a>
-        </h4>
-        <p class="fr-book-author">By Richard Wiseman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Paranormality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12284173-M.jpg" alt="Cover for Paranormality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Paranormality">Paranormality</a>
+</h4>
+<p class="fr-book-author">By Richard Wiseman</p>
         
-        <p class="fr-book-desc">First published 2011. Subjects: Parapsychology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011. Subjects: Parapsychology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+vanishing+hitchhiker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The vanishing hitchhiker</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Spook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Spook</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+vanishing+hitchhiker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The vanishing hitchhiker</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Spook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Spook</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-houses-the-ordinary-noises-behind-haunted-houses-forteana-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="old-houses-the-ordinary-noises-behind-haunted-houses-forteana-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HAUNTED HOUSE - HOUSE DOOR PLAQUE SIGN SHED GATE (Gold or Silver Lettering)"><img src="{{ '/assets/images/marketplace-covers/a88d1c5ea93ea798e1ff.jpg' | relative_url }}" alt="Listing image for HAUNTED HOUSE - HOUSE DOOR PLAQUE SIGN SHED GATE (Gold or Silver Lettering)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-houses-the-ordinary-noises-behind-haunted-houses-forteana-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="old-houses-the-ordinary-noises-behind-haunted-houses-forteana-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer">HAUNTED HOUSE - HOUSE DOOR PLAQUE SIGN SHED GATE (Gold or Silver Lettering)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-houses-the-ordinary-noises-behind-haunted-houses-forteana-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="old-houses-the-ordinary-noises-behind-haunted-houses-forteana-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted house sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: haunted house sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-houses-the-ordinary-noises-behind-haunted-houses-forteana-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="old-houses-the-ordinary-noises-behind-haunted-houses-forteana-haunted-house-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-houses-the-ordinary-noises-behind-haunted-houses-forteana-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="old-houses-the-ordinary-noises-behind-haunted-houses-forteana-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HAUNTED HOUSE - HOUSE DOOR PLAQUE SIGN SHED GATE (Gold or Silver Lettering)"><img src="{{ '/assets/images/marketplace-covers/a88d1c5ea93ea798e1ff.jpg' | relative_url }}" alt="Listing image for HAUNTED HOUSE - HOUSE DOOR PLAQUE SIGN SHED GATE (Gold or Silver Lettering)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-houses-the-ordinary-noises-behind-haunted-houses-forteana-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="old-houses-the-ordinary-noises-behind-haunted-houses-forteana-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer">HAUNTED HOUSE - HOUSE DOOR PLAQUE SIGN SHED GATE (Gold or Silver Lettering)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-houses-the-ordinary-noises-behind-haunted-houses-forteana-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="old-houses-the-ordinary-noises-behind-haunted-houses-forteana-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted house sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted house sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-houses-the-ordinary-noises-behind-haunted-houses-forteana-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="old-houses-the-ordinary-noises-behind-haunted-houses-forteana-haunted-house-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-houses-the-ordinary-noises-behind-haunted-houses-forteana-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="old-houses-the-ordinary-noises-behind-haunted-houses-forteana-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Haunted House Halloween Sign “Haunted Highway “Black Metal Hanging Wall Sign"><img src="{{ '/assets/images/marketplace-covers/6a9ab4b993248f2965ff.jpg' | relative_url }}" alt="Listing image for Haunted House Halloween Sign “Haunted Highway “Black Metal Hanging Wall Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-houses-the-ordinary-noises-behind-haunted-houses-forteana-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="old-houses-the-ordinary-noises-behind-haunted-houses-forteana-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer">Haunted House Halloween Sign “Haunted Highway “Black Metal Hanging Wall Sign</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-houses-the-ordinary-noises-behind-haunted-houses-forteana-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="old-houses-the-ordinary-noises-behind-haunted-houses-forteana-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted house sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: haunted house sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-houses-the-ordinary-noises-behind-haunted-houses-forteana-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="old-houses-the-ordinary-noises-behind-haunted-houses-forteana-haunted-house-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-houses-the-ordinary-noises-behind-haunted-houses-forteana-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="old-houses-the-ordinary-noises-behind-haunted-houses-forteana-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Haunted House Halloween Sign “Haunted Highway “Black Metal Hanging Wall Sign"><img src="{{ '/assets/images/marketplace-covers/6a9ab4b993248f2965ff.jpg' | relative_url }}" alt="Listing image for Haunted House Halloween Sign “Haunted Highway “Black Metal Hanging Wall Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-houses-the-ordinary-noises-behind-haunted-houses-forteana-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="old-houses-the-ordinary-noises-behind-haunted-houses-forteana-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer">Haunted House Halloween Sign “Haunted Highway “Black Metal Hanging Wall Sign</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-houses-the-ordinary-noises-behind-haunted-houses-forteana-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="old-houses-the-ordinary-noises-behind-haunted-houses-forteana-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted house sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted house sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-houses-the-ordinary-noises-behind-haunted-houses-forteana-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="old-houses-the-ordinary-noises-behind-haunted-houses-forteana-haunted-house-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-houses-the-ordinary-noises-behind-haunted-houses-forteana-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="old-houses-the-ordinary-noises-behind-haunted-houses-forteana-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for How To Sell A haunted House Signed Special edition Hardback"><img src="{{ '/assets/images/marketplace-covers/2194b6d0f0cda7539d56.jpg' | relative_url }}" alt="Listing image for How To Sell A haunted House Signed Special edition Hardback" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-houses-the-ordinary-noises-behind-haunted-houses-forteana-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="old-houses-the-ordinary-noises-behind-haunted-houses-forteana-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer">How To Sell A haunted House Signed Special edition Hardback</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-houses-the-ordinary-noises-behind-haunted-houses-forteana-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="old-houses-the-ordinary-noises-behind-haunted-houses-forteana-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted house sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: haunted house sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-houses-the-ordinary-noises-behind-haunted-houses-forteana-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="old-houses-the-ordinary-noises-behind-haunted-houses-forteana-haunted-house-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-houses-the-ordinary-noises-behind-haunted-houses-forteana-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="old-houses-the-ordinary-noises-behind-haunted-houses-forteana-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-houses-the-ordinary-noises-behind-haunted-houses-forteana-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="old-houses-the-ordinary-noises-behind-haunted-houses-forteana-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for How To Sell A haunted House Signed Special edition Hardback"><img src="{{ '/assets/images/marketplace-covers/2194b6d0f0cda7539d56.jpg' | relative_url }}" alt="Listing image for How To Sell A haunted House Signed Special edition Hardback" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-houses-the-ordinary-noises-behind-haunted-houses-forteana-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="old-houses-the-ordinary-noises-behind-haunted-houses-forteana-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer">How To Sell A haunted House Signed Special edition Hardback</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-houses-the-ordinary-noises-behind-haunted-houses-forteana-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="old-houses-the-ordinary-noises-behind-haunted-houses-forteana-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted house sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted house sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-houses-the-ordinary-noises-behind-haunted-houses-forteana-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="old-houses-the-ordinary-noises-behind-haunted-houses-forteana-haunted-house-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-houses-the-ordinary-noises-behind-haunted-houses-forteana-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="old-houses-the-ordinary-noises-behind-haunted-houses-forteana-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -556,7 +556,7 @@ For investigators, the most productive approach is neither immediate belief nor 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -576,7 +576,7 @@ For investigators, the most productive approach is neither immediate belief nor 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -608,7 +608,7 @@ For investigators, the most productive approach is neither immediate belief nor 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -660,7 +660,7 @@ For investigators, the most productive approach is neither immediate belief nor 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -705,7 +705,7 @@ For investigators, the most productive approach is neither immediate belief nor 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -746,110 +746,110 @@ For investigators, the most productive approach is neither immediate belief nor 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: reddit.com  
    Title: ELI5 What is a house "settling" and what noses is it making  
-   Link: <a href="https://www.reddit.com/r/explainlikeimfive/comments/34bvxb/eli5_what_is_a_house_settling_and_what_noses_is/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/34bvxb/eli5_what_is_a_house_settling_and_what_noses_is/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ELI5 What is a house &quot;settling&quot; and what noses is it making...April 29, 2015 — It is called thermal expansion and contraction, eac...</p></details>
+   Link:<a href="https://www.reddit.com/r/explainlikeimfive/comments/34bvxb/eli5_what_is_a_house_settling_and_what_noses_is/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/34bvxb/eli5_what_is_a_house_settling_and_what_noses_is/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ELI5 What is a house &quot;settling&quot; and what noses is it making...April 29, 2015 — It is called thermal expansion and contraction, eac...</p></details>
    Published: April 29, 2015  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/todayilearned/comments/d2oebj/til_about_vic_tandy_an_engineer_who_established_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/d2oebj/til_about_vic_tandy_an_engineer_who_established_a/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TIL about Vic Tandy, an engineer who established a...TIL about Vic Tandy, an engineer who established a connection between supposed para...</p></details>
+   Link:<a href="https://www.reddit.com/r/todayilearned/comments/d2oebj/til_about_vic_tandy_an_engineer_who_established_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/d2oebj/til_about_vic_tandy_an_engineer_who_established_a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TIL about Vic Tandy, an engineer who established a...TIL about Vic Tandy, an engineer who established a connection between supposed para...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: richardwiseman.com  
    Title: Richard Wiseman The Ghost in the Machine  
-   Link: <a href="https://www.richardwiseman.com/resources/ghost-in-machine.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.richardwiseman.com/resources/ghost-in-machine.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Using the first author&#x27;s own experience as an example, we...Read more...</p></details>
+   Link:<a href="https://www.richardwiseman.com/resources/ghost-in-machine.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.richardwiseman.com/resources/ghost-in-machine.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Using the first author&#x27;s own experience as an example, we...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: richardwiseman.wordpress.com  
    Title: Richard Wiseman [Ghosts](&#123;&#123; 'ghosts/' | relative_url &#125;&#125;) and Hauntings  
-   Link: <a href="https://richardwiseman.wordpress.com/research/[psychology" target="_blank" rel="noopener noreferrer nofollow">https://richardwiseman.wordpress.com/research/[psychology</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Richard WisemanGhosts and Hauntings - Richard Wiseman - WordPress.comApril 13, 2020 — Some researchers have suggested that infrasound (ve...</p></details>
+   Link:<a href="https://richardwiseman.wordpress.com/research/[psychology" target="_blank" rel="noopener noreferrer nofollow">https://richardwiseman.wordpress.com/research/[psychology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Richard WisemanGhosts and Hauntings - Richard Wiseman - WordPress.comApril 13, 2020 — Some researchers have suggested that infrasound (ve...</p></details>
    Published: April 13, 2020  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: richardwiseman.substack.com  
    Title: The Science of Ghosts  
-   Link: <a href="https://richardwiseman.substack.com/p/the-science-of-ghosts" target="_blank" rel="noopener noreferrer nofollow">https://richardwiseman.substack.com/p/the-science-of-ghosts</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Richard Wiseman - SubstackPutting two and two together, he speculated that some buildings may contain infrasound (perhaps caused by wind...</p></details>
+   Link:<a href="https://richardwiseman.substack.com/p/the-science-of-ghosts" target="_blank" rel="noopener noreferrer nofollow">https://richardwiseman.substack.com/p/the-science-of-ghosts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Richard Wiseman - SubstackPutting two and two together, he speculated that some buildings may contain infrasound (perhaps caused by wind...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: thetimes.com  
    Title: The Times Sensed a bump in the night?  
-   Link: <a href="https://www.thetimes.com/uk/science/article/bump-in-the-night-pipes-ghosts-h3nx3h3f0" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/uk/science/article/bump-in-the-night-pipes-ghosts-h3nx3h3f0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s not ghosts - just bad vibrationsApril 27, 2026 — A recent study published in *Frontiers in Behavioural Neuroscience* suggests that e...</p></details>
+   Link:<a href="https://www.thetimes.com/uk/science/article/bump-in-the-night-pipes-ghosts-h3nx3h3f0" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/uk/science/article/bump-in-the-night-pipes-ghosts-h3nx3h3f0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s not ghosts - just bad vibrationsApril 27, 2026 — A recent study published in *Frontiers in Behavioural Neuroscience* suggests that e...</p></details>
    Published: April 27, 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ninthletter.com  
-   Link: <a href="https://ninthletter.com/web-edition/winter-19-main/" target="_blank" rel="noopener noreferrer nofollow">https://ninthletter.com/web-edition/winter-19-main/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ninth Letter...</p></details>
+   Link:<a href="https://ninthletter.com/web-edition/winter-19-main/" target="_blank" rel="noopener noreferrer nofollow">https://ninthletter.com/web-edition/winter-19-main/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ninth Letter...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Infrasound" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Infrasound</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>InfrasoundInfrasound is characterized by an ability to get around obstacles with little dissipation. In music, acoustic waveguide meth...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Infrasound" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Infrasound</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>InfrasoundInfrasound is characterized by an ability to get around obstacles with little dissipation. In music, acoustic waveguide meth...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Vic Tandy  
-   Link: <a href="https://en.wikipedia.org/wiki/Vic_Tandy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Vic_Tandy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Vic TandyHe was known best for his research into the relationship between infrasound and ghostly apparitions.... Tandy and Lawrence w...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Vic_Tandy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Vic_Tandy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vic TandyHe was known best for his research into the relationship between infrasound and ghostly apparitions.... Tandy and Lawrence w...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/24236415_A_Ghost_in_the_Machine" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/24236415_A_Ghost_in_the_Machine</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A Ghost in the MachineWe show how a 19hz standing air wave may under certain conditions create sensory phenomena suggestive of a gh...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/24236415_A_Ghost_in_the_Machine" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/24236415_A_Ghost_in_the_Machine</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A Ghost in the MachineWe show how a 19hz standing air wave may under certain conditions create sensory phenomena suggestive of a gh...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/physicsisfun109/posts/956093750402803/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/physicsisfun109/posts/956093750402803/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Infrasound causes anxiety and hallucinationsInfrasound frequencies around 18-19 Hz—below normal human hearing range (20-20,000 Hz)—can ca...</p></details>
+   Link:<a href="https://www.facebook.com/groups/physicsisfun109/posts/956093750402803/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/physicsisfun109/posts/956093750402803/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Infrasound causes anxiety and hallucinationsInfrasound frequencies around 18-19 Hz—below normal human hearing range (20-20,000 Hz)—can ca...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/242275462_Something_in_the_Cellar" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/242275462_Something_in_the_Cellar</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Something in the CellarTandy assumed that a peak at 19Hz and 38dB level was a cause of the phenomena he experienced, mediated through eye...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/242275462_Something_in_the_Cellar" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/242275462_Something_in_the_Cellar</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Something in the CellarTandy assumed that a peak at 19Hz and 38dB level was a cause of the phenomena he experienced, mediated through eye...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/science/2026/apr/27/spooky-feelings-in-old-houses-may-be-caused-by-boiler-sounds-study-suggests" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/apr/27/spooky-feelings-in-old-houses-may-be-caused-by-boiler-sounds-study-suggests</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers discovered that even though participants could not consciously hear infrasound, exposure led to increased irritability, eleva...</p></details>
+   Link:<a href="https://www.theguardian.com/science/2026/apr/27/spooky-feelings-in-old-houses-may-be-caused-by-boiler-sounds-study-suggests" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/apr/27/spooky-feelings-in-old-houses-may-be-caused-by-boiler-sounds-study-suggests</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers discovered that even though participants could not consciously hear infrasound, exposure led to increased irritability, eleva...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40missrennie/there-is-a-frequency-that-makes-you-see-ghosts-0c410ba07df3" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40missrennie/there-is-a-frequency-that-makes-you-see-ghosts-0c410ba07df3</a>  
+   Link:<a href="https://medium.com/%40missrennie/there-is-a-frequency-that-makes-you-see-ghosts-0c410ba07df3" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40missrennie/there-is-a-frequency-that-makes-you-see-ghosts-0c410ba07df3</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sciencealert.com  
    Title: hidden phenomenon could explain why old buildings feel haunted study finds  
-   Link: <a href="https://www.sciencealert.com/hidden-phenomenon-could-explain-why-old-buildings-feel-haunted-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencealert.com/hidden-phenomenon-could-explain-why-old-buildings-feel-haunted-study-finds</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hidden Phenomenon Could Explain Why Old Buildings...29 Apr 2026 — It&#x27;s called infrasound, and a new study reveals how this phenomenon ha...</p></details>
+   Link:<a href="https://www.sciencealert.com/hidden-phenomenon-could-explain-why-old-buildings-feel-haunted-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencealert.com/hidden-phenomenon-could-explain-why-old-buildings-feel-haunted-study-finds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hidden Phenomenon Could Explain Why Old Buildings...29 Apr 2026 — It&#x27;s called infrasound, and a new study reveals how this phenomenon ha...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nps.gov  
-   Link: <a href="https://www.nps.gov/orgs/1739/upload/preservation-brief-47-exteriors-small-medium-buildings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/orgs/1739/upload/preservation-brief-47-exteriors-small-medium-buildings.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This Preservation Brief is designed for those responsible for the care of small and medium size historic buildings, including owners, pro...</p></details>
+   Link:<a href="https://www.nps.gov/orgs/1739/upload/preservation-brief-47-exteriors-small-medium-buildings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/orgs/1739/upload/preservation-brief-47-exteriors-small-medium-buildings.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This Preservation Brief is designed for those responsible for the care of small and medium size historic buildings, including owners, pro...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: npshistory.com  
-   Link: <a href="https://npshistory.com/publications/preservation/reading-list/hist-masonry.pdf" target="_blank" rel="noopener noreferrer nofollow">https://npshistory.com/publications/preservation/reading-list/hist-masonry.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>orrosion of reinforcement, cracking, thermal expansion, repair techniques, resins...</p></details>
+   Link:<a href="https://npshistory.com/publications/preservation/reading-list/hist-masonry.pdf" target="_blank" rel="noopener noreferrer nofollow">https://npshistory.com/publications/preservation/reading-list/hist-masonry.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>orrosion of reinforcement, cracking, thermal expansion, repair techniques, resins...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: mybestfoundationrepair.com  
    Title: House Settling Noises in Houston?  
-   Link: <a href="https://mybestfoundationrepair.com/house-settling-noises/" target="_blank" rel="noopener noreferrer nofollow">https://mybestfoundationrepair.com/house-settling-noises/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Scary Truth5 Jun 2026 — House settling noises like creaking, popping, and groaning are common and often caused by normal factors, inc...</p></details>
+   Link:<a href="https://mybestfoundationrepair.com/house-settling-noises/" target="_blank" rel="noopener noreferrer nofollow">https://mybestfoundationrepair.com/house-settling-noises/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Scary Truth5 Jun 2026 — House settling noises like creaking, popping, and groaning are common and often caused by normal factors, inc...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: arstechnica.com  
    Title: that spooky sensation likely due to rumbling pipes not spirits  
-   Link: <a href="https://arstechnica.com/science/2026/04/that-spooky-sensation-likely-due-to-rumbling-pipes-not-spirits/" target="_blank" rel="noopener noreferrer nofollow">https://arstechnica.com/science/2026/04/that-spooky-sensation-likely-due-to-rumbling-pipes-not-spirits/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Low-frequency infrasound (below 20 Hz) can raise cortisol levels in saliva and...Read more...</p></details>
+   Link:<a href="https://arstechnica.com/science/2026/04/that-spooky-sensation-likely-due-to-rumbling-pipes-not-spirits/" target="_blank" rel="noopener noreferrer nofollow">https://arstechnica.com/science/2026/04/that-spooky-sensation-likely-due-to-rumbling-pipes-not-spirits/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Low-frequency infrasound (below 20 Hz) can raise cortisol levels in saliva and...Read more...</p></details>

@@ -274,17 +274,17 @@ image: /assets/images/forteana_50bdc8_cryptids_natural_his_3c2db5_okapi_hearsay_
 
 ## Introduction
 
-The okapi is often presented as a rare example of a “cryptid that turned out to be real”. That description is only partly correct. The animal was unknown to Western zoology until 1901, yet it was never an unknown creature to the Indigenous communities who lived alongside it in the forests of what is now the Democratic Republic of the Congo. What delayed its acceptance by science was not a lack of stories, but the absence of physical specimens that could be examined, compared and formally described. The history of the okapi therefore illustrates an important boundary in natural history and [Forteana]({{ 'forteana/' | relative_url }}): hearsay can point investigators in the right direction, but it does not by itself establish a new species. The decisive shift came only when local knowledge was joined to skins, skulls and anatomical evidence that could be studied independently. Royal Museum for Central Africa+2IELC LibGuides <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.africamuseum.be/en/learn/provenance/okapis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: africamuseum.be">[africamuseum.be]</a><span class="citation-popover" role="note"><span class="citation-popover-source">africamuseum.be</span><span class="citation-popover-title">Royal Museum for Central Africa Okapis &#124; Royal Museum for Central Africa</span><span class="citation-popover-snippet">Royal Museum for Central AfricaOkapis &#124; Royal Museum for Central Africa - Tervuren10 Mar 2022 — The AfricaMuseum today houses one of the...</span></span></span>
+The okapi is often presented as a rare example of a “cryptid that turned out to be real”. That description is only partly correct. The animal was unknown to Western zoology until 1901, yet it was never an unknown creature to the Indigenous communities who lived alongside it in the forests of what is now the Democratic Republic of the Congo. What delayed its acceptance by science was not a lack of stories, but the absence of physical specimens that could be examined, compared and formally described. The history of the okapi therefore illustrates an important boundary in natural history and [Forteana]({{ 'forteana/' | relative_url }}): hearsay can point investigators in the right direction, but it does not by itself establish a new species. The decisive shift came only when local knowledge was joined to skins, skulls and anatomical evidence that could be studied independently. Royal Museum for Central Africa+2IELC LibGuides<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.africamuseum.be/en/learn/provenance/okapis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: africamuseum.be">[africamuseum.be]</a><span class="citation-popover" role="note"><span class="citation-popover-source">africamuseum.be</span><span class="citation-popover-title">Royal Museum for Central Africa Okapis &#124; Royal Museum for Central Africa</span><span class="citation-popover-snippet">Royal Museum for Central AfricaOkapis &#124; Royal Museum for Central Africa - Tervuren10 Mar 2022 — The AfricaMuseum today houses one of the...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_cryptids_natural_his_3c2db5_okapi_hearsay_specim_ad4d53-Illustration-1-dark.svg" | relative_url }}" alt="Okapi illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_cryptids_natural_his_3c2db5_okapi_hearsay_specim_ad4d53-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_cryptids_natural_his_3c2db5_okapi_hearsay_specim_ad4d53-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What outsiders missed and local people knew
 
-For generations, the okapi was part of the lived environment of forest peoples in the Ituri region. Hunters understood its habits, recognised its tracks and had names for the animal long before European naturalists became interested in it. The problem was not that the animal was mythical, but that colonial-era scientific networks had little direct access to either the forests or the knowledge of the people who lived there. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.africamuseum.be/en/learn/provenance/okapis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: africamuseum.be">[Royal Museum for Central Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">africamuseum.be</span><span class="citation-popover-title">Royal Museum for Central Africa Okapis &#124; Royal Museum for Central Africa</span><span class="citation-popover-snippet">Royal Museum for Central AfricaOkapis &#124; Royal Museum for Central Africa - Tervuren10 Mar 2022 — The AfricaMuseum today houses one of the...</span></span></span>
+For generations, the okapi was part of the lived environment of forest peoples in the Ituri region. Hunters understood its habits, recognised its tracks and had names for the animal long before European naturalists became interested in it. The problem was not that the animal was mythical, but that colonial-era scientific networks had little direct access to either the forests or the knowledge of the people who lived there.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.africamuseum.be/en/learn/provenance/okapis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: africamuseum.be">[Royal Museum for Central Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">africamuseum.be</span><span class="citation-popover-title">Royal Museum for Central Africa Okapis &#124; Royal Museum for Central Africa</span><span class="citation-popover-snippet">Royal Museum for Central AfricaOkapis &#124; Royal Museum for Central Africa - Tervuren10 Mar 2022 — The AfricaMuseum today houses one of the...</span></span></span>
 
-European explorers heard repeated accounts of a mysterious forest animal during the late nineteenth century. These reports were often filtered through several layers of translation and assumption. Some interpreted the descriptions as referring to an unusual zebra because of references to striped legs, while others imagined a forest horse or an "African unicorn". Such interpretations reflected the expectations of outsiders rather than the understanding of local observers, whose descriptions referred to a real animal already familiar within the region. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Okapi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+European explorers heard repeated accounts of a mysterious forest animal during the late nineteenth century. These reports were often filtered through several layers of translation and assumption. Some interpreted the descriptions as referring to an unusual zebra because of references to striped legs, while others imagined a forest horse or an "African unicorn". Such interpretations reflected the expectations of outsiders rather than the understanding of local observers, whose descriptions referred to a real animal already familiar within the region.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Okapi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-Sir Harry Johnston's role was therefore less one of discovering an unknown beast than of bringing together Indigenous testimony with material evidence. Local guides directed his attention to tracks and helped him obtain pieces of skin and eventually a skull. Without that assistance, the animal would almost certainly have remained another rumour within European scientific circles for longer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Okapi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+Sir Harry Johnston's role was therefore less one of discovering an unknown beast than of bringing together Indigenous testimony with material evidence. Local guides directed his attention to tracks and helped him obtain pieces of skin and eventually a skull. Without that assistance, the animal would almost certainly have remained another rumour within European scientific circles for longer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Okapi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pc6S7gGKWIw" title="Who &quot;Discovered&quot; the Okapi?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pc6S7gGKWIw" target="_blank" rel="noopener noreferrer">Who &quot;Discovered&quot; the Okapi?</a></p><p class="youtube-embed-meta">Channel: Bizarre Beasts</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pc6S7gGKWIw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pc6S7gGKWIw">Open on YouTube</a></p></div></div></div>
@@ -293,11 +293,11 @@ Sir Harry Johnston's role was therefore less one of discovering an unknown beast
 
 The decisive moment in the okapi story was not the [first report]({{ 'first-report/' | relative_url }}) but the first examinable remains.
 
-When Johnston sent striped skin fragments and a skull to Britain, zoologists could compare them with known mammals. The striped hide initially encouraged comparisons with zebras, leading the species first to be described as *Equus johnstoni*. However, the skull revealed unmistakable giraffid features, including the characteristic horn-like ossicones. Further anatomical study showed that the animal represented neither a horse nor a zebra but a previously unrecognised relative of the giraffe, now classified as *Okapia johnstoni*. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Okapi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2IELC LibGuides]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+When Johnston sent striped skin fragments and a skull to Britain, zoologists could compare them with known mammals. The striped hide initially encouraged comparisons with zebras, leading the species first to be described as *Equus johnstoni*. However, the skull revealed unmistakable giraffid features, including the characteristic horn-like ossicones. Further anatomical study showed that the animal represented neither a horse nor a zebra but a previously unrecognised relative of the giraffe, now classified as *Okapia johnstoni*.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Okapi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2IELC LibGuides]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 This sequence demonstrates how taxonomy works in practice. Scientific recognition depends on evidence that other researchers can inspect, preserve and compare. A specimen allows measurements, anatomical descriptions, museum collections and later genetic work. Stories alone cannot perform those functions, no matter how numerous or sincere the witnesses.
 
-The history is also more complex than older discovery narratives suggested. Research into museum collections has shown that fragments of okapi skin had reached Europe before Johnston's famous specimens, although they were not immediately recognised for what they were. This underlines that collecting an object is not enough by itself; scientific interpretation requires that the material be identified, compared and incorporated into a broader taxonomic framework. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tetzoo.com/blog/2023/4/28/the-discovery-of-the-okapi-part-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tetzoo.com">[Tetrapod Zoology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tetzoo.com</span><span class="citation-popover-title">the discovery of the okapi part 2</span><span class="citation-popover-snippet">Tetrapod ZoologyThe Discovery of the Okapi, Part 2April 28, 2023 — 28 Apr 2023 — Harry Johnston is credited with being the first European...</span><span class="citation-popover-meta">Published: April 28, 2023</span></span></span>
+The history is also more complex than older discovery narratives suggested. Research into museum collections has shown that fragments of okapi skin had reached Europe before Johnston's famous specimens, although they were not immediately recognised for what they were. This underlines that collecting an object is not enough by itself; scientific interpretation requires that the material be identified, compared and incorporated into a broader taxonomic framework.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tetzoo.com/blog/2023/4/28/the-discovery-of-the-okapi-part-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tetzoo.com">[Tetrapod Zoology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tetzoo.com</span><span class="citation-popover-title">the discovery of the okapi part 2</span><span class="citation-popover-snippet">Tetrapod ZoologyThe Discovery of the Okapi, Part 2April 28, 2023 — 28 Apr 2023 — Harry Johnston is credited with being the first European...</span><span class="citation-popover-meta">Published: April 28, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_cryptids_natural_his_3c2db5_okapi_hearsay_specim_ad4d53-Illustration-2-dark.svg" | relative_url }}" alt="Okapi illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_cryptids_natural_his_3c2db5_okapi_hearsay_specim_ad4d53-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_cryptids_natural_his_3c2db5_okapi_hearsay_specim_ad4d53-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -314,13 +314,13 @@ Several factors contributed to its late recognition by Western science:
 * It is naturally shy and largely solitary.
 * Its range is geographically restricted.
 * Nineteenth-century European expeditions visited only a small fraction of its habitat.
-* Reliable information depended heavily on local hunters rather than casual travellers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ielc.libguides.com/sdzg/factsheets/okapi/taxonomy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ielc.libguides.com">[IELC LibGuides+2IUCN Portals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ielc.libguides.com</span><span class="citation-popover-snippet">Okapi (Okapia johnstoni) Fact Sheet: Taxonomy &amp; HistoryOkapi were unknown to the western world (occupy dense African rain f...</span></span></span>
+* Reliable information depended heavily on local hunters rather than casual travellers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ielc.libguides.com/sdzg/factsheets/okapi/taxonomy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ielc.libguides.com">[IELC LibGuides+2IUCN Portals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ielc.libguides.com</span><span class="citation-popover-snippet">Okapi (Okapia johnstoni) Fact Sheet: Taxonomy &amp; HistoryOkapi were unknown to the western world (occupy dense African rain f...</span></span></span>
 
 </div>
 
 These circumstances made second-hand reports plausible but difficult to verify. In modern terms, the okapi occupied an information gap rather than a biological impossibility. The forests concealed the animal from outsiders, but not from the communities who interacted with it routinely.
 
-This distinction is important because it explains why the okapi should not be treated as evidence that any persistent cryptid report is likely to prove true. The okapi already existed within a functioning network of local ecological knowledge. What Western zoology lacked was direct access to verifiable specimens, not a shortage of eyewitness accounts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/388942596_Discovering_the_Okapi_Western_Science_Indigenous_Knowledge_and_the_Search_for_a_Rainforest_Enigma" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Tetrapod Zoology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Discovering the Okapi: Western Science, Indigenous...1 Nov 2025 — Pooley tells the story of the okapi&#x27;s &quot;discovery&quot; in...</span></span></span>
+This distinction is important because it explains why the okapi should not be treated as evidence that any persistent cryptid report is likely to prove true. The okapi already existed within a functioning network of local ecological knowledge. What Western zoology lacked was direct access to verifiable specimens, not a shortage of eyewitness accounts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/388942596_Discovering_the_Okapi_Western_Science_Indigenous_Knowledge_and_the_Search_for_a_Rainforest_Enigma" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Tetrapod Zoology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Discovering the Okapi: Western Science, Indigenous...1 Nov 2025 — Pooley tells the story of the okapi&#x27;s &quot;discovery&quot; in...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3TzudUU0Pis" title="OKAPI: THE RETURN OF THE UNICORN - Documentary Film" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3TzudUU0Pis" target="_blank" rel="noopener noreferrer">OKAPI: THE RETURN OF THE UNICORN - Documentary Film</a></p><p class="youtube-embed-meta">Channel: Kickstarter History</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3TzudUU0Pis" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3TzudUU0Pis">Open on YouTube</a></p></div></div></div>
@@ -332,186 +332,186 @@ This distinction is important because it explains why the okapi should not be tr
 
 Within discussions of [cryptids]({{ 'cryptids/' | relative_url }}), the okapi is frequently invoked as proof that science sometimes dismisses genuine animals. The historical record supports a narrower and more useful lesson.
 
-Local testimony mattered because it directed investigators towards a real species. Yet the testimony did not by itself change scientific consensus. Consensus shifted only when physical remains could be examined by multiple experts, described in published taxonomy and preserved in museum collections. That transition transformed the okapi from an intriguing report into an accepted species. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ielc.libguides.com/sdzg/factsheets/okapi/taxonomy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ielc.libguides.com">[IELC LibGuides+2IUCN Portals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ielc.libguides.com</span><span class="citation-popover-snippet">Okapi (Okapia johnstoni) Fact Sheet: Taxonomy &amp; HistoryOkapi were unknown to the western world (occupy dense African rain f...</span></span></span>
+Local testimony mattered because it directed investigators towards a real species. Yet the testimony did not by itself change scientific consensus. Consensus shifted only when physical remains could be examined by multiple experts, described in published taxonomy and preserved in museum collections. That transition transformed the okapi from an intriguing report into an accepted species.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ielc.libguides.com/sdzg/factsheets/okapi/taxonomy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ielc.libguides.com">[IELC LibGuides+2IUCN Portals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ielc.libguides.com</span><span class="citation-popover-snippet">Okapi (Okapia johnstoni) Fact Sheet: Taxonomy &amp; HistoryOkapi were unknown to the western world (occupy dense African rain f...</span></span></span>
 
-The case therefore marks the limit of hearsay rather than its triumph. Reliable reports, even when repeated over many years, remain provisional unless they can be connected to durable evidence. In the language of Forteana, the okapi crossed the boundary between mystery and natural history not because enough people believed in it, but because belief was eventually accompanied by specimens that anyone qualified could examine. That is why the okapi remains an important comparison in discussions of cryptids, while also reminding readers that the standards for recognising a new animal have always depended on evidence that extends beyond stories alone. Tetrapod Zoology+2Royal Museum for Central Africa <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tetzoo.com/blog/2023/4/11/the-discovery-of-the-okapi-part-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tetzoo.com">[tetzoo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tetzoo.com</span><span class="citation-popover-title">the discovery of the okapi part 1</span><span class="citation-popover-snippet">Tetrapod ZoologyThe Discovery of the Okapi, Part 112 Apr 2023 — This specimen was key in the naming of Ray Lankester&#x27;s naming of the genu...</span></span></span>
+The case therefore marks the limit of hearsay rather than its triumph. Reliable reports, even when repeated over many years, remain provisional unless they can be connected to durable evidence. In the language of Forteana, the okapi crossed the boundary between mystery and natural history not because enough people believed in it, but because belief was eventually accompanied by specimens that anyone qualified could examine. That is why the okapi remains an important comparison in discussions of cryptids, while also reminding readers that the standards for recognising a new animal have always depended on evidence that extends beyond stories alone. Tetrapod Zoology+2Royal Museum for Central Africa<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tetzoo.com/blog/2023/4/11/the-discovery-of-the-okapi-part-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tetzoo.com">[tetzoo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tetzoo.com</span><span class="citation-popover-title">the discovery of the okapi part 1</span><span class="citation-popover-snippet">Tetrapod ZoologyThe Discovery of the Okapi, Part 112 Apr 2023 — This specimen was key in the naming of Ray Lankester&#x27;s naming of the genu...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_cryptids_natural_his_3c2db5_okapi_hearsay_specim_ad4d53-Illustration-3-dark.svg" | relative_url }}" alt="Okapi illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_cryptids_natural_his_3c2db5_okapi_hearsay_specim_ad4d53-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_cryptids_natural_his_3c2db5_okapi_hearsay_specim_ad4d53-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Okapi Was Not Just a Rumor. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Okapi Was Not Just a Rumor. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cryptozoology A To Z on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/427879-M.jpg" alt="Cover for Cryptozoology A To Z" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cryptozoology A To Z">Cryptozoology A To Z</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cryptozoology A To Z on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/427879-M.jpg" alt="Cover for Cryptozoology A To Z" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cryptozoology A To Z">Cryptozoology A To Z</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Provides context for animals once considered mysterious.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for animals once considered mysterious.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunting Monsters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10220347-M.jpg" alt="Cover for Hunting Monsters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunting Monsters">Hunting Monsters</a>
-        </h4>
-        <p class="fr-book-author">By Darren Naish</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunting Monsters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10220347-M.jpg" alt="Cover for Hunting Monsters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunting Monsters">Hunting Monsters</a>
+</h4>
+<p class="fr-book-author">By Darren Naish</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Monsters, Zoology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Monsters, Zoology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+okapi+Susan+Lyndaker+Lindsey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The okapi on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4993659-M.jpg" alt="Cover for The okapi" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+okapi+Susan+Lyndaker+Lindsey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The okapi">The okapi</a>
-        </h4>
-        <p class="fr-book-author">By Susan Lyndaker Lindsey, Cynthia L. Bennett et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+okapi+Susan+Lyndaker+Lindsey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The okapi on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4993659-M.jpg" alt="Cover for The okapi" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+okapi+Susan+Lyndaker+Lindsey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The okapi">The okapi</a>
+</h4>
+<p class="fr-book-author">By Susan Lyndaker Lindsey, Cynthia L. Bennett et al.</p>
         
-        <p class="fr-book-desc">First published 1999. Subjects: Okapi, Conservation of wildlife &amp; habitats, Mammals, Wild animals, Individual Species Of Mammals.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+okapi+Susan+Lyndaker+Lindsey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1999. Subjects: Okapi, Conservation of wildlife &amp; habitats, Mammals, Wild animals, Individual Species Of Mammals.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+okapi+Susan+Lyndaker+Lindsey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science">Abominable Science</a>
-        </h4>
-        <p class="fr-book-author">By Donald R. Prothero, Daniel Loxton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science">Abominable Science</a>
+</h4>
+<p class="fr-book-author">By Donald R. Prothero, Daniel Loxton</p>
         
-        <p class="fr-book-desc">First published 2012. Subjects: Animals, mythical.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2012. Subjects: Animals, mythical.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cryptozoology A To Z</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunting+Monsters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunting Monsters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+okapi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The okapi</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cryptozoology A To Z</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunting+Monsters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunting Monsters</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+okapi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The okapi</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=okapi-why-the-okapi-was-not-just-a-rumor-forteana-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="okapi-why-the-okapi-was-not-just-a-rumor-forteana-cryptid-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MetaZoo Kuromi’s Cryptid Carnival Special Edition Bundle Set"><img src="{{ '/assets/images/marketplace-covers/39fb8abb66c120557bae.jpg' | relative_url }}" alt="Listing image for MetaZoo Kuromi’s Cryptid Carnival Special Edition Bundle Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=okapi-why-the-okapi-was-not-just-a-rumor-forteana-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="okapi-why-the-okapi-was-not-just-a-rumor-forteana-cryptid-collectible" target="_blank" rel="sponsored noopener noreferrer">MetaZoo Kuromi’s Cryptid Carnival Special Edition Bundle Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=okapi-why-the-okapi-was-not-just-a-rumor-forteana-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="okapi-why-the-okapi-was-not-just-a-rumor-forteana-cryptid-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=okapi-why-the-okapi-was-not-just-a-rumor-forteana-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="okapi-why-the-okapi-was-not-just-a-rumor-forteana-cryptid-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=okapi-why-the-okapi-was-not-just-a-rumor-forteana-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="okapi-why-the-okapi-was-not-just-a-rumor-forteana-cryptid-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MetaZoo Kuromi’s Cryptid Carnival Special Edition Bundle Set"><img src="{{ '/assets/images/marketplace-covers/39fb8abb66c120557bae.jpg' | relative_url }}" alt="Listing image for MetaZoo Kuromi’s Cryptid Carnival Special Edition Bundle Set" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=okapi-why-the-okapi-was-not-just-a-rumor-forteana-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="okapi-why-the-okapi-was-not-just-a-rumor-forteana-cryptid-collectible" target="_blank" rel="sponsored noopener noreferrer">MetaZoo Kuromi’s Cryptid Carnival Special Edition Bundle Set</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=okapi-why-the-okapi-was-not-just-a-rumor-forteana-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="okapi-why-the-okapi-was-not-just-a-rumor-forteana-cryptid-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=okapi-why-the-okapi-was-not-just-a-rumor-forteana-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="okapi-why-the-okapi-was-not-just-a-rumor-forteana-cryptid-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=okapi-why-the-okapi-was-not-just-a-rumor-forteana-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="okapi-why-the-okapi-was-not-just-a-rumor-forteana-cryptid-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Werewolf Skull Replica Life Size Cryptid Monster Skull Display Model exclusive"><img src="{{ '/assets/images/marketplace-covers/0f2b2694b3291d84dd11.jpg' | relative_url }}" alt="Listing image for Werewolf Skull Replica Life Size Cryptid Monster Skull Display Model exclusive" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=okapi-why-the-okapi-was-not-just-a-rumor-forteana-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="okapi-why-the-okapi-was-not-just-a-rumor-forteana-cryptid-collectible" target="_blank" rel="sponsored noopener noreferrer">Werewolf Skull Replica Life Size Cryptid Monster Skull Display Model exclusive</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=okapi-why-the-okapi-was-not-just-a-rumor-forteana-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="okapi-why-the-okapi-was-not-just-a-rumor-forteana-cryptid-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=okapi-why-the-okapi-was-not-just-a-rumor-forteana-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="okapi-why-the-okapi-was-not-just-a-rumor-forteana-cryptid-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=okapi-why-the-okapi-was-not-just-a-rumor-forteana-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="okapi-why-the-okapi-was-not-just-a-rumor-forteana-cryptid-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Werewolf Skull Replica Life Size Cryptid Monster Skull Display Model exclusive"><img src="{{ '/assets/images/marketplace-covers/0f2b2694b3291d84dd11.jpg' | relative_url }}" alt="Listing image for Werewolf Skull Replica Life Size Cryptid Monster Skull Display Model exclusive" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=okapi-why-the-okapi-was-not-just-a-rumor-forteana-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="okapi-why-the-okapi-was-not-just-a-rumor-forteana-cryptid-collectible" target="_blank" rel="sponsored noopener noreferrer">Werewolf Skull Replica Life Size Cryptid Monster Skull Display Model exclusive</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=okapi-why-the-okapi-was-not-just-a-rumor-forteana-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="okapi-why-the-okapi-was-not-just-a-rumor-forteana-cryptid-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=okapi-why-the-okapi-was-not-just-a-rumor-forteana-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="okapi-why-the-okapi-was-not-just-a-rumor-forteana-cryptid-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=okapi-why-the-okapi-was-not-just-a-rumor-forteana-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="okapi-why-the-okapi-was-not-just-a-rumor-forteana-cryptid-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Werewolf Skull Wall Art Replica Life Size Cryptid Skull Horror Display"><img src="{{ '/assets/images/marketplace-covers/ffbbe1bdb1d027c4f462.jpg' | relative_url }}" alt="Listing image for Werewolf Skull Wall Art Replica Life Size Cryptid Skull Horror Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=okapi-why-the-okapi-was-not-just-a-rumor-forteana-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="okapi-why-the-okapi-was-not-just-a-rumor-forteana-cryptid-collectible" target="_blank" rel="sponsored noopener noreferrer">Werewolf Skull Wall Art Replica Life Size Cryptid Skull Horror Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=okapi-why-the-okapi-was-not-just-a-rumor-forteana-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="okapi-why-the-okapi-was-not-just-a-rumor-forteana-cryptid-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=okapi-why-the-okapi-was-not-just-a-rumor-forteana-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="okapi-why-the-okapi-was-not-just-a-rumor-forteana-cryptid-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=okapi-why-the-okapi-was-not-just-a-rumor-forteana-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="okapi-why-the-okapi-was-not-just-a-rumor-forteana-cryptid-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=okapi-why-the-okapi-was-not-just-a-rumor-forteana-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="okapi-why-the-okapi-was-not-just-a-rumor-forteana-cryptid-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Werewolf Skull Wall Art Replica Life Size Cryptid Skull Horror Display"><img src="{{ '/assets/images/marketplace-covers/ffbbe1bdb1d027c4f462.jpg' | relative_url }}" alt="Listing image for Werewolf Skull Wall Art Replica Life Size Cryptid Skull Horror Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=okapi-why-the-okapi-was-not-just-a-rumor-forteana-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="okapi-why-the-okapi-was-not-just-a-rumor-forteana-cryptid-collectible" target="_blank" rel="sponsored noopener noreferrer">Werewolf Skull Wall Art Replica Life Size Cryptid Skull Horror Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=okapi-why-the-okapi-was-not-just-a-rumor-forteana-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="okapi-why-the-okapi-was-not-just-a-rumor-forteana-cryptid-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=okapi-why-the-okapi-was-not-just-a-rumor-forteana-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="okapi-why-the-okapi-was-not-just-a-rumor-forteana-cryptid-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=okapi-why-the-okapi-was-not-just-a-rumor-forteana-cryptid-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid collectible" data-ebay-reference="okapi-why-the-okapi-was-not-just-a-rumor-forteana-cryptid-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -527,7 +527,7 @@ The case therefore marks the limit of hearsay rather than its triumph. Reliable 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -547,7 +547,7 @@ The case therefore marks the limit of hearsay rather than its triumph. Reliable 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -579,7 +579,7 @@ The case therefore marks the limit of hearsay rather than its triumph. Reliable 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -631,7 +631,7 @@ The case therefore marks the limit of hearsay rather than its triumph. Reliable 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -676,7 +676,7 @@ The case therefore marks the limit of hearsay rather than its triumph. Reliable 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -717,123 +717,123 @@ The case therefore marks the limit of hearsay rather than its triumph. Reliable 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ielc.libguides.com  
-   Link: <a href="https://ielc.libguides.com/sdzg/factsheets/okapi/taxonomy" target="_blank" rel="noopener noreferrer nofollow">https://ielc.libguides.com/sdzg/factsheets/okapi/taxonomy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Okapi (Okapia johnstoni) Fact Sheet: Taxonomy &amp; HistoryOkapi were unknown to the western world (occupy dense African rain f...</p></details>
+   Link:<a href="https://ielc.libguides.com/sdzg/factsheets/okapi/taxonomy" target="_blank" rel="noopener noreferrer nofollow">https://ielc.libguides.com/sdzg/factsheets/okapi/taxonomy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Okapi (Okapia johnstoni) Fact Sheet: Taxonomy &amp; HistoryOkapi were unknown to the western world (occupy dense African rain f...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/388942596_Discovering_the_Okapi_Western_Science_Indigenous_Knowledge_and_the_Search_for_a_Rainforest_Enigma" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388942596_Discovering_the_Okapi_Western_Science_Indigenous_Knowledge_and_the_Search_for_a_Rainforest_Enigma</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Discovering the Okapi: Western Science, Indigenous...1 Nov 2025 — Pooley tells the story of the okapi&#x27;s &quot;discovery&quot; in...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/388942596_Discovering_the_Okapi_Western_Science_Indigenous_Knowledge_and_the_Search_for_a_Rainforest_Enigma" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388942596_Discovering_the_Okapi_Western_Science_Indigenous_Knowledge_and_the_Search_for_a_Rainforest_Enigma</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Discovering the Okapi: Western Science, Indigenous...1 Nov 2025 — Pooley tells the story of the okapi&#x27;s &quot;discovery&quot; in...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Okapi" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Okapi</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Okapi" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Okapi</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: portals.iucn.org  
    Title: Layout by: Sophie Grange.Read more  
-   Link: <a href="https://portals.iucn.org/library/sites/library/files/documents/2015-046.pdf" target="_blank" rel="noopener noreferrer nofollow">https://portals.iucn.org/library/sites/library/files/documents/2015-046.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IUCN PortalsOkapi (Okapia johnstoni)by NF Kümpel · 2015 · Cited by 17 — [back] Sir Harry Johnston&#x27;s initial drawing of the okapi, publish...</p></details>
+   Link:<a href="https://portals.iucn.org/library/sites/library/files/documents/2015-046.pdf" target="_blank" rel="noopener noreferrer nofollow">https://portals.iucn.org/library/sites/library/files/documents/2015-046.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IUCN PortalsOkapi (Okapia johnstoni)by NF Kümpel · 2015 · Cited by 17 — [back] Sir Harry Johnston&#x27;s initial drawing of the okapi, publish...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
    Title: (PDF) Okapi, Italy and the Heart of Darkness  
-   Link: <a href="https://www.researchgate.net/publication/365096571_Okapi_Italy_and_the_Heart_of_Darkness_The_political_history_behind_early_specimens_of_Okapia_johnstoni_in_Italy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/365096571_Okapi_Italy_and_the_Heart_of_Darkness_The_political_history_behind_early_specimens_of_Okapia_johnstoni_in_Italy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The political...1 Mar 2026 — The political history behind early specimens of Okapia johnstoni ・ okapi was discovered. there are some ear...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/365096571_Okapi_Italy_and_the_Heart_of_Darkness_The_political_history_behind_early_specimens_of_Okapia_johnstoni_in_Italy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/365096571_Okapi_Italy_and_the_Heart_of_Darkness_The_political_history_behind_early_specimens_of_Okapia_johnstoni_in_Italy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The political...1 Mar 2026 — The political history behind early specimens of Okapia johnstoni ・ okapi was discovered. there are some ear...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: africamuseum.be  
    Title: Royal Museum for Central Africa Okapis | Royal Museum for Central Africa  
-   Link: <a href="https://www.africamuseum.be/en/learn/provenance/okapis" target="_blank" rel="noopener noreferrer nofollow">https://www.africamuseum.be/en/learn/provenance/okapis</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Museum for Central AfricaOkapis | Royal Museum for Central Africa - Tervuren10 Mar 2022 — The AfricaMuseum today houses one of the...</p></details>
+   Link:<a href="https://www.africamuseum.be/en/learn/provenance/okapis" target="_blank" rel="noopener noreferrer nofollow">https://www.africamuseum.be/en/learn/provenance/okapis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Museum for Central AfricaOkapis | Royal Museum for Central Africa - Tervuren10 Mar 2022 — The AfricaMuseum today houses one of the...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: tetzoo.com  
    Title: the discovery of the okapi part 1  
-   Link: <a href="https://tetzoo.com/blog/2023/4/11/the-discovery-of-the-okapi-part-1" target="_blank" rel="noopener noreferrer nofollow">https://tetzoo.com/blog/2023/4/11/the-discovery-of-the-okapi-part-1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tetrapod ZoologyThe Discovery of the Okapi, Part 112 Apr 2023 — This specimen was key in the naming of Ray Lankester&#x27;s naming of the genu...</p></details>
+   Link:<a href="https://tetzoo.com/blog/2023/4/11/the-discovery-of-the-okapi-part-1" target="_blank" rel="noopener noreferrer nofollow">https://tetzoo.com/blog/2023/4/11/the-discovery-of-the-okapi-part-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tetrapod ZoologyThe Discovery of the Okapi, Part 112 Apr 2023 — This specimen was key in the naming of Ray Lankester&#x27;s naming of the genu...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: tetzoo.com  
    Title: the discovery of the okapi part 2  
-   Link: <a href="https://tetzoo.com/blog/2023/4/28/the-discovery-of-the-okapi-part-2" target="_blank" rel="noopener noreferrer nofollow">https://tetzoo.com/blog/2023/4/28/the-discovery-of-the-okapi-part-2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tetrapod ZoologyThe Discovery of the Okapi, Part 2April 28, 2023 — 28 Apr 2023 — Harry Johnston is credited with being the first European...</p></details>
+   Link:<a href="https://tetzoo.com/blog/2023/4/28/the-discovery-of-the-okapi-part-2" target="_blank" rel="noopener noreferrer nofollow">https://tetzoo.com/blog/2023/4/28/the-discovery-of-the-okapi-part-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tetrapod ZoologyThe Discovery of the Okapi, Part 2April 28, 2023 — 28 Apr 2023 — Harry Johnston is credited with being the first European...</p></details>
    Published: April 28, 2023  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: creation.com  
-   Link: <a href="https://creation.com/en/articles/okapi" target="_blank" rel="noopener noreferrer nofollow">https://creation.com/en/articles/okapi</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The elusive Okapi, &#x27;living fossil&#x27; of the Congo30 Jan 2023 — So Johnston concluded that the okapi was from the giraffe family (Giraffidae...</p></details>
+   Link:<a href="https://creation.com/en/articles/okapi" target="_blank" rel="noopener noreferrer nofollow">https://creation.com/en/articles/okapi</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The elusive Okapi, &#x27;living fossil&#x27; of the Congo30 Jan 2023 — So Johnston concluded that the okapi was from the giraffe family (Giraffidae...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: synthesys.info  
-   Link: <a href="https://www.synthesys.info/tafs/be-taf/royal-museum-central-africa.html" target="_blank" rel="noopener noreferrer nofollow">https://www.synthesys.info/tafs/be-taf/royal-museum-central-africa.html</a>  
+   Link:<a href="https://www.synthesys.info/tafs/be-taf/royal-museum-central-africa.html" target="_blank" rel="noopener noreferrer nofollow">https://www.synthesys.info/tafs/be-taf/royal-museum-central-africa.html</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: londonzoo.org  
-   Link: <a href="https://www.londonzoo.org/whats-here/animals/okapi" target="_blank" rel="noopener noreferrer nofollow">https://www.londonzoo.org/whats-here/animals/okapi</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The okapi was first discovered by the western world by ZSL fellow, Sir Harry Johnston, in 1901 but what else do we know about this extrao...</p></details>
+   Link:<a href="https://www.londonzoo.org/whats-here/animals/okapi" target="_blank" rel="noopener noreferrer nofollow">https://www.londonzoo.org/whats-here/animals/okapi</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The okapi was first discovered by the western world by ZSL fellow, Sir Harry Johnston, in 1901 but what else do we know about this extrao...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: scispace.com  
    Title: Royal Museum for Central Africa | 346 Authors  
-   Link: <a href="https://scispace.com/institutions/royal-museum-for-central-africa-3nbcba3h?paper_page=177" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/institutions/royal-museum-for-central-africa-3nbcba3h?paper_page=177</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Abstract: In an attempt to disentangle the complex taxonomy of the Labeobarbus species of the Epulu River, a right bank headwater affluen...</p></details>
+   Link:<a href="https://scispace.com/institutions/royal-museum-for-central-africa-3nbcba3h?paper_page=177" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/institutions/royal-museum-for-central-africa-3nbcba3h?paper_page=177</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Abstract: In an attempt to disentangle the complex taxonomy of the Labeobarbus species of the Epulu River, a right bank headwater affluen...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/598132467281788/posts/2484694641958885/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/598132467281788/posts/2484694641958885/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring hidden animals in cryptozoologySome, like the gorilla, [giant squid](&amp;#123;&amp;#123; &#x27;giant-squid/&#x27; | relative_url &amp;#125;&amp;#125;) and okapi, are no longer hearsay and legend but real creatur...</p></details>
+   Link:<a href="https://www.facebook.com/groups/598132467281788/posts/2484694641958885/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/598132467281788/posts/2484694641958885/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring hidden animals in cryptozoologySome, like the gorilla, [giant squid](&amp;#123;&amp;#123; &#x27;giant-squid/&#x27; | relative_url &amp;#125;&amp;#125;) and okapi, are no longer hearsay and legend but real creatur...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: biodiversity.be  
-   Link: <a href="https://www.biodiversity.be/5210/" target="_blank" rel="noopener noreferrer nofollow">https://www.biodiversity.be/5210/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RMCA ~ Royal Museum of Central Africa (collections)They study the taxonomy and phylogeny of different groups of vertebrates and invertebr...</p></details>
+   Link:<a href="https://www.biodiversity.be/5210/" target="_blank" rel="noopener noreferrer nofollow">https://www.biodiversity.be/5210/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RMCA ~ Royal Museum of Central Africa (collections)They study the taxonomy and phylogeny of different groups of vertebrates and invertebr...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Cryptozoology/comments/1leqfcv/okapi/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Cryptozoology/comments/1leqfcv/okapi/</a>  
+   Link:<a href="https://www.reddit.com/r/Cryptozoology/comments/1leqfcv/okapi/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Cryptozoology/comments/1leqfcv/okapi/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: repository.naturalis.nl  
    Title: Zoologische Mededelingen, 79, 167–168. Free Full Text (Final Version, 45kb)  
-   Link: <a href="https://repository.naturalis.nl/pub/210818" target="_blank" rel="noopener noreferrer nofollow">https://repository.naturalis.nl/pub/210818</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>type specimens in the Royal Museum for Central...by M Louette · 2005 — Bird type specimens in the Royal Museum for Central Africa, Tervu...</p></details>
+   Link:<a href="https://repository.naturalis.nl/pub/210818" target="_blank" rel="noopener noreferrer nofollow">https://repository.naturalis.nl/pub/210818</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>type specimens in the Royal Museum for Central...by M Louette · 2005 — Bird type specimens in the Royal Museum for Central Africa, Tervu...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=MCOHAGII0a0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MCOHAGII0a0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Discovering the OkapiIn this talk, Simon Pooley will discuss who contributed to Western scientific discovery and knowledge of okapi, incl...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=MCOHAGII0a0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MCOHAGII0a0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Discovering the OkapiIn this talk, Simon Pooley will discuss who contributed to Western scientific discovery and knowledge of okapi, incl...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
    Title: pre western discovery okapi reports  
-   Link: <a href="https://www.reddit.com/r/Cryptozoology/comments/1bwsyrr/pre_western_discovery_okapi_reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Cryptozoology/comments/1bwsyrr/pre_western_discovery_okapi_reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>?: r/CryptozoologyThe French explorer Jean-Baptiste Marchand (1863 – 1934) recorded a sighting of an okapi-like animal which he called a...</p></details>
+   Link:<a href="https://www.reddit.com/r/Cryptozoology/comments/1bwsyrr/pre_western_discovery_okapi_reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Cryptozoology/comments/1bwsyrr/pre_western_discovery_okapi_reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?: r/CryptozoologyThe French explorer Jean-Baptiste Marchand (1863 – 1934) recorded a sighting of an okapi-like animal which he called a...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: creationmagazine.com  
    Title: Mobile Paged Article.action  
-   Link: <a href="https://www.creationmagazine.com/creation/2022_volume_44_issue_1/MobilePagedArticle.action?articleId=1744521" target="_blank" rel="noopener noreferrer nofollow">https://www.creationmagazine.com/creation/2022_volume_44_issue_1/MobilePagedArticle.action?articleId=1744521</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>So Johnston concluded that the okapi was from the giraffe family (Giraffidae) and was most like...Read more...</p></details>
+   Link:<a href="https://www.creationmagazine.com/creation/2022_volume_44_issue_1/MobilePagedArticle.action?articleId=1744521" target="_blank" rel="noopener noreferrer nofollow">https://www.creationmagazine.com/creation/2022_volume_44_issue_1/MobilePagedArticle.action?articleId=1744521</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>So Johnston concluded that the okapi was from the giraffe family (Giraffidae) and was most like...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: blogs.ucl.ac.uk  
    Title: specimen of the week week 106  
-   Link: <a href="https://blogs.ucl.ac.uk/museums/2013/10/21/specimen-of-the-week-week-106/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.ucl.ac.uk/museums/2013/10/21/specimen-of-the-week-week-106/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The striking area of the animal is its bottom. The okapi has black and white stripes like a zebra...</p></details>
+   Link:<a href="https://blogs.ucl.ac.uk/museums/2013/10/21/specimen-of-the-week-week-106/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.ucl.ac.uk/museums/2013/10/21/specimen-of-the-week-week-106/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The striking area of the animal is its bottom. The okapi has black and white stripes like a zebra...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=pc6S7gGKWIw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pc6S7gGKWIw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ive from their backyard, was it...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=pc6S7gGKWIw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pc6S7gGKWIw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ive from their backyard, was it...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: OKAPI: THE RETURN OF THE UNICORN  
-   Link: <a href="https://www.youtube.com/watch?v=3TzudUU0Pis" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3TzudUU0Pis</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Zebra, Horse or Neither? | National Geographic...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3TzudUU0Pis" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3TzudUU0Pis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Zebra, Horse or Neither? | National Geographic...</p></details>

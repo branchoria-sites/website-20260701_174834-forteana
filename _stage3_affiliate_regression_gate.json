@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T17:43:47",
+  "generated_at": "2026-07-02T22:48:15",
   "passed": true,
   "baseline": {
-    "article_pages": 179,
-    "amazon_specific_pages": 156,
+    "article_pages": 242,
+    "amazon_specific_pages": 211,
     "amazon_fallback_pages": 0,
-    "ebay_specific_pages": 156,
+    "ebay_specific_pages": 211,
     "ebay_fallback_pages": 0,
     "pages": {
       "forteana_50bdc8": {
@@ -105,6 +105,54 @@
         "ebay_fallback": false
       },
       "forteana_50bdc8_anomalistics_neutral_85ebb2_uap_data_gaps_555465": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_belief_doubt_suspend_51d00d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_belief_doubt_suspend_51d00d_anomalistics_scienti_f29799": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_belief_doubt_suspend_51d00d_blue_book_insufficie_2e23ae": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_belief_doubt_suspend_51d00d_experience_vs_interp_18f1c3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_belief_doubt_suspend_51d00d_false_memory_retelli_c05db9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_belief_doubt_suspend_51d00d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_belief_doubt_suspend_51d00d_truzzi_burden_of_pro_125d06": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_belief_doubt_suspend_51d00d_witness_sincerity_ac_7b0ddd": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
@@ -302,6 +350,150 @@
         "ebay_specific": true,
         "ebay_fallback": false
       },
+      "forteana_50bdc8_cryptozoology_vs_for_0670a8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_cryptozoology_vs_for_0670a8_bigfoot_population_e_622dec": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_cryptozoology_vs_for_0670a8_british_big_cats_93c38d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_cryptozoology_vs_for_0670a8_coelacanth_cryptid_c_0d2caf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_cryptozoology_vs_for_0670a8_cryptid_evidence_thr_7c15ba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_cryptozoology_vs_for_0670a8_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_cryptozoology_vs_for_0670a8_loch_ness_dna_test_c7c639": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_cryptozoology_vs_for_0670a8_thylacine_sightings_4f571f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_folklore_evidence_me_a6b0f2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_folklore_evidence_me_a6b0f2_haunted_roads_warnin_7c32e8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_folklore_evidence_me_a6b0f2_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_folklore_evidence_me_a6b0f2_jersey_devil_identit_4b65b2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_folklore_evidence_me_a6b0f2_lochness_tourism_mea_d6e9ad": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_folklore_evidence_me_a6b0f2_mothman_public_memor_b00d6e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_folklore_evidence_me_a6b0f2_ostension_legends_ev_12fcd7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_folklore_evidence_me_a6b0f2_urban_legends_anomal_1f71f4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_fortean_fieldwork_be_af012d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_fortean_fieldwork_be_af012d_first_witness_accoun_868923": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_fortean_fieldwork_be_af012d_fish_frog_weather_ca_844de9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_fortean_fieldwork_be_af012d_haunted_house_hazard_69c5f5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_fortean_fieldwork_be_af012d_haunting_investigati_ae7c2d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_fortean_fieldwork_be_af012d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_fortean_fieldwork_be_af012d_separate_witness_int_0ec3fb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_fortean_fieldwork_be_af012d_sky_reports_ordinary_9a20e5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
       "forteana_50bdc8_fortean_journalism_s_f57056": {
         "amazon_specific": true,
         "amazon_fallback": false,
@@ -345,6 +537,54 @@
         "ebay_fallback": false
       },
       "forteana_50bdc8_fortean_journalism_s_f57056_warminster_ufo_flap_63e2ea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_fortean_taxonomies_w_7e6998": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_fortean_taxonomies_w_7e6998_fortean_archive_stre_f87718": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_fortean_taxonomies_w_7e6998_hynek_evidence_sorti_7a2be8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_fortean_taxonomies_w_7e6998_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_fortean_taxonomies_w_7e6998_label_as_explanation_836667": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_fortean_taxonomies_w_7e6998_layered_classificati_cbbfbc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_fortean_taxonomies_w_7e6998_phantom_big_cat_labe_4595b8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_fortean_taxonomies_w_7e6998_uap_data_gaps_555465": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
@@ -692,6 +932,54 @@
         "ebay_specific": true,
         "ebay_fallback": false
       },
+      "forteana_50bdc8_parapsychology_bound_d30a61": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_parapsychology_bound_d30a61_apparitions_survival_52ca91": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_parapsychology_bound_d30a61_ganzfeld_replication_e77093": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_parapsychology_bound_d30a61_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_parapsychology_bound_d30a61_psi_statistics_accep_f29e37": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_parapsychology_bound_d30a61_psychic_fraud_contro_201138": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_parapsychology_bound_d30a61_remote_viewing_state_c84d97": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_parapsychology_bound_d30a61_spr_boundary_institu_e0dbb8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
       "forteana_50bdc8_poltergeist_noisy_ev_2e0936": {
         "amazon_specific": true,
         "amazon_fallback": false,
@@ -741,6 +1029,48 @@
         "ebay_fallback": false
       },
       "forteana_50bdc8_scientific_dismissal_1e0731": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_scientific_dismissal_1e0731_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_scientific_dismissal_1e0731_meteorites_dismissal_e04da2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_scientific_dismissal_1e0731_organised_scepticism_92f54c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_scientific_dismissal_1e0731_semmelweis_action_th_500cb4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_scientific_dismissal_1e0731_sensor_data_gaps_f92da5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_scientific_dismissal_1e0731_uap_reporting_stigma_9ebffe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_scientific_dismissal_1e0731_witness_testimony_li_a73ba2": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
@@ -837,6 +1167,54 @@
         "ebay_fallback": false
       },
       "forteana_50bdc8_spontaneous_combusti_2682c4_wick_effect_human_ca_5693e2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_ufology_vs_forteana_e2c263": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_ufology_vs_forteana_e2c263_aaro_unresolved_case_7f814d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_ufology_vs_forteana_e2c263_blue_book_evidence_h_2161d9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_ufology_vs_forteana_e2c263_galileo_project_sens_6a270f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_ufology_vs_forteana_e2c263_hynek_close_encounte_402c04": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_ufology_vs_forteana_e2c263_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_ufology_vs_forteana_e2c263_magonia_folklore_com_78bc32": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "forteana_50bdc8_ufology_vs_forteana_e2c263_nasa_uap_data_standa_355e01": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
@@ -2545,6 +2923,6 @@
       }
     }
   },
-  "shared_pages_compared": 179,
+  "shared_pages_compared": 242,
   "regressions": []
 }

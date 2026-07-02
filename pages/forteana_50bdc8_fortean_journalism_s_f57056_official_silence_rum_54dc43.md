@@ -308,11 +308,11 @@ This dynamic is particularly important in Fortean journalism because the archive
 
 The [Warminster]({{ 'warminster/' | relative_url }}) sightings of the mid-1960s illustrate how communication failures can become part of a legend's survival rather than merely its background.
 
-The [first reports]({{ 'first-report/' | relative_url }}) concerned mysterious sounds, vibrations and later unusual aerial objects seen around the Wiltshire garrison town. Arthur Shuttlewood, reporting for the *Warminster Journal*, documented witness accounts with unusual persistence. As reports accumulated, national [newspapers]({{ 'newspapers/' | relative_url }}), television crews and UFO investigators arrived, transforming a local mystery into one of Britain's best-known UFO cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://warminsterjournal.co.uk/ufo-expert-gives-verdict-on-warminster-thing-60-years-on/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: warminsterjournal.co.uk">[Warminster Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">warminsterjournal.co.uk</span><span class="citation-popover-snippet">Warminster JournalUFO expert gives verdict on Warminster Thing 60 years onAugust 26, 2025 — 26 Aug 2025 — A former Ministry of Defence (M...</span><span class="citation-popover-meta">Published: August 26, 2025</span></span></span>
+The [first reports]({{ 'first-report/' | relative_url }}) concerned mysterious sounds, vibrations and later unusual aerial objects seen around the Wiltshire garrison town. Arthur Shuttlewood, reporting for the *Warminster Journal*, documented witness accounts with unusual persistence. As reports accumulated, national [newspapers]({{ 'newspapers/' | relative_url }}), television crews and UFO investigators arrived, transforming a local mystery into one of Britain's best-known UFO cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://warminsterjournal.co.uk/ufo-expert-gives-verdict-on-warminster-thing-60-years-on/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: warminsterjournal.co.uk">[Warminster Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">warminsterjournal.co.uk</span><span class="citation-popover-snippet">Warminster JournalUFO expert gives verdict on Warminster Thing 60 years onAugust 26, 2025 — 26 Aug 2025 — A former Ministry of Defence (M...</span><span class="citation-popover-meta">Published: August 26, 2025</span></span></span>
 
 What kept the story alive was not simply the number of sightings but the absence of a single trusted explanation that satisfied residents.
 
-Warminster occupied an especially difficult position because it lay close to extensive military training areas on Salisbury Plain. Military activity offered plausible explanations for some observations, including aircraft, flares and unusual sounds. Yet these explanations were rarely presented in a way that addressed every reported incident or every public concern. Former Ministry of Defence UFO investigator Nick Pope later observed that nobody definitively told local people, "this is what you saw", leaving the case permanently open in public memory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://warminsterjournal.co.uk/ufo-expert-gives-verdict-on-warminster-thing-60-years-on/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: warminsterjournal.co.uk">[Warminster Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">warminsterjournal.co.uk</span><span class="citation-popover-snippet">Warminster JournalUFO expert gives verdict on Warminster Thing 60 years onAugust 26, 2025 — 26 Aug 2025 — A former Ministry of Defence (M...</span><span class="citation-popover-meta">Published: August 26, 2025</span></span></span>
+Warminster occupied an especially difficult position because it lay close to extensive military training areas on Salisbury Plain. Military activity offered plausible explanations for some observations, including aircraft, flares and unusual sounds. Yet these explanations were rarely presented in a way that addressed every reported incident or every public concern. Former Ministry of Defence UFO investigator Nick Pope later observed that nobody definitively told local people, "this is what you saw", leaving the case permanently open in public memory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://warminsterjournal.co.uk/ufo-expert-gives-verdict-on-warminster-thing-60-years-on/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: warminsterjournal.co.uk">[Warminster Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">warminsterjournal.co.uk</span><span class="citation-popover-snippet">Warminster JournalUFO expert gives verdict on Warminster Thing 60 years onAugust 26, 2025 — 26 Aug 2025 — A former Ministry of Defence (M...</span><span class="citation-popover-meta">Published: August 26, 2025</span></span></span>
 
 The result was a classic public-trust problem rather than simply a UFO mystery.
 
@@ -330,7 +330,7 @@ Instead of producing closure, official ambiguity encouraged several parallel int
 
 Because no authoritative narrative displaced the others, each continued circulating alongside the rest.
 
-Public meetings intended to calm concerns had similarly mixed effects. Officials, investigators and researchers offered multiple possible explanations—including military exercises, satellites, atmospheric phenomena and misidentifications—but acknowledged that not every report could be resolved to everyone's satisfaction. Rather than ending discussion, this reinforced the perception that something remained unexplained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weird-wiltshire.co.uk/wp-content/uploads/2024/08/Warminster-Thing-HM38.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weird-wiltshire.co.uk">[Weird Wiltshire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weird-wiltshire.co.uk</span><span class="citation-popover-title">Warminster Thing HM38</span><span class="citation-popover-snippet">Weird WiltshireWarminster-Thing-HM38.pdf29 Aug 2024 — In the year 2000, the Warminster Thing, as the locals named it, was re-examined by...</span></span></span>
+Public meetings intended to calm concerns had similarly mixed effects. Officials, investigators and researchers offered multiple possible explanations—including military exercises, satellites, atmospheric phenomena and misidentifications—but acknowledged that not every report could be resolved to everyone's satisfaction. Rather than ending discussion, this reinforced the perception that something remained unexplained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weird-wiltshire.co.uk/wp-content/uploads/2024/08/Warminster-Thing-HM38.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weird-wiltshire.co.uk">[Weird Wiltshire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weird-wiltshire.co.uk</span><span class="citation-popover-title">Warminster Thing HM38</span><span class="citation-popover-snippet">Weird WiltshireWarminster-Thing-HM38.pdf29 Aug 2024 — In the year 2000, the Warminster Thing, as the locals named it, was re-examined by...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_fortean_journalism_s_f57056_official_silence_rum_54dc43-Illustration-2-dark.svg" | relative_url }}" alt="Official Gaps illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_fortean_journalism_s_f57056_official_silence_rum_54dc43-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_fortean_journalism_s_f57056_official_silence_rum_54dc43-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -379,7 +379,7 @@ For historians of Fortean culture, this explains why communication strategy matt
 
 The strongest Fortean reporting does not treat official silence as proof of extraordinary phenomena. Instead, it asks why communication failed and how that failure affected public belief.
 
-Warminster demonstrates that rumours can become stronger when official explanations are delayed, fragmented or poorly communicated, even if plausible conventional explanations exist for many individual reports. The legend persisted because unresolved experiences, inconsistent messaging and sustained media attention reinforced one another over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://warminsterjournal.co.uk/ufo-expert-gives-verdict-on-warminster-thing-60-years-on/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: warminsterjournal.co.uk">[Warminster Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">warminsterjournal.co.uk</span><span class="citation-popover-snippet">Warminster JournalUFO expert gives verdict on Warminster Thing 60 years onAugust 26, 2025 — 26 Aug 2025 — A former Ministry of Defence (M...</span><span class="citation-popover-meta">Published: August 26, 2025</span></span></span>
+Warminster demonstrates that rumours can become stronger when official explanations are delayed, fragmented or poorly communicated, even if plausible conventional explanations exist for many individual reports. The legend persisted because unresolved experiences, inconsistent messaging and sustained media attention reinforced one another over time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://warminsterjournal.co.uk/ufo-expert-gives-verdict-on-warminster-thing-60-years-on/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: warminsterjournal.co.uk">[Warminster Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">warminsterjournal.co.uk</span><span class="citation-popover-snippet">Warminster JournalUFO expert gives verdict on Warminster Thing 60 years onAugust 26, 2025 — 26 Aug 2025 — A former Ministry of Defence (M...</span><span class="citation-popover-meta">Published: August 26, 2025</span></span></span>
 
 From a governance perspective, the lesson extends beyond [UFO reports]({{ 'ufo-reports/' | relative_url }}). Whenever authorities leave an information vacuum during an unusual public event, journalists, witnesses and communities will attempt to fill it. In Fortean history, that gap often proves more enduring than the original mystery itself.
 
@@ -388,178 +388,178 @@ From a governance perspective, the lesson extends beyond [UFO reports]({{ 'ufo-r
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When No Answer Becomes the Story. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When No Answer Becomes the Story. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
-        </h4>
-        <p class="fr-book-author">By Charles Fort</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
+</h4>
+<p class="fr-book-author">By Charles Fort</p>
         
-        <p class="fr-book-desc">Provides historical context for unexplained reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context for unexplained reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Frames the persistence of collective narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Frames the persistence of collective narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Them on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Okg6WBbMjzQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Them" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Them">Them</a>
-        </h4>
-        <p class="fr-book-author">By Jon Ronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Them on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Okg6WBbMjzQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Them" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Them">Them</a>
+</h4>
+<p class="fr-book-author">By Jon Ronson</p>
         
-        <p class="fr-book-desc">Explores rumor, belief and extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores rumor, belief and extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
+</h4>
+<p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
         
-        <p class="fr-book-desc">Explains perception and interpretation relevant to strange events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains perception and interpretation relevant to strange events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Them&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Them</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Them&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Them</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-gaps-when-no-answer-becomes-the-story-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="official-gaps-when-no-answer-becomes-the-story-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-gaps-when-no-answer-becomes-the-story-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="official-gaps-when-no-answer-becomes-the-story-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-gaps-when-no-answer-becomes-the-story-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="official-gaps-when-no-answer-becomes-the-story-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-gaps-when-no-answer-becomes-the-story-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="official-gaps-when-no-answer-becomes-the-story-forteana-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-gaps-when-no-answer-becomes-the-story-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="official-gaps-when-no-answer-becomes-the-story-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-gaps-when-no-answer-becomes-the-story-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="official-gaps-when-no-answer-becomes-the-story-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-gaps-when-no-answer-becomes-the-story-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="official-gaps-when-no-answer-becomes-the-story-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-gaps-when-no-answer-becomes-the-story-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="official-gaps-when-no-answer-becomes-the-story-forteana-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-gaps-when-no-answer-becomes-the-story-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="official-gaps-when-no-answer-becomes-the-story-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-gaps-when-no-answer-becomes-the-story-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="official-gaps-when-no-answer-becomes-the-story-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-gaps-when-no-answer-becomes-the-story-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="official-gaps-when-no-answer-becomes-the-story-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-gaps-when-no-answer-becomes-the-story-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="official-gaps-when-no-answer-becomes-the-story-forteana-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-gaps-when-no-answer-becomes-the-story-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="official-gaps-when-no-answer-becomes-the-story-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-gaps-when-no-answer-becomes-the-story-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="official-gaps-when-no-answer-becomes-the-story-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-gaps-when-no-answer-becomes-the-story-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="official-gaps-when-no-answer-becomes-the-story-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-gaps-when-no-answer-becomes-the-story-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="official-gaps-when-no-answer-becomes-the-story-forteana-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-gaps-when-no-answer-becomes-the-story-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="official-gaps-when-no-answer-becomes-the-story-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-gaps-when-no-answer-becomes-the-story-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="official-gaps-when-no-answer-becomes-the-story-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-gaps-when-no-answer-becomes-the-story-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="official-gaps-when-no-answer-becomes-the-story-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-gaps-when-no-answer-becomes-the-story-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="official-gaps-when-no-answer-becomes-the-story-forteana-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-gaps-when-no-answer-becomes-the-story-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="official-gaps-when-no-answer-becomes-the-story-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-gaps-when-no-answer-becomes-the-story-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="official-gaps-when-no-answer-becomes-the-story-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-gaps-when-no-answer-becomes-the-story-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="official-gaps-when-no-answer-becomes-the-story-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-gaps-when-no-answer-becomes-the-story-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="official-gaps-when-no-answer-becomes-the-story-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-gaps-when-no-answer-becomes-the-story-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="official-gaps-when-no-answer-becomes-the-story-forteana-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-gaps-when-no-answer-becomes-the-story-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="official-gaps-when-no-answer-becomes-the-story-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -575,7 +575,7 @@ From a governance perspective, the lesson extends beyond [UFO reports]({{ 'ufo-r
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -595,7 +595,7 @@ From a governance perspective, the lesson extends beyond [UFO reports]({{ 'ufo-r
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -627,7 +627,7 @@ From a governance perspective, the lesson extends beyond [UFO reports]({{ 'ufo-r
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -679,7 +679,7 @@ From a governance perspective, the lesson extends beyond [UFO reports]({{ 'ufo-r
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -724,7 +724,7 @@ From a governance perspective, the lesson extends beyond [UFO reports]({{ 'ufo-r
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -765,64 +765,64 @@ From a governance perspective, the lesson extends beyond [UFO reports]({{ 'ufo-r
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: warminsterjournal.co.uk  
-   Link: <a href="https://warminsterjournal.co.uk/ufo-expert-gives-verdict-on-warminster-thing-60-years-on/" target="_blank" rel="noopener noreferrer nofollow">https://warminsterjournal.co.uk/ufo-expert-gives-verdict-on-warminster-thing-60-years-on/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Warminster JournalUFO expert gives verdict on Warminster Thing 60 years onAugust 26, 2025 — 26 Aug 2025 — A former Ministry of Defence (M...</p></details>
+   Link:<a href="https://warminsterjournal.co.uk/ufo-expert-gives-verdict-on-warminster-thing-60-years-on/" target="_blank" rel="noopener noreferrer nofollow">https://warminsterjournal.co.uk/ufo-expert-gives-verdict-on-warminster-thing-60-years-on/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Warminster JournalUFO expert gives verdict on Warminster Thing 60 years onAugust 26, 2025 — 26 Aug 2025 — A former Ministry of Defence (M...</p></details>
    Published: August 26, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: weird-[wiltshire](&#123;&#123; 'wiltshire/' | relative_url &#125;&#125;). co.uk  
    Title: Warminster Thing HM38  
-   Link: <a href="https://weird-wiltshire.co.uk/wp-content/uploads/2024/08/Warminster-Thing-HM38.pdf" target="_blank" rel="noopener noreferrer nofollow">https://weird-wiltshire.co.uk/wp-content/uploads/2024/08/Warminster-Thing-HM38.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Weird WiltshireWarminster-Thing-HM38.pdf29 Aug 2024 — In the year 2000, the Warminster Thing, as the locals named it, was re-examined by...</p></details>
+   Link:<a href="https://weird-wiltshire.co.uk/wp-content/uploads/2024/08/Warminster-Thing-HM38.pdf" target="_blank" rel="noopener noreferrer nofollow">https://weird-wiltshire.co.uk/wp-content/uploads/2024/08/Warminster-Thing-HM38.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weird WiltshireWarminster-Thing-HM38.pdf29 Aug 2024 — In the year 2000, the Warminster Thing, as the locals named it, was re-examined by...</p></details>
 
 ### Additional References
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/e8r19i/what_was_the_warminster_thing/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/e8r19i/what_was_the_warminster_thing/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What was the &quot;Warminster Thing&quot;?: r/UnresolvedMysteriesA case of strange sounds, odd ships in the sky, and so much more. This is the uns...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/e8r19i/what_was_the_warminster_thing/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/e8r19i/what_was_the_warminster_thing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What was the &quot;Warminster Thing&quot;?: r/UnresolvedMysteriesA case of strange sounds, odd ships in the sky, and so much more. This is the uns...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: facebook.com  
    Title: The Warminster Thing was born: a series of phenomena and UFOs reported by many  
-   Link: <a href="https://www.facebook.com/WiltshireBBC/posts/in-1965-local-news-reports-told-of-unusual-happenings-in-a-rural-townthe-warmins/1462167252576170/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WiltshireBBC/posts/in-1965-local-news-reports-told-of-unusual-happenings-in-a-rural-townthe-warmins/1462167252576170/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1965, local news reports told of unusual happenings in a...In 1965, local news reports told of unusual happenings in a rural town...</p></details>
+   Link:<a href="https://www.facebook.com/WiltshireBBC/posts/in-1965-local-news-reports-told-of-unusual-happenings-in-a-rural-townthe-warmins/1462167252576170/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WiltshireBBC/posts/in-1965-local-news-reports-told-of-unusual-happenings-in-a-rural-townthe-warmins/1462167252576170/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 1965, local news reports told of unusual happenings in a...In 1965, local news reports told of unusual happenings in a rural town...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=bmJ2Eg9YDK4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bmJ2Eg9YDK4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>30 Government Conspiracy Theories That Turned Out To Be TRUE...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bmJ2Eg9YDK4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bmJ2Eg9YDK4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>30 Government Conspiracy Theories That Turned Out To Be TRUE...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: What the Government Knows About UFOs | Ancient Aliens  
-   Link: <a href="https://www.youtube.com/watch?v=dCyv8oEsgdQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dCyv8oEsgdQ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>F-16 vs UFO? Pentagon UFO Files Leak: F-16 Intercept Video &amp; Decades Of Mystery Revealed | LIVE...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=dCyv8oEsgdQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dCyv8oEsgdQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>F-16 vs UFO? Pentagon UFO Files Leak: F-16 Intercept Video &amp; Decades Of Mystery Revealed | LIVE...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Debunking viral rumors – A story of modern [folklore](&#123;&#123; 'folklore/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.youtube.com/watch?v=IbXI0hdviLs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IbXI0hdviLs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A DARKER Truth Behind UFO Disclosure? Missing Scientists, UFO Files &amp; Government Cover-ups...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=IbXI0hdviLs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IbXI0hdviLs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A DARKER Truth Behind UFO Disclosure? Missing Scientists, UFO Files &amp; Government Cover-ups...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: 30 Government Conspiracy Theories That Turned Out To Be TRUE  
-   Link: <a href="https://www.youtube.com/watch?v=6a_4itavcPE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6a_4itavcPE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What the Government Knows About UFOs | Ancient Aliens...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6a_4itavcPE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6a_4itavcPE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What the Government Knows About UFOs | Ancient Aliens...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/254552581777951/posts/838874403345763/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/254552581777951/posts/838874403345763/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Warminster 1973 [https://www.facebook.com/BBCArchive...These](https://www.facebook.com/BBCArchive...These) photographs were taken in England during the 1960s as part of a famous hoax...</p></details>
+   Link:<a href="https://www.facebook.com/groups/254552581777951/posts/838874403345763/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/254552581777951/posts/838874403345763/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Warminster 1973 [https://www.facebook.com/BBCArchive...These](https://www.facebook.com/BBCArchive...These) photographs were taken in England during the 1960s as part of a famous hoax...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=rnMSCKZ811Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rnMSCKZ811Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1973: UFO SPOTTING in WARMINSTER, WILTSHIRE...There were strange goings-on in Warminster, Wiltshire, home to a spate of flying saucer si...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rnMSCKZ811Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rnMSCKZ811Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1973: UFO SPOTTING in WARMINSTER, WILTSHIRE...There were strange goings-on in Warminster, Wiltshire, home to a spate of flying saucer si...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ajAKuFxx8ss" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ajAKuFxx8ss</a>  
+   Link:<a href="https://www.youtube.com/watch?v=ajAKuFxx8ss" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ajAKuFxx8ss</a>  

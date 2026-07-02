@@ -274,17 +274,17 @@ image: /assets/images/forteana_50bdc8_parapsychology_bound_d30a61_spr_boundary_i
 
 ## Introduction
 
-The Society for Psychical Research (SPR), founded in London in 1882, occupies an unusual place in the history of [Forteana]({{ 'forteana/' | relative_url }}). Rather than treating reports of ghosts, telepathy, mediumship or hauntings as either unquestionable proof or mere entertainment, it attempted to turn them into subjects for organised investigation. Its founders argued that extraordinary claims deserved neither automatic belief nor automatic [dismissal]({{ 'dismissal/' | relative_url }}), but systematic examination using methods borrowed from science and scholarship. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lib.cam.ac.uk/collections/departments/archives-modern-and-medieval-manuscripts-and-university-archives-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lib.cam.ac.uk">[lib.cam.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lib.cam.ac.uk</span><span class="citation-popover-snippet">The Society is still in existence and is...Read more...</span></span></span>
+The Society for Psychical Research (SPR), founded in London in 1882, occupies an unusual place in the history of [Forteana]({{ 'forteana/' | relative_url }}). Rather than treating reports of ghosts, telepathy, mediumship or hauntings as either unquestionable proof or mere entertainment, it attempted to turn them into subjects for organised investigation. Its founders argued that extraordinary claims deserved neither automatic belief nor automatic [dismissal]({{ 'dismissal/' | relative_url }}), but systematic examination using methods borrowed from science and scholarship.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lib.cam.ac.uk/collections/departments/archives-modern-and-medieval-manuscripts-and-university-archives-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lib.cam.ac.uk">[lib.cam.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lib.cam.ac.uk</span><span class="citation-popover-snippet">The Society is still in existence and is...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_parapsychology_bound_d30a61_spr_boundary_institu_e0dbb8-Illustration-1-dark.svg" | relative_url }}" alt="Spr Boundary Institu illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_parapsychology_bound_d30a61_spr_boundary_institu_e0dbb8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_parapsychology_bound_d30a61_spr_boundary_institu_e0dbb8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That ambition made the SPR a classic boundary institution. It stood between the scientific establishment, which often regarded paranormal claims with scepticism, and the Spiritualist movement, whose members frequently expected confirmation of survival after death or psychic powers. The Society became a place where anomalous reports were collected, tested, criticised, archived and debated. In doing so, it shaped how later generations of parapsychologists, sceptics and Fortean researchers approached unusual evidence, even when they rejected its conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3552602/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Psychical research and the origins of American psychologyby A Sommer · 2012 · Cited by 129 — These researchers viewed mediumistic frau...</span></span></span>
+That ambition made the SPR a classic boundary institution. It stood between the scientific establishment, which often regarded paranormal claims with scepticism, and the Spiritualist movement, whose members frequently expected confirmation of survival after death or psychic powers. The Society became a place where anomalous reports were collected, tested, criticised, archived and debated. In doing so, it shaped how later generations of parapsychologists, sceptics and Fortean researchers approached unusual evidence, even when they rejected its conclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3552602/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Psychical research and the origins of American psychologyby A Sommer · 2012 · Cited by 129 — These researchers viewed mediumistic frau...</span></span></span>
 
 ## Why the SPR was founded
 
 The late nineteenth century saw rapid scientific advances alongside widespread public fascination with séances, mesmerism and alleged supernatural phenomena. [Newspapers]({{ 'newspapers/' | relative_url }}) reported remarkable psychic claims, while Spiritualist organisations promoted communication with the dead. The founders of the SPR believed neither unquestioning acceptance nor outright ridicule offered an adequate response.
 
-Henry Sidgwick, Frederic W. H. Myers, Edmund Gurney, William F. Barrett and their colleagues established committees devoted to specific topics, including thought-transference (later called telepathy), [apparitions]({{ 'apparitions/' | relative_url }}), haunted houses, mesmerism and mediumship. Their founding statement promised to investigate these subjects "without prejudice or prepossession" and with the same disciplined enquiry applied to recognised scientific problems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lib.cam.ac.uk/collections/departments/archives-modern-and-medieval-manuscripts-and-university-archives-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lib.cam.ac.uk">[lib.cam.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lib.cam.ac.uk</span><span class="citation-popover-snippet">The Society is still in existence and is...Read more...</span></span></span>
+Henry Sidgwick, Frederic W. H. Myers, Edmund Gurney, William F. Barrett and their colleagues established committees devoted to specific topics, including thought-transference (later called telepathy), [apparitions]({{ 'apparitions/' | relative_url }}), haunted houses, mesmerism and mediumship. Their founding statement promised to investigate these subjects "without prejudice or prepossession" and with the same disciplined enquiry applied to recognised scientific problems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lib.cam.ac.uk/collections/departments/archives-modern-and-medieval-manuscripts-and-university-archives-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lib.cam.ac.uk">[lib.cam.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lib.cam.ac.uk</span><span class="citation-popover-snippet">The Society is still in existence and is...Read more...</span></span></span>
 
 This institutional structure distinguished the Society from earlier enthusiasts. Instead of relying on individual investigators or newspaper stories, it created:
 
@@ -299,7 +299,7 @@ This institutional structure distinguished the Society from earlier enthusiasts.
 
 </div>
 
-These practices helped transform scattered reports into an organised body of evidence, regardless of whether individual cases ultimately supported paranormal explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lib.cam.ac.uk/collections/departments/archives-modern-and-medieval-manuscripts-and-university-archives-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lib.cam.ac.uk">[lib.cam.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lib.cam.ac.uk</span><span class="citation-popover-snippet">The Society is still in existence and is...Read more...</span></span></span>
+These practices helped transform scattered reports into an organised body of evidence, regardless of whether individual cases ultimately supported paranormal explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lib.cam.ac.uk/collections/departments/archives-modern-and-medieval-manuscripts-and-university-archives-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lib.cam.ac.uk">[lib.cam.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lib.cam.ac.uk</span><span class="citation-popover-snippet">The Society is still in existence and is...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xUmOnoZPHiM" title="InPresence 0149: William James and Psychical Research" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xUmOnoZPHiM" target="_blank" rel="noopener noreferrer">InPresence 0149: William James and Psychical Research</a></p><p class="youtube-embed-meta">Channel: New Thinking Allowed with Jeffrey Mishlove</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xUmOnoZPHiM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xUmOnoZPHiM">Open on YouTube</a></p></div></div></div>
@@ -308,11 +308,11 @@ These practices helped transform scattered reports into an organised body of evi
 
 One reason the SPR became a boundary institution was its willingness to expose deception, even when doing so angered people sympathetic to psychic claims.
 
-Many early investigations concluded that celebrated mediums relied on sleight of hand, hidden assistants or carefully staged conditions. Richard Hodgson became particularly well known for examining fraudulent practices, while S. J. Davey demonstrated how apparently convincing séance phenomena could be reproduced through ordinary conjuring techniques. These demonstrations were designed not simply to debunk particular performers but to educate investigators about how easily sincere observers could be misled. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Society_for_Psychical_Research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Society for Psychical Research</span><span class="citation-popover-snippet">Society for Psychical Research</span></span></span>
+Many early investigations concluded that celebrated mediums relied on sleight of hand, hidden assistants or carefully staged conditions. Richard Hodgson became particularly well known for examining fraudulent practices, while S. J. Davey demonstrated how apparently convincing séance phenomena could be reproduced through ordinary conjuring techniques. These demonstrations were designed not simply to debunk particular performers but to educate investigators about how easily sincere observers could be misled.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Society_for_Psychical_Research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Society for Psychical Research</span><span class="citation-popover-snippet">Society for Psychical Research</span></span></span>
 
-This sceptical approach created tension within the Society itself. Some Spiritualist members resigned after repeated fraud investigations, believing the organisation had become too critical of mediumship. Decades later, Arthur Conan [Doyle]({{ 'doyle/' | relative_url }}) and many supporters left after disputes surrounding the exposure of fraudulent spirit photography and physical mediumship. These disagreements illustrated the SPR's difficult position: it sought evidence wherever it led rather than serving as an advocacy organisation for Spiritualism. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Society_for_Psychical_Research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Society for Psychical Research</span><span class="citation-popover-snippet">Society for Psychical Research</span></span></span>
+This sceptical approach created tension within the Society itself. Some Spiritualist members resigned after repeated fraud investigations, believing the organisation had become too critical of mediumship. Decades later, Arthur Conan [Doyle]({{ 'doyle/' | relative_url }}) and many supporters left after disputes surrounding the exposure of fraudulent spirit photography and physical mediumship. These disagreements illustrated the SPR's difficult position: it sought evidence wherever it led rather than serving as an advocacy organisation for Spiritualism.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Society_for_Psychical_Research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Society for Psychical Research</span><span class="citation-popover-snippet">Society for Psychical Research</span></span></span>
 
-At the same time, exposing fraud did not mean rejecting every unusual report. Investigators sometimes concluded that particular experiences deserved further study because witness testimony, experimental controls or repeated observations appeared difficult to explain immediately. This willingness to separate individual cases from broader belief systems became one of the Society's defining characteristics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spr.ac.uk/about/our-history" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spr.ac.uk">[spr.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spr.ac.uk</span><span class="citation-popover-snippet">rmined to discourage interest in...Read more...</span></span></span>
+At the same time, exposing fraud did not mean rejecting every unusual report. Investigators sometimes concluded that particular experiences deserved further study because witness testimony, experimental controls or repeated observations appeared difficult to explain immediately. This willingness to separate individual cases from broader belief systems became one of the Society's defining characteristics.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spr.ac.uk/about/our-history" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spr.ac.uk">[spr.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spr.ac.uk</span><span class="citation-popover-snippet">rmined to discourage interest in...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_parapsychology_bound_d30a61_spr_boundary_institu_e0dbb8-Illustration-2-dark.svg" | relative_url }}" alt="Spr Boundary Institu illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_parapsychology_bound_d30a61_spr_boundary_institu_e0dbb8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_parapsychology_bound_d30a61_spr_boundary_institu_e0dbb8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -320,7 +320,7 @@ At the same time, exposing fraud did not mean rejecting every unusual report. In
 
 Perhaps the SPR's most enduring contribution was not proving paranormal phenomena but preserving an extraordinary documentary record.
 
-From its earliest years the Society collected witness statements, correspondence, experimental notes, committee reports, photographs and investigation files. Today these archives are largely housed at Cambridge University Library alongside continuing collections in London. They include material associated with figures such as Oliver Lodge, Arthur Conan Doyle and William Crookes, together with thousands of case files documenting alleged psychic experiences over many decades. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lib.cam.ac.uk/collections/departments/archives-modern-and-medieval-manuscripts-and-university-archives-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lib.cam.ac.uk">[lib.cam.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lib.cam.ac.uk</span><span class="citation-popover-snippet">The Society is still in existence and is...Read more...</span></span></span>
+From its earliest years the Society collected witness statements, correspondence, experimental notes, committee reports, photographs and investigation files. Today these archives are largely housed at Cambridge University Library alongside continuing collections in London. They include material associated with figures such as Oliver Lodge, Arthur Conan Doyle and William Crookes, together with thousands of case files documenting alleged psychic experiences over many decades.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lib.cam.ac.uk/collections/departments/archives-modern-and-medieval-manuscripts-and-university-archives-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lib.cam.ac.uk">[lib.cam.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lib.cam.ac.uk</span><span class="citation-popover-snippet">The Society is still in existence and is...Read more...</span></span></span>
 
 These archives mattered because they changed the status of strange reports. Instead of disappearing after newspaper publication or local gossip, cases became permanent records that could be revisited by later researchers using new methods or different assumptions.
 
@@ -336,16 +336,16 @@ Examples include:
 
 </div>
 
-For Fortean researchers, this archival habit was especially important. Even if a case remained unexplained, preserving the original testimony allowed future investigators to distinguish between contemporary evidence and later [retellings]({{ 'retellings/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lib.cam.ac.uk/collections/departments/archives-modern-and-medieval-manuscripts-and-university-archives-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lib.cam.ac.uk">[lib.cam.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lib.cam.ac.uk</span><span class="citation-popover-snippet">The Society is still in existence and is...Read more...</span></span></span>
+For Fortean researchers, this archival habit was especially important. Even if a case remained unexplained, preserving the original testimony allowed future investigators to distinguish between contemporary evidence and later [retellings]({{ 'retellings/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lib.cam.ac.uk/collections/departments/archives-modern-and-medieval-manuscripts-and-university-archives-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lib.cam.ac.uk">[lib.cam.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lib.cam.ac.uk</span><span class="citation-popover-snippet">The Society is still in existence and is...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bQ6QIKnZBwM" title="Frederic Myers &amp; Psychical Research with Terence Palmer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bQ6QIKnZBwM" target="_blank" rel="noopener noreferrer">Frederic Myers &amp; Psychical Research with Terence Palmer</a></p><p class="youtube-embed-meta">Channel: New Thinking Allowed with Jeffrey Mishlove</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bQ6QIKnZBwM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bQ6QIKnZBwM">Open on YouTube</a></p></div></div></div>
 
 ## A meeting place between science and anomaly
 
-The SPR never fully belonged to either orthodox science or popular paranormal culture. Many respected scientists and scholars participated at various points, including psychologists, philosophers and physicists, while mainstream scientific institutions often remained unconvinced by its conclusions. Conversely, committed believers sometimes regarded the Society as excessively cautious because it questioned cherished claims and publicised fraudulent practices. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3552602/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Psychical research and the origins of American psychologyby A Sommer · 2012 · Cited by 129 — These researchers viewed mediumistic frau...</span></span></span>
+The SPR never fully belonged to either orthodox science or popular paranormal culture. Many respected scientists and scholars participated at various points, including psychologists, philosophers and physicists, while mainstream scientific institutions often remained unconvinced by its conclusions. Conversely, committed believers sometimes regarded the Society as excessively cautious because it questioned cherished claims and publicised fraudulent practices.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3552602/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Psychical research and the origins of American psychologyby A Sommer · 2012 · Cited by 129 — These researchers viewed mediumistic frau...</span></span></span>
 
-This intermediate position influenced several important developments. SPR researchers helped popularise concepts such as "telepathy", contributed early studies of hallucinations and eyewitness reliability, and encouraged more systematic thinking about experimental design in the investigation of unusual claims. Historians of psychology have argued that some of these methodological innovations influenced emerging psychological science, even where paranormal interpretations were rejected. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3552602/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Psychical research and the origins of American psychologyby A Sommer · 2012 · Cited by 129 — These researchers viewed mediumistic frau...</span></span></span>
+This intermediate position influenced several important developments. SPR researchers helped popularise concepts such as "telepathy", contributed early studies of hallucinations and eyewitness reliability, and encouraged more systematic thinking about experimental design in the investigation of unusual claims. Historians of psychology have argued that some of these methodological innovations influenced emerging psychological science, even where paranormal interpretations were rejected.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3552602/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Psychical research and the origins of American psychologyby A Sommer · 2012 · Cited by 129 — These researchers viewed mediumistic frau...</span></span></span>
 
 Rather than defining itself through a fixed conclusion, the Society defined itself through a process: document first, investigate carefully, expose fraud where found, preserve unresolved material and continue debate.
 
@@ -364,194 +364,194 @@ In that sense, the SPR became more than a research society. It served as a gatek
 <img src="{{ "/assets/images/forteana_50bdc8_parapsychology_bound_d30a61_spr_boundary_institu_e0dbb8-Illustration-3-dark.svg" | relative_url }}" alt="Spr Boundary Institu illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_parapsychology_bound_d30a61_spr_boundary_institu_e0dbb8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_parapsychology_bound_d30a61_spr_boundary_institu_e0dbb8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Society That Tried to Police the Strange. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Society That Tried to Police the Strange. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Provides perspective on scientific standards for extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides perspective on scientific standards for extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
-        </h4>
-        <p class="fr-book-author">By Charles Fort</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
+</h4>
+<p class="fr-book-author">By Charles Fort</p>
         
-        <p class="fr-book-desc">Contrasts Fortean collecting with institutional psychical research.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contrasts Fortean collecting with institutional psychical research.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+founders+of+psychical+research+Alan+Gauld&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The founders of psychical research on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8057749-M.jpg" alt="Cover for The founders of psychical research" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+founders+of+psychical+research+Alan+Gauld&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The founders of psychical research">The founders of psychical research</a>
-        </h4>
-        <p class="fr-book-author">By Alan Gauld</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+founders+of+psychical+research+Alan+Gauld&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The founders of psychical research on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8057749-M.jpg" alt="Cover for The founders of psychical research" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+founders+of+psychical+research+Alan+Gauld&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The founders of psychical research">The founders of psychical research</a>
+</h4>
+<p class="fr-book-author">By Alan Gauld</p>
         
-        <p class="fr-book-desc">First published 1968. Subjects: Biography, History, Parapsychologists, Parapsychology, Gurney, edmund, 1847-1888.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+founders+of+psychical+research+Alan+Gauld&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1968. Subjects: Biography, History, Parapsychologists, Parapsychology, Gurney, edmund, 1847-1888.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+founders+of+psychical+research+Alan+Gauld&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+Hunters+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost Hunters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/872311-M.jpg" alt="Cover for Ghost Hunters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghost+Hunters+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost Hunters">Ghost Hunters</a>
-        </h4>
-        <p class="fr-book-author">By Deborah Blum</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+Hunters+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost Hunters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/872311-M.jpg" alt="Cover for Ghost Hunters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghost+Hunters+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost Hunters">Ghost Hunters</a>
+</h4>
+<p class="fr-book-author">By Deborah Blum</p>
         
-        <p class="fr-book-desc">First published 2006. Subjects: Spiritualism, History, Ghosts, Parapsychology, New York Times reviewed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghost+Hunters+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2006. Subjects: Spiritualism, History, Ghosts, Parapsychology, New York Times reviewed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghost+Hunters+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+founders+of+psychical+research&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The founders of psychical research</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+founders+of+psychical+research&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The founders of psychical research</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart"><img src="{{ '/assets/images/marketplace-covers/2d540458477f76b2be20.jpg' | relative_url }}" alt="Listing image for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer">Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart"><img src="{{ '/assets/images/marketplace-covers/2d540458477f76b2be20.jpg' | relative_url }}" alt="Listing image for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer">Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd"><img src="{{ '/assets/images/marketplace-covers/7b9530e3e70391be5ab3.jpg' | relative_url }}" alt="Listing image for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer">Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd"><img src="{{ '/assets/images/marketplace-covers/7b9530e3e70391be5ab3.jpg' | relative_url }}" alt="Listing image for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer">Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Snellen Eye Chart Optician Glasses Test Science Poster | A5-A1 | Wall Poster"><img src="{{ '/assets/images/marketplace-covers/44585abe482a25573224.jpg' | relative_url }}" alt="Listing image for Snellen Eye Chart Optician Glasses Test Science Poster | A5-A1 | Wall Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer">Snellen Eye Chart Optician Glasses Test Science Poster | A5-A1 | Wall Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Snellen Eye Chart Optician Glasses Test Science Poster | A5-A1 | Wall Poster"><img src="{{ '/assets/images/marketplace-covers/44585abe482a25573224.jpg' | relative_url }}" alt="Listing image for Snellen Eye Chart Optician Glasses Test Science Poster | A5-A1 | Wall Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer">Snellen Eye Chart Optician Glasses Test Science Poster | A5-A1 | Wall Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic table with elements poster Science Wall Chart UPDATED Education Poster"><img src="{{ '/assets/images/marketplace-covers/4353dda57fefeae45a72.jpg' | relative_url }}" alt="Listing image for Periodic table with elements poster Science Wall Chart UPDATED Education Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer">Periodic table with elements poster Science Wall Chart UPDATED Education Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic table with elements poster Science Wall Chart UPDATED Education Poster"><img src="{{ '/assets/images/marketplace-covers/4353dda57fefeae45a72.jpg' | relative_url }}" alt="Listing image for Periodic table with elements poster Science Wall Chart UPDATED Education Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer">Periodic table with elements poster Science Wall Chart UPDATED Education Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="spr-boundary-institu-the-society-that-tried-to-police-the-strange-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -567,7 +567,7 @@ In that sense, the SPR became more than a research society. It served as a gatek
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -587,7 +587,7 @@ In that sense, the SPR became more than a research society. It served as a gatek
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -619,7 +619,7 @@ In that sense, the SPR became more than a research society. It served as a gatek
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -671,7 +671,7 @@ In that sense, the SPR became more than a research society. It served as a gatek
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -716,7 +716,7 @@ In that sense, the SPR became more than a research society. It served as a gatek
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -757,75 +757,75 @@ In that sense, the SPR became more than a research society. It served as a gatek
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: lib.cam.ac.uk  
-   Link: <a href="https://www.lib.cam.ac.uk/collections/departments/archives-modern-and-medieval-manuscripts-and-university-archives-0" target="_blank" rel="noopener noreferrer nofollow">https://www.lib.cam.ac.uk/collections/departments/archives-modern-and-medieval-manuscripts-and-university-archives-0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Society is still in existence and is...Read more...</p></details>
+   Link:<a href="https://www.lib.cam.ac.uk/collections/departments/archives-modern-and-medieval-manuscripts-and-university-archives-0" target="_blank" rel="noopener noreferrer nofollow">https://www.lib.cam.ac.uk/collections/departments/archives-modern-and-medieval-manuscripts-and-university-archives-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Society is still in existence and is...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: spr.ac.uk  
-   Link: <a href="https://www.spr.ac.uk/about/our-history" target="_blank" rel="noopener noreferrer nofollow">https://www.spr.ac.uk/about/our-history</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>rmined to discourage interest in...Read more...</p></details>
+   Link:<a href="https://www.spr.ac.uk/about/our-history" target="_blank" rel="noopener noreferrer nofollow">https://www.spr.ac.uk/about/our-history</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rmined to discourage interest in...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3552602/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3552602/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychical research and the origins of American psychologyby A Sommer · 2012 · Cited by 129 — These researchers viewed mediumistic frau...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3552602/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3552602/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psychical research and the origins of American psychologyby A Sommer · 2012 · Cited by 129 — These researchers viewed mediumistic frau...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Society for Psychical Research  
-   Link: <a href="https://en.wikipedia.org/wiki/Society_for_Psychical_Research" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Society_for_Psychical_Research</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Society_for_Psychical_Research" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Society_for_Psychical_Research</a>  
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: notebookofghosts.com  
    Title: paranormal research groups society for psychical research  
-   Link: <a href="https://notebookofghosts.com/2021/08/10/paranormal-research-groups-society-for-psychical-research/" target="_blank" rel="noopener noreferrer nofollow">https://notebookofghosts.com/2021/08/10/paranormal-research-groups-society-for-psychical-research/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Paranormal Research Groups: Society for Psychical...10 Aug 2021 — He wrote a letter of resignation after medium William Hope was called...</p></details>
+   Link:<a href="https://notebookofghosts.com/2021/08/10/paranormal-research-groups-society-for-psychical-research/" target="_blank" rel="noopener noreferrer nofollow">https://notebookofghosts.com/2021/08/10/paranormal-research-groups-society-for-psychical-research/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paranormal Research Groups: Society for Psychical...10 Aug 2021 — He wrote a letter of resignation after medium William Hope was called...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/exclusive/the-demise-of-the-american-society-for-psychical-research/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/exclusive/the-demise-of-the-american-society-for-psychical-research/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Demise of the American Society for Psychical Research12 May 2025 — In addition, the group investigated many psychic mediums, often ex...</p></details>
+   Link:<a href="https://skepticalinquirer.org/exclusive/the-demise-of-the-american-society-for-psychical-research/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/exclusive/the-demise-of-the-american-society-for-psychical-research/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Demise of the American Society for Psychical Research12 May 2025 — In addition, the group investigated many psychic mediums, often ex...</p></details>
    Published: May 2025  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ia801302.us.archive.org  
-   Link: <a href="https://ia801302.us.archive.org/4/items/proceedingsofsoc48soci/proceedingsofsoc48soci.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia801302.us.archive.org/4/items/proceedingsofsoc48soci/proceedingsofsoc48soci.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>fraudulent practices. The Committee had come to the conclusion, as the investigation proceeded, that Mrs Duncan resorted to fraud, but th...</p></details>
+   Link:<a href="https://ia801302.us.archive.org/4/items/proceedingsofsoc48soci/proceedingsofsoc48soci.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia801302.us.archive.org/4/items/proceedingsofsoc48soci/proceedingsofsoc48soci.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fraudulent practices. The Committee had come to the conclusion, as the investigation proceeded, that Mrs Duncan resorted to fraud, but th...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archivesearch.lib.cam.ac.uk  
    Title: corporate entities  
-   Link: <a href="https://archivesearch.lib.cam.ac.uk/agents/corporate_entities/2397" target="_blank" rel="noopener noreferrer nofollow">https://archivesearch.lib.cam.ac.uk/agents/corporate_entities/2397</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>for Psychical Research (1882-) - ArchiveSearchAfter 50 years of investigation, Tony Cornell concluded that almost all paranormal happenin...</p></details>
+   Link:<a href="https://archivesearch.lib.cam.ac.uk/agents/corporate_entities/2397" target="_blank" rel="noopener noreferrer nofollow">https://archivesearch.lib.cam.ac.uk/agents/corporate_entities/2397</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>for Psychical Research (1882-) - ArchiveSearchAfter 50 years of investigation, Tony Cornell concluded that almost all paranormal happenin...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Scientists and psychic experiences, William James' work  
-   Link: <a href="https://www.youtube.com/watch?v=NolAlO_5VxA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NolAlO_5VxA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Frederic Myers &amp; Psychical Research with Terence Palmer...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=NolAlO_5VxA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NolAlO_5VxA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Frederic Myers &amp; Psychical Research with Terence Palmer...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Frederic Myers & Psychical Research with Terence Palmer  
-   Link: <a href="https://www.youtube.com/watch?v=bQ6QIKnZBwM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bQ6QIKnZBwM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>InPresence 0149: William James and Psychical Research...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bQ6QIKnZBwM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bQ6QIKnZBwM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>InPresence 0149: William James and Psychical Research...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: [Parapsychology](&#123;&#123; 'parapsychology/' | relative_url &#125;&#125;) in the United Kingdom with Chris Roe  
-   Link: <a href="https://www.youtube.com/watch?v=5KWIY-R7--g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5KWIY-R7--g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists and psychic experiences, William James&#x27; work...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5KWIY-R7--g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5KWIY-R7--g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists and psychic experiences, William James&#x27; work...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=xUmOnoZPHiM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xUmOnoZPHiM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shakespeare&#x27;s Ghosts Live by Puhle and Parker-Reed...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xUmOnoZPHiM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xUmOnoZPHiM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shakespeare&#x27;s Ghosts Live by Puhle and Parker-Reed...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Shakespeare's Ghosts Live by Puhle and Parker-Reed  
-   Link: <a href="https://www.youtube.com/watch?v=b-dBBihO0Ho" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b-dBBihO0Ho</a>  
+   Link:<a href="https://www.youtube.com/watch?v=b-dBBihO0Ho" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b-dBBihO0Ho</a>  

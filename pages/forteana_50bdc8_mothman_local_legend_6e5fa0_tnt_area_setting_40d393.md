@@ -280,34 +280,34 @@ image: /assets/images/forteana_50bdc8_mothman_local_legend_6e5fa0_tnt_area_setti
 
 ## Introduction
 
-The abandoned TNT Area near Point Pleasant became the defining stage for the first Mothman reports because it combined an unusual physical landscape with the conditions that make extraordinary stories memorable. Former ammunition facilities, concrete storage bunkers, wetlands, woodland and isolated roads created an environment where unfamiliar wildlife, darkness and expectation could easily combine. Rather than being a random backdrop, the location gave multiple witnesses a shared reference point, allowing apparently separate encounters to accumulate into a coherent local legend. Whether the sightings reflected an unknown creature, misidentified birds or something else entirely remains disputed, but the setting itself played a crucial role in making the reports believable, repeatable and enduring. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklife.si.edu">[Smithsonian Folklife Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklife.si.edu</span><span class="citation-popover-title">mothman point pleasant west virginia</span><span class="citation-popover-snippet">Smithsonian Folklife CenterAn Ode to a Hometown Creature: Mothman of Point Pleasant...6 Jun 2021 — The creature has risen from local app...</span></span></span>
+The abandoned TNT Area near Point Pleasant became the defining stage for the first Mothman reports because it combined an unusual physical landscape with the conditions that make extraordinary stories memorable. Former ammunition facilities, concrete storage bunkers, wetlands, woodland and isolated roads created an environment where unfamiliar wildlife, darkness and expectation could easily combine. Rather than being a random backdrop, the location gave multiple witnesses a shared reference point, allowing apparently separate encounters to accumulate into a coherent local legend. Whether the sightings reflected an unknown creature, misidentified birds or something else entirely remains disputed, but the setting itself played a crucial role in making the reports believable, repeatable and enduring.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklife.si.edu">[Smithsonian Folklife Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklife.si.edu</span><span class="citation-popover-title">mothman point pleasant west virginia</span><span class="citation-popover-snippet">Smithsonian Folklife CenterAn Ode to a Hometown Creature: Mothman of Point Pleasant...6 Jun 2021 — The creature has risen from local app...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_mothman_local_legend_6e5fa0_tnt_area_setting_40d393-Illustration-1-dark.svg" | relative_url }}" alt="TNT Area illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_mothman_local_legend_6e5fa0_tnt_area_setting_40d393-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_mothman_local_legend_6e5fa0_tnt_area_setting_40d393-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The wartime landscape behind the sightings
 
-The place known locally as the TNT Area originated as the West Virginia Ordnance Works, a vast World War II explosives complex constructed in 1942. During the war it manufactured and stored munitions across thousands of acres. After production ceased in 1945, much of the site was abandoned or repurposed, leaving behind concrete "igloo" storage bunkers, derelict industrial structures, overgrown roads and extensive tracts of woodland and marsh. Parts of the former complex later became the McClintic Wildlife Management Area, while other sections remained contaminated industrial land. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/West_Virginia_Ordnance_Works" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">West Virginia Ordnance Works</span><span class="citation-popover-snippet">West Virginia Ordnance Works</span></span></span>
+The place known locally as the TNT Area originated as the West Virginia Ordnance Works, a vast World War II explosives complex constructed in 1942. During the war it manufactured and stored munitions across thousands of acres. After production ceased in 1945, much of the site was abandoned or repurposed, leaving behind concrete "igloo" storage bunkers, derelict industrial structures, overgrown roads and extensive tracts of woodland and marsh. Parts of the former complex later became the McClintic Wildlife Management Area, while other sections remained contaminated industrial land.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/West_Virginia_Ordnance_Works" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">West Virginia Ordnance Works</span><span class="citation-popover-snippet">West Virginia Ordnance Works</span></span></span>
 
-This mixture of industrial ruins and recovering nature mattered because it was unlike ordinary rural countryside. Visitors encountered silent concrete domes half-hidden by vegetation, abandoned buildings, drainage ponds and isolated access roads. Such places naturally encouraged exploration while also limiting visibility, especially after dark. For witnesses trying to describe an unexpected encounter, the surroundings reinforced the sense that something unusual had happened before any discussion of the creature itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atlasobscura.com/places/tnt-area" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">tnt area</span><span class="citation-popover-snippet">Atlas ObscuraTNT Area in Point Pleasant6 Jun 2009 — TNT Area. These rows of World War II-era bunkers were the scene of some of the infamo...</span></span></span>
+This mixture of industrial ruins and recovering nature mattered because it was unlike ordinary rural countryside. Visitors encountered silent concrete domes half-hidden by vegetation, abandoned buildings, drainage ponds and isolated access roads. Such places naturally encouraged exploration while also limiting visibility, especially after dark. For witnesses trying to describe an unexpected encounter, the surroundings reinforced the sense that something unusual had happened before any discussion of the creature itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atlasobscura.com/places/tnt-area" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">tnt area</span><span class="citation-popover-snippet">Atlas ObscuraTNT Area in Point Pleasant6 Jun 2009 — TNT Area. These rows of World War II-era bunkers were the scene of some of the infamo...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SspRarjqLkY" title="Mothman: the Legend, the Museum, the TNT Area" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SspRarjqLkY" target="_blank" rel="noopener noreferrer">Mothman: the Legend, the Museum, the TNT Area</a></p><p class="youtube-embed-meta">Channel: Slone&#x27;s Wilderness Expeditions</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SspRarjqLkY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SspRarjqLkY">Open on YouTube</a></p></div></div></div>
 
 ## Night drives, bunkers and repeat encounters
 
-The best-known sighting occurred on the night of 15 November 1966 when two young couples reported seeing a large winged figure with glowing red eyes near the former power plant and armory area before it appeared to pursue their car. The following day's newspaper deliberately reflected uncertainty, describing a "man-sized bird", "creature" or "something" rather than presenting a fixed monster. That ambiguity proved important because later witnesses interpreted their own experiences against an already emerging narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklife.si.edu">[Smithsonian Folklife Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklife.si.edu</span><span class="citation-popover-title">mothman point pleasant west virginia</span><span class="citation-popover-snippet">Smithsonian Folklife CenterAn Ode to a Hometown Creature: Mothman of Point Pleasant...6 Jun 2021 — The creature has risen from local app...</span></span></span>
+The best-known sighting occurred on the night of 15 November 1966 when two young couples reported seeing a large winged figure with glowing red eyes near the former power plant and armory area before it appeared to pursue their car. The following day's newspaper deliberately reflected uncertainty, describing a "man-sized bird", "creature" or "something" rather than presenting a fixed monster. That ambiguity proved important because later witnesses interpreted their own experiences against an already emerging narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklife.si.edu">[Smithsonian Folklife Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklife.si.edu</span><span class="citation-popover-title">mothman point pleasant west virginia</span><span class="citation-popover-snippet">Smithsonian Folklife CenterAn Ode to a Hometown Creature: Mothman of Point Pleasant...6 Jun 2021 — The creature has risen from local app...</span></span></span>
 
-Unlike a single isolated report, many later claims came from the same general landscape. Drivers travelled the deserted roads at night, hunters entered wooded sections, and local residents visited the abandoned complex after hearing rumours. Each new account reinforced the idea that the TNT Area itself was where one should expect strange encounters. The location therefore acted as a stable stage onto which different experiences could be projected, even when descriptions varied in height, wingspan or behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklife.si.edu">[Smithsonian Folklife Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklife.si.edu</span><span class="citation-popover-title">mothman point pleasant west virginia</span><span class="citation-popover-snippet">Smithsonian Folklife CenterAn Ode to a Hometown Creature: Mothman of Point Pleasant...6 Jun 2021 — The creature has risen from local app...</span></span></span>
+Unlike a single isolated report, many later claims came from the same general landscape. Drivers travelled the deserted roads at night, hunters entered wooded sections, and local residents visited the abandoned complex after hearing rumours. Each new account reinforced the idea that the TNT Area itself was where one should expect strange encounters. The location therefore acted as a stable stage onto which different experiences could be projected, even when descriptions varied in height, wingspan or behaviour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklife.si.edu">[Smithsonian Folklife Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklife.si.edu</span><span class="citation-popover-title">mothman point pleasant west virginia</span><span class="citation-popover-snippet">Smithsonian Folklife CenterAn Ode to a Hometown Creature: Mothman of Point Pleasant...6 Jun 2021 — The creature has risen from local app...</span></span></span>
 
-The physical layout also encouraged repeated [observation]({{ 'observation/' | relative_url }}) attempts. Long straight roads illuminated animals suddenly caught in headlights, while pools of standing water and thick woodland reduced depth perception. Concrete bunkers and industrial remains created unexpected silhouettes and echoes. These environmental features cannot explain every reported detail, but they help explain why witnesses repeatedly described startling, fleeting encounters rather than prolonged, clear observation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atlasobscura.com/places/tnt-area" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">tnt area</span><span class="citation-popover-snippet">Atlas ObscuraTNT Area in Point Pleasant6 Jun 2009 — TNT Area. These rows of World War II-era bunkers were the scene of some of the infamo...</span></span></span>
+The physical layout also encouraged repeated [observation]({{ 'observation/' | relative_url }}) attempts. Long straight roads illuminated animals suddenly caught in headlights, while pools of standing water and thick woodland reduced depth perception. Concrete bunkers and industrial remains created unexpected silhouettes and echoes. These environmental features cannot explain every reported detail, but they help explain why witnesses repeatedly described startling, fleeting encounters rather than prolonged, clear observation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atlasobscura.com/places/tnt-area" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">tnt area</span><span class="citation-popover-snippet">Atlas ObscuraTNT Area in Point Pleasant6 Jun 2009 — TNT Area. These rows of World War II-era bunkers were the scene of some of the infamo...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_mothman_local_legend_6e5fa0_tnt_area_setting_40d393-Illustration-2-dark.svg" | relative_url }}" alt="TNT Area illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_mothman_local_legend_6e5fa0_tnt_area_setting_40d393-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_mothman_local_legend_6e5fa0_tnt_area_setting_40d393-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the setting encouraged both belief and scepticism
 
-The same characteristics that made the TNT Area seem mysterious also provided natural explanations favoured by sceptics. The wetlands and ponds support a wide range of large birds, and wildlife experts have long suggested that unfamiliar species viewed under poor lighting could account for some reports. Sandhill cranes have frequently been proposed because of their height, broad wings and reddish facial markings, although great blue herons, owls and other birds have also been suggested in different analyses. Headlights reflecting from nocturnal birds' eyes can produce an intense red or orange eyeshine that closely resembles witness descriptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mothman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+The same characteristics that made the TNT Area seem mysterious also provided natural explanations favoured by sceptics. The wetlands and ponds support a wide range of large birds, and wildlife experts have long suggested that unfamiliar species viewed under poor lighting could account for some reports. Sandhill cranes have frequently been proposed because of their height, broad wings and reddish facial markings, although great blue herons, owls and other birds have also been suggested in different analyses. Headlights reflecting from nocturnal birds' eyes can produce an intense red or orange eyeshine that closely resembles witness descriptions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mothman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-Importantly, these explanations depend on the landscape rather than dismissing it. The abandoned industrial site had become productive wildlife habitat by the 1960s, meaning that unusual bird encounters were more plausible there than in an urban environment. The setting therefore supports both sides of the debate: believers point to the concentration of reports in one recognisable place, while sceptics point to environmental conditions that increase the likelihood of [misidentification]({{ 'mistakes/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/McClintic_Wildlife_Management_Area" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mc Clintic Wildlife Management Area</span><span class="citation-popover-snippet">Mc Clintic Wildlife Management Area</span></span></span>
+Importantly, these explanations depend on the landscape rather than dismissing it. The abandoned industrial site had become productive wildlife habitat by the 1960s, meaning that unusual bird encounters were more plausible there than in an urban environment. The setting therefore supports both sides of the debate: believers point to the concentration of reports in one recognisable place, while sceptics point to environmental conditions that increase the likelihood of [misidentification]({{ 'mistakes/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/McClintic_Wildlife_Management_Area" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mc Clintic Wildlife Management Area</span><span class="citation-popover-snippet">Mc Clintic Wildlife Management Area</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WiPETBzhJLM" title="Exploring the Abandoned TNT Bunkers of Point Pleasant, WV!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WiPETBzhJLM" target="_blank" rel="noopener noreferrer">Exploring the Abandoned TNT Bunkers of Point Pleasant, WV!</a></p><p class="youtube-embed-meta">Channel: Free4All</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WiPETBzhJLM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WiPETBzhJLM">Open on YouTube</a></p></div></div></div>
@@ -317,204 +317,204 @@ Importantly, these explanations depend on the landscape rather than dismissing i
 
 ## How place turned reports into legend trips
 
-The TNT Area did more than host sightings; it became a destination. Almost immediately after the first newspaper coverage, curious residents drove through the area hoping to [experience]({{ 'experience/' | relative_url }}) the phenomenon themselves. This transformed the location from an abandoned military site into a landscape of expectation, where every unusual sound, reflected light or large bird could be interpreted through the developing Mothman story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklife.si.edu">[Smithsonian Folklife Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklife.si.edu</span><span class="citation-popover-title">mothman point pleasant west virginia</span><span class="citation-popover-snippet">Smithsonian Folklife CenterAn Ode to a Hometown Creature: Mothman of Point Pleasant...6 Jun 2021 — The creature has risen from local app...</span></span></span>
+The TNT Area did more than host sightings; it became a destination. Almost immediately after the first newspaper coverage, curious residents drove through the area hoping to [experience]({{ 'experience/' | relative_url }}) the phenomenon themselves. This transformed the location from an abandoned military site into a landscape of expectation, where every unusual sound, reflected light or large bird could be interpreted through the developing Mothman story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklife.si.edu">[Smithsonian Folklife Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklife.si.edu</span><span class="citation-popover-title">mothman point pleasant west virginia</span><span class="citation-popover-snippet">Smithsonian Folklife CenterAn Ode to a Hometown Creature: Mothman of Point Pleasant...6 Jun 2021 — The creature has risen from local app...</span></span></span>
 
-Folklorists often describe such journeys as "legend trips"—visits to places already associated with extraordinary stories. The TNT Area fits this pattern closely. Because the site was accessible yet isolated, people could physically enter the same roads and clearings where earlier witnesses claimed to have seen the creature. Shared geography helped preserve the legend because later visitors were not simply hearing a story; they were experiencing the same environment that had generated it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklife.si.edu">[Smithsonian Folklife Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklife.si.edu</span><span class="citation-popover-title">mothman point pleasant west virginia</span><span class="citation-popover-snippet">Smithsonian Folklife CenterAn Ode to a Hometown Creature: Mothman of Point Pleasant...6 Jun 2021 — The creature has risen from local app...</span></span></span>
+Folklorists often describe such journeys as "legend trips"—visits to places already associated with extraordinary stories. The TNT Area fits this pattern closely. Because the site was accessible yet isolated, people could physically enter the same roads and clearings where earlier witnesses claimed to have seen the creature. Shared geography helped preserve the legend because later visitors were not simply hearing a story; they were experiencing the same environment that had generated it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklife.si.edu">[Smithsonian Folklife Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklife.si.edu</span><span class="citation-popover-title">mothman point pleasant west virginia</span><span class="citation-popover-snippet">Smithsonian Folklife CenterAn Ode to a Hometown Creature: Mothman of Point Pleasant...6 Jun 2021 — The creature has risen from local app...</span></span></span>
 
-Over time, the location itself became inseparable from the Mothman narrative. Even as the legend expanded through books, films and [tourism]({{ 'tourism/' | relative_url }}), the abandoned wartime landscape remained the point of origin. Its combination of military history, environmental transformation and atmospheric isolation gave the original reports a tangible setting that audiences could imagine, visit and debate. That enduring connection between place and story is one of the chief reasons the TNT Area occupies such a central position in the [folklore]({{ 'folklore/' | relative_url }}) surrounding Mothman. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklife.si.edu">[Smithsonian Folklife Center+2Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklife.si.edu</span><span class="citation-popover-title">mothman point pleasant west virginia</span><span class="citation-popover-snippet">Smithsonian Folklife CenterAn Ode to a Hometown Creature: Mothman of Point Pleasant...6 Jun 2021 — The creature has risen from local app...</span></span></span>
+Over time, the location itself became inseparable from the Mothman narrative. Even as the legend expanded through books, films and [tourism]({{ 'tourism/' | relative_url }}), the abandoned wartime landscape remained the point of origin. Its combination of military history, environmental transformation and atmospheric isolation gave the original reports a tangible setting that audiences could imagine, visit and debate. That enduring connection between place and story is one of the chief reasons the TNT Area occupies such a central position in the [folklore]({{ 'folklore/' | relative_url }}) surrounding Mothman.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklife.si.edu">[Smithsonian Folklife Center+2Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklife.si.edu</span><span class="citation-popover-title">mothman point pleasant west virginia</span><span class="citation-popover-snippet">Smithsonian Folklife CenterAn Ode to a Hometown Creature: Mothman of Point Pleasant...6 Jun 2021 — The creature has risen from local app...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_mothman_local_legend_6e5fa0_tnt_area_setting_40d393-Illustration-3-dark.svg" | relative_url }}" alt="TNT Area illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_mothman_local_legend_6e5fa0_tnt_area_setting_40d393-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_mothman_local_legend_6e5fa0_tnt_area_setting_40d393-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the TNT Area Made Mothman Believable. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the TNT Area Made Mothman Believable. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Monsters+Among+Us+by+Linda+S.+Godfrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Monsters Among Us on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=i9yACwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Monsters Among Us" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Monsters+Among+Us+by+Linda+S.+Godfrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Monsters Among Us">Monsters Among Us</a>
-        </h4>
-        <p class="fr-book-author">By Linda S. Godfrey</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Monsters+Among+Us+by+Linda+S.+Godfrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Monsters Among Us on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=i9yACwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Monsters Among Us" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Monsters+Among+Us+by+Linda+S.+Godfrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Monsters Among Us">Monsters Among Us</a>
+</h4>
+<p class="fr-book-author">By Linda S. Godfrey</p>
         
-        <p class="fr-book-desc">Provides wider cryptid context for Mothman.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Monsters+Among+Us+by+Linda+S.+Godfrey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides wider cryptid context for Mothman.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Monsters+Among+Us+by+Linda+S.+Godfrey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mothman+Prophecies+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mothman Prophecies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/725969-M.jpg" alt="Cover for The Mothman Prophecies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mothman Prophecies">The Mothman Prophecies</a>
-        </h4>
-        <p class="fr-book-author">By John A. Keel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mothman+Prophecies+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mothman Prophecies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/725969-M.jpg" alt="Cover for The Mothman Prophecies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mothman Prophecies">The Mothman Prophecies</a>
+</h4>
+<p class="fr-book-author">By John A. Keel</p>
         
-        <p class="fr-book-desc">First published 1975. Subjects: Unidentified flying objects, Curiosities and wonders, Human-alien encounters, Sightings and encounters, U...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1975. Subjects: Unidentified flying objects, Curiosities and wonders, Human-alien encounters, Sightings and encounters, U...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mothman+Jeff+Wamsley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mothman on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1719986-M.jpg" alt="Cover for Mothman" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mothman+Jeff+Wamsley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mothman">Mothman</a>
-        </h4>
-        <p class="fr-book-author">By Jeff Wamsley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mothman+Jeff+Wamsley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mothman on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1719986-M.jpg" alt="Cover for Mothman" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mothman+Jeff+Wamsley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mothman">Mothman</a>
+</h4>
+<p class="fr-book-author">By Jeff Wamsley</p>
         
-        <p class="fr-book-desc">First published 2005.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mothman+Jeff+Wamsley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2005.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mothman+Jeff+Wamsley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Mothman%3A+Behind+the+Red+Eyes+Jeff+Wamsley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mothman: Behind the Red Eyes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mothman%3A+Behind+the+Red+Eyes+Jeff+Wamsley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mothman: Behind the Red Eyes">Mothman: Behind the Red Eyes</a>
-        </h4>
-        <p class="fr-book-author">By Jeff Wamsley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Mothman%3A+Behind+the+Red+Eyes+Jeff+Wamsley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mothman: Behind the Red Eyes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mothman%3A+Behind+the+Red+Eyes+Jeff+Wamsley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mothman: Behind the Red Eyes">Mothman: Behind the Red Eyes</a>
+</h4>
+<p class="fr-book-author">By Jeff Wamsley</p>
         
-        <p class="fr-book-desc">Detailed history of the location and witnesses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mothman%3A+Behind+the+Red+Eyes+Jeff+Wamsley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Detailed history of the location and witnesses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mothman%3A+Behind+the+Red+Eyes+Jeff+Wamsley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Monsters+Among+Us&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Monsters Among Us</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mothman+Prophecies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mothman Prophecies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mothman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mothman</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Monsters+Among+Us&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Monsters Among Us</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mothman+Prophecies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mothman Prophecies</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mothman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mothman</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Glow In The Dark Mothman Metal &amp; Enamel Pin Badge Horror Moth New"><img src="{{ '/assets/images/marketplace-covers/58571b93fa7f2e8edd3f.jpg' | relative_url }}" alt="Listing image for Glow In The Dark Mothman Metal &amp; Enamel Pin Badge Horror Moth New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Glow In The Dark Mothman Metal &amp; Enamel Pin Badge Horror Moth New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mothman enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Mothman enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Glow In The Dark Mothman Metal &amp; Enamel Pin Badge Horror Moth New"><img src="{{ '/assets/images/marketplace-covers/58571b93fa7f2e8edd3f.jpg' | relative_url }}" alt="Listing image for Glow In The Dark Mothman Metal &amp; Enamel Pin Badge Horror Moth New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Glow In The Dark Mothman Metal &amp; Enamel Pin Badge Horror Moth New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mothman enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Mothman enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mothman MothGlam Edition Hard Enamel Pin Ltd Ed /200 Sealed Glitter Wings"><img src="{{ '/assets/images/marketplace-covers/1604eb60d4e2ab6e4ab0.jpg' | relative_url }}" alt="Listing image for Mothman MothGlam Edition Hard Enamel Pin Ltd Ed /200 Sealed Glitter Wings" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Mothman MothGlam Edition Hard Enamel Pin Ltd Ed /200 Sealed Glitter Wings</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mothman enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Mothman enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mothman MothGlam Edition Hard Enamel Pin Ltd Ed /200 Sealed Glitter Wings"><img src="{{ '/assets/images/marketplace-covers/1604eb60d4e2ab6e4ab0.jpg' | relative_url }}" alt="Listing image for Mothman MothGlam Edition Hard Enamel Pin Ltd Ed /200 Sealed Glitter Wings" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Mothman MothGlam Edition Hard Enamel Pin Ltd Ed /200 Sealed Glitter Wings</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mothman enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Mothman enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New Cartoon Mothman Moth Man badge tie pin badge metal Enamel black white"><img src="{{ '/assets/images/marketplace-covers/34373527e356113f08ef.jpg' | relative_url }}" alt="Listing image for New Cartoon Mothman Moth Man badge tie pin badge metal Enamel black white" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">New Cartoon Mothman Moth Man badge tie pin badge metal Enamel black white</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mothman enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Mothman enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New Cartoon Mothman Moth Man badge tie pin badge metal Enamel black white"><img src="{{ '/assets/images/marketplace-covers/34373527e356113f08ef.jpg' | relative_url }}" alt="Listing image for New Cartoon Mothman Moth Man badge tie pin badge metal Enamel black white" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">New Cartoon Mothman Moth Man badge tie pin badge metal Enamel black white</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mothman enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Mothman enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New Cartoon Mothman Moth Man glow in the dark badge tie pin badge metal Enamel"><img src="{{ '/assets/images/marketplace-covers/28fa4a561bfc85d7635d.jpg' | relative_url }}" alt="Listing image for New Cartoon Mothman Moth Man glow in the dark badge tie pin badge metal Enamel" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">New Cartoon Mothman Moth Man glow in the dark badge tie pin badge metal Enamel</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mothman enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Mothman enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New Cartoon Mothman Moth Man glow in the dark badge tie pin badge metal Enamel"><img src="{{ '/assets/images/marketplace-covers/28fa4a561bfc85d7635d.jpg' | relative_url }}" alt="Listing image for New Cartoon Mothman Moth Man glow in the dark badge tie pin badge metal Enamel" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">New Cartoon Mothman Moth Man glow in the dark badge tie pin badge metal Enamel</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mothman enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Mothman enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tnt-area-why-the-tnt-area-made-mothman-believable-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -530,7 +530,7 @@ Over time, the location itself became inseparable from the Mothman narrative. Ev
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -550,7 +550,7 @@ Over time, the location itself became inseparable from the Mothman narrative. Ev
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -582,7 +582,7 @@ Over time, the location itself became inseparable from the Mothman narrative. Ev
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -634,7 +634,7 @@ Over time, the location itself became inseparable from the Mothman narrative. Ev
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -679,7 +679,7 @@ Over time, the location itself became inseparable from the Mothman narrative. Ev
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -720,86 +720,86 @@ Over time, the location itself became inseparable from the Mothman narrative. Ev
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Mc Clintic Wildlife Management Area  
-   Link: <a href="https://en.wikipedia.org/wiki/McClintic_Wildlife_Management_Area" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/McClintic_Wildlife_Management_Area</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/McClintic_Wildlife_Management_Area" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/McClintic_Wildlife_Management_Area</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: West Virginia Ordnance Works  
-   Link: <a href="https://en.wikipedia.org/wiki/West_Virginia_Ordnance_Works" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/West_Virginia_Ordnance_Works</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/West_Virginia_Ordnance_Works" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/West_Virginia_Ordnance_Works</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Mothman" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mothman</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Mothman" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mothman</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: folklife.si.edu  
    Title: mothman point pleasant west virginia  
-   Link: <a href="https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia" target="_blank" rel="noopener noreferrer nofollow">https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian Folklife CenterAn Ode to a Hometown Creature: Mothman of Point Pleasant...6 Jun 2021 — The creature has risen from local app...</p></details>
+   Link:<a href="https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia" target="_blank" rel="noopener noreferrer nofollow">https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian Folklife CenterAn Ode to a Hometown Creature: Mothman of Point Pleasant...6 Jun 2021 — The creature has risen from local app...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: atlasobscura.com  
    Title: tnt area  
-   Link: <a href="https://www.atlasobscura.com/places/tnt-area" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/places/tnt-area</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Atlas ObscuraTNT Area in Point Pleasant6 Jun 2009 — TNT Area. These rows of World War II-era bunkers were the scene of some of the infamo...</p></details>
+   Link:<a href="https://www.atlasobscura.com/places/tnt-area" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/places/tnt-area</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Atlas ObscuraTNT Area in Point Pleasant6 Jun 2009 — TNT Area. These rows of World War II-era bunkers were the scene of some of the infamo...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/mothmanmuseum/posts/all-the-rumors-are-true-the-secret-tunnels-in-the-tnt-area-must-exist-because-so/10158404984306380/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mothmanmuseum/posts/all-the-rumors-are-true-the-secret-tunnels-in-the-tnt-area-must-exist-because-so/10158404984306380/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mothman museum discovers secret tunnels in TNT areaAll the rumors are true. The secret tunnels in the TNT area must exist because someone...</p></details>
+   Link:<a href="https://www.facebook.com/mothmanmuseum/posts/all-the-rumors-are-true-the-secret-tunnels-in-the-tnt-area-must-exist-because-so/10158404984306380/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mothmanmuseum/posts/all-the-rumors-are-true-the-secret-tunnels-in-the-tnt-area-must-exist-because-so/10158404984306380/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mothman museum discovers secret tunnels in TNT areaAll the rumors are true. The secret tunnels in the TNT area must exist because someone...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: appalachianhistorian.org  
    Title: the mothman of point pleasant how a bird monster became appalachian folklore  
-   Link: <a href="https://appalachianhistorian.org/the-mothman-of-point-pleasant-how-a-bird-monster-became-appalachian-folklore/" target="_blank" rel="noopener noreferrer nofollow">https://appalachianhistorian.org/the-mothman-of-point-pleasant-how-a-bird-monster-became-appalachian-folklore/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mothman of Point Pleasant: How a Bird Monster Became...11 Dec 2025 — On the night of November 15, 1966, two young Point Pleasant cou...</p></details>
+   Link:<a href="https://appalachianhistorian.org/the-mothman-of-point-pleasant-how-a-bird-monster-became-appalachian-folklore/" target="_blank" rel="noopener noreferrer nofollow">https://appalachianhistorian.org/the-mothman-of-point-pleasant-how-a-bird-monster-became-appalachian-folklore/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Mothman of Point Pleasant: How a Bird Monster Became...11 Dec 2025 — On the night of November 15, 1966, two young Point Pleasant cou...</p></details>
    Published: November 15, 1966  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: wvexplorer.com  
    Title: mothman tnt area point pleasant wv west virginia  
-   Link: <a href="https://wvexplorer.com/mothman-tnt-area-point-pleasant-wv-west-virginia/" target="_blank" rel="noopener noreferrer nofollow">https://wvexplorer.com/mothman-tnt-area-point-pleasant-wv-west-virginia/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The TNT Area: Mothman&#x27;s lair attracting fans day and night6 Sept 2019 — If you&#x27;re a fan of the Mothman legend and haven&#x27;t visited its all...</p></details>
+   Link:<a href="https://wvexplorer.com/mothman-tnt-area-point-pleasant-wv-west-virginia/" target="_blank" rel="noopener noreferrer nofollow">https://wvexplorer.com/mothman-tnt-area-point-pleasant-wv-west-virginia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The TNT Area: Mothman&#x27;s lair attracting fans day and night6 Sept 2019 — If you&#x27;re a fan of the Mothman legend and haven&#x27;t visited its all...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/wendigoon/comments/1qqxptw/inside_the_bunkers_in_the_tnt_area_mothman_site/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/wendigoon/comments/1qqxptw/inside_the_bunkers_in_the_tnt_area_mothman_site/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>These are mostly empty, partially buried igloo...</p></details>
+   Link:<a href="https://www.reddit.com/r/wendigoon/comments/1qqxptw/inside_the_bunkers_in_the_tnt_area_mothman_site/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/wendigoon/comments/1qqxptw/inside_the_bunkers_in_the_tnt_area_mothman_site/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These are mostly empty, partially buried igloo...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=SspRarjqLkY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SspRarjqLkY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of the Mothman phenomena. Highlights include the...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=SspRarjqLkY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SspRarjqLkY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of the Mothman phenomena. Highlights include the...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Mothman Sites at Point Pleasant, West Virginia  
-   Link: <a href="https://www.youtube.com/watch?v=bCPVHasYlBA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bCPVHasYlBA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is Mothman Real? Searching for Mothman in Point Pleasant (The Weird Side of West Virginia)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bCPVHasYlBA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bCPVHasYlBA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is Mothman Real? Searching for Mothman in Point Pleasant (The Weird Side of West Virginia)...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: The Mothman TNT Area Exploration  
-   Link: <a href="https://www.youtube.com/watch?v=aDfbBu-FvXY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aDfbBu-FvXY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the Abandoned TNT Bunkers of Point Pleasant, WV...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=aDfbBu-FvXY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aDfbBu-FvXY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the Abandoned TNT Bunkers of Point Pleasant, WV...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: The Weirdest Town in America Isn't What You Think  
-   Link: <a href="https://www.youtube.com/watch?v=NbuKVlSnFnk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NbuKVlSnFnk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mothman TNT Area Exploration - Point Pleasant, West Virginia...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=NbuKVlSnFnk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NbuKVlSnFnk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Mothman TNT Area Exploration - Point Pleasant, West Virginia...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Exploring the Abandoned TNT Bunkers of Point Pleasant, WV!  
-   Link: <a href="https://www.youtube.com/watch?v=WiPETBzhJLM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WiPETBzhJLM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mothman Sites at Point Pleasant, West Virginia...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WiPETBzhJLM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WiPETBzhJLM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mothman Sites at Point Pleasant, West Virginia...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=C9-VdE75qpI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C9-VdE75qpI</a>  
+   Link:<a href="https://www.youtube.com/watch?v=C9-VdE75qpI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C9-VdE75qpI</a>  

@@ -280,7 +280,7 @@ image: /assets/images/forteana_50bdc8_witness_testimony_re_99a07b_rumor_waves_te
 
 ## Introduction
 
-Rumour waves are one of the most important mechanisms shaping witness testimony in Fortean reports. A strange event may begin with one ambiguous [observation]({{ 'observation/' | relative_url }}), but as the story spreads through conversation, [newspapers]({{ 'newspapers/' | relative_url }}), television or social media, later witnesses often describe not only what they experienced but also what the circulating narrative encouraged them to notice. This does not mean that later witnesses are dishonest. Rather, decades of psychological research show that memory is reconstructive: recollections can be updated by information encountered after an event, especially when it comes from trusted people or appears to confirm an emerging public story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2DigitalCommons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A Behavioral Account of the Misinformation Effect - PMC - NIHby DM Challies · 2011 · Cited by 35 — The phenomenon of changes to report...</span></span></span>
+Rumour waves are one of the most important mechanisms shaping witness testimony in Fortean reports. A strange event may begin with one ambiguous [observation]({{ 'observation/' | relative_url }}), but as the story spreads through conversation, [newspapers]({{ 'newspapers/' | relative_url }}), television or social media, later witnesses often describe not only what they experienced but also what the circulating narrative encouraged them to notice. This does not mean that later witnesses are dishonest. Rather, decades of psychological research show that memory is reconstructive: recollections can be updated by information encountered after an event, especially when it comes from trusted people or appears to confirm an emerging public story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2DigitalCommons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A Behavioral Account of the Misinformation Effect - PMC - NIHby DM Challies · 2011 · Cited by 35 — The phenomenon of changes to report...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_witness_testimony_re_99a07b_rumor_waves_testimon_6db339-Illustration-1-dark.svg" | relative_url }}" alt="Rumor Waves illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_witness_testimony_re_99a07b_rumor_waves_testimon_6db339-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_witness_testimony_re_99a07b_rumor_waves_testimon_6db339-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -292,7 +292,7 @@ Many classic Fortean episodes follow a recognisable pattern. An unusual incident
 
 The important point is that the rumour does not necessarily invent experiences from nothing. Instead, it changes the way ambiguous experiences are interpreted. Someone who previously would have described "a bright light behind the trees" may later describe "the glowing craft everyone has been talking about." The sensory [experience]({{ 'experience/' | relative_url }}) may remain largely unchanged while the interpretation becomes increasingly standardised.
 
-Historians of folklore have long noted that legends often spread in this way. Modern cognitive [psychology]({{ 'psychology/' | relative_url }}) explains part of the mechanism: people naturally incorporate later information into their recollection of earlier events, particularly when the original perception was brief, uncertain or emotionally significant. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2BPS PsychHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A Behavioral Account of the Misinformation Effect - PMC - NIHby DM Challies · 2011 · Cited by 35 — The phenomenon of changes to report...</span></span></span>
+Historians of folklore have long noted that legends often spread in this way. Modern cognitive [psychology]({{ 'psychology/' | relative_url }}) explains part of the mechanism: people naturally incorporate later information into their recollection of earlier events, particularly when the original perception was brief, uncertain or emotionally significant.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2BPS PsychHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A Behavioral Account of the Misinformation Effect - PMC - NIHby DM Challies · 2011 · Cited by 35 — The phenomenon of changes to report...</span></span></span>
 
 In Fortean history this process has been observed across many categories of reports, including UFO flaps, phantom animal sightings, haunted-location stories and episodes that later become labelled as local "panics". The shared narrative can become almost as important as the original event itself.
 
@@ -300,7 +300,7 @@ In Fortean history this process has been observed across many categories of repo
 
 One of the strongest findings in eyewitness research is memory conformity: witnesses who discuss an event with one another can unintentionally influence each other's recollections.
 
-Experimental studies have repeatedly demonstrated that people often adopt details supplied by another witness, particularly when they believe the other person had a better view or is more reliable. After discussion, participants may confidently remember objects, actions or sequences that they never personally observed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1385&amp;context=ajacourtreview" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.unl.edu">[DigitalCommons+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.unl.edu</span><span class="citation-popover-snippet">Memory Conformity Between Eyewitnessesby F Gabbert · 2012 · Cited by 39 — post-event misinformation is encountered socially...</span></span></span>
+Experimental studies have repeatedly demonstrated that people often adopt details supplied by another witness, particularly when they believe the other person had a better view or is more reliable. After discussion, participants may confidently remember objects, actions or sequences that they never personally observed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1385&amp;context=ajacourtreview" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.unl.edu">[DigitalCommons+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.unl.edu</span><span class="citation-popover-snippet">Memory Conformity Between Eyewitnessesby F Gabbert · 2012 · Cited by 39 — post-event misinformation is encountered socially...</span></span></span>
 
 For strange-event reports, this has several consequences:
 
@@ -327,7 +327,7 @@ Press coverage has long acted as an amplifier for rumour waves.
 
 Once newspapers begin highlighting a particular explanation or dramatic interpretation, later witnesses often report details that fit the emerging narrative. This does not require deliberate fabrication. Instead, media reports provide a framework that shapes later recall.
 
-Research on the misinformation effect has consistently shown that post-event information—including leading questions, news reports and conversations—can alter remembered details of an original experience. People may incorporate these later suggestions into what feels like a genuine memory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2BPS PsychHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A Behavioral Account of the Misinformation Effect - PMC - NIHby DM Challies · 2011 · Cited by 35 — The phenomenon of changes to report...</span></span></span>
+Research on the misinformation effect has consistently shown that post-event information—including leading questions, news reports and conversations—can alter remembered details of an original experience. People may incorporate these later suggestions into what feels like a genuine memory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2BPS PsychHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A Behavioral Account of the Misinformation Effect - PMC - NIHby DM Challies · 2011 · Cited by 35 — The phenomenon of changes to report...</span></span></span>
 
 Historically, this process helps explain why:
 
@@ -345,7 +345,7 @@ Digital communication has accelerated processes that once unfolded over weeks or
 
 Witnesses now encounter photographs, speculative reconstructions, viral posts and comment threads within minutes of an event. These materials provide enormous amounts of post-event information before many people have recorded their own independent recollections.
 
-Recent research has found that misinformation delivered in social media-style formats can reduce eyewitness accuracy, while carefully designed warnings only partly reduce the effect. Online misinformation can also reshape memory through repeated exposure, trusted social connections and the blending of genuine and false details. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/09658211.2023.2294692" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineWitnesses&#x27; susceptibility to misleading post-event...by SJ Sharman · 2024 · Cited by 3 — This study examined the...</span></span></span>
+Recent research has found that misinformation delivered in social media-style formats can reduce eyewitness accuracy, while carefully designed warnings only partly reduce the effect. Online misinformation can also reshape memory through repeated exposure, trusted social connections and the blending of genuine and false details.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/09658211.2023.2294692" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineWitnesses&#x27; susceptibility to misleading post-event...by SJ Sharman · 2024 · Cited by 3 — This study examined the...</span></span></span>
 
 For Fortean events, common contamination pathways include:
 
@@ -389,7 +389,7 @@ Conversely, investigators become more cautious when numerous reports emerge only
 
 Rumour waves should not be confused with deliberate [hoaxes]({{ 'hoaxes/' | relative_url }}), nor with every instance of collective anxiety.
 
-Some historical episodes involving mysterious odours, unexplained illnesses or perceived environmental threats have been studied as examples of mass psychogenic illness, where genuine symptoms spread through social expectation rather than through a physical agent. These episodes demonstrate that social contagion can influence both perception and bodily experience without requiring conscious deception. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4884863/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Mass Psychogenic Illness: Demography and Symptom Profile...by BK Tarafder · 2016 · Cited by 20 — This study was aimed at investigatin...</span></span></span>
+Some historical episodes involving mysterious odours, unexplained illnesses or perceived environmental threats have been studied as examples of mass psychogenic illness, where genuine symptoms spread through social expectation rather than through a physical agent. These episodes demonstrate that social contagion can influence both perception and bodily experience without requiring conscious deception.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4884863/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Mass Psychogenic Illness: Demography and Symptom Profile...by BK Tarafder · 2016 · Cited by 20 — This study was aimed at investigatin...</span></span></span>
 
 Fortean cases differ because they usually concern unusual observations rather than illness, but both kinds of episodes illustrate the broader principle that beliefs, expectations and social communication can spread through communities and alter subsequent reports.
 
@@ -399,201 +399,201 @@ Recognising this mechanism does not automatically explain away every wave of str
 
 Awareness of rumour dynamics should not be treated as a licence to dismiss witnesses. Most people reporting unusual experiences appear to be describing what they sincerely believe they perceived.
 
-The key lesson from both eyewitness psychology and Fortean investigation is methodological rather than sceptical. Witnesses remain valuable sources of information, but testimony is strongest when it is collected before rumours circulate, before witnesses compare stories and before media narratives become dominant. Once a strange event develops into a public story, later testimony increasingly reflects two intertwined histories: the original experience and the evolving rumour that taught people what to remember, what to emphasise and sometimes what they believe they saw. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1385&amp;context=ajacourtreview" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.unl.edu">[DigitalCommons+2BPS PsychHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.unl.edu</span><span class="citation-popover-snippet">Memory Conformity Between Eyewitnessesby F Gabbert · 2012 · Cited by 39 — post-event misinformation is encountered socially...</span></span></span>
+The key lesson from both eyewitness psychology and Fortean investigation is methodological rather than sceptical. Witnesses remain valuable sources of information, but testimony is strongest when it is collected before rumours circulate, before witnesses compare stories and before media narratives become dominant. Once a strange event develops into a public story, later testimony increasingly reflects two intertwined histories: the original experience and the evolving rumour that taught people what to remember, what to emphasise and sometimes what they believe they saw.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1385&amp;context=ajacourtreview" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.unl.edu">[DigitalCommons+2BPS PsychHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.unl.edu</span><span class="citation-popover-snippet">Memory Conformity Between Eyewitnessesby F Gabbert · 2012 · Cited by 39 — post-event misinformation is encountered socially...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/78oUaTW-aPM" title="Remember the SCARY Clown Craze of 2016?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=78oUaTW-aPM" target="_blank" rel="noopener noreferrer">Remember the SCARY Clown Craze of 2016?</a></p><p class="youtube-embed-meta">Channel: Buzby The Grim</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=78oUaTW-aPM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=78oUaTW-aPM">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When a Sighting Becomes a Panic. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When a Sighting Becomes a Panic. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Directly relevant to rumor waves and collective belief.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Directly relevant to rumor waves and collective belief.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
+</h4>
+<p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
         
-        <p class="fr-book-desc">Shows how expectations shape perception.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how expectations shape perception.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explains reinforcement of mistaken beliefs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains reinforcement of mistaken beliefs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Discusses evaluating extraordinary claims amid social influence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses evaluating extraordinary claims amid social influence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=white+noise+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="white noise machine" data-ebay-reference="rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for White Noise Machine 34 Soothing Sounds Night Light for Adults Baby Kids Sleep UK"><img src="{{ '/assets/images/marketplace-covers/6affe03a783f6e7a0b0a.jpg' | relative_url }}" alt="Listing image for White Noise Machine 34 Soothing Sounds Night Light for Adults Baby Kids Sleep UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=white+noise+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="white noise machine" data-ebay-reference="rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine" target="_blank" rel="sponsored noopener noreferrer">White Noise Machine 34 Soothing Sounds Night Light for Adults Baby Kids Sleep UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=white+noise+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="white noise machine" data-ebay-reference="rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for white noise machine">Search <span data-ebay-domain-label>eBay.co.uk</span>: white noise machine</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=white+noise+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="white noise machine" data-ebay-reference="rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=white+noise+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="white noise machine" data-ebay-reference="rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for White Noise Machine 34 Soothing Sounds Night Light for Adults Baby Kids Sleep UK"><img src="{{ '/assets/images/marketplace-covers/6affe03a783f6e7a0b0a.jpg' | relative_url }}" alt="Listing image for White Noise Machine 34 Soothing Sounds Night Light for Adults Baby Kids Sleep UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=white+noise+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="white noise machine" data-ebay-reference="rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine" target="_blank" rel="sponsored noopener noreferrer">White Noise Machine 34 Soothing Sounds Night Light for Adults Baby Kids Sleep UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=white+noise+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="white noise machine" data-ebay-reference="rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for white noise machine">Search<span data-ebay-domain-label>eBay.co.uk</span>: white noise machine</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=white+noise+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="white noise machine" data-ebay-reference="rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=white+noise+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="white noise machine" data-ebay-reference="rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roffie White Noise Machine, with 30 Natural Sound, Memory Function timer usb"><img src="{{ '/assets/images/marketplace-covers/da6d8d499787860813e4.jpg' | relative_url }}" alt="Listing image for Roffie White Noise Machine, with 30 Natural Sound, Memory Function timer usb" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=white+noise+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="white noise machine" data-ebay-reference="rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine" target="_blank" rel="sponsored noopener noreferrer">Roffie White Noise Machine, with 30 Natural Sound, Memory Function timer usb</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=white+noise+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="white noise machine" data-ebay-reference="rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for white noise machine">Search <span data-ebay-domain-label>eBay.co.uk</span>: white noise machine</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=white+noise+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="white noise machine" data-ebay-reference="rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=white+noise+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="white noise machine" data-ebay-reference="rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roffie White Noise Machine, with 30 Natural Sound, Memory Function timer usb"><img src="{{ '/assets/images/marketplace-covers/da6d8d499787860813e4.jpg' | relative_url }}" alt="Listing image for Roffie White Noise Machine, with 30 Natural Sound, Memory Function timer usb" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=white+noise+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="white noise machine" data-ebay-reference="rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine" target="_blank" rel="sponsored noopener noreferrer">Roffie White Noise Machine, with 30 Natural Sound, Memory Function timer usb</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=white+noise+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="white noise machine" data-ebay-reference="rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for white noise machine">Search<span data-ebay-domain-label>eBay.co.uk</span>: white noise machine</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=white+noise+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="white noise machine" data-ebay-reference="rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=white+noise+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="white noise machine" data-ebay-reference="rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roffie White Noise Machine, with 30 Natural Sound, Memory Function timer usb"><img src="{{ '/assets/images/marketplace-covers/45ad189ca946233a8c3d.jpg' | relative_url }}" alt="Listing image for Roffie White Noise Machine, with 30 Natural Sound, Memory Function timer usb" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=white+noise+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="white noise machine" data-ebay-reference="rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine" target="_blank" rel="sponsored noopener noreferrer">Roffie White Noise Machine, with 30 Natural Sound, Memory Function timer usb</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=white+noise+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="white noise machine" data-ebay-reference="rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for white noise machine">Search <span data-ebay-domain-label>eBay.co.uk</span>: white noise machine</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=white+noise+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="white noise machine" data-ebay-reference="rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=white+noise+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="white noise machine" data-ebay-reference="rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roffie White Noise Machine, with 30 Natural Sound, Memory Function timer usb"><img src="{{ '/assets/images/marketplace-covers/45ad189ca946233a8c3d.jpg' | relative_url }}" alt="Listing image for Roffie White Noise Machine, with 30 Natural Sound, Memory Function timer usb" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=white+noise+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="white noise machine" data-ebay-reference="rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine" target="_blank" rel="sponsored noopener noreferrer">Roffie White Noise Machine, with 30 Natural Sound, Memory Function timer usb</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=white+noise+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="white noise machine" data-ebay-reference="rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for white noise machine">Search<span data-ebay-domain-label>eBay.co.uk</span>: white noise machine</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=white+noise+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="white noise machine" data-ebay-reference="rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=white+noise+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="white noise machine" data-ebay-reference="rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Portable White Noise Sound Machine Sleep Adults Children RGB Light 20 Sounds UK"><img src="{{ '/assets/images/marketplace-covers/4ac85734b1b254c9c832.jpg' | relative_url }}" alt="Listing image for Portable White Noise Sound Machine Sleep Adults Children RGB Light 20 Sounds UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=white+noise+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="white noise machine" data-ebay-reference="rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine" target="_blank" rel="sponsored noopener noreferrer">Portable White Noise Sound Machine Sleep Adults Children RGB Light 20 Sounds UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=white+noise+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="white noise machine" data-ebay-reference="rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for white noise machine">Search <span data-ebay-domain-label>eBay.co.uk</span>: white noise machine</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=white+noise+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="white noise machine" data-ebay-reference="rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=white+noise+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="white noise machine" data-ebay-reference="rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=white+noise+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="white noise machine" data-ebay-reference="rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Portable White Noise Sound Machine Sleep Adults Children RGB Light 20 Sounds UK"><img src="{{ '/assets/images/marketplace-covers/4ac85734b1b254c9c832.jpg' | relative_url }}" alt="Listing image for Portable White Noise Sound Machine Sleep Adults Children RGB Light 20 Sounds UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=white+noise+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="white noise machine" data-ebay-reference="rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine" target="_blank" rel="sponsored noopener noreferrer">Portable White Noise Sound Machine Sleep Adults Children RGB Light 20 Sounds UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=white+noise+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="white noise machine" data-ebay-reference="rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for white noise machine">Search<span data-ebay-domain-label>eBay.co.uk</span>: white noise machine</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=white+noise+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="white noise machine" data-ebay-reference="rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=white+noise+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="white noise machine" data-ebay-reference="rumor-waves-when-a-sighting-becomes-a-panic-forteana-white-noise-machine" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -609,7 +609,7 @@ The key lesson from both eyewitness psychology and Fortean investigation is meth
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -629,7 +629,7 @@ The key lesson from both eyewitness psychology and Fortean investigation is meth
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -661,7 +661,7 @@ The key lesson from both eyewitness psychology and Fortean investigation is meth
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -713,7 +713,7 @@ The key lesson from both eyewitness psychology and Fortean investigation is meth
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -758,7 +758,7 @@ The key lesson from both eyewitness psychology and Fortean investigation is meth
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -799,132 +799,132 @@ The key lesson from both eyewitness psychology and Fortean investigation is meth
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6762151/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6762151/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>effects of perceived memory ability on memory conformity...by LA Monds · 2019 · Cited by 19 — The current study aimed to expand on exist...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6762151/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6762151/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>effects of perceived memory ability on memory conformity...by LA Monds · 2019 · Cited by 19 — The current study aimed to expand on exist...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCOnline misinformation can distort witnesses' memories  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10829763/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10829763/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by M Kękuś · 2024 · Cited by 2 —... disinformation effect in the context of eyewitness testimony. Ed. Sadko L... Memory conformity...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10829763/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10829763/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by M Kękuś · 2024 · Cited by 2 —... disinformation effect in the context of eyewitness testimony. Ed. Sadko L... Memory conformity...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4884863/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4884863/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mass Psychogenic Illness: Demography and Symptom Profile...by BK Tarafder · 2016 · Cited by 20 — This study was aimed at investigatin...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4884863/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4884863/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mass Psychogenic Illness: Demography and Symptom Profile...by BK Tarafder · 2016 · Cited by 20 — This study was aimed at investigatin...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: saskoer.ca  
    Title: eyewitness testimony and memory biases  
-   Link: <a href="https://www.saskoer.ca/introductiontopsychology/chapter/eyewitness-testimony-and-memory-biases/" target="_blank" rel="noopener noreferrer nofollow">https://www.saskoer.ca/introductiontopsychology/chapter/eyewitness-testimony-and-memory-biases/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>8.4 Eyewitness Testimony and Memory Biasesby C Laney · 2019 · Cited by 2 — Loftus Eyewitnesses can provide very compelling legal testimon...</p></details>
+   Link:<a href="https://www.saskoer.ca/introductiontopsychology/chapter/eyewitness-testimony-and-memory-biases/" target="_blank" rel="noopener noreferrer nofollow">https://www.saskoer.ca/introductiontopsychology/chapter/eyewitness-testimony-and-memory-biases/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>8.4 Eyewitness Testimony and Memory Biasesby C Laney · 2019 · Cited by 2 — Loftus Eyewitnesses can provide very compelling legal testimon...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Behavioral Account of the Misinformation Effect - PMC - NIHby DM Challies · 2011 · Cited by 35 — The phenomenon of changes to report...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Behavioral Account of the Misinformation Effect - PMC - NIHby DM Challies · 2011 · Cited by 35 — The phenomenon of changes to report...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: digitalcommons.unl.edu  
-   Link: <a href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1385&amp;context=ajacourtreview" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1385&amp;context=ajacourtreview</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Memory Conformity Between Eyewitnessesby F Gabbert · 2012 · Cited by 39 — post-event misinformation is encountered socially...</p></details>
+   Link:<a href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1385&amp;context=ajacourtreview" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1385&amp;context=ajacourtreview</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Memory Conformity Between Eyewitnessesby F Gabbert · 2012 · Cited by 39 — post-event misinformation is encountered socially...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: bpspsychub.onlinelibrary.wiley.com  
    Title: BPS Psych Hub The history of an idea: The misinformation effect  
-   Link: <a href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/lcrp.70020" target="_blank" rel="noopener noreferrer nofollow">https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/lcrp.70020</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BPS PsychHubThe history of an idea: The misinformation effect - Loftus24 Dec 2025 — The reconstructive nature of memory allows witnesses...</p></details>
+   Link:<a href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/lcrp.70020" target="_blank" rel="noopener noreferrer nofollow">https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/lcrp.70020</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BPS PsychHubThe history of an idea: The misinformation effect - Loftus24 Dec 2025 — The reconstructive nature of memory allows witnesses...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/09658211.2023.2294692" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/09658211.2023.2294692</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineWitnesses&#x27; susceptibility to misleading post-event...by SJ Sharman · 2024 · Cited by 3 — This study examined the...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/09658211.2023.2294692" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/09658211.2023.2294692</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineWitnesses&#x27; susceptibility to misleading post-event...by SJ Sharman · 2024 · Cited by 3 — This study examined the...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/1068316X.2026.2637901" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/1068316X.2026.2637901</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>News as a form of post-event information: the effect of...by Z Crittenden · 2026 — Decades of research into the misinformation effect ha...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/1068316X.2026.2637901" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/1068316X.2026.2637901</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>News as a form of post-event information: the effect of...by Z Crittenden · 2026 — Decades of research into the misinformation effect ha...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Misinformation effect  
-   Link: <a href="https://en.wikipedia.org/wiki/Misinformation_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Misinformation_effect</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation effectThe misinformation effect occurs when a person&#x27;s recall of episodic memories becomes less accurate because of pos...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Misinformation_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Misinformation_effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation effectThe misinformation effect occurs when a person&#x27;s recall of episodic memories becomes less accurate because of pos...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Mass psychogenic illness  
-   Link: <a href="https://en.wikipedia.org/wiki/Mass_psychogenic_illness" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mass_psychogenic_illness</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mass psychogenic illnessIt is the rapid spread of illness signs and symptoms affecting members of a cohesive group, originating from a...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Mass_psychogenic_illness" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mass_psychogenic_illness</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mass psychogenic illnessIt is the rapid spread of illness signs and symptoms affecting members of a cohesive group, originating from a...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: drpress.org  
-   Link: <a href="https://drpress.org/ojs/index.php/EHSS/article/view/6439" target="_blank" rel="noopener noreferrer nofollow">https://drpress.org/ojs/index.php/EHSS/article/view/6439</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Systematic Review of Research Developments in Mass...27 Mar 2023 — This study explores the development of research on mass psychogenic...</p></details>
+   Link:<a href="https://drpress.org/ojs/index.php/EHSS/article/view/6439" target="_blank" rel="noopener noreferrer nofollow">https://drpress.org/ojs/index.php/EHSS/article/view/6439</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Systematic Review of Research Developments in Mass...27 Mar 2023 — This study explores the development of research on mass psychogenic...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation effect | Social Sciences and HumanitiesThe misinformation effect refers to the phenomenon where post-event information can...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation effect | Social Sciences and HumanitiesThe misinformation effect refers to the phenomenon where post-event information can...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: journalofscientificexploration.org  
-   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/2681" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/2681</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Social Factors and [UFO Reports](&amp;#123;&amp;#123; &#x27;ufo-reports/&#x27; | relative_url &amp;#125;&amp;#125;): Was the SARS-CoV-2...11 Feb 2023 — Past research on UFO/UAP reporting has theorized that increases are t...</p></details>
+   Link:<a href="https://journalofscientificexploration.org/index.php/jse/article/view/2681" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/2681</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social Factors and [UFO Reports](&amp;#123;&amp;#123; &#x27;ufo-reports/&#x27; | relative_url &amp;#125;&amp;#125;): Was the SARS-CoV-2...11 Feb 2023 — Past research on UFO/UAP reporting has theorized that increases are t...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/nature-index/topics/l4/misinformation-effects-on-eyewitness-memory" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/misinformation-effects-on-eyewitness-memory</a>  
+   Link:<a href="https://www.nature.com/nature-index/topics/l4/misinformation-effects-on-eyewitness-memory" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/misinformation-effects-on-eyewitness-memory</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/226051579_A_theoretical_review_of_the_misinformation_effect_Predictions_from_an_activation-based_memory_model" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/226051579_A_theoretical_review_of_the_misinformation_effect_Predictions_from_an_activation-based_memory_model</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A theoretical review of the misinformation effectDecades of research into the misinformation effect have reliably shown that exposu...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/226051579_A_theoretical_review_of_the_misinformation_effect_Predictions_from_an_activation-based_memory_model" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/226051579_A_theoretical_review_of_the_misinformation_effect_Predictions_from_an_activation-based_memory_model</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A theoretical review of the misinformation effectDecades of research into the misinformation effect have reliably shown that exposu...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/the-misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/the-misinformation-effect</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Misinformation EffectThe misinformation effect happens when our memory for past events is altered after exposure to misleading inform...</p></details>
+   Link:<a href="https://thedecisionlab.com/reference-guide/psychology/the-misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/the-misinformation-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Misinformation EffectThe misinformation effect happens when our memory for past events is altered after exposure to misleading inform...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/chapter/10.1007/978-1-4612-2868-4_5" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/chapter/10.1007/978-1-4612-2868-4_5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in Memory Induced by Postevent Informationby EF Loftus · Cited by 48 — When people encounter misleading information after they view an ev...</p></details>
+   Link:<a href="https://link.springer.com/chapter/10.1007/978" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/chapter/10.1007/978</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in Memory Induced by Postevent Informationby EF Loftus · Cited by 48 — When people encounter misleading information after they view an ev...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: epiren.medium.com  
-   Link: <a href="https://epiren.medium.com/when-bodies-tell-stories-the-mind-creates-understanding-mass-psychogenic-illness-759f663e9701" target="_blank" rel="noopener noreferrer nofollow">https://epiren.medium.com/when-bodies-tell-stories-the-mind-creates-understanding-mass-psychogenic-illness-759f663e9701</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bodies Tell Stories the Mind CreatesMass psychogenic illness offers a window into the complex relationships between mind, body, and socie...</p></details>
+   Link:<a href="https://epiren.medium.com/when-bodies-tell-stories-the-mind-creates-understanding-mass-psychogenic-illness-759f663e9701" target="_blank" rel="noopener noreferrer nofollow">https://epiren.medium.com/when-bodies-tell-stories-the-mind-creates-understanding-mass-psychogenic-illness-759f663e9701</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bodies Tell Stories the Mind CreatesMass psychogenic illness offers a window into the complex relationships between mind, body, and socie...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
    Title: 254899688 Misinformation Effects and the Suggestibility of Eyewitness Memory  
-   Link: <a href="https://www.researchgate.net/publication/254899688_Misinformation_Effects_and_the_Suggestibility_of_Eyewitness_Memory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/254899688_Misinformation_Effects_and_the_Suggestibility_of_Eyewitness_Memory</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Misinformation Effects and the Suggestibility of...3 Jun 2015 — In the misinformation paradigm, exposure to misleading post-event...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/254899688_Misinformation_Effects_and_the_Suggestibility_of_Eyewitness_Memory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/254899688_Misinformation_Effects_and_the_Suggestibility_of_Eyewitness_Memory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Misinformation Effects and the Suggestibility of...3 Jun 2015 — In the misinformation paradigm, exposure to misleading post-event...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: abdn.elsevierpure.com  
    Title: from the archive memory conformity can eyewitnesses influence eac  
-   Link: <a href="https://abdn.elsevierpure.com/en/publications/from-the-archive-memory-conformity-can-eyewitnesses-influence-eac/" target="_blank" rel="noopener noreferrer nofollow">https://abdn.elsevierpure.com/en/publications/from-the-archive-memory-conformity-can-eyewitnesses-influence-eac/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aberdeen Research PortalCan eyewitnesses influence each other&#x27;s memories for an...by F Gabbert · 2011 — The paper was the first to exten...</p></details>
+   Link:<a href="https://abdn.elsevierpure.com/en/publications/from-the-archive-memory-conformity-can-eyewitnesses-influence-eac/" target="_blank" rel="noopener noreferrer nofollow">https://abdn.elsevierpure.com/en/publications/from-the-archive-memory-conformity-can-eyewitnesses-influence-eac/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aberdeen Research PortalCan eyewitnesses influence each other&#x27;s memories for an...by F Gabbert · 2011 — The paper was the first to exten...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/227963134_Misleading_postevent_information_and_working_memory_capacity_An_individual_differences_approach_to_eyewitness_memory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227963134_Misleading_postevent_information_and_working_memory_capacity_An_individual_differences_approach_to_eyewitness_memory</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>elate to the effect of misleading postevent information on memory for the...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/227963134_Misleading_postevent_information_and_working_memory_capacity_An_individual_differences_approach_to_eyewitness_memory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227963134_Misleading_postevent_information_and_working_memory_capacity_An_individual_differences_approach_to_eyewitness_memory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>elate to the effect of misleading postevent information on memory for the...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: journals.lww.com  
    Title: the unidentified aerial phenomena between.1.aspx  
-   Link: <a href="https://journals.lww.com/tpsy/fulltext/2025/10000/the_unidentified_aerial_phenomena_between.1.aspx" target="_blank" rel="noopener noreferrer nofollow">https://journals.lww.com/tpsy/fulltext/2025/10000/the_unidentified_aerial_phenomena_between.1.aspx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LWW JournalsThe Unidentified Aerial Phenomena between Sociocultural...by F Pérez-Fernández · 2025 · Cited by 1 — The case history of what...</p></details>
+   Link:<a href="https://journals.lww.com/tpsy/fulltext/2025/10000/the_unidentified_aerial_phenomena_between.1.aspx" target="_blank" rel="noopener noreferrer nofollow">https://journals.lww.com/tpsy/fulltext/2025/10000/the_unidentified_aerial_phenomena_between.1.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LWW JournalsThe Unidentified Aerial Phenomena between Sociocultural...by F Pérez-Fernández · 2025 · Cited by 1 — The case history of what...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: tutor2u.net  
    Title: Misleading Information – Post-event Discussion  
-   Link: <a href="https://www.tutor2u.net/psychology/reference/misleading-information-post-event-discussion?srsltid=AfmBOooSJjQXyjQTc4ZoVjf-kYe9wEiIiXd_jwlV4VIoDfbsG1HAp_Tr" target="_blank" rel="noopener noreferrer nofollow">https://www.tutor2u.net/psychology/reference/misleading-information-post-event-discussion?srsltid=AfmBOooSJjQXyjQTc4ZoVjf-kYe9wEiIiXd_jwlV4VIoDfbsG1HAp_Tr</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(2003) investigated the effect of post-event discussion on the accuracy of eyewitness testimony. Her sample consisted of 60 students from...</p></details>
+   Link:<a href="https://www.tutor2u.net/psychology/reference/misleading-information-post-event-discussion?srsltid=AfmBOooSJjQXyjQTc4ZoVjf-kYe9wEiIiXd_jwlV4VIoDfbsG1HAp_Tr" target="_blank" rel="noopener noreferrer nofollow">https://www.tutor2u.net/psychology/reference/misleading-information-post-event-discussion?srsltid=AfmBOooSJjQXyjQTc4ZoVjf-kYe9wEiIiXd_jwlV4VIoDfbsG1HAp_Tr</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(2003) investigated the effect of post-event discussion on the accuracy of eyewitness testimony. Her sample consisted of 60 students from...</p></details>

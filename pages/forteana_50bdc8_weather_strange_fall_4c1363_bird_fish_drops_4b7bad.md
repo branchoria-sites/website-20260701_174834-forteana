@@ -274,15 +274,15 @@ image: /assets/images/forteana_50bdc8_weather_strange_fall_4c1363_bird_fish_drop
 
 ## Introduction
 
-Not every report of fish appearing on roads, lawns or rooftops after a storm requires a waterspout or tornado. In some cases, a simpler explanation is that fish-eating birds were startled into dropping or regurgitating their catch. Storms can flush birds from perches, disrupt feeding flights or force sudden evasive manoeuvres, causing fish to fall from relatively low altitude. The result may look like a miniature "rain of fish", especially if witnesses discover the fish only after the storm has passed. This mechanism does not explain every reported fish fall, but it provides a well-supported alternative for localised incidents, particularly where only a handful of fish are involved or where the fish show signs of having been carried by birds rather than transported by violent [weather]({{ 'weather/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/browse-all-questions/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">According to William Hayden Smith of Washington University, this makes sense</span><span class="citation-popover-snippet">The Library of CongressCan it rain frogs, fish, and other objects?When it rains frogs or fishes, witnesses report only fish or only frogs...</span></span></span>
+Not every report of fish appearing on roads, lawns or rooftops after a storm requires a waterspout or tornado. In some cases, a simpler explanation is that fish-eating birds were startled into dropping or regurgitating their catch. Storms can flush birds from perches, disrupt feeding flights or force sudden evasive manoeuvres, causing fish to fall from relatively low altitude. The result may look like a miniature "rain of fish", especially if witnesses discover the fish only after the storm has passed. This mechanism does not explain every reported fish fall, but it provides a well-supported alternative for localised incidents, particularly where only a handful of fish are involved or where the fish show signs of having been carried by birds rather than transported by violent [weather]({{ 'weather/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/browse-all-questions/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">According to William Hayden Smith of Washington University, this makes sense</span><span class="citation-popover-snippet">The Library of CongressCan it rain frogs, fish, and other objects?When it rains frogs or fishes, witnesses report only fish or only frogs...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_weather_strange_fall_4c1363_bird_fish_drops_4b7bad-Illustration-1-dark.svg" | relative_url }}" alt="Bird Drops illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_weather_strange_fall_4c1363_bird_fish_drops_4b7bad-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_weather_strange_fall_4c1363_bird_fish_drops_4b7bad-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How birds carry and expel fish
 
-Many birds routinely transport fish through the air. Cormorants, pelicans, gulls, herons, ospreys and eagles all carry prey from feeding areas to roosts, nests or safer places to eat. Some swallow fish immediately, while others hold them in the bill or talons before consuming them. Fish may be dropped accidentally if another bird attacks, if the carrier is startled, or if it needs to lighten its load during difficult flight. Fish may also be regurgitated as part of a stress response or because an oversized meal cannot be swallowed safely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.scot/publications/analysis-bird-stomach-contents-final-report-goosander-cormorant-diet-four-scottish-rivers-2019-2020/pages/2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gov.scot">[Scottish Government+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gov.scot</span><span class="citation-popover-title">Scottish Government Bird stomach contents analysis</span><span class="citation-popover-snippet">Scottish GovernmentBird stomach contents analysis - final report: Goosander...September 21, 2022 — 21 Sept 2022 — This study analysed th...</span><span class="citation-popover-meta">Published: September 21, 2022</span></span></span>
+Many birds routinely transport fish through the air. Cormorants, pelicans, gulls, herons, ospreys and eagles all carry prey from feeding areas to roosts, nests or safer places to eat. Some swallow fish immediately, while others hold them in the bill or talons before consuming them. Fish may be dropped accidentally if another bird attacks, if the carrier is startled, or if it needs to lighten its load during difficult flight. Fish may also be regurgitated as part of a stress response or because an oversized meal cannot be swallowed safely.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.scot/publications/analysis-bird-stomach-contents-final-report-goosander-cormorant-diet-four-scottish-rivers-2019-2020/pages/2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gov.scot">[Scottish Government+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gov.scot</span><span class="citation-popover-title">Scottish Government Bird stomach contents analysis</span><span class="citation-popover-snippet">Scottish GovernmentBird stomach contents analysis - final report: Goosander...September 21, 2022 — 21 Sept 2022 — This study analysed th...</span><span class="citation-popover-meta">Published: September 21, 2022</span></span></span>
 
-This behaviour is well documented in ornithology. Fish-eating birds regularly regurgitate partially digested food to feed their young, demonstrating that expelling fish is a normal biological process rather than an extraordinary event. Stress, disturbance or sudden escape manoeuvres can trigger similar responses outside the nesting context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cormorant" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+This behaviour is well documented in ornithology. Fish-eating birds regularly regurgitate partially digested food to feed their young, demonstrating that expelling fish is a normal biological process rather than an extraordinary event. Stress, disturbance or sudden escape manoeuvres can trigger similar responses outside the nesting context.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cormorant" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yenMbmILJtw" title="Does It Really Rain Fish in Honduras? (Lluvia de Peces)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yenMbmILJtw" target="_blank" rel="noopener noreferrer">Does It Really Rain Fish in Honduras? (Lluvia de Peces)</a></p><p class="youtube-embed-meta">Channel: Smartest Year Ever</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yenMbmILJtw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yenMbmILJtw">Open on YouTube</a></p></div></div></div>
@@ -303,7 +303,7 @@ The most important mechanisms include:
 
 </div>
 
-Unlike a waterspout, this process needs no powerful atmospheric lifting. The fish have already been removed from the water by the bird, and the storm merely interrupts the final stage of transport. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nbcdfw.com/news/local/texas-news/scientists-figured-out-why-fish-fell-from-the-sky-in-texarkana-and-its-pretty-gross/2998046/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nbcdfw.com">[NBC 5 Dallas-Fort Worth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nbcdfw.com</span><span class="citation-popover-snippet">NBC 5 Dallas-Fort WorthScientists Figured Out Why Fish Fell From the Sky in...22 Jun 2022 — Two independent researchers say they may hav...</span></span></span>
+Unlike a waterspout, this process needs no powerful atmospheric lifting. The fish have already been removed from the water by the bird, and the storm merely interrupts the final stage of transport.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nbcdfw.com/news/local/texas-news/scientists-figured-out-why-fish-fell-from-the-sky-in-texarkana-and-its-pretty-gross/2998046/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nbcdfw.com">[NBC 5 Dallas-Fort Worth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nbcdfw.com</span><span class="citation-popover-snippet">NBC 5 Dallas-Fort WorthScientists Figured Out Why Fish Fell From the Sky in...22 Jun 2022 — Two independent researchers say they may hav...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Z5bwIkwx7Es" title="Bird drops fish on driver&#x27;s windshield" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Z5bwIkwx7Es" target="_blank" rel="noopener noreferrer">Bird drops fish on driver&#x27;s windshield</a></p><p class="youtube-embed-meta">Channel: ABC24 Memphis</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Z5bwIkwx7Es" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Z5bwIkwx7Es">Open on YouTube</a></p></div></div></div>
@@ -321,12 +321,12 @@ A bird explanation becomes more convincing when observers find:
 * fish beneath known flight paths, nesting colonies or roosts;
 * partially digested fish or damaged scales;
 * puncture marks from talons or compression marks from a bill;
-* species commonly taken by local fish-eating birds; <span class="citation-chip-wrap"><a class="citation-chip" href="https://assets.publishing.service.gov.uk/media/5a7983d0e5274a3864fd7a31/impacts-predation-fish-eating-birds.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[assets.publishing.service.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">of Predation by Fish-Eating Birds on Inland...• To gather evidence on the current impact of fish-eating bird predation on inland fish st...</span></span></span>
+* species commonly taken by local fish-eating birds;<span class="citation-chip-wrap"><a class="citation-chip" href="https://assets.publishing.service.gov.uk/media/5a7983d0e5274a3864fd7a31/impacts-predation-fish-eating-birds.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[assets.publishing.service.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">of Predation by Fish-Eating Birds on Inland...• To gather evidence on the current impact of fish-eating bird predation on inland fish st...</span></span></span>
 * no accompanying mud, aquatic vegetation or other storm-carried debris.
 
 </div>
 
-Conversely, reports involving large numbers of fresh, undamaged fish scattered over a broader area during severe storms may fit other mechanisms more closely, although each case still requires independent investigation. The Library of Congress notes that many apparent animal rains have more than one plausible explanation, and nearby wildlife behaviour should always be considered alongside meteorological causes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/browse-all-questions/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">According to William Hayden Smith of Washington University, this makes sense</span><span class="citation-popover-snippet">The Library of CongressCan it rain frogs, fish, and other objects?When it rains frogs or fishes, witnesses report only fish or only frogs...</span></span></span>
+Conversely, reports involving large numbers of fresh, undamaged fish scattered over a broader area during severe storms may fit other mechanisms more closely, although each case still requires independent investigation. The Library of Congress notes that many apparent animal rains have more than one plausible explanation, and nearby wildlife behaviour should always be considered alongside meteorological causes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/browse-all-questions/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">According to William Hayden Smith of Washington University, this makes sense</span><span class="citation-popover-snippet">The Library of CongressCan it rain frogs, fish, and other objects?When it rains frogs or fishes, witnesses report only fish or only frogs...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_weather_strange_fall_4c1363_bird_fish_drops_4b7bad-Illustration-2-dark.svg" | relative_url }}" alt="Bird Drops illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_weather_strange_fall_4c1363_bird_fish_drops_4b7bad-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_weather_strange_fall_4c1363_bird_fish_drops_4b7bad-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -334,7 +334,7 @@ Conversely, reports involving large numbers of fresh, undamaged fish scattered o
 
 A well-known illustration came from Texarkana, Texas, in December 2021, when numerous people reported fish falling during stormy weather. Initial media coverage largely favoured the familiar waterspout explanation because "animal rain" has long been associated with tornadoes and powerful updraughts.
 
-Subsequent examination by independent researchers proposed a different interpretation. Airport personnel reported that many recovered fish appeared chewed or damaged rather than freshly lifted from water, and fish-eating birds had been active in the area. Researchers argued that at least some of the fish were more consistent with being dropped or regurgitated by birds than transported through the atmosphere by a vortex. The case illustrates how a dramatic weather event can encourage a meteorological explanation even when biological evidence deserves equal attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nbcdfw.com/news/local/texas-news/scientists-figured-out-why-fish-fell-from-the-sky-in-texarkana-and-its-pretty-gross/2998046/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nbcdfw.com">[NBC 5 Dallas-Fort Worth+2Dallas News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nbcdfw.com</span><span class="citation-popover-snippet">NBC 5 Dallas-Fort WorthScientists Figured Out Why Fish Fell From the Sky in...22 Jun 2022 — Two independent researchers say they may hav...</span></span></span>
+Subsequent examination by independent researchers proposed a different interpretation. Airport personnel reported that many recovered fish appeared chewed or damaged rather than freshly lifted from water, and fish-eating birds had been active in the area. Researchers argued that at least some of the fish were more consistent with being dropped or regurgitated by birds than transported through the atmosphere by a vortex. The case illustrates how a dramatic weather event can encourage a meteorological explanation even when biological evidence deserves equal attention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nbcdfw.com/news/local/texas-news/scientists-figured-out-why-fish-fell-from-the-sky-in-texarkana-and-its-pretty-gross/2998046/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nbcdfw.com">[NBC 5 Dallas-Fort Worth+2Dallas News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nbcdfw.com</span><span class="citation-popover-snippet">NBC 5 Dallas-Fort WorthScientists Figured Out Why Fish Fell From the Sky in...22 Jun 2022 — Two independent researchers say they may hav...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_weather_strange_fall_4c1363_bird_fish_drops_4b7bad-Illustration-3-dark.svg" | relative_url }}" alt="Bird Drops illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_weather_strange_fall_4c1363_bird_fish_drops_4b7bad-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_weather_strange_fall_4c1363_bird_fish_drops_4b7bad-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -344,201 +344,201 @@ Within [Forteana]({{ 'forteana/' | relative_url }}), bird drops demonstrate why 
 
 This does not eliminate the possibility that some reported fish falls involve [waterspouts]({{ 'waterspouts/' | relative_url }}) or other atmospheric transport. Instead, it widens the range of evidence that should be examined. Investigators can ask whether local fish-eating birds were present, whether the fish bear feeding damage, whether nearby nesting or roosting sites exist, and whether the distribution matches individual bird movements rather than a descending column of storm debris.
 
-Bird-related fish drops therefore occupy an important place among weather-associated anomalies: they show that unusual post-storm discoveries can arise from interactions between wildlife and weather, even when the atmosphere itself never carried the fish. The Library of Congress+2NBC 5 Dallas-Fort Worth <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/browse-all-questions/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[loc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">According to William Hayden Smith of Washington University, this makes sense</span><span class="citation-popover-snippet">The Library of CongressCan it rain frogs, fish, and other objects?When it rains frogs or fishes, witnesses report only fish or only frogs...</span></span></span>
+Bird-related fish drops therefore occupy an important place among weather-associated anomalies: they show that unusual post-storm discoveries can arise from interactions between wildlife and weather, even when the atmosphere itself never carried the fish. The Library of Congress+2NBC 5 Dallas-Fort Worth<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/browse-all-questions/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[loc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">According to William Hayden Smith of Washington University, this makes sense</span><span class="citation-popover-snippet">The Library of CongressCan it rain frogs, fish, and other objects?When it rains frogs or fishes, witnesses report only fish or only frogs...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FbJc56QXE-w" title="Bird Drops Fish in Backyard While Flying Low - 1412496" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FbJc56QXE-w" target="_blank" rel="noopener noreferrer">Bird Drops Fish in Backyard While Flying Low - 1412496</a></p><p class="youtube-embed-meta">Channel: RM Videos</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FbJc56QXE-w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FbJc56QXE-w">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Birds Explain Falling Fish. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Birds Explain Falling Fish. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weather For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LtoPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Weather For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
-        </h4>
-        <p class="fr-book-author">By John D. Cox</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weather For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LtoPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Weather For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
+</h4>
+<p class="fr-book-author">By John D. Cox</p>
         
-        <p class="fr-book-desc">Explains storms that may trigger fish drops.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains storms that may trigger fish drops.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+Unusual+Knowledge+Publications+International+Ltd.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of Unusual Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10860496-M.jpg" alt="Cover for The Book of Unusual Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Book+of+Unusual+Knowledge+Publications+International+Ltd.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Unusual Knowledge">The Book of Unusual Knowledge</a>
-        </h4>
-        <p class="fr-book-author">By Publications International Ltd.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+Unusual+Knowledge+Publications+International+Ltd.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of Unusual Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10860496-M.jpg" alt="Cover for The Book of Unusual Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Book+of+Unusual+Knowledge+Publications+International+Ltd.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Unusual Knowledge">The Book of Unusual Knowledge</a>
+</h4>
+<p class="fr-book-author">By Publications International Ltd.</p>
         
-        <p class="fr-book-desc">First published 2012. Subjects: Curiosities and wonders.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Book+of+Unusual+Knowledge+Publications+International+Ltd.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2012. Subjects: Curiosities and wonders.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Book+of+Unusual+Knowledge+Publications+International+Ltd.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Sibley+Guide+to+Bird+Life+and+Behavior+David+Allen+Sibley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sibley Guide to Bird Life and Behavior on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Sibley+Guide+to+Bird+Life+and+Behavior+David+Allen+Sibley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sibley Guide to Bird Life and Behavior">The Sibley Guide to Bird Life and Behavior</a>
-        </h4>
-        <p class="fr-book-author">By David Allen Sibley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Sibley+Guide+to+Bird+Life+and+Behavior+David+Allen+Sibley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sibley Guide to Bird Life and Behavior on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Sibley+Guide+to+Bird+Life+and+Behavior+David+Allen+Sibley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sibley Guide to Bird Life and Behavior">The Sibley Guide to Bird Life and Behavior</a>
+</h4>
+<p class="fr-book-author">By David Allen Sibley</p>
         
-        <p class="fr-book-desc">Explains feeding and prey-carrying behaviour.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Sibley+Guide+to+Bird+Life+and+Behavior+David+Allen+Sibley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains feeding and prey-carrying behaviour.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Sibley+Guide+to+Bird+Life+and+Behavior+David+Allen+Sibley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Unexplained%3A+An+Illustrated+Guide+to+the+World%27s+Natural+and+Paranormal+Mysteries+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Unexplained: An Illustrated Guide to the World&#x27;s Natural and Paranormal Mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Unexplained%3A+An+Illustrated+Guide+to+the+World%27s+Natural+and+Paranormal+Mysteries+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Unexplained: An Illustrated Guide to the World&#x27;s Natural and Paranormal Mysteries">The Unexplained: An Illustrated Guide to the World&#x27;s Natural...</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Unexplained%3A+An+Illustrated+Guide+to+the+World%27s+Natural+and+Paranormal+Mysteries+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Unexplained: An Illustrated Guide to the World&#x27;s Natural and Paranormal Mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Unexplained%3A+An+Illustrated+Guide+to+the+World%27s+Natural+and+Paranormal+Mysteries+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Unexplained: An Illustrated Guide to the World&#x27;s Natural and Paranormal Mysteries">The Unexplained: An Illustrated Guide to the World&#x27;s Natural...</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Covers anomalous animal-fall reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Unexplained%3A+An+Illustrated+Guide+to+the+World%27s+Natural+and+Paranormal+Mysteries+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers anomalous animal-fall reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Unexplained%3A+An+Illustrated+Guide+to+the+World%27s+Natural+and+Paranormal+Mysteries+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Weather+For+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weather For Dummies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+Unusual+Knowledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of Unusual Knowledge</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Sibley+to+Bird+Life+and+Behavior+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Sibley to Bird Life and Behavior books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Weather+For+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weather For Dummies</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+Unusual+Knowledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of Unusual Knowledge</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Sibley+to+Bird+Life+and+Behavior+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Sibley to Bird Life and Behavior books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print Fish Man Human Rain Umbrella Weird Strange Funny Ironic Out Of Water"><img src="{{ '/assets/images/marketplace-covers/83ba5668697ac14b9dab.jpg' | relative_url }}" alt="Listing image for Art Print Fish Man Human Rain Umbrella Weird Strange Funny Ironic Out Of Water" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">Art Print Fish Man Human Rain Umbrella Weird Strange Funny Ironic Out Of Water</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print Fish Man Human Rain Umbrella Weird Strange Funny Ironic Out Of Water"><img src="{{ '/assets/images/marketplace-covers/83ba5668697ac14b9dab.jpg' | relative_url }}" alt="Listing image for Art Print Fish Man Human Rain Umbrella Weird Strange Funny Ironic Out Of Water" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">Art Print Fish Man Human Rain Umbrella Weird Strange Funny Ironic Out Of Water</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Grinder fish rain clouds Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/9f733ce224aa6b0a4349.jpg' | relative_url }}" alt="Listing image for The Grinder fish rain clouds Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">The Grinder fish rain clouds Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Grinder fish rain clouds Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/9f733ce224aa6b0a4349.jpg' | relative_url }}" alt="Listing image for The Grinder fish rain clouds Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">The Grinder fish rain clouds Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print"><img src="{{ '/assets/images/marketplace-covers/c7769be80584af0e631f.jpg' | relative_url }}" alt="Listing image for Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print"><img src="{{ '/assets/images/marketplace-covers/c7769be80584af0e631f.jpg' | relative_url }}" alt="Listing image for Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for After The Rain Fjord Sea Boat Fishing Finnmark Norway Green Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/61d368165882a17db39e.jpg' | relative_url }}" alt="Listing image for After The Rain Fjord Sea Boat Fishing Finnmark Norway Green Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">After The Rain Fjord Sea Boat Fishing Finnmark Norway Green Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for After The Rain Fjord Sea Boat Fishing Finnmark Norway Green Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/61d368165882a17db39e.jpg' | relative_url }}" alt="Listing image for After The Rain Fjord Sea Boat Fishing Finnmark Norway Green Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">After The Rain Fjord Sea Boat Fishing Finnmark Norway Green Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="bird-drops-when-birds-explain-falling-fish-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -554,7 +554,7 @@ Bird-related fish drops therefore occupy an important place among weather-associ
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -574,7 +574,7 @@ Bird-related fish drops therefore occupy an important place among weather-associ
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -606,7 +606,7 @@ Bird-related fish drops therefore occupy an important place among weather-associ
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -658,7 +658,7 @@ Bird-related fish drops therefore occupy an important place among weather-associ
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -703,7 +703,7 @@ Bird-related fish drops therefore occupy an important place among weather-associ
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -744,106 +744,106 @@ Bird-related fish drops therefore occupy an important place among weather-associ
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Cormorant" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cormorant</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cormorant" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cormorant</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Great cormorant  
-   Link: <a href="https://en.wikipedia.org/wiki/Great_cormorant" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Great_cormorant</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Great_cormorant" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Great_cormorant</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Dalmatian pelican  
-   Link: <a href="https://en.wikipedia.org/wiki/Dalmatian_pelican" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dalmatian_pelican</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Dalmatian_pelican" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dalmatian_pelican</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Rain of animals  
-   Link: <a href="https://en.wikipedia.org/wiki/Rain_of_animals" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rain_of_animals</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rain of animalsSome cases are thought to be caused by birds dropping fish. With regard to a documented rain of fish that occurred on 2...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Rain_of_animals" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rain_of_animals</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rain of animalsSome cases are thought to be caused by birds dropping fish. With regard to a documented rain of fish that occurred on 2...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: loc.gov  
    Title: According to William Hayden Smith of Washington University, this makes sense  
-   Link: <a href="https://www.loc.gov/everyday-mysteries/browse-all-questions/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/everyday-mysteries/browse-all-questions/item/can-it-rain-frogs-fish-and-other-objects/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Library of CongressCan it rain frogs, fish, and other objects?When it rains frogs or fishes, witnesses report only fish or only frogs...</p></details>
+   Link:<a href="https://www.loc.gov/everyday-mysteries/browse-all-questions/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/everyday-mysteries/browse-all-questions/item/can-it-rain-frogs-fish-and-other-objects/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Library of CongressCan it rain frogs, fish, and other objects?When it rains frogs or fishes, witnesses report only fish or only frogs...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nbcdfw.com  
-   Link: <a href="https://www.nbcdfw.com/news/local/texas-news/scientists-figured-out-why-fish-fell-from-the-sky-in-texarkana-and-its-pretty-gross/2998046/" target="_blank" rel="noopener noreferrer nofollow">https://www.nbcdfw.com/news/local/texas-news/scientists-figured-out-why-fish-fell-from-the-sky-in-texarkana-and-its-pretty-gross/2998046/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NBC 5 Dallas-Fort WorthScientists Figured Out Why Fish Fell From the Sky in...22 Jun 2022 — Two independent researchers say they may hav...</p></details>
+   Link:<a href="https://www.nbcdfw.com/news/local/texas-news/scientists-figured-out-why-fish-fell-from-the-sky-in-texarkana-and-its-pretty-gross/2998046/" target="_blank" rel="noopener noreferrer nofollow">https://www.nbcdfw.com/news/local/texas-news/scientists-figured-out-why-fish-fell-from-the-sky-in-texarkana-and-its-pretty-gross/2998046/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NBC 5 Dallas-Fort WorthScientists Figured Out Why Fish Fell From the Sky in...22 Jun 2022 — Two independent researchers say they may hav...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: gov.scot  
    Title: Scottish Government Bird stomach contents analysis  
-   Link: <a href="https://www.gov.scot/publications/analysis-bird-stomach-contents-final-report-goosander-cormorant-diet-four-scottish-rivers-2019-2020/pages/2/" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.scot/publications/analysis-bird-stomach-contents-final-report-goosander-cormorant-diet-four-scottish-rivers-2019-2020/pages/2/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scottish GovernmentBird stomach contents analysis - final report: Goosander...September 21, 2022 — 21 Sept 2022 — This study analysed th...</p></details>
+   Link:<a href="https://www.gov.scot/publications/analysis-bird-stomach-contents-final-report-goosander-cormorant-diet-four-scottish-rivers-2019-2020/pages/2/" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.scot/publications/analysis-bird-stomach-contents-final-report-goosander-cormorant-diet-four-scottish-rivers-2019-2020/pages/2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scottish GovernmentBird stomach contents analysis - final report: Goosander...September 21, 2022 — 21 Sept 2022 — This study analysed th...</p></details>
    Published: September 21, 2022  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: dallasnews.com  
-   Link: <a href="https://www.dallasnews.com/news/2022/06/22/scientists-figured-out-why-fish-fell-from-the-sky-in-texarkana-and-its-pretty-gross/" target="_blank" rel="noopener noreferrer nofollow">https://www.dallasnews.com/news/2022/06/22/scientists-figured-out-why-fish-fell-from-the-sky-in-texarkana-and-its-pretty-gross/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers figured out why fish fell from the sky in...22 Jun 2022 — Two independent researchers say they may have gotten to the bottom...</p></details>
+   Link:<a href="https://www.dallasnews.com/news/2022/06/22/scientists-figured-out-why-fish-fell-from-the-sky-in-texarkana-and-its-pretty-gross/" target="_blank" rel="noopener noreferrer nofollow">https://www.dallasnews.com/news/2022/06/22/scientists-figured-out-why-fish-fell-from-the-sky-in-texarkana-and-its-pretty-gross/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers figured out why fish fell from the sky in...22 Jun 2022 — Two independent researchers say they may have gotten to the bottom...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7983d0e5274a3864fd7a31/impacts-predation-fish-eating-birds.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7983d0e5274a3864fd7a31/impacts-predation-fish-eating-birds.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of Predation by Fish-Eating Birds on Inland...• To gather evidence on the current impact of fish-eating bird predation on inland fish st...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7983d0e5274a3864fd7a31/impacts-predation-fish-eating-birds.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7983d0e5274a3864fd7a31/impacts-predation-fish-eating-birds.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Predation by Fish-Eating Birds on Inland...• To gather evidence on the current impact of fish-eating bird predation on inland fish st...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: rspb.org.uk  
-   Link: <a href="https://www.rspb.org.uk/wales/news/the-future-of-fish-eating-birds" target="_blank" rel="noopener noreferrer nofollow">https://www.rspb.org.uk/wales/news/the-future-of-fish-eating-birds</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The future of fish-eating birdsThe Fish-eating Birds Advisory Group looked at two species of birds: Cormorant and Goosander, and how thes...</p></details>
+   Link:<a href="https://www.rspb.org.uk/wales/news/the-future-of-fish-eating-birds" target="_blank" rel="noopener noreferrer nofollow">https://www.rspb.org.uk/wales/news/the-future-of-fish-eating-birds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The future of fish-eating birdsThe Fish-eating Birds Advisory Group looked at two species of birds: Cormorant and Goosander, and how thes...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: newsweek.com  
    Title: According to the Library of Congress, in strong storms, updrafts can exceed  
-   Link: <a href="https://www.newsweek.com/raining-fish-explained-storm-brings-fish-falling-sky-texas-1664747" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/raining-fish-explained-storm-brings-fish-falling-sky-texas-1664747</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Raining Fish&#x27; Explained: Fish Falling From Sky in Rare...31 Dec 2021 — Updrafts can also sweep up small animals and cause animal rain...</p></details>
+   Link:<a href="https://www.newsweek.com/raining-fish-explained-storm-brings-fish-falling-sky-texas-1664747" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/raining-fish-explained-storm-brings-fish-falling-sky-texas-1664747</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Raining Fish&#x27; Explained: Fish Falling From Sky in Rare...31 Dec 2021 — Updrafts can also sweep up small animals and cause animal rain...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Weird/comments/12i3mv7/a_halfeaten_fish_randomly_fell_from_the_sky_onto/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Weird/comments/12i3mv7/a_halfeaten_fish_randomly_fell_from_the_sky_onto/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Feel free to Google it. A lot of birds eat mid air, holding the prey item with their feet.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/Weird/comments/12i3mv7/a_halfeaten_fish_randomly_fell_from_the_sky_onto/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Weird/comments/12i3mv7/a_halfeaten_fish_randomly_fell_from_the_sky_onto/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Feel free to Google it. A lot of birds eat mid air, holding the prey item with their feet.Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: wildtrout.org  
-   Link: <a href="https://www.wildtrout.org/assets/files/advice/Avian%20predation%20information%20paper%20-%2014022013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.wildtrout.org/assets/files/advice/Avian%20predation%20information%20paper%20-%2014022013.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bottom-up influences arise from environmental conditions; for example...Read more...</p></details>
+   Link:<a href="https://www.wildtrout.org/assets/files/advice/Avian%20predation%20information%20paper%20-%2014022013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.wildtrout.org/assets/files/advice/Avian%20predation%20information%20paper%20-%2014022013.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bottom-up influences arise from environmental conditions; for example...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: mystery solved birds were throwing up fish in texas  
-   Link: <a href="https://www.facebook.com/WATE6OnYourSide/posts/mystery-solved-birds-were-throwing-up-fish-in-texas/401769705321690/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WATE6OnYourSide/posts/mystery-solved-birds-were-throwing-up-fish-in-texas/401769705321690/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery solved: Birds were throwing up fish in Texas.25 Jun 2022 — The phenomenon, known as “animal rain,” occurred on 29th December in t...</p></details>
+   Link:<a href="https://www.facebook.com/WATE6OnYourSide/posts/mystery-solved-birds-were-throwing-up-fish-in-texas/401769705321690/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WATE6OnYourSide/posts/mystery-solved-birds-were-throwing-up-fish-in-texas/401769705321690/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery solved: Birds were throwing up fish in Texas.25 Jun 2022 — The phenomenon, known as “animal rain,” occurred on 29th December in t...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/paragenetics/videos/how-a-cormorant-swallows-massive-fish-whole-incredible-animal-behavior/1581576373358153/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/paragenetics/videos/how-a-cormorant-swallows-massive-fish-whole-incredible-animal-behavior/1581576373358153/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>break down food, cormorants possess a highly stretchable esophagus...</p></details>
+   Link:<a href="https://www.facebook.com/paragenetics/videos/how-a-cormorant-swallows-massive-fish-whole-incredible-animal-behavior/1581576373358153/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/paragenetics/videos/how-a-cormorant-swallows-massive-fish-whole-incredible-animal-behavior/1581576373358153/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>break down food, cormorants possess a highly stretchable esophagus...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: news.com.au  
-   Link: <a href="https://www.news.com.au/technology/science/animals/fish-fall-from-sky-in-rare-weather-phenomenon/news-story/025f11b43e6369c8bd3820ec2c28b66c" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/technology/science/animals/fish-fall-from-sky-in-rare-weather-phenomenon/news-story/025f11b43e6369c8bd3820ec2c28b66c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fish fall from sky in rare weather phenomenon5 Jan 2022 — In a rare weather phenomenon known as &#x27;animal rain&#x27;, fish have fallen from the...</p></details>
+   Link:<a href="https://www.news.com.au/technology/science/animals/fish-fall-from-sky-in-rare-weather-phenomenon/news-story/025f11b43e6369c8bd3820ec2c28b66c" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/technology/science/animals/fish-fall-from-sky-in-rare-weather-phenomenon/news-story/025f11b43e6369c8bd3820ec2c28b66c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fish fall from sky in rare weather phenomenon5 Jan 2022 — In a rare weather phenomenon known as &#x27;animal rain&#x27;, fish have fallen from the...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: patriciamcconnell.com  
    Title: Fish Falling From the Sky  
-   Link: <a href="https://www.patriciamcconnell.com/theotherendoftheleash/fish-falling-from-the-sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.patriciamcconnell.com/theotherendoftheleash/fish-falling-from-the-sky/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>McConnell Publishing Inc.16 Mar 2015 — Imagine John&#x27;s surprise when he went outside early in the morning to pick up a dish pan, and a fis...</p></details>
+   Link:<a href="https://www.patriciamcconnell.com/theotherendoftheleash/fish-falling-from-the-sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.patriciamcconnell.com/theotherendoftheleash/fish-falling-from-the-sky/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>McConnell Publishing Inc.16 Mar 2015 — Imagine John&#x27;s surprise when he went outside early in the morning to pick up a dish pan, and a fis...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: star-telegram.com  
    Title: Raining fish in Texas?  
-   Link: <a href="https://www.star-telegram.com/news/nation-world/national/article256938007.html" target="_blank" rel="noopener noreferrer nofollow">https://www.star-telegram.com/news/nation-world/national/article256938007.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s behind rare animal...30 Dec 2021 — “&#x27;Animal rain&#x27; is a real weather phenomenon that happens when small animals get swept up in wa...</p></details>
+   Link:<a href="https://www.star-telegram.com/news/nation-world/national/article256938007.html" target="_blank" rel="noopener noreferrer nofollow">https://www.star-telegram.com/news/nation-world/national/article256938007.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s behind rare animal...30 Dec 2021 — “&#x27;Animal rain&#x27; is a real weather phenomenon that happens when small animals get swept up in wa...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: spo.nmfs.noaa.gov  
-   Link: <a href="https://spo.nmfs.noaa.gov/Fishery%20Leaflets/leaflet513.pdf" target="_blank" rel="noopener noreferrer nofollow">https://spo.nmfs.noaa.gov/Fishery%20Leaflets/leaflet513.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NMFS Scientific Publications OfficeRAINS OF FISHESby BOFC FISHERIES · 1961 — During violent thunderstorms and heavy rains, objects which...</p></details>
+   Link:<a href="https://spo.nmfs.noaa.gov/Fishery%20Leaflets/leaflet513.pdf" target="_blank" rel="noopener noreferrer nofollow">https://spo.nmfs.noaa.gov/Fishery%20Leaflets/leaflet513.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NMFS Scientific Publications OfficeRAINS OF FISHESby BOFC FISHERIES · 1961 — During violent thunderstorms and heavy rains, objects which...</p></details>

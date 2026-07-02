@@ -447,7 +447,7 @@ image: /assets/images/forteana_50bdc8_crop_circles_hoaxes_18d275-overview-social
 
 ## Introduction
 
-Crop circles became a modern Fortean mystery because they joined three things that usually pull in different directions: visible physical traces, obvious human mischief, and a persistent feeling that the landscape had been briefly enchanted. The strongest evidence points to human making: the best-known modern wave was publicly exposed in 1991 when Doug Bower and Dave Chorley said they had made hundreds of formations in southern England, and later demonstrations showed that sophisticated patterns could be made with simple tools, planning and darkness. Yet exposure did not end the fascination. It changed the mystery from “Who or what made these?” into “Why did so many people still want them to mean more?” Los Angeles Times+2Rupert Sheldrake – Author and Biologist <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/archives/la-xpm-1991-09-10-mn-2463-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[latimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">Los Angeles Times&#x27;Crop Circles&#x27; Their Prank, 2 Britons Say: Hoax</span><span class="citation-popover-snippet">September 10, 1991 — 10 Sept 1991 — British painters Doug Bower and Dave Chorley, 62, claimed that for 13 years, they have been responsib...</span><span class="citation-popover-meta">Published: September 10, 1991</span></span></span>
+Crop circles became a modern Fortean mystery because they joined three things that usually pull in different directions: visible physical traces, obvious human mischief, and a persistent feeling that the landscape had been briefly enchanted. The strongest evidence points to human making: the best-known modern wave was publicly exposed in 1991 when Doug Bower and Dave Chorley said they had made hundreds of formations in southern England, and later demonstrations showed that sophisticated patterns could be made with simple tools, planning and darkness. Yet exposure did not end the fascination. It changed the mystery from “Who or what made these?” into “Why did so many people still want them to mean more?” Los Angeles Times+2Rupert Sheldrake – Author and Biologist<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/archives/la-xpm-1991-09-10-mn-2463-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[latimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">Los Angeles Times&#x27;Crop Circles&#x27; Their Prank, 2 Britons Say: Hoax</span><span class="citation-popover-snippet">September 10, 1991 — 10 Sept 1991 — British painters Doug Bower and Dave Chorley, 62, claimed that for 13 years, they have been responsib...</span><span class="citation-popover-meta">Published: September 10, 1991</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_crop_circles_hoaxes_18d275-overview.webp" | relative_url }}" alt="Overview image for Crop Circles" loading="eager" decoding="sync" fetchpriority="high">
@@ -457,7 +457,7 @@ That makes crop circles a useful Fortean case. They are not best understood as a
 
 A crop circle is a pattern made by flattening a standing crop, usually a cereal crop such as wheat or barley. Early popular reports focused on simple circular patches; later formations became elaborate pictograms, grids, spirals, symbolic figures and mathematically suggestive designs. This shift matters because the phenomenon’s evidential force depended on a very direct impression: something large, neat and apparently sudden had appeared in a field overnight.
 
-For Fortean readers, the key feature is not merely that the patterns looked strange. It is that they occupied ordinary farmland while seeming to speak the visual language of geometry, ritual sites and aerial signs. Many famous English formations appeared in [Wiltshire]({{ 'wiltshire/' | relative_url }}), Hampshire and nearby counties, an area already thick with prehistoric monuments and alternative-spiritual [tourism]({{ 'tourism/' | relative_url }}). A geographical study of 2002 English crop circles found that reported formations were highly clustered, especially around cultural heritage sites such as Avebury, near more densely populated areas, and along major road corridors. That distribution is much easier to reconcile with human access, visibility and tourism than with an unknown natural or extraterrestrial process. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.siue.edu/GEOGRAPHY/ONLINE/Northcote06.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: siue.edu">[siue.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">siue.edu</span><span class="citation-popover-title">Spatial distribution of England&#x27;s crop circles</span><span class="citation-popover-snippet">Spatial distribution of England&#x27;s crop circles</span></span></span>
+For Fortean readers, the key feature is not merely that the patterns looked strange. It is that they occupied ordinary farmland while seeming to speak the visual language of geometry, ritual sites and aerial signs. Many famous English formations appeared in [Wiltshire]({{ 'wiltshire/' | relative_url }}), Hampshire and nearby counties, an area already thick with prehistoric monuments and alternative-spiritual [tourism]({{ 'tourism/' | relative_url }}). A geographical study of 2002 English crop circles found that reported formations were highly clustered, especially around cultural heritage sites such as Avebury, near more densely populated areas, and along major road corridors. That distribution is much easier to reconcile with human access, visibility and tourism than with an unknown natural or extraterrestrial process.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.siue.edu/GEOGRAPHY/ONLINE/Northcote06.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: siue.edu">[siue.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">siue.edu</span><span class="citation-popover-title">Spatial distribution of England&#x27;s crop circles</span><span class="citation-popover-snippet">Spatial distribution of England&#x27;s crop circles</span></span></span>
 
 The location pattern also explains why crop circles became so potent. A design near Avebury or Silbury Hill does not arrive as a neutral agricultural anomaly. It appears inside a landscape already read by visitors through archaeology, [folklore]({{ 'folklore/' | relative_url }}), ley-line speculation and New Age pilgrimage. Even a human-made formation can feel more charged when it lies beside older monuments whose builders are remote and partly mysterious.
 
@@ -467,15 +467,15 @@ The aerial viewpoint made the mystery stronger. From the ground, a circle could 
 <img src="{{ "/assets/images/forteana_50bdc8_crop_circles_hoaxes_18d275-Illustration-1-dark.svg" | relative_url }}" alt="Crop Circles illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_crop_circles_hoaxes_18d275-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_crop_circles_hoaxes_18d275-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Hoaxes and human makers
 
-The modern crop-circle story is inseparable from Doug Bower and Dave Chorley. In September 1991, the two British men said they had been making crop circles for 13 years in southern England. Contemporary reporting described them as painters who had used simple means and presented their actions as a long-running prank; the *Los Angeles Times* reported that they claimed responsibility for circles first appearing in southern England and that crop-circle writer Pat Delgado initially judged a demonstrated formation as beyond human making before the hoax was revealed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/archives/la-xpm-1991-09-10-mn-2463-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">Los Angeles Times&#x27;Crop Circles&#x27; Their Prank, 2 Britons Say: Hoax</span><span class="citation-popover-snippet">September 10, 1991 — 10 Sept 1991 — British painters Doug Bower and Dave Chorley, 62, claimed that for 13 years, they have been responsib...</span><span class="citation-popover-meta">Published: September 10, 1991</span></span></span>
+The modern crop-circle story is inseparable from Doug Bower and Dave Chorley. In September 1991, the two British men said they had been making crop circles for 13 years in southern England. Contemporary reporting described them as painters who had used simple means and presented their actions as a long-running prank; the *Los Angeles Times* reported that they claimed responsibility for circles first appearing in southern England and that crop-circle writer Pat Delgado initially judged a demonstrated formation as beyond human making before the hoax was revealed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/archives/la-xpm-1991-09-10-mn-2463-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">Los Angeles Times&#x27;Crop Circles&#x27; Their Prank, 2 Britons Say: Hoax</span><span class="citation-popover-snippet">September 10, 1991 — 10 Sept 1991 — British painters Doug Bower and Dave Chorley, 62, claimed that for 13 years, they have been responsib...</span><span class="citation-popover-meta">Published: September 10, 1991</span></span></span>
 
 Their method was important because it was almost disappointingly simple. Accounts of Bower and Chorley describe the use of planks, rope and a sighting device attached to a cap to keep lines straight. That simplicity undercut one of the core arguments for mystery: that precision implied an advanced non-human cause. Later makers refined the same basic principle. A rope fixes a radius; a board or “stomper” flattens stalks; pre-planned geometry turns a field into a temporary drawing surface.
 
 The exposure did not prove that Bower and Chorley made every formation. It did something more damaging to paranormal certainty: it showed that at least some circles judged impressive by enthusiasts could be made by people, under ordinary constraints, and then misread by investigators. Once that possibility was established, complexity alone could no longer carry the evidential weight it had carried in the 1980s.
 
-Public tests reinforced the point. Rupert Sheldrake’s account of a crop-circle-making competition co-sponsored by *The Guardian* and *The Cerealogist* describes a 1992 event in which teams were given a difficult design and a night-time time limit; the winning team used items such as rope, PVC pipe, a plank, string, a telescopic device and stepladders. Sheldrake concluded that humans could reproduce the main features of state-of-the-art formations at that time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sheldrake.org/essays/the-crop-circle-making-competition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sheldrake.org">[Rupert Sheldrake – Author and Biologist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sheldrake.org</span><span class="citation-popover-snippet">Rupert Sheldrake – Author and BiologistThe Crop Circle Making Competition - Rupert SheldrakeThe competition was co-sponsored by The Guard...</span></span></span>
+Public tests reinforced the point. Rupert Sheldrake’s account of a crop-circle-making competition co-sponsored by *The Guardian* and *The Cerealogist* describes a 1992 event in which teams were given a difficult design and a night-time time limit; the winning team used items such as rope, PVC pipe, a plank, string, a telescopic device and stepladders. Sheldrake concluded that humans could reproduce the main features of state-of-the-art formations at that time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sheldrake.org/essays/the-crop-circle-making-competition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sheldrake.org">[Rupert Sheldrake – Author and Biologist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sheldrake.org</span><span class="citation-popover-snippet">Rupert Sheldrake – Author and BiologistThe Crop Circle Making Competition - Rupert SheldrakeThe competition was co-sponsored by The Guard...</span></span></span>
 
-A decade later, a Discovery Channel project asked five MIT students to design, build and analyse their own crop circle. MIT’s own report says the students were recruited not just to make a formation, but to examine features sometimes claimed to distinguish “real” circles from known fakes. This kind of demonstration shifted the burden of proof. The question was no longer whether human beings could make impressive crop circles, but whether any alleged anomaly remained after controls, documentation and known human techniques were considered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.mit.edu/2002/crop-circles-mits-most-ambitious-hack" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-title">crop circles mits most ambitious hack</span><span class="citation-popover-snippet">crop circles mits most ambitious hack</span></span></span>
+A decade later, a Discovery Channel project asked five MIT students to design, build and analyse their own crop circle. MIT’s own report says the students were recruited not just to make a formation, but to examine features sometimes claimed to distinguish “real” circles from known fakes. This kind of demonstration shifted the burden of proof. The question was no longer whether human beings could make impressive crop circles, but whether any alleged anomaly remained after controls, documentation and known human techniques were considered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.mit.edu/2002/crop-circles-mits-most-ambitious-hack" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-title">crop circles mits most ambitious hack</span><span class="citation-popover-snippet">crop circles mits most ambitious hack</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WkOL4on26BE" title="Crop Circles - the myth, the legend, the history" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WkOL4on26BE" target="_blank" rel="noopener noreferrer">Crop Circles - the myth, the legend, the history</a></p><p class="youtube-embed-meta">Channel: The History Guy: History Deserves to Be Remembered</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WkOL4on26BE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WkOL4on26BE">Open on YouTube</a></p></div></div></div>
@@ -484,11 +484,11 @@ A decade later, a Discovery Channel project asked five MIT students to design, b
 
 Calling crop circles “hoaxes” is accurate in many cases, but incomplete. A hoax normally aims to make a false claim believable. Crop circles did that, but they also became a form of [land art]({{ 'land-art/' | relative_url }}): anonymous, temporary, illegal or semi-legal, dependent on place, [weather]({{ 'weather/' | relative_url }}), timing and audience interpretation.
 
-The Circlemakers collective made this ambiguity explicit. Its members, including John Lundberg and Rob Irving, treated circle-making as an art practice rooted in deception, folklore and public reaction. A Circlemakers interview says the works are made anonymously by artists, but “to be effective they must not be viewed as art”. That sentence captures the central paradox: once a crop circle is signed, commissioned or explained, it loses some of the charge that made it powerful. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.circlemakers.org/leaders.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: circlemakers.org">[circlemakers.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">circlemakers.org</span><span class="citation-popover-snippet">Open source on circlemakers.org.</span></span></span>
+The Circlemakers collective made this ambiguity explicit. Its members, including John Lundberg and Rob Irving, treated circle-making as an art practice rooted in deception, folklore and public reaction. A Circlemakers interview says the works are made anonymously by artists, but “to be effective they must not be viewed as art”. That sentence captures the central paradox: once a crop circle is signed, commissioned or explained, it loses some of the charge that made it powerful.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.circlemakers.org/leaders.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: circlemakers.org">[circlemakers.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">circlemakers.org</span><span class="citation-popover-snippet">Open source on circlemakers.org.</span></span></span>
 
 This is why crop circles sit awkwardly between vandalism, performance, folk prank and public artwork. The farmer may see damaged crops. The maker may see a temporary drawing. The believer may see a message. The journalist may see a summer mystery story. The tourist may see a sacred landscape briefly activated. No single interpretation exhausts the event.
 
-By the 2000s, the art-world and media dimensions were obvious. Circlemakers documented commissioned and demonstration works, including a 2004 National Geographic TV formation near Silbury Hill that incorporated a square spiral. Wired’s 2006 reporting on an elaborate three-dimensional-style formation near Ashbury, Oxfordshire, quoted Lundberg arguing that even highly complex circles could be made by human artists and describing the formations as large Rorschach tests, interpreted according to each viewer’s belief system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.circlemakers.org/natgeo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: circlemakers.org">[circlemakers.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">circlemakers.org</span><span class="citation-popover-snippet">Open source on circlemakers.org.</span></span></span>
+By the 2000s, the art-world and media dimensions were obvious. Circlemakers documented commissioned and demonstration works, including a 2004 National Geographic TV formation near Silbury Hill that incorporated a square spiral. Wired’s 2006 reporting on an elaborate three-dimensional-style formation near Ashbury, Oxfordshire, quoted Lundberg arguing that even highly complex circles could be made by human artists and describing the formations as large Rorschach tests, interpreted according to each viewer’s belief system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.circlemakers.org/natgeo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: circlemakers.org">[circlemakers.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">circlemakers.org</span><span class="citation-popover-snippet">Open source on circlemakers.org.</span></span></span>
 
 This does not make the practice harmless. Crop circles are made in living crops on private land, and farmers bear the immediate cost unless visitors or media attention compensate them. But the artistic frame helps explain why the phenomenon did not simply end after exposure. Hoaxing became a medium. The deception was not an accidental stain on the artwork; it was part of how the artwork functioned.
 
@@ -500,11 +500,11 @@ The [1991 confession]({{ '1991-confession/' | relative_url }}) should, in a simp
 
 This survival is not unusual in Forteana. When a broad class of anomalies contains both exposed fakes and unresolved reports, believers often treat hoaxes as contamination rather than refutation. The exposed example becomes “one of the false ones”, while the category remains open. Crop circles are especially suited to this because each new formation arrives as a fresh case. A confession about one maker, one team or one season does not automatically identify the author of the next pattern.
 
-There were also technical-looking claims that gave belief new material. Biophysicist W. C. Levengood published work arguing that plants from crop formations displayed anatomical alterations not explained by hoaxing. Sceptical investigator Joe Nickell criticised this line of argument, objecting that the work lacked double-blind safeguards against experimenter bias and warning that alleged plant anomalies could not establish a non-human cause without better controls and independently replicated results. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1399-3054.1994.tb05348.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Anatomical anomalies in crop formation plants</span><span class="citation-popover-snippet">Online Library Anatomical anomalies in crop formation plants</span></span></span>
+There were also technical-looking claims that gave belief new material. Biophysicist W. C. Levengood published work arguing that plants from crop formations displayed anatomical alterations not explained by hoaxing. Sceptical investigator Joe Nickell criticised this line of argument, objecting that the work lacked double-blind safeguards against experimenter bias and warning that alleged plant anomalies could not establish a non-human cause without better controls and independently replicated results.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1399-3054.1994.tb05348.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Anatomical anomalies in crop formation plants</span><span class="citation-popover-snippet">Online Library Anatomical anomalies in crop formation plants</span></span></span>
 
 For many readers, the plant-anomaly debate illustrates the broader problem. A flattened stem, a bent node or a growth difference can sound like physical evidence, but interpretation depends on sampling, controls, crop condition, weather, ageing, mechanical stress and whether the formation’s origin is independently known. Without that discipline, “evidence” can become a way of preserving uncertainty rather than resolving it.
 
-The belief also survived because crop circles offered something more appealing than an ordinary UFO claim. They were beautiful. They were public. They could be visited. They gave people an event to organise around: dawn trips, aerial photography, lectures, local rumours, guided tours and arguments in the field. Sociological work on crop-circle culture has argued that such communities help construct and defend spiritual experience, giving believers shared norms for interpreting the circles and answering sceptical outsiders. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/symb.386" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Open source on wiley.com.</span></span></span>
+The belief also survived because crop circles offered something more appealing than an ordinary UFO claim. They were beautiful. They were public. They could be visited. They gave people an event to organise around: dawn trips, aerial photography, lectures, local rumours, guided tours and arguments in the field. Sociological work on crop-circle culture has argued that such communities help construct and defend spiritual experience, giving believers shared norms for interpreting the circles and answering sceptical outsiders.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/symb.386" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Open source on wiley.com.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dtIl54Nh7dg" title="What&#x27;s Making England&#x27;s Crop Circles?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dtIl54Nh7dg" target="_blank" rel="noopener noreferrer">What&#x27;s Making England&#x27;s Crop Circles?</a></p><p class="youtube-embed-meta">Channel: The Department of Information</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dtIl54Nh7dg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dtIl54Nh7dg">Open on YouTube</a></p></div></div></div>
@@ -513,9 +513,9 @@ The belief also survived because crop circles offered something more appealing t
 
 Crop circles grew through feedback. A formation appeared; local or national media reported it; investigators visited; makers learned what impressed people; copycats raised the level of design; the next formation arrived with higher expectations. In this loop, scepticism and belief both helped the phenomenon spread.
 
-The press loved crop circles because they were visual, seasonal and unresolved. They could be photographed from the air, tied to UFOs or ancient sites, and presented as a puzzle without requiring an immediate answer. The 1991 Bower and Chorley exposure itself became a media event, not the end of media interest. It gave the story characters, confession, embarrassment and a new debate about whether the whole mystery had been solved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/archives/la-xpm-1991-09-10-mn-2463-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">Los Angeles Times&#x27;Crop Circles&#x27; Their Prank, 2 Britons Say: Hoax</span><span class="citation-popover-snippet">September 10, 1991 — 10 Sept 1991 — British painters Doug Bower and Dave Chorley, 62, claimed that for 13 years, they have been responsib...</span><span class="citation-popover-meta">Published: September 10, 1991</span></span></span>
+The press loved crop circles because they were visual, seasonal and unresolved. They could be photographed from the air, tied to UFOs or ancient sites, and presented as a puzzle without requiring an immediate answer. The 1991 Bower and Chorley exposure itself became a media event, not the end of media interest. It gave the story characters, confession, embarrassment and a new debate about whether the whole mystery had been solved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/archives/la-xpm-1991-09-10-mn-2463-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">Los Angeles Times&#x27;Crop Circles&#x27; Their Prank, 2 Britons Say: Hoax</span><span class="citation-popover-snippet">September 10, 1991 — 10 Sept 1991 — British painters Doug Bower and Dave Chorley, 62, claimed that for 13 years, they have been responsib...</span><span class="citation-popover-meta">Published: September 10, 1991</span></span></span>
 
-Later coverage often treated crop circles as a cultural form as much as a paranormal claim. The *Guardian* reported in 2003 that crop-circle communities remained divided, with one camp accepting many hoaxes but insisting that more complex formations could not all be explained by human action, while artist-pranksters saw themselves as feeding the bafflement of believers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/science/2003/jul/17/thisweekssciencequestions1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Why do people still bother to make crop circles? &#124; Science</span><span class="citation-popover-snippet">The Guardian Why do people still bother to make crop circles? &#124; Science</span></span></span>
+Later coverage often treated crop circles as a cultural form as much as a paranormal claim. The *Guardian* reported in 2003 that crop-circle communities remained divided, with one camp accepting many hoaxes but insisting that more complex formations could not all be explained by human action, while artist-pranksters saw themselves as feeding the bafflement of believers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/science/2003/jul/17/thisweekssciencequestions1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Why do people still bother to make crop circles? &#124; Science</span><span class="citation-popover-snippet">The Guardian Why do people still bother to make crop circles? &#124; Science</span></span></span>
 
 This mutual dependence is one reason crop circles are such a revealing Fortean case. Believers needed makers to keep producing wonders. Makers needed believers, journalists and investigators to keep the work charged with uncertainty. Sceptics helped too, because a debunking contest made the next formation a challenge: could it fool experts, survive inspection, or generate a new interpretive twist?
 
@@ -534,194 +534,194 @@ Most of all, crop circles show how modern mysteries are made socially. A pattern
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Crop Circles Became a Modern Mystery. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Crop Circles Became a Modern Mystery. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Provides the best-known skeptical framework for evaluating mysteries such as crop circles.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the best-known skeptical framework for evaluating mysteries such as crop circles.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Explores why remarkable stories and beliefs persist across generations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Explores why remarkable stories and beliefs persist across generations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+skeptic%27s+dictionary+Robert+Todd+Carroll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The skeptic&#x27;s dictionary on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6410740-M.jpg" alt="Cover for The skeptic&#x27;s dictionary" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+skeptic%27s+dictionary+Robert+Todd+Carroll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The skeptic&#x27;s dictionary">The skeptic&#x27;s dictionary</a>
-        </h4>
-        <p class="fr-book-author">By Robert Todd Carroll</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+skeptic%27s+dictionary+Robert+Todd+Carroll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The skeptic&#x27;s dictionary on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6410740-M.jpg" alt="Cover for The skeptic&#x27;s dictionary" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+skeptic%27s+dictionary+Robert+Todd+Carroll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The skeptic&#x27;s dictionary">The skeptic&#x27;s dictionary</a>
+</h4>
+<p class="fr-book-author">By Robert Todd Carroll</p>
         
-        <p class="fr-book-desc">First published 2003. Subjects: Nonfiction, Science, Pseudoscience, Encyclopedias, Science, dictionaries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+skeptic%27s+dictionary+Robert+Todd+Carroll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2003. Subjects: Nonfiction, Science, Pseudoscience, Encyclopedias, Science, dictionaries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+skeptic%27s+dictionary+Robert+Todd+Carroll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mysteries of the Unexplained on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysteries of the Unexplained">Mysteries of the Unexplained</a>
-        </h4>
-        <p class="fr-book-author">By Reader&#x27;s Digest Association</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mysteries of the Unexplained on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysteries of the Unexplained">Mysteries of the Unexplained</a>
+</h4>
+<p class="fr-book-author">By Reader&#x27;s Digest Association</p>
         
-        <p class="fr-book-desc">First published 1985.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1985.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+skeptic%27s+dictionary&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The skeptic&#x27;s dictionary</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+skeptic%27s+dictionary&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The skeptic&#x27;s dictionary</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gothic Silhouette Painting on Rustic Wood | Staircase Mystery Wall Art"><img src="{{ '/assets/images/marketplace-covers/7f3f2c5e40c1a5c1ca26.jpg' | relative_url }}" alt="Listing image for Gothic Silhouette Painting on Rustic Wood | Staircase Mystery Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Gothic Silhouette Painting on Rustic Wood | Staircase Mystery Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gothic Silhouette Painting on Rustic Wood | Staircase Mystery Wall Art"><img src="{{ '/assets/images/marketplace-covers/7f3f2c5e40c1a5c1ca26.jpg' | relative_url }}" alt="Listing image for Gothic Silhouette Painting on Rustic Wood | Staircase Mystery Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Gothic Silhouette Painting on Rustic Wood | Staircase Mystery Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for mystery house Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6395bae7581ab610b9ca.jpg' | relative_url }}" alt="Listing image for mystery house Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">mystery house Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for mystery house Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6395bae7581ab610b9ca.jpg' | relative_url }}" alt="Listing image for mystery house Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">mystery house Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mystery gang silhouette Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9e466ddc691680c84338.jpg' | relative_url }}" alt="Listing image for Mystery gang silhouette Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Mystery gang silhouette Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mystery gang silhouette Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9e466ddc691680c84338.jpg' | relative_url }}" alt="Listing image for Mystery gang silhouette Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Mystery gang silhouette Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mystery forest Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5eb2b9bf8e926c565ad6.jpg' | relative_url }}" alt="Listing image for Mystery forest Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Mystery forest Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mystery forest Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5eb2b9bf8e926c565ad6.jpg' | relative_url }}" alt="Listing image for Mystery forest Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Mystery forest Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="crop-circles-why-crop-circles-became-a-modern-mystery-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -737,7 +737,7 @@ Most of all, crop circles show how modern mysteries are made socially. A pattern
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -757,7 +757,7 @@ Most of all, crop circles show how modern mysteries are made socially. A pattern
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -789,7 +789,7 @@ Most of all, crop circles show how modern mysteries are made socially. A pattern
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -841,7 +841,7 @@ Most of all, crop circles show how modern mysteries are made socially. A pattern
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -886,7 +886,7 @@ Most of all, crop circles show how modern mysteries are made socially. A pattern
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -927,186 +927,186 @@ Most of all, crop circles show how modern mysteries are made socially. A pattern
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sheldrake.org  
-   Link: <a href="https://www.sheldrake.org/essays/the-crop-circle-making-competition" target="_blank" rel="noopener noreferrer nofollow">https://www.sheldrake.org/essays/the-crop-circle-making-competition</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rupert Sheldrake – Author and BiologistThe Crop Circle Making Competition - Rupert SheldrakeThe competition was co-sponsored by The Guard...</p></details>
+   Link:<a href="https://www.sheldrake.org/essays/the-crop-circle-making-competition" target="_blank" rel="noopener noreferrer nofollow">https://www.sheldrake.org/essays/the-crop-circle-making-competition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rupert Sheldrake – Author and BiologistThe Crop Circle Making Competition - Rupert SheldrakeThe competition was co-sponsored by The Guard...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: news.mit.edu  
    Title: crop circles mits most ambitious hack  
-   Link: <a href="https://news.mit.edu/2002/crop-circles-mits-most-ambitious-hack" target="_blank" rel="noopener noreferrer nofollow">https://news.mit.edu/2002/crop-circles-mits-most-ambitious-hack</a>  
+   Link:<a href="https://news.mit.edu/2002/crop-circles-mits-most-ambitious-hack" target="_blank" rel="noopener noreferrer nofollow">https://news.mit.edu/2002/crop-circles-mits-most-ambitious-hack</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: siue.edu  
    Title: Spatial distribution of England's crop circles  
-   Link: <a href="https://www.siue.edu/GEOGRAPHY/ONLINE/Northcote06.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.siue.edu/GEOGRAPHY/ONLINE/Northcote06.pdf</a>  
+   Link:<a href="https://www.siue.edu/GEOGRAPHY/ONLINE/Northcote06.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.siue.edu/GEOGRAPHY/ONLINE/Northcote06.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchportal.murdoch.edu.au  
    Title: Spatial distribution of Englands crop circles  
-   Link: <a href="https://researchportal.murdoch.edu.au/esploro/fulltext/journalArticle/Spatial-distribution-of-Englands-crop-circles/991005542427007891?institution=61MUN_INST&amp;mId=13136994000007891&amp;repId=12135773020007891" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.murdoch.edu.au/esploro/fulltext/journalArticle/Spatial-distribution-of-Englands-crop-circles/991005542427007891?institution=61MUN_INST&amp;mId=13136994000007891&amp;repId=12135773020007891</a>  
+   Link:<a href="https://researchportal.murdoch.edu.au/esploro/fulltext/journalArticle/Spatial-distribution-of-Englands-crop-circles/991005542427007891?institution=61MUN_INST&amp;mId=13136994000007891&amp;repId=12135773020007891" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.murdoch.edu.au/esploro/fulltext/journalArticle/Spatial-distribution-of-Englands-crop-circles/991005542427007891?institution=61MUN_INST&amp;mId=13136994000007891&amp;repId=12135773020007891</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: circlemakers.org  
-   Link: <a href="https://www.circlemakers.org/leaders.html" target="_blank" rel="noopener noreferrer nofollow">https://www.circlemakers.org/leaders.html</a>  
+   Link:<a href="https://www.circlemakers.org/leaders.html" target="_blank" rel="noopener noreferrer nofollow">https://www.circlemakers.org/leaders.html</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: circlemakers.org  
-   Link: <a href="https://www.circlemakers.org/natgeo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.circlemakers.org/natgeo.html</a>  
+   Link:<a href="https://www.circlemakers.org/natgeo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.circlemakers.org/natgeo.html</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/2006/08/crop-circles-gain-perspective" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/08/crop-circles-gain-perspective</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>El origen del círculo es debatido. Steve Alexander considera fascinante la posibilidad de que fuerzas paranormales o extraterrestres sean...</p></details>
+   Link:<a href="https://www.wired.com/2006/08/crop-circles-gain-perspective" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/08/crop-circles-gain-perspective</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>El origen del círculo es debatido. Steve Alexander considera fascinante la posibilidad de que fuerzas paranormales o extraterrestres sean...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: onlinelibrary.wiley.com  
    Title: Online Library Anatomical anomalies in crop formation plants  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1399-3054.1994.tb05348.x" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1399-3054.1994.tb05348.x</a>  
+   Link:<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1399-3054.1994.tb05348.x" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1399-3054.1994.tb05348.x</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: onlinelibrary.wiley.com  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/symb.386" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/symb.386</a>  
+   Link:<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/symb.386" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/symb.386</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchportal.murdoch.edu.au  
    Title: Spatial distribution of Englands crop circles  
-   Link: <a href="https://researchportal.murdoch.edu.au/esploro/outputs/journalArticle/Spatial-distribution-of-Englands-crop-circles/991005542427007891" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.murdoch.edu.au/esploro/outputs/journalArticle/Spatial-distribution-of-Englands-crop-circles/991005542427007891</a>  
+   Link:<a href="https://researchportal.murdoch.edu.au/esploro/outputs/journalArticle/Spatial-distribution-of-Englands-crop-circles/991005542427007891" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.murdoch.edu.au/esploro/outputs/journalArticle/Spatial-distribution-of-Englands-crop-circles/991005542427007891</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: circlemakers.org  
-   Link: <a href="https://www.circlemakers.org/new_documents.html" target="_blank" rel="noopener noreferrer nofollow">https://www.circlemakers.org/new_documents.html</a>  
+   Link:<a href="https://www.circlemakers.org/new_documents.html" target="_blank" rel="noopener noreferrer nofollow">https://www.circlemakers.org/new_documents.html</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: circlemakers.org  
-   Link: <a href="https://www.circlemakers.org/case_history.html" target="_blank" rel="noopener noreferrer nofollow">https://www.circlemakers.org/case_history.html</a>  
+   Link:<a href="https://www.circlemakers.org/case_history.html" target="_blank" rel="noopener noreferrer nofollow">https://www.circlemakers.org/case_history.html</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: chillinkristen.medium.com  
    Title: the origin of the crop circles con is surprisingly wholesome 8226f9d252fa  
-   Link: <a href="https://chillinkristen.medium.com/the-origin-of-the-crop-circles-con-is-surprisingly-wholesome-8226f9d252fa" target="_blank" rel="noopener noreferrer nofollow">https://chillinkristen.medium.com/the-origin-of-the-crop-circles-con-is-surprisingly-wholesome-8226f9d252fa</a>  
+   Link:<a href="https://chillinkristen.medium.com/the-origin-of-the-crop-circles-con-is-surprisingly-wholesome-8226f9d252fa" target="_blank" rel="noopener noreferrer nofollow">https://chillinkristen.medium.com/the-origin-of-the-crop-circles-con-is-surprisingly-wholesome-8226f9d252fa</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: sheldrake.org  
    Title: A Report on Crop Circles  
-   Link: <a href="https://www.sheldrake.org/videos/a-report-on-crop-circles-mckenna-abraham-sheldrake-trialogue" target="_blank" rel="noopener noreferrer nofollow">https://www.sheldrake.org/videos/a-report-on-crop-circles-mckenna-abraham-sheldrake-trialogue</a>  
+   Link:<a href="https://www.sheldrake.org/videos/a-report-on-crop-circles-mckenna-abraham-sheldrake-trialogue" target="_blank" rel="noopener noreferrer nofollow">https://www.sheldrake.org/videos/a-report-on-crop-circles-mckenna-abraham-sheldrake-trialogue</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: folklore.ee  
-   Link: <a href="https://www.folklore.ee/FOAFtale/ftn26.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.folklore.ee/FOAFtale/ftn26.pdf</a>  
+   Link:<a href="https://www.folklore.ee/FOAFtale/ftn26.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.folklore.ee/FOAFtale/ftn26.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Crop Circles  
-   Link: <a href="https://www.youtube.com/watch?v=WkOL4on26BE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WkOL4on26BE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s Making England&#x27;s Crop Circles?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WkOL4on26BE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WkOL4on26BE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s Making England&#x27;s Crop Circles?...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: What's Making England's Crop Circles?  
-   Link: <a href="https://www.youtube.com/watch?v=dtIl54Nh7dg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dtIl54Nh7dg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Geographic - Crop Circle Mystery...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=dtIl54Nh7dg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dtIl54Nh7dg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Geographic - Crop Circle Mystery...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: National Geographic  
-   Link: <a href="https://www.youtube.com/watch?v=3pDmrWwPhpg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3pDmrWwPhpg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sept. 9, 1991: Two Brits reveal they&#x27;re behind crop circles...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3pDmrWwPhpg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3pDmrWwPhpg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sept. 9, 1991: Two Brits reveal they&#x27;re behind crop circles...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: latimes.com  
    Title: Los Angeles Times'Crop Circles' Their Prank, 2 Britons Say: Hoax  
-   Link: <a href="https://www.latimes.com/archives/la-xpm-1991-09-10-mn-2463-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/archives/la-xpm-1991-09-10-mn-2463-story.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 10, 1991 — 10 Sept 1991 — British painters Doug Bower and Dave Chorley, 62, claimed that for 13 years, they have been responsib...</p></details>
+   Link:<a href="https://www.latimes.com/archives/la-xpm-1991-09-10-mn-2463-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/archives/la-xpm-1991-09-10-mn-2463-story.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>September 10, 1991 — 10 Sept 1991 — British painters Doug Bower and Dave Chorley, 62, claimed that for 13 years, they have been responsib...</p></details>
    Published: September 10, 1991  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: theguardian.com  
    Title: The Guardian Why do people still bother to make crop circles? | Science  
-   Link: <a href="https://www.theguardian.com/science/2003/jul/17/thisweekssciencequestions1" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2003/jul/17/thisweekssciencequestions1</a>  
+   Link:<a href="https://www.theguardian.com/science/2003/jul/17/thisweekssciencequestions1" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2003/jul/17/thisweekssciencequestions1</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Crop circle  
-   Link: <a href="https://en.wikipedia.org/wiki/Crop_circle" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Crop_circle</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Crop_circle" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Crop_circle</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: John Lundberg  
-   Link: <a href="https://en.wikipedia.org/wiki/John_Lundberg" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/John_Lundberg</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/John_Lundberg" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/John_Lundberg</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/8640515501/posts/10160012420395502/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/8640515501/posts/10160012420395502/</a>  
+   Link:<a href="https://www.facebook.com/groups/8640515501/posts/10160012420395502/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/8640515501/posts/10160012420395502/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: historicmysteries.com  
    Title: crop circles  
-   Link: <a href="https://www.historicmysteries.com/history/crop-circles/32175/" target="_blank" rel="noopener noreferrer nofollow">https://www.historicmysteries.com/history/crop-circles/32175/</a>  
+   Link:<a href="https://www.historicmysteries.com/history/crop-circles/32175/" target="_blank" rel="noopener noreferrer nofollow">https://www.historicmysteries.com/history/crop-circles/32175/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: scribd.com  
    Title: Crop Circles  
-   Link: <a href="https://www.scribd.com/document/345413040/Crop-Circles" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/345413040/Crop-Circles</a>  
+   Link:<a href="https://www.scribd.com/document/345413040/Crop-Circles" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/345413040/Crop-Circles</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/doc/294127690/Crop-Circle" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/294127690/Crop-Circle</a>  
+   Link:<a href="https://www.scribd.com/doc/294127690/Crop-Circle" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/294127690/Crop-Circle</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: nextnature.org  
    Title: crop circles  
-   Link: <a href="https://nextnature.org/en/magazine/story/2007/crop-circles" target="_blank" rel="noopener noreferrer nofollow">https://nextnature.org/en/magazine/story/2007/crop-circles</a>  
+   Link:<a href="https://nextnature.org/en/magazine/story/2007/crop-circles" target="_blank" rel="noopener noreferrer nofollow">https://nextnature.org/en/magazine/story/2007/crop-circles</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: eduindex.org  
    Title: Crop Circles  
-   Link: <a href="https://eduindex.org/2021/08/03/crop-circles/" target="_blank" rel="noopener noreferrer nofollow">https://eduindex.org/2021/08/03/crop-circles/</a>  
+   Link:<a href="https://eduindex.org/2021/08/03/crop-circles/" target="_blank" rel="noopener noreferrer nofollow">https://eduindex.org/2021/08/03/crop-circles/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: ebsco.com  
    Title: crop circle  
-   Link: <a href="https://www.ebsco.com/research-starters/history/crop-circle" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/history/crop-circle</a>  
+   Link:<a href="https://www.ebsco.com/research-starters/history/crop-circle" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/history/crop-circle</a>  
 
 ### Additional References
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/396085125_The_PV_Resonance_Theory_An_Interdisciplinary_Reappraisal_of_Crop_Circle_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396085125_The_PV_Resonance_Theory_An_Interdisciplinary_Reappraisal_of_Crop_Circle_Phenomena</a>  
+   Link:<a href="https://www.researchgate.net/publication/396085125_The_PV_Resonance_Theory_An_Interdisciplinary_Reappraisal_of_Crop_Circle_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396085125_The_PV_Resonance_Theory_An_Interdisciplinary_Reappraisal_of_Crop_Circle_Phenomena</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/sacredgeometryart/posts/3442477252728875/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/sacredgeometryart/posts/3442477252728875/</a>  
+   Link:<a href="https://www.facebook.com/groups/sacredgeometryart/posts/3442477252728875/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/sacredgeometryart/posts/3442477252728875/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-02-14.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-02-14.pdf</a>  
+   Link:<a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-02-14.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-02-14.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2002/09/circular-reasoning-the-mystery-of-crop-circles-and-their-orbs-of-light/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2002/09/circular-reasoning-the-mystery-of-crop-circles-and-their-orbs-of-light/</a>  
+   Link:<a href="https://skepticalinquirer.org/2002/09/circular-reasoning-the-mystery-of-crop-circles-and-their-orbs-of-light/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2002/09/circular-reasoning-the-mystery-of-crop-circles-and-their-orbs-of-light/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: centerforinquiry.s3.amazonaws.com  
-   Link: <a href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2002/09/22164740/p17.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2002/09/22164740/p17.pdf</a>  
+   Link:<a href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2002/09/22164740/p17.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2002/09/22164740/p17.pdf</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: study.com  
-   Link: <a href="https://study.com/academy/lesson/crop-circles-causes-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/crop-circles-causes-examples.html</a>  
+   Link:<a href="https://study.com/academy/lesson/crop-circles-causes-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/crop-circles-causes-examples.html</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: hangar1publishing.com  
-   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/crop-circles?srsltid=AfmBOoqz2Sbpw0ZLw9YoZ2-7xISZENyAiU-2saQFKAPvrxd55FdWyKLB" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/crop-circles?srsltid=AfmBOoqz2Sbpw0ZLw9YoZ2-7xISZENyAiU-2saQFKAPvrxd55FdWyKLB</a>  
+   Link:<a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/crop-circles?srsltid=AfmBOoqz2Sbpw0ZLw9YoZ2-7xISZENyAiU-2saQFKAPvrxd55FdWyKLB" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/crop-circles?srsltid=AfmBOoqz2Sbpw0ZLw9YoZ2-7xISZENyAiU-2saQFKAPvrxd55FdWyKLB</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: hangar1publishing.com  
-   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/crop-circles?srsltid=AfmBOopF6vtzC8DGf5YljV-_KCZ2ut204sPsb70lvVYeHUsAuxcLHJIK" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/crop-circles?srsltid=AfmBOopF6vtzC8DGf5YljV-_KCZ2ut204sPsb70lvVYeHUsAuxcLHJIK</a>  
+   Link:<a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/crop-circles?srsltid=AfmBOopF6vtzC8DGf5YljV-_KCZ2ut204sPsb70lvVYeHUsAuxcLHJIK" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/crop-circles?srsltid=AfmBOopF6vtzC8DGf5YljV-_KCZ2ut204sPsb70lvVYeHUsAuxcLHJIK</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: spookystuff.co.uk  
-   Link: <a href="https://www.spookystuff.co.uk/DougAndDaveTheCropCircleHoaxers.html" target="_blank" rel="noopener noreferrer nofollow">https://www.spookystuff.co.uk/DougAndDaveTheCropCircleHoaxers.html</a>  
+   Link:<a href="https://www.spookystuff.co.uk/DougAndDaveTheCropCircleHoaxers.html" target="_blank" rel="noopener noreferrer nofollow">https://www.spookystuff.co.uk/DougAndDaveTheCropCircleHoaxers.html</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/Spatial-distribution-of-England%27s-crop-circles%3A-GIS-Northcote/a60092b33346b759953719194bee380fc3f66b23/figure/2" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Spatial-distribution-of-England%27s-crop-circles%3A-GIS-Northcote/a60092b33346b759953719194bee380fc3f66b23/figure/2</a>  
+   Link:<a href="https://www.semanticscholar.org/paper/Spatial-distribution-of-England%27s-crop-circles%3A-GIS-Northcote/a60092b33346b759953719194bee380fc3f66b23/figure/2" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Spatial-distribution-of-England%27s-crop-circles%3A-GIS-Northcote/a60092b33346b759953719194bee380fc3f66b23/figure/2</a>  

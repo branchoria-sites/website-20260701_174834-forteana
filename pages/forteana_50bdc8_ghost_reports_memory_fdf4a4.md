@@ -451,13 +451,13 @@ A ghost story becomes Fortean when it is treated not simply as entertainment or 
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_ghost_reports_memory_fdf4a4-overview.webp" | relative_url }}" alt="Overview image for Ghosts" loading="eager" decoding="sync" fetchpriority="high">
-That middle ground matters because ghost reports are common enough to be socially significant. Pew Research found that 18% of American adults said they had seen or been in the presence of a ghost, while 29% said they had felt in touch with someone who had died; a later Pew survey found that 53% of US adults reported some form of dream or other encounter with a dead family member. In Britain, YouGov reported in 2025 that 38% of Britons believed ghosts could exist. These figures do not prove ghosts, but they do show why ghost reports cannot be dismissed as rare eccentricities. They are part of how many people interpret place, loss, fear and memory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pewresearch.org/short-reads/2015/10/30/18-of-americans-say-theyve-seen-a-ghost/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[Pew Research Center+2Pew Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-title">Pew Research Center18% of Americans say they&#x27;ve seen a ghost</span><span class="citation-popover-snippet">Pew Research Center18% of Americans say they&#x27;ve seen a ghost</span></span></span>
+That middle ground matters because ghost reports are common enough to be socially significant. Pew Research found that 18% of American adults said they had seen or been in the presence of a ghost, while 29% said they had felt in touch with someone who had died; a later Pew survey found that 53% of US adults reported some form of dream or other encounter with a dead family member. In Britain, YouGov reported in 2025 that 38% of Britons believed ghosts could exist. These figures do not prove ghosts, but they do show why ghost reports cannot be dismissed as rare eccentricities. They are part of how many people interpret place, loss, fear and memory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pewresearch.org/short-reads/2015/10/30/18-of-americans-say-theyve-seen-a-ghost/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[Pew Research Center+2Pew Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-title">Pew Research Center18% of Americans say they&#x27;ve seen a ghost</span><span class="citation-popover-snippet">Pew Research Center18% of Americans say they&#x27;ve seen a ghost</span></span></span>
 
 ## The reported experience
 
 The first mistake in examining a ghost report is to treat all hauntings as the same kind of claim. A person who wakes unable to move and senses a threatening figure in the room is not reporting the same thing as a family that hears repeated knocks in a wall, a tourist who feels watched in a reputedly haunted vault, or a bereaved person who senses a dead parent nearby. All may be called “ghosts” in ordinary speech, but they differ in timing, witnesses, repeatability and possible explanation.
 
-Older psychical researchers recognised this variety. The Society for Psychical Research, founded in 1882, made [apparitions]({{ 'apparitions/' | relative_url }}) and “hallucinations” one of its central early interests, including the large late-Victorian Census of Hallucinations. The SPR’s own historical summary treats that census as a landmark attempt to collect unusual experiences systematically rather than as isolated fireside tales. Its archive category on spontaneous apparitions includes crisis apparitions, haunting reports and near-death experiences, showing how broad the apparent “ghost” category became once investigators began sorting reports by context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spr.ac.uk/about/our-history" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spr.ac.uk">[spr.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spr.ac.uk</span><span class="citation-popover-snippet">Open source on spr.ac.uk.</span></span></span>
+Older psychical researchers recognised this variety. The Society for Psychical Research, founded in 1882, made [apparitions]({{ 'apparitions/' | relative_url }}) and “hallucinations” one of its central early interests, including the large late-Victorian Census of Hallucinations. The SPR’s own historical summary treats that census as a landmark attempt to collect unusual experiences systematically rather than as isolated fireside tales. Its archive category on spontaneous apparitions includes crisis apparitions, haunting reports and near-death experiences, showing how broad the apparent “ghost” category became once investigators began sorting reports by context.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spr.ac.uk/about/our-history" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spr.ac.uk">[spr.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spr.ac.uk</span><span class="citation-popover-snippet">Open source on spr.ac.uk.</span></span></span>
 
 A Fortean reading therefore begins with the shape of the [experience]({{ 'experience/' | relative_url }}):
 
@@ -472,7 +472,7 @@ A Fortean reading therefore begins with the shape of the [experience]({{ 'experi
 
 </div>
 
-That last category is especially important. A “haunted” place is rarely neutral. Visitors may arrive primed to notice draughts, shadows, temperature changes, odd acoustics and bodily unease. In a major investigation at Hampton Court Palace and the Edinburgh South Bridge Vaults, Richard Wiseman and colleagues found that participants reported more unusual experiences in areas already reputed to be haunted, and the study examined psychological variables alongside physical factors such as magnetic fields. The result did not establish ghosts, but it did show that place reputation and experience can reinforce each other. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.richardwiseman.com/resources/BJP-hauntings.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: richardwiseman.com">[Richard Wiseman+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">richardwiseman.com</span><span class="citation-popover-title">Richard Wiseman An investigation into alleged &#x27;hauntings</span><span class="citation-popover-snippet">Richard Wiseman An investigation into alleged &#x27;hauntings</span></span></span>
+That last category is especially important. A “haunted” place is rarely neutral. Visitors may arrive primed to notice draughts, shadows, temperature changes, odd acoustics and bodily unease. In a major investigation at Hampton Court Palace and the Edinburgh South Bridge Vaults, Richard Wiseman and colleagues found that participants reported more unusual experiences in areas already reputed to be haunted, and the study examined psychological variables alongside physical factors such as magnetic fields. The result did not establish ghosts, but it did show that place reputation and experience can reinforce each other.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.richardwiseman.com/resources/BJP-hauntings.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: richardwiseman.com">[Richard Wiseman+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">richardwiseman.com</span><span class="citation-popover-title">Richard Wiseman An investigation into alleged &#x27;hauntings</span><span class="citation-popover-snippet">Richard Wiseman An investigation into alleged &#x27;hauntings</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_ghost_reports_memory_fdf4a4-Illustration-1-dark.svg" | relative_url }}" alt="Ghosts illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_ghost_reports_memory_fdf4a4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_ghost_reports_memory_fdf4a4-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -480,7 +480,7 @@ That last category is especially important. A “haunted” place is rarely neut
 
 A sceptical account of ghost reports should not assume that witnesses are lying. Human memory is not a recording device, and sincere testimony can still be reshaped by expectation, later discussion, media coverage, leading questions and the desire to make sense of an ambiguous moment.
 
-This is not special pleading against ghost witnesses; it is a basic feature of memory research. The National Academies, reviewing eyewitness identification in criminal cases, warned that memory can be contaminated by many influences, including later interaction with investigators. Elizabeth Loftus’s work on false memory and suggestive questioning has shown that people can develop confident recollections that are distorted or partly constructed after the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/news/report-urges-caution-in-handling-and-relying-upon-eyewitness-identifications-in-criminal-cases-recommends-best-practices-for-law-enforcement-and-courts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies+2American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">Open source on nationalacademies.org.</span></span></span>
+This is not special pleading against ghost witnesses; it is a basic feature of memory research. The National Academies, reviewing eyewitness identification in criminal cases, warned that memory can be contaminated by many influences, including later interaction with investigators. Elizabeth Loftus’s work on false memory and suggestive questioning has shown that people can develop confident recollections that are distorted or partly constructed after the event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/news/report-urges-caution-in-handling-and-relying-upon-eyewitness-identifications-in-criminal-cases-recommends-best-practices-for-law-enforcement-and-courts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies+2American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">Open source on nationalacademies.org.</span></span></span>
 
 Ghost reports are particularly vulnerable to this because the first interpretation often arrives after the perception. A witness may first hear a thud, glimpse a figure, feel a presence or wake in terror; only later does the event acquire a name: ghost, apparition, warning, visitation, poltergeist. Once that label is attached, memory may become tidier and more story-shaped. The shadow becomes “a woman in white”; the sound becomes “footsteps”; the cold patch becomes “the place where she stood”.
 
@@ -508,7 +508,7 @@ The strongest Fortean handling of ghost reports does not begin with debunking. I
 
 ### Sleep, waking and the sensed presence
 
-Many bedroom hauntings resemble [sleep paralysis]({{ 'sleep-paralysis/' | relative_url }}): a state in which a person wakes or partly wakes unable to move, often with vivid visual, auditory or tactile experiences and a strong sense that someone is present. Sleep paralysis research describes a hybrid state between dreaming and waking, with paralysis, fear and “presence” experiences that can be interpreted through local supernatural beliefs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1704.02342" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Sleep Paralysis: phenomenology, neurophysiology and treatment</span><span class="citation-popover-snippet">arXiv Sleep Paralysis: phenomenology, neurophysiology and treatment</span></span></span>
+Many bedroom hauntings resemble [sleep paralysis]({{ 'sleep-paralysis/' | relative_url }}): a state in which a person wakes or partly wakes unable to move, often with vivid visual, auditory or tactile experiences and a strong sense that someone is present. Sleep paralysis research describes a hybrid state between dreaming and waking, with paralysis, fear and “presence” experiences that can be interpreted through local supernatural beliefs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1704.02342" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Sleep Paralysis: phenomenology, neurophysiology and treatment</span><span class="citation-popover-snippet">arXiv Sleep Paralysis: phenomenology, neurophysiology and treatment</span></span></span>
 
 This matters because the content of the experience is culturally flexible. One person may describe a ghost at the bed, another a demon, another an intruder, another an alien presence. The bodily event may be similar; the interpretation changes with expectation, fear, religious background, popular media and family stories. A haunting report that begins in bed, at night, with immobility and pressure on the chest should therefore be checked against sleep paralysis before it is treated as evidence of an external entity.
 
@@ -516,13 +516,13 @@ This matters because the content of the experience is culturally flexible. One p
 
 Some places feel wrong before anything visibly happens. Old houses, cellars, vaults and ruins contain draughts, settling timber, distant traffic noise, pipe vibration, animal movement, distorted echoes and low-frequency sound. These do not explain every ghost report, but they can create unease that later becomes ghostly.
 
-Research into alleged hauntings has repeatedly considered infrasound and electromagnetic fields as possible contributors to uncanny sensations. Chris French and colleagues attempted to build a “haunted” room by manipulating complex electromagnetic fields and infrasound; the study found that unusual experiences were reported, but not in a way that cleanly supported the idea that those environmental manipulations alone caused haunt-like effects. More recent infrasound work reported mood and stress effects from low-frequency exposure, suggesting a plausible route by which a building can make people feel disturbed without consciously hearing a cause. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/18635163/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2haque.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+Research into alleged hauntings has repeatedly considered infrasound and electromagnetic fields as possible contributors to uncanny sensations. Chris French and colleagues attempted to build a “haunted” room by manipulating complex electromagnetic fields and infrasound; the study found that unusual experiences were reported, but not in a way that cleanly supported the idea that those environmental manipulations alone caused haunt-like effects. More recent infrasound work reported mood and stress effects from low-frequency exposure, suggesting a plausible route by which a building can make people feel disturbed without consciously hearing a cause.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/18635163/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2haque.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
 The practical point is modest but useful: investigators should not leap from “I felt dread in that room” to “the room is haunted”. They should look for boilers, ventilation, traffic vibration, loose windows, animals, plumbing, mould, lighting patterns, and ordinary acoustic tricks. A good explanation does not need to be glamorous; it needs to fit the timing and details.
 
 ### Suggestion and reputation
 
-A haunted reputation can act like an instruction manual for perception. If visitors are told that a corridor contains a woman in grey, a patch of cold air or a child’s footsteps, they are more likely to notice ambiguous sensations that match the script. Wiseman’s Hampton Court and Edinburgh studies are important here because they tested experiences in famous haunted settings rather than only asking people in a laboratory whether they believed in ghosts. Participants’ reports clustered in reputedly haunted areas, showing how place reputation and perception can become mutually reinforcing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.richardwiseman.com/resources/BJP-hauntings.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: richardwiseman.com">[Richard Wiseman]</a><span class="citation-popover" role="note"><span class="citation-popover-source">richardwiseman.com</span><span class="citation-popover-title">Richard Wiseman An investigation into alleged &#x27;hauntings</span><span class="citation-popover-snippet">Richard Wiseman An investigation into alleged &#x27;hauntings</span></span></span>
+A haunted reputation can act like an instruction manual for perception. If visitors are told that a corridor contains a woman in grey, a patch of cold air or a child’s footsteps, they are more likely to notice ambiguous sensations that match the script. Wiseman’s Hampton Court and Edinburgh studies are important here because they tested experiences in famous haunted settings rather than only asking people in a laboratory whether they believed in ghosts. Participants’ reports clustered in reputedly haunted areas, showing how place reputation and perception can become mutually reinforcing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.richardwiseman.com/resources/BJP-hauntings.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: richardwiseman.com">[Richard Wiseman]</a><span class="citation-popover" role="note"><span class="citation-popover-source">richardwiseman.com</span><span class="citation-popover-title">Richard Wiseman An investigation into alleged &#x27;hauntings</span><span class="citation-popover-snippet">Richard Wiseman An investigation into alleged &#x27;hauntings</span></span></span>
 
 This is where folklore enters the evidence chain. A legend is not just decoration added after the fact. It can shape what future witnesses notice, remember and report. Once a house has a known ghost, new events are no longer interpreted from scratch.
 
@@ -532,7 +532,7 @@ This is where folklore enters the evidence chain. A legend is not just decoratio
 
 Some ghost reports involve deliberate invention, staged phenomena or exaggeration. That does not mean all haunting witnesses are frauds, but it does mean fraud must stay on the list of ordinary explanations.
 
-The classic cautionary case is Borley Rectory in Essex, promoted by Harry Price as “the most haunted house in England”. The story became famous through Price’s investigations and publications, but later SPR-associated critics challenged his evidence, and the University of Maryland Baltimore County’s Garrett Collection notes that the SPR published a 1956 report discrediting Price’s Borley claims, accusing him of exaggerating or altering evidence and pointing out that no concrete proof was found for key narrative elements such as the sealed-up nun. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://library.umbc.edu/specialcollections/garrett/hauntings/borley-rectory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.umbc.edu">[library.umbc.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.umbc.edu</span><span class="citation-popover-snippet">Open source on umbc.edu.</span></span></span>
+The classic cautionary case is Borley Rectory in Essex, promoted by Harry Price as “the most haunted house in England”. The story became famous through Price’s investigations and publications, but later SPR-associated critics challenged his evidence, and the University of Maryland Baltimore County’s Garrett Collection notes that the SPR published a 1956 report discrediting Price’s Borley claims, accusing him of exaggerating or altering evidence and pointing out that no concrete proof was found for key narrative elements such as the sealed-up nun.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://library.umbc.edu/specialcollections/garrett/hauntings/borley-rectory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.umbc.edu">[library.umbc.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.umbc.edu</span><span class="citation-popover-snippet">Open source on umbc.edu.</span></span></span>
 
 Borley matters less as a solved puzzle than as a warning about incentives. A haunting can attract journalists, tourists, investigators, book deals, local fame and personal identity. Once a place becomes valuable as a haunted place, evidence may be selected, embellished or protected from scrutiny.
 
@@ -540,9 +540,9 @@ Borley matters less as a solved puzzle than as a warning about incentives. A hau
 
 A haunting is often a story about a place before it is a story about a ghost. Houses, ruins, castles, prisons, inns, battlefields, campuses and city vaults gather emotional charge because people already associate them with death, secrecy, class conflict, violence, confinement, family breakdown or historical injustice.
 
-Folklore scholarship and heritage research have increasingly treated ghost stories as forms of place-making. Work on haunted landscapes argues that haunting links place, past and presence, while research on British ghost walks notes that ghost stories often narrate wider historical events through intimate, local scenes of poverty, sickness, danger and social tension. In that sense, a ghost tour may be less a map of spirits than a map of what a city remembers uneasily. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://discovery.ucl.ac.uk/10114566/1/Paphitis%20Haunted%20Landscapes.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.ucl.ac.uk">[UCL Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.ucl.ac.uk</span><span class="citation-popover-title">UCL Discovery Haunted Landscapes: Place, Past and Presence</span><span class="citation-popover-snippet">UCL Discovery Haunted Landscapes: Place, Past and Presence</span></span></span>
+Folklore scholarship and heritage research have increasingly treated ghost stories as forms of place-making. Work on haunted landscapes argues that haunting links place, past and presence, while research on British ghost walks notes that ghost stories often narrate wider historical events through intimate, local scenes of poverty, sickness, danger and social tension. In that sense, a ghost tour may be less a map of spirits than a map of what a city remembers uneasily.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://discovery.ucl.ac.uk/10114566/1/Paphitis%20Haunted%20Landscapes.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.ucl.ac.uk">[UCL Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.ucl.ac.uk</span><span class="citation-popover-title">UCL Discovery Haunted Landscapes: Place, Past and Presence</span><span class="citation-popover-snippet">UCL Discovery Haunted Landscapes: Place, Past and Presence</span></span></span>
 
-This is why ghost stories cling so strongly to architecture. Old buildings provide sensory prompts: narrow stairs, hidden rooms, cold stone, creaking floors, poor lighting, long corridors and thresholds between public and private space. Ruins add absence. A roofless abbey or burned house makes loss visible. English Heritage notes that many monastic ghost stories are modern, while others reach back into medieval religious and demonic traditions; the same site can therefore carry layers of folklore from different periods rather than one stable ancient legend. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.english-heritage.org.uk/members-area/members-magazine/haunted-monasteries/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english-heritage.org.uk">[English Heritage]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english-heritage.org.uk</span><span class="citation-popover-snippet">Open source on english-heritage.org.uk.</span></span></span>
+This is why ghost stories cling so strongly to architecture. Old buildings provide sensory prompts: narrow stairs, hidden rooms, cold stone, creaking floors, poor lighting, long corridors and thresholds between public and private space. Ruins add absence. A roofless abbey or burned house makes loss visible. English Heritage notes that many monastic ghost stories are modern, while others reach back into medieval religious and demonic traditions; the same site can therefore carry layers of folklore from different periods rather than one stable ancient legend.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.english-heritage.org.uk/members-area/members-magazine/haunted-monasteries/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english-heritage.org.uk">[English Heritage]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english-heritage.org.uk</span><span class="citation-popover-snippet">Open source on english-heritage.org.uk.</span></span></span>
 
 A place becomes haunted through accumulation:
 
@@ -561,13 +561,13 @@ This does not make haunted places fake in a simple sense. It means their hauntin
 
 ### Enfield: witnesses, media and family stress
 
-The Enfield Poltergeist case, centred on a council house in north London from 1977, remains one of Britain’s best-known modern haunting claims. It involved alleged knocking, furniture movement, voices and levitation-like photographs, with investigators including Maurice Grosse of the SPR. It also involved children, journalists, family pressure and disputed controls, which makes it a classic case for the boundary between witness experience, performance and interpretation. A recent encyclopaedic summary of the case notes that sceptical readings cluster around possible child mischief, ambiguous recordings and photographs, and weaknesses in field controls. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kureansiklopedi.com/en/detay/enfield-poltergeist-case-bd698" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kureansiklopedi.com">[Küre Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kureansiklopedi.com</span><span class="citation-popover-title">Küre Encyclopedia Enfield Poltergeist Case &#124; KÜRE Encyclopedia</span><span class="citation-popover-snippet">Küre Encyclopedia Enfield Poltergeist Case &#124; KÜRE Encyclopedia</span></span></span>
+The Enfield Poltergeist case, centred on a council house in north London from 1977, remains one of Britain’s best-known modern haunting claims. It involved alleged knocking, furniture movement, voices and levitation-like photographs, with investigators including Maurice Grosse of the SPR. It also involved children, journalists, family pressure and disputed controls, which makes it a classic case for the boundary between witness experience, performance and interpretation. A recent encyclopaedic summary of the case notes that sceptical readings cluster around possible child mischief, ambiguous recordings and photographs, and weaknesses in field controls.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kureansiklopedi.com/en/detay/enfield-poltergeist-case-bd698" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kureansiklopedi.com">[Küre Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kureansiklopedi.com</span><span class="citation-popover-title">Küre Encyclopedia Enfield Poltergeist Case &#124; KÜRE Encyclopedia</span><span class="citation-popover-snippet">Küre Encyclopedia Enfield Poltergeist Case &#124; KÜRE Encyclopedia</span></span></span>
 
 The Fortean value of Enfield is not that it can be reduced to one sentence. It is that it shows why ghost reports become difficult once a household is under observation. Witnesses may be frightened, playful, suggestible, defensive, traumatised, excited by attention, or some mixture of all of these. Investigators may become emotionally invested. Media attention may reward drama. The result is not a clean laboratory event but a living social situation.
 
 ### Borley: when investigation becomes part of the legend
 
-Borley Rectory shows a different risk: the investigator as myth-maker. Harry Price did not merely record Borley’s haunting; he helped turn it into a national brand. The later criticism of his evidence matters because it exposes a recurring problem in ghost history: an investigation can become the very mechanism by which a place becomes famous. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://library.umbc.edu/specialcollections/garrett/hauntings/borley-rectory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.umbc.edu">[library.umbc.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.umbc.edu</span><span class="citation-popover-snippet">Open source on umbc.edu.</span></span></span>
+Borley Rectory shows a different risk: the investigator as myth-maker. Harry Price did not merely record Borley’s haunting; he helped turn it into a national brand. The later criticism of his evidence matters because it exposes a recurring problem in ghost history: an investigation can become the very mechanism by which a place becomes famous.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://library.umbc.edu/specialcollections/garrett/hauntings/borley-rectory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.umbc.edu">[library.umbc.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.umbc.edu</span><span class="citation-popover-snippet">Open source on umbc.edu.</span></span></span>
 
 This is a central Fortean caution. The archive is not automatically neutral. Case files may contain omissions, staged events, selective testimony, dramatic phrasing and retrospective certainty. A famous haunting often survives not because the evidence is strongest, but because the story has the best machinery for reproduction.
 
@@ -575,7 +575,7 @@ This is a central Fortean caution. The archive is not automatically neutral. Cas
 <img src="{{ "/assets/images/forteana_50bdc8_ghost_reports_memory_fdf4a4-Illustration-3-dark.svg" | relative_url }}" alt="Ghosts illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_ghost_reports_memory_fdf4a4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_ghost_reports_memory_fdf4a4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Amityville: crime, commerce and the haunted-house template
 
-The Amityville Horror shows how quickly a real tragedy can become supernatural property. The house was the site of the 1974 DeFeo family murders; George and Kathy Lutz later moved in, left after 28 days, and their claims became the basis for Jay Anson’s 1977 book and a major film franchise. Architectural Digest notes that the story’s authenticity has long been challenged, including by Ronald DeFeo Jr’s lawyer William Weber, who said he and the Lutzes created the story, while subsequent owners did not report comparable phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.architecturaldigest.com/story/the-amityville-horror-house-everything-you-need-to-know" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: architecturaldigest.com">[Architectural Digest]</a><span class="citation-popover" role="note"><span class="citation-popover-source">architecturaldigest.com</span><span class="citation-popover-title">Architectural Digest The Amityville Horror House: Everything You Need to Know</span><span class="citation-popover-snippet">Architectural Digest The Amityville Horror House: Everything You Need to Know</span></span></span>
+The Amityville Horror shows how quickly a real tragedy can become supernatural property. The house was the site of the 1974 DeFeo family murders; George and Kathy Lutz later moved in, left after 28 days, and their claims became the basis for Jay Anson’s 1977 book and a major film franchise. Architectural Digest notes that the story’s authenticity has long been challenged, including by Ronald DeFeo Jr’s lawyer William Weber, who said he and the Lutzes created the story, while subsequent owners did not report comparable phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.architecturaldigest.com/story/the-amityville-horror-house-everything-you-need-to-know" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: architecturaldigest.com">[Architectural Digest]</a><span class="citation-popover" role="note"><span class="citation-popover-source">architecturaldigest.com</span><span class="citation-popover-title">Architectural Digest The Amityville Horror House: Everything You Need to Know</span><span class="citation-popover-snippet">Architectural Digest The Amityville Horror House: Everything You Need to Know</span></span></span>
 
 Amityville is important because it shows how haunting can attach to market value, media repetition and architectural imagery. The house’s distinctive windows, address changes and continuing public curiosity became part of the folklore. Even when a story is widely disputed, it can remain culturally powerful because it fuses crime, domestic space and the fear that a home can remember violence.
 
@@ -603,201 +603,201 @@ The weakest reports are often the most cinematic: perfect apparitions, theatrica
 
 ## Reading ghost reports without losing the human story
 
-Ghost reports often carry grief. Pew’s finding that many Americans report dreams, presence experiences or communications involving dead relatives is a reminder that not every “ghost” claim belongs in the same category as a haunted castle or poltergeist case. For many people, the experience is part of mourning, continuing bonds and family memory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pewresearch.org/short-reads/2023/08/23/many-americans-report-interacting-with-dead-relatives-in-dreams-or-other-ways/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[Pew Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-title">many americans report interacting with dead relatives in dreams or other ways</span><span class="citation-popover-snippet">many americans report interacting with dead relatives in dreams or other ways</span></span></span>
+Ghost reports often carry grief. Pew’s finding that many Americans report dreams, presence experiences or communications involving dead relatives is a reminder that not every “ghost” claim belongs in the same category as a haunted castle or poltergeist case. For many people, the experience is part of mourning, continuing bonds and family memory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pewresearch.org/short-reads/2023/08/23/many-americans-report-interacting-with-dead-relatives-in-dreams-or-other-ways/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[Pew Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-title">many americans report interacting with dead relatives in dreams or other ways</span><span class="citation-popover-snippet">many americans report interacting with dead relatives in dreams or other ways</span></span></span>
 
 That human dimension is easy to mishandle. Aggressive debunking may miss why the experience mattered; credulous retelling may turn private grief into paranormal evidence. A better approach separates emotional meaning from factual conclusion. A bereaved person may truly have had a vivid, consoling experience without that experience proving survival after death. A family may sincerely believe a house is haunted while also living inside a pattern of stress, noise, suggestion and retold local lore.
 
 This is where ghost reports sit most naturally within Forteana. They are not just claims about the dead. They are claims about perception under pressure, memory under suggestion, places under narrative weight, and communities deciding which strange experiences deserve to be preserved. A ghost story is most useful when it is allowed to remain difficult: not accepted too quickly, not dismissed too cheaply, and not stripped of the cultural and personal meanings that made it survive.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Makes a Ghost Story Fortean?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Makes a Ghost Story Fortean?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Provides the skeptical framework central to Fortean investigation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the skeptical framework central to Fortean investigation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Explores why remarkable stories and beliefs persist across generations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Explores why remarkable stories and beliefs persist across generations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Spook+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Spook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/247995-M.jpg" alt="Cover for Spook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Spook+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spook">Spook</a>
-        </h4>
-        <p class="fr-book-author">By Mary Roach</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Spook+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Spook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/247995-M.jpg" alt="Cover for Spook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Spook+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spook">Spook</a>
+</h4>
+<p class="fr-book-author">By Mary Roach</p>
         
-        <p class="fr-book-desc">First published 2005. Subjects: Religion and science, Consciousness, Near-death experiences, Soul, Future life.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Spook+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2005. Subjects: Religion and science, Consciousness, Near-death experiences, Soul, Future life.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Spook+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+Hunters+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost Hunters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/872311-M.jpg" alt="Cover for Ghost Hunters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghost+Hunters+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost Hunters">Ghost Hunters</a>
-        </h4>
-        <p class="fr-book-author">By Deborah Blum</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+Hunters+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost Hunters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/872311-M.jpg" alt="Cover for Ghost Hunters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghost+Hunters+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost Hunters">Ghost Hunters</a>
+</h4>
+<p class="fr-book-author">By Deborah Blum</p>
         
-        <p class="fr-book-desc">First published 2006. Subjects: Spiritualism, History, Ghosts, Parapsychology, New York Times reviewed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghost+Hunters+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2006. Subjects: Spiritualism, History, Ghosts, Parapsychology, New York Times reviewed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghost+Hunters+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Spook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Spook</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Spook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Spook</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HexCom - WordBank Word Generator Ghost Hunting Equipment Paranormal Kit EMF"><img src="{{ '/assets/images/marketplace-covers/7b176348381057a6cfde.jpg' | relative_url }}" alt="Listing image for HexCom - WordBank Word Generator Ghost Hunting Equipment Paranormal Kit EMF" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer">HexCom - WordBank Word Generator Ghost Hunting Equipment Paranormal Kit EMF</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost hunting equipment">Search <span data-ebay-domain-label>eBay.co.uk</span>: ghost hunting equipment</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HexCom - WordBank Word Generator Ghost Hunting Equipment Paranormal Kit EMF"><img src="{{ '/assets/images/marketplace-covers/7b176348381057a6cfde.jpg' | relative_url }}" alt="Listing image for HexCom - WordBank Word Generator Ghost Hunting Equipment Paranormal Kit EMF" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer">HexCom - WordBank Word Generator Ghost Hunting Equipment Paranormal Kit EMF</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost hunting equipment">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost hunting equipment</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HexBox Spirit Box Ghost Hunting Equipment AM FM Radio Scanner Paranormal ITC"><img src="{{ '/assets/images/marketplace-covers/d6dd7edad5dea306e788.jpg' | relative_url }}" alt="Listing image for HexBox Spirit Box Ghost Hunting Equipment AM FM Radio Scanner Paranormal ITC" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer">HexBox Spirit Box Ghost Hunting Equipment AM FM Radio Scanner Paranormal ITC</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost hunting equipment">Search <span data-ebay-domain-label>eBay.co.uk</span>: ghost hunting equipment</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HexBox Spirit Box Ghost Hunting Equipment AM FM Radio Scanner Paranormal ITC"><img src="{{ '/assets/images/marketplace-covers/d6dd7edad5dea306e788.jpg' | relative_url }}" alt="Listing image for HexBox Spirit Box Ghost Hunting Equipment AM FM Radio Scanner Paranormal ITC" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer">HexBox Spirit Box Ghost Hunting Equipment AM FM Radio Scanner Paranormal ITC</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost hunting equipment">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost hunting equipment</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ghostly Music Box for Ghost Hunting Equipment Motion Detector PIR Paranormal"><img src="{{ '/assets/images/marketplace-covers/f801bd4d0c11af924cef.jpg' | relative_url }}" alt="Listing image for Ghostly Music Box for Ghost Hunting Equipment Motion Detector PIR Paranormal" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer">Ghostly Music Box for Ghost Hunting Equipment Motion Detector PIR Paranormal</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost hunting equipment">Search <span data-ebay-domain-label>eBay.co.uk</span>: ghost hunting equipment</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ghostly Music Box for Ghost Hunting Equipment Motion Detector PIR Paranormal"><img src="{{ '/assets/images/marketplace-covers/f801bd4d0c11af924cef.jpg' | relative_url }}" alt="Listing image for Ghostly Music Box for Ghost Hunting Equipment Motion Detector PIR Paranormal" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer">Ghostly Music Box for Ghost Hunting Equipment Motion Detector PIR Paranormal</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost hunting equipment">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost hunting equipment</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Portable SLS Camera Skeletal Stickman Tracker Ghost Hunting Equipment Paranormal"><img src="{{ '/assets/images/marketplace-covers/3c16ae7eb1cbf7db55d8.jpg' | relative_url }}" alt="Listing image for Portable SLS Camera Skeletal Stickman Tracker Ghost Hunting Equipment Paranormal" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer">Portable SLS Camera Skeletal Stickman Tracker Ghost Hunting Equipment Paranormal</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost hunting equipment">Search <span data-ebay-domain-label>eBay.co.uk</span>: ghost hunting equipment</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Portable SLS Camera Skeletal Stickman Tracker Ghost Hunting Equipment Paranormal"><img src="{{ '/assets/images/marketplace-covers/3c16ae7eb1cbf7db55d8.jpg' | relative_url }}" alt="Listing image for Portable SLS Camera Skeletal Stickman Tracker Ghost Hunting Equipment Paranormal" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer">Portable SLS Camera Skeletal Stickman Tracker Ghost Hunting Equipment Paranormal</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost hunting equipment">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost hunting equipment</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ghosts-what-makes-a-ghost-story-fortean-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -813,7 +813,7 @@ This is where ghost reports sit most naturally within Forteana. They are not jus
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -833,7 +833,7 @@ This is where ghost reports sit most naturally within Forteana. They are not jus
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -865,7 +865,7 @@ This is where ghost reports sit most naturally within Forteana. They are not jus
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -917,7 +917,7 @@ This is where ghost reports sit most naturally within Forteana. They are not jus
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -962,7 +962,7 @@ This is where ghost reports sit most naturally within Forteana. They are not jus
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1003,241 +1003,241 @@ This is where ghost reports sit most naturally within Forteana. They are not jus
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: yougov.com  
    Title: 52619 ghosts magic do britons believe in the supernatural  
-   Link: <a href="https://yougov.com/en-gb/articles/52619-ghosts-magic-do-britons-believe-in-the-supernatural" target="_blank" rel="noopener noreferrer nofollow">https://yougov.com/en-gb/articles/52619-ghosts-magic-do-britons-believe-in-the-supernatural</a>  
+   Link:<a href="https://yougov.com/en-gb/articles/52619-ghosts-magic-do-britons-believe-in-the-supernatural" target="_blank" rel="noopener noreferrer nofollow">https://yougov.com/en-gb/articles/52619-ghosts-magic-do-britons-believe-in-the-supernatural</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: spr.ac.uk  
-   Link: <a href="https://www.spr.ac.uk/about/our-history" target="_blank" rel="noopener noreferrer nofollow">https://www.spr.ac.uk/about/our-history</a>  
+   Link:<a href="https://www.spr.ac.uk/about/our-history" target="_blank" rel="noopener noreferrer nofollow">https://www.spr.ac.uk/about/our-history</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: spr.ac.uk  
-   Link: <a href="https://www.spr.ac.uk/8-spontaneous-apparitions-and-ndes" target="_blank" rel="noopener noreferrer nofollow">https://www.spr.ac.uk/8-spontaneous-apparitions-and-ndes</a>  
+   Link:<a href="https://www.spr.ac.uk/8-spontaneous-apparitions-and-ndes" target="_blank" rel="noopener noreferrer nofollow">https://www.spr.ac.uk/8-spontaneous-apparitions-and-ndes</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Sleep Paralysis: phenomenology, neurophysiology and treatment  
-   Link: <a href="https://arxiv.org/abs/1704.02342" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1704.02342</a>  
+   Link:<a href="https://arxiv.org/abs/1704.02342" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1704.02342</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: haque.co.uk  
    Title: Haunt Project  
-   Link: <a href="https://www.haque.co.uk/work/haunt/HauntProject.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.haque.co.uk/work/haunt/HauntProject.pdf</a>  
+   Link:<a href="https://www.haque.co.uk/work/haunt/HauntProject.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.haque.co.uk/work/haunt/HauntProject.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: library.umbc.edu  
-   Link: <a href="https://library.umbc.edu/specialcollections/garrett/hauntings/borley-rectory/" target="_blank" rel="noopener noreferrer nofollow">https://library.umbc.edu/specialcollections/garrett/hauntings/borley-rectory/</a>  
+   Link:<a href="https://library.umbc.edu/specialcollections/garrett/hauntings/borley-rectory/" target="_blank" rel="noopener noreferrer nofollow">https://library.umbc.edu/specialcollections/garrett/hauntings/borley-rectory/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: yougov.com  
-   Link: <a href="https://yougov.com/en-us/topics/concept/Ghosts" target="_blank" rel="noopener noreferrer nofollow">https://yougov.com/en-us/topics/concept/Ghosts</a>  
+   Link:<a href="https://yougov.com/en-us/topics/concept/Ghosts" target="_blank" rel="noopener noreferrer nofollow">https://yougov.com/en-us/topics/concept/Ghosts</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: yougov.com  
    Title: 10857 ghosts exist say 1 3 brits  
-   Link: <a href="https://yougov.com/en-gb/articles/10857-ghosts-exist-say-1-3-brits" target="_blank" rel="noopener noreferrer nofollow">https://yougov.com/en-gb/articles/10857-ghosts-exist-say-1-3-brits</a>  
+   Link:<a href="https://yougov.com/en-gb/articles/10857-ghosts-exist-say-1-3-brits" target="_blank" rel="noopener noreferrer nofollow">https://yougov.com/en-gb/articles/10857-ghosts-exist-say-1-3-brits</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: time.com  
    Title: sleep paralysis ghosts  
-   Link: <a href="https://time.com/6259846/sleep-paralysis-ghosts/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6259846/sleep-paralysis-ghosts/</a>  
+   Link:<a href="https://time.com/6259846/sleep-paralysis-ghosts/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6259846/sleep-paralysis-ghosts/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: time.com  
-   Link: <a href="https://time.com/4073702/heres-what-americans-are-most-afraid-of/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/4073702/heres-what-americans-are-most-afraid-of/</a>  
+   Link:<a href="https://time.com/4073702/heres-what-americans-are-most-afraid-of/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/4073702/heres-what-americans-are-most-afraid-of/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/census-hallucinations" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/census-hallucinations</a>  
+   Link:<a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/census-hallucinations" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/census-hallucinations</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pewresearch.org  
    Title: Pew Research Center18% of Americans say they've seen a ghost  
-   Link: <a href="https://www.pewresearch.org/short-reads/2015/10/30/18-of-americans-say-theyve-seen-a-ghost/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/short-reads/2015/10/30/18-of-americans-say-theyve-seen-a-ghost/</a>  
+   Link:<a href="https://www.pewresearch.org/short-reads/2015/10/30/18-of-americans-say-theyve-seen-a-ghost/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/short-reads/2015/10/30/18-of-americans-say-theyve-seen-a-ghost/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pewresearch.org  
    Title: many americans report interacting with dead relatives in dreams or other ways  
-   Link: <a href="https://www.pewresearch.org/short-reads/2023/08/23/many-americans-report-interacting-with-dead-relatives-in-dreams-or-other-ways/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/short-reads/2023/08/23/many-americans-report-interacting-with-dead-relatives-in-dreams-or-other-ways/</a>  
+   Link:<a href="https://www.pewresearch.org/short-reads/2023/08/23/many-americans-report-interacting-with-dead-relatives-in-dreams-or-other-ways/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/short-reads/2023/08/23/many-americans-report-interacting-with-dead-relatives-in-dreams-or-other-ways/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: richardwiseman.com  
    Title: Richard Wiseman An investigation into alleged 'hauntings'  
-   Link: <a href="https://www.richardwiseman.com/resources/BJP-hauntings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.richardwiseman.com/resources/BJP-hauntings.pdf</a>  
+   Link:<a href="https://www.richardwiseman.com/resources/BJP-hauntings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.richardwiseman.com/resources/BJP-hauntings.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/12803815/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/12803815/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/12803815/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/12803815/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/news/report-urges-caution-in-handling-and-relying-upon-eyewitness-identifications-in-criminal-cases-recommends-best-practices-for-law-enforcement-and-courts" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/news/report-urges-caution-in-handling-and-relying-upon-eyewitness-identifications-in-criminal-cases-recommends-best-practices-for-law-enforcement-and-courts</a>  
+   Link:<a href="https://www.nationalacademies.org/news/report-urges-caution-in-handling-and-relying-upon-eyewitness-identifications-in-criminal-cases-recommends-best-practices-for-law-enforcement-and-courts" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/news/report-urges-caution-in-handling-and-relying-upon-eyewitness-identifications-in-criminal-cases-recommends-best-practices-for-law-enforcement-and-courts</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: apa.org  
-   Link: <a href="https://www.apa.org/news/podcasts/speaking-of-[psychology" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/news/podcasts/speaking-of-[psychology</a>  
+   Link:<a href="https://www.apa.org/news/podcasts/speaking-of-[psychology" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/news/podcasts/speaking-of-[psychology</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/18635163/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/18635163/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/18635163/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/18635163/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: discovery.ucl.ac.uk  
    Title: UCL Discovery Haunted Landscapes: Place, Past and Presence  
-   Link: <a href="https://discovery.ucl.ac.uk/10114566/1/Paphitis%20Haunted%20Landscapes.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/10114566/1/Paphitis%20Haunted%20Landscapes.pdf</a>  
+   Link:<a href="https://discovery.ucl.ac.uk/10114566/1/Paphitis%20Haunted%20Landscapes.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/10114566/1/Paphitis%20Haunted%20Landscapes.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: english-heritage.org.uk  
-   Link: <a href="https://www.english-heritage.org.uk/members-area/members-magazine/haunted-monasteries/" target="_blank" rel="noopener noreferrer nofollow">https://www.english-heritage.org.uk/members-area/members-magazine/haunted-monasteries/</a>  
+   Link:<a href="https://www.english-heritage.org.uk/members-area/members-magazine/haunted-monasteries/" target="_blank" rel="noopener noreferrer nofollow">https://www.english-heritage.org.uk/members-area/members-magazine/haunted-monasteries/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: kureansiklopedi.com  
    Title: Küre Encyclopedia Enfield Poltergeist Case | KÜRE Encyclopedia  
-   Link: <a href="https://kureansiklopedi.com/en/detay/enfield-poltergeist-case-bd698" target="_blank" rel="noopener noreferrer nofollow">https://kureansiklopedi.com/en/detay/enfield-poltergeist-case-bd698</a>  
+   Link:<a href="https://kureansiklopedi.com/en/detay/enfield-poltergeist-case-bd698" target="_blank" rel="noopener noreferrer nofollow">https://kureansiklopedi.com/en/detay/enfield-poltergeist-case-bd698</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: architecturaldigest.com  
    Title: Architectural Digest The Amityville Horror House: Everything You Need to Know  
-   Link: <a href="https://www.architecturaldigest.com/story/the-amityville-horror-house-everything-you-need-to-know" target="_blank" rel="noopener noreferrer nofollow">https://www.architecturaldigest.com/story/the-amityville-horror-house-everything-you-need-to-know</a>  
+   Link:<a href="https://www.architecturaldigest.com/story/the-amityville-horror-house-everything-you-need-to-know" target="_blank" rel="noopener noreferrer nofollow">https://www.architecturaldigest.com/story/the-amityville-horror-house-everything-you-need-to-know</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9067702/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9067702/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9067702/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9067702/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9216229/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9216229/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9216229/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9216229/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7304295/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7304295/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7304295/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7304295/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26348334/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26348334/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26348334/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26348334/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1236565/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC1236565/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1236565/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC1236565/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/40827741/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/40827741/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/40827741/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/40827741/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Society" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Society</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Society" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Society</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: Wikipedia  
    Title: Society for Psychical Research  
-   Link: <a href="https://en.wikipedia.org/wiki/Society_for_Psychical_Research" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Society_for_Psychical_Research</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Society_for_Psychical_Research" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Society_for_Psychical_Research</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: Wikipedia  
    Title: Haunted house  
-   Link: <a href="https://en.wikipedia.org/wiki/Haunted_house" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Haunted_house</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Haunted_house" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Haunted_house</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: Wikipedia  
    Title: Harry Price  
-   Link: <a href="https://en.wikipedia.org/wiki/Harry_Price" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Harry_Price</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Harry_Price" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Harry_Price</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: Wikipedia  
    Title: Enfield poltergeist  
-   Link: <a href="https://en.wikipedia.org/wiki/Enfield_poltergeist" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Enfield_poltergeist</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Enfield_poltergeist" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Enfield_poltergeist</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: Wikipedia  
    Title: Ghost story  
-   Link: <a href="https://en.wikipedia.org/wiki/Ghost_story" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ghost_story</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ghost_story" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ghost_story</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: Wikipedia  
    Title: Elizabeth Loftus  
-   Link: <a href="https://en.wikipedia.org/wiki/Elizabeth_Loftus" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Elizabeth_Loftus</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Elizabeth_Loftus" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Elizabeth_Loftus</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: richardwiseman.wordpress.com  
    Title: psychology of ghosts and hauntings  
-   Link: <a href="https://richardwiseman.wordpress.com/research/psychology-of-ghosts-and-hauntings/" target="_blank" rel="noopener noreferrer nofollow">https://richardwiseman.wordpress.com/research/psychology-of-ghosts-and-hauntings/</a>  
+   Link:<a href="https://richardwiseman.wordpress.com/research/psychology-of-ghosts-and-hauntings/" target="_blank" rel="noopener noreferrer nofollow">https://richardwiseman.wordpress.com/research/psychology-of-ghosts-and-hauntings/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: pewresearch.org  
    Title: see dead people  
-   Link: <a href="https://www.pewresearch.org/short-reads/2009/12/29/see-dead-people/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/short-reads/2009/12/29/see-dead-people/</a>  
+   Link:<a href="https://www.pewresearch.org/short-reads/2009/12/29/see-dead-people/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/short-reads/2009/12/29/see-dead-people/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: psi-encyclopedia.spr.ac.uk  
    Title: ghosts and apparitions psi research overview  
-   Link: <a href="https://psi-encyclopedia.spr.ac.uk/articles/ghosts-and-apparitions-psi-research-overview/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/articles/ghosts-and-apparitions-psi-research-overview/</a>  
+   Link:<a href="https://psi-encyclopedia.spr.ac.uk/articles/ghosts-and-apparitions-psi-research-overview/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/articles/ghosts-and-apparitions-psi-research-overview/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/read/18891/chapter/2" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/18891/chapter/2</a>  
+   Link:<a href="https://www.nationalacademies.org/read/18891/chapter/2" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/18891/chapter/2</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: hereliesastory.com  
    Title: the amityville horror  
-   Link: <a href="https://hereliesastory.com/the-amityville-horror/" target="_blank" rel="noopener noreferrer nofollow">https://hereliesastory.com/the-amityville-horror/</a>  
+   Link:<a href="https://hereliesastory.com/the-amityville-horror/" target="_blank" rel="noopener noreferrer nofollow">https://hereliesastory.com/the-amityville-horror/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: aiprinc.org  
-   Link: <a href="https://www.aiprinc.org/apparitions/" target="_blank" rel="noopener noreferrer nofollow">https://www.aiprinc.org/apparitions/</a>  
+   Link:<a href="https://www.aiprinc.org/apparitions/" target="_blank" rel="noopener noreferrer nofollow">https://www.aiprinc.org/apparitions/</a>  
 
 ### Additional References
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/science/2026/apr/27/spooky-feelings-in-old-houses-may-be-caused-by-boiler-sounds-study-suggests" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/apr/27/spooky-feelings-in-old-houses-may-be-caused-by-boiler-sounds-study-suggests</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Led by Prof. Rodney Schmaltz at MacEwan University, previous experiments at haunted attractions showed inconclusive results, prompting fu...</p></details>
+   Link:<a href="https://www.theguardian.com/science/2026/apr/27/spooky-feelings-in-old-houses-may-be-caused-by-boiler-sounds-study-suggests" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/apr/27/spooky-feelings-in-old-houses-may-be-caused-by-boiler-sounds-study-suggests</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Led by Prof. Rodney Schmaltz at MacEwan University, previous experiments at haunted attractions showed inconclusive results, prompting fu...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Jve3p0ws-nI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Jve3p0ws-nI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Paranormal activity: science or fiction? - with Chris French...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Jve3p0ws-nI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Jve3p0ws-nI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Paranormal activity: science or fiction? - with Chris French...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: youtube.com  
    Title: A scientific approach to the paranormal | Carrie Poppy  
-   Link: <a href="https://www.youtube.com/watch?v=n8yhaFd_GpM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=n8yhaFd_GpM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 An Introduction to Paranormal Psychology - with Chris French...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=n8yhaFd_GpM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=n8yhaFd_GpM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 An Introduction to Paranormal Psychology - with Chris French...</p></details>
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: youtube.com  
    Title: This Revealing Science Explains Why People See Ghosts  
-   Link: <a href="https://www.youtube.com/watch?v=khf7BKhDjIY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=khf7BKhDjIY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 A scientific approach to the paranormal | Carrie Poppy...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=khf7BKhDjIY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=khf7BKhDjIY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 A scientific approach to the paranormal | Carrie Poppy...</p></details>
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: youtube.com  
    Title: Why People See Ghosts (According to Neuroscience)  
-   Link: <a href="https://www.youtube.com/watch?v=dkGx67rQsEc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dkGx67rQsEc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 This Revealing Science Explains Why People See Ghosts...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=dkGx67rQsEc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dkGx67rQsEc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 This Revealing Science Explains Why People See Ghosts...</p></details>
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/51409650_The_Haunt_project_An_attempt_to_build_a_haunted_room_by_manipulating_complex_electromagnetic_fields_and_infrasound" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/51409650_The_Haunt_project_An_attempt_to_build_a_haunted_room_by_manipulating_complex_electromagnetic_fields_and_infrasound</a>  
+   Link:<a href="https://www.researchgate.net/publication/51409650_The_Haunt_project_An_attempt_to_build_a_haunted_room_by_manipulating_complex_electromagnetic_fields_and_infrasound" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/51409650_The_Haunt_project_An_attempt_to_build_a_haunted_room_by_manipulating_complex_electromagnetic_fields_and_infrasound</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/2657696/An_investigation_into_the_alleged_haunting_of_Hampton_Court_Palace_Psychological_variables_and_magnetic_fields" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/2657696/An_investigation_into_the_alleged_haunting_of_Hampton_Court_Palace_Psychological_variables_and_magnetic_fields</a>  
+   Link:<a href="https://www.academia.edu/2657696/An_investigation_into_the_alleged_haunting_of_Hampton_Court_Palace_Psychological_variables_and_magnetic_fields" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/2657696/An_investigation_into_the_alleged_haunting_of_Hampton_Court_Palace_Psychological_variables_and_magnetic_fields</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: scentedghosttoursbath.co.uk  
-   Link: <a href="https://scentedghosttoursbath.co.uk/are-ghosts-real-the-complete-guide-to-belief-science-hauntings-evidence/" target="_blank" rel="noopener noreferrer nofollow">https://scentedghosttoursbath.co.uk/are-ghosts-real-the-complete-guide-to-belief-science-hauntings-evidence/</a>  
+   Link:<a href="https://scentedghosttoursbath.co.uk/are-ghosts-real-the-complete-guide-to-belief-science-hauntings-evidence/" target="_blank" rel="noopener noreferrer nofollow">https://scentedghosttoursbath.co.uk/are-ghosts-real-the-complete-guide-to-belief-science-hauntings-evidence/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: psichi.org  
-   Link: <a href="https://www.psichi.org/page/214EyeSum17dLoftus" target="_blank" rel="noopener noreferrer nofollow">https://www.psichi.org/page/214EyeSum17dLoftus</a>  
+   Link:<a href="https://www.psichi.org/page/214EyeSum17dLoftus" target="_blank" rel="noopener noreferrer nofollow">https://www.psichi.org/page/214EyeSum17dLoftus</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: flightsandfables.com  
-   Link: <a href="https://www.flightsandfables.com/european-ghost-stories-folklore/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightsandfables.com/european-ghost-stories-folklore/</a>  
+   Link:<a href="https://www.flightsandfables.com/european-ghost-stories-folklore/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightsandfables.com/european-ghost-stories-folklore/</a>  

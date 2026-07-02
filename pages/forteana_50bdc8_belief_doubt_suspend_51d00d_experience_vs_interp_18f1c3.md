@@ -280,7 +280,7 @@ image: /assets/images/forteana_50bdc8_belief_doubt_suspend_51d00d_experience_vs_
 
 ## Introduction
 
-One of the most useful habits in Fortean thinking is to separate **what someone experienced** from **what they concluded caused it**. A person may genuinely see an unexplained light, hear footsteps in an empty house, or experience an intensely real presence. None of those reports automatically establish ghosts, extraterrestrial craft or other paranormal causes. Equally, questioning the explanation does not require dismissing the experience as dishonest or imaginary. The distinction allows unusual events to be investigated without forcing a premature choice between unquestioning belief and blanket scepticism. It also reflects a long tradition in anomalistics and [psychology]({{ 'psychology/' | relative_url }}), where researchers distinguish between the [observation]({{ 'observation/' | relative_url }}) itself and the interpretation attached to it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4685320/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAnomalous Experiences, Trauma, and Symbolization</span><span class="citation-popover-snippet">by T Rabeyron · 2015 · Cited by 71 — Anomalous or exceptional experiences are uncommon experiences which are usually interpreted as be...</span></span></span>
+One of the most useful habits in Fortean thinking is to separate **what someone experienced** from **what they concluded caused it**. A person may genuinely see an unexplained light, hear footsteps in an empty house, or experience an intensely real presence. None of those reports automatically establish ghosts, extraterrestrial craft or other paranormal causes. Equally, questioning the explanation does not require dismissing the experience as dishonest or imaginary. The distinction allows unusual events to be investigated without forcing a premature choice between unquestioning belief and blanket scepticism. It also reflects a long tradition in anomalistics and [psychology]({{ 'psychology/' | relative_url }}), where researchers distinguish between the [observation]({{ 'observation/' | relative_url }}) itself and the interpretation attached to it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4685320/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAnomalous Experiences, Trauma, and Symbolization</span><span class="citation-popover-snippet">by T Rabeyron · 2015 · Cited by 71 — Anomalous or exceptional experiences are uncommon experiences which are usually interpreted as be...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_belief_doubt_suspend_51d00d_experience_vs_interp_18f1c3-Illustration-1-dark.svg" | relative_url }}" alt="Experience illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_belief_doubt_suspend_51d00d_experience_vs_interp_18f1c3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_belief_doubt_suspend_51d00d_experience_vs_interp_18f1c3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -300,7 +300,7 @@ A witness normally reports a chain of events rather than a finished explanation.
 
 Those are descriptions of experience. Statements such as "it was an alien spacecraft" or "the house is haunted" belong to a different category. They are explanatory hypotheses rather than direct observations.
 
-Researchers studying subjective paranormal experiences have repeatedly noted that people often combine these two levels into a single account. This can make later investigation difficult because memory of the original sensory experience becomes intertwined with later interpretation, discussion and cultural expectations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/Neil-Dagnall/publication/332188015_Paranormal_Experience_Belief_in_the_Paranormal_and_Anomalous_Beliefs/links/5ca5aed092851c8e64b10754/Paranormal-Experience-Belief-in-the-Paranormal-and-Anomalous-Beliefs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Paranormal Experience, Belief in the...October 31, 2017 — this study investigated the prevalence of subjective paranormal ex...</span><span class="citation-popover-meta">Published: October 31, 2017</span></span></span>
+Researchers studying subjective paranormal experiences have repeatedly noted that people often combine these two levels into a single account. This can make later investigation difficult because memory of the original sensory experience becomes intertwined with later interpretation, discussion and cultural expectations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/Neil-Dagnall/publication/332188015_Paranormal_Experience_Belief_in_the_Paranormal_and_Anomalous_Beliefs/links/5ca5aed092851c8e64b10754/Paranormal-Experience-Belief-in-the-Paranormal-and-Anomalous-Beliefs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Paranormal Experience, Belief in the...October 31, 2017 — this study investigated the prevalence of subjective paranormal ex...</span><span class="citation-popover-meta">Published: October 31, 2017</span></span></span>
 
 This distinction matters because several explanations can often fit the same experience. A silent light in the sky might ultimately prove to have been an astronomical object, military aircraft, atmospheric phenomenon or something genuinely unidentified. Likewise, an apparent apparition might involve perceptual factors, environmental influences, an unusual psychological state, deliberate deception, or—if ordinary explanations fail—an unresolved anomaly. The experience is one question; its cause is another.
 
@@ -322,7 +322,7 @@ In both haunting and [UFO reports]({{ 'ufo-reports/' | relative_url }}), witness
 
 </div>
 
-Psychological research therefore distinguishes between the authenticity of an experience and the accuracy of the explanation assigned to it. An intensely vivid experience may still be misunderstood without implying deception or mental illness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sydneysymposium.unsw.edu.au/2024/chapters/FrenchSSSP2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sydneysymposium.unsw.edu.au">[Sydney Symposium+2American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sydneysymposium.unsw.edu.au</span><span class="citation-popover-snippet">Sydney SymposiumThe Psychology of Paranormal Beliefsby CC French · Cited by 4 — anomalistic psychology attempts to explain paranormal and...</span></span></span>
+Psychological research therefore distinguishes between the authenticity of an experience and the accuracy of the explanation assigned to it. An intensely vivid experience may still be misunderstood without implying deception or mental illness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sydneysymposium.unsw.edu.au/2024/chapters/FrenchSSSP2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sydneysymposium.unsw.edu.au">[Sydney Symposium+2American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sydneysymposium.unsw.edu.au</span><span class="citation-popover-snippet">Sydney SymposiumThe Psychology of Paranormal Beliefsby CC French · Cited by 4 — anomalistic psychology attempts to explain paranormal and...</span></span></span>
 
 This approach also avoids a false dilemma. A witness need not be either "completely correct" or "completely mistaken". Someone may accurately report seeing an unusual aerial object while being wrong about its origin. Equally, a person may genuinely experience an overwhelming sense of presence without establishing that a supernatural entity was objectively present.
 
@@ -350,7 +350,7 @@ Many reported hauntings contain experiences that are psychologically or environm
 
 </div>
 
-One well-known experiment found that people informed a building was haunted reported significantly more unusual experiences than those told it was simply undergoing renovation, illustrating how expectation can shape interpretation without requiring deliberate imagination. Other investigations of allegedly haunted locations found that reports clustered in areas with distinctive environmental characteristics, suggesting that physical surroundings may influence perception while still leaving the experience subjectively genuine. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Anomalistic_psychology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anomalistic psychology</span><span class="citation-popover-snippet">Anomalistic psychology</span></span></span>
+One well-known experiment found that people informed a building was haunted reported significantly more unusual experiences than those told it was simply undergoing renovation, illustrating how expectation can shape interpretation without requiring deliberate imagination. Other investigations of allegedly haunted locations found that reports clustered in areas with distinctive environmental characteristics, suggesting that physical surroundings may influence perception while still leaving the experience subjectively genuine.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Anomalistic_psychology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anomalistic psychology</span><span class="citation-popover-snippet">Anomalistic psychology</span></span></span>
 
 Importantly, these explanations do not require inventing experiences that never occurred. They attempt to explain why real perceptions were interpreted as paranormal.
 
@@ -397,7 +397,7 @@ People interpret ambiguous events using concepts already available within their 
 
 The underlying experience may share certain features while the explanatory framework changes over time.
 
-This observation has interested both psychologists and historians of anomalous experience because it suggests that interpretation is influenced by available cultural narratives as well as by sensory information itself. The changing language of explanation does not automatically invalidate any particular case, but it cautions against assuming that the first interpretation is necessarily the correct one. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4685320/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAnomalous Experiences, Trauma, and Symbolization</span><span class="citation-popover-snippet">by T Rabeyron · 2015 · Cited by 71 — Anomalous or exceptional experiences are uncommon experiences which are usually interpreted as be...</span></span></span>
+This observation has interested both psychologists and historians of anomalous experience because it suggests that interpretation is influenced by available cultural narratives as well as by sensory information itself. The changing language of explanation does not automatically invalidate any particular case, but it cautions against assuming that the first interpretation is necessarily the correct one.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4685320/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAnomalous Experiences, Trauma, and Symbolization</span><span class="citation-popover-snippet">by T Rabeyron · 2015 · Cited by 71 — Anomalous or exceptional experiences are uncommon experiences which are usually interpreted as be...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_belief_doubt_suspend_51d00d_experience_vs_interp_18f1c3-Illustration-3-dark.svg" | relative_url }}" alt="Experience illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_belief_doubt_suspend_51d00d_experience_vs_interp_18f1c3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_belief_doubt_suspend_51d00d_experience_vs_interp_18f1c3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -446,194 +446,194 @@ Separating experience from interpretation allows investigators to respect witnes
 For Forteana, this disciplined separation is one of the strongest safeguards against both credulity and reflex debunking. It keeps inquiry focused on what is genuinely known, what remains uncertain, and where the evidence does—or does not—justify moving from an unusual experience to an extraordinary conclusion.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did something happen, or was it paranormal?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did something happen, or was it paranormal?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Separates perception from interpretation and belief.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Separates perception from interpretation and belief.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Encourages careful interpretation of unusual experiences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages careful interpretation of unusual experiences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explores why explanations can outrun observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores why explanations can outrun observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
+</h4>
+<p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
         
-        <p class="fr-book-desc">Illustrates limits of perception and attention.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates limits of perception and attention.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage GHOST PARANORMAL Wall Art, Seance Haunted House Poster, Halloween Decor"><img src="{{ '/assets/images/marketplace-covers/0e908c9a7e14d4c9e35e.jpg' | relative_url }}" alt="Listing image for Vintage GHOST PARANORMAL Wall Art, Seance Haunted House Poster, Halloween Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage GHOST PARANORMAL Wall Art, Seance Haunted House Poster, Halloween Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage GHOST PARANORMAL Wall Art, Seance Haunted House Poster, Halloween Decor"><img src="{{ '/assets/images/marketplace-covers/0e908c9a7e14d4c9e35e.jpg' | relative_url }}" alt="Listing image for Vintage GHOST PARANORMAL Wall Art, Seance Haunted House Poster, Halloween Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage GHOST PARANORMAL Wall Art, Seance Haunted House Poster, Halloween Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: paranormal wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Satanic Tapestry Wall Art Polyester Lucifer Ritual Pentagram Baphomet Symbol"><img src="{{ '/assets/images/marketplace-covers/38327e1ee9ac31afe7de.jpg' | relative_url }}" alt="Listing image for Satanic Tapestry Wall Art Polyester Lucifer Ritual Pentagram Baphomet Symbol" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer">Satanic Tapestry Wall Art Polyester Lucifer Ritual Pentagram Baphomet Symbol</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Satanic Tapestry Wall Art Polyester Lucifer Ritual Pentagram Baphomet Symbol"><img src="{{ '/assets/images/marketplace-covers/38327e1ee9ac31afe7de.jpg' | relative_url }}" alt="Listing image for Satanic Tapestry Wall Art Polyester Lucifer Ritual Pentagram Baphomet Symbol" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer">Satanic Tapestry Wall Art Polyester Lucifer Ritual Pentagram Baphomet Symbol</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: paranormal wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Twin Paranormal Merch Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e81c3be635c0399faf40.jpg' | relative_url }}" alt="Listing image for Twin Paranormal Merch Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer">Twin Paranormal Merch Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Twin Paranormal Merch Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e81c3be635c0399faf40.jpg' | relative_url }}" alt="Listing image for Twin Paranormal Merch Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer">Twin Paranormal Merch Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: paranormal wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Home Wall Art Print - Vintage Spiritual Paranormal - OUIJA BOARD PRINT -A4,A3,A2"><img src="{{ '/assets/images/marketplace-covers/d774124c198e7e2efe0e.jpg' | relative_url }}" alt="Listing image for Home Wall Art Print - Vintage Spiritual Paranormal - OUIJA BOARD PRINT -A4,A3,A2" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer">Home Wall Art Print - Vintage Spiritual Paranormal - OUIJA BOARD PRINT -A4,A3,A2</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Home Wall Art Print - Vintage Spiritual Paranormal - OUIJA BOARD PRINT -A4,A3,A2"><img src="{{ '/assets/images/marketplace-covers/d774124c198e7e2efe0e.jpg' | relative_url }}" alt="Listing image for Home Wall Art Print - Vintage Spiritual Paranormal - OUIJA BOARD PRINT -A4,A3,A2" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer">Home Wall Art Print - Vintage Spiritual Paranormal - OUIJA BOARD PRINT -A4,A3,A2</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: paranormal wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="experience-did-something-happen-or-was-it-paranormal-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -649,7 +649,7 @@ For Forteana, this disciplined separation is one of the strongest safeguards aga
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -669,7 +669,7 @@ For Forteana, this disciplined separation is one of the strongest safeguards aga
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -701,7 +701,7 @@ For Forteana, this disciplined separation is one of the strongest safeguards aga
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -753,7 +753,7 @@ For Forteana, this disciplined separation is one of the strongest safeguards aga
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -798,7 +798,7 @@ For Forteana, this disciplined separation is one of the strongest safeguards aga
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -839,85 +839,85 @@ For Forteana, this disciplined separation is one of the strongest safeguards aga
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAnomalous Experiences, Trauma, and Symbolization  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4685320/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4685320/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by T Rabeyron · 2015 · Cited by 71 — Anomalous or exceptional experiences are uncommon experiences which are usually interpreted as be...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4685320/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4685320/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by T Rabeyron · 2015 · Cited by 71 — Anomalous or exceptional experiences are uncommon experiences which are usually interpreted as be...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/profile/Neil-Dagnall/publication/332188015_Paranormal_Experience_Belief_in_the_Paranormal_and_Anomalous_Beliefs/links/5ca5aed092851c8e64b10754/Paranormal-Experience-Belief-in-the-Paranormal-and-Anomalous-Beliefs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Neil-Dagnall/publication/332188015_Paranormal_Experience_Belief_in_the_Paranormal_and_Anomalous_Beliefs/links/5ca5aed092851c8e64b10754/Paranormal-Experience-Belief-in-the-Paranormal-and-Anomalous-Beliefs.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Paranormal Experience, Belief in the...October 31, 2017 — this study investigated the prevalence of subjective paranormal ex...</p></details>
+   Link:<a href="https://www.researchgate.net/profile/Neil-Dagnall/publication/332188015_Paranormal_Experience_Belief_in_the_Paranormal_and_Anomalous_Beliefs/links/5ca5aed092851c8e64b10754/Paranormal-Experience-Belief-in-the-Paranormal-and-Anomalous-Beliefs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Neil-Dagnall/publication/332188015_Paranormal_Experience_Belief_in_the_Paranormal_and_Anomalous_Beliefs/links/5ca5aed092851c8e64b10754/Paranormal-Experience-Belief-in-the-Paranormal-and-Anomalous-Beliefs.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paranormal Experience, Belief in the...October 31, 2017 — this study investigated the prevalence of subjective paranormal ex...</p></details>
    Published: October 31, 2017  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Anomalistic psychology  
-   Link: <a href="https://en.wikipedia.org/wiki/Anomalistic_psychology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anomalistic_psychology</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Anomalistic_psychology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anomalistic_psychology</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sydneysymposium.unsw.edu.au  
-   Link: <a href="https://sydneysymposium.unsw.edu.au/2024/chapters/FrenchSSSP2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sydneysymposium.unsw.edu.au/2024/chapters/FrenchSSSP2024.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sydney SymposiumThe Psychology of Paranormal Beliefsby CC French · Cited by 4 — anomalistic psychology attempts to explain paranormal and...</p></details>
+   Link:<a href="https://sydneysymposium.unsw.edu.au/2024/chapters/FrenchSSSP2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sydneysymposium.unsw.edu.au/2024/chapters/FrenchSSSP2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sydney SymposiumThe Psychology of Paranormal Beliefsby CC French · Cited by 4 — anomalistic psychology attempts to explain paranormal and...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: apa.org  
-   Link: <a href="https://www.apa.org/news/podcasts/speaking-of-psychology/paranormal" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/news/podcasts/speaking-of-psychology/paranormal</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationSpeaking of Psychology: [Ghosts](&amp;#123;&amp;#123; &#x27;ghosts/&#x27; | relative_url &amp;#125;&amp;#125;), Ouija boards, and ESPAnomalistic psychology is primarily focused upon t...</p></details>
+   Link:<a href="https://www.apa.org/news/podcasts/speaking-of-psychology/paranormal" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/news/podcasts/speaking-of-psychology/paranormal</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationSpeaking of Psychology: [Ghosts](&amp;#123;&amp;#123; &#x27;ghosts/&#x27; | relative_url &amp;#125;&amp;#125;), Ouija boards, and ESPAnomalistic psychology is primarily focused upon t...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/Documents/in/Psychology_of_Anomalous_Experiences/MostDownloaded" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/Documents/in/Psychology_of_Anomalous_Experiences/MostDownloaded</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology of Anomalous Experiences Research PapersThe psychology of anomalous experiences studies unusual perceptions, beliefs, and phen...</p></details>
+   Link:<a href="https://www.academia.edu/Documents/in/Psychology_of_Anomalous_Experiences/MostDownloaded" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/Documents/in/Psychology_of_Anomalous_Experiences/MostDownloaded</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology of Anomalous Experiences Research PapersThe psychology of anomalous experiences studies unusual perceptions, beliefs, and phen...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: walshmedicalmedia.com  
-   Link: <a href="https://www.walshmedicalmedia.com/open-access/exploring-paranormal-activity-insights-from-science-and-psychology-136498.html" target="_blank" rel="noopener noreferrer nofollow">https://www.walshmedicalmedia.com/open-access/exploring-paranormal-activity-insights-from-science-and-psychology-136498.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>eption, memory and decision-making, showing that human experience is shaped not...Read more...</p></details>
+   Link:<a href="https://www.walshmedicalmedia.com/open-access/exploring-paranormal-activity-insights-from-science-and-psychology-136498.html" target="_blank" rel="noopener noreferrer nofollow">https://www.walshmedicalmedia.com/open-access/exploring-paranormal-activity-insights-from-science-and-psychology-136498.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>eption, memory and decision-making, showing that human experience is shaped not...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/anomalistic-psychology-exploring-paranormal-belief-and-experience-9781403995711-9781137368065.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/anomalistic-psychology-exploring-paranormal-belief-and-experience-9781403995711-9781137368065.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>rmal forces do not exist and attempt to explain ostensibly paranormal experiences...</p></details>
+   Link:<a href="https://dokumen.pub/anomalistic-psychology-exploring-paranormal-belief-and-experience-9781403995711-9781137368065.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/anomalistic-psychology-exploring-paranormal-belief-and-experience-9781403995711-9781137368065.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rmal forces do not exist and attempt to explain ostensibly paranormal experiences...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/science/comments/3bi3d7/science_ama_series_im_professor_chris_french/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/science/comments/3bi3d7/science_ama_series_im_professor_chris_french/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nd experience, including those that are often labelled &#x27;paranormal&#x27;...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/science/comments/3bi3d7/science_ama_series_im_professor_chris_french/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/science/comments/3bi3d7/science_ama_series_im_professor_chris_french/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nd experience, including those that are often labelled &#x27;paranormal&#x27;...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Jve3p0ws-nI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Jve3p0ws-nI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Paranormal activity: science or fiction? - with Chris French...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Jve3p0ws-nI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Jve3p0ws-nI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paranormal activity: science or fiction? - with Chris French...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Putting Paranormal Claims to the Test | Chris French  
-   Link: <a href="https://www.youtube.com/watch?v=v4NqTD6NNCI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=v4NqTD6NNCI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chris French on Belief in Paranormal Phenomena | Closer To Truth Chats...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=v4NqTD6NNCI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=v4NqTD6NNCI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chris French on Belief in Paranormal Phenomena | Closer To Truth Chats...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Paranormal activity: science or fiction?  
-   Link: <a href="https://www.youtube.com/watch?v=i8mjM3PB_Tk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i8mjM3PB_Tk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Weird Shit | Chris French...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=i8mjM3PB_Tk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i8mjM3PB_Tk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Weird Shit | Chris French...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Chris French  
-   Link: <a href="https://www.youtube.com/watch?v=rzHEw7ph-kg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rzHEw7ph-kg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weird Science: An Introduction to Anomalistic...anomalistic psychology, which may be defined as the study of extraordinary phenomena of...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rzHEw7ph-kg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rzHEw7ph-kg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weird Science: An Introduction to Anomalistic...anomalistic psychology, which may be defined as the study of extraordinary phenomena of...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: The Science of Weird Shit | Chris French  
-   Link: <a href="https://www.youtube.com/watch?v=kmcq3oS47qE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kmcq3oS47qE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Putting Paranormal Claims to the Test | Chris French...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kmcq3oS47qE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kmcq3oS47qE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Putting Paranormal Claims to the Test | Chris French...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Chris French on Belief in Paranormal Phenomena | Closer To Truth Chats  
-   Link: <a href="https://www.youtube.com/watch?v=bj9wYr6oRlU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bj9wYr6oRlU</a>  
+   Link:<a href="https://www.youtube.com/watch?v=bj9wYr6oRlU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bj9wYr6oRlU</a>  

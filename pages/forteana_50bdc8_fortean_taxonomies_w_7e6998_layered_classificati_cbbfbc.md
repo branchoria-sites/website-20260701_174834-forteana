@@ -203,6 +203,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-07-01 17:41:49'
 parent_title: Can Strange Phenomena Be Neatly Sorted?
 parent_permalink: /taxonomies/
 parent_nav_short_title: Taxonomies
@@ -271,7 +272,6 @@ next_link:
   permalink: /uap-data-gaps-1722c2/
   short_title: UAP Data Gaps
   heading_title: When Unidentified Means Not Enough Data
-date: '2026-07-01 17:41:49 '
 header:
   og_image: /assets/images/forteana_50bdc8_fortean_taxonomies_w_7e6998_layered_classificati_cbbfbc-Illustration-1-social.jpg
   preview_image: /assets/images/forteana_50bdc8_fortean_taxonomies_w_7e6998_layered_classificati_cbbfbc-Illustration-1.webp
@@ -283,8 +283,10 @@ image: /assets/images/forteana_50bdc8_fortean_taxonomies_w_7e6998_layered_classi
 Many of the most memorable Fortean reports resist a single label. A single case may begin as a witness account, acquire physical evidence, become shaped by [folklore]({{ 'folklore/' | relative_url }}), spread through [newspapers]({{ 'newspapers/' | relative_url }}) and social media, and accumulate competing explanations without any one of them settling the matter. Trying to force such a case into one category—"ghost", "UFO", "cryptid" or "hoax"—often strips away the very features that make it worth studying.
 
 
+
 <img src="{{ "/assets/images/forteana_50bdc8_fortean_taxonomies_w_7e6998_layered_classificati_cbbfbc-Illustration-1-dark.svg" | relative_url }}" alt="Layered Cases illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_fortean_taxonomies_w_7e6998_layered_classificati_cbbfbc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_fortean_taxonomies_w_7e6998_layered_classificati_cbbfbc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-A layered classification offers a practical alternative. Instead of asking what a case *is*, it records different dimensions separately: what was reported, what evidence exists, how the story developed, and which explanations remain plausible. This approach fits the long-standing Fortean tradition of preserving anomalous reports while recognising that uncertainty is itself valuable information. [Charles Fort]({{ 'charles-fort/' | relative_url }}) collected observations precisely because they crossed conventional boundaries, while later anomalistics has increasingly treated complex reports as multidisciplinary problems rather than isolated mysteries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufology-news.com/u/18672430/SRCAA_Zond/Bilyk_A._Anomalous_Phenomena_methodology_and_practice_of_research_2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufology-news.com">[ufology-news.com+2avalonlibrary.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufology-news.com</span><span class="citation-popover-title">Bilyk A. Anomalous Phenomena methodology and practice of research 2020</span><span class="citation-popover-snippet">Anomalous phenomena17 Jan 2014 — We call it Fortean phenomena after the American Charles Hoy Fort (1874…1932) who wrote several books abo...</span></span></span>
+
+A layered classification offers a practical alternative. Instead of asking what a case *is*, it records different dimensions separately: what was reported, what evidence exists, how the story developed, and which explanations remain plausible. This approach fits the long-standing Fortean tradition of preserving anomalous reports while recognising that uncertainty is itself valuable information. [Charles Fort]({{ 'charles-fort/' | relative_url }}) collected observations precisely because they crossed conventional boundaries, while later anomalistics has increasingly treated complex reports as multidisciplinary problems rather than isolated mysteries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufology-news.com/u/18672430/SRCAA_Zond/Bilyk_A._Anomalous_Phenomena_methodology_and_practice_of_research_2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufology-news.com">[ufology-news.com+2avalonlibrary.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufology-news.com</span><span class="citation-popover-title">Bilyk A. Anomalous Phenomena methodology and practice of research 2020</span><span class="citation-popover-snippet">Anomalous phenomena17 Jan 2014 — We call it Fortean phenomena after the American Charles Hoy Fort (1874…1932) who wrote several books abo...</span></span></span>
 
 ## The four useful axes of a Fortean record
 
@@ -333,7 +335,8 @@ Evidence may include:
 
 Importantly, different evidence types are logged separately rather than merged into a single judgement of "strong" or "weak". A case may contain excellent witness testimony but no physical traces, or convincing photographs alongside uncertain provenance.
 
-Research on anomalous claims repeatedly shows that witness testimony, documentary records and physical traces each require different standards of evaluation rather than being treated as interchangeable forms of proof. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/605412803/Jse" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Scientific Exploration: Journal of &#124; PDF &#124; Sciencewitness testimony as valid evidence for the Survival of Human Consciousness after...</span></span></span>
+Research on anomalous claims repeatedly shows that witness testimony, documentary records and physical traces each require different standards of evaluation rather than being treated as interchangeable forms of proof.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/605412803/Jse" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Scientific Exploration: Journal of &#124; PDF &#124; Sciencewitness testimony as valid evidence for the Survival of Human Consciousness after...</span></span></span>
+
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NsV0445tDU0" title="Cosmos Lecture with Prof. Adam Frank June 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NsV0445tDU0" target="_blank" rel="noopener noreferrer">Cosmos Lecture with Prof. Adam Frank June 2024</a></p><p class="youtube-embed-meta">Channel: Society For UAP Studies</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NsV0445tDU0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NsV0445tDU0">Open on YouTube</a></p></div></div></div>
@@ -357,7 +360,7 @@ Useful questions include:
 
 This layer records cultural transmission rather than treating every version of the story as equally primary.
 
-In many classic Fortean cases, the media history becomes almost as significant as the reported phenomenon itself. A local mystery may gradually accumulate dramatic embellishments, artistic reconstructions, conspiracy claims or paranormal interpretations that were absent from the earliest documentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dn720405.ca.archive.org/0/items/fringesofreasonw00unse/fringesofreasonw00unse.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dn720405.ca.archive.org">[dn720405.ca.archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dn720405.ca.archive.org</span><span class="citation-popover-title">The Fringes of Reason: Whole Earth Catalog An Explanation?</span><span class="citation-popover-snippet">Chroniclers of the Unexplained by Ted Schultz. Access to Forteana. Access to Freaky Folklore... media. Whether or not these peculiar not...</span></span></span>
+In many classic Fortean cases, the media history becomes almost as significant as the reported phenomenon itself. A local mystery may gradually accumulate dramatic embellishments, artistic reconstructions, conspiracy claims or paranormal interpretations that were absent from the earliest documentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dn720405.ca.archive.org/0/items/fringesofreasonw00unse/fringesofreasonw00unse.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dn720405.ca.archive.org">[dn720405.ca.archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dn720405.ca.archive.org</span><span class="citation-popover-title">The Fringes of Reason: Whole Earth Catalog An Explanation?</span><span class="citation-popover-snippet">Chroniclers of the Unexplained by Ted Schultz. Access to Forteana. Access to Freaky Folklore... media. Whether or not these peculiar not...</span></span></span>
 
 ### Axis 4: Which explanations remain open?
 
@@ -384,7 +387,7 @@ For example, a report might have:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* genuine witness testimony; <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/ZeteticScholarNo111983/Zetetic.Scholar%20%20No%2012-13%20%201987_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Zetetic.Scholar No 12 13 1987 djvu.txt</span><span class="citation-popover-snippet">testimony, especially as evidence in criminal cases. Of special relevance to those concerned with witness reports on anomalies. Recommend...</span></span></span>
+* genuine witness testimony;<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/ZeteticScholarNo111983/Zetetic.Scholar%20%20No%2012-13%20%201987_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Zetetic.Scholar No 12 13 1987 djvu.txt</span><span class="citation-popover-snippet">testimony, especially as evidence in criminal cases. Of special relevance to those concerned with witness reports on anomalies. Recommend...</span></span></span>
 * inaccurate interpretation;
 * later folklore embellishment;
 * unresolved physical evidence.
@@ -394,7 +397,9 @@ For example, a report might have:
 Those statements are compatible rather than mutually exclusive.
 
 
+
 <img src="{{ "/assets/images/forteana_50bdc8_fortean_taxonomies_w_7e6998_layered_classificati_cbbfbc-Illustration-2-dark.svg" | relative_url }}" alt="Layered Cases illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_fortean_taxonomies_w_7e6998_layered_classificati_cbbfbc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_fortean_taxonomies_w_7e6998_layered_classificati_cbbfbc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
 ## How mixed cases cross category lines
 
 Many famous Fortean reports become difficult precisely because several traditions intersect.
@@ -408,6 +413,7 @@ Instead, a layered approach allows one case to belong simultaneously to several 
 LayerPossible classificationPrimary reportUnidentified light observed by two witnessesPhysical evidenceGround traces reported but not independently verifiedCultural contextExisting local ghost traditionsInformation historyNational media coverage expanded witness claimsCurrent statusCompeting natural, psychological and unexplained interpretations remain
 
 Nothing in this structure forces an investigator either to endorse or dismiss the anomaly.
+
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hYYVwXCpgj4" title="Ancient Aliens: Project Blue Book Proves UFO Phenomenon (Season 16) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hYYVwXCpgj4" target="_blank" rel="noopener noreferrer">Ancient Aliens: Project Blue Book Proves UFO Phenomenon (Season 16) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hYYVwXCpgj4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hYYVwXCpgj4">Open on YouTube</a></p></div></div></div>
@@ -435,10 +441,12 @@ For example:
 
 Those statements can all be simultaneously accurate.
 
-This mirrors broader anomalistics, where investigators often separate observational reliability from explanatory confidence rather than assuming that uncertainty about one dimension invalidates all the others. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufology-news.com/u/18672430/SRCAA_Zond/Bilyk_A._Anomalous_Phenomena_methodology_and_practice_of_research_2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufology-news.com">[ufology-news.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufology-news.com</span><span class="citation-popover-title">Bilyk A. Anomalous Phenomena methodology and practice of research 2020</span><span class="citation-popover-snippet">Anomalous phenomena17 Jan 2014 — We call it Fortean phenomena after the American Charles Hoy Fort (1874…1932) who wrote several books abo...</span></span></span>
+This mirrors broader anomalistics, where investigators often separate observational reliability from explanatory confidence rather than assuming that uncertainty about one dimension invalidates all the others.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufology-news.com/u/18672430/SRCAA_Zond/Bilyk_A._Anomalous_Phenomena_methodology_and_practice_of_research_2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufology-news.com">[ufology-news.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufology-news.com</span><span class="citation-popover-title">Bilyk A. Anomalous Phenomena methodology and practice of research 2020</span><span class="citation-popover-snippet">Anomalous phenomena17 Jan 2014 — We call it Fortean phenomena after the American Charles Hoy Fort (1874…1932) who wrote several books abo...</span></span></span>
+
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_fortean_taxonomies_w_7e6998_layered_classificati_cbbfbc-Illustration-3-dark.svg" | relative_url }}" alt="Layered Cases illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_fortean_taxonomies_w_7e6998_layered_classificati_cbbfbc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_fortean_taxonomies_w_7e6998_layered_classificati_cbbfbc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
 ## A sample record for a difficult anomaly
 
 Consider an imaginary case involving strange lights above woodland, unusual animal behaviour and subsequent rumours of missing time.
@@ -466,7 +474,8 @@ Six months later, magazine features introduce claims of electromagnetic effects.
 Years afterwards, online retellings add alleged military involvement that cannot be traced to contemporary sources.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rzHEw7ph-kg" title="Chris French - Weird Science: An Introduction to Anomalistic Psychology" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rzHEw7ph-kg" target="_blank" rel="noopener noreferrer">Chris French - Weird Science: An Introduction to Anomalistic Psychology</a></p><p class="youtube-embed-meta">Channel: Goldsmiths Art</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rzHEw7ph-kg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rzHEw7ph-kg">Open on YouTube</a></p></div></div></div>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0LVFJ3kttDc" title="Beyond the Ordinary: A Paranormal Archive" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0LVFJ3kttDc" target="_blank" rel="noopener noreferrer">Beyond the Ordinary: A Paranormal Archive</a></p><p class="youtube-embed-meta">Channel: Archivists Round Table of Metropolitan New York</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0LVFJ3kttDc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0LVFJ3kttDc">Open on YouTube</a></p></div></div></div>
 
 ### Explanatory status
 
@@ -496,194 +505,194 @@ Recording these layers independently avoids two common mistakes. The first is fo
 For a field built around reports that challenge conventional expectations, this balance is especially valuable. A layered record keeps unusual cases organised, comparable and open to investigation while preserving the uncertainty that often defines the strongest examples of [Forteana]({{ 'forteana/' | relative_url }}).
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How to File a Case Without Flattening It. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How to File a Case Without Flattening It. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
-        </h4>
-        <p class="fr-book-author">By Charles Fort</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
+</h4>
+<p class="fr-book-author">By Charles Fort</p>
         
-        <p class="fr-book-desc">Encourages preserving complex anomalies rather than simplifying them.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages preserving complex anomalies rather than simplifying them.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Separates different evidence types instead of flattening reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Separates different evidence types instead of flattening reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Illustrates layered comparisons across folklore and UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates layered comparisons across folklore and UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">First published 1972.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1972.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=EMF+meter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=layered-cases-how-to-file-a-case-without-flattening-it-forteana-emf-meter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="EMF meter" data-ebay-reference="layered-cases-how-to-file-a-case-without-flattening-it-forteana-emf-meter" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TriField TF2 EMF Meter Detector Reader Ghost Hunting Equipment Paranormal Tester"><img src="{{ '/assets/images/marketplace-covers/8e89e10c4f25bac2b155.jpg' | relative_url }}" alt="Listing image for TriField TF2 EMF Meter Detector Reader Ghost Hunting Equipment Paranormal Tester" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=EMF+meter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=layered-cases-how-to-file-a-case-without-flattening-it-forteana-emf-meter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="EMF meter" data-ebay-reference="layered-cases-how-to-file-a-case-without-flattening-it-forteana-emf-meter" target="_blank" rel="sponsored noopener noreferrer">TriField TF2 EMF Meter Detector Reader Ghost Hunting Equipment Paranormal Tester</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=EMF+meter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=layered-cases-how-to-file-a-case-without-flattening-it-forteana-emf-meter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="EMF meter" data-ebay-reference="layered-cases-how-to-file-a-case-without-flattening-it-forteana-emf-meter" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for EMF meter">Search <span data-ebay-domain-label>eBay.co.uk</span>: EMF meter</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=EMF+meter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=layered-cases-how-to-file-a-case-without-flattening-it-forteana-emf-meter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="EMF meter" data-ebay-reference="layered-cases-how-to-file-a-case-without-flattening-it-forteana-emf-meter" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=layered-cases-how-to-file-a-case-without-flattening-it-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="layered-cases-how-to-file-a-case-without-flattening-it-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Newspaper The Sunday Sun July 23 1944 Reprint"><img src="{{ '/assets/images/marketplace-covers/7ea06289e4c697b8d1d8.jpg' | relative_url }}" alt="Listing image for Vintage Newspaper The Sunday Sun July 23 1944 Reprint" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=layered-cases-how-to-file-a-case-without-flattening-it-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="layered-cases-how-to-file-a-case-without-flattening-it-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer">Vintage Newspaper The Sunday Sun July 23 1944 Reprint</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=layered-cases-how-to-file-a-case-without-flattening-it-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="layered-cases-how-to-file-a-case-without-flattening-it-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage newspaper reprint">Search<span data-ebay-domain-label>eBay.co.uk</span>: vintage newspaper reprint</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=layered-cases-how-to-file-a-case-without-flattening-it-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="layered-cases-how-to-file-a-case-without-flattening-it-forteana-vintage-newspaper-reprint" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=EMF+meter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=layered-cases-how-to-file-a-case-without-flattening-it-forteana-emf-meter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="EMF meter" data-ebay-reference="layered-cases-how-to-file-a-case-without-flattening-it-forteana-emf-meter" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Digital EMF Meter LCD Temperature Electromagnetic Field Radiation Detector UK"><img src="{{ '/assets/images/marketplace-covers/187d13aef6bb068a1abb.jpg' | relative_url }}" alt="Listing image for Digital EMF Meter LCD Temperature Electromagnetic Field Radiation Detector UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=EMF+meter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=layered-cases-how-to-file-a-case-without-flattening-it-forteana-emf-meter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="EMF meter" data-ebay-reference="layered-cases-how-to-file-a-case-without-flattening-it-forteana-emf-meter" target="_blank" rel="sponsored noopener noreferrer">Digital EMF Meter LCD Temperature Electromagnetic Field Radiation Detector UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=EMF+meter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=layered-cases-how-to-file-a-case-without-flattening-it-forteana-emf-meter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="EMF meter" data-ebay-reference="layered-cases-how-to-file-a-case-without-flattening-it-forteana-emf-meter" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for EMF meter">Search <span data-ebay-domain-label>eBay.co.uk</span>: EMF meter</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=EMF+meter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=layered-cases-how-to-file-a-case-without-flattening-it-forteana-emf-meter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="EMF meter" data-ebay-reference="layered-cases-how-to-file-a-case-without-flattening-it-forteana-emf-meter" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=layered-cases-how-to-file-a-case-without-flattening-it-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="layered-cases-how-to-file-a-case-without-flattening-it-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1960s Historical Headline Bundle X 3 Job lot REPRINT Newspapers 1966 63 69 birt"><img src="{{ '/assets/images/marketplace-covers/571fab5f369cce21c9d6.jpg' | relative_url }}" alt="Listing image for 1960s Historical Headline Bundle X 3 Job lot REPRINT Newspapers 1966 63 69 birt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=layered-cases-how-to-file-a-case-without-flattening-it-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="layered-cases-how-to-file-a-case-without-flattening-it-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer">1960s Historical Headline Bundle X 3 Job lot REPRINT Newspapers 1966 63 69 birt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=layered-cases-how-to-file-a-case-without-flattening-it-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="layered-cases-how-to-file-a-case-without-flattening-it-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage newspaper reprint">Search<span data-ebay-domain-label>eBay.co.uk</span>: vintage newspaper reprint</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=layered-cases-how-to-file-a-case-without-flattening-it-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="layered-cases-how-to-file-a-case-without-flattening-it-forteana-vintage-newspaper-reprint" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=EMF+meter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=layered-cases-how-to-file-a-case-without-flattening-it-forteana-emf-meter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="EMF meter" data-ebay-reference="layered-cases-how-to-file-a-case-without-flattening-it-forteana-emf-meter" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Digital EMF Meter LCD Temperature Electromagnetic Field Radiation Detector UK"><img src="{{ '/assets/images/marketplace-covers/c9962c1f75844d910fc9.jpg' | relative_url }}" alt="Listing image for Digital EMF Meter LCD Temperature Electromagnetic Field Radiation Detector UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=EMF+meter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=layered-cases-how-to-file-a-case-without-flattening-it-forteana-emf-meter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="EMF meter" data-ebay-reference="layered-cases-how-to-file-a-case-without-flattening-it-forteana-emf-meter" target="_blank" rel="sponsored noopener noreferrer">Digital EMF Meter LCD Temperature Electromagnetic Field Radiation Detector UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=EMF+meter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=layered-cases-how-to-file-a-case-without-flattening-it-forteana-emf-meter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="EMF meter" data-ebay-reference="layered-cases-how-to-file-a-case-without-flattening-it-forteana-emf-meter" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for EMF meter">Search <span data-ebay-domain-label>eBay.co.uk</span>: EMF meter</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=EMF+meter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=layered-cases-how-to-file-a-case-without-flattening-it-forteana-emf-meter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="EMF meter" data-ebay-reference="layered-cases-how-to-file-a-case-without-flattening-it-forteana-emf-meter" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=layered-cases-how-to-file-a-case-without-flattening-it-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="layered-cases-how-to-file-a-case-without-flattening-it-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for REPRINT - The Daily Telegraph - Tuesday August"><img src="{{ '/assets/images/marketplace-covers/aad8667f319e362a378c.jpg' | relative_url }}" alt="Listing image for REPRINT - The Daily Telegraph - Tuesday August" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=layered-cases-how-to-file-a-case-without-flattening-it-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="layered-cases-how-to-file-a-case-without-flattening-it-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer">REPRINT - The Daily Telegraph - Tuesday August</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=layered-cases-how-to-file-a-case-without-flattening-it-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="layered-cases-how-to-file-a-case-without-flattening-it-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage newspaper reprint">Search<span data-ebay-domain-label>eBay.co.uk</span>: vintage newspaper reprint</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=layered-cases-how-to-file-a-case-without-flattening-it-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="layered-cases-how-to-file-a-case-without-flattening-it-forteana-vintage-newspaper-reprint" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=EMF+meter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=layered-cases-how-to-file-a-case-without-flattening-it-forteana-emf-meter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="EMF meter" data-ebay-reference="layered-cases-how-to-file-a-case-without-flattening-it-forteana-emf-meter" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LED EMF Meter Magnetic Field Detector Ghost Hunting Paranormal Equipment Tool"><img src="{{ '/assets/images/marketplace-covers/e23d48a6a558029d1fee.jpg' | relative_url }}" alt="Listing image for LED EMF Meter Magnetic Field Detector Ghost Hunting Paranormal Equipment Tool" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=EMF+meter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=layered-cases-how-to-file-a-case-without-flattening-it-forteana-emf-meter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="EMF meter" data-ebay-reference="layered-cases-how-to-file-a-case-without-flattening-it-forteana-emf-meter" target="_blank" rel="sponsored noopener noreferrer">LED EMF Meter Magnetic Field Detector Ghost Hunting Paranormal Equipment Tool</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=EMF+meter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=layered-cases-how-to-file-a-case-without-flattening-it-forteana-emf-meter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="EMF meter" data-ebay-reference="layered-cases-how-to-file-a-case-without-flattening-it-forteana-emf-meter" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for EMF meter">Search <span data-ebay-domain-label>eBay.co.uk</span>: EMF meter</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=EMF+meter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=layered-cases-how-to-file-a-case-without-flattening-it-forteana-emf-meter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="EMF meter" data-ebay-reference="layered-cases-how-to-file-a-case-without-flattening-it-forteana-emf-meter" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=EMF+meter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=layered-cases-how-to-file-a-case-without-flattening-it-forteana-emf-meter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="EMF meter" data-ebay-reference="layered-cases-how-to-file-a-case-without-flattening-it-forteana-emf-meter" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=layered-cases-how-to-file-a-case-without-flattening-it-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="layered-cases-how-to-file-a-case-without-flattening-it-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Box Set Of Historical Headlines Reprinted Newspapers - Historical Events"><img src="{{ '/assets/images/marketplace-covers/d86a0cd68eb44f7b9e5e.jpg' | relative_url }}" alt="Listing image for Vintage Box Set Of Historical Headlines Reprinted Newspapers - Historical Events" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=layered-cases-how-to-file-a-case-without-flattening-it-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="layered-cases-how-to-file-a-case-without-flattening-it-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer">Vintage Box Set Of Historical Headlines Reprinted Newspapers - Historical Events</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=layered-cases-how-to-file-a-case-without-flattening-it-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="layered-cases-how-to-file-a-case-without-flattening-it-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage newspaper reprint">Search<span data-ebay-domain-label>eBay.co.uk</span>: vintage newspaper reprint</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=layered-cases-how-to-file-a-case-without-flattening-it-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="layered-cases-how-to-file-a-case-without-flattening-it-forteana-vintage-newspaper-reprint" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=layered-cases-how-to-file-a-case-without-flattening-it-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="layered-cases-how-to-file-a-case-without-flattening-it-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -699,7 +708,7 @@ For a field built around reports that challenge conventional expectations, this 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -719,7 +728,7 @@ For a field built around reports that challenge conventional expectations, this 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -751,7 +760,7 @@ For a field built around reports that challenge conventional expectations, this 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -803,7 +812,7 @@ For a field built around reports that challenge conventional expectations, this 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -848,7 +857,7 @@ For a field built around reports that challenge conventional expectations, this 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -889,86 +898,86 @@ For a field built around reports that challenge conventional expectations, this 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ufology-news.com  
    Title: Bilyk A. Anomalous Phenomena methodology and practice of research 2020  
-   Link: <a href="https://ufology-news.com/u/18672430/SRCAA_Zond/Bilyk_A._Anomalous_Phenomena_methodology_and_practice_of_research_2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ufology-news.com/u/18672430/SRCAA_Zond/Bilyk_A._Anomalous_Phenomena_methodology_and_practice_of_research_2020.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Anomalous phenomena17 Jan 2014 — We call it Fortean phenomena after the American Charles Hoy Fort (1874…1932) who wrote several books abo...</p></details>
+   Link:<a href="https://ufology-news.com/u/18672430/SRCAA_Zond/Bilyk_A._Anomalous_Phenomena_methodology_and_practice_of_research_2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ufology-news.com/u/18672430/SRCAA_Zond/Bilyk_A._Anomalous_Phenomena_methodology_and_practice_of_research_2020.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anomalous phenomena17 Jan 2014 — We call it Fortean phenomena after the American Charles Hoy Fort (1874…1932) who wrote several books abo...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: avalonlibrary.net  
    Title: Robbie Graham UFOs Reframing the Debate  
-   Link: <a href="https://avalonlibrary.net/ebooks/Robbie%20Graham%20-%20UFOs%20-%20Reframing%20the%20Debate.pdf" target="_blank" rel="noopener noreferrer nofollow">https://avalonlibrary.net/ebooks/Robbie%20Graham%20-%20UFOs%20-%20Reframing%20the%20Debate.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs: Reframing the Debate6 Jan 2016 — This brash, rejuvenating effort to lift ufology out of its intellectual morass is an achievement o...</p></details>
+   Link:<a href="https://avalonlibrary.net/ebooks/Robbie%20Graham%20-%20UFOs%20-%20Reframing%20the%20Debate.pdf" target="_blank" rel="noopener noreferrer nofollow">https://avalonlibrary.net/ebooks/Robbie%20Graham%20-%20UFOs%20-%20Reframing%20the%20Debate.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs: Reframing the Debate6 Jan 2016 — This brash, rejuvenating effort to lift ufology out of its intellectual morass is an achievement o...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/605412803/Jse" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/605412803/Jse</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific Exploration: Journal of | PDF | Sciencewitness testimony as valid evidence for the Survival of Human Consciousness after...</p></details>
+   Link:<a href="https://www.scribd.com/document/605412803/Jse" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/605412803/Jse</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific Exploration: Journal of | PDF | Sciencewitness testimony as valid evidence for the Survival of Human Consciousness after...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archive.org  
    Title: Zetetic.Scholar No 12 13 1987 djvu.txt  
-   Link: <a href="https://archive.org/stream/ZeteticScholarNo111983/Zetetic.Scholar%20%20No%2012-13%20%201987_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/ZeteticScholarNo111983/Zetetic.Scholar%20%20No%2012-13%20%201987_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>testimony, especially as evidence in criminal cases. Of special relevance to those concerned with witness reports on anomalies. Recommend...</p></details>
+   Link:<a href="https://archive.org/stream/ZeteticScholarNo111983/Zetetic.Scholar%20%20No%2012-13%20%201987_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/ZeteticScholarNo111983/Zetetic.Scholar%20%20No%2012-13%20%201987_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>testimony, especially as evidence in criminal cases. Of special relevance to those concerned with witness reports on anomalies. Recommend...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: dn720405.ca.archive.org  
    Title: The Fringes of Reason: Whole Earth Catalog An Explanation?  
-   Link: <a href="https://dn720405.ca.archive.org/0/items/fringesofreasonw00unse/fringesofreasonw00unse.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dn720405.ca.archive.org/0/items/fringesofreasonw00unse/fringesofreasonw00unse.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chroniclers of the Unexplained by Ted Schultz. Access to Forteana. Access to Freaky Folklore... media. Whether or not these peculiar not...</p></details>
+   Link:<a href="https://dn720405.ca.archive.org/0/items/fringesofreasonw00unse/fringesofreasonw00unse.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dn720405.ca.archive.org/0/items/fringesofreasonw00unse/fringesofreasonw00unse.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chroniclers of the Unexplained by Ted Schultz. Access to Forteana. Access to Freaky Folklore... media. Whether or not these peculiar not...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: scribd.com  
    Title: Fortean Times Issue  
-   Link: <a href="https://www.scribd.com/document/365661447/Fortean-Times-Issue" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/365661447/Fortean-Times-Issue</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PDF | Witchcraft | Fairies17 Nov 2017 — A digest of the worldwide weird, including: Lucifers letter, Thai spirits, levitating dog, myster...</p></details>
+   Link:<a href="https://www.scribd.com/document/365661447/Fortean-Times-Issue" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/365661447/Fortean-Times-Issue</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PDF | Witchcraft | Fairies17 Nov 2017 — A digest of the worldwide weird, including: Lucifers letter, Thai spirits, levitating dog, myster...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: scribd.com  
    Title: Pursuit Magazine, No 27-37 Combined | PDF | Sky | Science FORT AND SANDERSON  
-   Link: <a href="https://www.scribd.com/document/290749694/Pursuit-Magazine-No-27-37-Combined" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/290749694/Pursuit-Magazine-No-27-37-Combined</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(Robert J. Durant has offered the following thoughts on Charles Fort and Ivan T. Sanderson, and we present them here by way...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/290749694/Pursuit-Magazine-No-27-37-Combined" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/290749694/Pursuit-Magazine-No-27-37-Combined</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(Robert J. Durant has offered the following thoughts on Charles Fort and Ivan T. Sanderson, and we present them here by way...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: scribd.com  
    Title: jse 16 2  
-   Link: <a href="https://www.scribd.com/document/501208456/jse-16-2" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/501208456/jse-16-2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>body corresponding to the wounds of Jesus Christ during crucifixion.Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/501208456/jse" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/501208456/jse</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>body corresponding to the wounds of Jesus Christ during crucifixion.Read more...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Chris French  
-   Link: <a href="https://www.youtube.com/watch?v=rzHEw7ph-kg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rzHEw7ph-kg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Beyond the Ordinary: A Paranormal Archive...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rzHEw7ph-kg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rzHEw7ph-kg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 Beyond the Ordinary: A Paranormal Archive...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pearl-hifi.com  
    Title: In the April  
-   Link: <a href="https://pearl-hifi.com/11_Spirited_Growth/01_Books/Jacobs_David_M/UFOs_and_Abductions__Challenging_the_Borders_of_Knowledge.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pearl-hifi.com/11_Spirited_Growth/01_Books/Jacobs_David_M/UFOs_and_Abductions__Challenging_the_Borders_of_Knowledge.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Abductions: Challenging the Borders of Knowledgemagazines carried articles on &quot;true mysteries,&quot; some—recycling Fort and Fortean...</p></details>
+   Link:<a href="https://pearl-hifi.com/11_Spirited_Growth/01_Books/Jacobs_David_M/UFOs_and_Abductions__Challenging_the_Borders_of_Knowledge.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pearl-hifi.com/11_Spirited_Growth/01_Books/Jacobs_David_M/UFOs_and_Abductions__Challenging_the_Borders_of_Knowledge.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Abductions: Challenging the Borders of Knowledgemagazines carried articles on &quot;true mysteries,&quot; some—recycling Fort and Fortean...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Beyond the Ordinary: A Paranormal Archive  
-   Link: <a href="https://www.youtube.com/watch?v=0LVFJ3kttDc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0LVFJ3kttDc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Ancient Aliens: [Project Blue Book](&amp;#123;&amp;#123; &#x27;blue-book-75a50c/&#x27; | relative_url &amp;#125;&amp;#125;) Proves UFO Phenomenon (Season 16) | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0LVFJ3kttDc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0LVFJ3kttDc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 Ancient Aliens: [Project Blue Book](&amp;#123;&amp;#123; &#x27;blue-book-75a50c/&#x27; | relative_url &amp;#125;&amp;#125;) Proves UFO Phenomenon (Season 16) | History...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Inside Skywatcher: Unveiling 9 Types of UAPs  
-   Link: <a href="https://www.youtube.com/watch?v=Ys_Kreuw8gU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ys_Kreuw8gU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Chris French - Weird Science: An Introduction to Anomalistic Psychology...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ys_Kreuw8gU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ys_Kreuw8gU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 Chris French - Weird Science: An Introduction to Anomalistic Psychology...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Ancient Aliens: Project Blue Book Proves UFO Phenomenon (Season 16) | History  
-   Link: <a href="https://www.youtube.com/watch?v=hYYVwXCpgj4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hYYVwXCpgj4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Limina Lecture Series - Adam Frank...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hYYVwXCpgj4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hYYVwXCpgj4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Limina Lecture Series - Adam Frank...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Limina Lecture Series  
-   Link: <a href="https://www.youtube.com/watch?v=NsV0445tDU0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NsV0445tDU0</a>  
+   Link:<a href="https://www.youtube.com/watch?v=NsV0445tDU0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NsV0445tDU0</a>  

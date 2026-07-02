@@ -451,7 +451,7 @@ Folklore is not proof that a strange event happened exactly as told. In [Fortean
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_folklore_evidence_me_a6b0f2-overview.webp" | relative_url }}" alt="Overview image for Folklore" loading="eager" decoding="sync" fetchpriority="high">
-That distinction is crucial. A legend can be historically inaccurate and still reveal real patterns of belief, anxiety, belonging and memory. Folklorists treat such stories as part of living expressive culture: traditions, narratives and practices shared within groups and passed through speech, imitation, performance and now digital circulation. The Fortean reader’s task is not to ask only “Did this creature, ghost or omen exist?” but also “Why did this story become worth keeping?” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/acq/devpol/folklore.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">The Library of Congress Collections Policy Statement: Folklore and Folklife</span><span class="citation-popover-snippet">The Library of CongressCollections Policy Statement: Folklore and FolklifeMay 5, 2022 — This statement refers to all materials that perta...</span><span class="citation-popover-meta">Published: May 5, 2022</span></span></span>
+That distinction is crucial. A legend can be historically inaccurate and still reveal real patterns of belief, anxiety, belonging and memory. Folklorists treat such stories as part of living expressive culture: traditions, narratives and practices shared within groups and passed through speech, imitation, performance and now digital circulation. The Fortean reader’s task is not to ask only “Did this creature, ghost or omen exist?” but also “Why did this story become worth keeping?”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/acq/devpol/folklore.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">The Library of Congress Collections Policy Statement: Folklore and Folklife</span><span class="citation-popover-snippet">The Library of CongressCollections Policy Statement: Folklore and FolklifeMay 5, 2022 — This statement refers to all materials that perta...</span><span class="citation-popover-meta">Published: May 5, 2022</span></span></span>
 
 ## Stories as cultural evidence
 
@@ -459,9 +459,9 @@ A strange story becomes folklore when it travels beyond a single incident and en
 
 This is why folklore sits naturally inside Forteana. Fortean material often begins as a reported anomaly: a figure on a road, lights over a town, a monster in a lake, a curse attached to a bridge, footsteps in an empty building. Folklore explains why some of those reports keep circulating even when photographs are disputed, witnesses disagree, official evidence is absent, or sceptical explanations exist. Survival does not prove the anomaly, but it does prove that the story has become socially meaningful.
 
-The Library of Congress defines folklore and folklife as dynamic expressive culture and everyday practice shared within groups, including beliefs, narratives, customs and symbolic forms. The legal definition of American folklife similarly stresses expressive culture shared within familial, ethnic, occupational, religious and regional groups, usually maintained without formal instruction. Those definitions matter for Forteana because many strange stories are not merely claims about things “out there”; they are forms of group expression. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/acq/devpol/folklore.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">The Library of Congress Collections Policy Statement: Folklore and Folklife</span><span class="citation-popover-snippet">The Library of CongressCollections Policy Statement: Folklore and FolklifeMay 5, 2022 — This statement refers to all materials that perta...</span><span class="citation-popover-meta">Published: May 5, 2022</span></span></span>
+The Library of Congress defines folklore and folklife as dynamic expressive culture and everyday practice shared within groups, including beliefs, narratives, customs and symbolic forms. The legal definition of American folklife similarly stresses expressive culture shared within familial, ethnic, occupational, religious and regional groups, usually maintained without formal instruction. Those definitions matter for Forteana because many strange stories are not merely claims about things “out there”; they are forms of group expression.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/acq/devpol/folklore.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">The Library of Congress Collections Policy Statement: Folklore and Folklife</span><span class="citation-popover-snippet">The Library of CongressCollections Policy Statement: Folklore and FolklifeMay 5, 2022 — This statement refers to all materials that perta...</span><span class="citation-popover-meta">Published: May 5, 2022</span></span></span>
 
-Folklorist Alan Dundes argued that folklore offers a people’s “unselfconscious picture of themselves”. That is one of the most useful principles for reading Fortean traditions. A monster story may reveal less about zoology than about a community’s sense of wilderness, danger, marginality or pride. A ghost story may reveal how people talk about unfinished business, inheritance, trauma, guilt or the persistence of the dead in ordinary life. A UFO legend may reveal hopes and fears about technology, secrecy, invasion, salvation or official distrust. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/content/oa_chapter_edited/j.ctt4cgrzn.4?seq=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">The Analytical Essays of Alan DundesJuly 1, 2007 — Dundes argued that in folklore, more than in other forms of human evidence, “one...</span><span class="citation-popover-meta">Published: July 1, 2007</span></span></span>
+Folklorist Alan Dundes argued that folklore offers a people’s “unselfconscious picture of themselves”. That is one of the most useful principles for reading Fortean traditions. A monster story may reveal less about zoology than about a community’s sense of wilderness, danger, marginality or pride. A ghost story may reveal how people talk about unfinished business, inheritance, trauma, guilt or the persistence of the dead in ordinary life. A UFO legend may reveal hopes and fears about technology, secrecy, invasion, salvation or official distrust.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/content/oa_chapter_edited/j.ctt4cgrzn.4?seq=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">The Analytical Essays of Alan DundesJuly 1, 2007 — Dundes argued that in folklore, more than in other forms of human evidence, “one...</span><span class="citation-popover-meta">Published: July 1, 2007</span></span></span>
 
 This does not mean that every strange story is “only symbolic”. The stronger point is that folklore can preserve several kinds of evidence at once:
 
@@ -484,11 +484,11 @@ That last category is especially Fortean. Folklore keeps open a zone between fac
 
 The most durable strange stories usually do more than entertain. They solve a social or emotional problem. They give shape to fear, turn a confusing place into a memorable one, or let people discuss forbidden subjects indirectly. A ghost story can speak about bereavement without sounding like a sermon. A cryptid legend can make a neglected town distinctive. A UFO rumour can condense suspicion of military secrecy into a single memorable image in the sky.
 
-Contemporary legend scholarship is useful here because it treats “[urban legends]({{ 'urban-legends/' | relative_url }})” not as trivial lies but as living narratives that communicate and negotiate anomalous [experience]({{ 'experience/' | relative_url }}). The International Society for Contemporary Legend Research notes that such legends are not purely modern inventions; similar processes of using narrative to handle anomalous experience can be traced across long periods, and supposedly local stories often appear in multiple forms around the world. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://contemporarylegend.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: contemporarylegend.org">[contemporarylegend.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">contemporarylegend.org</span><span class="citation-popover-snippet">International Society for Contemporary Legend Research...Contemporary legends are contemporary to the teller and audience, not solely to...</span></span></span>
+Contemporary legend scholarship is useful here because it treats “[urban legends]({{ 'urban-legends/' | relative_url }})” not as trivial lies but as living narratives that communicate and negotiate anomalous [experience]({{ 'experience/' | relative_url }}). The International Society for Contemporary Legend Research notes that such legends are not purely modern inventions; similar processes of using narrative to handle anomalous experience can be traced across long periods, and supposedly local stories often appear in multiple forms around the world.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://contemporarylegend.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: contemporarylegend.org">[contemporarylegend.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">contemporarylegend.org</span><span class="citation-popover-snippet">International Society for Contemporary Legend Research...Contemporary legends are contemporary to the teller and audience, not solely to...</span></span></span>
 
 That pattern is visible across Forteana. A haunted road is rarely just a road. It may become a place where teenagers test courage, where parents warn children away from danger, where a local death is remembered, or where outsiders are marked as outsiders because they do not know the story. A monster lake is rarely just a lake. It becomes a stage on which [tourism]({{ 'tourism/' | relative_url }}), regional pride, scepticism, media attention and wonder all meet.
 
-Folklorists also use the concept of **[ostension]({{ 'ostension/' | relative_url }})**, meaning cases where people act out, perform, or interpret real events through the frame of an existing legend. This is important for Fortean material because stories do not merely describe behaviour; they can shape it. People visit haunted sites because they have heard the legend. They interpret an ambiguous sound as evidence because the story has primed them. They may even stage events that resemble the legend. In such cases, folklore becomes part of the event-world it claims to describe. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ostension_%28folklore%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ostension (folklore</span><span class="citation-popover-snippet">Ostension (folklore</span></span></span>
+Folklorists also use the concept of **[ostension]({{ 'ostension/' | relative_url }})**, meaning cases where people act out, perform, or interpret real events through the frame of an existing legend. This is important for Fortean material because stories do not merely describe behaviour; they can shape it. People visit haunted sites because they have heard the legend. They interpret an ambiguous sound as evidence because the story has primed them. They may even stage events that resemble the legend. In such cases, folklore becomes part of the event-world it claims to describe.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ostension_%28folklore%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ostension (folklore</span><span class="citation-popover-snippet">Ostension (folklore</span></span></span>
 
 This helps explain why weak proof does not necessarily weaken a legend. In ordinary evidential terms, a disputed photograph or vague sighting may reduce confidence. In folklore terms, dispute can keep the story alive by giving people something to argue over. The lack of closure becomes part of the attraction.
 
@@ -496,15 +496,15 @@ This helps explain why weak proof does not necessarily weaken a legend. In ordin
 
 Fortean folklore often survives because it belongs somewhere. A story gains power when it attaches itself to a recognisable landscape: the Pine Barrens, [Loch Ness]({{ 'loch-ness/' | relative_url }}), Point Pleasant, an old theatre, a lonely bridge, a moor, a stretch of coast. The location gives the story texture, and the story gives the location personality.
 
-Scholar S. Elizabeth Bird’s work on local legends of place argues that such narratives help people construct a sense of place and cultural identity, including ideas about who belongs and who does not. Local legends may not reliably preserve “history” in a narrow factual sense, but they reveal how people make moral, emotional and social sense of landscape. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/8530695/It_makes_sense_to_us_Cultural_identity_in_local_legends_of_place_Journal_of_Contemporary_Ethnography" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Open source on academia.edu.</span></span></span>
+Scholar S. Elizabeth Bird’s work on local legends of place argues that such narratives help people construct a sense of place and cultural identity, including ideas about who belongs and who does not. Local legends may not reliably preserve “history” in a narrow factual sense, but they reveal how people make moral, emotional and social sense of landscape.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/8530695/It_makes_sense_to_us_Cultural_identity_in_local_legends_of_place_Journal_of_Contemporary_Ethnography" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Open source on academia.edu.</span></span></span>
 
-The [Jersey Devil]({{ 'jersey-devil/' | relative_url }}) is a clear example. The creature is tied to the New Jersey Pine Barrens and has circulated in varied forms for more than two centuries. Atlantic County’s own historical account describes the Jersey Devil as an authentic folk legend whose details vary with the people who tell it, blending folk belief with South Jersey history. The Pinelands Preservation Alliance similarly presents the creature as part of the cultural history of the region, not simply as an unresolved zoological claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atlanticcountynj.gov/government/government-information/history-of-atlantic-county/jersey-devil-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlanticcountynj.gov">[Atlantic County NJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlanticcountynj.gov</span><span class="citation-popover-title">Atlantic County NJJersey Devil</span><span class="citation-popover-snippet">Atlantic County NJJersey Devil</span></span></span>
+The [Jersey Devil]({{ 'jersey-devil/' | relative_url }}) is a clear example. The creature is tied to the New Jersey Pine Barrens and has circulated in varied forms for more than two centuries. Atlantic County’s own historical account describes the Jersey Devil as an authentic folk legend whose details vary with the people who tell it, blending folk belief with South Jersey history. The Pinelands Preservation Alliance similarly presents the creature as part of the cultural history of the region, not simply as an unresolved zoological claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atlanticcountynj.gov/government/government-information/history-of-atlantic-county/jersey-devil-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlanticcountynj.gov">[Atlantic County NJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlanticcountynj.gov</span><span class="citation-popover-title">Atlantic County NJJersey Devil</span><span class="citation-popover-snippet">Atlantic County NJJersey Devil</span></span></span>
 
 That regional attachment matters more than any single sighting. The Jersey Devil story gathers together wilderness, isolation, family curse, night travel, rural reputation and local pride. Even sceptical accounts can strengthen the folklore by rehearsing the legend’s key ingredients: the Pine Barrens, the strange cry, the winged shape, the old family story, the sense that the woods have their own rules.
 
-Point Pleasant’s Mothman legend works differently but just as strongly. Reported sightings began in the 1960s, and later retellings became entangled with the 1967 Silver [Bridge collapse]({{ 'bridge-collapse/' | relative_url }}). The legend has since become part of Point Pleasant’s public identity through a statue, museum and annual festival. Smithsonian Folklife has treated Mothman as a hometown creature whose meaning is bound up with place, memory and community storytelling rather than reducible to a simple question of monster evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklife.si.edu">[Smithsonian Folklife Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklife.si.edu</span><span class="citation-popover-title">mothman point pleasant west virginia</span><span class="citation-popover-snippet">mothman point pleasant west virginia</span></span></span>
+Point Pleasant’s Mothman legend works differently but just as strongly. Reported sightings began in the 1960s, and later retellings became entangled with the 1967 Silver [Bridge collapse]({{ 'bridge-collapse/' | relative_url }}). The legend has since become part of Point Pleasant’s public identity through a statue, museum and annual festival. Smithsonian Folklife has treated Mothman as a hometown creature whose meaning is bound up with place, memory and community storytelling rather than reducible to a simple question of monster evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklife.si.edu">[Smithsonian Folklife Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklife.si.edu</span><span class="citation-popover-title">mothman point pleasant west virginia</span><span class="citation-popover-snippet">mothman point pleasant west virginia</span></span></span>
 
-Loch Ness offers another model: global fame attached to local landscape. The modern Nessie boom followed twentieth-century newspaper attention, disputed photographs and repeated sightings, but the story now functions as tourism, regional branding and a symbol of Highland mystery. Visit Inverness Loch Ness explicitly frames the area as a place where “monster, myth and legend” meet landscape, showing how the legend has become part of how the place is presented to visitors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.visitinvernesslochness.com/the-lochness-monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitinvernesslochness.com">[visitinvernesslochness.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitinvernesslochness.com</span><span class="citation-popover-snippet">Open source on visitinvernesslochness.com.</span></span></span>
+Loch Ness offers another model: global fame attached to local landscape. The modern Nessie boom followed twentieth-century newspaper attention, disputed photographs and repeated sightings, but the story now functions as tourism, regional branding and a symbol of Highland mystery. Visit Inverness Loch Ness explicitly frames the area as a place where “monster, myth and legend” meet landscape, showing how the legend has become part of how the place is presented to visitors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.visitinvernesslochness.com/the-lochness-monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitinvernesslochness.com">[visitinvernesslochness.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitinvernesslochness.com</span><span class="citation-popover-snippet">Open source on visitinvernesslochness.com.</span></span></span>
 
 In each case, repetition is not just copying. It is maintenance. The story survives because each generation finds a use for it: warning, play, belonging, tourism, sceptical debate, local distinctiveness or renewed wonder.
 
@@ -517,7 +517,7 @@ The most common mistake in reading Fortean folklore is to treat meaning and conf
 
 A story may be meaningful because it is widely told, deeply felt, locally important or symbolically rich. That does not make it factually confirmed. Conversely, a story may be factually doubtful and still deserve serious attention as folklore. This is the point at which Forteana becomes more interesting than a simple contest between believers and debunkers.
 
-Linda Dégh’s work on legend and belief is central here because she treated legend as a genre shaped by uncertainty, debate and the problem of proof. Legends often present extraordinary claims in a way that invites belief but also leaves room for challenge. Ghosts and strange encounters flourish in that zone because they are usually offered as possible truth, not as settled doctrine. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ruthenia.ru/folklore/folklorelaboratory/4expseminar/degh_legend%20and%20belief.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ruthenia.ru">[ruthenia.ru]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ruthenia.ru</span><span class="citation-popover-title">LEGEN D</span><span class="citation-popover-snippet">LEGEN D</span></span></span>
+Linda Dégh’s work on legend and belief is central here because she treated legend as a genre shaped by uncertainty, debate and the problem of proof. Legends often present extraordinary claims in a way that invites belief but also leaves room for challenge. Ghosts and strange encounters flourish in that zone because they are usually offered as possible truth, not as settled doctrine.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ruthenia.ru/folklore/folklorelaboratory/4expseminar/degh_legend%20and%20belief.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ruthenia.ru">[ruthenia.ru]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ruthenia.ru</span><span class="citation-popover-title">LEGEN D</span><span class="citation-popover-snippet">LEGEN D</span></span></span>
 
 For a Fortean reader, this means asking two questions separately:
 
@@ -530,9 +530,9 @@ This concerns fear, place, memory, identity, moral warning, entertainment, socia
 
 Confusing those questions leads to poor interpretation. Believers may argue that a legend’s age or popularity proves the reality of the entity. Sceptics may assume that disproving the literal claim makes the story worthless. Both responses miss the folklore layer. A legend’s persistence is not strong evidence that the monster exists, but it is strong evidence that the monster-story matters.
 
-The same applies to ghost stories. Diane Goldstein, Sylvia Ann Grider and Jeannie Banks Thomas describe ghost stories in contemporary folklore as dealing with profound metaphysical questions and intense personal possibilities. Whether or not a haunting is confirmed, the story offers a way to speak about death, presence, memory and unresolved relationships. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://read.upcolorado.com/read/haunting-experiences-ghosts-in-contemporary-folklore/section/44f30611-e723-4750-b20d-dc9a51ad470a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: read.upcolorado.com">[read.upcolorado.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">read.upcolorado.com</span><span class="citation-popover-snippet">Open source on upcolorado.com.</span></span></span>
+The same applies to ghost stories. Diane Goldstein, Sylvia Ann Grider and Jeannie Banks Thomas describe ghost stories in contemporary folklore as dealing with profound metaphysical questions and intense personal possibilities. Whether or not a haunting is confirmed, the story offers a way to speak about death, presence, memory and unresolved relationships.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://read.upcolorado.com/read/haunting-experiences-ghosts-in-contemporary-folklore/section/44f30611-e723-4750-b20d-dc9a51ad470a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: read.upcolorado.com">[read.upcolorado.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">read.upcolorado.com</span><span class="citation-popover-snippet">Open source on upcolorado.com.</span></span></span>
 
-UFO folklore shows a parallel pattern. Carl Jung’s famous treatment of flying saucers as a “modern myth” did not primarily try to decide whether UFOs were physically real. He was interested in what it meant that such objects were being seen, imagined and discussed so intensely in a period shaped by Cold War fear, technological acceleration and existential anxiety. That approach remains useful in Forteana: the cultural meaning of UFO stories can be studied without turning every sighting into proof of extraterrestrial visitation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.openculture.com/2013/05/carl_jungs_1957_letter_on_the_fascinating_modern_myth_of_ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openculture.com">[Open Culture]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openculture.com</span><span class="citation-popover-title">carl jungs 1957 letter on the fascinating modern myth of ufos</span><span class="citation-popover-snippet">carl jungs 1957 letter on the fascinating modern myth of ufos</span></span></span>
+UFO folklore shows a parallel pattern. Carl Jung’s famous treatment of flying saucers as a “modern myth” did not primarily try to decide whether UFOs were physically real. He was interested in what it meant that such objects were being seen, imagined and discussed so intensely in a period shaped by Cold War fear, technological acceleration and existential anxiety. That approach remains useful in Forteana: the cultural meaning of UFO stories can be studied without turning every sighting into proof of extraterrestrial visitation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.openculture.com/2013/05/carl_jungs_1957_letter_on_the_fascinating_modern_myth_of_ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openculture.com">[Open Culture]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openculture.com</span><span class="citation-popover-title">carl jungs 1957 letter on the fascinating modern myth of ufos</span><span class="citation-popover-snippet">carl jungs 1957 letter on the fascinating modern myth of ufos</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_folklore_evidence_me_a6b0f2-Illustration-2-dark.svg" | relative_url }}" alt="Folklore illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_folklore_evidence_me_a6b0f2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_folklore_evidence_me_a6b0f2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -586,7 +586,7 @@ Less careful wording would say:
 
 * “The bridge is haunted.”
 * “The creature lives in the woods.”
-* “The legend proves ancient knowledge.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.visitinvernesslochness.com/the-lochness-monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitinvernesslochness.com">[visitinvernesslochness.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitinvernesslochness.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* “The legend proves ancient knowledge.”<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.visitinvernesslochness.com/the-lochness-monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitinvernesslochness.com">[visitinvernesslochness.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitinvernesslochness.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 * “People have always known the truth.”
 
 </div>
@@ -610,194 +610,194 @@ The strongest Fortean reading holds both truths together: a legend’s persisten
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Strange Stories Survive Without Proof. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Strange Stories Survive Without Proof. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Explores why remarkable stories and beliefs persist across generations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Explores why remarkable stories and beliefs persist across generations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Balances cultural fascination with evidence-based thinking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Balances cultural fascination with evidence-based thinking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+folklore+of+Discworld+Terry+Pratchett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The folklore of Discworld on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14648041-M.jpg" alt="Cover for The folklore of Discworld" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+folklore+of+Discworld+Terry+Pratchett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The folklore of Discworld">The folklore of Discworld</a>
-        </h4>
-        <p class="fr-book-author">By Terry Pratchett, Jacqueline Simpson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+folklore+of+Discworld+Terry+Pratchett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The folklore of Discworld on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14648041-M.jpg" alt="Cover for The folklore of Discworld" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+folklore+of+Discworld+Terry+Pratchett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The folklore of Discworld">The folklore of Discworld</a>
+</h4>
+<p class="fr-book-author">By Terry Pratchett, Jacqueline Simpson</p>
         
-        <p class="fr-book-desc">First published 2008. Subjects: Themes, motives, Discworld (Imaginary place), Folklore in literature, Discworld (imaginary place), fictio...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+folklore+of+Discworld+Terry+Pratchett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2008. Subjects: Themes, motives, Discworld (Imaginary place), Folklore in literature, Discworld (imaginary place), fictio...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+folklore+of+Discworld+Terry+Pratchett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Penguin+Book+of+Ghosts+Jacqueline+Simpson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Penguin Book of Ghosts on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Ghosts+Jacqueline+Simpson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Book of Ghosts">The Penguin Book of Ghosts</a>
-        </h4>
-        <p class="fr-book-author">By Jacqueline Simpson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Penguin+Book+of+Ghosts+Jacqueline+Simpson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Penguin Book of Ghosts on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Ghosts+Jacqueline+Simpson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Book of Ghosts">The Penguin Book of Ghosts</a>
+</h4>
+<p class="fr-book-author">By Jacqueline Simpson</p>
         
-        <p class="fr-book-desc">First published 2008.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Ghosts+Jacqueline+Simpson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2008.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Ghosts+Jacqueline+Simpson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+folklore+of+Discworld&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The folklore of Discworld</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+folklore+of+Discworld&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The folklore of Discworld</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for For Fan Missing Persons Band Ablum Poster Red T-shirt S to 5XL"><img src="{{ '/assets/images/marketplace-covers/a509598f94cd70967db4.jpg' | relative_url }}" alt="Listing image for For Fan Missing Persons Band Ablum Poster Red T-shirt S to 5XL" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">For Fan Missing Persons Band Ablum Poster Red T-shirt S to 5XL</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missing persons poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: missing persons poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for For Fan Missing Persons Band Ablum Poster Red T-shirt S to 5XL"><img src="{{ '/assets/images/marketplace-covers/a509598f94cd70967db4.jpg' | relative_url }}" alt="Listing image for For Fan Missing Persons Band Ablum Poster Red T-shirt S to 5XL" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">For Fan Missing Persons Band Ablum Poster Red T-shirt S to 5XL</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missing persons poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: missing persons poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MISSING PERSONS BAND PROMO POSTER 11 X 17 - FREE SHIPPING"><img src="{{ '/assets/images/marketplace-covers/0fa6bae2bd549815b494.jpg' | relative_url }}" alt="Listing image for MISSING PERSONS BAND PROMO POSTER 11 X 17 - FREE SHIPPING" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">MISSING PERSONS BAND PROMO POSTER 11 X 17 - FREE SHIPPING</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missing persons poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: missing persons poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MISSING PERSONS BAND PROMO POSTER 11 X 17 - FREE SHIPPING"><img src="{{ '/assets/images/marketplace-covers/0fa6bae2bd549815b494.jpg' | relative_url }}" alt="Listing image for MISSING PERSONS BAND PROMO POSTER 11 X 17 - FREE SHIPPING" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">MISSING PERSONS BAND PROMO POSTER 11 X 17 - FREE SHIPPING</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missing persons poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: missing persons poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Missing Persons Concert Poster Greek Theatre"><img src="{{ '/assets/images/marketplace-covers/b139e6959141b1a0be5d.jpg' | relative_url }}" alt="Listing image for Missing Persons Concert Poster Greek Theatre" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">Missing Persons Concert Poster Greek Theatre</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missing persons poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: missing persons poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Missing Persons Concert Poster Greek Theatre"><img src="{{ '/assets/images/marketplace-covers/b139e6959141b1a0be5d.jpg' | relative_url }}" alt="Listing image for Missing Persons Concert Poster Greek Theatre" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">Missing Persons Concert Poster Greek Theatre</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missing persons poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: missing persons poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1c4d78cf65d0439dd374.jpg' | relative_url }}" alt="Listing image for Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missing persons poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: missing persons poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1c4d78cf65d0439dd374.jpg' | relative_url }}" alt="Listing image for Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missing persons poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: missing persons poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="folklore-why-strange-stories-survive-without-proof-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -813,7 +813,7 @@ The strongest Fortean reading holds both truths together: a legend’s persisten
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -833,7 +833,7 @@ The strongest Fortean reading holds both truths together: a legend’s persisten
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -865,7 +865,7 @@ The strongest Fortean reading holds both truths together: a legend’s persisten
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -917,7 +917,7 @@ The strongest Fortean reading holds both truths together: a legend’s persisten
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -962,7 +962,7 @@ The strongest Fortean reading holds both truths together: a legend’s persisten
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1003,223 +1003,223 @@ The strongest Fortean reading holds both truths together: a legend’s persisten
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/content/oa_chapter_edited/j.ctt4cgrzn.4?seq=1" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/content/oa_chapter_edited/j.ctt4cgrzn.4?seq=1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Analytical Essays of Alan DundesJuly 1, 2007 — Dundes argued that in folklore, more than in other forms of human evidence, “one...</p></details>
+   Link:<a href="https://www.jstor.org/content/oa_chapter_edited/j.ctt4cgrzn.4?seq=1" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/content/oa_chapter_edited/j.ctt4cgrzn.4?seq=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Analytical Essays of Alan DundesJuly 1, 2007 — Dundes argued that in folklore, more than in other forms of human evidence, “one...</p></details>
    Published: July 1, 2007  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: contemporarylegend.org  
-   Link: <a href="https://contemporarylegend.org/" target="_blank" rel="noopener noreferrer nofollow">https://contemporarylegend.org/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>International Society for Contemporary Legend Research...Contemporary legends are contemporary to the teller and audience, not solely to...</p></details>
+   Link:<a href="https://contemporarylegend.org/" target="_blank" rel="noopener noreferrer nofollow">https://contemporarylegend.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>International Society for Contemporary Legend Research...Contemporary legends are contemporary to the teller and audience, not solely to...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Ostension (folklore)  
-   Link: <a href="https://en.wikipedia.org/wiki/Ostension_%28folklore%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ostension_%28folklore%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ostension_%28folklore%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ostension_%28folklore%29</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/8530695/It_makes_sense_to_us_Cultural_identity_in_local_legends_of_place_Journal_of_Contemporary_Ethnography" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/8530695/It_makes_sense_to_us_Cultural_identity_in_local_legends_of_place_Journal_of_Contemporary_Ethnography</a>  
+   Link:<a href="https://www.academia.edu/8530695/It_makes_sense_to_us_Cultural_identity_in_local_legends_of_place_Journal_of_Contemporary_Ethnography" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/8530695/It_makes_sense_to_us_Cultural_identity_in_local_legends_of_place_Journal_of_Contemporary_Ethnography</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: atlanticcountynj.gov  
    Title: Atlantic County NJJersey Devil  
-   Link: <a href="https://www.atlanticcountynj.gov/government/government-information/history-of-atlantic-county/jersey-devil-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.atlanticcountynj.gov/government/government-information/history-of-atlantic-county/jersey-devil-fact-or-fiction</a>  
+   Link:<a href="https://www.atlanticcountynj.gov/government/government-information/history-of-atlantic-county/jersey-devil-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.atlanticcountynj.gov/government/government-information/history-of-atlantic-county/jersey-devil-fact-or-fiction</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: visitinvernesslochness.com  
-   Link: <a href="https://www.visitinvernesslochness.com/the-lochness-monster" target="_blank" rel="noopener noreferrer nofollow">https://www.visitinvernesslochness.com/the-lochness-monster</a>  
+   Link:<a href="https://www.visitinvernesslochness.com/the-lochness-monster" target="_blank" rel="noopener noreferrer nofollow">https://www.visitinvernesslochness.com/the-lochness-monster</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ruthenia.ru  
    Title: LEGEN D  
-   Link: <a href="https://www.ruthenia.ru/folklore/folklorelaboratory/4expseminar/degh_legend%20and%20belief.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ruthenia.ru/folklore/folklorelaboratory/4expseminar/degh_legend%20and%20belief.pdf</a>  
+   Link:<a href="https://www.ruthenia.ru/folklore/folklorelaboratory/4expseminar/degh_legend%20and%20belief.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ruthenia.ru/folklore/folklorelaboratory/4expseminar/degh_legend%20and%20belief.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/1260912" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/1260912</a>  
+   Link:<a href="https://www.jstor.org/stable/1260912" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/1260912</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: read.upcolorado.com  
-   Link: <a href="https://read.upcolorado.com/read/haunting-experiences-ghosts-in-contemporary-folklore/section/44f30611-e723-4750-b20d-dc9a51ad470a" target="_blank" rel="noopener noreferrer nofollow">https://read.upcolorado.com/read/haunting-experiences-ghosts-in-contemporary-folklore/section/44f30611-e723-4750-b20d-dc9a51ad470a</a>  
+   Link:<a href="https://read.upcolorado.com/read/haunting-experiences-ghosts-in-contemporary-folklore/section/44f30611-e723-4750-b20d-dc9a51ad470a" target="_blank" rel="noopener noreferrer nofollow">https://read.upcolorado.com/read/haunting-experiences-ghosts-in-contemporary-folklore/section/44f30611-e723-4750-b20d-dc9a51ad470a</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Paranormal" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Paranormal</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Paranormal" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Paranormal</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Loch Ness Monster  
-   Link: <a href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Loch_Ness_Monster</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Loch_Ness_Monster</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Jersey Devil  
-   Link: <a href="https://en.wikipedia.org/wiki/Jersey_Devil" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jersey_Devil</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Jersey_Devil" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jersey_Devil</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: folklore.ee  
-   Link: <a href="https://www.folklore.ee/balkan_baltic_yearbook/YBBS/article/view/304/305" target="_blank" rel="noopener noreferrer nofollow">https://www.folklore.ee/balkan_baltic_yearbook/YBBS/article/view/304/305</a>  
+   Link:<a href="https://www.folklore.ee/balkan_baltic_yearbook/YBBS/article/view/304/305" target="_blank" rel="noopener noreferrer nofollow">https://www.folklore.ee/balkan_baltic_yearbook/YBBS/article/view/304/305</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: folklore.ee  
-   Link: <a href="https://www.folklore.ee/rl/fo/konve/2016/legend/abstracts.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.folklore.ee/rl/fo/konve/2016/legend/abstracts.pdf</a>  
+   Link:<a href="https://www.folklore.ee/rl/fo/konve/2016/legend/abstracts.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.folklore.ee/rl/fo/konve/2016/legend/abstracts.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: forteana.info  
-   Link: <a href="https://forteana.info/topics/high-strangeness/" target="_blank" rel="noopener noreferrer nofollow">https://forteana.info/topics/high-strangeness/</a>  
+   Link:<a href="https://forteana.info/topics/high-strangeness/" target="_blank" rel="noopener noreferrer nofollow">https://forteana.info/topics/high-strangeness/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/120831683/Linda_D%C3%A9gh_Legend_and_Belief_Dialectics_of_a_Folklore_Genre_2001_" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/120831683/Linda_D%C3%A9gh_Legend_and_Belief_Dialectics_of_a_Folklore_Genre_2001_</a>  
+   Link:<a href="https://www.academia.edu/120831683/Linda_D%C3%A9gh_Legend_and_Belief_Dialectics_of_a_Folklore_Genre_2001_" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/120831683/Linda_D%C3%A9gh_Legend_and_Belief_Dialectics_of_a_Folklore_Genre_2001_</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/26832584/Belief_in_Ghosts_in_Post_War_England" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/26832584/Belief_in_Ghosts_in_Post_War_England</a>  
+   Link:<a href="https://www.academia.edu/26832584/Belief_in_Ghosts_in_Post_War_England" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/26832584/Belief_in_Ghosts_in_Post_War_England</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: history.com  
    Title: Loch Ness Monster  
-   Link: <a href="https://www.history.com/articles/loch-ness-monster" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/loch-ness-monster</a>  
+   Link:<a href="https://www.history.com/articles/loch-ness-monster" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/loch-ness-monster</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ostension.org  
-   Link: <a href="https://www.ostension.org/articles.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ostension.org/articles.html</a>  
+   Link:<a href="https://www.ostension.org/articles.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ostension.org/articles.html</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ostension.org  
    Title: whats ostension  
-   Link: <a href="https://www.ostension.org/whats_ostension.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ostension.org/whats_ostension.html</a>  
+   Link:<a href="https://www.ostension.org/whats_ostension.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ostension.org/whats_ostension.html</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ia801305.us.archive.org  
    Title: Fortean Times March 2016  
-   Link: <a href="https://ia801305.us.archive.org/6/items/Fortean_Times_March_2016/Fortean_Times_March_2016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia801305.us.archive.org/6/items/Fortean_Times_March_2016/Fortean_Times_March_2016.pdf</a>  
+   Link:<a href="https://ia801305.us.archive.org/6/items/Fortean_Times_March_2016/Fortean_Times_March_2016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia801305.us.archive.org/6/items/Fortean_Times_March_2016/Fortean_Times_March_2016.pdf</a>  
    Published: March 2016  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: loc.gov  
    Title: The Library of Congress Collections Policy Statement: Folklore and Folklife  
-   Link: <a href="https://www.loc.gov/acq/devpol/folklore.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/acq/devpol/folklore.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Library of CongressCollections Policy Statement: Folklore and FolklifeMay 5, 2022 — This statement refers to all materials that perta...</p></details>
+   Link:<a href="https://www.loc.gov/acq/devpol/folklore.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/acq/devpol/folklore.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Library of CongressCollections Policy Statement: Folklore and FolklifeMay 5, 2022 — This statement refers to all materials that perta...</p></details>
    Published: May 5, 2022  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: folklife.si.edu  
    Title: mothman point pleasant west virginia  
-   Link: <a href="https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia" target="_blank" rel="noopener noreferrer nofollow">https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia</a>  
+   Link:<a href="https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia" target="_blank" rel="noopener noreferrer nofollow">https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: openculture.com  
    Title: carl jungs 1957 letter on the fascinating modern myth of ufos  
-   Link: <a href="https://www.openculture.com/2013/05/carl_jungs_1957_letter_on_the_fascinating_modern_myth_of_ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.openculture.com/2013/05/carl_jungs_1957_letter_on_the_fascinating_modern_myth_of_ufos.html</a>  
+   Link:<a href="https://www.openculture.com/2013/05/carl_jungs_1957_letter_on_the_fascinating_modern_myth_of_ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.openculture.com/2013/05/carl_jungs_1957_letter_on_the_fascinating_modern_myth_of_ufos.html</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/mothman" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/social-sciences-and-humanities/mothman</a>  
+   Link:<a href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/mothman" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/social-sciences-and-humanities/mothman</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: scribd.com  
    Title: Linda Dégh  
-   Link: <a href="https://www.scribd.com/document/597694225/Linda-Degh-Legend-and-Belief-Dialectics-of-a-Folklore-Genre-Indiana-University-Press-2001" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/597694225/Linda-Degh-Legend-and-Belief-Dialectics-of-a-Folklore-Genre-Indiana-University-Press-2001</a>  
+   Link:<a href="https://www.scribd.com/document/597694225/Linda-Degh-Legend-and-Belief-Dialectics-of-a-Folklore-Genre-Indiana-University-Press-2001" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/597694225/Linda-Degh-Legend-and-Belief-Dialectics-of-a-Folklore-Genre-Indiana-University-Press-2001</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: guides.loc.gov  
    Title: material culture folklife  
-   Link: <a href="https://guides.loc.gov/material-culture-folklife" target="_blank" rel="noopener noreferrer nofollow">https://guides.loc.gov/material-culture-folklife</a>  
+   Link:<a href="https://guides.loc.gov/material-culture-folklife" target="_blank" rel="noopener noreferrer nofollow">https://guides.loc.gov/material-culture-folklife</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: blogs.loc.gov  
-   Link: <a href="https://blogs.loc.gov/folklife/2019/02/folklife-at-the-international-level-the-roots-of-intangible-cultural-heritage-part-v-globalization/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/folklife/2019/02/folklife-at-the-international-level-the-roots-of-intangible-cultural-heritage-part-v-globalization/</a>  
+   Link:<a href="https://blogs.loc.gov/folklife/2019/02/folklife-at-the-international-level-the-roots-of-intangible-cultural-heritage-part-v-globalization/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/folklife/2019/02/folklife-at-the-international-level-the-roots-of-intangible-cultural-heritage-part-v-globalization/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: loc.gov  
-   Link: <a href="https://www.loc.gov/research-centers/american-folklife-center/collections/web-archives/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/research-centers/american-folklife-center/collections/web-archives/</a>  
+   Link:<a href="https://www.loc.gov/research-centers/american-folklife-center/collections/web-archives/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/research-centers/american-folklife-center/collections/web-archives/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: loc.gov  
-   Link: <a href="https://www.loc.gov/research-centers/american-folklife-center/about-this-research-center/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/research-centers/american-folklife-center/about-this-research-center/</a>  
+   Link:<a href="https://www.loc.gov/research-centers/american-folklife-center/about-this-research-center/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/research-centers/american-folklife-center/about-this-research-center/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: blogs.loc.gov  
-   Link: <a href="https://blogs.loc.gov/folklife/2019/01/folklife-at-the-international-level-the-roots-of-intangible-cultural-heritage-part-iv-the-1989-recommendation/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/folklife/2019/01/folklife-at-the-international-level-the-roots-of-intangible-cultural-heritage-part-iv-the-1989-recommendation/</a>  
+   Link:<a href="https://blogs.loc.gov/folklife/2019/01/folklife-at-the-international-level-the-roots-of-intangible-cultural-heritage-part-iv-the-1989-recommendation/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/folklife/2019/01/folklife-at-the-international-level-the-roots-of-intangible-cultural-heritage-part-iv-the-1989-recommendation/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: loc.gov  
-   Link: <a href="https://www.loc.gov/aba/publications/FreeCSM/F590.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/aba/publications/FreeCSM/F590.pdf</a>  
+   Link:<a href="https://www.loc.gov/aba/publications/FreeCSM/F590.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/aba/publications/FreeCSM/F590.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: guides.loc.gov  
    Title: online resources  
-   Link: <a href="https://guides.loc.gov/latinx-folklife/online-resources" target="_blank" rel="noopener noreferrer nofollow">https://guides.loc.gov/latinx-folklife/online-resources</a>  
+   Link:<a href="https://guides.loc.gov/latinx-folklife/online-resources" target="_blank" rel="noopener noreferrer nofollow">https://guides.loc.gov/latinx-folklife/online-resources</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: tile.loc.gov  
-   Link: <a href="https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/20/71/90/53/2020719053/2020719053.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/20/71/90/53/2020719053/2020719053.pdf</a>  
+   Link:<a href="https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/20/71/90/53/2020719053/2020719053.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/20/71/90/53/2020719053/2020719053.pdf</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: guides.loc.gov  
    Title: folklife historic preservation  
-   Link: <a href="https://guides.loc.gov/folklife-historic-preservation" target="_blank" rel="noopener noreferrer nofollow">https://guides.loc.gov/folklife-historic-preservation</a>  
+   Link:<a href="https://guides.loc.gov/folklife-historic-preservation" target="_blank" rel="noopener noreferrer nofollow">https://guides.loc.gov/folklife-historic-preservation</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: libguides.ala.org  
-   Link: <a href="https://libguides.ala.org/primarysources/folklife" target="_blank" rel="noopener noreferrer nofollow">https://libguides.ala.org/primarysources/folklife</a>  
+   Link:<a href="https://libguides.ala.org/primarysources/folklife" target="_blank" rel="noopener noreferrer nofollow">https://libguides.ala.org/primarysources/folklife</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: books.google.com  
    Title: Legend and Belief  
-   Link: <a href="https://books.google.com/books/about/Legend_and_Belief.html?id=8g1yCOcvAWUC" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Legend_and_Belief.html?id=8g1yCOcvAWUC</a>  
+   Link:<a href="https://books.google.com/books/about/Legend_and_Belief.html?id=8g1yCOcvAWUC" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Legend_and_Belief.html?id=8g1yCOcvAWUC</a>  
 
 ### Additional References
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: uscode.house.gov  
-   Link: <a href="https://uscode.house.gov/view.xhtml?edition=prelim&amp;path=%2Fprelim%40title20%2Fchapter43" target="_blank" rel="noopener noreferrer nofollow">https://uscode.house.gov/view.xhtml?edition=prelim&amp;path=%2Fprelim%40title20%2Fchapter43</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Code20 USC Ch. 43: AMERICAN FOLKLIFE PRESERVATIONDefinitions. As used in this subchapter—. (1) the term &quot;American folklife&quot; means the tra...</p></details>
+   Link:<a href="https://uscode.house.gov/view.xhtml?edition=prelim&amp;path=%2Fprelim%40title20%2Fchapter43" target="_blank" rel="noopener noreferrer nofollow">https://uscode.house.gov/view.xhtml?edition=prelim&amp;path=%2Fprelim%40title20%2Fchapter43</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Code20 USC Ch. 43: AMERICAN FOLKLIFE PRESERVATIONDefinitions. As used in this subchapter—. (1) the term &quot;American folklife&quot; means the tra...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
    Title: Historian Answers Folklore Questions | Tech Support | WIRED  
-   Link: <a href="https://www.youtube.com/watch?v=i61jkjPtMuw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i61jkjPtMuw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>London Fortean Society: Cursed Britain with Thomas Waters (at Conway Hall)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=i61jkjPtMuw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i61jkjPtMuw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>London Fortean Society: Cursed Britain with Thomas Waters (at Conway Hall)...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: youtube.com  
    Title: Folk Horror and Urban Legends | Josh Zeman & Dr. Diane Rodgers  
-   Link: <a href="https://www.youtube.com/watch?v=Tm4_B3-gehc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Tm4_B3-gehc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cultural Threads: Decoding the Universal Elements in Folklore...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Tm4_B3-gehc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Tm4_B3-gehc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cultural Threads: Decoding the Universal Elements in Folklore...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: youtube.com  
    Title: Cultural Threads: Decoding the Universal Elements in Folklore  
-   Link: <a href="https://www.youtube.com/watch?v=NNUEGpz7BTE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NNUEGpz7BTE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Historian Answers Folklore Questions | Tech Support | WIRED...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=NNUEGpz7BTE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NNUEGpz7BTE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Historian Answers Folklore Questions | Tech Support | WIRED...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
    Title: 'Dark Folklore' with Mark Norman (The Haunted Landscape)  
-   Link: <a href="https://www.youtube.com/watch?v=WqE0oz38-30" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WqE0oz38-30</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Folk Horror and Urban Legends | Josh Zeman &amp; Dr. Diane Rodgers...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WqE0oz38-30" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WqE0oz38-30</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Folk Horror and Urban Legends | Josh Zeman &amp; Dr. Diane Rodgers...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DMKegKioox8/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DMKegKioox8/</a>  
+   Link:<a href="https://www.instagram.com/p/DMKegKioox8/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DMKegKioox8/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/395762454_Cultural_Relevance_of_Local_Legends_from_Old_Man%27s_Folklore_to_ELT_Corollaries" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395762454_Cultural_Relevance_of_Local_Legends_from_Old_Man%27s_Folklore_to_ELT_Corollaries</a>  
+   Link:<a href="https://www.researchgate.net/publication/395762454_Cultural_Relevance_of_Local_Legends_from_Old_Man%27s_Folklore_to_ELT_Corollaries" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395762454_Cultural_Relevance_of_Local_Legends_from_Old_Man%27s_Folklore_to_ELT_Corollaries</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/393611429_Urban_Legends_as_an_Emic_Category" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/393611429_Urban_Legends_as_an_Emic_Category</a>  
+   Link:<a href="https://www.researchgate.net/publication/393611429_Urban_Legends_as_an_Emic_Category" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/393611429_Urban_Legends_as_an_Emic_Category</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: locallearningnetwork.org  
-   Link: <a href="https://locallearningnetwork.org/wp-content/uploads/2021/08/CWCbooklet.pdf" target="_blank" rel="noopener noreferrer nofollow">https://locallearningnetwork.org/wp-content/uploads/2021/08/CWCbooklet.pdf</a>  
+   Link:<a href="https://locallearningnetwork.org/wp-content/uploads/2021/08/CWCbooklet.pdf" target="_blank" rel="noopener noreferrer nofollow">https://locallearningnetwork.org/wp-content/uploads/2021/08/CWCbooklet.pdf</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/johanegerkranspublic/posts/badabing-the-jersey-devil-is-a-folkloric-monster-according-to-the-legend-the-thi/1308624001065177/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/johanegerkranspublic/posts/badabing-the-jersey-devil-is-a-folkloric-monster-according-to-the-legend-the-thi/1308624001065177/</a>  
+   Link:<a href="https://www.facebook.com/johanegerkranspublic/posts/badabing-the-jersey-devil-is-a-folkloric-monster-according-to-the-legend-the-thi/1308624001065177/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/johanegerkranspublic/posts/badabing-the-jersey-devil-is-a-folkloric-monster-according-to-the-legend-the-thi/1308624001065177/</a>  

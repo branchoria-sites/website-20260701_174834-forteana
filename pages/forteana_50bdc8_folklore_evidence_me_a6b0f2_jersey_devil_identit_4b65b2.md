@@ -280,7 +280,7 @@ image: /assets/images/forteana_50bdc8_folklore_evidence_me_a6b0f2_jersey_devil_i
 
 ## Introduction
 
-The Jersey Devil is one of the clearest examples in American [folklore]({{ 'folklore/' | relative_url }}) of a legendary creature becoming inseparable from a particular landscape. Whether or not anyone accepts the creature as real, the legend has helped define the identity of New Jersey's Pine Barrens for more than a century. It transforms an extensive forest into a place of mystery, marks the region as culturally distinct from surrounding urban areas, and gives residents a story that is recognised far beyond the state itself. Within [Forteana]({{ 'forteana/' | relative_url }}), this makes the Jersey Devil valuable not simply as a disputed cryptid but as evidence of how folklore can shape regional identity even when the underlying events remain unverified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalgeographic.com/history/history-magazine/article/the-devil-went-down-to-new-jersey" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[National Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-title">the devil went down to new jersey</span><span class="citation-popover-snippet">The author took a dim view of the...Read more...</span></span></span>
+The Jersey Devil is one of the clearest examples in American [folklore]({{ 'folklore/' | relative_url }}) of a legendary creature becoming inseparable from a particular landscape. Whether or not anyone accepts the creature as real, the legend has helped define the identity of New Jersey's Pine Barrens for more than a century. It transforms an extensive forest into a place of mystery, marks the region as culturally distinct from surrounding urban areas, and gives residents a story that is recognised far beyond the state itself. Within [Forteana]({{ 'forteana/' | relative_url }}), this makes the Jersey Devil valuable not simply as a disputed cryptid but as evidence of how folklore can shape regional identity even when the underlying events remain unverified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalgeographic.com/history/history-magazine/article/the-devil-went-down-to-new-jersey" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[National Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-title">the devil went down to new jersey</span><span class="citation-popover-snippet">The author took a dim view of the...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_folklore_evidence_me_a6b0f2_jersey_devil_identit_4b65b2-Illustration-1-dark.svg" | relative_url }}" alt="Jersey Devil illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_folklore_evidence_me_a6b0f2_jersey_devil_identit_4b65b2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_folklore_evidence_me_a6b0f2_jersey_devil_identit_4b65b2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -290,14 +290,14 @@ Unlike many monster traditions that drift between locations, the Jersey Devil is
 <img src="{{ "/assets/images/forteana_50bdc8_folklore_evidence_me_a6b0f2_jersey_devil_identit_4b65b2-Illustration-3-dark.svg" | relative_url }}" alt="Jersey Devil illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_folklore_evidence_me_a6b0f2_jersey_devil_identit_4b65b2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_folklore_evidence_me_a6b0f2_jersey_devil_identit_4b65b2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Pine Barrens as legend landscape
 
-The New Jersey Pine Barrens cover more than one million acres of sandy forests, cedar swamps and sparsely populated settlements. For centuries the region's isolation made it appear unfamiliar and even threatening to outsiders. Poor roads, scattered communities and extensive woodland encouraged stories that blurred the boundary between ordinary wildlife and supernatural encounters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atlanticcountynj.gov/government/government-information/history-of-atlantic-county/jersey-devil-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlanticcountynj.gov">[Atlantic County NJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlanticcountynj.gov</span><span class="citation-popover-title">Atlantic County NJJersey Devil</span><span class="citation-popover-snippet">Fact or Fiction?The birthplace of the Jersey Devil is called the Pine Barrens. The Devil&#x27;s Origins. One of the most famous stories tells...</span></span></span>
+The New Jersey Pine Barrens cover more than one million acres of sandy forests, cedar swamps and sparsely populated settlements. For centuries the region's isolation made it appear unfamiliar and even threatening to outsiders. Poor roads, scattered communities and extensive woodland encouraged stories that blurred the boundary between ordinary wildlife and supernatural encounters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atlanticcountynj.gov/government/government-information/history-of-atlantic-county/jersey-devil-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlanticcountynj.gov">[Atlantic County NJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlanticcountynj.gov</span><span class="citation-popover-title">Atlantic County NJJersey Devil</span><span class="citation-popover-snippet">Fact or Fiction?The birthplace of the Jersey Devil is called the Pine Barrens. The Devil&#x27;s Origins. One of the most famous stories tells...</span></span></span>
 
 Folklore thrives in places where geography leaves room for uncertainty. The Pine Barrens provided several conditions that encouraged this process:
 
 * Dense woodland where unusual sounds were difficult to identify.
 * Sparse settlement, allowing stories to spread without frequent contradiction.
 * A long history of travellers describing the region as remote and dangerous.
-* Existing traditions involving [ghosts]({{ 'ghosts/' | relative_url }}), hidden treasure and mysterious figures, into which the Jersey Devil naturally fitted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jersey_Devil" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jersey Devil</span><span class="citation-popover-snippet">Jersey Devil</span></span></span>
+* Existing traditions involving [ghosts]({{ 'ghosts/' | relative_url }}), hidden treasure and mysterious figures, into which the Jersey Devil naturally fitted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jersey_Devil" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jersey Devil</span><span class="citation-popover-snippet">Jersey Devil</span></span></span>
 
 The landscape therefore became more than the alleged habitat of a creature. It became a stage on which local identity was performed. Visitors entered expecting mystery, while residents inherited stories that reinforced the uniqueness of their home.
 
@@ -308,9 +308,9 @@ This relationship runs both ways. The Pine Barrens make the Jersey Devil believa
 
 ## Family curse, wilderness and local reputation
 
-The best-known version of the legend centres on Mother Leeds, who supposedly cursed her unborn thirteenth child, declaring that it should become the devil. After birth the infant transformed into a winged creature and escaped into the surrounding forest. Numerous versions exist, differing in dates, locations and details, but nearly all connect the creature directly with the Pine Barrens. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pinelandsalliance.org/learn-about-the-pinelands/pinelands-history-and-culture/the-jersey-devil-and-folklore/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pinelandsalliance.org">[Pinelands Alliance+2Atlantic County NJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pinelandsalliance.org</span><span class="citation-popover-snippet">Pinelands AllianceThe Jersey Devil and FolkloreThe most widely held belief about the origin of the Jersey Devil is that Mrs. Leeds, a res...</span></span></span>
+The best-known version of the legend centres on Mother Leeds, who supposedly cursed her unborn thirteenth child, declaring that it should become the devil. After birth the infant transformed into a winged creature and escaped into the surrounding forest. Numerous versions exist, differing in dates, locations and details, but nearly all connect the creature directly with the Pine Barrens.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pinelandsalliance.org/learn-about-the-pinelands/pinelands-history-and-culture/the-jersey-devil-and-folklore/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pinelandsalliance.org">[Pinelands Alliance+2Atlantic County NJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pinelandsalliance.org</span><span class="citation-popover-snippet">Pinelands AllianceThe Jersey Devil and FolkloreThe most widely held belief about the origin of the Jersey Devil is that Mrs. Leeds, a res...</span></span></span>
 
-Modern historical research has complicated this familiar story. Historian Brian Regal argues that the legend grew partly from political and religious disputes surrounding the Leeds family in colonial New Jersey rather than from a single supernatural tale. Daniel Leeds and later his son Titan Leeds became controversial figures because of conflicts with Quaker authorities and political rivals. Over time, references to the "Leeds Devil" gradually evolved into the more familiar "Jersey Devil". Benjamin Franklin's rivalry with Titan Leeds over competing almanacs contributed to the family's increasingly demonic public image. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://njs.libraries.rutgers.edu/index.php/njs/article/view/13/12" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: njs.libraries.rutgers.edu">[njs.libraries.rutgers.edu+2njhumanities.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">njs.libraries.rutgers.edu</span><span class="citation-popover-snippet">View of &quot;THE JERSEY DEVIL: A POLITICAL ANIMAL&quot;by B Regal · 2015 · Cited by 5 — The only element of the legend with historical connection...</span></span></span>
+Modern historical research has complicated this familiar story. Historian Brian Regal argues that the legend grew partly from political and religious disputes surrounding the Leeds family in colonial New Jersey rather than from a single supernatural tale. Daniel Leeds and later his son Titan Leeds became controversial figures because of conflicts with Quaker authorities and political rivals. Over time, references to the "Leeds Devil" gradually evolved into the more familiar "Jersey Devil". Benjamin Franklin's rivalry with Titan Leeds over competing almanacs contributed to the family's increasingly demonic public image.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://njs.libraries.rutgers.edu/index.php/njs/article/view/13/12" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: njs.libraries.rutgers.edu">[njs.libraries.rutgers.edu+2njhumanities.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">njs.libraries.rutgers.edu</span><span class="citation-popover-snippet">View of &quot;THE JERSEY DEVIL: A POLITICAL ANIMAL&quot;by B Regal · 2015 · Cited by 5 — The only element of the legend with historical connection...</span></span></span>
 
 From a folklore perspective, this historical complexity strengthens rather than weakens the legend. It demonstrates how monster traditions often emerge through the blending of several elements:
 
@@ -337,13 +337,13 @@ The wilderness itself also became part of the creature's character. The Devil is
 
 The Jersey Devil provides an instructive example of how scepticism can reinforce folklore instead of eliminating it.
 
-Natural explanations have been proposed for generations. Suggested causes include misidentified birds or mammals, fabricated stories, exaggerated newspaper reports, children's cautionary tales and misunderstandings shaped by the reputation of the Pine Barrens. Researchers have also pointed to the famous wave of reported sightings in January 1909 as an example of mass social excitement amplified by [newspapers]({{ 'newspapers/' | relative_url }}) rather than evidence of an unknown creature. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jersey_Devil" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jersey Devil</span><span class="citation-popover-snippet">Jersey Devil</span></span></span>
+Natural explanations have been proposed for generations. Suggested causes include misidentified birds or mammals, fabricated stories, exaggerated newspaper reports, children's cautionary tales and misunderstandings shaped by the reputation of the Pine Barrens. Researchers have also pointed to the famous wave of reported sightings in January 1909 as an example of mass social excitement amplified by [newspapers]({{ 'newspapers/' | relative_url }}) rather than evidence of an unknown creature.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Jersey_Devil" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jersey Devil</span><span class="citation-popover-snippet">Jersey Devil</span></span></span>
 
 Yet these sceptical interpretations rarely displace the legend. Instead, they become part of it.
 
 Each anniversary article, historical investigation or television documentary introduces the Jersey Devil to new audiences. Even when the conclusion is that there is no convincing biological evidence for the creature, the story itself receives another retelling. This keeps the Pine Barrens culturally associated with mystery while allowing readers to enjoy the tradition without committing to belief.
 
-The legend has also become a source of regional pride. It appears in [tourism]({{ 'tourism/' | relative_url }}), museums, local festivals, sports branding, books and educational programmes exploring New Jersey history. In these settings, the Devil functions less as a literal monster than as an emblem of a landscape with its own distinctive character. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atlanticcountynj.gov/government/government-information/history-of-atlantic-county/jersey-devil-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlanticcountynj.gov">[Atlantic County NJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlanticcountynj.gov</span><span class="citation-popover-title">Atlantic County NJJersey Devil</span><span class="citation-popover-snippet">Fact or Fiction?The birthplace of the Jersey Devil is called the Pine Barrens. The Devil&#x27;s Origins. One of the most famous stories tells...</span></span></span>
+The legend has also become a source of regional pride. It appears in [tourism]({{ 'tourism/' | relative_url }}), museums, local festivals, sports branding, books and educational programmes exploring New Jersey history. In these settings, the Devil functions less as a literal monster than as an emblem of a landscape with its own distinctive character.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atlanticcountynj.gov/government/government-information/history-of-atlantic-county/jersey-devil-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlanticcountynj.gov">[Atlantic County NJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlanticcountynj.gov</span><span class="citation-popover-title">Atlantic County NJJersey Devil</span><span class="citation-popover-snippet">Fact or Fiction?The birthplace of the Jersey Devil is called the Pine Barrens. The Devil&#x27;s Origins. One of the most famous stories tells...</span></span></span>
 
 For Fortean studies, this is especially revealing. The enduring importance of the Jersey Devil lies not in demonstrating that an unknown animal inhabits the Pine Barrens, but in showing how a disputed creature can become part of a community's cultural identity. The legend survives because it gives people a memorable way to talk about wilderness, local history, isolation and belonging. The repeated cycle of belief, [doubt]({{ 'doubt/' | relative_url }}), investigation and retelling ensures that the Jersey Devil remains both a cryptid and a symbol of the Pine Barrens themselves.
 
@@ -352,178 +352,178 @@ For Fortean studies, this is especially revealing. The enduring importance of th
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How the Jersey Devil Became Pine Barrens Identity. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How the Jersey Devil Became Pine Barrens Identity. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The vanishing hitchhiker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4614126-M.jpg" alt="Cover for The vanishing hitchhiker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The vanishing hitchhiker">The vanishing hitchhiker</a>
-        </h4>
-        <p class="fr-book-author">By Jan Harold Brunvand</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The vanishing hitchhiker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4614126-M.jpg" alt="Cover for The vanishing hitchhiker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The vanishing hitchhiker">The vanishing hitchhiker</a>
+</h4>
+<p class="fr-book-author">By Jan Harold Brunvand</p>
         
-        <p class="fr-book-desc">First published 1981. Subjects: History and criticism, Legends, Urban folklore, Légendes, Folklore urbain.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1981. Subjects: History and criticism, Legends, Urban folklore, Légendes, Folklore urbain.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+monsters+Linda+S.+Godfrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American monsters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10990679-M.jpg" alt="Cover for American monsters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+monsters+Linda+S.+Godfrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American monsters">American monsters</a>
-        </h4>
-        <p class="fr-book-author">By Linda S. Godfrey</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+monsters+Linda+S.+Godfrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American monsters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10990679-M.jpg" alt="Cover for American monsters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+monsters+Linda+S.+Godfrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American monsters">American monsters</a>
+</h4>
+<p class="fr-book-author">By Linda S. Godfrey</p>
         
-        <p class="fr-book-desc">First published 2014. Subjects: Monsters, BODY, MIND &amp; SPIRIT / Unexplained Phenomena, BODY, MIND &amp; SPIRIT / Supernatural.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+monsters+Linda+S.+Godfrey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2014. Subjects: Monsters, BODY, MIND &amp; SPIRIT / Unexplained Phenomena, BODY, MIND &amp; SPIRIT / Supernatural.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+monsters+Linda+S.+Godfrey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Weird+New+Jersey+Mark+Moran+and+Mark+Sceurman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weird New Jersey on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Weird+New+Jersey+Mark+Moran+and+Mark+Sceurman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weird New Jersey">Weird New Jersey</a>
-        </h4>
-        <p class="fr-book-author">By Mark Moran and Mark Sceurman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Weird+New+Jersey+Mark+Moran+and+Mark+Sceurman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weird New Jersey on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Weird+New+Jersey+Mark+Moran+and+Mark+Sceurman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weird New Jersey">Weird New Jersey</a>
+</h4>
+<p class="fr-book-author">By Mark Moran and Mark Sceurman</p>
         
-        <p class="fr-book-desc">Features the Jersey Devil and the folklore of the Pine Barrens.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Weird+New+Jersey+Mark+Moran+and+Mark+Sceurman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Features the Jersey Devil and the folklore of the Pine Barrens.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Weird+New+Jersey+Mark+Moran+and+Mark+Sceurman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Monsters+of+New+Jersey%3A+Mysterious+Creatures+in+the+Garden+State+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Monsters of New Jersey: Mysterious Creatures in the Garden State on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Monsters+of+New+Jersey%3A+Mysterious+Creatures+in+the+Garden+State+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Monsters of New Jersey: Mysterious Creatures in the Garden State">Monsters of New Jersey: Mysterious Creatures in the Garden State</a>
-        </h4>
-        <p class="fr-book-author">By Loren Coleman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Monsters+of+New+Jersey%3A+Mysterious+Creatures+in+the+Garden+State+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Monsters of New Jersey: Mysterious Creatures in the Garden State on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Monsters+of+New+Jersey%3A+Mysterious+Creatures+in+the+Garden+State+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Monsters of New Jersey: Mysterious Creatures in the Garden State">Monsters of New Jersey: Mysterious Creatures in the Garden State</a>
+</h4>
+<p class="fr-book-author">By Loren Coleman</p>
         
-        <p class="fr-book-desc">Focuses on New Jersey monster traditions including the Jersey Devil.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Monsters+of+New+Jersey%3A+Mysterious+Creatures+in+the+Garden+State+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on New Jersey monster traditions including the Jersey Devil.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Monsters+of+New+Jersey%3A+Mysterious+Creatures+in+the+Garden+State+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+vanishing+hitchhiker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The vanishing hitchhiker</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+monsters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American monsters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Weird+New+Jersey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weird New Jersey</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+vanishing+hitchhiker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The vanishing hitchhiker</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+monsters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American monsters</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Weird+New+Jersey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weird New Jersey</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Jersey+Devil+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jersey-devil-how-the-jersey-devil-became-pine-barrens-identity-forteana-jersey-devil-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Jersey Devil poster -book -books" data-ebay-reference="jersey-devil-how-the-jersey-devil-became-pine-barrens-identity-forteana-jersey-devil-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jersey Devil - PS1 PS2 PS3 A4 Wall Art Framed Poster Portrait Prints"><img src="{{ '/assets/images/marketplace-covers/46f54151014cbd944bbe.jpg' | relative_url }}" alt="Listing image for Jersey Devil - PS1 PS2 PS3 A4 Wall Art Framed Poster Portrait Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Jersey+Devil+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jersey-devil-how-the-jersey-devil-became-pine-barrens-identity-forteana-jersey-devil-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Jersey Devil poster -book -books" data-ebay-reference="jersey-devil-how-the-jersey-devil-became-pine-barrens-identity-forteana-jersey-devil-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Jersey Devil - PS1 PS2 PS3 A4 Wall Art Framed Poster Portrait Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Jersey+Devil+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jersey-devil-how-the-jersey-devil-became-pine-barrens-identity-forteana-jersey-devil-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Jersey Devil poster -book -books" data-ebay-reference="jersey-devil-how-the-jersey-devil-became-pine-barrens-identity-forteana-jersey-devil-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Jersey Devil poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Jersey Devil poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Jersey+Devil+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jersey-devil-how-the-jersey-devil-became-pine-barrens-identity-forteana-jersey-devil-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Jersey Devil poster -book -books" data-ebay-reference="jersey-devil-how-the-jersey-devil-became-pine-barrens-identity-forteana-jersey-devil-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Jersey+Devil+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jersey-devil-how-the-jersey-devil-became-pine-barrens-identity-forteana-jersey-devil-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Jersey Devil poster -book -books" data-ebay-reference="jersey-devil-how-the-jersey-devil-became-pine-barrens-identity-forteana-jersey-devil-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jersey Devil - PS1 PS2 PS3 A4 Wall Art Framed Poster Portrait Prints"><img src="{{ '/assets/images/marketplace-covers/46f54151014cbd944bbe.jpg' | relative_url }}" alt="Listing image for Jersey Devil - PS1 PS2 PS3 A4 Wall Art Framed Poster Portrait Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Jersey+Devil+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jersey-devil-how-the-jersey-devil-became-pine-barrens-identity-forteana-jersey-devil-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Jersey Devil poster -book -books" data-ebay-reference="jersey-devil-how-the-jersey-devil-became-pine-barrens-identity-forteana-jersey-devil-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Jersey Devil - PS1 PS2 PS3 A4 Wall Art Framed Poster Portrait Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Jersey+Devil+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jersey-devil-how-the-jersey-devil-became-pine-barrens-identity-forteana-jersey-devil-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Jersey Devil poster -book -books" data-ebay-reference="jersey-devil-how-the-jersey-devil-became-pine-barrens-identity-forteana-jersey-devil-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Jersey Devil poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Jersey Devil poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Jersey+Devil+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jersey-devil-how-the-jersey-devil-became-pine-barrens-identity-forteana-jersey-devil-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Jersey Devil poster -book -books" data-ebay-reference="jersey-devil-how-the-jersey-devil-became-pine-barrens-identity-forteana-jersey-devil-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Jersey+Devil+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jersey-devil-how-the-jersey-devil-became-pine-barrens-identity-forteana-jersey-devil-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Jersey Devil poster -book -books" data-ebay-reference="jersey-devil-how-the-jersey-devil-became-pine-barrens-identity-forteana-jersey-devil-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for jersey devil Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5f0539265397a146a437.jpg' | relative_url }}" alt="Listing image for jersey devil Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Jersey+Devil+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jersey-devil-how-the-jersey-devil-became-pine-barrens-identity-forteana-jersey-devil-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Jersey Devil poster -book -books" data-ebay-reference="jersey-devil-how-the-jersey-devil-became-pine-barrens-identity-forteana-jersey-devil-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">jersey devil Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Jersey+Devil+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jersey-devil-how-the-jersey-devil-became-pine-barrens-identity-forteana-jersey-devil-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Jersey Devil poster -book -books" data-ebay-reference="jersey-devil-how-the-jersey-devil-became-pine-barrens-identity-forteana-jersey-devil-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Jersey Devil poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Jersey Devil poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Jersey+Devil+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jersey-devil-how-the-jersey-devil-became-pine-barrens-identity-forteana-jersey-devil-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Jersey Devil poster -book -books" data-ebay-reference="jersey-devil-how-the-jersey-devil-became-pine-barrens-identity-forteana-jersey-devil-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Jersey+Devil+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jersey-devil-how-the-jersey-devil-became-pine-barrens-identity-forteana-jersey-devil-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Jersey Devil poster -book -books" data-ebay-reference="jersey-devil-how-the-jersey-devil-became-pine-barrens-identity-forteana-jersey-devil-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for jersey devil Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5f0539265397a146a437.jpg' | relative_url }}" alt="Listing image for jersey devil Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Jersey+Devil+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jersey-devil-how-the-jersey-devil-became-pine-barrens-identity-forteana-jersey-devil-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Jersey Devil poster -book -books" data-ebay-reference="jersey-devil-how-the-jersey-devil-became-pine-barrens-identity-forteana-jersey-devil-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">jersey devil Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Jersey+Devil+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jersey-devil-how-the-jersey-devil-became-pine-barrens-identity-forteana-jersey-devil-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Jersey Devil poster -book -books" data-ebay-reference="jersey-devil-how-the-jersey-devil-became-pine-barrens-identity-forteana-jersey-devil-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Jersey Devil poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Jersey Devil poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Jersey+Devil+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jersey-devil-how-the-jersey-devil-became-pine-barrens-identity-forteana-jersey-devil-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Jersey Devil poster -book -books" data-ebay-reference="jersey-devil-how-the-jersey-devil-became-pine-barrens-identity-forteana-jersey-devil-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Jersey+Devil+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jersey-devil-how-the-jersey-devil-became-pine-barrens-identity-forteana-jersey-devil-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Jersey Devil poster -book -books" data-ebay-reference="jersey-devil-how-the-jersey-devil-became-pine-barrens-identity-forteana-jersey-devil-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jersey Devil Ps1 PlayStation Promo FRAMED ADVERT GAME POSTER A4 8X12&quot;"><img src="{{ '/assets/images/marketplace-covers/aed61a8adcae1bea6b78.jpg' | relative_url }}" alt="Listing image for Jersey Devil Ps1 PlayStation Promo FRAMED ADVERT GAME POSTER A4 8X12&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Jersey+Devil+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jersey-devil-how-the-jersey-devil-became-pine-barrens-identity-forteana-jersey-devil-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Jersey Devil poster -book -books" data-ebay-reference="jersey-devil-how-the-jersey-devil-became-pine-barrens-identity-forteana-jersey-devil-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Jersey Devil Ps1 PlayStation Promo FRAMED ADVERT GAME POSTER A4 8X12&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Jersey+Devil+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jersey-devil-how-the-jersey-devil-became-pine-barrens-identity-forteana-jersey-devil-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Jersey Devil poster -book -books" data-ebay-reference="jersey-devil-how-the-jersey-devil-became-pine-barrens-identity-forteana-jersey-devil-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Jersey Devil poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Jersey Devil poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Jersey+Devil+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jersey-devil-how-the-jersey-devil-became-pine-barrens-identity-forteana-jersey-devil-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Jersey Devil poster -book -books" data-ebay-reference="jersey-devil-how-the-jersey-devil-became-pine-barrens-identity-forteana-jersey-devil-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Jersey+Devil+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jersey-devil-how-the-jersey-devil-became-pine-barrens-identity-forteana-jersey-devil-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Jersey Devil poster -book -books" data-ebay-reference="jersey-devil-how-the-jersey-devil-became-pine-barrens-identity-forteana-jersey-devil-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Jersey+Devil+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jersey-devil-how-the-jersey-devil-became-pine-barrens-identity-forteana-jersey-devil-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Jersey Devil poster -book -books" data-ebay-reference="jersey-devil-how-the-jersey-devil-became-pine-barrens-identity-forteana-jersey-devil-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jersey Devil Ps1 PlayStation Promo FRAMED ADVERT GAME POSTER A4 8X12&quot;"><img src="{{ '/assets/images/marketplace-covers/aed61a8adcae1bea6b78.jpg' | relative_url }}" alt="Listing image for Jersey Devil Ps1 PlayStation Promo FRAMED ADVERT GAME POSTER A4 8X12&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Jersey+Devil+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jersey-devil-how-the-jersey-devil-became-pine-barrens-identity-forteana-jersey-devil-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Jersey Devil poster -book -books" data-ebay-reference="jersey-devil-how-the-jersey-devil-became-pine-barrens-identity-forteana-jersey-devil-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Jersey Devil Ps1 PlayStation Promo FRAMED ADVERT GAME POSTER A4 8X12&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Jersey+Devil+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jersey-devil-how-the-jersey-devil-became-pine-barrens-identity-forteana-jersey-devil-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Jersey Devil poster -book -books" data-ebay-reference="jersey-devil-how-the-jersey-devil-became-pine-barrens-identity-forteana-jersey-devil-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Jersey Devil poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Jersey Devil poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Jersey+Devil+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jersey-devil-how-the-jersey-devil-became-pine-barrens-identity-forteana-jersey-devil-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Jersey Devil poster -book -books" data-ebay-reference="jersey-devil-how-the-jersey-devil-became-pine-barrens-identity-forteana-jersey-devil-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Jersey+Devil+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jersey-devil-how-the-jersey-devil-became-pine-barrens-identity-forteana-jersey-devil-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Jersey Devil poster -book -books" data-ebay-reference="jersey-devil-how-the-jersey-devil-became-pine-barrens-identity-forteana-jersey-devil-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -539,7 +539,7 @@ For Fortean studies, this is especially revealing. The enduring importance of th
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -559,7 +559,7 @@ For Fortean studies, this is especially revealing. The enduring importance of th
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -591,7 +591,7 @@ For Fortean studies, this is especially revealing. The enduring importance of th
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -643,7 +643,7 @@ For Fortean studies, this is especially revealing. The enduring importance of th
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -688,7 +688,7 @@ For Fortean studies, this is especially revealing. The enduring importance of th
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -729,114 +729,114 @@ For Fortean studies, this is especially revealing. The enduring importance of th
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: njhumanities.org  
    Title: The Jersey Devil in Myth and History According to Dr  
-   Link: <a href="https://njhumanities.org/humanities-to-go/psp/the-jersey-devil-in-myth-and-history/" target="_blank" rel="noopener noreferrer nofollow">https://njhumanities.org/humanities-to-go/psp/the-jersey-devil-in-myth-and-history/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Regal, the true origins of the Jersey Devil stem from colonial-era politics, religious disputes among Quakers, and the mischievous market...</p></details>
+   Link:<a href="https://njhumanities.org/humanities-to-go/psp/the-jersey-devil-in-myth-and-history/" target="_blank" rel="noopener noreferrer nofollow">https://njhumanities.org/humanities-to-go/psp/the-jersey-devil-in-myth-and-history/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Regal, the true origins of the Jersey Devil stem from colonial-era politics, religious disputes among Quakers, and the mischievous market...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: atlanticcountynj.gov  
    Title: Atlantic County NJJersey Devil  
-   Link: <a href="https://www.atlanticcountynj.gov/government/government-information/history-of-atlantic-county/jersey-devil-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.atlanticcountynj.gov/government/government-information/history-of-atlantic-county/jersey-devil-fact-or-fiction</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fact or Fiction?The birthplace of the Jersey Devil is called the Pine Barrens. The Devil&#x27;s Origins. One of the most famous stories tells...</p></details>
+   Link:<a href="https://www.atlanticcountynj.gov/government/government-information/history-of-atlantic-county/jersey-devil-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.atlanticcountynj.gov/government/government-information/history-of-atlantic-county/jersey-devil-fact-or-fiction</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fact or Fiction?The birthplace of the Jersey Devil is called the Pine Barrens. The Devil&#x27;s Origins. One of the most famous stories tells...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Jersey Devil  
-   Link: <a href="https://en.wikipedia.org/wiki/Jersey_Devil" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jersey_Devil</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Jersey_Devil" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jersey_Devil</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: njs.libraries.rutgers.edu  
-   Link: <a href="https://njs.libraries.rutgers.edu/index.php/njs/article/view/13/12" target="_blank" rel="noopener noreferrer nofollow">https://njs.libraries.rutgers.edu/index.php/njs/article/view/13/12</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>View of &quot;THE JERSEY DEVIL: A POLITICAL ANIMAL&quot;by B Regal · 2015 · Cited by 5 — The only element of the legend with historical connection...</p></details>
+   Link:<a href="https://njs.libraries.rutgers.edu/index.php/njs/article/view/13/12" target="_blank" rel="noopener noreferrer nofollow">https://njs.libraries.rutgers.edu/index.php/njs/article/view/13/12</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>View of &quot;THE JERSEY DEVIL: A POLITICAL ANIMAL&quot;by B Regal · 2015 · Cited by 5 — The only element of the legend with historical connection...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Jersey" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jersey</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>JerseyJersey is a parliamentary democracy under a constitutional monarchy, with its own financial, legal and judicial systems, and the...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Jersey" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jersey</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>JerseyJersey is a parliamentary democracy under a constitutional monarchy, with its own financial, legal and judicial systems, and the...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: jersey.com  
-   Link: <a href="https://www.jersey.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.jersey.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Visit Jersey: UK Breaks &amp; Holidays | Jersey, Channel IslandsVisit Jersey. The island break. An island shaped by the sea where some of the...</p></details>
+   Link:<a href="https://www.jersey.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.jersey.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Visit Jersey: UK Breaks &amp; Holidays | Jersey, Channel IslandsVisit Jersey. The island break. An island shaped by the sea where some of the...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nationalgeographic.com  
    Title: the devil went down to new jersey  
-   Link: <a href="https://www.nationalgeographic.com/history/history-magazine/article/the-devil-went-down-to-new-jersey" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/history/history-magazine/article/the-devil-went-down-to-new-jersey</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The author took a dim view of the...Read more...</p></details>
+   Link:<a href="https://www.nationalgeographic.com/history/history-magazine/article/the-devil-went-down-to-new-jersey" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/history/history-magazine/article/the-devil-went-down-to-new-jersey</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The author took a dim view of the...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pinelandsalliance.org  
-   Link: <a href="https://pinelandsalliance.org/learn-about-the-pinelands/pinelands-history-and-culture/the-jersey-devil-and-folklore/" target="_blank" rel="noopener noreferrer nofollow">https://pinelandsalliance.org/learn-about-the-pinelands/pinelands-history-and-culture/the-jersey-devil-and-folklore/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pinelands AllianceThe Jersey Devil and FolkloreThe most widely held belief about the origin of the Jersey Devil is that Mrs. Leeds, a res...</p></details>
+   Link:<a href="https://pinelandsalliance.org/learn-about-the-pinelands/pinelands-history-and-culture/the-jersey-devil-and-folklore/" target="_blank" rel="noopener noreferrer nofollow">https://pinelandsalliance.org/learn-about-the-pinelands/pinelands-history-and-culture/the-jersey-devil-and-folklore/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pinelands AllianceThe Jersey Devil and FolkloreThe most widely held belief about the origin of the Jersey Devil is that Mrs. Leeds, a res...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: gov.je  
-   Link: <a href="https://www.gov.je/Leisure/Jersey/pages/profile.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.je/Leisure/Jersey/pages/profile.aspx</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Facts about JerseyJersey sits in the Bay of St Malo, 14 miles (22 kilometres) from the French coast and 85 miles (137 kilometres) south o...</p></details>
+   Link:<a href="https://www.gov.je/Leisure/Jersey/pages/profile.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.je/Leisure/Jersey/pages/profile.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Facts about JerseyJersey sits in the Bay of St Malo, 14 miles (22 kilometres) from the French coast and 85 miles (137 kilometres) south o...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: The Jersey Devil  
-   Link: <a href="https://www.youtube.com/watch?v=r-osyEryBrU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=r-osyEryBrU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The History Behind New Jersey&#x27;s Most Famous CryptidThe Jersey Devil was said to inhabit southern Jersey in the Pine Barrens a heavily for...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=r-osyEryBrU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=r-osyEryBrU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The History Behind New Jersey&#x27;s Most Famous CryptidThe Jersey Devil was said to inhabit southern Jersey in the Pine Barrens a heavily for...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=QHRLgcNsIBg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QHRLgcNsIBg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The True Story of the Jersey DevilThe &quot;True Story&quot; of the Jersey Devil. A part of our three-part cryptid series. Happy Halloween New Jersey...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QHRLgcNsIBg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QHRLgcNsIBg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The True Story of the Jersey DevilThe &quot;True Story&quot; of the Jersey Devil. A part of our three-part cryptid series. Happy Halloween New Jersey...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/361355249296595/posts/733050682127048/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/361355249296595/posts/733050682127048/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The legend originates in Leeds Point NJ. This is the original Leeds House built...</p></details>
+   Link:<a href="https://www.facebook.com/groups/361355249296595/posts/733050682127048/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/361355249296595/posts/733050682127048/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The legend originates in Leeds Point NJ. This is the original Leeds House built...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: tripadvisor.co.uk  
    Title: Tourism g186230 Jersey Channel Islands Vacations  
-   Link: <a href="https://www.tripadvisor.co.uk/Tourism-g186230-Jersey_Channel_Islands-Vacations.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.co.uk/Tourism-g186230-Jersey_Channel_Islands-Vacations.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jersey: All You Need to Know Before You Go (2026)The island is a mix of English reserve and French savoir-faire, cosmopolitan harbour and...</p></details>
+   Link:<a href="https://www.tripadvisor.co.uk/Tourism-g186230-Jersey_Channel_Islands-Vacations.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.co.uk/Tourism-g186230-Jersey_Channel_Islands-Vacations.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jersey: All You Need to Know Before You Go (2026)The island is a mix of English reserve and French savoir-faire, cosmopolitan harbour and...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
    Title: 281317026 THE JERSEY DEVIL A POLITICAL ANIMAL  
-   Link: <a href="https://www.researchgate.net/publication/281317026_THE_JERSEY_DEVIL_A_POLITICAL_ANIMAL" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/281317026_THE_JERSEY_DEVIL_A_POLITICAL_ANIMAL</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) &quot;THE JERSEY DEVIL: A POLITICAL ANIMAL&quot;Jan 9, 2026 — or being a devil. It was not unusual for political rivals to ridicule each othe...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/281317026_THE_JERSEY_DEVIL_A_POLITICAL_ANIMAL" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/281317026_THE_JERSEY_DEVIL_A_POLITICAL_ANIMAL</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) &quot;THE JERSEY DEVIL: A POLITICAL ANIMAL&quot;Jan 9, 2026 — or being a devil. It was not unusual for political rivals to ridicule each othe...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: jerseymikes.com  
    Title: Subs are prepared Mike's Way®  
-   Link: <a href="https://www.jerseymikes.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.jerseymikes.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jersey Mike&#x27;s Subs - Jersey Mike&#x27;s USA - Authentic Sub...Jersey Mike&#x27;s Subs makes a Sub Above - fresh sliced, authentic Northeast-Americ...</p></details>
+   Link:<a href="https://www.jerseymikes.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.jerseymikes.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jersey Mike&#x27;s Subs - Jersey Mike&#x27;s USA - Authentic Sub...Jersey Mike&#x27;s Subs makes a Sub Above - fresh sliced, authentic Northeast-Americ...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: daily.jstor.org  
    Title: birthing the jersey devil  
-   Link: <a href="https://daily.jstor.org/birthing-the-jersey-devil/" target="_blank" rel="noopener noreferrer nofollow">https://daily.jstor.org/birthing-the-jersey-devil/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Jersey Devil3 Jul 2024 — The events in the story supposedly took place in the 1700s, but the myth of the Jersey Devil began to circul...</p></details>
+   Link:<a href="https://daily.jstor.org/birthing-the-jersey-devil/" target="_blank" rel="noopener noreferrer nofollow">https://daily.jstor.org/birthing-the-jersey-devil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Jersey Devil3 Jul 2024 — The events in the story supposedly took place in the 1700s, but the myth of the Jersey Devil began to circul...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: How New Jersey's Pine Barrens became The Creepiest Place in America  
-   Link: <a href="https://www.youtube.com/watch?v=v6RJrFkQwOQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=v6RJrFkQwOQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jersey Devil: The Demonic Creature Stalking American Wildlife | Boogeymen | Real History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=v6RJrFkQwOQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=v6RJrFkQwOQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jersey Devil: The Demonic Creature Stalking American Wildlife | Boogeymen | Real History...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=7hq5lay5ykQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7hq5lay5ykQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Dark Legend Haunts New Jersey | MonsterQuest: Origins...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7hq5lay5ykQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7hq5lay5ykQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Dark Legend Haunts New Jersey | MonsterQuest: Origins...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: forums.njpinebarrens.com  
-   Link: <a href="https://forums.njpinebarrens.com/threads/the-jersey-devil-story-as-told-by-his-cousin.3764/" target="_blank" rel="noopener noreferrer nofollow">https://forums.njpinebarrens.com/threads/the-jersey-devil-story-as-told-by-his-cousin.3764/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jersey Devil Story as told by his cousin24 Jul 2007 — Mother Leeds (John&#x27;s great, great grandmother or something like that, I think he sa...</p></details>
+   Link:<a href="https://forums.njpinebarrens.com/threads/the-jersey-devil-story-as-told-by-his-cousin.3764/" target="_blank" rel="noopener noreferrer nofollow">https://forums.njpinebarrens.com/threads/the-jersey-devil-story-as-told-by-his-cousin.3764/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jersey Devil Story as told by his cousin24 Jul 2007 — Mother Leeds (John&#x27;s great, great grandmother or something like that, I think he sa...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: A Dark Legend Haunts New Jersey | Monster Quest: Origins  
-   Link: <a href="https://www.youtube.com/watch?v=fPywtvbSuZY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fPywtvbSuZY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In Search of the Jersey Devil | Shiver Paranormal Documentaries...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=fPywtvbSuZY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fPywtvbSuZY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In Search of the Jersey Devil | Shiver Paranormal Documentaries...</p></details>

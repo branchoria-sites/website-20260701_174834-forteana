@@ -280,9 +280,9 @@ image: /assets/images/forteana_50bdc8_ufo_evidence_problem_238bdf_starlink_ufo_c
 <img src="{{ "/assets/images/forteana_50bdc8_ufo_evidence_problem_238bdf_starlink_ufo_confusi_97cb98-Illustration-1-dark.svg" | relative_url }}" alt="Starlink illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_ufo_evidence_problem_238bdf_starlink_ufo_confusi_97cb98-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_ufo_evidence_problem_238bdf_starlink_ufo_confusi_97cb98-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why satellite trains look unfamiliar from aircraft
 
-The classic Starlink "train" appears shortly after launch, when dozens of satellites occupy nearly the same orbit and follow one another in an evenly spaced line. Seen shortly after sunset or before sunrise, they remain illuminated by the Sun while the ground below is already dark. To an observer, the satellites resemble a silent procession of bright stars moving together across the sky rather than a single satellite or aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">Starlink satellite train: how to see and track it in the night skyJune 1, 2026 — 1 Jun 2026 — The Starlink satellite train is often...</span><span class="citation-popover-meta">Published: June 1, 2026</span></span></span>
+The classic Starlink "train" appears shortly after launch, when dozens of satellites occupy nearly the same orbit and follow one another in an evenly spaced line. Seen shortly after sunset or before sunrise, they remain illuminated by the Sun while the ground below is already dark. To an observer, the satellites resemble a silent procession of bright stars moving together across the sky rather than a single satellite or aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">Starlink satellite train: how to see and track it in the night skyJune 1, 2026 — 1 Jun 2026 — The Starlink satellite train is often...</span><span class="citation-popover-meta">Published: June 1, 2026</span></span></span>
 
-From the cockpit of an airliner, the geometry becomes even more unfamiliar. Pilots cruise above much of the atmosphere, extending the distance to the visible horizon and allowing them to see satellites under lighting conditions that people on the ground cannot. Depending on the viewing angle, satellites may brighten suddenly, fade away, or appear in repeated sequences as sunlight reflects from their surfaces. These changing reflections can create the impression of manoeuvring lights despite the satellites following ordinary orbital paths. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
+From the cockpit of an airliner, the geometry becomes even more unfamiliar. Pilots cruise above much of the atmosphere, extending the distance to the visible horizon and allowing them to see satellites under lighting conditions that people on the ground cannot. Depending on the viewing angle, satellites may brighten suddenly, fade away, or appear in repeated sequences as sunlight reflects from their surfaces. These changing reflections can create the impression of manoeuvring lights despite the satellites following ordinary orbital paths.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
 
 Another complication is scale. Human observers naturally judge an object's motion using assumptions developed from aircraft and [weather]({{ 'weather/' | relative_url }}) balloons. Satellites hundreds of kilometres away violate those assumptions. Without a reliable distance reference, apparent speed, spacing and altitude become difficult to estimate accurately, even for experienced observers.
 
@@ -291,7 +291,7 @@ Another complication is scale. Human observers naturally judge an object's motio
 
 ## The 2022 Pacific pilot sighting reconstruction
 
-One of the best documented examples occurred on 10 August 2022 over the Pacific Ocean. Pilots on two commercial flights independently reported unusual lights, with five flight crew members observing the phenomenon. The event was significant because it involved multiple experienced witnesses, photographs and video rather than a single anecdotal account. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
+One of the best documented examples occurred on 10 August 2022 over the Pacific Ocean. Pilots on two commercial flights independently reported unusual lights, with five flight crew members observing the phenomenon. The event was significant because it involved multiple experienced witnesses, photographs and video rather than a single anecdotal account.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
 
 Researchers later reconstructed the event using several independent datasets:
 
@@ -301,11 +301,11 @@ Researchers later reconstructed the event using several independent datasets:
 * Automatic Dependent Surveillance–Broadcast (ADS-B) records showing the aircraft positions.
 * Two-line element (TLE) orbital data describing the locations of recently launched Starlink satellites.
 * Computer simulations recreating the pilots' viewpoint.
-* The original photographs and video recorded from the cockpit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
+* The original photographs and video recorded from the cockpit.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
 
 </div>
 
-The reconstruction found that a Starlink launch earlier the same day had produced a train of satellites whose changing reflection geometry matched both the timing and appearance of the reported lights. What initially looked anomalous from the cockpit could be reproduced using known satellite positions and expected sunlight reflections. The case therefore became an example of how apparently extraordinary sightings can sometimes be resolved only after combining aviation data with modern space-tracking information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
+The reconstruction found that a Starlink launch earlier the same day had produced a train of satellites whose changing reflection geometry matched both the timing and appearance of the reported lights. What initially looked anomalous from the cockpit could be reproduced using known satellite positions and expected sunlight reflections. The case therefore became an example of how apparently extraordinary sightings can sometimes be resolved only after combining aviation data with modern space-tracking information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
 
 Importantly, this does not imply that the pilots were careless or incompetent. Rather, it illustrates that they encountered an entirely new visual phenomenon created by thousands of recently deployed satellites—a situation for which traditional aviation [experience]({{ 'experience/' | relative_url }}) offered little preparation.
 
@@ -315,7 +315,7 @@ Importantly, this does not imply that the pilots were careless or incompetent. R
 
 Public attention often focuses on the straight "string of pearls" appearance visible soon after launch, but this is only one stage in the satellites' evolution.
 
-As satellites climb towards their operational orbits, their spacing changes and their reflective surfaces present different angles to the Sun. Under certain geometries, observers—particularly airline crews looking towards the hidden Sun below the horizon—may see repeated flashes or groups of lights that brighten and fade instead of a continuous line. These effects have sometimes been described by pilots as "racetrack" patterns because individual reflections appear repeatedly in roughly the same region of sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skyandtelescope.org/astronomy-news/starlink-flares-can-fool-anyone-even-airline-pilots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyandtelescope.org">[Sky &amp; Telescope+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyandtelescope.org</span><span class="citation-popover-title">starlink flares can fool anyone even airline pilots</span><span class="citation-popover-snippet">Sky &amp; TelescopeStarlink Flares Can Fool Anyone — Even Airline Pilots10 Jun 2024 — The flare from numerous Starlink satellites, launched b...</span></span></span>
+As satellites climb towards their operational orbits, their spacing changes and their reflective surfaces present different angles to the Sun. Under certain geometries, observers—particularly airline crews looking towards the hidden Sun below the horizon—may see repeated flashes or groups of lights that brighten and fade instead of a continuous line. These effects have sometimes been described by pilots as "racetrack" patterns because individual reflections appear repeatedly in roughly the same region of sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skyandtelescope.org/astronomy-news/starlink-flares-can-fool-anyone-even-airline-pilots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyandtelescope.org">[Sky &amp; Telescope+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyandtelescope.org</span><span class="citation-popover-title">starlink flares can fool anyone even airline pilots</span><span class="citation-popover-snippet">Sky &amp; TelescopeStarlink Flares Can Fool Anyone — Even Airline Pilots10 Jun 2024 — The flare from numerous Starlink satellites, launched b...</span></span></span>
 
 The important point is that the unusual appearance comes from changing illumination rather than unusual motion. The satellites remain in predictable orbits, while the reflected sunlight reaching the observer changes continuously as both the satellites and the aircraft move.
 
@@ -324,7 +324,7 @@ The important point is that the unusual appearance comes from changing illuminat
 
 ## Better warnings for pilots and skywatchers
 
-The growing number of satellite constellations has led researchers to argue that aviation needs improved "space situational awareness"—practical information about visible satellites similar to the weather or air traffic information already available to crews. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
+The growing number of satellite constellations has led researchers to argue that aviation needs improved "space situational awareness"—practical information about visible satellites similar to the weather or air traffic information already available to crews.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
 
 Suggested improvements include:
 
@@ -334,7 +334,7 @@ Suggested improvements include:
 * Predictive software showing when recently launched satellite trains will be visible from an aircraft's position.
 * Better integration of satellite ephemerides into aviation planning tools.
 * Educational material explaining how satellite reflections differ from aircraft navigation lights.
-* Public skywatching resources that identify upcoming Starlink passes before they generate unnecessary reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
+* Public skywatching resources that identify upcoming Starlink passes before they generate unnecessary reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
 
 </div>
 
@@ -344,14 +344,14 @@ These measures would not eliminate every unidentified sighting, but they would r
 <img src="{{ "/assets/images/forteana_50bdc8_ufo_evidence_problem_238bdf_starlink_ufo_confusi_97cb98-Illustration-3-dark.svg" | relative_url }}" alt="Starlink illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_ufo_evidence_problem_238bdf_starlink_ufo_confusi_97cb98-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_ufo_evidence_problem_238bdf_starlink_ufo_confusi_97cb98-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Starlink teaches about UFO evidence
 
-From a Fortean perspective, Starlink demonstrates how technological change alters the background against which extraordinary claims are judged. A phenomenon that genuinely did not exist before 2019 rapidly became common enough to generate reports from ordinary observers, amateur astronomers, police officers and commercial pilots alike. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-title">spacex satellites are now being mistaken for ufos and making astronomers rage</span><span class="citation-popover-snippet">SpaceX satellites are now being mistaken for UFOs—and...1 Jan 2020 — Montana residents recently reported sightings of what they thou...</span></span></span>
+From a Fortean perspective, Starlink demonstrates how technological change alters the background against which extraordinary claims are judged. A phenomenon that genuinely did not exist before 2019 rapidly became common enough to generate reports from ordinary observers, amateur astronomers, police officers and commercial pilots alike.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-title">spacex satellites are now being mistaken for ufos and making astronomers rage</span><span class="citation-popover-snippet">SpaceX satellites are now being mistaken for UFOs—and...1 Jan 2020 — Montana residents recently reported sightings of what they thou...</span></span></span>
 
 The episode reinforces several broader lessons about UFO evidence:
 
 * **Multiple witnesses do not guarantee an exotic explanation.** Independent observers can all experience the same unfamiliar but ordinary phenomenon.
 * **Observer expertise has limits.** Pilots are highly trained to identify aviation hazards, not necessarily the latest orbital deployment strategies of thousands of satellites.
 * **New technology changes what "normal" looks like.** A night sky increasingly populated by satellite constellations creates visual patterns that previous generations never encountered.
-* **Resolution often depends on new data rather than better memories.** Orbital tracking, launch records and computer reconstruction can explain sightings that eyewitness testimony alone cannot. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2FLYING Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
+* **Resolution often depends on new data rather than better memories.** Orbital tracking, launch records and computer reconstruction can explain sightings that eyewitness testimony alone cannot.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2FLYING Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
 
 Rather than diminishing the value of UFO reports, Starlink illustrates why careful investigation matters. Honest [observation]({{ 'observation/' | relative_url }}) remains essential, but identification increasingly requires combining human testimony with precise tracking of an increasingly crowded sky.
 
@@ -360,178 +360,178 @@ Rather than diminishing the value of UFO reports, Starlink illustrates why caref
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Satellites Look Like UFOs. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Satellites Look Like UFOs. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Shows how ordinary objects become unidentified through limited evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how ordinary objects become unidentified through limited evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for evaluating contemporary aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating contemporary aerial reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Encourages evidence-based interpretation of unfamiliar sky phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages evidence-based interpretation of unfamiliar sky phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps readers recognise satellites and other celestial objects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers recognise satellites and other celestial objects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-when-satellites-look-like-ufos-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="starlink-when-satellites-look-like-ufos-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-when-satellites-look-like-ufos-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="starlink-when-satellites-look-like-ufos-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-when-satellites-look-like-ufos-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="starlink-when-satellites-look-like-ufos-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-when-satellites-look-like-ufos-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="starlink-when-satellites-look-like-ufos-forteana-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-when-satellites-look-like-ufos-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="starlink-when-satellites-look-like-ufos-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-when-satellites-look-like-ufos-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="starlink-when-satellites-look-like-ufos-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-when-satellites-look-like-ufos-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="starlink-when-satellites-look-like-ufos-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-when-satellites-look-like-ufos-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="starlink-when-satellites-look-like-ufos-forteana-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-when-satellites-look-like-ufos-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="starlink-when-satellites-look-like-ufos-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-when-satellites-look-like-ufos-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="starlink-when-satellites-look-like-ufos-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-when-satellites-look-like-ufos-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="starlink-when-satellites-look-like-ufos-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-when-satellites-look-like-ufos-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="starlink-when-satellites-look-like-ufos-forteana-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-when-satellites-look-like-ufos-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="starlink-when-satellites-look-like-ufos-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-when-satellites-look-like-ufos-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="starlink-when-satellites-look-like-ufos-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-when-satellites-look-like-ufos-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="starlink-when-satellites-look-like-ufos-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-when-satellites-look-like-ufos-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="starlink-when-satellites-look-like-ufos-forteana-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-when-satellites-look-like-ufos-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="starlink-when-satellites-look-like-ufos-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-when-satellites-look-like-ufos-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="starlink-when-satellites-look-like-ufos-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-when-satellites-look-like-ufos-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="starlink-when-satellites-look-like-ufos-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-when-satellites-look-like-ufos-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="starlink-when-satellites-look-like-ufos-forteana-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-when-satellites-look-like-ufos-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="starlink-when-satellites-look-like-ufos-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-when-satellites-look-like-ufos-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="starlink-when-satellites-look-like-ufos-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-when-satellites-look-like-ufos-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="starlink-when-satellites-look-like-ufos-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-when-satellites-look-like-ufos-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="starlink-when-satellites-look-like-ufos-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-when-satellites-look-like-ufos-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="starlink-when-satellites-look-like-ufos-forteana-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-when-satellites-look-like-ufos-forteana-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="starlink-when-satellites-look-like-ufos-forteana-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -547,7 +547,7 @@ Rather than diminishing the value of UFO reports, Starlink illustrates why caref
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -567,7 +567,7 @@ Rather than diminishing the value of UFO reports, Starlink illustrates why caref
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -599,7 +599,7 @@ Rather than diminishing the value of UFO reports, Starlink illustrates why caref
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -651,7 +651,7 @@ Rather than diminishing the value of UFO reports, Starlink illustrates why caref
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -696,7 +696,7 @@ Rather than diminishing the value of UFO reports, Starlink illustrates why caref
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -737,96 +737,96 @@ Rather than diminishing the value of UFO reports, Starlink illustrates why caref
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellite train: how to see and track it in the night skyJune 1, 2026 — 1 Jun 2026 — The Starlink satellite train is often...</p></details>
+   Link:<a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellite train: how to see and track it in the night skyJune 1, 2026 — 1 Jun 2026 — The Starlink satellite train is often...</p></details>
    Published: June 1, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the [Misidentification](&amp;#123;&amp;#123; &#x27;mistakes/&#x27; | relative_url &amp;#125;&amp;#125;) of a Recently-Launched Starlink...</p></details>
+   Link:<a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the [Misidentification](&amp;#123;&amp;#123; &#x27;mistakes/&#x27; | relative_url &amp;#125;&amp;#125;) of a Recently-Launched Starlink...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2403.08155</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>seen by the aircraft pilots was a train of recently-launched Starlink...Read more...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2403.08155</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>seen by the aircraft pilots was a train of recently-launched Starlink...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: syfy.com  
    Title: spacex satellites are now being mistaken for ufos and making astronomers rage  
-   Link: <a href="https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX satellites are now being mistaken for UFOs—and...1 Jan 2020 — Montana residents recently reported sightings of what they thou...</p></details>
+   Link:<a href="https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX satellites are now being mistaken for UFOs—and...1 Jan 2020 — Montana residents recently reported sightings of what they thou...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: skyandtelescope.org  
    Title: starlink flares can fool anyone even airline pilots  
-   Link: <a href="https://skyandtelescope.org/astronomy-news/starlink-flares-can-fool-anyone-even-airline-pilots/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/astronomy-news/starlink-flares-can-fool-anyone-even-airline-pilots/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky &amp; TelescopeStarlink Flares Can Fool Anyone — Even Airline Pilots10 Jun 2024 — The flare from numerous Starlink satellites, launched b...</p></details>
+   Link:<a href="https://skyandtelescope.org/astronomy-news/starlink-flares-can-fool-anyone-even-airline-pilots/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/astronomy-news/starlink-flares-can-fool-anyone-even-airline-pilots/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky &amp; TelescopeStarlink Flares Can Fool Anyone — Even Airline Pilots10 Jun 2024 — The flare from numerous Starlink satellites, launched b...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: flyingmag.com  
    Title: dod nearly 800 uap reports received in past year  
-   Link: <a href="https://www.flyingmag.com/dod-nearly-800-uap-reports-received-in-past-year/" target="_blank" rel="noopener noreferrer nofollow">https://www.flyingmag.com/dod-nearly-800-uap-reports-received-in-past-year/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FLYING MagazineDOD: Nearly 800 UAP Reports Received in Past Year14 Nov 2024 — The Department of Defense received nearly 800 reports of un...</p></details>
+   Link:<a href="https://www.flyingmag.com/dod-nearly-800-uap-reports-received-in-past-year/" target="_blank" rel="noopener noreferrer nofollow">https://www.flyingmag.com/dod-nearly-800-uap-reports-received-in-past-year/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FLYING MagazineDOD: Nearly 800 UAP Reports Received in Past Year14 Nov 2024 — The Department of Defense received nearly 800 reports of un...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: metacast.app  
-   Link: <a href="https://metacast.app/podcast/open-minds-uap-news/2KyEFMrc/spacex-starlink-and-uap-spacex-spacecraft-mistaken-for-ufos/8ru5Y2ut" target="_blank" rel="noopener noreferrer nofollow">https://metacast.app/podcast/open-minds-uap-news/2KyEFMrc/spacex-starlink-and-uap-spacex-spacecraft-mistaken-for-ufos/8ru5Y2ut</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX, Starlink and UAP: SpaceX spacecraft mistaken for...27 Jul 2024 — and we&#x27;re going to go over some of that information because pil...</p></details>
+   Link:<a href="https://metacast.app/podcast/open-minds-uap-news/2KyEFMrc/spacex-starlink-and-uap-spacex-spacecraft-mistaken-for-ufos/8ru5Y2ut" target="_blank" rel="noopener noreferrer nofollow">https://metacast.app/podcast/open-minds-uap-news/2KyEFMrc/spacex-starlink-and-uap-spacex-spacecraft-mistaken-for-ufos/8ru5Y2ut</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX, Starlink and UAP: SpaceX spacecraft mistaken for...27 Jul 2024 — and we&#x27;re going to go over some of that information because pil...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1htxlhm/26_year_pilot_just_witnessed_something_i_cannot/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1htxlhm/26_year_pilot_just_witnessed_something_i_cannot/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>26 year pilot, just witnessed something I cannot explain.There&#x27;s a YouTube channel called area52, and in the latest video, it opens up wi...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1htxlhm/26_year_pilot_just_witnessed_something_i_cannot/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1htxlhm/26_year_pilot_just_witnessed_something_i_cannot/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>26 year pilot, just witnessed something I cannot explain.There&#x27;s a YouTube channel called area52, and in the latest video, it opens up wi...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: popularmechanics.com  
    Title: Popular Mechanics Airline Pilots Couldn't Stop Seeing UFOs  
-   Link: <a href="https://www.popularmechanics.com/space/satellites/a60207287/airline-pilots-starlink-satellites-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/space/satellites/a60207287/airline-pilots-starlink-satellites-ufos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Turns Out They...19 Mar 2024 — Researchers from the University of Utah explain how Starlink&#x27;s high number of orbiting satellites is caus...</p></details>
+   Link:<a href="https://www.popularmechanics.com/space/satellites/a60207287/airline-pilots-starlink-satellites-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/space/satellites/a60207287/airline-pilots-starlink-satellites-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Turns Out They...19 Mar 2024 — Researchers from the University of Utah explain how Starlink&#x27;s high number of orbiting satellites is caus...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/zawq4l/pilots_share_their_experiences_and_stories_about/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/zawq4l/pilots_share_their_experiences_and_stories_about/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>/or listened to the tapes, are from major air carrier pilots.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/zawq4l/pilots_share_their_experiences_and_stories_about/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/zawq4l/pilots_share_their_experiences_and_stories_about/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>/or listened to the tapes, are from major air carrier pilots.Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/19drzab/im_an_airline_pilot_and_i_saw_the_lights_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/19drzab/im_an_airline_pilot_and_i_saw_the_lights_on/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I&#x27;m an airline pilot and I saw “the lights” on January 19, 2024Yes, 1-5 degrees above the horizon after sundown will correlate to being S...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/19drzab/im_an_airline_pilot_and_i_saw_the_lights_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/19drzab/im_an_airline_pilot_and_i_saw_the_lights_on/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I&#x27;m an airline pilot and I saw “the lights” on January 19, 2024Yes, 1-5 degrees above the horizon after sundown will correlate to being S...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aol.com  
    Title: Airline Pilots Couldn't Stop Seeing UFOs  
-   Link: <a href="https://www.aol.com/airline-pilots-couldnt-stop-seeing-140000870.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/airline-pilots-couldnt-stop-seeing-140000870.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Turns Out They...Researchers used around half a dozen pieces of software softwares to model a &#x27;UFO&#x27; sighting. With 5,500 Starlink satell...</p></details>
+   Link:<a href="https://www.aol.com/airline-pilots-couldnt-stop-seeing-140000870.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/airline-pilots-couldnt-stop-seeing-140000870.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Turns Out They...Researchers used around half a dozen pieces of software softwares to model a &#x27;UFO&#x27; sighting. With 5,500 Starlink satell...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: arstechnica.com  
-   Link: <a href="https://arstechnica.com/space/2024/11/a-lot-of-people-are-mistaking-elon-musks-starlink-satellites-for-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://arstechnica.com/space/2024/11/a-lot-of-people-are-mistaking-elon-musks-starlink-satellites-for-uaps/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ars TechnicaA lot of people are mistaking Elon Musk&#x27;s Starlink satellites...15 Nov 2024 — “The pilot did not report an altitude or speed...</p></details>
+   Link:<a href="https://arstechnica.com/space/2024/11/a-lot-of-people-are-mistaking-elon-musks-starlink-satellites-for-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://arstechnica.com/space/2024/11/a-lot-of-people-are-mistaking-elon-musks-starlink-satellites-for-uaps/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ars TechnicaA lot of people are mistaking Elon Musk&#x27;s Starlink satellites...15 Nov 2024 — “The pilot did not report an altitude or speed...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Line of lights in the sky: Starlink satellite train seen over south-central Pa  
-   Link: <a href="https://www.youtube.com/watch?v=hZ0qZ5T9bCg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hZ0qZ5T9bCg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Train of Satellites in the Sky over California | Looks like UFOs | SpaceX Starlink Train 2023...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hZ0qZ5T9bCg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hZ0qZ5T9bCg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Train of Satellites in the Sky over California | Looks like UFOs | SpaceX Starlink Train 2023...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=cldNfJHdZws" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cldNfJHdZws</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink Satellites Mistaken As UFOs Over Pittsburgh...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=cldNfJHdZws" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cldNfJHdZws</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink Satellites Mistaken As UFOs Over Pittsburgh...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2023/02/the-great-starlink-racetrack-ufo-flap-of-2022/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2023/02/the-great-starlink-racetrack-ufo-flap-of-2022/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerThe Great Starlink Racetrack UFO Flap of 2022The pilots were adamant that what they were looking at were not satellites...</p></details>
+   Link:<a href="https://skepticalinquirer.org/2023/02/the-great-starlink-racetrack-ufo-flap-of-2022/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2023/02/the-great-starlink-racetrack-ufo-flap-of-2022/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerThe Great Starlink Racetrack UFO Flap of 2022The pilots were adamant that what they were looking at were not satellites...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: supercarblondie.com  
-   Link: <a href="https://supercarblondie.com/airline-pilots-ufo-sightings-mistaken-identity/" target="_blank" rel="noopener noreferrer nofollow">https://supercarblondie.com/airline-pilots-ufo-sightings-mistaken-identity/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Airline pilots&#x27; UFO sightings demystified in case of mistaken...22 Mar 2024 — In this new paper, the researchers detail an instance from...</p></details>
+   Link:<a href="https://supercarblondie.com/airline-pilots-ufo-sightings-mistaken-identity/" target="_blank" rel="noopener noreferrer nofollow">https://supercarblondie.com/airline-pilots-ufo-sightings-mistaken-identity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Airline pilots&#x27; UFO sightings demystified in case of mistaken...22 Mar 2024 — In this new paper, the researchers detail an instance from...</p></details>

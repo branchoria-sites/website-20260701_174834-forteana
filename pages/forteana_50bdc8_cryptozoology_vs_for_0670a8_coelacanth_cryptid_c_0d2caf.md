@@ -284,17 +284,17 @@ The rediscovery of the coelacanth is one of the most remarkable events in twenti
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_cryptozoology_vs_for_0670a8_coelacanth_cryptid_c_0d2caf-Illustration-1-dark.svg" | relative_url }}" alt="Coelacanth illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_cryptozoology_vs_for_0670a8_coelacanth_cryptid_c_0d2caf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_cryptozoology_vs_for_0670a8_coelacanth_cryptid_c_0d2caf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The lesson, however, is more limited than it first appears. The coelacanth demonstrates that overlooked species can survive in poorly explored habitats and that assumptions based on an incomplete fossil record can be overturned. It does not show that every famous cryptid has an equal chance of existing. Understanding why the coelacanth was rediscovered—and why its case differs from claims about creatures such as [Bigfoot]({{ 'bigfoot/' | relative_url }}) or the [Loch Ness]({{ 'loch-ness/' | relative_url }}) Monster—provides a useful guide to separating genuine zoological surprises from unsupported speculation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nhm.ac.uk/discover/coelacanths-the-fish-that-outdid-the-loch-ness-monster.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhm.ac.uk">[Natural History Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhm.ac.uk</span><span class="citation-popover-title">Discover the story of this strange fish</span><span class="citation-popover-snippet">Natural History MuseumCoelacanths: The fish that &#x27;outdid&#x27; the Loch Ness MonsterCoelacanths were thought to have been extinct for 70 milli...</span></span></span>
+The lesson, however, is more limited than it first appears. The coelacanth demonstrates that overlooked species can survive in poorly explored habitats and that assumptions based on an incomplete fossil record can be overturned. It does not show that every famous cryptid has an equal chance of existing. Understanding why the coelacanth was rediscovered—and why its case differs from claims about creatures such as [Bigfoot]({{ 'bigfoot/' | relative_url }}) or the [Loch Ness]({{ 'loch-ness/' | relative_url }}) Monster—provides a useful guide to separating genuine zoological surprises from unsupported speculation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nhm.ac.uk/discover/coelacanths-the-fish-that-outdid-the-loch-ness-monster.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhm.ac.uk">[Natural History Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhm.ac.uk</span><span class="citation-popover-title">Discover the story of this strange fish</span><span class="citation-popover-snippet">Natural History MuseumCoelacanths: The fish that &#x27;outdid&#x27; the Loch Ness MonsterCoelacanths were thought to have been extinct for 70 milli...</span></span></span>
 
 ## A Real Animal Rediscovered by Science
 
-The modern story began on 22 December 1938, when museum curator Marjorie Courtenay-Latimer examined an unusual fish caught by a trawler off South Africa. Ichthyologist J. L. B. Smith recognised it as a living member of the coelacanth lineage, a group known previously only from fossils thought to have disappeared roughly 66–70 million years earlier. The species was later named *Latimeria chalumnae* in honour of its discoverer and the nearby Chalumna River. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nhm.ac.uk/discover/coelacanths-the-fish-that-outdid-the-loch-ness-monster.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhm.ac.uk">[Natural History Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhm.ac.uk</span><span class="citation-popover-title">Discover the story of this strange fish</span><span class="citation-popover-snippet">Natural History MuseumCoelacanths: The fish that &#x27;outdid&#x27; the Loch Ness MonsterCoelacanths were thought to have been extinct for 70 milli...</span></span></span>
+The modern story began on 22 December 1938, when museum curator Marjorie Courtenay-Latimer examined an unusual fish caught by a trawler off South Africa. Ichthyologist J. L. B. Smith recognised it as a living member of the coelacanth lineage, a group known previously only from fossils thought to have disappeared roughly 66–70 million years earlier. The species was later named *Latimeria chalumnae* in honour of its discoverer and the nearby Chalumna River.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nhm.ac.uk/discover/coelacanths-the-fish-that-outdid-the-loch-ness-monster.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhm.ac.uk">[Natural History Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhm.ac.uk</span><span class="citation-popover-title">Discover the story of this strange fish</span><span class="citation-popover-snippet">Natural History MuseumCoelacanths: The fish that &#x27;outdid&#x27; the Loch Ness MonsterCoelacanths were thought to have been extinct for 70 milli...</span></span></span>
 
 The discovery was extraordinary because it contradicted a widely accepted scientific conclusion based on the fossil record. Importantly, however, it did not overturn evolutionary theory. Instead, it showed that the fossil record is incomplete and that extinction inferred from missing fossils is sometimes revised when living populations are found.
 
-Subsequent decades transformed the coelacanth from an isolated curiosity into a well-studied species. Populations were documented around the Comoro Islands and elsewhere in the western Indian Ocean, while a second living species, *Latimeria menadoensis*, was identified in Indonesia during the 1990s. Researchers gradually learned that these fish inhabit steep volcanic slopes and underwater caves at depths of roughly 150–700 metres—habitats that had received little scientific attention before modern diving technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ocean.si.edu/ocean-life/fish/coelacanth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ocean.si.edu">[Smithsonian Ocean+2Conservation International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ocean.si.edu</span><span class="citation-popover-snippet">Smithsonian OceanCoelacanth &#124; Smithsonian OceanThe first living coelacanth was discovered in 1938 and bears the scientific name Latimeria...</span></span></span>
+Subsequent decades transformed the coelacanth from an isolated curiosity into a well-studied species. Populations were documented around the Comoro Islands and elsewhere in the western Indian Ocean, while a second living species, *Latimeria menadoensis*, was identified in Indonesia during the 1990s. Researchers gradually learned that these fish inhabit steep volcanic slopes and underwater caves at depths of roughly 150–700 metres—habitats that had received little scientific attention before modern diving technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ocean.si.edu/ocean-life/fish/coelacanth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ocean.si.edu">[Smithsonian Ocean+2Conservation International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ocean.si.edu</span><span class="citation-popover-snippet">Smithsonian OceanCoelacanth &#124; Smithsonian OceanThe first living coelacanth was discovered in 1938 and bears the scientific name Latimeria...</span></span></span>
 
-Modern research has continued to refine this picture. Studies have revealed exceptionally slow growth, lifespans approaching a century and unusually long reproductive cycles, characteristics consistent with a stable deep-sea existence rather than a rapidly reproducing coastal fish. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/environment/2021/jun/18/mysterious-coelacanth-fish-can-live-for-100-years-study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">mysterious coelacanth fish can live for 100 years study</span><span class="citation-popover-snippet">The GuardianMysterious coelacanth fish can live for 100 years – study18 Jun 2021 — The coelacanth – a giant, mysterious fish that has sur...</span></span></span>
+Modern research has continued to refine this picture. Studies have revealed exceptionally slow growth, lifespans approaching a century and unusually long reproductive cycles, characteristics consistent with a stable deep-sea existence rather than a rapidly reproducing coastal fish.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/environment/2021/jun/18/mysterious-coelacanth-fish-can-live-for-100-years-study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">mysterious coelacanth fish can live for 100 years study</span><span class="citation-popover-snippet">The GuardianMysterious coelacanth fish can live for 100 years – study18 Jun 2021 — The coelacanth – a giant, mysterious fish that has sur...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/__Woo6L1bl0" title="Coelacanths, Living Fossils of the Sea" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=__Woo6L1bl0" target="_blank" rel="noopener noreferrer">Coelacanths, Living Fossils of the Sea</a></p><p class="youtube-embed-meta">Channel: Natural World Facts</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=__Woo6L1bl0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=__Woo6L1bl0">Open on YouTube</a></p></div></div></div>
@@ -305,11 +305,11 @@ For cryptozoologists, the coelacanth represents a genuine success story. It demo
 
 First, science does occasionally discover large vertebrates that were previously unknown or believed extinct. Although such discoveries are uncommon, they are not impossible.
 
-Second, local knowledge mattered. Fishers in the western Indian Ocean were familiar with the animal long before it entered scientific literature. The rediscovery reminds researchers that indigenous and local observations can point towards genuine biological phenomena rather than being dismissed automatically. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nhm.ac.uk/discover/coelacanths-the-fish-that-outdid-the-loch-ness-monster.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhm.ac.uk">[Natural History Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhm.ac.uk</span><span class="citation-popover-title">Discover the story of this strange fish</span><span class="citation-popover-snippet">Natural History MuseumCoelacanths: The fish that &#x27;outdid&#x27; the Loch Ness MonsterCoelacanths were thought to have been extinct for 70 milli...</span></span></span>
+Second, local knowledge mattered. Fishers in the western Indian Ocean were familiar with the animal long before it entered scientific literature. The rediscovery reminds researchers that indigenous and local observations can point towards genuine biological phenomena rather than being dismissed automatically.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nhm.ac.uk/discover/coelacanths-the-fish-that-outdid-the-loch-ness-monster.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhm.ac.uk">[Natural History Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhm.ac.uk</span><span class="citation-popover-title">Discover the story of this strange fish</span><span class="citation-popover-snippet">Natural History MuseumCoelacanths: The fish that &#x27;outdid&#x27; the Loch Ness MonsterCoelacanths were thought to have been extinct for 70 milli...</span></span></span>
 
 Third, the discovery illustrates the importance of unexplored environments. Deep marine habitats remain far less accessible than most terrestrial landscapes, making them plausible places for elusive species to persist unnoticed.
 
-For these reasons, the coelacanth occupies a symbolic place within cryptozoology. Bernard Heuvelmans and later writers frequently cited it alongside animals such as the [okapi]({{ 'okapi/' | relative_url }}) and [giant squid]({{ 'giant-squid/' | relative_url }}) as examples of creatures that moved from disputed reports into accepted zoology. The broader message—that science sometimes expands through unexpected discoveries—is entirely legitimate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/On_the_Track_of_Unknown_Animals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">On the Track of Unknown Animals</span><span class="citation-popover-snippet">On the Track of Unknown Animals</span></span></span>
+For these reasons, the coelacanth occupies a symbolic place within cryptozoology. Bernard Heuvelmans and later writers frequently cited it alongside animals such as the [okapi]({{ 'okapi/' | relative_url }}) and [giant squid]({{ 'giant-squid/' | relative_url }}) as examples of creatures that moved from disputed reports into accepted zoology. The broader message—that science sometimes expands through unexpected discoveries—is entirely legitimate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/On_the_Track_of_Unknown_Animals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">On the Track of Unknown Animals</span><span class="citation-popover-snippet">On the Track of Unknown Animals</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_cryptozoology_vs_for_0670a8_coelacanth_cryptid_c_0d2caf-Illustration-2-dark.svg" | relative_url }}" alt="Coelacanth illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_cryptozoology_vs_for_0670a8_coelacanth_cryptid_c_0d2caf-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_cryptozoology_vs_for_0670a8_coelacanth_cryptid_c_0d2caf-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -317,11 +317,11 @@ For these reasons, the coelacanth occupies a symbolic place within cryptozoology
 
 The coelacanth is often treated as proof that any legendary creature could exist. This is where the comparison becomes misleading.
 
-The fish was never known solely from [folklore]({{ 'folklore/' | relative_url }}). Long before 1938, coelacanths were well established in the fossil record. Scientists were therefore not debating whether such animals had ever existed, but whether the lineage had survived into modern times. Rediscovery changed the timeline of extinction, not the existence of the group itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ocean.si.edu/ocean-life/fish/coelacanth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ocean.si.edu">[Smithsonian Ocean]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ocean.si.edu</span><span class="citation-popover-snippet">Smithsonian OceanCoelacanth &#124; Smithsonian OceanThe first living coelacanth was discovered in 1938 and bears the scientific name Latimeria...</span></span></span>
+The fish was never known solely from [folklore]({{ 'folklore/' | relative_url }}). Long before 1938, coelacanths were well established in the fossil record. Scientists were therefore not debating whether such animals had ever existed, but whether the lineage had survived into modern times. Rediscovery changed the timeline of extinction, not the existence of the group itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ocean.si.edu/ocean-life/fish/coelacanth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ocean.si.edu">[Smithsonian Ocean]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ocean.si.edu</span><span class="citation-popover-snippet">Smithsonian OceanCoelacanth &#124; Smithsonian OceanThe first living coelacanth was discovered in 1938 and bears the scientific name Latimeria...</span></span></span>
 
 Equally important is habitat. Coelacanths occupy deep offshore environments that are difficult and expensive to explore. Large terrestrial mammals, by contrast, require extensive food resources, leave tracks, shed hair, produce carcasses and interact with landscapes that are now heavily surveyed through roads, satellites, camera traps and ecological [fieldwork]({{ 'fieldwork/' | relative_url }}).
 
-The scale of evidence also differs sharply. After the initial rediscovery, additional specimens followed, allowing anatomical study, genetic analysis, ecological observation and eventually underwater photography. The case rapidly accumulated independent lines of evidence rather than relying indefinitely on eyewitness testimony. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ocean.si.edu/ocean-life/fish/coelacanth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ocean.si.edu">[Smithsonian Ocean]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ocean.si.edu</span><span class="citation-popover-snippet">Smithsonian OceanCoelacanth &#124; Smithsonian OceanThe first living coelacanth was discovered in 1938 and bears the scientific name Latimeria...</span></span></span>
+The scale of evidence also differs sharply. After the initial rediscovery, additional specimens followed, allowing anatomical study, genetic analysis, ecological observation and eventually underwater photography. The case rapidly accumulated independent lines of evidence rather than relying indefinitely on eyewitness testimony.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ocean.si.edu/ocean-life/fish/coelacanth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ocean.si.edu">[Smithsonian Ocean]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ocean.si.edu</span><span class="citation-popover-snippet">Smithsonian OceanCoelacanth &#124; Smithsonian OceanThe first living coelacanth was discovered in 1938 and bears the scientific name Latimeria...</span></span></span>
 
 This pattern contrasts with famous [cryptids]({{ 'cryptids/' | relative_url }}) whose evidence remains dominated by anecdotal reports despite decades of investigation. In those cases, expectations rise because prolonged existence of a breeding population should generate increasingly abundant physical evidence.
 
@@ -361,194 +361,194 @@ For that reason, the coelacanth is best understood not as evidence that every cr
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What the Coelacanth Really Proves. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What the Coelacanth Really Proves. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Your+inner+fish+Neil+Shubin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Your inner fish on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4609000-M.jpg" alt="Cover for Your inner fish" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Your+inner+fish+Neil+Shubin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Your inner fish">Your inner fish</a>
-        </h4>
-        <p class="fr-book-author">By Neil Shubin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Your+inner+fish+Neil+Shubin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Your inner fish on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4609000-M.jpg" alt="Cover for Your inner fish" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Your+inner+fish+Neil+Shubin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Your inner fish">Your inner fish</a>
+</h4>
+<p class="fr-book-author">By Neil Shubin</p>
         
-        <p class="fr-book-desc">First published 2008. Subjects: Human anatomy, Human evolution, Nature, Nonfiction, Popular works.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Your+inner+fish+Neil+Shubin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2008. Subjects: Human anatomy, Human evolution, Nature, Nonfiction, Popular works.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Your+inner+fish+Neil+Shubin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fish+Caught+In+Time+the+Search+for+The+Samantha+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fish Caught In Time the Search for The on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/908309-M.jpg" alt="Cover for Fish Caught In Time the Search for The" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fish+Caught+In+Time+the+Search+for+The+Samantha+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fish Caught In Time the Search for The">Fish Caught In Time the Search for The</a>
-        </h4>
-        <p class="fr-book-author">By Samantha Weinberg, Fourth Estate</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fish+Caught+In+Time+the+Search+for+The+Samantha+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fish Caught In Time the Search for The on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/908309-M.jpg" alt="Cover for Fish Caught In Time the Search for The" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fish+Caught+In+Time+the+Search+for+The+Samantha+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fish Caught In Time the Search for The">Fish Caught In Time the Search for The</a>
+</h4>
+<p class="fr-book-author">By Samantha Weinberg, Fourth Estate</p>
         
-        <p class="fr-book-desc">First published 1999. Subjects: Coelacanth, New York Times reviewed, Fishes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fish+Caught+In+Time+the+Search+for+The+Samantha+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1999. Subjects: Coelacanth, New York Times reviewed, Fishes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fish+Caught+In+Time+the+Search+for+The+Samantha+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunting Monsters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10220347-M.jpg" alt="Cover for Hunting Monsters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunting Monsters">Hunting Monsters</a>
-        </h4>
-        <p class="fr-book-author">By Darren Naish</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunting Monsters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10220347-M.jpg" alt="Cover for Hunting Monsters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunting Monsters">Hunting Monsters</a>
+</h4>
+<p class="fr-book-author">By Darren Naish</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Monsters, Zoology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Monsters, Zoology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science">Abominable Science</a>
-        </h4>
-        <p class="fr-book-author">By Donald R. Prothero, Daniel Loxton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science">Abominable Science</a>
+</h4>
+<p class="fr-book-author">By Donald R. Prothero, Daniel Loxton</p>
         
-        <p class="fr-book-desc">First published 2012. Subjects: Animals, mythical.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2012. Subjects: Animals, mythical.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Your+inner+fish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Your inner fish</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fish+Caught+In+Time+the+Search+for+The&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fish Caught In Time the Search for The</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunting+Monsters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunting Monsters</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Your+inner+fish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Your inner fish</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fish+Caught+In+Time+the+Search+for+The&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fish Caught In Time the Search for The</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunting+Monsters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunting Monsters</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster" data-ebay-reference="coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ALIEN ABDUCTION Vintage Wall Art,Sci-fi Cryptid Poster, Disclosure UAP Decor"><img src="{{ '/assets/images/marketplace-covers/8a69c01cfb4e71ca93d8.jpg' | relative_url }}" alt="Listing image for UFO ALIEN ABDUCTION Vintage Wall Art,Sci-fi Cryptid Poster, Disclosure UAP Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster" data-ebay-reference="coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster" target="_blank" rel="sponsored noopener noreferrer">UFO ALIEN ABDUCTION Vintage Wall Art,Sci-fi Cryptid Poster, Disclosure UAP Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster" data-ebay-reference="coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster" data-ebay-reference="coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster" data-ebay-reference="coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ALIEN ABDUCTION Vintage Wall Art,Sci-fi Cryptid Poster, Disclosure UAP Decor"><img src="{{ '/assets/images/marketplace-covers/8a69c01cfb4e71ca93d8.jpg' | relative_url }}" alt="Listing image for UFO ALIEN ABDUCTION Vintage Wall Art,Sci-fi Cryptid Poster, Disclosure UAP Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster" data-ebay-reference="coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster" target="_blank" rel="sponsored noopener noreferrer">UFO ALIEN ABDUCTION Vintage Wall Art,Sci-fi Cryptid Poster, Disclosure UAP Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster" data-ebay-reference="coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster" data-ebay-reference="coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster" data-ebay-reference="coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage SASQUATCH BOTANICAL Wall Art, Bigfoot Flower Decor, Cryptid Tree Poster"><img src="{{ '/assets/images/marketplace-covers/f88a5d6c509da70d4860.jpg' | relative_url }}" alt="Listing image for Vintage SASQUATCH BOTANICAL Wall Art, Bigfoot Flower Decor, Cryptid Tree Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster" data-ebay-reference="coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage SASQUATCH BOTANICAL Wall Art, Bigfoot Flower Decor, Cryptid Tree Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster" data-ebay-reference="coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster" data-ebay-reference="coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster" data-ebay-reference="coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage SASQUATCH BOTANICAL Wall Art, Bigfoot Flower Decor, Cryptid Tree Poster"><img src="{{ '/assets/images/marketplace-covers/f88a5d6c509da70d4860.jpg' | relative_url }}" alt="Listing image for Vintage SASQUATCH BOTANICAL Wall Art, Bigfoot Flower Decor, Cryptid Tree Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster" data-ebay-reference="coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage SASQUATCH BOTANICAL Wall Art, Bigfoot Flower Decor, Cryptid Tree Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster" data-ebay-reference="coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster" data-ebay-reference="coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster" data-ebay-reference="coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wendigo Cryptid Monster Travel Art Framed Wall Art Poster Canvas Print Picture"><span>eBay</span></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster" data-ebay-reference="coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster" target="_blank" rel="sponsored noopener noreferrer">Wendigo Cryptid Monster Travel Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster" data-ebay-reference="coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster" data-ebay-reference="coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster" data-ebay-reference="coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wendigo Cryptid Monster Travel Art Framed Wall Art Poster Canvas Print Picture"><span>eBay</span></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster" data-ebay-reference="coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster" target="_blank" rel="sponsored noopener noreferrer">Wendigo Cryptid Monster Travel Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster" data-ebay-reference="coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster" data-ebay-reference="coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster" data-ebay-reference="coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage SASQUATCH Wall Art, Retro BIGFOOT Cryptid Poster, Yeti Ape Animal Decor"><img src="{{ '/assets/images/marketplace-covers/79616b135fb43052019b.jpg' | relative_url }}" alt="Listing image for Vintage SASQUATCH Wall Art, Retro BIGFOOT Cryptid Poster, Yeti Ape Animal Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster" data-ebay-reference="coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage SASQUATCH Wall Art, Retro BIGFOOT Cryptid Poster, Yeti Ape Animal Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster" data-ebay-reference="coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster" data-ebay-reference="coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster" data-ebay-reference="coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster" data-ebay-reference="coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage SASQUATCH Wall Art, Retro BIGFOOT Cryptid Poster, Yeti Ape Animal Decor"><img src="{{ '/assets/images/marketplace-covers/79616b135fb43052019b.jpg' | relative_url }}" alt="Listing image for Vintage SASQUATCH Wall Art, Retro BIGFOOT Cryptid Poster, Yeti Ape Animal Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster" data-ebay-reference="coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage SASQUATCH Wall Art, Retro BIGFOOT Cryptid Poster, Yeti Ape Animal Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster" data-ebay-reference="coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster" data-ebay-reference="coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster" data-ebay-reference="coelacanth-what-the-coelacanth-really-proves-forteana-cryptid-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -564,7 +564,7 @@ For that reason, the coelacanth is best understood not as evidence that every cr
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -584,7 +584,7 @@ For that reason, the coelacanth is best understood not as evidence that every cr
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -616,7 +616,7 @@ For that reason, the coelacanth is best understood not as evidence that every cr
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -668,7 +668,7 @@ For that reason, the coelacanth is best understood not as evidence that every cr
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -713,7 +713,7 @@ For that reason, the coelacanth is best understood not as evidence that every cr
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -754,94 +754,94 @@ For that reason, the coelacanth is best understood not as evidence that every cr
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: conservation.org  
-   Link: <a href="https://www.conservation.org/news/fish-story-how-a-coelacanth-discovery-set-off-a-flurry-of-science-subterfuge" target="_blank" rel="noopener noreferrer nofollow">https://www.conservation.org/news/fish-story-how-a-coelacanth-discovery-set-off-a-flurry-of-science-subterfuge</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Conservation InternationalFish story: How a coelacanth discovery set off a flurry of...16 Jan 2019 — The 1938 discovery of a coelacanth...</p></details>
+   Link:<a href="https://www.conservation.org/news/fish-story-how-a-coelacanth-discovery-set-off-a-flurry-of-science-subterfuge" target="_blank" rel="noopener noreferrer nofollow">https://www.conservation.org/news/fish-story-how-a-coelacanth-discovery-set-off-a-flurry-of-science-subterfuge</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Conservation InternationalFish story: How a coelacanth discovery set off a flurry of...16 Jan 2019 — The 1938 discovery of a coelacanth...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Coelacanth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Coelacanth</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CoelacanthThe first living species, Latimeria chalumnae, the West Indian Ocean coelacanth, was described from specimens fished off the...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Coelacanth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Coelacanth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CoelacanthThe first living species, Latimeria chalumnae, the West Indian Ocean coelacanth, was described from specimens fished off the...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: On the Track of Unknown Animals  
-   Link: <a href="https://en.wikipedia.org/wiki/On_the_Track_of_Unknown_Animals" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/On_the_Track_of_Unknown_Animals</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/On_the_Track_of_Unknown_Animals" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/On_the_Track_of_Unknown_Animals</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: discovermagazine.com  
-   Link: <a href="https://www.discovermagazine.com/a-new-coelacanth-species-was-hiding-in-a-museum-for-150-years-and-it-fills-a-50-million-year-gap-49003" target="_blank" rel="noopener noreferrer nofollow">https://www.discovermagazine.com/a-new-coelacanth-species-was-hiding-in-a-museum-for-150-years-and-it-fills-a-50-million-year-gap-49003</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A New Coelacanth Species Was Hiding in a Museum for...22 Apr 2026 — In a new study published in Papers in Palaeontology, researchers hav...</p></details>
+   Link:<a href="https://www.discovermagazine.com/a-new-coelacanth-species-was-hiding-in-a-museum-for-150-years-and-it-fills-a-50-million-year-gap-49003" target="_blank" rel="noopener noreferrer nofollow">https://www.discovermagazine.com/a-new-coelacanth-species-was-hiding-in-a-museum-for-150-years-and-it-fills-a-50-million-year-gap-49003</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A New Coelacanth Species Was Hiding in a Museum for...22 Apr 2026 — In a new study published in Papers in Palaeontology, researchers hav...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nhm.ac.uk  
    Title: Discover the story of this strange fish  
-   Link: <a href="https://www.nhm.ac.uk/discover/coelacanths-the-fish-that-outdid-the-loch-ness-monster.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nhm.ac.uk/discover/coelacanths-the-fish-that-outdid-the-loch-ness-monster.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Natural History MuseumCoelacanths: The fish that &#x27;outdid&#x27; the Loch Ness MonsterCoelacanths were thought to have been extinct for 70 milli...</p></details>
+   Link:<a href="https://www.nhm.ac.uk/discover/coelacanths-the-fish-that-outdid-the-loch-ness-monster.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nhm.ac.uk/discover/coelacanths-the-fish-that-outdid-the-loch-ness-monster.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Natural History MuseumCoelacanths: The fish that &#x27;outdid&#x27; the Loch Ness MonsterCoelacanths were thought to have been extinct for 70 milli...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ocean.si.edu  
-   Link: <a href="https://ocean.si.edu/ocean-life/fish/coelacanth" target="_blank" rel="noopener noreferrer nofollow">https://ocean.si.edu/ocean-life/fish/coelacanth</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian OceanCoelacanth | Smithsonian OceanThe first living coelacanth was discovered in 1938 and bears the scientific name Latimeria...</p></details>
+   Link:<a href="https://ocean.si.edu/ocean-life/fish/coelacanth" target="_blank" rel="noopener noreferrer nofollow">https://ocean.si.edu/ocean-life/fish/coelacanth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian OceanCoelacanth | Smithsonian OceanThe first living coelacanth was discovered in 1938 and bears the scientific name Latimeria...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: theguardian.com  
    Title: mysterious coelacanth fish can live for 100 years study  
-   Link: <a href="https://www.theguardian.com/environment/2021/jun/18/mysterious-coelacanth-fish-can-live-for-100-years-study" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/environment/2021/jun/18/mysterious-coelacanth-fish-can-live-for-100-years-study</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianMysterious coelacanth fish can live for 100 years – study18 Jun 2021 — The coelacanth – a giant, mysterious fish that has sur...</p></details>
+   Link:<a href="https://www.theguardian.com/environment/2021/jun/18/mysterious-coelacanth-fish-can-live-for-100-years-study" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/environment/2021/jun/18/mysterious-coelacanth-fish-can-live-for-100-years-study</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianMysterious coelacanth fish can live for 100 years – study18 Jun 2021 — The coelacanth – a giant, mysterious fish that has sur...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: port.ac.uk  
-   Link: <a href="https://www.port.ac.uk/news-events-and-blogs/news/150-year-old-museum-specimen-revealed-as-missing-link-in-evolution-of-ancient-fish" target="_blank" rel="noopener noreferrer nofollow">https://www.port.ac.uk/news-events-and-blogs/news/150-year-old-museum-specimen-revealed-as-missing-link-in-evolution-of-ancient-fish</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>150-year-old museum specimen revealed as missing link...21 Apr 2026 — A new species of coelacanth has been identified from a 150-year-ol...</p></details>
+   Link:<a href="https://www.port.ac.uk/news-events-and-blogs/news/150-year-old-museum-specimen-revealed-as-missing-link-in-evolution-of-ancient-fish" target="_blank" rel="noopener noreferrer nofollow">https://www.port.ac.uk/news-events-and-blogs/news/150-year-old-museum-specimen-revealed-as-missing-link-in-evolution-of-ancient-fish</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>150-year-old museum specimen revealed as missing link...21 Apr 2026 — A new species of coelacanth has been identified from a 150-year-ol...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=__Woo6L1bl0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=__Woo6L1bl0</a>  
+   Link:<a href="https://www.youtube.com/watch?v=__Woo6L1bl0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=__Woo6L1bl0</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: oceanographicmagazine.com  
    Title: dinosaur fish thought extinct reveals itself in blancpain mission  
-   Link: <a href="https://oceanographicmagazine.com/news/dinosaur-fish-thought-extinct-reveals-itself-in-blancpain-mission/" target="_blank" rel="noopener noreferrer nofollow">https://oceanographicmagazine.com/news/dinosaur-fish-thought-extinct-reveals-itself-in-blancpain-mission/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Dinosaur fish&#x27; thought extinct reveals itself in Blancpain...28 Apr 2025 — A &#x27;dinosaur fish&#x27; once believed to have vanished from the Ea...</p></details>
+   Link:<a href="https://oceanographicmagazine.com/news/dinosaur-fish-thought-extinct-reveals-itself-in-blancpain-mission/" target="_blank" rel="noopener noreferrer nofollow">https://oceanographicmagazine.com/news/dinosaur-fish-thought-extinct-reveals-itself-in-blancpain-mission/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Dinosaur fish&#x27; thought extinct reveals itself in Blancpain...28 Apr 2025 — A &#x27;dinosaur fish&#x27; once believed to have vanished from the Ea...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: shop.minimuseum.com  
    Title: the fish that didnt stay extinct the story of the coelacanth  
-   Link: <a href="https://shop.minimuseum.com/blogs/cool-things/the-fish-that-didnt-stay-extinct-the-story-of-the-coelacanth?srsltid=AfmBOorhwnl9_h5_WHbVArMnFB7KDgKoPhsEwmuryJsXeyFrVIa8NS3K" target="_blank" rel="noopener noreferrer nofollow">https://shop.minimuseum.com/blogs/cool-things/the-fish-that-didnt-stay-extinct-the-story-of-the-coelacanth?srsltid=AfmBOorhwnl9_h5_WHbVArMnFB7KDgKoPhsEwmuryJsXeyFrVIa8NS3K</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fish That Didn&#x27;t Stay Extinct: The Story of the CoelacanthThe fish was considered extinct, a relic of the past world which ended with the...</p></details>
+   Link:<a href="https://shop.minimuseum.com/blogs/cool-things/the-fish-that-didnt-stay-extinct-the-story-of-the-coelacanth?srsltid=AfmBOorhwnl9_h5_WHbVArMnFB7KDgKoPhsEwmuryJsXeyFrVIa8NS3K" target="_blank" rel="noopener noreferrer nofollow">https://shop.minimuseum.com/blogs/cool-things/the-fish-that-didnt-stay-extinct-the-story-of-the-coelacanth?srsltid=AfmBOorhwnl9_h5_WHbVArMnFB7KDgKoPhsEwmuryJsXeyFrVIa8NS3K</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fish That Didn&#x27;t Stay Extinct: The Story of the CoelacanthThe fish was considered extinct, a relic of the past world which ended with the...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Cryptozoology/comments/oj0bm3/stop_it_with_the_coelacanthas_an_example_for/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Cryptozoology/comments/oj0bm3/stop_it_with_the_coelacanthas_an_example_for/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CryptozoologyIn 1938, the Coelacanth was formally discovered in Southern Africa, with later populations discovered in Madagascar and Indo...</p></details>
+   Link:<a href="https://www.reddit.com/r/Cryptozoology/comments/oj0bm3/stop_it_with_the_coelacanthas_an_example_for/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Cryptozoology/comments/oj0bm3/stop_it_with_the_coelacanthas_an_example_for/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CryptozoologyIn 1938, the Coelacanth was formally discovered in Southern Africa, with later populations discovered in Madagascar and Indo...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: instagram.com  
    Title: It is rumored that some dinosaurs still live  
-   Link: <a href="https://www.instagram.com/reel/DS3Hw-3ER4P/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DS3Hw-3ER4P/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Coelacanth has been swimming the seas for...Likewise, the fossil coelacanth species are not the same as the two existing coelacanth...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DS3Hw-3ER4P/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DS3Hw-3ER4P/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Coelacanth has been swimming the seas for...Likewise, the fossil coelacanth species are not the same as the two existing coelacanth...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/techtimespage/posts/for-decades-scientists-believed-the-coelacanth-vanished-alongside-the-dinosaurs-/853830460786027/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/techtimespage/posts/for-decades-scientists-believed-the-coelacanth-vanished-alongside-the-dinosaurs-/853830460786027/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>urs, existing only in fossils dating back nearly 70 million...</p></details>
+   Link:<a href="https://www.facebook.com/techtimespage/posts/for-decades-scientists-believed-the-coelacanth-vanished-alongside-the-dinosaurs-/853830460786027/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/techtimespage/posts/for-decades-scientists-believed-the-coelacanth-vanished-alongside-the-dinosaurs-/853830460786027/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>urs, existing only in fossils dating back nearly 70 million...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Cryptozoology/comments/wwc0nt/remember_just_because_the_coelacanth_is_still/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Cryptozoology/comments/wwc0nt/remember_just_because_the_coelacanth_is_still/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of years while mostly escaping the fossil record.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/Cryptozoology/comments/wwc0nt/remember_just_because_the_coelacanth_is_still/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Cryptozoology/comments/wwc0nt/remember_just_because_the_coelacanth_is_still/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of years while mostly escaping the fossil record.Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: australian.museum  
    Title: Coelacanths are known from the fossil  
-   Link: <a href="https://australian.museum/learn/animals/fishes/coelacanth-latimeria-chalumnae-smith-1939/" target="_blank" rel="noopener noreferrer nofollow">https://australian.museum/learn/animals/fishes/coelacanth-latimeria-chalumnae-smith-1939/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Coelacanth, Latimeria chalumnae Smith, 1939by M McGrouther — This &#x27;living fossil&#x27; comes from a lineage of fishes that was thought to have...</p></details>
+   Link:<a href="https://australian.museum/learn/animals/fishes/coelacanth-latimeria-chalumnae-smith-1939/" target="_blank" rel="noopener noreferrer nofollow">https://australian.museum/learn/animals/fishes/coelacanth-latimeria-chalumnae-smith-1939/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Coelacanth, Latimeria chalumnae Smith, 1939by M McGrouther — This &#x27;living fossil&#x27; comes from a lineage of fishes that was thought to have...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/marinebiology/comments/10edbi4/claiming_that_coelacanths_are_living_fossils_is/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/marinebiology/comments/10edbi4/claiming_that_coelacanths_are_living_fossils_is/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>genetic drift etc. I think calling them living fossils is...</p></details>
+   Link:<a href="https://www.reddit.com/r/marinebiology/comments/10edbi4/claiming_that_coelacanths_are_living_fossils_is/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/marinebiology/comments/10edbi4/claiming_that_coelacanths_are_living_fossils_is/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>genetic drift etc. I think calling them living fossils is...</p></details>

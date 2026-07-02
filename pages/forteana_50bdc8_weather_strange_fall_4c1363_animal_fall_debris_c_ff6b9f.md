@@ -286,7 +286,7 @@ Reports of fish, frogs or other small animals apparently falling from the sky ar
 <img src="{{ "/assets/images/forteana_50bdc8_weather_strange_fall_4c1363_animal_fall_debris_c_ff6b9f-Illustration-1-dark.svg" | relative_url }}" alt="Debris Clues illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_weather_strange_fall_4c1363_animal_fall_debris_c_ff6b9f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_weather_strange_fall_4c1363_animal_fall_debris_c_ff6b9f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why debris matters in strange-fall reports
 
-Storms capable of moving small aquatic animals rarely transport those animals in perfect isolation. A tornado, waterspout or intense convective updraught interacts with the surrounding environment, lifting spray, floating vegetation, sediment and loose organic matter alongside living organisms. Meteorologists therefore regard associated debris as an important part of the evidence chain rather than an incidental detail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/browse-all-questions/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">The Library of Congress Can it rain frogs, fish, and other objects?</span><span class="citation-popover-snippet">Library of CongressMany scientists believe tornadic waterspouts may be responsible for frog and fish rainfalls. According to Complete Wea...</span></span></span>
+Storms capable of moving small aquatic animals rarely transport those animals in perfect isolation. A tornado, waterspout or intense convective updraught interacts with the surrounding environment, lifting spray, floating vegetation, sediment and loose organic matter alongside living organisms. Meteorologists therefore regard associated debris as an important part of the evidence chain rather than an incidental detail.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/browse-all-questions/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">The Library of Congress Can it rain frogs, fish, and other objects?</span><span class="citation-popover-snippet">Library of CongressMany scientists believe tornadic waterspouts may be responsible for frog and fish rainfalls. According to Complete Wea...</span></span></span>
 
 From an investigative perspective, debris provides several useful clues:
 
@@ -324,7 +324,7 @@ The key question is not simply "Could a storm move these animals?" but "Does eve
 
 </div>
 
-The well-known [observation]({{ 'observation/' | relative_url }}) that reported falls often contain animals of similar size also fits this reasoning. Material sharing similar weight, buoyancy and aerodynamic behaviour is more likely to remain together within turbulent airflow before being deposited over a relatively narrow area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/browse-all-questions/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">The Library of Congress Can it rain frogs, fish, and other objects?</span><span class="citation-popover-snippet">Library of CongressMany scientists believe tornadic waterspouts may be responsible for frog and fish rainfalls. According to Complete Wea...</span></span></span>
+The well-known [observation]({{ 'observation/' | relative_url }}) that reported falls often contain animals of similar size also fits this reasoning. Material sharing similar weight, buoyancy and aerodynamic behaviour is more likely to remain together within turbulent airflow before being deposited over a relatively narrow area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/browse-all-questions/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">The Library of Congress Can it rain frogs, fish, and other objects?</span><span class="citation-popover-snippet">Library of CongressMany scientists believe tornadic waterspouts may be responsible for frog and fish rainfalls. According to Complete Wea...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_weather_strange_fall_4c1363_animal_fall_debris_c_ff6b9f-Illustration-2-dark.svg" | relative_url }}" alt="Debris Clues illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_weather_strange_fall_4c1363_animal_fall_debris_c_ff6b9f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_weather_strange_fall_4c1363_animal_fall_debris_c_ff6b9f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -361,7 +361,7 @@ Missing debris raises several questions:
 
 </div>
 
-Historical reports often lack enough detail to answer these questions. Many nineteenth-century newspaper accounts mention only the surprising animals while omitting ordinary environmental observations that modern investigators would consider essential. The absence of debris therefore does not invalidate older reports, but it limits how confidently they can be explained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/browse-all-questions/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">The Library of Congress Can it rain frogs, fish, and other objects?</span><span class="citation-popover-snippet">Library of CongressMany scientists believe tornadic waterspouts may be responsible for frog and fish rainfalls. According to Complete Wea...</span></span></span>
+Historical reports often lack enough detail to answer these questions. Many nineteenth-century newspaper accounts mention only the surprising animals while omitting ordinary environmental observations that modern investigators would consider essential. The absence of debris therefore does not invalidate older reports, but it limits how confidently they can be explained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/browse-all-questions/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">The Library of Congress Can it rain frogs, fish, and other objects?</span><span class="citation-popover-snippet">Library of CongressMany scientists believe tornadic waterspouts may be responsible for frog and fish rainfalls. According to Complete Wea...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_weather_strange_fall_4c1363_animal_fall_debris_c_ff6b9f-Illustration-3-dark.svg" | relative_url }}" alt="Debris Clues illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_weather_strange_fall_4c1363_animal_fall_debris_c_ff6b9f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_weather_strange_fall_4c1363_animal_fall_debris_c_ff6b9f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -394,178 +394,178 @@ Treating animals as only one component of a storm-debris field produces more rel
 For Fortean studies, this perspective preserves the mystery without abandoning critical analysis. The unusual feature is not merely that animals appeared after a storm, but whether every piece of accompanying debris fits a believable chain of transport from a real landscape to the place where witnesses found it.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Debris That Makes Animal Falls Believable. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Debris That Makes Animal Falls Believable. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weather For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LtoPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Weather For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
-        </h4>
-        <p class="fr-book-author">By John D. Cox</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weather For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LtoPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Weather For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
+</h4>
+<p class="fr-book-author">By John D. Cox</p>
         
-        <p class="fr-book-desc">Explains storm transport mechanisms behind debris falls.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains storm transport mechanisms behind debris falls.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Weather+Machine+by+Andrew+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Weather Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NWQMDgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Weather Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Weather+Machine+by+Andrew+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Weather Machine">The Weather Machine</a>
-        </h4>
-        <p class="fr-book-author">By Andrew Blum</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Weather+Machine+by+Andrew+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Weather Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NWQMDgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Weather Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Weather+Machine+by+Andrew+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Weather Machine">The Weather Machine</a>
+</h4>
+<p class="fr-book-author">By Andrew Blum</p>
         
-        <p class="fr-book-desc">Helps explain atmospheric transport.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Weather+Machine+by+Andrew+Blum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain atmospheric transport.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Weather+Machine+by+Andrew+Blum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+Unusual+Knowledge+Publications+International+Ltd.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of Unusual Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10860496-M.jpg" alt="Cover for The Book of Unusual Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Book+of+Unusual+Knowledge+Publications+International+Ltd.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Unusual Knowledge">The Book of Unusual Knowledge</a>
-        </h4>
-        <p class="fr-book-author">By Publications International Ltd.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+Unusual+Knowledge+Publications+International+Ltd.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of Unusual Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10860496-M.jpg" alt="Cover for The Book of Unusual Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Book+of+Unusual+Knowledge+Publications+International+Ltd.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Unusual Knowledge">The Book of Unusual Knowledge</a>
+</h4>
+<p class="fr-book-author">By Publications International Ltd.</p>
         
-        <p class="fr-book-desc">First published 2012. Subjects: Curiosities and wonders.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Book+of+Unusual+Knowledge+Publications+International+Ltd.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2012. Subjects: Curiosities and wonders.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Book+of+Unusual+Knowledge+Publications+International+Ltd.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mysteries of the Unexplained on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysteries of the Unexplained">Mysteries of the Unexplained</a>
-        </h4>
-        <p class="fr-book-author">By Reader&#x27;s Digest Association</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mysteries of the Unexplained on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysteries of the Unexplained">Mysteries of the Unexplained</a>
+</h4>
+<p class="fr-book-author">By Reader&#x27;s Digest Association</p>
         
-        <p class="fr-book-desc">First published 1985.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1985.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Weather+For+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weather For Dummies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Weather+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Weather Machine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+Unusual+Knowledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of Unusual Knowledge</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Weather+For+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weather For Dummies</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Weather+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Weather Machine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+Unusual+Knowledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of Unusual Knowledge</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sample+collection+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-clues-the-debris-that-makes-animal-falls-believable-forteana-sample-collection-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sample collection kit" data-ebay-reference="debris-clues-the-debris-that-makes-animal-falls-believable-forteana-sample-collection-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Welzo Sexual Health Screening Kit Easy Sample Collection Laboratory Analysis"><img src="{{ '/assets/images/marketplace-covers/83e5e8ea55184b930e25.jpg' | relative_url }}" alt="Listing image for Welzo Sexual Health Screening Kit Easy Sample Collection Laboratory Analysis" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sample+collection+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-clues-the-debris-that-makes-animal-falls-believable-forteana-sample-collection-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sample collection kit" data-ebay-reference="debris-clues-the-debris-that-makes-animal-falls-believable-forteana-sample-collection-kit" target="_blank" rel="sponsored noopener noreferrer">Welzo Sexual Health Screening Kit Easy Sample Collection Laboratory Analysis</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sample+collection+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-clues-the-debris-that-makes-animal-falls-believable-forteana-sample-collection-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sample collection kit" data-ebay-reference="debris-clues-the-debris-that-makes-animal-falls-believable-forteana-sample-collection-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sample collection kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: sample collection kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sample+collection+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-clues-the-debris-that-makes-animal-falls-believable-forteana-sample-collection-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sample collection kit" data-ebay-reference="debris-clues-the-debris-that-makes-animal-falls-believable-forteana-sample-collection-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sample+collection+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-clues-the-debris-that-makes-animal-falls-believable-forteana-sample-collection-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sample collection kit" data-ebay-reference="debris-clues-the-debris-that-makes-animal-falls-believable-forteana-sample-collection-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Welzo Sexual Health Screening Kit Easy Sample Collection Laboratory Analysis"><img src="{{ '/assets/images/marketplace-covers/83e5e8ea55184b930e25.jpg' | relative_url }}" alt="Listing image for Welzo Sexual Health Screening Kit Easy Sample Collection Laboratory Analysis" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sample+collection+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-clues-the-debris-that-makes-animal-falls-believable-forteana-sample-collection-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sample collection kit" data-ebay-reference="debris-clues-the-debris-that-makes-animal-falls-believable-forteana-sample-collection-kit" target="_blank" rel="sponsored noopener noreferrer">Welzo Sexual Health Screening Kit Easy Sample Collection Laboratory Analysis</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sample+collection+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-clues-the-debris-that-makes-animal-falls-believable-forteana-sample-collection-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sample collection kit" data-ebay-reference="debris-clues-the-debris-that-makes-animal-falls-believable-forteana-sample-collection-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sample collection kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: sample collection kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sample+collection+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-clues-the-debris-that-makes-animal-falls-believable-forteana-sample-collection-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sample collection kit" data-ebay-reference="debris-clues-the-debris-that-makes-animal-falls-believable-forteana-sample-collection-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sample+collection+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-clues-the-debris-that-makes-animal-falls-believable-forteana-sample-collection-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sample collection kit" data-ebay-reference="debris-clues-the-debris-that-makes-animal-falls-believable-forteana-sample-collection-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Stool Sample Collection Kit | 4 x Flushable Bags | FIT Test UK | HyStool®"><img src="{{ '/assets/images/marketplace-covers/05e288d6ade5098bfaf2.jpg' | relative_url }}" alt="Listing image for Stool Sample Collection Kit | 4 x Flushable Bags | FIT Test UK | HyStool®" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sample+collection+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-clues-the-debris-that-makes-animal-falls-believable-forteana-sample-collection-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sample collection kit" data-ebay-reference="debris-clues-the-debris-that-makes-animal-falls-believable-forteana-sample-collection-kit" target="_blank" rel="sponsored noopener noreferrer">Stool Sample Collection Kit | 4 x Flushable Bags | FIT Test UK | HyStool®</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sample+collection+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-clues-the-debris-that-makes-animal-falls-believable-forteana-sample-collection-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sample collection kit" data-ebay-reference="debris-clues-the-debris-that-makes-animal-falls-believable-forteana-sample-collection-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sample collection kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: sample collection kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sample+collection+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-clues-the-debris-that-makes-animal-falls-believable-forteana-sample-collection-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sample collection kit" data-ebay-reference="debris-clues-the-debris-that-makes-animal-falls-believable-forteana-sample-collection-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sample+collection+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-clues-the-debris-that-makes-animal-falls-believable-forteana-sample-collection-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sample collection kit" data-ebay-reference="debris-clues-the-debris-that-makes-animal-falls-believable-forteana-sample-collection-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Stool Sample Collection Kit | 4 x Flushable Bags | FIT Test UK | HyStool®"><img src="{{ '/assets/images/marketplace-covers/05e288d6ade5098bfaf2.jpg' | relative_url }}" alt="Listing image for Stool Sample Collection Kit | 4 x Flushable Bags | FIT Test UK | HyStool®" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sample+collection+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-clues-the-debris-that-makes-animal-falls-believable-forteana-sample-collection-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sample collection kit" data-ebay-reference="debris-clues-the-debris-that-makes-animal-falls-believable-forteana-sample-collection-kit" target="_blank" rel="sponsored noopener noreferrer">Stool Sample Collection Kit | 4 x Flushable Bags | FIT Test UK | HyStool®</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sample+collection+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-clues-the-debris-that-makes-animal-falls-believable-forteana-sample-collection-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sample collection kit" data-ebay-reference="debris-clues-the-debris-that-makes-animal-falls-believable-forteana-sample-collection-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sample collection kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: sample collection kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sample+collection+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-clues-the-debris-that-makes-animal-falls-believable-forteana-sample-collection-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sample collection kit" data-ebay-reference="debris-clues-the-debris-that-makes-animal-falls-believable-forteana-sample-collection-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sample+collection+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-clues-the-debris-that-makes-animal-falls-believable-forteana-sample-collection-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sample collection kit" data-ebay-reference="debris-clues-the-debris-that-makes-animal-falls-believable-forteana-sample-collection-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Welzo Full Body MOT Health Check Easy Sample Collection Kit Suitable for Adults"><img src="{{ '/assets/images/marketplace-covers/2477a425c4ccd01bb2f3.jpg' | relative_url }}" alt="Listing image for Welzo Full Body MOT Health Check Easy Sample Collection Kit Suitable for Adults" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sample+collection+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-clues-the-debris-that-makes-animal-falls-believable-forteana-sample-collection-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sample collection kit" data-ebay-reference="debris-clues-the-debris-that-makes-animal-falls-believable-forteana-sample-collection-kit" target="_blank" rel="sponsored noopener noreferrer">Welzo Full Body MOT Health Check Easy Sample Collection Kit Suitable for Adults</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sample+collection+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-clues-the-debris-that-makes-animal-falls-believable-forteana-sample-collection-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sample collection kit" data-ebay-reference="debris-clues-the-debris-that-makes-animal-falls-believable-forteana-sample-collection-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sample collection kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: sample collection kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sample+collection+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-clues-the-debris-that-makes-animal-falls-believable-forteana-sample-collection-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sample collection kit" data-ebay-reference="debris-clues-the-debris-that-makes-animal-falls-believable-forteana-sample-collection-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=sample+collection+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-clues-the-debris-that-makes-animal-falls-believable-forteana-sample-collection-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sample collection kit" data-ebay-reference="debris-clues-the-debris-that-makes-animal-falls-believable-forteana-sample-collection-kit" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sample+collection+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-clues-the-debris-that-makes-animal-falls-believable-forteana-sample-collection-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sample collection kit" data-ebay-reference="debris-clues-the-debris-that-makes-animal-falls-believable-forteana-sample-collection-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Welzo Full Body MOT Health Check Easy Sample Collection Kit Suitable for Adults"><img src="{{ '/assets/images/marketplace-covers/2477a425c4ccd01bb2f3.jpg' | relative_url }}" alt="Listing image for Welzo Full Body MOT Health Check Easy Sample Collection Kit Suitable for Adults" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sample+collection+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-clues-the-debris-that-makes-animal-falls-believable-forteana-sample-collection-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sample collection kit" data-ebay-reference="debris-clues-the-debris-that-makes-animal-falls-believable-forteana-sample-collection-kit" target="_blank" rel="sponsored noopener noreferrer">Welzo Full Body MOT Health Check Easy Sample Collection Kit Suitable for Adults</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sample+collection+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-clues-the-debris-that-makes-animal-falls-believable-forteana-sample-collection-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sample collection kit" data-ebay-reference="debris-clues-the-debris-that-makes-animal-falls-believable-forteana-sample-collection-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sample collection kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: sample collection kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sample+collection+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-clues-the-debris-that-makes-animal-falls-believable-forteana-sample-collection-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sample collection kit" data-ebay-reference="debris-clues-the-debris-that-makes-animal-falls-believable-forteana-sample-collection-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=sample+collection+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debris-clues-the-debris-that-makes-animal-falls-believable-forteana-sample-collection-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sample collection kit" data-ebay-reference="debris-clues-the-debris-that-makes-animal-falls-believable-forteana-sample-collection-kit" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -581,7 +581,7 @@ For Fortean studies, this perspective preserves the mystery without abandoning c
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -601,7 +601,7 @@ For Fortean studies, this perspective preserves the mystery without abandoning c
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -633,7 +633,7 @@ For Fortean studies, this perspective preserves the mystery without abandoning c
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -685,7 +685,7 @@ For Fortean studies, this perspective preserves the mystery without abandoning c
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -730,7 +730,7 @@ For Fortean studies, this perspective preserves the mystery without abandoning c
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -771,77 +771,77 @@ For Fortean studies, this perspective preserves the mystery without abandoning c
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: loc.gov  
    Title: The Library of Congress Can it rain frogs, fish, and other objects?  
-   Link: <a href="https://www.loc.gov/everyday-mysteries/browse-all-questions/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/everyday-mysteries/browse-all-questions/item/can-it-rain-frogs-fish-and-other-objects/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Library of CongressMany scientists believe tornadic [waterspouts](&amp;#123;&amp;#123; &#x27;waterspouts/&#x27; | relative_url &amp;#125;&amp;#125;) may be responsible for frog and fish rainfalls. According to Complete Wea...</p></details>
+   Link:<a href="https://www.loc.gov/everyday-mysteries/browse-all-questions/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/everyday-mysteries/browse-all-questions/item/can-it-rain-frogs-fish-and-other-objects/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Library of CongressMany scientists believe tornadic [waterspouts](&amp;#123;&amp;#123; &#x27;waterspouts/&#x27; | relative_url &amp;#125;&amp;#125;) may be responsible for frog and fish rainfalls. According to Complete Wea...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pubs.usgs.gov  
-   Link: <a href="https://pubs.usgs.gov/fs/fs-176-97/fs-176-97.html" target="_blank" rel="noopener noreferrer nofollow">https://pubs.usgs.gov/fs/fs-176-97/fs-176-97.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>usgs.govfs-176-97: Debris-Flow Hazards in the United StatesNovember 29, 2016 — Debris flows, sometimes referred to as mudslides, mudflows...</p></details>
+   Link:<a href="https://pubs.usgs.gov/fs/fs-176-97/fs-176-97.html" target="_blank" rel="noopener noreferrer nofollow">https://pubs.usgs.gov/fs/fs-176-97/fs-176-97.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>usgs.govfs-176-97: Debris-Flow Hazards in the United StatesNovember 29, 2016 — Debris flows, sometimes referred to as mudslides, mudflows...</p></details>
    Published: November 29, 2016  
 
 ### Additional References
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/13abc/posts/animal-rain-happens-when-small-water-animals-like-fish-frogs-and-crabs-are-swept/10159511629081897/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/13abc/posts/animal-rain-happens-when-small-water-animals-like-fish-frogs-and-crabs-are-swept/10159511629081897/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>December 30, 2021 — Animal rain happens when small water animals like fish, frogs and crabs are swept up in waterspouts or drafts that ha...</p></details>
+   Link:<a href="https://www.facebook.com/13abc/posts/animal-rain-happens-when-small-water-animals-like-fish-frogs-and-crabs-are-swept/10159511629081897/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/13abc/posts/animal-rain-happens-when-small-water-animals-like-fish-frogs-and-crabs-are-swept/10159511629081897/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 30, 2021 — Animal rain happens when small water animals like fish, frogs and crabs are swept up in waterspouts or drafts that ha...</p></details>
    Published: December 30, 2021  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: yahoo.com  
    Title: Texas Fish Rain Is a Potentially Recurring 'Weather' Phenomenon  
-   Link: <a href="https://www.yahoo.com/entertainment/texas-fish-rain-potentially-recurring-185904578.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/entertainment/texas-fish-rain-potentially-recurring-185904578.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>January 4, 2022 — Animal rain is a phenomenon that occurs when small water animals like frogs, crabs, and small fish are swept up in wate...</p></details>
+   Link:<a href="https://www.yahoo.com/entertainment/texas-fish-rain-potentially-recurring-185904578.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/entertainment/texas-fish-rain-potentially-recurring-185904578.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 4, 2022 — Animal rain is a phenomenon that occurs when small water animals like frogs, crabs, and small fish are swept up in wate...</p></details>
    Published: January 4, 2022  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: newsweek.com  
    Title: 'Raining Fish' Explained: Fish Falling From Sky in Rare Texas  
-   Link: <a href="https://www.newsweek.com/raining-fish-explained-storm-brings-fish-falling-sky-texas-1664747" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/raining-fish-explained-storm-brings-fish-falling-sky-texas-1664747</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>December 31, 2021 — According to National Geographic, animal rain occurs when small animals get swept up in waterspouts, which form when...</p></details>
+   Link:<a href="https://www.newsweek.com/raining-fish-explained-storm-brings-fish-falling-sky-texas-1664747" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/raining-fish-explained-storm-brings-fish-falling-sky-texas-1664747</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 31, 2021 — According to National Geographic, animal rain occurs when small animals get swept up in waterspouts, which form when...</p></details>
    Published: December 31, 2021  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: lexingtonma.gov  
-   Link: <a href="https://www.lexingtonma.gov/2406/Stormwater-Crossword-Puzzle-with-Answers" target="_blank" rel="noopener noreferrer nofollow">https://www.lexingtonma.gov/2406/Stormwater-Crossword-Puzzle-with-Answers</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>re stormwater exits a system into a water body. 3. A covered...</p></details>
+   Link:<a href="https://www.lexingtonma.gov/2406/Stormwater-Crossword-Puzzle-with-Answers" target="_blank" rel="noopener noreferrer nofollow">https://www.lexingtonma.gov/2406/Stormwater-Crossword-Puzzle-with-Answers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>re stormwater exits a system into a water body. 3. A covered...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Fish fall from the sky during rainstorms in eastern Texas | Rush Hour  
-   Link: <a href="https://www.youtube.com/watch?v=99h3rsslmYg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=99h3rsslmYg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>December 31, 2021 — Several residents in east Texas reported seeing fish all over the ground after they apparently fell from the sky duri...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=99h3rsslmYg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=99h3rsslmYg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 31, 2021 — Several residents in east Texas reported seeing fish all over the ground after they apparently fell from the sky duri...</p></details>
    Published: December 31, 2021  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: research.fs.usda.gov  
-   Link: <a href="https://research.fs.usda.gov/treesearch/7871" target="_blank" rel="noopener noreferrer nofollow">https://research.fs.usda.gov/treesearch/7871</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>flows through different forest age classes in the central...Field surveys following a large regional storm event investigated 53 debris...</p></details>
+   Link:<a href="https://research.fs.usda.gov/treesearch/7871" target="_blank" rel="noopener noreferrer nofollow">https://research.fs.usda.gov/treesearch/7871</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>flows through different forest age classes in the central...Field surveys following a large regional storm event investigated 53 debris...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Rain of animals  
-   Link: <a href="https://en.wikipedia.org/wiki/Rain_of_animals" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rain_of_animals</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rain of animals - WikipediaOne hypothesis is that tornadic waterspouts sometimes pick up creatures such as fish or frogs and carry the...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Rain_of_animals" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rain_of_animals</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rain of animals - WikipediaOne hypothesis is that tornadic waterspouts sometimes pick up creatures such as fish or frogs and carry the...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Fish, Frogs And Ice Blocks Falling From The Sky | Our World  
-   Link: <a href="https://www.youtube.com/watch?v=Ma5zgSHUj8w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ma5zgSHUj8w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Does It Really Rain Fish in Honduras? (Lluvia de Peces)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ma5zgSHUj8w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ma5zgSHUj8w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Does It Really Rain Fish in Honduras? (Lluvia de Peces)...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Does It Really Rain Fish in Honduras? (Lluvia de Peces)  
-   Link: <a href="https://www.youtube.com/watch?v=yenMbmILJtw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yenMbmILJtw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why &#x27;Raining Cats and Dogs&#x27; Is More Than an Expression...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yenMbmILJtw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yenMbmILJtw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why &#x27;Raining Cats and Dogs&#x27; Is More Than an Expression...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Fish Raining from the Sky  
-   Link: <a href="https://www.youtube.com/watch?v=IzXYCr6-iFY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IzXYCr6-iFY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Animals rains types All Animal Rain Events Explained...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=IzXYCr6-iFY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IzXYCr6-iFY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Animals rains types All Animal Rain Events Explained...</p></details>

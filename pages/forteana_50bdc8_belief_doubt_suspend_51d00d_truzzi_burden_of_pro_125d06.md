@@ -280,7 +280,7 @@ image: /assets/images/forteana_50bdc8_belief_doubt_suspend_51d00d_truzzi_burden_
 
 ## Introduction
 
-Marcello Truzzi's approach to extraordinary claims is often reduced to the familiar phrase "extraordinary claims require extraordinary evidence". That summary misses his more important point. Truzzi argued that the key issue is not simply how much evidence an unusual claim needs, but who is responsible for providing it and when that responsibility shifts. Within Fortean inquiry, this provides a practical rule for handling anomalous reports: claimants bear the initial burden of showing why a remarkable claim should be accepted, while sceptics who go beyond withholding belief and begin making positive counter-claims also incur evidential responsibilities of their own. This framework aims to preserve genuine scepticism without allowing either belief or [dismissal]({{ 'dismissal/' | relative_url }}) to outrun the available evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anomalist.com/commentaries/pseudo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anomalist.com">[anomalist.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anomalist.com</span><span class="citation-popover-snippet">Commentaries: On Pseudo-SkepticismIn science, the burden of proof falls upon the claimant; and the more extraordinary a claim, the heavie...</span></span></span>
+Marcello Truzzi's approach to extraordinary claims is often reduced to the familiar phrase "extraordinary claims require extraordinary evidence". That summary misses his more important point. Truzzi argued that the key issue is not simply how much evidence an unusual claim needs, but who is responsible for providing it and when that responsibility shifts. Within Fortean inquiry, this provides a practical rule for handling anomalous reports: claimants bear the initial burden of showing why a remarkable claim should be accepted, while sceptics who go beyond withholding belief and begin making positive counter-claims also incur evidential responsibilities of their own. This framework aims to preserve genuine scepticism without allowing either belief or [dismissal]({{ 'dismissal/' | relative_url }}) to outrun the available evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anomalist.com/commentaries/pseudo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anomalist.com">[anomalist.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anomalist.com</span><span class="citation-popover-snippet">Commentaries: On Pseudo-SkepticismIn science, the burden of proof falls upon the claimant; and the more extraordinary a claim, the heavie...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_belief_doubt_suspend_51d00d_truzzi_burden_of_pro_125d06-Illustration-1-dark.svg" | relative_url }}" alt="Proof Burden illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_belief_doubt_suspend_51d00d_truzzi_burden_of_pro_125d06-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_belief_doubt_suspend_51d00d_truzzi_burden_of_pro_125d06-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,7 +288,7 @@ Marcello Truzzi's approach to extraordinary claims is often reduced to the famil
 
 Truzzi accepted a basic scientific principle: anyone proposing a new factual claim must provide evidence sufficient to justify it. The more the claim conflicts with well-established knowledge or accumulated [experience]({{ 'experience/' | relative_url }}), the stronger that evidence must be.
 
-This is what he meant by "extraordinary proof". It did not imply a mysterious category of evidence available only for paranormal subjects. Rather, claims that would require revising accepted knowledge naturally demand more convincing support than claims already consistent with existing evidence. A report that a familiar bird was seen in a local park requires relatively little evidence; a report that a long-extinct animal is alive, or that psychic perception has been demonstrated under controlled conditions, requires substantially more because it challenges a much larger body of accepted observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anomalist.com/commentaries/pseudo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anomalist.com">[anomalist.com+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anomalist.com</span><span class="citation-popover-snippet">Commentaries: On Pseudo-SkepticismIn science, the burden of proof falls upon the claimant; and the more extraordinary a claim, the heavie...</span></span></span>
+This is what he meant by "extraordinary proof". It did not imply a mysterious category of evidence available only for paranormal subjects. Rather, claims that would require revising accepted knowledge naturally demand more convincing support than claims already consistent with existing evidence. A report that a familiar bird was seen in a local park requires relatively little evidence; a report that a long-extinct animal is alive, or that psychic perception has been demonstrated under controlled conditions, requires substantially more because it challenges a much larger body of accepted observations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anomalist.com/commentaries/pseudo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anomalist.com">[anomalist.com+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anomalist.com</span><span class="citation-popover-snippet">Commentaries: On Pseudo-SkepticismIn science, the burden of proof falls upon the claimant; and the more extraordinary a claim, the heavie...</span></span></span>
 
 For Fortean subjects, this means unusual testimony should neither be dismissed automatically nor accepted merely because it is sincere. The initial task is to ask whether the evidence presented is proportionate to the claim being made.
 
@@ -303,7 +303,7 @@ He argued that a genuine sceptic occupies an agnostic position: the evidence has
 
 However, the situation changes once a sceptic moves from saying "this has not been demonstrated" to asserting "this definitely did not happen" or "the witness was mistaken", "it was a hoax", or "it must have been psychological". Those become positive explanatory claims that also require evidence.
 
-Truzzi criticised what he called "pseudoscepticism" because, in his view, some investigators demanded rigorous proof from claimants while allowing speculative conventional explanations to pass with much weaker support. If someone confidently attributes a UFO sighting to Venus, a cryptid report to deliberate fraud, or a haunting to suggestion, those explanations should themselves be supported by evidence rather than assumed simply because they are familiar. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anomalist.com/commentaries/pseudo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anomalist.com">[anomalist.com+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anomalist.com</span><span class="citation-popover-snippet">Commentaries: On Pseudo-SkepticismIn science, the burden of proof falls upon the claimant; and the more extraordinary a claim, the heavie...</span></span></span>
+Truzzi criticised what he called "pseudoscepticism" because, in his view, some investigators demanded rigorous proof from claimants while allowing speculative conventional explanations to pass with much weaker support. If someone confidently attributes a UFO sighting to Venus, a cryptid report to deliberate fraud, or a haunting to suggestion, those explanations should themselves be supported by evidence rather than assumed simply because they are familiar.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anomalist.com/commentaries/pseudo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anomalist.com">[anomalist.com+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anomalist.com</span><span class="citation-popover-snippet">Commentaries: On Pseudo-SkepticismIn science, the burden of proof falls upon the claimant; and the more extraordinary a claim, the heavie...</span></span></span>
 
 This does not place paranormal and conventional explanations on identical footing. Conventional explanations often begin with a higher prior plausibility because they are consistent with existing knowledge. Nevertheless, plausibility alone is not proof.
 
@@ -328,7 +328,7 @@ In practice, stronger proof usually involves several features working together:
 
 </div>
 
-The standard therefore concerns cumulative evidential weight rather than dramatic or spectacular proof. Philosophers discussing the principle have similarly argued that "extraordinary" refers to the amount of evidential support needed to overcome a large body of contrary observations, not to a fundamentally different category of evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s11406-016-9779-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">The crux of the matter...Read more...</span></span></span>
+The standard therefore concerns cumulative evidential weight rather than dramatic or spectacular proof. Philosophers discussing the principle have similarly argued that "extraordinary" refers to the amount of evidential support needed to overcome a large body of contrary observations, not to a fundamentally different category of evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s11406" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">The crux of the matter...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Nyque-THREU" title="The Amazing Randi and American Skepticism with Mitch Horowitz (4K Reboot)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Nyque-THREU" target="_blank" rel="noopener noreferrer">The Amazing Randi and American Skepticism with Mitch Horowitz (4K Reboot)</a></p><p class="youtube-embed-meta">Channel: New Thinking Allowed with Jeffrey Mishlove</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Nyque-THREU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Nyque-THREU">Open on YouTube</a></p></div></div></div>
@@ -359,201 +359,201 @@ Truzzi's formulation continues to shape debates over [UFO reports]({{ 'ufo-repor
 
 Believers are reminded that [sincerity]({{ 'sincerity/' | relative_url }}) and possibility do not establish truth. Sceptics are reminded that disbelief is strongest when it distinguishes between "not demonstrated" and "demonstrably false". Both sides are encouraged to match confidence to evidence rather than identity or expectation.
 
-Within [Forteana]({{ 'forteana/' | relative_url }}), this approach supports investigation without credulity and criticism without dogmatic dismissal. It treats the burden of proof as a dynamic responsibility that follows whichever participant is making the substantive factual claim at that stage of the discussion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anomalist.com/commentaries/pseudo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anomalist.com">[anomalist.com+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anomalist.com</span><span class="citation-popover-snippet">Commentaries: On Pseudo-SkepticismIn science, the burden of proof falls upon the claimant; and the more extraordinary a claim, the heavie...</span></span></span>
+Within [Forteana]({{ 'forteana/' | relative_url }}), this approach supports investigation without credulity and criticism without dogmatic dismissal. It treats the burden of proof as a dynamic responsibility that follows whichever participant is making the substantive factual claim at that stage of the discussion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anomalist.com/commentaries/pseudo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anomalist.com">[anomalist.com+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anomalist.com</span><span class="citation-popover-snippet">Commentaries: On Pseudo-SkepticismIn science, the burden of proof falls upon the claimant; and the more extraordinary a claim, the heavie...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QSkW8NAWU1Q" title="David Drew: Debunking Theatre | Thunderbolts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QSkW8NAWU1Q" target="_blank" rel="noopener noreferrer">David Drew: Debunking Theatre | Thunderbolts</a></p><p class="youtube-embed-meta">Channel: The Thunderbolts Project</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QSkW8NAWU1Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QSkW8NAWU1Q">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What extraordinary proof really means. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What extraordinary proof really means. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Covers evidence standards for extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers evidence standards for extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Addresses evidence, skepticism and extraordinary assertions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses evidence, skepticism and extraordinary assertions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Reinforces careful assessment of evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Reinforces careful assessment of evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explores why people accept unsupported claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores why people accept unsupported claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vinyl Sticker Decal Cryptid Horror Tentacles"><img src="{{ '/assets/images/marketplace-covers/c69d069fc0534c9b4647.jpg' | relative_url }}" alt="Listing image for Vinyl Sticker Decal Cryptid Horror Tentacles" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker" target="_blank" rel="sponsored noopener noreferrer">Vinyl Sticker Decal Cryptid Horror Tentacles</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vinyl Sticker Decal Cryptid Horror Tentacles"><img src="{{ '/assets/images/marketplace-covers/c69d069fc0534c9b4647.jpg' | relative_url }}" alt="Listing image for Vinyl Sticker Decal Cryptid Horror Tentacles" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker" target="_blank" rel="sponsored noopener noreferrer">Vinyl Sticker Decal Cryptid Horror Tentacles</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vinyl Sticker Decal Cryptid Horror Tentacles"><img src="{{ '/assets/images/marketplace-covers/806020b3655c7b3e91ac.jpg' | relative_url }}" alt="Listing image for Vinyl Sticker Decal Cryptid Horror Tentacles" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker" target="_blank" rel="sponsored noopener noreferrer">Vinyl Sticker Decal Cryptid Horror Tentacles</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vinyl Sticker Decal Cryptid Horror Tentacles"><img src="{{ '/assets/images/marketplace-covers/806020b3655c7b3e91ac.jpg' | relative_url }}" alt="Listing image for Vinyl Sticker Decal Cryptid Horror Tentacles" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker" target="_blank" rel="sponsored noopener noreferrer">Vinyl Sticker Decal Cryptid Horror Tentacles</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bigfoot 5pc Cryptid Sticker Pack"><img src="{{ '/assets/images/marketplace-covers/36868e3cf1421494782b.jpg' | relative_url }}" alt="Listing image for Bigfoot 5pc Cryptid Sticker Pack" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker" target="_blank" rel="sponsored noopener noreferrer">Bigfoot 5pc Cryptid Sticker Pack</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bigfoot 5pc Cryptid Sticker Pack"><img src="{{ '/assets/images/marketplace-covers/36868e3cf1421494782b.jpg' | relative_url }}" alt="Listing image for Bigfoot 5pc Cryptid Sticker Pack" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker" target="_blank" rel="sponsored noopener noreferrer">Bigfoot 5pc Cryptid Sticker Pack</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CRYPTID SASQUATCH DECAL, LAPTOP, INSTRUMENT CASE DECAL 14 x 14cm"><img src="{{ '/assets/images/marketplace-covers/2c0dc986d2debfa2242e.jpg' | relative_url }}" alt="Listing image for CRYPTID SASQUATCH DECAL, LAPTOP, INSTRUMENT CASE DECAL 14 x 14cm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker" target="_blank" rel="sponsored noopener noreferrer">CRYPTID SASQUATCH DECAL, LAPTOP, INSTRUMENT CASE DECAL 14 x 14cm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CRYPTID SASQUATCH DECAL, LAPTOP, INSTRUMENT CASE DECAL 14 x 14cm"><img src="{{ '/assets/images/marketplace-covers/2c0dc986d2debfa2242e.jpg' | relative_url }}" alt="Listing image for CRYPTID SASQUATCH DECAL, LAPTOP, INSTRUMENT CASE DECAL 14 x 14cm" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker" target="_blank" rel="sponsored noopener noreferrer">CRYPTID SASQUATCH DECAL, LAPTOP, INSTRUMENT CASE DECAL 14 x 14cm</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="proof-burden-what-extraordinary-proof-really-means-forteana-cryptid-sticker" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -569,7 +569,7 @@ Within [Forteana]({{ 'forteana/' | relative_url }}), this approach supports inve
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -589,7 +589,7 @@ Within [Forteana]({{ 'forteana/' | relative_url }}), this approach supports inve
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -621,7 +621,7 @@ Within [Forteana]({{ 'forteana/' | relative_url }}), this approach supports inve
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -673,7 +673,7 @@ Within [Forteana]({{ 'forteana/' | relative_url }}), this approach supports inve
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -718,7 +718,7 @@ Within [Forteana]({{ 'forteana/' | relative_url }}), this approach supports inve
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -759,97 +759,97 @@ Within [Forteana]({{ 'forteana/' | relative_url }}), this approach supports inve
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: anomalist.com  
-   Link: <a href="https://www.anomalist.com/commentaries/pseudo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.anomalist.com/commentaries/pseudo.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Commentaries: On Pseudo-SkepticismIn science, the burden of proof falls upon the claimant; and the more extraordinary a claim, the heavie...</p></details>
+   Link:<a href="https://www.anomalist.com/commentaries/pseudo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.anomalist.com/commentaries/pseudo.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Commentaries: On Pseudo-SkepticismIn science, the burden of proof falls upon the claimant; and the more extraordinary a claim, the heavie...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Extraordinary claims require extraordinary evidence  
-   Link: <a href="https://en.wikipedia.org/wiki/Extraordinary_claims_require_extraordinary_evidence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Extraordinary_claims_require_extraordinary_evidence</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Extraordinary claims require extraordinary evidenceThe formulation &quot;extraordinary claims require extraordinary proof&quot; was used a year...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Extraordinary_claims_require_extraordinary_evidence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Extraordinary_claims_require_extraordinary_evidence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Extraordinary claims require extraordinary evidenceThe formulation &quot;extraordinary claims require extraordinary proof&quot; was used a year...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s11406-016-9779-7" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11406-016-9779-7</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The crux of the matter...Read more...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s11406" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11406</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The crux of the matter...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Pseudoskepticism" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pseudoskepticism</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PseudoskepticismIn science, the burden of proof falls upon the claimant; and the more extraordinary a claim, the heavier is the burden...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Pseudoskepticism" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pseudoskepticism</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PseudoskepticismIn science, the burden of proof falls upon the claimant; and the more extraordinary a claim, the heavier is the burden...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Marcello Truzzi  
-   Link: <a href="https://en.wikipedia.org/wiki/Marcello_Truzzi" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Marcello_Truzzi</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Marcello TruzziIn science, the burden of proof falls upon the claimant; and the more extraordinary a claim, the heavier is the burden...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Marcello_Truzzi" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Marcello_Truzzi</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Marcello TruzziIn science, the burden of proof falls upon the claimant; and the more extraordinary a claim, the heavier is the burden...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Eastern Michigan University  
-   Link: <a href="https://en.wikipedia.org/wiki/Eastern_Michigan_University" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eastern_Michigan_University</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Eastern Michigan University - WikipediaMarcello Truzzi - Wikipedia...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Eastern_Michigan_University" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eastern_Michigan_University</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eastern Michigan University - WikipediaMarcello Truzzi - Wikipedia...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Marcello Hernández  
-   Link: <a href="https://en.wikipedia.org/wiki/Marcello_Hern%C3%A1ndez" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Marcello_Hern%C3%A1ndez</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Marcello HernándezMarcello André Hernández-González (born August 19, 1997) is an American comedian and actor. He has been a cast membe...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Marcello_Hern%C3%A1ndez" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Marcello_Hern%C3%A1ndez</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Marcello HernándezMarcello André Hernández-González (born August 19, 1997) is an American comedian and actor. He has been a cast membe...</p></details>
    Published: August 19, 1997  
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: bliptext.com  
-   Link: <a href="https://bliptext.com/articles/marcello-truzzi" target="_blank" rel="noopener noreferrer nofollow">https://bliptext.com/articles/marcello-truzzi</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Marcello TruzziMarcello Truzzi popularized the term pseudoskepticism in response to skeptics who, in his opinion, made negative claims wi...</p></details>
+   Link:<a href="https://bliptext.com/articles/marcello-truzzi" target="_blank" rel="noopener noreferrer nofollow">https://bliptext.com/articles/marcello-truzzi</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Marcello TruzziMarcello Truzzi popularized the term pseudoskepticism in response to skeptics who, in his opinion, made negative claims wi...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: evcforum.net  
-   Link: <a href="https://evcforum.net/dm.php?control=olderthread&amp;t=13710" target="_blank" rel="noopener noreferrer nofollow">https://evcforum.net/dm.php?control=olderthread&amp;t=13710</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pseudoskepticism and logicIn science, the burden of proof falls upon the claimant; and the more extraordinary a claim, the heavier is the...</p></details>
+   Link:<a href="https://evcforum.net/dm.php?control=olderthread&amp;t=13710" target="_blank" rel="noopener noreferrer nofollow">https://evcforum.net/dm.php?control=olderthread&amp;t=13710</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pseudoskepticism and logicIn science, the burden of proof falls upon the claimant; and the more extraordinary a claim, the heavier is the...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: figsinwinter.medium.com  
    Title: do extraordinary claims require extraordinary evidence 696595f901ea  
-   Link: <a href="https://figsinwinter.medium.com/do-extraordinary-claims-require-extraordinary-evidence-696595f901ea" target="_blank" rel="noopener noreferrer nofollow">https://figsinwinter.medium.com/do-extraordinary-claims-require-extraordinary-evidence-696595f901ea</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>extraordinary claims require extraordinary evidence?“In science, the burden of proof falls upon the claimant; and the more extraordinary...</p></details>
+   Link:<a href="https://figsinwinter.medium.com/do-extraordinary-claims-require-extraordinary-evidence-696595f901ea" target="_blank" rel="noopener noreferrer nofollow">https://figsinwinter.medium.com/do-extraordinary-claims-require-extraordinary-evidence-696595f901ea</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>extraordinary claims require extraordinary evidence?“In science, the burden of proof falls upon the claimant; and the more extraordinary...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: skepticsplay.blogspot.com  
-   Link: <a href="https://skepticsplay.blogspot.com/2013/05/an-older-controversy-marcello-truzzi.html" target="_blank" rel="noopener noreferrer nofollow">https://skepticsplay.blogspot.com/2013/05/an-older-controversy-marcello-truzzi.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An older controversy: Marcello Truzzi and pseudoskepticismMay 14, 2013 — Marcello Truzzi is credited with the saying, &quot;Extraordinary claims...</p></details>
+   Link:<a href="https://skepticsplay.blogspot.com/2013/05/an-older-controversy-marcello-truzzi.html" target="_blank" rel="noopener noreferrer nofollow">https://skepticsplay.blogspot.com/2013/05/an-older-controversy-marcello-truzzi.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An older controversy: Marcello Truzzi and pseudoskepticismMay 14, 2013 — Marcello Truzzi is credited with the saying, &quot;Extraordinary claims...</p></details>
    Published: May 14, 2013  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/339886820_Do_extraordinary_claims_require_extraordinary_evidence_The_proper_role_of_Sagan%27s_dictum_in_astrobiology" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/339886820_Do_extraordinary_claims_require_extraordinary_evidence_The_proper_role_of_Sagan%27s_dictum_in_astrobiology</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s by one of astrobiology&#x27;s best- known figures, Carl Sagan (1934– 1996)...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/339886820_Do_extraordinary_claims_require_extraordinary_evidence_The_proper_role_of_Sagan%27s_dictum_in_astrobiology" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/339886820_Do_extraordinary_claims_require_extraordinary_evidence_The_proper_role_of_Sagan%27s_dictum_in_astrobiology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s by one of astrobiology&#x27;s best- known figures, Carl Sagan (1934– 1996)...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: orthocuban.com  
    Title: extraordinary claims extraordinary evidence  
-   Link: <a href="https://www.orthocuban.com/2012/01/extraordinary-claims-extraordinary-evidence/" target="_blank" rel="noopener noreferrer nofollow">https://www.orthocuban.com/2012/01/extraordinary-claims-extraordinary-evidence/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Extraordinary claims, extraordinary evidence18 Jan 2012 — “Extraordinary claims demand extraordinary levels of evidence if they are to be...</p></details>
+   Link:<a href="https://www.orthocuban.com/2012/01/extraordinary-claims-extraordinary-evidence/" target="_blank" rel="noopener noreferrer nofollow">https://www.orthocuban.com/2012/01/extraordinary-claims-extraordinary-evidence/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Extraordinary claims, extraordinary evidence18 Jan 2012 — “Extraordinary claims demand extraordinary levels of evidence if they are to be...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2025/08/is-extraordinary-evidence-unreasonable/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2025/08/is-extraordinary-evidence-unreasonable/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tics. But it is one that can be counterproductive...</p></details>
+   Link:<a href="https://skepticalinquirer.org/2025/08/is-extraordinary-evidence-unreasonable/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2025/08/is-extraordinary-evidence-unreasonable/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tics. But it is one that can be counterproductive...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: appropedia.org  
-   Link: <a href="https://www.appropedia.org/Appropedia%3ARigor" target="_blank" rel="noopener noreferrer nofollow">https://www.appropedia.org/Appropedia%3ARigor</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mar 30, 2007 — Marcello Truzzi said: &quot;In science, the burden of proof falls upon the claimant; and the more extraordinary a claim, the he...</p></details>
+   Link:<a href="https://www.appropedia.org/Appropedia%3ARigor" target="_blank" rel="noopener noreferrer nofollow">https://www.appropedia.org/Appropedia%3ARigor</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mar 30, 2007 — Marcello Truzzi said: &quot;In science, the burden of proof falls upon the claimant; and the more extraordinary a claim, the he...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: thedailyomnivore.net  
-   Link: <a href="https://thedailyomnivore.net/2013/06/26/pseudoskepticism/" target="_blank" rel="noopener noreferrer nofollow">https://thedailyomnivore.net/2013/06/26/pseudoskepticism/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jun 26, 2013 — He asserts that the claimant has not borne the burden of proof and that science must continue to build its cognitive map o...</p></details>
+   Link:<a href="https://thedailyomnivore.net/2013/06/26/pseudoskepticism/" target="_blank" rel="noopener noreferrer nofollow">https://thedailyomnivore.net/2013/06/26/pseudoskepticism/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jun 26, 2013 — He asserts that the claimant has not borne the burden of proof and that science must continue to build its cognitive map o...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/274408531587/posts/10155274102671588/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/274408531587/posts/10155274102671588/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Marcello Truzzi&#x27;s skepticism of his own phraseSep 12, 2025 — &quot;Extraordinary claims require extraordinary evidence&quot; (sometimes shortened t...</p></details>
+   Link:<a href="https://www.facebook.com/groups/274408531587/posts/10155274102671588/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/274408531587/posts/10155274102671588/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Marcello Truzzi&#x27;s skepticism of his own phraseSep 12, 2025 — &quot;Extraordinary claims require extraordinary evidence&quot; (sometimes shortened t...</p></details>

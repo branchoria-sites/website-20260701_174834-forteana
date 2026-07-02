@@ -451,7 +451,7 @@ Missing-person stories become Fortean when the absence of a clear ending is trea
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_missing_people_retel_d09daa-overview.webp" | relative_url }}" alt="Overview image for Disappearances" loading="eager" decoding="sync" fetchpriority="high">
-[Charles Fort]({{ 'charles-fort/' | relative_url }}) helped define this territory by collecting anomalous reports that seemed rejected or “damned” by official explanation, including disappearances among many other oddities. Modern Fortean reading is most useful when it separates the documented case from the retold legend: what is known, what is inferred, what is rumour, and what has simply become memorable through repetition. Fort’s own method was literary and provocative, not a modern missing-person protocol, so his legacy needs careful handling when real people are involved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2025/02/handbook-for-the-curious-about-the-damned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Open source on skepticalinquirer.org.</span></span></span>
+[Charles Fort]({{ 'charles-fort/' | relative_url }}) helped define this territory by collecting anomalous reports that seemed rejected or “damned” by official explanation, including disappearances among many other oddities. Modern Fortean reading is most useful when it separates the documented case from the retold legend: what is known, what is inferred, what is rumour, and what has simply become memorable through repetition. Fort’s own method was literary and provocative, not a modern missing-person protocol, so his legacy needs careful handling when real people are involved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2025/02/handbook-for-the-curious-about-the-damned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Open source on skepticalinquirer.org.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZDUcA3h5p9M" title="The Book of the Damned (1/2) 🌟 By Charles Fort. FULL Audiobook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZDUcA3h5p9M" target="_blank" rel="noopener noreferrer">The Book of the Damned (1/2) 🌟 By Charles Fort. FULL Audiobook</a></p><p class="youtube-embed-meta">Channel: Audiobooks. Full length, free</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZDUcA3h5p9M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZDUcA3h5p9M">Open on YouTube</a></p></div></div></div>
@@ -460,9 +460,9 @@ Missing-person stories become Fortean when the absence of a clear ending is trea
 
 A missing-person case has two timelines. The first is the event window: the last confirmed sighting, the delay before alarm, the search, the police decisions, the [weather]({{ 'weather/' | relative_url }}), the terrain, and any physical evidence. The second is the retelling timeline: newspaper summaries, anniversary pieces, podcasts, folklore books, online maps, documentaries and speculative threads. Fortean stories often emerge when the second timeline becomes more famous than the first.
 
-The difference matters because small details can harden into “facts” after decades of repetition. A clean room becomes an “interrupted meal”; an official record gap becomes a “cover-up”; a failed search becomes proof that the person could not have died nearby. The [Flannan Isles]({{ 'flannan-isles/' | relative_url }}) lighthouse case shows this clearly. The Northern Lighthouse Board records that three keepers disappeared in December 1900 and that the discovery was made when the lighthouse tender *Hesperus* reached the island on 26 December. The Board’s own history points to severe damage at the west landing, supporting the practical possibility that the men were swept away while attending to storm damage. Later retellings, however, often emphasise eerie domestic details and supernatural atmosphere far more than the official maritime evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nlb.org.uk/history/flannan-isles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nlb.org.uk">[Northern Lighthouse Board+2Open Book]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nlb.org.uk</span><span class="citation-popover-snippet">Open source on nlb.org.uk.</span></span></span>
+The difference matters because small details can harden into “facts” after decades of repetition. A clean room becomes an “interrupted meal”; an official record gap becomes a “cover-up”; a failed search becomes proof that the person could not have died nearby. The [Flannan Isles]({{ 'flannan-isles/' | relative_url }}) lighthouse case shows this clearly. The Northern Lighthouse Board records that three keepers disappeared in December 1900 and that the discovery was made when the lighthouse tender *Hesperus* reached the island on 26 December. The Board’s own history points to severe damage at the west landing, supporting the practical possibility that the men were swept away while attending to storm damage. Later retellings, however, often emphasise eerie domestic details and supernatural atmosphere far more than the official maritime evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nlb.org.uk/history/flannan-isles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nlb.org.uk">[Northern Lighthouse Board+2Open Book]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nlb.org.uk</span><span class="citation-popover-snippet">Open source on nlb.org.uk.</span></span></span>
 
-Paula Jean Welden’s disappearance near [Bennington]({{ 'bennington/' | relative_url }}), Vermont, in 1946 is another useful example. The grounded version is already troubling enough: an 18-year-old Bennington College student went for a walk towards the Long Trail on 1 December, was seen by witnesses, and was never found. The case exposed weaknesses in local law enforcement and helped spur the creation of the Vermont State Police. In later folklore, however, Welden is folded into the “Bennington Triangle”, a cluster of disappearances around Glastenbury Mountain, where the geography itself becomes part of the mystery. Vermont Public’s 2025 reporting notes that of the five people usually included in the Bennington Triangle story, only Welden appears on the current Vermont State Police missing-person list; that does not solve the other cases, but it shows how a folklore cluster can outgrow the official record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vermontpublic.org/podcast/brave-little-state/2025-03-06/the-bennington-triangle-how-5-mysterious-disappearances-developed-a-cult-following-online" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vermontpublic.org">[Vermont Public+2NamUs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vermontpublic.org</span><span class="citation-popover-title">Vermont Public How the &#x27;Bennington Triangle&#x27; developed a cult following</span><span class="citation-popover-snippet">Vermont Public How the &#x27;Bennington Triangle&#x27; developed a cult following</span></span></span>
+Paula Jean Welden’s disappearance near [Bennington]({{ 'bennington/' | relative_url }}), Vermont, in 1946 is another useful example. The grounded version is already troubling enough: an 18-year-old Bennington College student went for a walk towards the Long Trail on 1 December, was seen by witnesses, and was never found. The case exposed weaknesses in local law enforcement and helped spur the creation of the Vermont State Police. In later folklore, however, Welden is folded into the “Bennington Triangle”, a cluster of disappearances around Glastenbury Mountain, where the geography itself becomes part of the mystery. Vermont Public’s 2025 reporting notes that of the five people usually included in the Bennington Triangle story, only Welden appears on the current Vermont State Police missing-person list; that does not solve the other cases, but it shows how a folklore cluster can outgrow the official record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vermontpublic.org/podcast/brave-little-state/2025-03-06/the-bennington-triangle-how-5-mysterious-disappearances-developed-a-cult-following-online" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vermontpublic.org">[Vermont Public+2NamUs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vermontpublic.org</span><span class="citation-popover-title">Vermont Public How the &#x27;Bennington Triangle&#x27; developed a cult following</span><span class="citation-popover-snippet">Vermont Public How the &#x27;Bennington Triangle&#x27; developed a cult following</span></span></span>
 
 This is the central Fortean tension: retellings preserve cases that might otherwise be forgotten, but they can also flatten them into motifs. A person becomes “the girl on the trail”, “the vanished lighthousemen”, “the missing writer”, or “one of the cluster”. The story becomes easier to remember, and sometimes less accurate.
 
@@ -470,15 +470,15 @@ This is the central Fortean tension: retellings preserve cases that might otherw
 <img src="{{ "/assets/images/forteana_50bdc8_missing_people_retel_d09daa-Illustration-1-dark.svg" | relative_url }}" alt="Disappearances illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_missing_people_retel_d09daa-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_missing_people_retel_d09daa-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Search records and missing context
 
-Modern missing-person work is built around risk, welfare and verification. In UK policing guidance, a person is treated as missing when their whereabouts cannot be established and their wellbeing cannot be confirmed; risk assessment is required for every missing report and should be based on the current circumstances rather than assumptions from the past. That is a very different frame from the Fortean habit of asking whether a case “defies explanation”. The operational question is not whether the story feels strange, but what action may find the person or establish what happened. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.college.police.uk/app/major-investigation-and-public-protection/missing-persons/missing-persons-risk-assessment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: college.police.uk">[College of Policing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">college.police.uk</span><span class="citation-popover-title">missing persons risk assessment</span><span class="citation-popover-snippet">missing persons risk assessment</span></span></span>
+Modern missing-person work is built around risk, welfare and verification. In UK policing guidance, a person is treated as missing when their whereabouts cannot be established and their wellbeing cannot be confirmed; risk assessment is required for every missing report and should be based on the current circumstances rather than assumptions from the past. That is a very different frame from the Fortean habit of asking whether a case “defies explanation”. The operational question is not whether the story feels strange, but what action may find the person or establish what happened.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.college.police.uk/app/major-investigation-and-public-protection/missing-persons/missing-persons-risk-assessment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: college.police.uk">[College of Policing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">college.police.uk</span><span class="citation-popover-title">missing persons risk assessment</span><span class="citation-popover-snippet">missing persons risk assessment</span></span></span>
 
-The scale of ordinary missing-person work also changes the meaning of rarity. In the United States, the FBI’s 2024 National Crime Information Center report recorded 533,936 missing-person records entered during the year, while 537,446 were removed, often because the person was located, returned home, or the record was otherwise cleared. At the end of 2024, 93,447 active missing-person records remained in the system. These figures do not make unresolved cases less serious; they show why isolated anecdotes can mislead when they are detached from the large baseline of disappearances, returns, duplicate reports, jurisdictional differences and data limitations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fbi.gov/file-repository/2024-ncic-missing-and-unidentified-person-statistics.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbi.gov</span><span class="citation-popover-title">2024 ncic missing and unidentified person statistics</span><span class="citation-popover-snippet">2024 ncic missing and unidentified person statistics</span></span></span>
+The scale of ordinary missing-person work also changes the meaning of rarity. In the United States, the FBI’s 2024 National Crime Information Center report recorded 533,936 missing-person records entered during the year, while 537,446 were removed, often because the person was located, returned home, or the record was otherwise cleared. At the end of 2024, 93,447 active missing-person records remained in the system. These figures do not make unresolved cases less serious; they show why isolated anecdotes can mislead when they are detached from the large baseline of disappearances, returns, duplicate reports, jurisdictional differences and data limitations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fbi.gov/file-repository/2024-ncic-missing-and-unidentified-person-statistics.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbi.gov</span><span class="citation-popover-title">2024 ncic missing and unidentified person statistics</span><span class="citation-popover-snippet">2024 ncic missing and unidentified person statistics</span></span></span>
 
-Databases help, but they do not remove uncertainty. NamUs, the US National Missing and Unidentified Persons System, describes itself as a national repository and resource centre for missing, unidentified and unclaimed person cases, designed to help investigators match long-term missing people with unidentified remains. Its existence is a corrective to purely anecdotal mystery-making, yet it also shows why records can be patchy: not every old case was documented to modern standards, and not every jurisdiction historically entered information in the same way. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://namus.nij.ojp.gov/%3Cfront%3E" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: namus.nij.ojp.gov">[NamUs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">namus.nij.ojp.gov</span><span class="citation-popover-snippet">Open source on ojp.gov.</span></span></span>
+Databases help, but they do not remove uncertainty. NamUs, the US National Missing and Unidentified Persons System, describes itself as a national repository and resource centre for missing, unidentified and unclaimed person cases, designed to help investigators match long-term missing people with unidentified remains. Its existence is a corrective to purely anecdotal mystery-making, yet it also shows why records can be patchy: not every old case was documented to modern standards, and not every jurisdiction historically entered information in the same way.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://namus.nij.ojp.gov/%3Cfront%3E" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: namus.nij.ojp.gov">[NamUs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">namus.nij.ojp.gov</span><span class="citation-popover-snippet">Open source on ojp.gov.</span></span></span>
 
-Wilderness cases are especially vulnerable to Fortean inflation because search failure can look more mysterious than it is. Search and rescue research treats lost-person behaviour as a practical field of study, not a paranormal puzzle. A 2022 modelling study using wilderness search and rescue data notes that thousands of people are reported lost in US wilderness areas each year and that rapid location depends on understanding how people move when lost. The same study reports that, in US national parks alone between 2004 and 2014, 46,609 people became lost and required a search and rescue campaign. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8990012/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAn agent-based model reveals lost person behavior</span><span class="citation-popover-snippet">PMCAn agent-based model reveals lost person behavior</span></span></span>
+Wilderness cases are especially vulnerable to Fortean inflation because search failure can look more mysterious than it is. Search and rescue research treats lost-person behaviour as a practical field of study, not a paranormal puzzle. A 2022 modelling study using wilderness search and rescue data notes that thousands of people are reported lost in US wilderness areas each year and that rapid location depends on understanding how people move when lost. The same study reports that, in US national parks alone between 2004 and 2014, 46,609 people became lost and required a search and rescue campaign.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8990012/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAn agent-based model reveals lost person behavior</span><span class="citation-popover-snippet">PMCAn agent-based model reveals lost person behavior</span></span></span>
 
-Terrain also hides evidence. Dense canopy, steep ground, water, snow, animal activity, weather and searcher limits can all leave a missing person undiscovered even when the area was searched. Recent search and rescue research into drone-assisted detection under forest canopy stresses that ordinary aerial views can miss people because vegetation conceals the ground-level cues rescuers need. That kind of technical limitation is less dramatic than “vanished without a trace”, but it is often more useful. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2603.02541" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+Terrain also hides evidence. Dense canopy, steep ground, water, snow, animal activity, weather and searcher limits can all leave a missing person undiscovered even when the area was searched. Recent search and rescue research into drone-assisted detection under forest canopy stresses that ordinary aerial views can miss people because vegetation conceals the ground-level cues rescuers need. That kind of technical limitation is less dramatic than “vanished without a trace”, but it is often more useful.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2603.02541" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O_ripUl6oho" title="The Flannan Isles Lighthouse Disappearance | Matt&#x27;s Mysteries 14" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O_ripUl6oho" target="_blank" rel="noopener noreferrer">The Flannan Isles Lighthouse Disappearance | Matt&#x27;s Mysteries 14</a></p><p class="youtube-embed-meta">Channel: Matt&#x27;s Mysteries</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O_ripUl6oho" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O_ripUl6oho">Open on YouTube</a></p></div></div></div>
@@ -489,9 +489,9 @@ Uncertainty is not an empty space; people fill it. Families need answers, invest
 
 First, there is the pressure of narrative neatness. Real missing-person files may contain partial sightings, contradictory witness statements, poor weather, delayed reporting and dead ends. Retellings often trim that mess into a clean sequence: last seen, impossible clue, failed search, enduring mystery. The cleaner the story becomes, the more supernatural it can feel.
 
-Second, there is the pressure of pattern-making. Fort’s famous question about Ambrose Bierce and Ambrose Small — whether “somebody” was collecting Ambroses — is a perfect example of Fortean playfulness becoming a pattern prompt. Bierce, the American writer, disappeared after travelling towards revolutionary Mexico in 1913; Small, a Canadian theatre magnate, vanished in Toronto in 1919. The shared first name is memorable, but it is not evidence of a connected mechanism. It is a literary hook attached to two separate unresolved cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ambrose_Bierce" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ambrose Bierce</span><span class="citation-popover-snippet">Ambrose Bierce</span></span></span>
+Second, there is the pressure of pattern-making. Fort’s famous question about Ambrose Bierce and Ambrose Small — whether “somebody” was collecting Ambroses — is a perfect example of Fortean playfulness becoming a pattern prompt. Bierce, the American writer, disappeared after travelling towards revolutionary Mexico in 1913; Small, a Canadian theatre magnate, vanished in Toronto in 1919. The shared first name is memorable, but it is not evidence of a connected mechanism. It is a literary hook attached to two separate unresolved cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ambrose_Bierce" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ambrose Bierce</span><span class="citation-popover-snippet">Ambrose Bierce</span></span></span>
 
-Third, there is the emotional power of ambiguous loss. Research on families of missing people describes unresolved disappearance as a form of grief that can be frozen by uncertainty. Missing People, the UK charity, explains that relatives may create different versions of the “truth” about the absent person, and that friends and neighbours often do not know how to respond. Clinical and humanitarian literature similarly describes ambiguous loss as a state in which people are caught between hope and despair. Fortean retellings can unintentionally intensify that pain when they treat a loved one’s absence as entertainment or as a prop in a supernatural theory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.missingpeople.org.uk/for-professionals/policy-and-research/information-and-research/what-does-ambiguous-loss-mean" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: missingpeople.org.uk">[Missing People+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">missingpeople.org.uk</span><span class="citation-popover-title">Missing People What does ambiguous loss mean?</span><span class="citation-popover-snippet">Missing People What does ambiguous loss mean?</span></span></span>
+Third, there is the emotional power of ambiguous loss. Research on families of missing people describes unresolved disappearance as a form of grief that can be frozen by uncertainty. Missing People, the UK charity, explains that relatives may create different versions of the “truth” about the absent person, and that friends and neighbours often do not know how to respond. Clinical and humanitarian literature similarly describes ambiguous loss as a state in which people are caught between hope and despair. Fortean retellings can unintentionally intensify that pain when they treat a loved one’s absence as entertainment or as a prop in a supernatural theory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.missingpeople.org.uk/for-professionals/policy-and-research/information-and-research/what-does-ambiguous-loss-mean" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: missingpeople.org.uk">[Missing People+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">missingpeople.org.uk</span><span class="citation-popover-title">Missing People What does ambiguous loss mean?</span><span class="citation-popover-snippet">Missing People What does ambiguous loss mean?</span></span></span>
 
 This does not mean every speculative retelling is cruel or worthless. Some keep cold cases visible. Some challenge complacent official explanations. Some expose real record failures, jurisdictional confusion or institutional indifference. The problem begins when mystery becomes an argument from absence: no body, therefore no ordinary death; no explanation, therefore a hidden force; incomplete records, therefore deliberate suppression.
 
@@ -501,9 +501,9 @@ This does not mean every speculative retelling is cruel or worthless. Some keep 
 
 The clearest recent example of missing-person Forteana is the “[Missing 411]({{ 'missing-411/' | relative_url }})” genre associated with David Paulides, which groups disappearances in national parks, forests and other wild places around recurring motifs: bad weather, difficult terrain, children found far away, missing shoes, proximity to water or boulder fields, and supposed official reluctance to maintain records. Its appeal is easy to understand. It takes real fear — being lost, alone, injured or unseen in a vast landscape — and gives it a pattern.
 
-Some of the underlying concerns are legitimate. The National Park Service’s public pages include missing-person and cold-case material, and its Investigative Services Branch lists unresolved cases involving missing persons, accidents and crimes in parks. FOIA material also shows public interest in whether people reported missing in national parks are captured in accessible records. A recordkeeping gap, however, is not the same thing as evidence for an anomalous cause. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nps.gov/articles/missing-persons-in-the-national-parks.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service+2National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">missing persons in the national parks</span><span class="citation-popover-snippet">missing persons in the national parks</span></span></span>
+Some of the underlying concerns are legitimate. The National Park Service’s public pages include missing-person and cold-case material, and its Investigative Services Branch lists unresolved cases involving missing persons, accidents and crimes in parks. FOIA material also shows public interest in whether people reported missing in national parks are captured in accessible records. A recordkeeping gap, however, is not the same thing as evidence for an anomalous cause.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nps.gov/articles/missing-persons-in-the-national-parks.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service+2National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">missing persons in the national parks</span><span class="citation-popover-snippet">missing persons in the national parks</span></span></span>
 
-Sceptical reviews of Missing 411 have argued that the cases are often presented through selective criteria rather than statistical comparison. *Skeptical Inquirer* summarised data scientist Kyle Polich’s review as finding no genuinely unusual pattern after examining the claims, while Snopes found that a viral cave-system comparison map did not establish the implied connection between missing-person cases and caves. Those critiques do not prove that every individual case has a known explanation. They do show why pattern claims need a denominator: how many people visit the area, how often people get lost, how many are found, what counts as “mysterious”, and whether the selected cases differ from ordinary wilderness incidents. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2017/07/an-investigation-of-the-missing411-conspiracy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Open source on skepticalinquirer.org.</span></span></span>
+Sceptical reviews of Missing 411 have argued that the cases are often presented through selective criteria rather than statistical comparison. *Skeptical Inquirer* summarised data scientist Kyle Polich’s review as finding no genuinely unusual pattern after examining the claims, while Snopes found that a viral cave-system comparison map did not establish the implied connection between missing-person cases and caves. Those critiques do not prove that every individual case has a known explanation. They do show why pattern claims need a denominator: how many people visit the area, how often people get lost, how many are found, what counts as “mysterious”, and whether the selected cases differ from ordinary wilderness incidents.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2017/07/an-investigation-of-the-missing411-conspiracy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Open source on skepticalinquirer.org.</span></span></span>
 
 The risk is that a story can move from “this case is unresolved” to “this case belongs to a hidden class of vanishings” without passing through the boring but necessary checks. Were the records complete? Were the search areas realistic? Was the weather recorded accurately? Were later details added by secondary sources? Was the person’s health, experience, clothing or route known? Did searchers have access to the right terrain? Was there water, exposure, injury risk, voluntary disappearance, suicide, foul play, or simple misadventure to consider?
 
@@ -536,194 +536,194 @@ The strongest Fortean approach is not credulity. It is disciplined uncertainty. 
 <img src="{{ "/assets/images/forteana_50bdc8_missing_people_retel_d09daa-Illustration-3-dark.svg" | relative_url }}" alt="Disappearances illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_missing_people_retel_d09daa-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_missing_people_retel_d09daa-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Disappearances Become Fortean Stories. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Disappearances Become Fortean Stories. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
-        </h4>
-        <p class="fr-book-author">By Charles Fort</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
+</h4>
+<p class="fr-book-author">By Charles Fort</p>
         
-        <p class="fr-book-desc">Foundational work introducing anomalous reports and Fortean thinking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Foundational work introducing anomalous reports and Fortean thinking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Explores why remarkable stories and beliefs persist across generations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Explores why remarkable stories and beliefs persist across generations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The vanishing hitchhiker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4614126-M.jpg" alt="Cover for The vanishing hitchhiker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The vanishing hitchhiker">The vanishing hitchhiker</a>
-        </h4>
-        <p class="fr-book-author">By Jan Harold Brunvand</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The vanishing hitchhiker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4614126-M.jpg" alt="Cover for The vanishing hitchhiker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The vanishing hitchhiker">The vanishing hitchhiker</a>
+</h4>
+<p class="fr-book-author">By Jan Harold Brunvand</p>
         
-        <p class="fr-book-desc">First published 1981. Subjects: History and criticism, Legends, Urban folklore, Légendes, Folklore urbain.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1981. Subjects: History and criticism, Legends, Urban folklore, Légendes, Folklore urbain.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+world+of+Lore+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The world of Lore on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14362649-M.jpg" alt="Cover for The world of Lore" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+world+of+Lore+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world of Lore">The world of Lore</a>
-        </h4>
-        <p class="fr-book-author">By Aaron Mahnke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+world+of+Lore+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The world of Lore on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14362649-M.jpg" alt="Cover for The world of Lore" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+world+of+Lore+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world of Lore">The world of Lore</a>
+</h4>
+<p class="fr-book-author">By Aaron Mahnke</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Ghosts, Haunted places.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+world+of+Lore+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Ghosts, Haunted places.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+world+of+Lore+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+vanishing+hitchhiker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The vanishing hitchhiker</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+vanishing+hitchhiker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The vanishing hitchhiker</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1961 MISSING PERSONS RETAIL STORE LITHO POSTER - UK Design USA Printing 28x54”"><img src="{{ '/assets/images/marketplace-covers/253e2b7699229a0416af.jpg' | relative_url }}" alt="Listing image for 1961 MISSING PERSONS RETAIL STORE LITHO POSTER - UK Design USA Printing 28x54”" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">1961 MISSING PERSONS RETAIL STORE LITHO POSTER - UK Design USA Printing 28x54”</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missing persons poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: missing persons poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1961 MISSING PERSONS RETAIL STORE LITHO POSTER - UK Design USA Printing 28x54”"><img src="{{ '/assets/images/marketplace-covers/253e2b7699229a0416af.jpg' | relative_url }}" alt="Listing image for 1961 MISSING PERSONS RETAIL STORE LITHO POSTER - UK Design USA Printing 28x54”" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">1961 MISSING PERSONS RETAIL STORE LITHO POSTER - UK Design USA Printing 28x54”</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missing persons poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: missing persons poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/064f13354b9b88e64041.jpg' | relative_url }}" alt="Listing image for Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missing persons poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: missing persons poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/064f13354b9b88e64041.jpg' | relative_url }}" alt="Listing image for Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missing persons poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: missing persons poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1c4d78cf65d0439dd374.jpg' | relative_url }}" alt="Listing image for Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missing persons poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: missing persons poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1c4d78cf65d0439dd374.jpg' | relative_url }}" alt="Listing image for Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missing persons poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: missing persons poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Missing Persons Concert Poster Greek Theatre"><img src="{{ '/assets/images/marketplace-covers/b139e6959141b1a0be5d.jpg' | relative_url }}" alt="Listing image for Missing Persons Concert Poster Greek Theatre" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">Missing Persons Concert Poster Greek Theatre</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missing persons poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: missing persons poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Missing Persons Concert Poster Greek Theatre"><img src="{{ '/assets/images/marketplace-covers/b139e6959141b1a0be5d.jpg' | relative_url }}" alt="Listing image for Missing Persons Concert Poster Greek Theatre" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">Missing Persons Concert Poster Greek Theatre</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missing persons poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: missing persons poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="disappearances-when-disappearances-become-fortean-stories-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -739,7 +739,7 @@ The strongest Fortean approach is not credulity. It is disciplined uncertainty. 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -759,7 +759,7 @@ The strongest Fortean approach is not credulity. It is disciplined uncertainty. 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -791,7 +791,7 @@ The strongest Fortean approach is not credulity. It is disciplined uncertainty. 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -843,7 +843,7 @@ The strongest Fortean approach is not credulity. It is disciplined uncertainty. 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -888,7 +888,7 @@ The strongest Fortean approach is not credulity. It is disciplined uncertainty. 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -929,280 +929,280 @@ The strongest Fortean approach is not credulity. It is disciplined uncertainty. 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2025/02/handbook-for-the-curious-about-the-damned/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2025/02/handbook-for-the-curious-about-the-damned/</a>  
+   Link:<a href="https://skepticalinquirer.org/2025/02/handbook-for-the-curious-about-the-damned/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2025/02/handbook-for-the-curious-about-the-damned/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: college.police.uk  
    Title: missing persons risk assessment  
-   Link: <a href="https://www.college.police.uk/app/major-investigation-and-public-protection/missing-persons/missing-persons-risk-assessment" target="_blank" rel="noopener noreferrer nofollow">https://www.college.police.uk/app/major-investigation-and-public-protection/missing-persons/missing-persons-risk-assessment</a>  
+   Link:<a href="https://www.college.police.uk/app/major-investigation-and-public-protection/missing-persons/missing-persons-risk-assessment" target="_blank" rel="noopener noreferrer nofollow">https://www.college.police.uk/app/major-investigation-and-public-protection/missing-persons/missing-persons-risk-assessment</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: kent.police.uk  
    Title: Crime and intelligence  
-   Link: <a href="https://www.kent.police.uk/foi-ai/kent-police/Policy/crime-and-intelligence/missing-persons-police-n08/" target="_blank" rel="noopener noreferrer nofollow">https://www.kent.police.uk/foi-ai/kent-police/Policy/crime-and-intelligence/missing-persons-police-n08/</a>  
+   Link:<a href="https://www.kent.police.uk/foi-ai/kent-police/Policy/crime-and-intelligence/missing-persons-police-n08/" target="_blank" rel="noopener noreferrer nofollow">https://www.kent.police.uk/foi-ai/kent-police/Policy/crime-and-intelligence/missing-persons-police-n08/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: fbi.gov  
    Title: 2024 ncic missing and unidentified person statistics  
-   Link: <a href="https://www.fbi.gov/file-repository/2024-ncic-missing-and-unidentified-person-statistics.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/file-repository/2024-ncic-missing-and-unidentified-person-statistics.pdf</a>  
+   Link:<a href="https://www.fbi.gov/file-repository/2024-ncic-missing-and-unidentified-person-statistics.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/file-repository/2024-ncic-missing-and-unidentified-person-statistics.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAn agent-based model reveals lost person behavior  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8990012/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8990012/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8990012/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8990012/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2603.02541" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.02541</a>  
+   Link:<a href="https://arxiv.org/abs/2603.02541" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.02541</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Ambrose Bierce  
-   Link: <a href="https://en.wikipedia.org/wiki/Ambrose_Bierce" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ambrose_Bierce</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ambrose_Bierce" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ambrose_Bierce</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCLocked in grief: a qualitative study of grief among family  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8555241/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8555241/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8555241/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8555241/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2017/07/an-investigation-of-the-missing411-conspiracy/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/07/an-investigation-of-the-missing411-conspiracy/</a>  
+   Link:<a href="https://skepticalinquirer.org/2017/07/an-investigation-of-the-missing411-conspiracy/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/07/an-investigation-of-the-missing411-conspiracy/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: snopes.com  
    Title: missing persons cave maps  
-   Link: <a href="https://www.snopes.com/fact-check/missing-persons-cave-maps/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/fact-check/missing-persons-cave-maps/</a>  
+   Link:<a href="https://www.snopes.com/fact-check/missing-persons-cave-maps/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/fact-check/missing-persons-cave-maps/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: [The Book](&#123;&#123; 'the-book/' | relative_url &#125;&#125;) of the Damned  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Book_of_the_Damned" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Book_of_the_Damned</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Book_of_the_Damned" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Book_of_the_Damned</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: List of people who disappeared mysteriously (pre 1910)  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_people_who_disappeared_mysteriously_%28pre-1910%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_people_who_disappeared_mysteriously_%28pre-1910%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_people_who_disappeared_mysteriously_%28pre-1910%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_people_who_disappeared_mysteriously_%28pre-1910%29</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: David Paulides  
-   Link: <a href="https://en.wikipedia.org/wiki/David_Paulides" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/David_Paulides</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/David_Paulides" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/David_Paulides</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Disappearance of Paula Jean Welden  
-   Link: <a href="https://en.wikipedia.org/wiki/Disappearance_of_Paula_Jean_Welden" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disappearance_of_Paula_Jean_Welden</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Disappearance_of_Paula_Jean_Welden" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disappearance_of_Paula_Jean_Welden</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Bennington Triangle  
-   Link: <a href="https://en.wikipedia.org/wiki/Bennington_Triangle" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bennington_Triangle</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Bennington_Triangle" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bennington_Triangle</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: National Missing and Unidentified Persons System  
-   Link: <a href="https://en.wikipedia.org/wiki/National_Missing_and_Unidentified_Persons_System" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Missing_and_Unidentified_Persons_System</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/National_Missing_and_Unidentified_Persons_System" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Missing_and_Unidentified_Persons_System</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Flannan Isles Lighthouse  
-   Link: <a href="https://en.wikipedia.org/wiki/Flannan_Isles_Lighthouse" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flannan_Isles_Lighthouse</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Flannan_Isles_Lighthouse" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flannan_Isles_Lighthouse</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: leb.fbi.gov  
    Title: february 1947  
-   Link: <a href="https://leb.fbi.gov/file-repository/archives/february-1947.pdf" target="_blank" rel="noopener noreferrer nofollow">https://leb.fbi.gov/file-repository/archives/february-1947.pdf</a>  
+   Link:<a href="https://leb.fbi.gov/file-repository/archives/february-1947.pdf" target="_blank" rel="noopener noreferrer nofollow">https://leb.fbi.gov/file-repository/archives/february-1947.pdf</a>  
    Published: february 1947  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: fbi.gov  
-   Link: <a href="https://www.fbi.gov/file-repository/cjis/2024-ncic-missing-and-unidentified-person-statistics.pdf/view" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/file-repository/cjis/2024-ncic-missing-and-unidentified-person-statistics.pdf/view</a>  
+   Link:<a href="https://www.fbi.gov/file-repository/cjis/2024-ncic-missing-and-unidentified-person-statistics.pdf/view" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/file-repository/cjis/2024-ncic-missing-and-unidentified-person-statistics.pdf/view</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: fbi.gov  
-   Link: <a href="https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/library" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/library</a>  
+   Link:<a href="https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/library" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/library</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: namus.gov  
    Title: Nam Us.gov (missing persons database)No information is available for this page  
-   Link: <a href="https://www.namus.gov/MissingPersons/Search" target="_blank" rel="noopener noreferrer nofollow">https://www.namus.gov/MissingPersons/Search</a>  
+   Link:<a href="https://www.namus.gov/MissingPersons/Search" target="_blank" rel="noopener noreferrer nofollow">https://www.namus.gov/MissingPersons/Search</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: college.police.uk  
    Title: missing persons making risk assessment decisions  
-   Link: <a href="https://www.college.police.uk/article/missing-persons-making-risk-assessment-decisions" target="_blank" rel="noopener noreferrer nofollow">https://www.college.police.uk/article/missing-persons-making-risk-assessment-decisions</a>  
+   Link:<a href="https://www.college.police.uk/article/missing-persons-making-risk-assessment-decisions" target="_blank" rel="noopener noreferrer nofollow">https://www.college.police.uk/article/missing-persons-making-risk-assessment-decisions</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: college.police.uk  
    Title: investigating missing children and adults five things you need know  
-   Link: <a href="https://www.college.police.uk/article/investigating-missing-children-and-adults-five-things-you-need-know" target="_blank" rel="noopener noreferrer nofollow">https://www.college.police.uk/article/investigating-missing-children-and-adults-five-things-you-need-know</a>  
+   Link:<a href="https://www.college.police.uk/article/investigating-missing-children-and-adults-five-things-you-need-know" target="_blank" rel="noopener noreferrer nofollow">https://www.college.police.uk/article/investigating-missing-children-and-adults-five-things-you-need-know</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: cleveland.police.uk  
-   Link: <a href="https://www.cleveland.police.uk/SysSiteAssets/foi-media/cleveland/publication-scheme/our-policies-and-procedures/63-missing-person-policy-v4.1_redacted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cleveland.police.uk/SysSiteAssets/foi-media/cleveland/publication-scheme/our-policies-and-procedures/63-missing-person-policy-v4.1_redacted.pdf</a>  
+   Link:<a href="https://www.cleveland.police.uk/SysSiteAssets/foi-media/cleveland/publication-scheme/our-policies-and-procedures/63-missing-person-policy-v4.1_redacted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cleveland.police.uk/SysSiteAssets/foi-media/cleveland/publication-scheme/our-policies-and-procedures/63-missing-person-policy-v4.1_redacted.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: sussex.police.uk  
    Title: missing persons policy 558  
-   Link: <a href="https://www.sussex.police.uk/SysSiteAssets/foi-media/sussex/policies/missing-persons-policy-558.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sussex.police.uk/SysSiteAssets/foi-media/sussex/policies/missing-persons-policy-558.pdf</a>  
+   Link:<a href="https://www.sussex.police.uk/SysSiteAssets/foi-media/sussex/policies/missing-persons-policy-558.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sussex.police.uk/SysSiteAssets/foi-media/sussex/policies/missing-persons-policy-558.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: nlb.org.uk  
-   Link: <a href="https://www.nlb.org.uk/history/flannan-isles/" target="_blank" rel="noopener noreferrer nofollow">https://www.nlb.org.uk/history/flannan-isles/</a>  
+   Link:<a href="https://www.nlb.org.uk/history/flannan-isles/" target="_blank" rel="noopener noreferrer nofollow">https://www.nlb.org.uk/history/flannan-isles/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: blog.nrscotland.gov.uk  
    Title: flannan isles lighthouse keepers the disappearance  
-   Link: <a href="https://blog.nrscotland.gov.uk/2023/12/12/flannan-isles-lighthouse-keepers-the-disappearance/" target="_blank" rel="noopener noreferrer nofollow">https://blog.nrscotland.gov.uk/2023/12/12/flannan-isles-lighthouse-keepers-the-disappearance/</a>  
+   Link:<a href="https://blog.nrscotland.gov.uk/2023/12/12/flannan-isles-lighthouse-keepers-the-disappearance/" target="_blank" rel="noopener noreferrer nofollow">https://blog.nrscotland.gov.uk/2023/12/12/flannan-isles-lighthouse-keepers-the-disappearance/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: vermontpublic.org  
    Title: Vermont Public How the 'Bennington Triangle' developed a cult following  
-   Link: <a href="https://www.vermontpublic.org/podcast/brave-little-state/2025-03-06/the-bennington-triangle-how-5-mysterious-disappearances-developed-a-cult-following-online" target="_blank" rel="noopener noreferrer nofollow">https://www.vermontpublic.org/podcast/brave-little-state/2025-03-06/the-bennington-triangle-how-5-mysterious-disappearances-developed-a-cult-following-online</a>  
+   Link:<a href="https://www.vermontpublic.org/podcast/brave-little-state/2025-03-06/the-bennington-triangle-how-5-mysterious-disappearances-developed-a-cult-following-online" target="_blank" rel="noopener noreferrer nofollow">https://www.vermontpublic.org/podcast/brave-little-state/2025-03-06/the-bennington-triangle-how-5-mysterious-disappearances-developed-a-cult-following-online</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: namus.nij.ojp.gov  
-   Link: <a href="https://namus.nij.ojp.gov/case/MP40143" target="_blank" rel="noopener noreferrer nofollow">https://namus.nij.ojp.gov/case/MP40143</a>  
+   Link:<a href="https://namus.nij.ojp.gov/case/MP40143" target="_blank" rel="noopener noreferrer nofollow">https://namus.nij.ojp.gov/case/MP40143</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: charleyproject.org  
    Title: paula jean welden  
-   Link: <a href="https://charleyproject.org/case/paula-jean-welden" target="_blank" rel="noopener noreferrer nofollow">https://charleyproject.org/case/paula-jean-welden</a>  
+   Link:<a href="https://charleyproject.org/case/paula-jean-welden" target="_blank" rel="noopener noreferrer nofollow">https://charleyproject.org/case/paula-jean-welden</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: namus.nij.ojp.gov  
-   Link: <a href="https://namus.nij.ojp.gov/%3Cfront%3E" target="_blank" rel="noopener noreferrer nofollow">https://namus.nij.ojp.gov/%3Cfront%3E</a>  
+   Link:<a href="https://namus.nij.ojp.gov/%3Cfront%3E" target="_blank" rel="noopener noreferrer nofollow">https://namus.nij.ojp.gov/%3Cfront%3E</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: namus.nij.ojp.gov  
    Title: Nam Us Reports & Statistics | Nam Us  
-   Link: <a href="https://namus.nij.ojp.gov/library/reports-and-statistics" target="_blank" rel="noopener noreferrer nofollow">https://namus.nij.ojp.gov/library/reports-and-statistics</a>  
+   Link:<a href="https://namus.nij.ojp.gov/library/reports-and-statistics" target="_blank" rel="noopener noreferrer nofollow">https://namus.nij.ojp.gov/library/reports-and-statistics</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: missingpeople.org.uk  
    Title: Missing People What does ambiguous loss mean?  
-   Link: <a href="https://www.missingpeople.org.uk/for-professionals/policy-and-research/information-and-research/what-does-ambiguous-loss-mean" target="_blank" rel="noopener noreferrer nofollow">https://www.missingpeople.org.uk/for-professionals/policy-and-research/information-and-research/what-does-ambiguous-loss-mean</a>  
+   Link:<a href="https://www.missingpeople.org.uk/for-professionals/policy-and-research/information-and-research/what-does-ambiguous-loss-mean" target="_blank" rel="noopener noreferrer nofollow">https://www.missingpeople.org.uk/for-professionals/policy-and-research/information-and-research/what-does-ambiguous-loss-mean</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: icrc.org  
-   Link: <a href="https://www.icrc.org/sites/default/files/media_file/2025-08/Colombo_Ambiguous_Loss.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icrc.org/sites/default/files/media_file/2025-08/Colombo_Ambiguous_Loss.pdf</a>  
+   Link:<a href="https://www.icrc.org/sites/default/files/media_file/2025-08/Colombo_Ambiguous_Loss.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icrc.org/sites/default/files/media_file/2025-08/Colombo_Ambiguous_Loss.pdf</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: nps.gov  
    Title: missing persons in the national parks  
-   Link: <a href="https://www.nps.gov/articles/missing-persons-in-the-national-parks.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/articles/missing-persons-in-the-national-parks.htm</a>  
+   Link:<a href="https://www.nps.gov/articles/missing-persons-in-the-national-parks.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/articles/missing-persons-in-the-national-parks.htm</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: nps.gov  
    Title: National Park Service Cold Cases  
-   Link: <a href="https://www.nps.gov/orgs/1563/cold-cases.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/orgs/1563/cold-cases.htm</a>  
+   Link:<a href="https://www.nps.gov/orgs/1563/cold-cases.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/orgs/1563/cold-cases.htm</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10894063/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10894063/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10894063/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10894063/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: nationalcrimeagency.gov.uk  
-   Link: <a href="https://www.nationalcrimeagency.gov.uk/find-support/downloads" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalcrimeagency.gov.uk/find-support/downloads</a>  
+   Link:<a href="https://www.nationalcrimeagency.gov.uk/find-support/downloads" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalcrimeagency.gov.uk/find-support/downloads</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: bol.com  
    Title: Missing People: True Case Studies of Unexplained  
-   Link: <a href="https://www.bol.com/nl/nl/p/missing-people-true-case-studies-of-unexplained-disappearances/9300000258400346/" target="_blank" rel="noopener noreferrer nofollow">https://www.bol.com/nl/nl/p/missing-people-true-case-studies-of-unexplained-disappearances/9300000258400346/</a>  
+   Link:<a href="https://www.bol.com/nl/nl/p/missing-people-true-case-studies-of-unexplained-disappearances/9300000258400346/" target="_blank" rel="noopener noreferrer nofollow">https://www.bol.com/nl/nl/p/missing-people-true-case-studies-of-unexplained-disappearances/9300000258400346/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/122673731818386/posts/1713328492752894/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/122673731818386/posts/1713328492752894/</a>  
+   Link:<a href="https://www.facebook.com/groups/122673731818386/posts/1713328492752894/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/122673731818386/posts/1713328492752894/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: nrscotland.gov.uk  
    Title: flannan isles disappearance among records going on display  
-   Link: <a href="https://www.nrscotland.gov.uk/latest-news/flannan-isles-disappearance-among-records-going-on-display/" target="_blank" rel="noopener noreferrer nofollow">https://www.nrscotland.gov.uk/latest-news/flannan-isles-disappearance-among-records-going-on-display/</a>  
+   Link:<a href="https://www.nrscotland.gov.uk/latest-news/flannan-isles-disappearance-among-records-going-on-display/" target="_blank" rel="noopener noreferrer nofollow">https://www.nrscotland.gov.uk/latest-news/flannan-isles-disappearance-among-records-going-on-display/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: newenglandhistoricalsociety.com  
    Title: missing person  
-   Link: <a href="https://newenglandhistoricalsociety.com/tag/missing-person/" target="_blank" rel="noopener noreferrer nofollow">https://newenglandhistoricalsociety.com/tag/missing-person/</a>  
+   Link:<a href="https://newenglandhistoricalsociety.com/tag/missing-person/" target="_blank" rel="noopener noreferrer nofollow">https://newenglandhistoricalsociety.com/tag/missing-person/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: missingpeople.org.uk  
-   Link: <a href="https://www.missingpeople.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.missingpeople.org.uk/</a>  
+   Link:<a href="https://www.missingpeople.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.missingpeople.org.uk/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: nij.ojp.gov  
-   Link: <a href="https://nij.ojp.gov/namus" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/namus</a>  
+   Link:<a href="https://nij.ojp.gov/namus" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/namus</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: explore-education-statistics.service.gov.uk  
    Title: CL A who were missing  
-   Link: <a href="https://explore-education-statistics.service.gov.uk/data-catalogue/data-set/7c90c126-ed22-4e61-9bfe-ad84f780291b" target="_blank" rel="noopener noreferrer nofollow">https://explore-education-statistics.service.gov.uk/data-catalogue/data-set/7c90c126-ed22-4e61-9bfe-ad84f780291b</a>  
+   Link:<a href="https://explore-education-statistics.service.gov.uk/data-catalogue/data-set/7c90c126-ed22-4e61-9bfe-ad84f780291b" target="_blank" rel="noopener noreferrer nofollow">https://explore-education-statistics.service.gov.uk/data-catalogue/data-set/7c90c126-ed22-4e61-9bfe-ad84f780291b</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: ons.gov.uk  
-   Link: <a href="https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/missingpersonsdataforthelastthirtyyears" target="_blank" rel="noopener noreferrer nofollow">https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/missingpersonsdataforthelastthirtyyears</a>  
+   Link:<a href="https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/missingpersonsdataforthelastthirtyyears" target="_blank" rel="noopener noreferrer nofollow">https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/missingpersonsdataforthelastthirtyyears</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: nps.gov  
-   Link: <a href="https://www.nps.gov/aboutus/foia/foia-frd.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/aboutus/foia/foia-frd.htm</a>  
+   Link:<a href="https://www.nps.gov/aboutus/foia/foia-frd.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/aboutus/foia/foia-frd.htm</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/report-missing-person" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/report-missing-person</a>  
+   Link:<a href="https://www.gov.uk/report-missing-person" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/report-missing-person</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: rti.org  
    Title: namus national missing unidentified persons system  
-   Link: <a href="https://www.rti.org/impact/namus-national-missing-unidentified-persons-system" target="_blank" rel="noopener noreferrer nofollow">https://www.rti.org/impact/namus-national-missing-unidentified-persons-system</a>  
+   Link:<a href="https://www.rti.org/impact/namus-national-missing-unidentified-persons-system" target="_blank" rel="noopener noreferrer nofollow">https://www.rti.org/impact/namus-national-missing-unidentified-persons-system</a>  
 
 ### Additional References
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: youtube.com  
    Title: The Flannan Isles Lighthouse Disappearance | Matt's Mysteries 14  
-   Link: <a href="https://www.youtube.com/watch?v=O_ripUl6oho" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O_ripUl6oho</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE FLANNAN ISLES VANISHING: TAKEN BY THE SEA | Detective Ridiculous...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=O_ripUl6oho" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O_ripUl6oho</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE FLANNAN ISLES VANISHING: TAKEN BY THE SEA | Detective Ridiculous...</p></details>
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: youtube.com  
    Title: Missing Lighthouse Keepers Mystery  
-   Link: <a href="https://www.youtube.com/watch?v=Ff58NRJzg0E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ff58NRJzg0E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Flannan Isles Lighthouse Disappearance | Matt&#x27;s Mysteries 14...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ff58NRJzg0E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ff58NRJzg0E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Flannan Isles Lighthouse Disappearance | Matt&#x27;s Mysteries 14...</p></details>
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: youtube.com  
    Title: THE FLANNAN ISLES VANISHING: TAKEN BY THE SEA | Detective Ridiculous  
-   Link: <a href="https://www.youtube.com/watch?v=yjs4TSmwhUg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yjs4TSmwhUg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE BOOK OF THE DAMNED Part 1 of 2 - FULL AudioBook...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yjs4TSmwhUg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yjs4TSmwhUg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE BOOK OF THE DAMNED Part 1 of 2 - FULL AudioBook...</p></details>
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: bia.gov  
-   Link: <a href="https://www.bia.gov/service/mmu/national-missing-and-unidentified-persons-system-namus" target="_blank" rel="noopener noreferrer nofollow">https://www.bia.gov/service/mmu/national-missing-and-unidentified-persons-system-namus</a>  
+   Link:<a href="https://www.bia.gov/service/mmu/national-missing-and-unidentified-persons-system-namus" target="_blank" rel="noopener noreferrer nofollow">https://www.bia.gov/service/mmu/national-missing-and-unidentified-persons-system-namus</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: youtube.com  
    Title: THE BOOK OF THE DAMNED Part 1 of 2  
-   Link: <a href="https://www.youtube.com/watch?v=IOXmui2szII" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IOXmui2szII</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Flannan Isles Mystery | STUFF YOU SHOULD KNOW...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=IOXmui2szII" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IOXmui2szII</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Flannan Isles Mystery | STUFF YOU SHOULD KNOW...</p></details>
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/TrueCrimeBullshit/comments/14pu32l/missing_411_and_national_park_disappearances/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/TrueCrimeBullshit/comments/14pu32l/missing_411_and_national_park_disappearances/</a>  
+   Link:<a href="https://www.reddit.com/r/TrueCrimeBullshit/comments/14pu32l/missing_411_and_national_park_disappearances/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/TrueCrimeBullshit/comments/14pu32l/missing_411_and_national_park_disappearances/</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/359804013_An_agent-based_model_reveals_lost_person_behavior_based_on_data_from_wilderness_search_and_rescue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/359804013_An_agent-based_model_reveals_lost_person_behavior_based_on_data_from_wilderness_search_and_rescue</a>  
+   Link:<a href="https://www.researchgate.net/publication/359804013_An_agent-based_model_reveals_lost_person_behavior_based_on_data_from_wilderness_search_and_rescue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/359804013_An_agent-based_model_reveals_lost_person_behavior_based_on_data_from_wilderness_search_and_rescue</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/251736/The_Vanishing_Lighthousemen_of_Eilean_M%C3%B2r" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/251736/The_Vanishing_Lighthousemen_of_Eilean_M%C3%B2r</a>  
+   Link:<a href="https://www.academia.edu/251736/The_Vanishing_Lighthousemen_of_Eilean_M%C3%B2r" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/251736/The_Vanishing_Lighthousemen_of_Eilean_M%C3%B2r</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: missed.org.au  
-   Link: <a href="https://missed.org.au/support/alm-ambiguous-loss-101/" target="_blank" rel="noopener noreferrer nofollow">https://missed.org.au/support/alm-ambiguous-loss-101/</a>  
+   Link:<a href="https://missed.org.au/support/alm-ambiguous-loss-101/" target="_blank" rel="noopener noreferrer nofollow">https://missed.org.au/support/alm-ambiguous-loss-101/</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: core.ac.uk  
-   Link: <a href="https://core.ac.uk/download/pdf/232566014.pdf" target="_blank" rel="noopener noreferrer nofollow">https://core.ac.uk/download/pdf/232566014.pdf</a>  
+   Link:<a href="https://core.ac.uk/download/pdf/232566014.pdf" target="_blank" rel="noopener noreferrer nofollow">https://core.ac.uk/download/pdf/232566014.pdf</a>  

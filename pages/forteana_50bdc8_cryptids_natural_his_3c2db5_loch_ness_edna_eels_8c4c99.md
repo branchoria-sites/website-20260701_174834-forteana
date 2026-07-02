@@ -280,24 +280,24 @@ image: /assets/images/forteana_50bdc8_cryptids_natural_his_3c2db5_loch_ness_edna
 
 ## Introduction
 
-The environmental DNA (eDNA) survey of [Loch Ness]({{ 'loch-ness/' | relative_url }}) is one of the most important scientific investigations ever applied to a famous cryptid. Rather than searching for a creature directly, researchers sampled traces of genetic material left behind in the water by organisms living in or passing through the loch. The results did not solve every Loch Ness sighting, but they significantly narrowed the range of biologically plausible explanations. They found no evidence for large reptiles such as a surviving plesiosaur, nor for several other commonly proposed candidates, while discovering that eel DNA was abundant throughout the loch. That finding did not demonstrate that "Nessie" is a giant eel, but it shifted discussion from prehistoric monsters towards an explanation involving an ordinary species whose appearance could sometimes be mistaken under unusual conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otago.ac.nz">[University of Otago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otago.ac.nz</span><span class="citation-popover-title">first edna study of loch ness points to something fishy</span><span class="citation-popover-snippet">University of OtagoFirst eDNA Study Of Loch Ness Points To Something FishySep 5, 2019 — University of Otago geneticist, Professor Neil Ge...</span></span></span>
+The environmental DNA (eDNA) survey of [Loch Ness]({{ 'loch-ness/' | relative_url }}) is one of the most important scientific investigations ever applied to a famous cryptid. Rather than searching for a creature directly, researchers sampled traces of genetic material left behind in the water by organisms living in or passing through the loch. The results did not solve every Loch Ness sighting, but they significantly narrowed the range of biologically plausible explanations. They found no evidence for large reptiles such as a surviving plesiosaur, nor for several other commonly proposed candidates, while discovering that eel DNA was abundant throughout the loch. That finding did not demonstrate that "Nessie" is a giant eel, but it shifted discussion from prehistoric monsters towards an explanation involving an ordinary species whose appearance could sometimes be mistaken under unusual conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otago.ac.nz">[University of Otago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otago.ac.nz</span><span class="citation-popover-title">first edna study of loch ness points to something fishy</span><span class="citation-popover-snippet">University of OtagoFirst eDNA Study Of Loch Ness Points To Something FishySep 5, 2019 — University of Otago geneticist, Professor Neil Ge...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_cryptids_natural_his_3c2db5_loch_ness_edna_eels_8c4c99-Illustration-1-dark.svg" | relative_url }}" alt="Ness DNA illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_cryptids_natural_his_3c2db5_loch_ness_edna_eels_8c4c99-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_cryptids_natural_his_3c2db5_loch_ness_edna_eels_8c4c99-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What environmental DNA can and cannot detect
 
-Environmental DNA is genetic material that organisms continually shed into their surroundings through skin cells, mucus, waste, eggs and other biological material. In aquatic environments, these traces can be collected by filtering water and sequencing the DNA fragments they contain. Because each species has distinctive genetic markers, researchers can reconstruct much of a lake's biodiversity without needing to capture every animal directly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otago.ac.nz">[University of Otago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otago.ac.nz</span><span class="citation-popover-title">first edna study of loch ness points to something fishy</span><span class="citation-popover-snippet">University of OtagoFirst eDNA Study Of Loch Ness Points To Something FishySep 5, 2019 — University of Otago geneticist, Professor Neil Ge...</span></span></span>
+Environmental DNA is genetic material that organisms continually shed into their surroundings through skin cells, mucus, waste, eggs and other biological material. In aquatic environments, these traces can be collected by filtering water and sequencing the DNA fragments they contain. Because each species has distinctive genetic markers, researchers can reconstruct much of a lake's biodiversity without needing to capture every animal directly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otago.ac.nz">[University of Otago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otago.ac.nz</span><span class="citation-popover-title">first edna study of loch ness points to something fishy</span><span class="citation-popover-snippet">University of OtagoFirst eDNA Study Of Loch Ness Points To Something FishySep 5, 2019 — University of Otago geneticist, Professor Neil Ge...</span></span></span>
 
-In 2018, Professor Neil Gemmell and colleagues collected around 250 water samples from multiple locations and depths across Loch Ness. Their analysis identified roughly 3,000 species or taxonomic groups represented in the DNA recovered from the loch. The survey was designed as a biodiversity study rather than a dedicated monster hunt, although the famous legend provided an opportunity to demonstrate the capabilities of eDNA research to a global audience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otago.ac.nz">[University of Otago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otago.ac.nz</span><span class="citation-popover-title">first edna study of loch ness points to something fishy</span><span class="citation-popover-snippet">University of OtagoFirst eDNA Study Of Loch Ness Points To Something FishySep 5, 2019 — University of Otago geneticist, Professor Neil Ge...</span></span></span>
+In 2018, Professor Neil Gemmell and colleagues collected around 250 water samples from multiple locations and depths across Loch Ness. Their analysis identified roughly 3,000 species or taxonomic groups represented in the DNA recovered from the loch. The survey was designed as a biodiversity study rather than a dedicated monster hunt, although the famous legend provided an opportunity to demonstrate the capabilities of eDNA research to a global audience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otago.ac.nz">[University of Otago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otago.ac.nz</span><span class="citation-popover-title">first edna study of loch ness points to something fishy</span><span class="citation-popover-snippet">University of OtagoFirst eDNA Study Of Loch Ness Points To Something FishySep 5, 2019 — University of Otago geneticist, Professor Neil Ge...</span></span></span>
 
-The study's strongest conclusions were negative ones. Researchers found no detectable DNA consistent with large reptiles, making the long-popular surviving plesiosaur hypothesis highly implausible. They likewise found no evidence supporting populations of sharks, catfish or sturgeon—animals that have occasionally been proposed as explanations for unusual sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otago.ac.nz">[University of Otago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otago.ac.nz</span><span class="citation-popover-title">first edna study of loch ness points to something fishy</span><span class="citation-popover-snippet">University of OtagoFirst eDNA Study Of Loch Ness Points To Something FishySep 5, 2019 — University of Otago geneticist, Professor Neil Ge...</span></span></span>
+The study's strongest conclusions were negative ones. Researchers found no detectable DNA consistent with large reptiles, making the long-popular surviving plesiosaur hypothesis highly implausible. They likewise found no evidence supporting populations of sharks, catfish or sturgeon—animals that have occasionally been proposed as explanations for unusual sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otago.ac.nz">[University of Otago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otago.ac.nz</span><span class="citation-popover-title">first edna study of loch ness points to something fishy</span><span class="citation-popover-snippet">University of OtagoFirst eDNA Study Of Loch Ness Points To Something FishySep 5, 2019 — University of Otago geneticist, Professor Neil Ge...</span></span></span>
 
 However, eDNA has important limitations:
 
 * It identifies species that have left detectable genetic traces, not individual animals.
 * Failure to detect DNA is strong evidence against a substantial resident population but is not absolute proof that no individual organism has ever entered the loch.
 * The method cannot estimate body size from DNA alone.
-* It cannot determine which animal, if any, produced a reported sighting decades earlier. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otago.ac.nz">[University of Otago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otago.ac.nz</span><span class="citation-popover-title">first edna study of loch ness points to something fishy</span><span class="citation-popover-snippet">University of OtagoFirst eDNA Study Of Loch Ness Points To Something FishySep 5, 2019 — University of Otago geneticist, Professor Neil Ge...</span></span></span>
+* It cannot determine which animal, if any, produced a reported sighting decades earlier.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otago.ac.nz">[University of Otago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otago.ac.nz</span><span class="citation-popover-title">first edna study of loch ness points to something fishy</span><span class="citation-popover-snippet">University of OtagoFirst eDNA Study Of Loch Ness Points To Something FishySep 5, 2019 — University of Otago geneticist, Professor Neil Ge...</span></span></span>
 
 These limitations matter because the Loch Ness question concerns not merely whether animals are present, but whether eyewitness reports describe something biologically extraordinary.
 
@@ -306,16 +306,16 @@ These limitations matter because the Loch Ness question concerns not merely whet
 
 ## Why eel DNA mattered more than plesiosaurs
 
-The most widely reported finding from the study was the abundance of European eel DNA. Eels were detected throughout the loch, confirming that they are a common component of its ecosystem. Since eDNA cannot distinguish between a normal-sized eel and an unusually large one, the data left open the possibility—though not the probability—that exceptionally large individuals could exist. Professor Gemmell therefore described large eels as a hypothesis that his data could not eliminate, while stressing that the evidence did not demonstrate the existence of giant specimens. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otago.ac.nz">[University of Otago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otago.ac.nz</span><span class="citation-popover-title">first edna study of loch ness points to something fishy</span><span class="citation-popover-snippet">University of OtagoFirst eDNA Study Of Loch Ness Points To Something FishySep 5, 2019 — University of Otago geneticist, Professor Neil Ge...</span></span></span>
+The most widely reported finding from the study was the abundance of European eel DNA. Eels were detected throughout the loch, confirming that they are a common component of its ecosystem. Since eDNA cannot distinguish between a normal-sized eel and an unusually large one, the data left open the possibility—though not the probability—that exceptionally large individuals could exist. Professor Gemmell therefore described large eels as a hypothesis that his data could not eliminate, while stressing that the evidence did not demonstrate the existence of giant specimens.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otago.ac.nz">[University of Otago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otago.ac.nz</span><span class="citation-popover-title">first edna study of loch ness points to something fishy</span><span class="citation-popover-snippet">University of OtagoFirst eDNA Study Of Loch Ness Points To Something FishySep 5, 2019 — University of Otago geneticist, Professor Neil Ge...</span></span></span>
 
-This distinction is often lost in popular [retellings]({{ 'retellings/' | relative_url }}). [Headlines]({{ 'headlines/' | relative_url }}) suggesting that DNA "proved Nessie was an eel" overstated the results. The study showed only that eels are unquestionably present and that no competing evidence supported more exotic biological candidates. An explanation involving an ordinary animal therefore became more parsimonious than one requiring an unknown giant reptile. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/science/2019/sep/05/loch-ness-monster-could-be-a-giant-eel-say-scientists" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">loch ness monster could be a giant eel say scientists</span><span class="citation-popover-snippet">The GuardianLoch Ness monster could be a giant eel, say scientistsSep 5, 2019 — Loch Ness monster could be a giant eel, say scientists ·...</span></span></span>
+This distinction is often lost in popular [retellings]({{ 'retellings/' | relative_url }}). [Headlines]({{ 'headlines/' | relative_url }}) suggesting that DNA "proved Nessie was an eel" overstated the results. The study showed only that eels are unquestionably present and that no competing evidence supported more exotic biological candidates. An explanation involving an ordinary animal therefore became more parsimonious than one requiring an unknown giant reptile.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/science/2019/sep/05/loch-ness-monster-could-be-a-giant-eel-say-scientists" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">loch ness monster could be a giant eel say scientists</span><span class="citation-popover-snippet">The GuardianLoch Ness monster could be a giant eel, say scientistsSep 5, 2019 — Loch Ness monster could be a giant eel, say scientists ·...</span></span></span>
 
 From an evidential perspective, the eel hypothesis has several advantages over the plesiosaur idea:
 
 * European eels are known residents of Scottish freshwaters.
 * Their elongated bodies can create unusual silhouettes, particularly in poor visibility.
 * Swimming eels generate sinuous surface movements that may resemble some witness descriptions.
-* Their confirmed presence requires no undiscovered species or surviving prehistoric lineage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otago.ac.nz">[University of Otago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otago.ac.nz</span><span class="citation-popover-title">first edna study of loch ness points to something fishy</span><span class="citation-popover-snippet">University of OtagoFirst eDNA Study Of Loch Ness Points To Something FishySep 5, 2019 — University of Otago geneticist, Professor Neil Ge...</span></span></span>
+* Their confirmed presence requires no undiscovered species or surviving prehistoric lineage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otago.ac.nz">[University of Otago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otago.ac.nz</span><span class="citation-popover-title">first edna study of loch ness points to something fishy</span><span class="citation-popover-snippet">University of OtagoFirst eDNA Study Of Loch Ness Points To Something FishySep 5, 2019 — University of Otago geneticist, Professor Neil Ge...</span></span></span>
 
 None of these points establishes that every reported sighting involved an eel. Rather, they demonstrate that a known species fits the available biological evidence better than previously popular monster models.
 
@@ -325,7 +325,7 @@ None of these points establishes that every reported sighting involved an eel. R
 
 Although the eDNA survey made the eel explanation more attractive than a plesiosaur, it did not establish that truly gigantic eels inhabit Loch Ness.
 
-Subsequent statistical work using historical measurements of European eels has examined how likely unusually large individuals would be. The analysis suggested that eels approaching one metre in length are uncommon but biologically possible within a large population. By contrast, eels several metres long—the sizes required for many classic Nessie reports—are effectively unsupported by the available growth data. The probability of naturally occurring six-metre European eels was estimated to be essentially zero. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/390620130_The_Loch_Ness_Monster_If_It%27s_Real_Could_It_Be_an_Eel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) The Loch Ness Monster: If It&#x27;s Real, Could It Be an Eel?The Monsters of Loch Ness. London, UK. Macdonald and Jane&#x27;s; 19...</span></span></span>
+Subsequent statistical work using historical measurements of European eels has examined how likely unusually large individuals would be. The analysis suggested that eels approaching one metre in length are uncommon but biologically possible within a large population. By contrast, eels several metres long—the sizes required for many classic Nessie reports—are effectively unsupported by the available growth data. The probability of naturally occurring six-metre European eels was estimated to be essentially zero.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/390620130_The_Loch_Ness_Monster_If_It%27s_Real_Could_It_Be_an_Eel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) The Loch Ness Monster: If It&#x27;s Real, Could It Be an Eel?The Monsters of Loch Ness. London, UK. Macdonald and Jane&#x27;s; 19...</span></span></span>
 
 This distinction is important because the phrase "giant eel" covers a wide range of possibilities. A one-metre eel surfacing unexpectedly could plausibly contribute to some brief, ambiguous sightings. It cannot readily account for reports describing massive necks, multiple humps, or animals estimated at many metres in length.
 
@@ -347,7 +347,7 @@ Several categories of reports remain difficult to test:
 
 Importantly, these unresolved cases are not positive evidence for an unknown animal. They are simply observations that cannot now be reconstructed with confidence.
 
-The study also illustrates a broader principle in the investigation of [cryptids]({{ 'cryptids/' | relative_url }}). Modern scientific techniques often reduce uncertainty by eliminating possibilities rather than by confirming extraordinary claims. In the Loch Ness case, environmental DNA substantially weakened biological hypotheses involving undiscovered large vertebrates while leaving ordinary animals, optical effects and other conventional explanations comparatively stronger. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otago.ac.nz">[University of Otago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otago.ac.nz</span><span class="citation-popover-title">first edna study of loch ness points to something fishy</span><span class="citation-popover-snippet">University of OtagoFirst eDNA Study Of Loch Ness Points To Something FishySep 5, 2019 — University of Otago geneticist, Professor Neil Ge...</span></span></span>
+The study also illustrates a broader principle in the investigation of [cryptids]({{ 'cryptids/' | relative_url }}). Modern scientific techniques often reduce uncertainty by eliminating possibilities rather than by confirming extraordinary claims. In the Loch Ness case, environmental DNA substantially weakened biological hypotheses involving undiscovered large vertebrates while leaving ordinary animals, optical effects and other conventional explanations comparatively stronger.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otago.ac.nz">[University of Otago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otago.ac.nz</span><span class="citation-popover-title">first edna study of loch ness points to something fishy</span><span class="citation-popover-snippet">University of OtagoFirst eDNA Study Of Loch Ness Points To Something FishySep 5, 2019 — University of Otago geneticist, Professor Neil Ge...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_cryptids_natural_his_3c2db5_loch_ness_edna_eels_8c4c99-Illustration-3-dark.svg" | relative_url }}" alt="Ness DNA illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_cryptids_natural_his_3c2db5_loch_ness_edna_eels_8c4c99-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_cryptids_natural_his_3c2db5_loch_ness_edna_eels_8c4c99-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -364,194 +364,194 @@ That outcome reflects a recurring pattern at the boundary between [folklore]({{ 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did DNA Change the Loch Ness Case?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did DNA Change the Loch Ness Case?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cryptozoology A To Z on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/427879-M.jpg" alt="Cover for Cryptozoology A To Z" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cryptozoology A To Z">Cryptozoology A To Z</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cryptozoology A To Z on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/427879-M.jpg" alt="Cover for Cryptozoology A To Z" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cryptozoology A To Z">Cryptozoology A To Z</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Summarises Loch Ness reports and interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Summarises Loch Ness reports and interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunting Monsters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10220347-M.jpg" alt="Cover for Hunting Monsters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunting Monsters">Hunting Monsters</a>
-        </h4>
-        <p class="fr-book-author">By Darren Naish</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunting Monsters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10220347-M.jpg" alt="Cover for Hunting Monsters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunting Monsters">Hunting Monsters</a>
+</h4>
+<p class="fr-book-author">By Darren Naish</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Monsters, Zoology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Monsters, Zoology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Loch+Ness+monster+Steuart+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Loch Ness monster on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/825764-M.jpg" alt="Cover for The Loch Ness monster" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Loch+Ness+monster+Steuart+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Loch Ness monster">The Loch Ness monster</a>
-        </h4>
-        <p class="fr-book-author">By Steuart Campbell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Loch+Ness+monster+Steuart+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Loch Ness monster on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/825764-M.jpg" alt="Cover for The Loch Ness monster" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Loch+Ness+monster+Steuart+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Loch Ness monster">The Loch Ness monster</a>
+</h4>
+<p class="fr-book-author">By Steuart Campbell</p>
         
-        <p class="fr-book-desc">First published 1986. Subjects: Loch Ness monster.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Loch+Ness+monster+Steuart+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1986. Subjects: Loch Ness monster.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Loch+Ness+monster+Steuart+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science">Abominable Science</a>
-        </h4>
-        <p class="fr-book-author">By Donald R. Prothero, Daniel Loxton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science">Abominable Science</a>
+</h4>
+<p class="fr-book-author">By Donald R. Prothero, Daniel Loxton</p>
         
-        <p class="fr-book-desc">First published 2012. Subjects: Animals, mythical.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2012. Subjects: Animals, mythical.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cryptozoology A To Z</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunting+Monsters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunting Monsters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Loch+Ness+monster&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Loch Ness monster</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cryptozoology A To Z</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunting+Monsters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunting Monsters</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Loch+Ness+monster&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Loch Ness monster</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage SASQUATCH BOTANICAL Wall Art, Bigfoot Flower Decor, Cryptid Floral Gift"><img src="{{ '/assets/images/marketplace-covers/e8efac33ff408934c85e.jpg' | relative_url }}" alt="Listing image for Vintage SASQUATCH BOTANICAL Wall Art, Bigfoot Flower Decor, Cryptid Floral Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage SASQUATCH BOTANICAL Wall Art, Bigfoot Flower Decor, Cryptid Floral Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage SASQUATCH BOTANICAL Wall Art, Bigfoot Flower Decor, Cryptid Floral Gift"><img src="{{ '/assets/images/marketplace-covers/e8efac33ff408934c85e.jpg' | relative_url }}" alt="Listing image for Vintage SASQUATCH BOTANICAL Wall Art, Bigfoot Flower Decor, Cryptid Floral Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage SASQUATCH BOTANICAL Wall Art, Bigfoot Flower Decor, Cryptid Floral Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Werewolf Skull Wall Art Replica Life Size Cryptid Skull Horror Display"><img src="{{ '/assets/images/marketplace-covers/ffbbe1bdb1d027c4f462.jpg' | relative_url }}" alt="Listing image for Werewolf Skull Wall Art Replica Life Size Cryptid Skull Horror Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art" target="_blank" rel="sponsored noopener noreferrer">Werewolf Skull Wall Art Replica Life Size Cryptid Skull Horror Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Werewolf Skull Wall Art Replica Life Size Cryptid Skull Horror Display"><img src="{{ '/assets/images/marketplace-covers/ffbbe1bdb1d027c4f462.jpg' | relative_url }}" alt="Listing image for Werewolf Skull Wall Art Replica Life Size Cryptid Skull Horror Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art" target="_blank" rel="sponsored noopener noreferrer">Werewolf Skull Wall Art Replica Life Size Cryptid Skull Horror Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wendigo Cryptid Monster Travel Art Framed Wall Art Poster Canvas Print Picture"><span>eBay</span></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art" target="_blank" rel="sponsored noopener noreferrer">Wendigo Cryptid Monster Travel Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wendigo Cryptid Monster Travel Art Framed Wall Art Poster Canvas Print Picture"><span>eBay</span></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art" target="_blank" rel="sponsored noopener noreferrer">Wendigo Cryptid Monster Travel Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mothman 80s Vibe Cryptid Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/793b55550f4aea4a3340.jpg' | relative_url }}" alt="Listing image for Mothman 80s Vibe Cryptid Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art" target="_blank" rel="sponsored noopener noreferrer">Mothman 80s Vibe Cryptid Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mothman 80s Vibe Cryptid Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/793b55550f4aea4a3340.jpg' | relative_url }}" alt="Listing image for Mothman 80s Vibe Cryptid Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art" target="_blank" rel="sponsored noopener noreferrer">Mothman 80s Vibe Cryptid Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="ness-dna-897a8b-did-dna-change-the-loch-ness-case-forteana-cryptid-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -567,7 +567,7 @@ That outcome reflects a recurring pattern at the boundary between [folklore]({{ 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -587,7 +587,7 @@ That outcome reflects a recurring pattern at the boundary between [folklore]({{ 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -619,7 +619,7 @@ That outcome reflects a recurring pattern at the boundary between [folklore]({{ 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -671,7 +671,7 @@ That outcome reflects a recurring pattern at the boundary between [folklore]({{ 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -716,7 +716,7 @@ That outcome reflects a recurring pattern at the boundary between [folklore]({{ 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -757,93 +757,93 @@ That outcome reflects a recurring pattern at the boundary between [folklore]({{ 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: otago.ac.nz  
    Title: first edna study of loch ness points to something fishy  
-   Link: <a href="https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy" target="_blank" rel="noopener noreferrer nofollow">https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>University of OtagoFirst eDNA Study Of Loch Ness Points To Something FishySep 5, 2019 — University of Otago geneticist, Professor Neil Ge...</p></details>
+   Link:<a href="https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy" target="_blank" rel="noopener noreferrer nofollow">https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of OtagoFirst eDNA Study Of Loch Ness Points To Something FishySep 5, 2019 — University of Otago geneticist, Professor Neil Ge...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: theguardian.com  
    Title: loch ness monster could be a giant eel say scientists  
-   Link: <a href="https://www.theguardian.com/science/2019/sep/05/loch-ness-monster-could-be-a-giant-eel-say-scientists" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2019/sep/05/loch-ness-monster-could-be-a-giant-eel-say-scientists</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianLoch Ness monster could be a giant eel, say scientistsSep 5, 2019 — Loch Ness monster could be a giant eel, say scientists ·...</p></details>
+   Link:<a href="https://www.theguardian.com/science/2019/sep/05/loch-ness-monster-could-be-a-giant-eel-say-scientists" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2019/sep/05/loch-ness-monster-could-be-a-giant-eel-say-scientists</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianLoch Ness monster could be a giant eel, say scientistsSep 5, 2019 — Loch Ness monster could be a giant eel, say scientists ·...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: otago.ac.nz  
    Title: otago scientist reveals loch ness monster could be a giant eel  
-   Link: <a href="https://www.otago.ac.nz/news/newsroom/otago-scientist-reveals-loch-ness-monster-could-be-a-giant-eel" target="_blank" rel="noopener noreferrer nofollow">https://www.otago.ac.nz/news/newsroom/otago-scientist-reveals-loch-ness-monster-could-be-a-giant-eel</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>University of OtagoOtago scientist reveals Loch Ness Monster could be...Sep 6, 2019 — An Otago scientist has cast major [doubt](&amp;#123;&amp;#123; &#x27;doubt/&#x27; | relative_url &amp;#125;&amp;#125;) on the exi...</p></details>
+   Link:<a href="https://www.otago.ac.nz/news/newsroom/otago-scientist-reveals-loch-ness-monster-could-be-a-giant-eel" target="_blank" rel="noopener noreferrer nofollow">https://www.otago.ac.nz/news/newsroom/otago-scientist-reveals-loch-ness-monster-could-be-a-giant-eel</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of OtagoOtago scientist reveals Loch Ness Monster could be...Sep 6, 2019 — An Otago scientist has cast major [doubt](&amp;#123;&amp;#123; &#x27;doubt/&#x27; | relative_url &amp;#125;&amp;#125;) on the exi...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/390620130_The_Loch_Ness_Monster_If_It%27s_Real_Could_It_Be_an_Eel" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390620130_The_Loch_Ness_Monster_If_It%27s_Real_Could_It_Be_an_Eel</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) The Loch Ness Monster: If It&#x27;s Real, Could It Be an Eel?The Monsters of Loch Ness. London, UK. Macdonald and Jane&#x27;s; 19...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/390620130_The_Loch_Ness_Monster_If_It%27s_Real_Could_It_Be_an_Eel" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390620130_The_Loch_Ness_Monster_If_It%27s_Real_Could_It_Be_an_Eel</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) The Loch Ness Monster: If It&#x27;s Real, Could It Be an Eel?The Monsters of Loch Ness. London, UK. Macdonald and Jane&#x27;s; 19...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Loch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Loch</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LochLoch is a word meaning &quot;lake&quot; or &quot;sea inlet&quot; in Scottish and Irish Gaelic, subsequently borrowed into English. In Irish contexts...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Loch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Loch</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LochLoch is a word meaning &quot;lake&quot; or &quot;sea inlet&quot; in Scottish and Irish Gaelic, subsequently borrowed into English. In Irish contexts...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: Neil Gemmell  
-   Link: <a href="https://www.youtube.com/watch?v=E4y62Pa4b28" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E4y62Pa4b28</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Environmental DNA for Biodiversity...University of Otago and a researcher in the Genomics Aotearoa project on High Quality... Loch Ness...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=E4y62Pa4b28" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E4y62Pa4b28</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Environmental DNA for Biodiversity...University of Otago and a researcher in the Genomics Aotearoa project on High Quality... Loch Ness...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
    Title: yesterday we heard the results of a large environmental dna or edna study in loc  
-   Link: <a href="https://www.facebook.com/FishtheNess/posts/yesterday-we-heard-the-results-of-a-large-environmental-dna-or-edna-study-in-loc/2567990963260672/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FishtheNess/posts/yesterday-we-heard-the-results-of-a-large-environmental-dna-or-edna-study-in-loc/2567990963260672/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ness District Salmon Fishery BoardSep 6, 2019 — The study would possibly be able to find DNA of an unusual or non-native creature that ma...</p></details>
+   Link:<a href="https://www.facebook.com/FishtheNess/posts/yesterday-we-heard-the-results-of-a-large-environmental-dna-or-edna-study-in-loc/2567990963260672/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FishtheNess/posts/yesterday-we-heard-the-results-of-a-large-environmental-dna-or-edna-study-in-loc/2567990963260672/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ness District Salmon Fishery BoardSep 6, 2019 — The study would possibly be able to find DNA of an unusual or non-native creature that ma...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=vHGUbLhCyQs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vHGUbLhCyQs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Loch Ness monster might just be a giant eelScotland&#x27;s fabled Loch Ness monster could possibly be a giant eel scientist said on Thursday a...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vHGUbLhCyQs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vHGUbLhCyQs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Loch Ness monster might just be a giant eelScotland&#x27;s fabled Loch Ness monster could possibly be a giant eel scientist said on Thursday a...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sciencefocus.com  
    Title: loch ness monster dna study reveals plausible explanation for sightings  
-   Link: <a href="https://www.sciencefocus.com/news/loch-ness-monster-dna-study-reveals-plausible-explanation-for-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefocus.com/news/loch-ness-monster-dna-study-reveals-plausible-explanation-for-sightings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Loch Ness Monster DNA study reveals &#x27;plausible&#x27;...Sep 5, 2019 — After combing the loch for samples of environmental DNA, they found that...</p></details>
+   Link:<a href="https://www.sciencefocus.com/news/loch-ness-monster-dna-study-reveals-plausible-explanation-for-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefocus.com/news/loch-ness-monster-dna-study-reveals-plausible-explanation-for-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Loch Ness Monster DNA study reveals &#x27;plausible&#x27;...Sep 5, 2019 — After combing the loch for samples of environmental DNA, they found that...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: lochnessproject.org  
-   Link: <a href="https://www.lochnessproject.org/FIELDWORKGROUNDTRUTH/eDNA%20LOCH%20NESS/eDNA%20LOCHNESS_index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lochnessproject.org/FIELDWORKGROUNDTRUTH/eDNA%20LOCH%20NESS/eDNA%20LOCHNESS_index.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>eDNA IndexSo sampling the environment allows scientists to isolate and decode the eDNA and compare it against a database of known DNA seq...</p></details>
+   Link:<a href="https://www.lochnessproject.org/FIELDWORKGROUNDTRUTH/eDNA%20LOCH%20NESS/eDNA%20LOCHNESS_index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lochnessproject.org/FIELDWORKGROUNDTRUTH/eDNA%20LOCH%20NESS/eDNA%20LOCHNESS_index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>eDNA IndexSo sampling the environment allows scientists to isolate and decode the eDNA and compare it against a database of known DNA seq...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: illumina.com  
-   Link: <a href="https://www.illumina.com/content/illumina-marketing/amr/en_US/company/news-center/feature-articles/loch-ness-edna.html" target="_blank" rel="noopener noreferrer nofollow">https://www.illumina.com/content/illumina-marketing/amr/en_US/company/news-center/feature-articles/loch-ness-edna.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>If there is a monster in Loch Ness, this geneticist will find itJan 10, 2025 — Well, the only hypothesis he could dismiss was that the mo...</p></details>
+   Link:<a href="https://www.illumina.com/content/illumina-marketing/amr/en_US/company/news-center/feature-articles/loch-ness-edna.html" target="_blank" rel="noopener noreferrer nofollow">https://www.illumina.com/content/illumina-marketing/amr/en_US/company/news-center/feature-articles/loch-ness-edna.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>If there is a monster in Loch Ness, this geneticist will find itJan 10, 2025 — Well, the only hypothesis he could dismiss was that the mo...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
    Title: a bit of a misconception ive seen going around  
-   Link: <a href="https://www.reddit.com/r/Cryptozoology/comments/1t59ei2/a_bit_of_a_misconception_ive_seen_going_around/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Cryptozoology/comments/1t59ei2/a_bit_of_a_misconception_ive_seen_going_around/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A bit of a misconception I&#x27;ve seen going around. The 2018...Three separate people have reported a strange &quot;variant&quot; of the Loch Ness Mon...</p></details>
+   Link:<a href="https://www.reddit.com/r/Cryptozoology/comments/1t59ei2/a_bit_of_a_misconception_ive_seen_going_around/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Cryptozoology/comments/1t59ei2/a_bit_of_a_misconception_ive_seen_going_around/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A bit of a misconception I&#x27;ve seen going around. The 2018...Three separate people have reported a strange &quot;variant&quot; of the Loch Ness Mon...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Cryptozoology/comments/14b1rzp/so_3_years_ago_a_new_zealand_scientist_took_some/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Cryptozoology/comments/14b1rzp/so_3_years_ago_a_new_zealand_scientist_took_some/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>but eels in loch ness don&#x27;t even grow over a Metter In length.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/Cryptozoology/comments/14b1rzp/so_3_years_ago_a_new_zealand_scientist_took_some/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Cryptozoology/comments/14b1rzp/so_3_years_ago_a_new_zealand_scientist_took_some/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>but eels in loch ness don&#x27;t even grow over a Metter In length.Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: smartwatermagazine.com  
    Title: could loch ness monster be a giant eel  
-   Link: <a href="https://smartwatermagazine.com/news/university-otago/could-loch-ness-monster-be-a-giant-eel" target="_blank" rel="noopener noreferrer nofollow">https://smartwatermagazine.com/news/university-otago/could-loch-ness-monster-be-a-giant-eel</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Could the Loch Ness monster be a giant eel?Sep 9, 2019 — The remaining theory that Professor Gemmell cannot refute based on the environme...</p></details>
+   Link:<a href="https://smartwatermagazine.com/news/university-otago/could-loch-ness-monster-be-a-giant-eel" target="_blank" rel="noopener noreferrer nofollow">https://smartwatermagazine.com/news/university-otago/could-loch-ness-monster-be-a-giant-eel</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Could the Loch Ness monster be a giant eel?Sep 9, 2019 — The remaining theory that Professor Gemmell cannot refute based on the environme...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: popsci.com  
-   Link: <a href="https://www.popsci.com/loch-ness-monster-dna-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://www.popsci.com/loch-ness-monster-dna-mystery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Popular ScienceNew DNA evidence may prove what the Loch Ness...Sep 9, 2019 — Plenty of eel DNA doesn&#x27;t confirm that Nessie is a giant ee...</p></details>
+   Link:<a href="https://www.popsci.com/loch-ness-monster-dna-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://www.popsci.com/loch-ness-monster-dna-mystery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Popular ScienceNew DNA evidence may prove what the Loch Ness...Sep 9, 2019 — Plenty of eel DNA doesn&#x27;t confirm that Nessie is a giant ee...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: newsforkids.net  
    Title: dna testing loch ness monster ideas  
-   Link: <a href="https://newsforkids.net/articles/2019/09/06/dna-testing-loch-ness-monster-ideas/" target="_blank" rel="noopener noreferrer nofollow">https://newsforkids.net/articles/2019/09/06/dna-testing-loch-ness-monster-ideas/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sep 6, 2019 — For example, there was no DNA similar to that of plesiosaurs, sharks, or catfish. But the study did leave one possibility o...</p></details>
+   Link:<a href="https://newsforkids.net/articles/2019/09/06/dna-testing-loch-ness-monster-ideas/" target="_blank" rel="noopener noreferrer nofollow">https://newsforkids.net/articles/2019/09/06/dna-testing-loch-ness-monster-ideas/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sep 6, 2019 — For example, there was no DNA similar to that of plesiosaurs, sharks, or catfish. But the study did leave one possibility o...</p></details>

@@ -278,7 +278,7 @@ Bereavement ghost experiences differ from the classic haunted-house story becaus
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_ghost_reports_memory_fdf4a4_bereavement_encounte_3154b8-Illustration-1-dark.svg" | relative_url }}" alt="After loss illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_ghost_reports_memory_fdf4a4_bereavement_encounte_3154b8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_ghost_reports_memory_fdf4a4_bereavement_encounte_3154b8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within Fortean studies, bereavement encounters occupy an unusual position. They are among the most frequently reported forms of apparent ghost [experience]({{ 'experience/' | relative_url }}), yet they are also among the least compatible with simple "haunting" narratives. Psychological research, anthropology and psychical research all recognise that such experiences are common, sincere and personally meaningful, while disagreeing over whether they represent grief-related perception, an aspect of continuing emotional bonds, or evidence for survival after death. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7707065/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Sensory and Quasi-Sensory Experiences of the Deceased in...by KS Kamp · 2020 · Cited by 106 — Bereavement among elderly people: grief...</span></span></span>
+Within Fortean studies, bereavement encounters occupy an unusual position. They are among the most frequently reported forms of apparent ghost [experience]({{ 'experience/' | relative_url }}), yet they are also among the least compatible with simple "haunting" narratives. Psychological research, anthropology and psychical research all recognise that such experiences are common, sincere and personally meaningful, while disagreeing over whether they represent grief-related perception, an aspect of continuing emotional bonds, or evidence for survival after death.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7707065/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Sensory and Quasi-Sensory Experiences of the Deceased in...by KS Kamp · 2020 · Cited by 106 — Bereavement among elderly people: grief...</span></span></span>
 
 ## What bereavement encounters usually feel like
 
@@ -298,9 +298,9 @@ Common forms include:
 
 </div>
 
-Researchers increasingly refer to these as **sensory and quasi-sensory experiences of the deceased**, recognising that many involve a powerful "felt presence" without a conventional visual hallucination. People often describe knowing someone is there without being able to explain exactly how they know. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7707065/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Pure York]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Sensory and Quasi-Sensory Experiences of the Deceased in...by KS Kamp · 2020 · Cited by 106 — Bereavement among elderly people: grief...</span></span></span>
+Researchers increasingly refer to these as **sensory and quasi-sensory experiences of the deceased**, recognising that many involve a powerful "felt presence" without a conventional visual hallucination. People often describe knowing someone is there without being able to explain exactly how they know.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7707065/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Pure York]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Sensory and Quasi-Sensory Experiences of the Deceased in...by KS Kamp · 2020 · Cited by 106 — Bereavement among elderly people: grief...</span></span></span>
 
-An important feature is emotional tone. Although distressing experiences do occur, many bereaved individuals report calm, reassurance or a sense that the deceased is "all right". Rather than provoking fear, the experience may reduce loneliness or anxiety during intense grief. Studies of widowed spouses dating back to physician Dewi Rees's influential work found that such encounters were often regarded as helpful or emotionally neutral rather than pathological. Later research has broadly confirmed that these experiences are widespread across different bereaved populations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8388006/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The phenomenology and impact of hallucinations concerning...by E Elsaesser · 2021 · Cited by 55 — In this study, we revisited Rees&#x27;s...</span></span></span>
+An important feature is emotional tone. Although distressing experiences do occur, many bereaved individuals report calm, reassurance or a sense that the deceased is "all right". Rather than provoking fear, the experience may reduce loneliness or anxiety during intense grief. Studies of widowed spouses dating back to physician Dewi Rees's influential work found that such encounters were often regarded as helpful or emotionally neutral rather than pathological. Later research has broadly confirmed that these experiences are widespread across different bereaved populations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8388006/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The phenomenology and impact of hallucinations concerning...by E Elsaesser · 2021 · Cited by 55 — In this study, we revisited Rees&#x27;s...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/J7enJye5TPo" title="The Phenomenology and Impact of Perceived Spontaneous After-Death Communications | Callum E. Cooper" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=J7enJye5TPo" target="_blank" rel="noopener noreferrer">The Phenomenology and Impact of Perceived Spontaneous After-Death Communications | Callum E. Cooper</a></p><p class="youtube-embed-meta">Channel: Parapsychological Association</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=J7enJye5TPo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=J7enJye5TPo">Open on YouTube</a></p></div></div></div>
@@ -313,7 +313,7 @@ The setting is often entirely ordinary. People describe sensing a deceased spous
 
 Because of this, these reports often remain private. Families may discuss them among themselves without ever presenting them as evidence of a haunted building or supernatural hotspot. A single encounter can become part of shared family history, reinforcing memories of the deceased rather than creating a local legend.
 
-Anthropological research also shows that many cultures interpret continuing experiences of the dead as normal aspects of mourning rather than extraordinary paranormal events. Cross-cultural comparisons suggest that people may describe remarkably similar experiences while explaining them through very different religious or cultural frameworks. Some regard them as genuine visits, others as ancestors maintaining relationships, while still others see them as expected features of grief. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/33043856/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Cultural research on post-bereavement perception or...by P Sabucedo · 2023 · Cited by 41 — Experiencing the continued presence of...</span></span></span>
+Anthropological research also shows that many cultures interpret continuing experiences of the dead as normal aspects of mourning rather than extraordinary paranormal events. Cross-cultural comparisons suggest that people may describe remarkably similar experiences while explaining them through very different religious or cultural frameworks. Some regard them as genuine visits, others as ancestors maintaining relationships, while still others see them as expected features of grief.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/33043856/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Cultural research on post-bereavement perception or...by P Sabucedo · 2023 · Cited by 41 — Experiencing the continued presence of...</span></span></span>
 
 This difference is significant for Fortean analysis. A haunted-house investigation asks whether multiple witnesses report recurring events at the same place. Bereavement reports instead focus on the continuing relationship between two people, making family context more informative than architectural history.
 
@@ -337,7 +337,7 @@ Modern bereavement research has found several consistent observations:
 
 </div>
 
-This shift reflects broader changes in grief theory. Instead of assuming that healthy mourning requires emotionally "letting go", many psychologists now discuss **continuing bonds**—the idea that maintaining an inner relationship with the deceased can be a normal part of adaptation. Bereavement encounters may represent one expression of that continuing relationship rather than a failure to accept death. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/07481187.2023.2223593" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineThe impact of continuing bonds following bereavementby H Hewson · 2024 · Cited by 127 — Following bereavement, con...</span></span></span>
+This shift reflects broader changes in grief theory. Instead of assuming that healthy mourning requires emotionally "letting go", many psychologists now discuss **continuing bonds**—the idea that maintaining an inner relationship with the deceased can be a normal part of adaptation. Bereavement encounters may represent one expression of that continuing relationship rather than a failure to accept death.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/07481187.2023.2223593" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineThe impact of continuing bonds following bereavementby H Hewson · 2024 · Cited by 127 — Following bereavement, con...</span></span></span>
 
 At the same time, clinicians distinguish ordinary grief experiences from situations where persistent hallucinations occur alongside severe confusion, dangerous behaviour or other psychiatric symptoms that require medical assessment.
 
@@ -356,7 +356,7 @@ Sceptical investigators, however, point to several difficulties:
 * [Coincidences]({{ 'coincidences/' | relative_url }}) become memorable while countless non-matching impressions are forgotten.
 * Independent corroboration is frequently absent.
 
-As a result, bereavement encounters occupy an enduring middle ground within Fortean literature. They are treated neither as simple [folklore]({{ 'folklore/' | relative_url }}) nor as decisive proof of survival after death. Instead, they illustrate how extraordinary personal testimony can remain psychologically meaningful while resisting straightforward verification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/phenomena-relating-danger-death-bereavement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia+2UVA School of Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-snippet">Psi EncyclopediaPhenomena Related to Danger, Death, and BereavementJan 31, 2015 — Crisis impressions are marked by the abrupt awareness t...</span></span></span>
+As a result, bereavement encounters occupy an enduring middle ground within Fortean literature. They are treated neither as simple [folklore]({{ 'folklore/' | relative_url }}) nor as decisive proof of survival after death. Instead, they illustrate how extraordinary personal testimony can remain psychologically meaningful while resisting straightforward verification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/phenomena-relating-danger-death-bereavement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia+2UVA School of Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-snippet">Psi EncyclopediaPhenomena Related to Danger, Death, and BereavementJan 31, 2015 — Crisis impressions are marked by the abrupt awareness t...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_ghost_reports_memory_fdf4a4_bereavement_encounte_3154b8-Illustration-3-dark.svg" | relative_url }}" alt="After loss illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_ghost_reports_memory_fdf4a4_bereavement_encounte_3154b8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_ghost_reports_memory_fdf4a4_bereavement_encounte_3154b8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -364,9 +364,9 @@ As a result, bereavement encounters occupy an enduring middle ground within Fort
 
 Survey evidence suggests that experiences involving deceased relatives are far from rare.
 
-In a 2023 survey by the Pew Research Center, 46% of American adults reported having been visited by a deceased family member in a dream, while 31% reported some other form of encounter outside dreams. Overall, more than half reported at least one type of interaction with a deceased relative during their lifetime. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pewresearch.org/short-reads/2023/08/23/many-americans-report-interacting-with-dead-relatives-in-dreams-or-other-ways/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[Pew Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-title">Pew Research Center Interacting with dead relatives: What Americans say they</span><span class="citation-popover-snippet">Pew Research CenterInteracting with dead relatives: What Americans say they...August 23, 2023 — 23 Aug 2023 — Overall, 46% of Americans...</span><span class="citation-popover-meta">Published: August 23, 2023</span></span></span>
+In a 2023 survey by the Pew Research Center, 46% of American adults reported having been visited by a deceased family member in a dream, while 31% reported some other form of encounter outside dreams. Overall, more than half reported at least one type of interaction with a deceased relative during their lifetime.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pewresearch.org/short-reads/2023/08/23/many-americans-report-interacting-with-dead-relatives-in-dreams-or-other-ways/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[Pew Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-title">Pew Research Center Interacting with dead relatives: What Americans say they</span><span class="citation-popover-snippet">Pew Research CenterInteracting with dead relatives: What Americans say they...August 23, 2023 — 23 Aug 2023 — Overall, 46% of Americans...</span><span class="citation-popover-meta">Published: August 23, 2023</span></span></span>
 
-Clinical studies focusing specifically on widowed spouses have often reported similarly high rates of sensed presence or related experiences, although estimates vary depending on how researchers define the phenomenon and the population studied. Reviews covering psychology, psychiatry and anthropology consistently conclude that these experiences occur across cultures and are substantially more common than many people assume. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/schizophreniabulletin/article/46/6/1367/5939754" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicSensory and Quasi-Sensory Experiences of the Deceased in...by KS Kamp · 2020 · Cited by 104 — Bereaved people often report h...</span></span></span>
+Clinical studies focusing specifically on widowed spouses have often reported similarly high rates of sensed presence or related experiences, although estimates vary depending on how researchers define the phenomenon and the population studied. Reviews covering psychology, psychiatry and anthropology consistently conclude that these experiences occur across cultures and are substantially more common than many people assume.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/schizophreniabulletin/article/46/6/1367/5939754" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicSensory and Quasi-Sensory Experiences of the Deceased in...by KS Kamp · 2020 · Cited by 104 — Bereaved people often report h...</span></span></span>
 
 These figures do not establish whether the experiences are paranormal. They do demonstrate that bereavement encounters are a widespread aspect of human grieving rather than an isolated curiosity.
 
@@ -387,194 +387,194 @@ Within the wider study of ghost reports, bereavement encounters stand apart beca
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Are Bereavement Ghosts Different From Hauntings?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Are Bereavement Ghosts Different From Hauntings?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+Hunters+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost Hunters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/872311-M.jpg" alt="Cover for Ghost Hunters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghost+Hunters+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost Hunters">Ghost Hunters</a>
-        </h4>
-        <p class="fr-book-author">By Deborah Blum</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+Hunters+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost Hunters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/872311-M.jpg" alt="Cover for Ghost Hunters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghost+Hunters+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost Hunters">Ghost Hunters</a>
+</h4>
+<p class="fr-book-author">By Deborah Blum</p>
         
-        <p class="fr-book-desc">First published 2006. Subjects: Spiritualism, History, Ghosts, Parapsychology, New York Times reviewed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghost+Hunters+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2006. Subjects: Spiritualism, History, Ghosts, Parapsychology, New York Times reviewed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghost+Hunters+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Paranormality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12284173-M.jpg" alt="Cover for Paranormality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Paranormality">Paranormality</a>
-        </h4>
-        <p class="fr-book-author">By Richard Wiseman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Paranormality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12284173-M.jpg" alt="Cover for Paranormality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Paranormality">Paranormality</a>
+</h4>
+<p class="fr-book-author">By Richard Wiseman</p>
         
-        <p class="fr-book-desc">First published 2011. Subjects: Parapsychology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011. Subjects: Parapsychology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hello+from+heaven%21+Bill+Guggenheim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hello from heaven! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/372635-M.jpg" alt="Cover for Hello from heaven!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hello+from+heaven%21+Bill+Guggenheim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hello from heaven!">Hello from heaven!</a>
-        </h4>
-        <p class="fr-book-author">By Bill Guggenheim, Judy Guggenheim</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Hello+from+heaven%21+Bill+Guggenheim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hello from heaven! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/372635-M.jpg" alt="Cover for Hello from heaven!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Hello+from+heaven%21+Bill+Guggenheim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hello from heaven!">Hello from heaven!</a>
+</h4>
+<p class="fr-book-author">By Bill Guggenheim, Judy Guggenheim</p>
         
-        <p class="fr-book-desc">First published 1997. Subjects: Spiritualism, Case studies, Fiction, science fiction, general.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hello+from+heaven%21+Bill+Guggenheim&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1997. Subjects: Spiritualism, Case studies, Fiction, science fiction, general.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Hello+from+heaven%21+Bill+Guggenheim&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In-Between+Hadley+Vlahos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In-Between on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13599166-M.jpg" alt="Cover for In-Between" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In-Between+Hadley+Vlahos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In-Between">In-Between</a>
-        </h4>
-        <p class="fr-book-author">By Hadley Vlahos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In-Between+Hadley+Vlahos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In-Between on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13599166-M.jpg" alt="Cover for In-Between" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In-Between+Hadley+Vlahos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In-Between">In-Between</a>
+</h4>
+<p class="fr-book-author">By Hadley Vlahos</p>
         
-        <p class="fr-book-desc">First published 2023. Subjects: nyt:combined-print-and-e-book-nonfiction=2023-07-02, New York Times bestseller.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In-Between+Hadley+Vlahos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2023. Subjects: nyt:combined-print-and-e-book-nonfiction=2023-07-02, New York Times bestseller.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In-Between+Hadley+Vlahos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+Hunters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost Hunters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Paranormality&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Paranormality</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hello+from+heaven%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hello from heaven!</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+Hunters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost Hunters</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Paranormality&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Paranormality</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Hello+from+heaven%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hello from heaven!</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ghost - live band music show 2022 TOUR promotional tour concert gig poster"><img src="{{ '/assets/images/marketplace-covers/75e6bc036c3aa8306735.jpg' | relative_url }}" alt="Listing image for Ghost - live band music show 2022 TOUR promotional tour concert gig poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer">Ghost - live band music show 2022 TOUR promotional tour concert gig poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ghost poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ghost - live band music show 2022 TOUR promotional tour concert gig poster"><img src="{{ '/assets/images/marketplace-covers/75e6bc036c3aa8306735.jpg' | relative_url }}" alt="Listing image for Ghost - live band music show 2022 TOUR promotional tour concert gig poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer">Ghost - live band music show 2022 TOUR promotional tour concert gig poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for GHOST IN THE SHELL Movie Poster Retro Art Print A4"><img src="{{ '/assets/images/marketplace-covers/28e6695edf184a006bd9.jpg' | relative_url }}" alt="Listing image for GHOST IN THE SHELL Movie Poster Retro Art Print A4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer">GHOST IN THE SHELL Movie Poster Retro Art Print A4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ghost poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for GHOST IN THE SHELL Movie Poster Retro Art Print A4"><img src="{{ '/assets/images/marketplace-covers/28e6695edf184a006bd9.jpg' | relative_url }}" alt="Listing image for GHOST IN THE SHELL Movie Poster Retro Art Print A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer">GHOST IN THE SHELL Movie Poster Retro Art Print A4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for GHOST WORLD - SCARLETT JOHANSSON / BUSCEMI / HIGH SCHOOL - ORIGINAL MOVIE POSTER"><img src="{{ '/assets/images/marketplace-covers/713afac198ea9ae2ac19.jpg' | relative_url }}" alt="Listing image for GHOST WORLD - SCARLETT JOHANSSON / BUSCEMI / HIGH SCHOOL - ORIGINAL MOVIE POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer">GHOST WORLD - SCARLETT JOHANSSON / BUSCEMI / HIGH SCHOOL - ORIGINAL MOVIE POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ghost poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for GHOST WORLD - SCARLETT JOHANSSON / BUSCEMI / HIGH SCHOOL - ORIGINAL MOVIE POSTER"><img src="{{ '/assets/images/marketplace-covers/713afac198ea9ae2ac19.jpg' | relative_url }}" alt="Listing image for GHOST WORLD - SCARLETT JOHANSSON / BUSCEMI / HIGH SCHOOL - ORIGINAL MOVIE POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer">GHOST WORLD - SCARLETT JOHANSSON / BUSCEMI / HIGH SCHOOL - ORIGINAL MOVIE POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ghost - live music show Nov 2019 promotional tour concert gig poster"><img src="{{ '/assets/images/marketplace-covers/e9bbab17781e4df43065.jpg' | relative_url }}" alt="Listing image for Ghost - live music show Nov 2019 promotional tour concert gig poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer">Ghost - live music show Nov 2019 promotional tour concert gig poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ghost poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ghost - live music show Nov 2019 promotional tour concert gig poster"><img src="{{ '/assets/images/marketplace-covers/e9bbab17781e4df43065.jpg' | relative_url }}" alt="Listing image for Ghost - live music show Nov 2019 promotional tour concert gig poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer">Ghost - live music show Nov 2019 promotional tour concert gig poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="after-loss-are-bereavement-ghosts-different-from-hauntings-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -590,7 +590,7 @@ Within the wider study of ghost reports, bereavement encounters stand apart beca
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -610,7 +610,7 @@ Within the wider study of ghost reports, bereavement encounters stand apart beca
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -642,7 +642,7 @@ Within the wider study of ghost reports, bereavement encounters stand apart beca
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -694,7 +694,7 @@ Within the wider study of ghost reports, bereavement encounters stand apart beca
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -739,7 +739,7 @@ Within the wider study of ghost reports, bereavement encounters stand apart beca
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -780,124 +780,124 @@ Within the wider study of ghost reports, bereavement encounters stand apart beca
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7707065/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7707065/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sensory and Quasi-Sensory Experiences of the Deceased in...by KS Kamp · 2020 · Cited by 106 — Bereavement among elderly people: grief...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7707065/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7707065/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sensory and Quasi-Sensory Experiences of the Deceased in...by KS Kamp · 2020 · Cited by 106 — Bereavement among elderly people: grief...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8388006/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8388006/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The phenomenology and impact of hallucinations concerning...by E Elsaesser · 2021 · Cited by 55 — In this study, we revisited Rees&#x27;s...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8388006/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8388006/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The phenomenology and impact of hallucinations concerning...by E Elsaesser · 2021 · Cited by 55 — In this study, we revisited Rees&#x27;s...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/schizophreniabulletin/article/46/6/1367/5939754" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/schizophreniabulletin/article/46/6/1367/5939754</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicSensory and Quasi-Sensory Experiences of the Deceased in...by KS Kamp · 2020 · Cited by 104 — Bereaved people often report h...</p></details>
+   Link:<a href="https://academic.oup.com/schizophreniabulletin/article/46/6/1367/5939754" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/schizophreniabulletin/article/46/6/1367/5939754</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicSensory and Quasi-Sensory Experiences of the Deceased in...by KS Kamp · 2020 · Cited by 104 — Bereaved people often report h...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/07481187.2026.2626550" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/07481187.2026.2626550</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of after-death communications on grief and...by S Sweeney · 2026 — After-death communications (ADCs), perceived encounters wi...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/07481187.2026.2626550" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/07481187.2026.2626550</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of after-death communications on grief and...by S Sweeney · 2026 — After-death communications (ADCs), perceived encounters wi...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: psi-encyclopedia.spr.ac.uk  
-   Link: <a href="https://psi-encyclopedia.spr.ac.uk/articles/phenomena-relating-danger-death-bereavement/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/articles/phenomena-relating-danger-death-bereavement/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Psi EncyclopediaPhenomena Related to Danger, Death, and BereavementJan 31, 2015 — Crisis impressions are marked by the abrupt awareness t...</p></details>
+   Link:<a href="https://psi-encyclopedia.spr.ac.uk/articles/phenomena-relating-danger-death-bereavement/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/articles/phenomena-relating-danger-death-bereavement/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psi EncyclopediaPhenomena Related to Danger, Death, and BereavementJan 31, 2015 — Crisis impressions are marked by the abrupt awareness t...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pure.york.ac.uk  
    Title: Ratcliffe2020 Article SensedPresenceWithoutSensoryQu  
-   Link: <a href="https://pure.york.ac.uk/portal/files/64152341/Ratcliffe2020_Article_SensedPresenceWithoutSensoryQu.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.york.ac.uk/portal/files/64152341/Ratcliffe2020_Article_SensedPresenceWithoutSensoryQu.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>phenomenological study of bereavement hallucinationsby MJ Ratcliffe · 2020 · Cited by 56 — Steffen and Coyle (2012, p.35) similarly state...</p></details>
+   Link:<a href="https://pure.york.ac.uk/portal/files/64152341/Ratcliffe2020_Article_SensedPresenceWithoutSensoryQu.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.york.ac.uk/portal/files/64152341/Ratcliffe2020_Article_SensedPresenceWithoutSensoryQu.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>phenomenological study of bereavement hallucinationsby MJ Ratcliffe · 2020 · Cited by 56 — Steffen and Coyle (2012, p.35) similarly state...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/33043856/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/33043856/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cultural research on post-bereavement perception or...by P Sabucedo · 2023 · Cited by 41 — Experiencing the continued presence of...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/33043856/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/33043856/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cultural research on post-bereavement perception or...by P Sabucedo · 2023 · Cited by 41 — Experiencing the continued presence of...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/07481187.2023.2223593" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/07481187.2023.2223593</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineThe impact of continuing bonds following bereavementby H Hewson · 2024 · Cited by 127 — Following bereavement, con...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/07481187.2023.2223593" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/07481187.2023.2223593</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineThe impact of continuing bonds following bereavementby H Hewson · 2024 · Cited by 127 — Following bereavement, con...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: med.virginia.edu  
-   Link: <a href="https://med.virginia.edu/perceptual-studies/wp-content/uploads/sites/360/2017/09/The-Contributions-of-Apparitions-to-the-Evidence-for-Survival_-Ian-Stevenson-1982.pdf" target="_blank" rel="noopener noreferrer nofollow">https://med.virginia.edu/perceptual-studies/wp-content/uploads/sites/360/2017/09/The-Contributions-of-Apparitions-to-the-Evidence-for-Survival_-Ian-Stevenson-1982.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Society for Psychical Research, 1944, 38, 83-105.Read more...</p></details>
+   Link:<a href="https://med.virginia.edu/perceptual-studies/wp-content/uploads/sites/360/2017/09/The-Contributions-of-Apparitions-to-the-Evidence-for-Survival_-Ian-Stevenson-1982.pdf" target="_blank" rel="noopener noreferrer nofollow">https://med.virginia.edu/perceptual-studies/wp-content/uploads/sites/360/2017/09/The-Contributions-of-Apparitions-to-the-Evidence-for-Survival_-Ian-Stevenson-1982.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Society for Psychical Research, 1944, 38, 83-105.Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: spr.ac.uk  
-   Link: <a href="https://www.spr.ac.uk/report-an-experience" target="_blank" rel="noopener noreferrer nofollow">https://www.spr.ac.uk/report-an-experience</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>our experience could be a valuable...</p></details>
+   Link:<a href="https://www.spr.ac.uk/report-an-experience" target="_blank" rel="noopener noreferrer nofollow">https://www.spr.ac.uk/report-an-experience</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>our experience could be a valuable...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pewresearch.org  
    Title: Pew Research Center Interacting with dead relatives: What Americans say they  
-   Link: <a href="https://www.pewresearch.org/short-reads/2023/08/23/many-americans-report-interacting-with-dead-relatives-in-dreams-or-other-ways/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/short-reads/2023/08/23/many-americans-report-interacting-with-dead-relatives-in-dreams-or-other-ways/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pew Research CenterInteracting with dead relatives: What Americans say they...August 23, 2023 — 23 Aug 2023 — Overall, 46% of Americans...</p></details>
+   Link:<a href="https://www.pewresearch.org/short-reads/2023/08/23/many-americans-report-interacting-with-dead-relatives-in-dreams-or-other-ways/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/short-reads/2023/08/23/many-americans-report-interacting-with-dead-relatives-in-dreams-or-other-ways/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pew Research CenterInteracting with dead relatives: What Americans say they...August 23, 2023 — 23 Aug 2023 — Overall, 46% of Americans...</p></details>
    Published: August 23, 2023  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/25628023/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/25628023/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>possible effects on bereavement of assisted after...by J Beischel · 2014 · Cited by 99 — This article aims to inform those who work with...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/25628023/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/25628023/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>possible effects on bereavement of assisted after...by J Beischel · 2014 · Cited by 99 — This article aims to inform those who work with...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/345324954_Sensory_and_Quasi-Sensory_Experiences_of_the_Deceased_in_Bereavement_An_Interdisciplinary_and_Integrative_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/345324954_Sensory_and_Quasi-Sensory_Experiences_of_the_Deceased_in_Bereavement_An_Interdisciplinary_and_Integrative_Review</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sensory and Quasi-Sensory Experiences of the Deceased...3 May 2026 — Bereaved people often report having sensory and quasi-sensory exper...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/345324954_Sensory_and_Quasi-Sensory_Experiences_of_the_Deceased_in_Bereavement_An_Interdisciplinary_and_Integrative_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/345324954_Sensory_and_Quasi-Sensory_Experiences_of_the_Deceased_in_Bereavement_An_Interdisciplinary_and_Integrative_Review</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sensory and Quasi-Sensory Experiences of the Deceased...3 May 2026 — Bereaved people often report having sensory and quasi-sensory exper...</p></details>
    Published: May 2026  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pure.northampton.ac.uk  
-   Link: <a href="https://pure.northampton.ac.uk/files/25092861/Phenomenology_and_impact_of_hallucinations_concerning_the_deceased_Elsaesser_Roe_Cooper_CUP_2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.northampton.ac.uk/files/25092861/Phenomenology_and_impact_of_hallucinations_concerning_the_deceased_Elsaesser_Roe_Cooper_CUP_2021.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>northampton.ac.ukPhenomenology_and_impact_of...by E Elsaesser · 2021 · Cited by 54 — In this study we revisited Rees&#x27;s [observation](&amp;#123;&amp;#123; &#x27;observation/&#x27; | relative_url &amp;#125;&amp;#125;) that m...</p></details>
+   Link:<a href="https://pure.northampton.ac.uk/files/25092861/Phenomenology_and_impact_of_hallucinations_concerning_the_deceased_Elsaesser_Roe_Cooper_CUP_2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.northampton.ac.uk/files/25092861/Phenomenology_and_impact_of_hallucinations_concerning_the_deceased_Elsaesser_Roe_Cooper_CUP_2021.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>northampton.ac.ukPhenomenology_and_impact_of...by E Elsaesser · 2021 · Cited by 54 — In this study we revisited Rees&#x27;s [observation](&amp;#123;&amp;#123; &#x27;observation/&#x27; | relative_url &amp;#125;&amp;#125;) that m...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: lib.cam.ac.uk  
-   Link: <a href="https://www.lib.cam.ac.uk/collections/departments/archives-modern-and-medieval-manuscripts-and-university-archives-0" target="_blank" rel="noopener noreferrer nofollow">https://www.lib.cam.ac.uk/collections/departments/archives-modern-and-medieval-manuscripts-and-university-archives-0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>for Psychical Research | Cambridge University LibraryThe six initial areas of study were Thought-Transference, Mesmerism, Mediumship, Rei...</p></details>
+   Link:<a href="https://www.lib.cam.ac.uk/collections/departments/archives-modern-and-medieval-manuscripts-and-university-archives-0" target="_blank" rel="noopener noreferrer nofollow">https://www.lib.cam.ac.uk/collections/departments/archives-modern-and-medieval-manuscripts-and-university-archives-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>for Psychical Research | Cambridge University LibraryThe six initial areas of study were Thought-Transference, Mesmerism, Mediumship, Rei...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/texas/news/many-americans-say-theyve-interacted-with-deceased-family-members-in-dreams-study-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/texas/news/many-americans-say-theyve-interacted-with-deceased-family-members-in-dreams-study-says/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Many Americans say they&#x27;ve interacted with deceased...28 Aug 2023 — Just over half of 5,079 surveyed American adults – 53% – reported ev...</p></details>
+   Link:<a href="https://www.cbsnews.com/texas/news/many-americans-say-theyve-interacted-with-deceased-family-members-in-dreams-study-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/texas/news/many-americans-say-theyve-interacted-with-deceased-family-members-in-dreams-study-says/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Many Americans say they&#x27;ve interacted with deceased...28 Aug 2023 — Just over half of 5,079 surveyed American adults – 53% – reported ev...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: theguardian.com  
    Title: The Guardian What are the odds of witnessing the presence of a deceased spouse?  
-   Link: <a href="https://www.theguardian.com/news/datablog/2024/oct/21/witnessing-dead-spouse-study" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/datablog/2024/oct/21/witnessing-dead-spouse-study</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>datablogA recent initiative by Ring, tied to Halloween festivities, offers $100,000 for anyone capturing ghost sightings on their cameras...</p></details>
+   Link:<a href="https://www.theguardian.com/news/datablog/2024/oct/21/witnessing-dead-spouse-study" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/datablog/2024/oct/21/witnessing-dead-spouse-study</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>datablogA recent initiative by Ring, tied to Halloween festivities, offers $100,000 for anyone capturing ghost sightings on their cameras...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cbn.com  
    Title: stunning proportion americans report interacting dead relatives  
-   Link: <a href="https://cbn.com/news/cwn/stunning-proportion-americans-report-interacting-dead-relatives" target="_blank" rel="noopener noreferrer nofollow">https://cbn.com/news/cwn/stunning-proportion-americans-report-interacting-dead-relatives</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stunning Proportion of Americans Report &#x27;Interacting With...2 Sept 2023 — A stunning proportion of Americans recently reported “interact...</p></details>
+   Link:<a href="https://cbn.com/news/cwn/stunning-proportion-americans-report-interacting-dead-relatives" target="_blank" rel="noopener noreferrer nofollow">https://cbn.com/news/cwn/stunning-proportion-americans-report-interacting-dead-relatives</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stunning Proportion of Americans Report &#x27;Interacting With...2 Sept 2023 — A stunning proportion of Americans recently reported “interact...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
    Title: Shortly before or after someone dies, they and their loved  
-   Link: <a href="https://www.facebook.com/psychologytoday/posts/shortly-before-or-after-someone-dies-they-and-their-loved-ones-may-encounter-see/10159682472883845/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/psychologytoday/posts/shortly-before-or-after-someone-dies-they-and-their-loved-ones-may-encounter-see/10159682472883845/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>bereavement apparitions provide a sense of reassurance and connection to their departed loved ones. The apparitions may convey messages o...</p></details>
+   Link:<a href="https://www.facebook.com/psychologytoday/posts/shortly-before-or-after-someone-dies-they-and-their-loved-ones-may-encounter-see/10159682472883845/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/psychologytoday/posts/shortly-before-or-after-someone-dies-they-and-their-loved-ones-may-encounter-see/10159682472883845/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>bereavement apparitions provide a sense of reassurance and connection to their departed loved ones. The apparitions may convey messages o...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: psyche.co  
    Title: why so many of us see our loved ones after they have died  
-   Link: <a href="https://psyche.co/ideas/why-so-many-of-us-see-our-loved-ones-after-they-have-died" target="_blank" rel="noopener noreferrer nofollow">https://psyche.co/ideas/why-so-many-of-us-see-our-loved-ones-after-they-have-died</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Apr 2024 — These experiences – which are more of an illusion than a hallucination – can be a healthy part of the grieving process.Read...</p></details>
+   Link:<a href="https://psyche.co/ideas/why-so-many-of-us-see-our-loved-ones-after-they-have-died" target="_blank" rel="noopener noreferrer nofollow">https://psyche.co/ideas/why-so-many-of-us-see-our-loved-ones-after-they-have-died</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 Apr 2024 — These experiences – which are more of an illusion than a hallucination – can be a healthy part of the grieving process.Read...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: telegraph.co.uk  
    Title: more than half of people claim made contact dead family  
-   Link: <a href="https://www.telegraph.co.uk/news/2023/08/24/more-than-half-of-people-claim-made-contact-dead-family/" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/news/2023/08/24/more-than-half-of-people-claim-made-contact-dead-family/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>More than half of people &#x27;visited by a dead relative&#x27;24 Aug 2023 — When asked about recent experiences, 34 per cent of Americans say they...</p></details>
+   Link:<a href="https://www.telegraph.co.uk/news/2023/08/24/more-than-half-of-people-claim-made-contact-dead-family/" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/news/2023/08/24/more-than-half-of-people-claim-made-contact-dead-family/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>More than half of people &#x27;visited by a dead relative&#x27;24 Aug 2023 — When asked about recent experiences, 34 per cent of Americans say they...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: geae1992.com.br  
    Title: over a century of research on after death communication  
-   Link: <a href="https://geae1992.com.br/over-a-century-of-research-on-after-death-communication/" target="_blank" rel="noopener noreferrer nofollow">https://geae1992.com.br/over-a-century-of-research-on-after-death-communication/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Over a century of research on after-death communication5 Aug 2024 — Back at the Society for Psychical Research, spontaneous experiences o...</p></details>
+   Link:<a href="https://geae1992.com.br/over-a-century-of-research-on-after-death-communication/" target="_blank" rel="noopener noreferrer nofollow">https://geae1992.com.br/over-a-century-of-research-on-after-death-communication/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Over a century of research on after-death communication5 Aug 2024 — Back at the Society for Psychical Research, spontaneous experiences o...</p></details>

@@ -274,7 +274,7 @@ image: /assets/images/forteana_50bdc8_poltergeist_noisy_ev_2e0936_witness_cluste
 
 ## Introduction
 
-Poltergeist cases rarely remain private for long. Once neighbours, police officers, clergy, journalists or paranormal investigators begin visiting a household, the social environment becomes part of the evidence itself. Reports are no longer shaped only by the original witnesses, but also by expectations, repeated questioning, media attention and the practical challenges of managing a crowded home. For investigators—whether sceptical or sympathetic—this creates a central problem: it becomes increasingly difficult to distinguish between an unusual event, an honest recollection, a mistaken interpretation and behaviour influenced by an audience. Researchers across psychical research, [psychology]({{ 'psychology/' | relative_url }}) and sceptical inquiry have repeatedly identified this shift from domestic incident to public spectacle as one of the defining difficulties of evaluating poltergeist claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/poltergeists-overview/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">Psi Encyclopedia Poltergeists (Overview</span><span class="citation-popover-snippet">Psi EncyclopediaPoltergeists (Overview) - Psi Encyclopedia1 Mar 2015 — Noisy outbreaks of thrown objects, raps, fires and apparent mischi...</span></span></span>
+Poltergeist cases rarely remain private for long. Once neighbours, police officers, clergy, journalists or paranormal investigators begin visiting a household, the social environment becomes part of the evidence itself. Reports are no longer shaped only by the original witnesses, but also by expectations, repeated questioning, media attention and the practical challenges of managing a crowded home. For investigators—whether sceptical or sympathetic—this creates a central problem: it becomes increasingly difficult to distinguish between an unusual event, an honest recollection, a mistaken interpretation and behaviour influenced by an audience. Researchers across psychical research, [psychology]({{ 'psychology/' | relative_url }}) and sceptical inquiry have repeatedly identified this shift from domestic incident to public spectacle as one of the defining difficulties of evaluating poltergeist claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/poltergeists-overview/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">Psi Encyclopedia Poltergeists (Overview</span><span class="citation-popover-snippet">Psi EncyclopediaPoltergeists (Overview) - Psi Encyclopedia1 Mar 2015 — Noisy outbreaks of thrown objects, raps, fires and apparent mischi...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_poltergeist_noisy_ev_2e0936_witness_clusters_med_533e61-Illustration-1-dark.svg" | relative_url }}" alt="Witness Pressure illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_poltergeist_noisy_ev_2e0936_witness_clusters_med_533e61-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_poltergeist_noisy_ev_2e0936_witness_clusters_med_533e61-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -284,7 +284,7 @@ A typical poltergeist report begins with a small number of closely connected wit
 
 This matters because witness testimony is not collected under laboratory conditions. People discuss what they have seen before formal interviews take place. Memories are revised as individuals compare experiences. Incidents that originally seemed unrelated may later be grouped together into a single "outbreak". Conversely, ambiguous events may be forgotten if they do not fit the emerging narrative.
 
-Psychological research on eyewitness testimony has long shown that memory is reconstructive rather than photographic. Repeated discussion, leading questions and knowledge of other people's experiences can alter later recollections without deliberate dishonesty. Poltergeist investigations create precisely these conditions: emotionally charged situations, repeated interviews and strong expectations that something remarkable is occurring. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kureansiklopedi.com/en/detay/enfield-poltergeist-case-bd698" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kureansiklopedi.com">[Küre Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kureansiklopedi.com</span><span class="citation-popover-snippet">Küre EncyclopediaEnfield Poltergeist Case &#124; KÜRE EncyclopediaThe house was not a laboratory: the placement of cameras and microphones, ch...</span></span></span>
+Psychological research on eyewitness testimony has long shown that memory is reconstructive rather than photographic. Repeated discussion, leading questions and knowledge of other people's experiences can alter later recollections without deliberate dishonesty. Poltergeist investigations create precisely these conditions: emotionally charged situations, repeated interviews and strong expectations that something remarkable is occurring.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kureansiklopedi.com/en/detay/enfield-poltergeist-case-bd698" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kureansiklopedi.com">[Küre Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kureansiklopedi.com</span><span class="citation-popover-snippet">Küre EncyclopediaEnfield Poltergeist Case &#124; KÜRE EncyclopediaThe house was not a laboratory: the placement of cameras and microphones, ch...</span></span></span>
 
 ## Children, reporters and incentives for drama
 
@@ -292,7 +292,7 @@ Many of the best-known twentieth-century poltergeist cases centred on children o
 
 Children quickly become aware that adults are paying close attention. Investigators may spend hours asking questions. [Newspapers]({{ 'newspapers/' | relative_url }}) seek dramatic quotations. Television crews may request demonstrations or re-enactments. Even without conscious deception, the incentive structure changes because unusual behaviour receives immediate attention and ordinary behaviour does not.
 
-The widely publicised [Enfield]({{ 'enfield/' | relative_url }}) case illustrates this tension. Over eighteen months, neighbours, journalists, photographers and investigators reported witnessing unusual events, while extensive media coverage transformed an ordinary council house into an international paranormal story. At the same time, investigators documented occasions on which the children admitted to pranks or were observed producing at least some effects themselves. Supporters argued that these episodes did not explain every reported incident, whereas critics concluded that publicity encouraged exaggeration and performance. Even investigators who believed aspects of the case were genuine acknowledged that not every reported event could be accepted uncritically. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Enfield_poltergeist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Enfield poltergeist</span><span class="citation-popover-snippet">Enfield poltergeist</span></span></span>
+The widely publicised [Enfield]({{ 'enfield/' | relative_url }}) case illustrates this tension. Over eighteen months, neighbours, journalists, photographers and investigators reported witnessing unusual events, while extensive media coverage transformed an ordinary council house into an international paranormal story. At the same time, investigators documented occasions on which the children admitted to pranks or were observed producing at least some effects themselves. Supporters argued that these episodes did not explain every reported incident, whereas critics concluded that publicity encouraged exaggeration and performance. Even investigators who believed aspects of the case were genuine acknowledged that not every reported event could be accepted uncritically.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Enfield_poltergeist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Enfield poltergeist</span><span class="citation-popover-snippet">Enfield poltergeist</span></span></span>
 
 Media attention can also reinforce witness confidence. Once newspapers present a household as haunted, later visitors often arrive expecting to witness extraordinary events. Expectations influence both interpretation and reporting, increasing the likelihood that ambiguous sounds or movements will be viewed as paranormal rather than ordinary.
 
@@ -312,7 +312,7 @@ These practical realities create several investigative difficulties:
 * Continuous [observation]({{ 'observation/' | relative_url }}) is almost impossible without disrupting ordinary family life.
 * Privacy concerns prevent investigators from monitoring every space at every moment.
 
-Researchers associated with the Society for Psychical Research have repeatedly noted that poltergeist cases are unusually resistant to controlled observation because they occur in ordinary households rather than experimental settings. The environment itself limits the degree of scientific control that can realistically be imposed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/poltergeists-overview/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">Psi Encyclopedia Poltergeists (Overview</span><span class="citation-popover-snippet">Psi EncyclopediaPoltergeists (Overview) - Psi Encyclopedia1 Mar 2015 — Noisy outbreaks of thrown objects, raps, fires and apparent mischi...</span></span></span>
+Researchers associated with the Society for Psychical Research have repeatedly noted that poltergeist cases are unusually resistant to controlled observation because they occur in ordinary households rather than experimental settings. The environment itself limits the degree of scientific control that can realistically be imposed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/poltergeists-overview/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">Psi Encyclopedia Poltergeists (Overview</span><span class="citation-popover-snippet">Psi EncyclopediaPoltergeists (Overview) - Psi Encyclopedia1 Mar 2015 — Noisy outbreaks of thrown objects, raps, fires and apparent mischi...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_poltergeist_noisy_ev_2e0936_witness_clusters_med_533e61-Illustration-2-dark.svg" | relative_url }}" alt="Witness Pressure illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_poltergeist_noisy_ev_2e0936_witness_clusters_med_533e61-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_poltergeist_noisy_ev_2e0936_witness_clusters_med_533e61-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -347,7 +347,7 @@ News organisations naturally favour dramatic developments: flying objects, myste
 
 Coverage may also alter behaviour inside the household itself. Families experience public scrutiny, neighbours become more attentive to unusual noises and additional investigators arrive after reading newspaper reports. The investigation becomes part of the story, creating feedback between reporting and the events being reported.
 
-The 1958 [Seaford]({{ 'seaford/' | relative_url }}) case demonstrates this process. Reports of unexplained disturbances attracted police officers, journalists and psychical researchers, turning a local household problem into a widely discussed public mystery. Later assessments reached sharply different conclusions about the significance of the evidence, illustrating how extensive publicity does not necessarily resolve questions about what actually occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/William_G._Roll" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">William G. Roll</span><span class="citation-popover-snippet">William G. Roll</span></span></span>
+The 1958 [Seaford]({{ 'seaford/' | relative_url }}) case demonstrates this process. Reports of unexplained disturbances attracted police officers, journalists and psychical researchers, turning a local household problem into a widely discussed public mystery. Later assessments reached sharply different conclusions about the significance of the evidence, illustrating how extensive publicity does not necessarily resolve questions about what actually occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/William_G._Roll" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">William G. Roll</span><span class="citation-popover-snippet">William G. Roll</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_poltergeist_noisy_ev_2e0936_witness_clusters_med_533e61-Illustration-3-dark.svg" | relative_url }}" alt="Witness Pressure illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_poltergeist_noisy_ev_2e0936_witness_clusters_med_533e61-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_poltergeist_noisy_ev_2e0936_witness_clusters_med_533e61-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -359,201 +359,201 @@ Researchers inclined towards paranormal interpretations may regard the persisten
 
 The disagreement often concerns methodology more than individual honesty. Both perspectives generally accept that many witnesses sincerely believed they experienced something unusual. The dispute centres on whether sincere testimony collected under conditions of intense social attention can reliably establish extraordinary physical claims.
 
-For this reason, modern discussions of classic poltergeist cases increasingly examine not only the reported phenomena but also the evolving social network surrounding them. Who was present, who influenced whom, when statements were recorded and how media attention altered the household have become central questions rather than peripheral details. These factors do not prove or disprove paranormal claims, but they are essential for understanding why apparently impressive witness clusters can remain evidentially ambiguous. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/poltergeists-overview/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">Psi Encyclopedia Poltergeists (Overview</span><span class="citation-popover-snippet">Psi EncyclopediaPoltergeists (Overview) - Psi Encyclopedia1 Mar 2015 — Noisy outbreaks of thrown objects, raps, fires and apparent mischi...</span></span></span>
+For this reason, modern discussions of classic poltergeist cases increasingly examine not only the reported phenomena but also the evolving social network surrounding them. Who was present, who influenced whom, when statements were recorded and how media attention altered the household have become central questions rather than peripheral details. These factors do not prove or disprove paranormal claims, but they are essential for understanding why apparently impressive witness clusters can remain evidentially ambiguous.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/poltergeists-overview/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">Psi Encyclopedia Poltergeists (Overview</span><span class="citation-popover-snippet">Psi EncyclopediaPoltergeists (Overview) - Psi Encyclopedia1 Mar 2015 — Noisy outbreaks of thrown objects, raps, fires and apparent mischi...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QTmg6qWZbuU" title="A Haunting Experience: The Enfield Poltergeist with Jerry Rothwell" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QTmg6qWZbuU" target="_blank" rel="noopener noreferrer">A Haunting Experience: The Enfield Poltergeist with Jerry Rothwell</a></p><p class="youtube-embed-meta">Channel: Factual America Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QTmg6qWZbuU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QTmg6qWZbuU">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How a Household Mystery Becomes a Public Case. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How a Household Mystery Becomes a Public Case. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports critical assessment of public paranormal claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports critical assessment of public paranormal claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explains memory, belief and self-justification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains memory, belief and self-justification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+house+is+haunted+Guy+Lyon+Playfair&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This house is haunted on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8492545-M.jpg" alt="Cover for This house is haunted" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+house+is+haunted+Guy+Lyon+Playfair&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This house is haunted">This house is haunted</a>
-        </h4>
-        <p class="fr-book-author">By Guy Lyon Playfair</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+house+is+haunted+Guy+Lyon+Playfair&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This house is haunted on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8492545-M.jpg" alt="Cover for This house is haunted" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+house+is+haunted+Guy+Lyon+Playfair&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This house is haunted">This house is haunted</a>
+</h4>
+<p class="fr-book-author">By Guy Lyon Playfair</p>
         
-        <p class="fr-book-desc">First published 1980. Subjects: Poltergeists, History, Case studies, London (england), description and travel, London (england), history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+house+is+haunted+Guy+Lyon+Playfair&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1980. Subjects: Poltergeists, History, Case studies, London (england), description and travel, London (england), history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+house+is+haunted+Guy+Lyon+Playfair&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Paranormality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12284173-M.jpg" alt="Cover for Paranormality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Paranormality">Paranormality</a>
-        </h4>
-        <p class="fr-book-author">By Richard Wiseman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Paranormality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12284173-M.jpg" alt="Cover for Paranormality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Paranormality">Paranormality</a>
+</h4>
+<p class="fr-book-author">By Richard Wiseman</p>
         
-        <p class="fr-book-desc">First published 2011. Subjects: Parapsychology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011. Subjects: Parapsychology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+house+is+haunted&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This house is haunted</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+house+is+haunted&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This house is haunted</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mystery forest Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5eb2b9bf8e926c565ad6.jpg' | relative_url }}" alt="Listing image for Mystery forest Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Mystery forest Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mystery forest Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5eb2b9bf8e926c565ad6.jpg' | relative_url }}" alt="Listing image for Mystery forest Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Mystery forest Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mystery Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ca24716f9f89915101b9.jpg' | relative_url }}" alt="Listing image for Mystery Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Mystery Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mystery Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ca24716f9f89915101b9.jpg' | relative_url }}" alt="Listing image for Mystery Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Mystery Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for mystery house Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6395bae7581ab610b9ca.jpg' | relative_url }}" alt="Listing image for mystery house Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">mystery house Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for mystery house Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6395bae7581ab610b9ca.jpg' | relative_url }}" alt="Listing image for mystery house Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">mystery house Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gothic Silhouette Painting on Rustic Wood | Staircase Mystery Wall Art"><img src="{{ '/assets/images/marketplace-covers/7f3f2c5e40c1a5c1ca26.jpg' | relative_url }}" alt="Listing image for Gothic Silhouette Painting on Rustic Wood | Staircase Mystery Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Gothic Silhouette Painting on Rustic Wood | Staircase Mystery Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gothic Silhouette Painting on Rustic Wood | Staircase Mystery Wall Art"><img src="{{ '/assets/images/marketplace-covers/7f3f2c5e40c1a5c1ca26.jpg' | relative_url }}" alt="Listing image for Gothic Silhouette Painting on Rustic Wood | Staircase Mystery Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Gothic Silhouette Painting on Rustic Wood | Staircase Mystery Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="witness-pressure-how-a-household-mystery-becomes-a-public-case-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -569,7 +569,7 @@ For this reason, modern discussions of classic poltergeist cases increasingly ex
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -589,7 +589,7 @@ For this reason, modern discussions of classic poltergeist cases increasingly ex
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -621,7 +621,7 @@ For this reason, modern discussions of classic poltergeist cases increasingly ex
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -673,7 +673,7 @@ For this reason, modern discussions of classic poltergeist cases increasingly ex
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -718,7 +718,7 @@ For this reason, modern discussions of classic poltergeist cases increasingly ex
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -759,78 +759,78 @@ For this reason, modern discussions of classic poltergeist cases increasingly ex
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Enfield poltergeist  
-   Link: <a href="https://en.wikipedia.org/wiki/Enfield_poltergeist" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Enfield_poltergeist</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Enfield_poltergeist" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Enfield_poltergeist</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: William G. Roll  
-   Link: <a href="https://en.wikipedia.org/wiki/William_G._Roll" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/William_G._Roll</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/William_G._Roll" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/William_G._Roll</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: psi-encyclopedia.spr.ac.uk  
    Title: Psi Encyclopedia Poltergeists (Overview)  
-   Link: <a href="https://psi-encyclopedia.spr.ac.uk/articles/poltergeists-overview/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/articles/poltergeists-overview/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Psi EncyclopediaPoltergeists (Overview) - Psi Encyclopedia1 Mar 2015 — Noisy outbreaks of thrown objects, raps, fires and apparent mischi...</p></details>
+   Link:<a href="https://psi-encyclopedia.spr.ac.uk/articles/poltergeists-overview/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/articles/poltergeists-overview/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psi EncyclopediaPoltergeists (Overview) - Psi Encyclopedia1 Mar 2015 — Noisy outbreaks of thrown objects, raps, fires and apparent mischi...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: kureansiklopedi.com  
-   Link: <a href="https://kureansiklopedi.com/en/detay/enfield-poltergeist-case-bd698" target="_blank" rel="noopener noreferrer nofollow">https://kureansiklopedi.com/en/detay/enfield-poltergeist-case-bd698</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Küre EncyclopediaEnfield Poltergeist Case | KÜRE EncyclopediaThe house was not a laboratory: the placement of cameras and microphones, ch...</p></details>
+   Link:<a href="https://kureansiklopedi.com/en/detay/enfield-poltergeist-case-bd698" target="_blank" rel="noopener noreferrer nofollow">https://kureansiklopedi.com/en/detay/enfield-poltergeist-case-bd698</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Küre EncyclopediaEnfield Poltergeist Case | KÜRE EncyclopediaThe house was not a laboratory: the placement of cameras and microphones, ch...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BBCRadio4/posts/what-to-do-if-a-poltergeist-throws-something-at-your-head-according-to-ciar%C3%A1n-ok/1517781613724863/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCRadio4/posts/what-to-do-if-a-poltergeist-throws-something-at-your-head-according-to-ciar%C3%A1n-ok/1517781613724863/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>al media, and in a 2023 article by the Derbyshire Times, the...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/BBCRadio4/posts/what-to-do-if-a-poltergeist-throws-something-at-your-head-according-to-ciar%C3%A1n-ok/1517781613724863/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCRadio4/posts/what-to-do-if-a-poltergeist-throws-something-at-your-head-according-to-ciar%C3%A1n-ok/1517781613724863/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>al media, and in a 2023 article by the Derbyshire Times, the...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: huggingface.co  
-   Link: <a href="https://huggingface.co/helboukkouri/character-bert/raw/main/mlm_vocab.txt" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/helboukkouri/character-bert/raw/main/mlm_vocab.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>brown problems academy effect...Read more...</p></details>
+   Link:<a href="https://huggingface.co/helboukkouri/character-bert/raw/main/mlm_vocab.txt" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/helboukkouri/character-bert/raw/main/mlm_vocab.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>brown problems academy effect...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ep.sci.hokudai.ac.jp  
-   Link: <a href="https://www.ep.sci.hokudai.ac.jp/~inex/y2015/0501/practical/kadaidata/bin/dic2010" target="_blank" rel="noopener noreferrer nofollow">https://www.ep.sci.hokudai.ac.jp/~inex/y2015/0501/practical/kadaidata/bin/dic2010</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>cmzc cnb cng cnh cni cnl cnm...Read more...</p></details>
+   Link:<a href="https://www.ep.sci.hokudai.ac.jp/~inex/y2015/0501/practical/kadaidata/bin/dic2010" target="_blank" rel="noopener noreferrer nofollow">https://www.ep.sci.hokudai.ac.jp/~inex/y2015/0501/practical/kadaidata/bin/dic2010</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cmzc cnb cng cnh cni cnl cnm...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: A Haunting Experience: The Enfield Poltergeist with Jerry Rothwell  
-   Link: <a href="https://www.youtube.com/watch?v=QTmg6qWZbuU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QTmg6qWZbuU</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Poltergeist Phenomena with Stephen E. Braude...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QTmg6qWZbuU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QTmg6qWZbuU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Poltergeist Phenomena with Stephen E. Braude...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Poltergeist Phenomena with Stephen E. Braude  
-   Link: <a href="https://www.youtube.com/watch?v=-nwG7p9MJ0U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-nwG7p9MJ0U</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1977: The ENFIELD POLTERGEIST | Nationwide | Weird and Wonderful | BBC Archive...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-nwG7p9MJ0U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-nwG7p9MJ0U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1977: The ENFIELD POLTERGEIST | Nationwide | Weird and Wonderful | BBC Archive...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: The Enfield Poltergeist  
-   Link: <a href="https://www.youtube.com/watch?v=9HUUuzXZLGo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9HUUuzXZLGo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The TRUE Haunting of The Enfield Poltergeist...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9HUUuzXZLGo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9HUUuzXZLGo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The TRUE Haunting of The Enfield Poltergeist...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: open.library.ubc.ca  
-   Link: <a href="https://open.library.ubc.ca/media/stream/pdf/24/1.0319257/4" target="_blank" rel="noopener noreferrer nofollow">https://open.library.ubc.ca/media/stream/pdf/24/1.0319257/4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE POLTERGEIST IN TWENTIETH...by C Laursen · 2016 · Cited by 4 — I argue that collaborative knowledge-making between researchers and th...</p></details>
+   Link:<a href="https://open.library.ubc.ca/media/stream/pdf/24/1.0319257/4" target="_blank" rel="noopener noreferrer nofollow">https://open.library.ubc.ca/media/stream/pdf/24/1.0319257/4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE POLTERGEIST IN TWENTIETH...by C Laursen · 2016 · Cited by 4 — I argue that collaborative knowledge-making between researchers and th...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: The TRUE Haunting of The Enfield Poltergeist  
-   Link: <a href="https://www.youtube.com/watch?v=rkhWohPGBXw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rkhWohPGBXw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Haunting Experience: The Enfield Poltergeist with Jerry Rothwell...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rkhWohPGBXw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rkhWohPGBXw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Haunting Experience: The Enfield Poltergeist with Jerry Rothwell...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: journalofscientificexploration.org  
-   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/3263/2181" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/3263/2181</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Detailed Phenomenology of Poltergeist Events30 Sept 2024 — The objective of this paper is to propose a reference point in the phenomeno...</p></details>
+   Link:<a href="https://journalofscientificexploration.org/index.php/jse/article/view/3263/2181" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/3263/2181</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Detailed Phenomenology of Poltergeist Events30 Sept 2024 — The objective of this paper is to propose a reference point in the phenomeno...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=_iqvDOEcjsM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_iqvDOEcjsM</a>  
+   Link:<a href="https://www.youtube.com/watch?v=_iqvDOEcjsM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_iqvDOEcjsM</a>  

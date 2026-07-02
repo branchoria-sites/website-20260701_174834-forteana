@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /forteana-50bdc8-weather-strange-fall/
 description: Focused pages that expand on Weather.
-date: '2026-07-01'
+date: '2026'
 layout: default
 parent_basename: forteana_50bdc8_weather_strange_fall_4c1363
 parent_title: Weather
@@ -16,7 +16,7 @@ parent_permalink: /weather/
 
 # Explore Topics in Weather
 
-The following pages expand on the main **[Weather]({{ '/weather/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Weather]({{ '/weather/' | relative_url }})** page and cover its key branches in.
 
 - [Debris Clues]({{ '/debris-clues/' | relative_url }})
 - [Bird Drops]({{ '/bird-drops/' | relative_url }})

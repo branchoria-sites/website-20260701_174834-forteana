@@ -280,17 +280,17 @@ image: /assets/images/forteana_50bdc8_weather_strange_fall_4c1363_worms_after_ra
 
 ## Introduction
 
-Few scenes create a stronger impression of a "strange fall" than a pavement suddenly covered with writhing earthworms after heavy rain. To someone arriving after the storm, the worms can appear to have dropped from the sky along with the rain itself. Within Fortean collections, such scenes sometimes become retold as "worm rain". In nearly all documented everyday cases, however, the evidence points to a far less mysterious sequence: the worms were already in the ground, emerged during wet conditions, and only became highly visible once they reached hard surfaces. The mystery lies less in animals falling from the sky than in how [weather]({{ 'weather/' | relative_url }}) changes where people notice them. Studies of earthworm behaviour and soil ecology consistently support this interpretation, although researchers still debate the precise reasons why worms leave the soil during rainfall. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.niehs.nih.gov/health/kids/topics/natural-world/wildlife/ecology/earthworms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niehs.nih.gov">[NIH Environmental Health+2earthwormsoc.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niehs.nih.gov</span><span class="citation-popover-snippet">NIH Environmental HealthWhy do Earthworms Crawl on the Sidewalk?As they need to stay consistently wet, earthworms wait until the top laye...</span></span></span>
+Few scenes create a stronger impression of a "strange fall" than a pavement suddenly covered with writhing earthworms after heavy rain. To someone arriving after the storm, the worms can appear to have dropped from the sky along with the rain itself. Within Fortean collections, such scenes sometimes become retold as "worm rain". In nearly all documented everyday cases, however, the evidence points to a far less mysterious sequence: the worms were already in the ground, emerged during wet conditions, and only became highly visible once they reached hard surfaces. The mystery lies less in animals falling from the sky than in how [weather]({{ 'weather/' | relative_url }}) changes where people notice them. Studies of earthworm behaviour and soil ecology consistently support this interpretation, although researchers still debate the precise reasons why worms leave the soil during rainfall.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.niehs.nih.gov/health/kids/topics/natural-world/wildlife/ecology/earthworms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niehs.nih.gov">[NIH Environmental Health+2earthwormsoc.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niehs.nih.gov</span><span class="citation-popover-snippet">NIH Environmental HealthWhy do Earthworms Crawl on the Sidewalk?As they need to stay consistently wet, earthworms wait until the top laye...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_weather_strange_fall_4c1363_worms_after_rain_79ca37-Illustration-1-dark.svg" | relative_url }}" alt="Worm Falls illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_weather_strange_fall_4c1363_worms_after_rain_79ca37-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_weather_strange_fall_4c1363_worms_after_rain_79ca37-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why worms surface during wet weather
 
-Earthworms breathe through their moist skin rather than with lungs, so they require damp conditions to survive. Rain provides an unusual opportunity: the soil surface remains wet enough for worms to travel across it without drying out quickly. Moving over the surface is often much faster than tunnelling through dense soil, allowing worms to disperse, seek mates or colonise new patches of habitat. This "migration" explanation currently has the strongest support among earthworm specialists. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.earthwormsoc.org.uk/FAQrain" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthwormsoc.org.uk">[earthwormsoc.org.uk+2NIH Environmental Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthwormsoc.org.uk</span><span class="citation-popover-snippet">ace when it is wet, to find food, new habitats or a mate.Read more...</span></span></span>
+Earthworms breathe through their moist skin rather than with lungs, so they require damp conditions to survive. Rain provides an unusual opportunity: the soil surface remains wet enough for worms to travel across it without drying out quickly. Moving over the surface is often much faster than tunnelling through dense soil, allowing worms to disperse, seek mates or colonise new patches of habitat. This "migration" explanation currently has the strongest support among earthworm specialists.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.earthwormsoc.org.uk/FAQrain" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthwormsoc.org.uk">[earthwormsoc.org.uk+2NIH Environmental Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthwormsoc.org.uk</span><span class="citation-popover-snippet">ace when it is wet, to find food, new habitats or a mate.Read more...</span></span></span>
 
-Older explanations suggested that worms simply emerge to avoid drowning in flooded burrows. While this can happen in severely waterlogged soils with poor oxygen levels, it is no longer regarded as the universal explanation. Many earthworm species tolerate saturated soils surprisingly well because oxygen can still diffuse through water, provided enough remains available. Researchers therefore view oxygen shortage as one possible factor rather than the whole story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.wisc.edu/curiosities-after-rains-why-do-worms-crawl-out-onto-the-pavement-and-commit-suicide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.wisc.edu">[News+2The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.wisc.edu</span><span class="citation-popover-snippet">Curiosities: After rains, why do worms crawl out onto the...Jun 29, 2007 — “The worms can&#x27;t get enough oxygen when the soil is flood...</span></span></span>
+Older explanations suggested that worms simply emerge to avoid drowning in flooded burrows. While this can happen in severely waterlogged soils with poor oxygen levels, it is no longer regarded as the universal explanation. Many earthworm species tolerate saturated soils surprisingly well because oxygen can still diffuse through water, provided enough remains available. Researchers therefore view oxygen shortage as one possible factor rather than the whole story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.wisc.edu/curiosities-after-rains-why-do-worms-crawl-out-onto-the-pavement-and-commit-suicide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.wisc.edu">[News+2The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.wisc.edu</span><span class="citation-popover-snippet">Curiosities: After rains, why do worms crawl out onto the...Jun 29, 2007 — “The worms can&#x27;t get enough oxygen when the soil is flood...</span></span></span>
 
-Another long-discussed idea concerns vibration. Raindrops striking the ground create vibrations that may resemble those produced by burrowing predators such as moles. Earthworms are known to respond to ground vibrations, and this sensitivity is exploited in traditional "worm charming", where vibrations encourage worms to emerge. Whether rainfall consistently triggers this response remains debated, but it may contribute alongside migration and local soil conditions rather than replacing them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scientificamerican.com/article/why-earthworms-surface-after-rain/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American+2Science Focus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">why earthworms surface after rain</span><span class="citation-popover-snippet">Rain can set up vibrations on top of the soil like mole vibrations,&quot; said Professor Josef...Read more...</span></span></span>
+Another long-discussed idea concerns vibration. Raindrops striking the ground create vibrations that may resemble those produced by burrowing predators such as moles. Earthworms are known to respond to ground vibrations, and this sensitivity is exploited in traditional "worm charming", where vibrations encourage worms to emerge. Whether rainfall consistently triggers this response remains debated, but it may contribute alongside migration and local soil conditions rather than replacing them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scientificamerican.com/article/why-earthworms-surface-after-rain/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American+2Science Focus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">why earthworms surface after rain</span><span class="citation-popover-snippet">Rain can set up vibrations on top of the soil like mole vibrations,&quot; said Professor Josef...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/boCvsaLRoUc" title="Why Worms Come Out After a Storm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=boCvsaLRoUc" target="_blank" rel="noopener noreferrer">Why Worms Come Out After a Storm</a></p><p class="youtube-embed-meta">Channel: The Weather Channel</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=boCvsaLRoUc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=boCvsaLRoUc">Open on YouTube</a></p></div></div></div>
@@ -301,7 +301,7 @@ The illusion of worms having "rained down" depends heavily on where they end up.
 
 Grass, leaf litter and loose soil hide emerging worms remarkably well. Concrete, tarmac and paving stones do the opposite: every worm becomes conspicuous against a flat, exposed surface. Hundreds of worms may therefore seem to appear suddenly, even though they have simply crawled out from the surrounding ground over several hours.
 
-Hard surfaces also trap worms in unfamiliar terrain. Unlike soil, pavements provide no burrows into which they can retreat once conditions begin drying. Artificial lighting, kerbs, roads and buildings may further disrupt their ability to return underground. As the rain stops, stranded worms often remain scattered across the pavement, creating the impression that they have just arrived from above rather than crawled there earlier. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.wisc.edu/curiosities-after-rains-why-do-worms-crawl-out-onto-the-pavement-and-commit-suicide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.wisc.edu">[News+2NIH Environmental Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.wisc.edu</span><span class="citation-popover-snippet">Curiosities: After rains, why do worms crawl out onto the...Jun 29, 2007 — “The worms can&#x27;t get enough oxygen when the soil is flood...</span></span></span>
+Hard surfaces also trap worms in unfamiliar terrain. Unlike soil, pavements provide no burrows into which they can retreat once conditions begin drying. Artificial lighting, kerbs, roads and buildings may further disrupt their ability to return underground. As the rain stops, stranded worms often remain scattered across the pavement, creating the impression that they have just arrived from above rather than crawled there earlier.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.wisc.edu/curiosities-after-rains-why-do-worms-crawl-out-onto-the-pavement-and-commit-suicide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.wisc.edu">[News+2NIH Environmental Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.wisc.edu</span><span class="citation-popover-snippet">Curiosities: After rains, why do worms crawl out onto the...Jun 29, 2007 — “The worms can&#x27;t get enough oxygen when the soil is flood...</span></span></span>
 
 This timing matters. Most witnesses encounter the aftermath rather than watching the worms emerge. Human memory naturally compresses events, encouraging a narrative in which the worms and the rain arrived together from the sky.
 
@@ -313,7 +313,7 @@ Stories of mysterious falls often gain strength because observers encounter an u
 
 Unlike reports of fish or frogs associated with tornadoes or [waterspouts]({{ 'waterspouts/' | relative_url }}), earthworms require no aerial transport to produce a striking spectacle. A local population emerging simultaneously after favourable rainfall can create a scene every bit as surprising as a genuine animal fall, especially when viewed without knowledge of earthworm ecology.
 
-This makes worm "rains" an instructive example within [Forteana]({{ 'forteana/' | relative_url }}). They demonstrate how an authentic natural event can produce eyewitness descriptions that sound extraordinary while requiring no impossible mechanism. The phenomenon sits at the boundary between meteorology, animal behaviour and human perception rather than serving as evidence that worms literally descended with the rain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.earthwormsoc.org.uk/FAQrain" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthwormsoc.org.uk">[earthwormsoc.org.uk+2NIH Environmental Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthwormsoc.org.uk</span><span class="citation-popover-snippet">ace when it is wet, to find food, new habitats or a mate.Read more...</span></span></span>
+This makes worm "rains" an instructive example within [Forteana]({{ 'forteana/' | relative_url }}). They demonstrate how an authentic natural event can produce eyewitness descriptions that sound extraordinary while requiring no impossible mechanism. The phenomenon sits at the boundary between meteorology, animal behaviour and human perception rather than serving as evidence that worms literally descended with the rain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.earthwormsoc.org.uk/FAQrain" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthwormsoc.org.uk">[earthwormsoc.org.uk+2NIH Environmental Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthwormsoc.org.uk</span><span class="citation-popover-snippet">ace when it is wet, to find food, new habitats or a mate.Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/V4zhogVAuqc" title="Why Do Earthworms Come Out After It Rains?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=V4zhogVAuqc" target="_blank" rel="noopener noreferrer">Why Do Earthworms Come Out After It Rains?</a></p><p class="youtube-embed-meta">Channel: SciShow</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=V4zhogVAuqc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=V4zhogVAuqc">Open on YouTube</a></p></div></div></div>
@@ -329,7 +329,7 @@ When evaluating a report that worms appeared after rain, several observations he
 * Look for nearby lawns, woodland, fields or gardens that could supply large numbers of earthworms.
 * Ask whether anyone actually observed worms descending through the air, or whether they were simply noticed after rainfall ended.
 * Examine whether the worms are alive and actively crawling, suggesting recent emergence from surrounding soil rather than impact after long-distance transport.
-* Consider whether the event followed ordinary rain or an exceptional storm capable of producing powerful local vortices. Most post-rain worm sightings occur without evidence of tornadoes or waterspouts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.niehs.nih.gov/health/kids/topics/natural-world/wildlife/ecology/earthworms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niehs.nih.gov">[NIH Environmental Health+2earthwormsoc.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niehs.nih.gov</span><span class="citation-popover-snippet">NIH Environmental HealthWhy do Earthworms Crawl on the Sidewalk?As they need to stay consistently wet, earthworms wait until the top laye...</span></span></span>
+* Consider whether the event followed ordinary rain or an exceptional storm capable of producing powerful local vortices. Most post-rain worm sightings occur without evidence of tornadoes or waterspouts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.niehs.nih.gov/health/kids/topics/natural-world/wildlife/ecology/earthworms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niehs.nih.gov">[NIH Environmental Health+2earthwormsoc.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niehs.nih.gov</span><span class="citation-popover-snippet">NIH Environmental HealthWhy do Earthworms Crawl on the Sidewalk?As they need to stay consistently wet, earthworms wait until the top laye...</span></span></span>
 
 These clues cannot explain every historical anecdote, particularly older reports lacking detail, but they account for the overwhelming majority of modern observations of "worm falls". Rather than revealing animals raining from the sky, they show how wet weather briefly brings a hidden underground population into plain sight, where ordinary pavements transform a familiar ecological behaviour into what appears to be a remarkable atmospheric mystery.
 
@@ -337,194 +337,194 @@ These clues cannot explain every historical anecdote, particularly older reports
 <img src="{{ "/assets/images/forteana_50bdc8_weather_strange_fall_4c1363_worms_after_rain_79ca37-Illustration-3-dark.svg" | relative_url }}" alt="Worm Falls illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_weather_strange_fall_4c1363_worms_after_rain_79ca37-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_weather_strange_fall_4c1363_worms_after_rain_79ca37-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Worms Seem to Rain Down. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Worms Seem to Rain Down. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weather For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LtoPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Weather For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
-        </h4>
-        <p class="fr-book-author">By John D. Cox</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weather For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LtoPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Weather For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
+</h4>
+<p class="fr-book-author">By John D. Cox</p>
         
-        <p class="fr-book-desc">Explains rainfall conditions behind worm appearances.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains rainfall conditions behind worm appearances.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+Unusual+Knowledge+Publications+International+Ltd.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of Unusual Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10860496-M.jpg" alt="Cover for The Book of Unusual Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Book+of+Unusual+Knowledge+Publications+International+Ltd.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Unusual Knowledge">The Book of Unusual Knowledge</a>
-        </h4>
-        <p class="fr-book-author">By Publications International Ltd.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+Unusual+Knowledge+Publications+International+Ltd.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of Unusual Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10860496-M.jpg" alt="Cover for The Book of Unusual Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Book+of+Unusual+Knowledge+Publications+International+Ltd.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Unusual Knowledge">The Book of Unusual Knowledge</a>
+</h4>
+<p class="fr-book-author">By Publications International Ltd.</p>
         
-        <p class="fr-book-desc">First published 2012. Subjects: Curiosities and wonders.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Book+of+Unusual+Knowledge+Publications+International+Ltd.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2012. Subjects: Curiosities and wonders.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Book+of+Unusual+Knowledge+Publications+International+Ltd.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Biology+and+Ecology+of+Earthworms+Clive+A.+Edwards&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Biology and Ecology of Earthworms on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9969556-M.jpg" alt="Cover for Biology and Ecology of Earthworms" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Biology+and+Ecology+of+Earthworms+Clive+A.+Edwards&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Biology and Ecology of Earthworms">Biology and Ecology of Earthworms</a>
-        </h4>
-        <p class="fr-book-author">By Clive A. Edwards, Paul F. Hendrix et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Biology+and+Ecology+of+Earthworms+Clive+A.+Edwards&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Biology and Ecology of Earthworms on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9969556-M.jpg" alt="Cover for Biology and Ecology of Earthworms" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Biology+and+Ecology+of+Earthworms+Clive+A.+Edwards&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Biology and Ecology of Earthworms">Biology and Ecology of Earthworms</a>
+</h4>
+<p class="fr-book-author">By Clive A. Edwards, Paul F. Hendrix et al.</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Earthworms.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Biology+and+Ecology+of+Earthworms+Clive+A.+Edwards&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Earthworms.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Biology+and+Ecology+of+Earthworms+Clive+A.+Edwards&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mysteries of the Unexplained on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysteries of the Unexplained">Mysteries of the Unexplained</a>
-        </h4>
-        <p class="fr-book-author">By Reader&#x27;s Digest Association</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mysteries of the Unexplained on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysteries of the Unexplained">Mysteries of the Unexplained</a>
+</h4>
+<p class="fr-book-author">By Reader&#x27;s Digest Association</p>
         
-        <p class="fr-book-desc">First published 1985.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1985.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Weather+For+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weather For Dummies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+Unusual+Knowledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of Unusual Knowledge</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Biology+and+Ecology+of+Earthworms&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Biology and Ecology of Earthworms</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Weather+For+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weather For Dummies</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+Unusual+Knowledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of Unusual Knowledge</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Biology+and+Ecology+of+Earthworms&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Biology and Ecology of Earthworms</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print Fish Man Human Rain Umbrella Weird Strange Funny Ironic Out Of Water"><img src="{{ '/assets/images/marketplace-covers/83ba5668697ac14b9dab.jpg' | relative_url }}" alt="Listing image for Art Print Fish Man Human Rain Umbrella Weird Strange Funny Ironic Out Of Water" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">Art Print Fish Man Human Rain Umbrella Weird Strange Funny Ironic Out Of Water</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print Fish Man Human Rain Umbrella Weird Strange Funny Ironic Out Of Water"><img src="{{ '/assets/images/marketplace-covers/83ba5668697ac14b9dab.jpg' | relative_url }}" alt="Listing image for Art Print Fish Man Human Rain Umbrella Weird Strange Funny Ironic Out Of Water" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">Art Print Fish Man Human Rain Umbrella Weird Strange Funny Ironic Out Of Water</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Man Monochrome Rain Rainy Cloudy Walk Walking Behind Back Fish Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/27ff5433e18ed337d089.jpg' | relative_url }}" alt="Listing image for Man Monochrome Rain Rainy Cloudy Walk Walking Behind Back Fish Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">Man Monochrome Rain Rainy Cloudy Walk Walking Behind Back Fish Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Man Monochrome Rain Rainy Cloudy Walk Walking Behind Back Fish Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/27ff5433e18ed337d089.jpg' | relative_url }}" alt="Listing image for Man Monochrome Rain Rainy Cloudy Walk Walking Behind Back Fish Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">Man Monochrome Rain Rainy Cloudy Walk Walking Behind Back Fish Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Grinder fish rain clouds Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/9f733ce224aa6b0a4349.jpg' | relative_url }}" alt="Listing image for The Grinder fish rain clouds Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">The Grinder fish rain clouds Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Grinder fish rain clouds Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/9f733ce224aa6b0a4349.jpg' | relative_url }}" alt="Listing image for The Grinder fish rain clouds Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">The Grinder fish rain clouds Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for After The Rain Fjord Sea Boat Fishing Finnmark Norway Green Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/61d368165882a17db39e.jpg' | relative_url }}" alt="Listing image for After The Rain Fjord Sea Boat Fishing Finnmark Norway Green Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">After The Rain Fjord Sea Boat Fishing Finnmark Norway Green Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for After The Rain Fjord Sea Boat Fishing Finnmark Norway Green Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/61d368165882a17db39e.jpg' | relative_url }}" alt="Listing image for After The Rain Fjord Sea Boat Fishing Finnmark Norway Green Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">After The Rain Fjord Sea Boat Fishing Finnmark Norway Green Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="worm-falls-why-worms-seem-to-rain-down-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -540,7 +540,7 @@ These clues cannot explain every historical anecdote, particularly older reports
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -560,7 +560,7 @@ These clues cannot explain every historical anecdote, particularly older reports
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -592,7 +592,7 @@ These clues cannot explain every historical anecdote, particularly older reports
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -644,7 +644,7 @@ These clues cannot explain every historical anecdote, particularly older reports
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -689,7 +689,7 @@ These clues cannot explain every historical anecdote, particularly older reports
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -730,120 +730,120 @@ These clues cannot explain every historical anecdote, particularly older reports
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: niehs.nih.gov  
-   Link: <a href="https://www.niehs.nih.gov/health/kids/topics/natural-world/wildlife/ecology/earthworms" target="_blank" rel="noopener noreferrer nofollow">https://www.niehs.nih.gov/health/kids/topics/natural-world/wildlife/ecology/earthworms</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIH Environmental HealthWhy do Earthworms Crawl on the Sidewalk?As they need to stay consistently wet, earthworms wait until the top laye...</p></details>
+   Link:<a href="https://www.niehs.nih.gov/health/kids/topics/natural-world/wildlife/ecology/earthworms" target="_blank" rel="noopener noreferrer nofollow">https://www.niehs.nih.gov/health/kids/topics/natural-world/wildlife/ecology/earthworms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIH Environmental HealthWhy do Earthworms Crawl on the Sidewalk?As they need to stay consistently wet, earthworms wait until the top laye...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: earthwormsoc.org.uk  
-   Link: <a href="https://www.earthwormsoc.org.uk/FAQrain" target="_blank" rel="noopener noreferrer nofollow">https://www.earthwormsoc.org.uk/FAQrain</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ace when it is wet, to find food, new habitats or a mate.Read more...</p></details>
+   Link:<a href="https://www.earthwormsoc.org.uk/FAQrain" target="_blank" rel="noopener noreferrer nofollow">https://www.earthwormsoc.org.uk/FAQrain</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ace when it is wet, to find food, new habitats or a mate.Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: why.com  
-   Link: <a href="https://why.com/" target="_blank" rel="noopener noreferrer nofollow">https://why.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An ambient, intelligence maison. WHY learns your context, prepares the work, and acts with discretion across the world you already use...</p></details>
+   Link:<a href="https://why.com/" target="_blank" rel="noopener noreferrer nofollow">https://why.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An ambient, intelligence maison. WHY learns your context, prepares the work, and acts with discretion across the world you already use...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6944501/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6944501/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wever et al. (2001), 5, 10, 15, and 20°C...Read m...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6944501/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6944501/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wever et al. (2001), 5, 10, 15, and 20°C...Read m...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: news.wisc.edu  
-   Link: <a href="https://news.wisc.edu/curiosities-after-rains-why-do-worms-crawl-out-onto-the-pavement-and-commit-suicide/" target="_blank" rel="noopener noreferrer nofollow">https://news.wisc.edu/curiosities-after-rains-why-do-worms-crawl-out-onto-the-pavement-and-commit-suicide/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Curiosities: After rains, why do worms crawl out onto the...Jun 29, 2007 — “The worms can&#x27;t get enough oxygen when the soil is flood...</p></details>
+   Link:<a href="https://news.wisc.edu/curiosities-after-rains-why-do-worms-crawl-out-onto-the-pavement-and-commit-suicide/" target="_blank" rel="noopener noreferrer nofollow">https://news.wisc.edu/curiosities-after-rains-why-do-worms-crawl-out-onto-the-pavement-and-commit-suicide/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Curiosities: After rains, why do worms crawl out onto the...Jun 29, 2007 — “The worms can&#x27;t get enough oxygen when the soil is flood...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: thetimes.co.uk  
-   Link: <a href="https://www.thetimes.co.uk/article/why-earthworms-come-to-the-surface-when-it-rains-rgmb9plpb" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/why-earthworms-come-to-the-surface-when-it-rains-rgmb9plpb</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Earthworms absorb oxygen through their moist skin and can survive in waterlogged soil for weeks if there is enough oxygen. Although some...</p></details>
+   Link:<a href="https://www.thetimes.co.uk/article/why-earthworms-come-to-the-surface-when-it-rains-rgmb9plpb" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/why-earthworms-come-to-the-surface-when-it-rains-rgmb9plpb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Earthworms absorb oxygen through their moist skin and can survive in waterlogged soil for weeks if there is enough oxygen. Although some...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: scientificamerican.com  
    Title: why earthworms surface after rain  
-   Link: <a href="https://www.scientificamerican.com/article/why-earthworms-surface-after-rain/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/why-earthworms-surface-after-rain/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Rain can set up vibrations on top of the soil like mole vibrations,&quot; said Professor Josef...Read more...</p></details>
+   Link:<a href="https://www.scientificamerican.com/article/why-earthworms-surface-after-rain/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/why-earthworms-surface-after-rain/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Rain can set up vibrations on top of the soil like mole vibrations,&quot; said Professor Josef...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sciencefocus.com  
-   Link: <a href="https://www.sciencefocus.com/nature/why-do-earthworms-surface-after-rain" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefocus.com/nature/why-do-earthworms-surface-after-rain</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why do earthworms surface after rain?Another possibility is that earthworms confuse the sound of rain with a predator, such as a mole, an...</p></details>
+   Link:<a href="https://www.sciencefocus.com/nature/why-do-earthworms-surface-after-rain" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefocus.com/nature/why-do-earthworms-surface-after-rain</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why do earthworms surface after rain?Another possibility is that earthworms confuse the sound of rain with a predator, such as a mole, an...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/why" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/why</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; MeaningJun 13, 2026 — 1. The cause, reason, or purpose for which know why you did it that is why you did it 2. For which: o...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/why" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/why</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; MeaningJun 13, 2026 — 1. The cause, reason, or purpose for which know why you did it that is why you did it 2. For which: o...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Why" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Why</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why - WikipediaWhy may refer to: Causality, a consequential relationship between two or more events; Reason (argument), a premise in s...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Why" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Why</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why - WikipediaWhy may refer to: Causality, a consequential relationship between two or more events; Reason (argument), a premise in s...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/why" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/why</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge DictionaryWHY definition: 1. for what reason: 2. used to express surprise or anger: 3. the reasons for some...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/why" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/why</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge DictionaryWHY definition: 1. for what reason: 2. used to express surprise or anger: 3. the reasons for some...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: vocabulary.com  
-   Link: <a href="https://www.vocabulary.com/dictionary/why" target="_blank" rel="noopener noreferrer nofollow">https://www.vocabulary.com/dictionary/why</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, Meaning &amp; Synonymsnoun the cause or intention underlying an action or situation, especially in the phrase `the whys and where...</p></details>
+   Link:<a href="https://www.vocabulary.com/dictionary/why" target="_blank" rel="noopener noreferrer nofollow">https://www.vocabulary.com/dictionary/why</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, Meaning &amp; Synonymsnoun the cause or intention underlying an action or situation, especially in the phrase `the whys and where...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: independent.co.uk  
    Title: earthworms rain down from skies over norway puzzling scientists 10181493  
-   Link: <a href="https://www.independent.co.uk/news/world/europe/earthworms-rain-down-from-skies-over-norway-puzzling-scientists-10181493.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/world/europe/earthworms-rain-down-from-skies-over-norway-puzzling-scientists-10181493.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Earthworms rain down from skies over Norway, puzzling...16 Apr 2015 — One popular theory on random animal rain suggest that the worms ma...</p></details>
+   Link:<a href="https://www.independent.co.uk/news/world/europe/earthworms-rain-down-from-skies-over-norway-puzzling-scientists-10181493.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/world/europe/earthworms-rain-down-from-skies-over-norway-puzzling-scientists-10181493.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Earthworms rain down from skies over Norway, puzzling...16 Apr 2015 — One popular theory on random animal rain suggest that the worms ma...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: thefarmerslife.com  
    Title: Why Do Earthworms Come Out When it Rains?The answer is pretty simple  
-   Link: <a href="https://thefarmerslife.com/why-do-earthworms-come-out-when-it-rains/" target="_blank" rel="noopener noreferrer nofollow">https://thefarmerslife.com/why-do-earthworms-come-out-when-it-rains/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>They can&#x27;t breath underground when the soil is saturated. The air pockets in the soil fill up with water and worms basically...Read more...</p></details>
+   Link:<a href="https://thefarmerslife.com/why-do-earthworms-come-out-when-it-rains/" target="_blank" rel="noopener noreferrer nofollow">https://thefarmerslife.com/why-do-earthworms-come-out-when-it-rains/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>They can&#x27;t breath underground when the soil is saturated. The air pockets in the soil fill up with water and worms basically...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: gardenprofessors.com  
-   Link: <a href="https://gardenprofessors.com/why-did-the-worm-cross-the-road/" target="_blank" rel="noopener noreferrer nofollow">https://gardenprofessors.com/why-did-the-worm-cross-the-road/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Garden Professors™Why did the worm cross the road?Apr 13, 2011 — All the rain we&#x27;re having is causing the earthworms to crowd the sid...</p></details>
+   Link:<a href="https://gardenprofessors.com/why-did-the-worm-cross-the-road/" target="_blank" rel="noopener noreferrer nofollow">https://gardenprofessors.com/why-did-the-worm-cross-the-road/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Garden Professors™Why did the worm cross the road?Apr 13, 2011 — All the rain we&#x27;re having is causing the earthworms to crowd the sid...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: psyche.co  
    Title: why in a universe of pain im saving stranded earthworms  
-   Link: <a href="https://psyche.co/ideas/why-in-a-universe-of-pain-im-saving-stranded-earthworms" target="_blank" rel="noopener noreferrer nofollow">https://psyche.co/ideas/why-in-a-universe-of-pain-im-saving-stranded-earthworms</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why, in a universe of pain, I&#x27;m saving stranded earthwormsNov 11, 2024 — The worm corpses left behind the day after rain suggest that the...</p></details>
+   Link:<a href="https://psyche.co/ideas/why-in-a-universe-of-pain-im-saving-stranded-earthworms" target="_blank" rel="noopener noreferrer nofollow">https://psyche.co/ideas/why-in-a-universe-of-pain-im-saving-stranded-earthworms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why, in a universe of pain, I&#x27;m saving stranded earthwormsNov 11, 2024 — The worm corpses left behind the day after rain suggest that the...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: almanac.com  
-   Link: <a href="https://www.almanac.com/why-do-earthworms-come-out-rain" target="_blank" rel="noopener noreferrer nofollow">https://www.almanac.com/why-do-earthworms-come-out-rain</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heavy rain fills their underground tunnels with water, forcing them...Read more...</p></details>
+   Link:<a href="https://www.almanac.com/why-do-earthworms-come-out-rain" target="_blank" rel="noopener noreferrer nofollow">https://www.almanac.com/why-do-earthworms-come-out-rain</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heavy rain fills their underground tunnels with water, forcing them...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/explainlikeimfive/comments/uzetmv/eli5_why_do_worms_get_out_on_the_asphalt_when_its/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/uzetmv/eli5_why_do_worms_get_out_on_the_asphalt_when_its/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and survive on the surface as it is underground without the danger of drying out...</p></details>
+   Link:<a href="https://www.reddit.com/r/explainlikeimfive/comments/uzetmv/eli5_why_do_worms_get_out_on_the_asphalt_when_its/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/uzetmv/eli5_why_do_worms_get_out_on_the_asphalt_when_its/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and survive on the surface as it is underground without the danger of drying out...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: childrensmuseum.org  
-   Link: <a href="https://www.childrensmuseum.org/blog/why-do-worms-come-out-when-it-rains" target="_blank" rel="noopener noreferrer nofollow">https://www.childrensmuseum.org/blog/why-do-worms-come-out-when-it-rains</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“It gives them an opportunity to move greater distances across the...Read more...</p></details>
+   Link:<a href="https://www.childrensmuseum.org/blog/why-do-worms-come-out-when-it-rains" target="_blank" rel="noopener noreferrer nofollow">https://www.childrensmuseum.org/blog/why-do-worms-come-out-when-it-rains</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“It gives them an opportunity to move greater distances across the...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/askscience/comments/1kruptr/why_do_earthworms_sometimes_end_up_in_the_middle/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askscience/comments/1kruptr/why_do_earthworms_sometimes_end_up_in_the_middle/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>hworms), so it&#x27;s safe for them to come up for travel (faster...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/askscience/comments/1kruptr/why_do_earthworms_sometimes_end_up_in_the_middle/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askscience/comments/1kruptr/why_do_earthworms_sometimes_end_up_in_the_middle/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>hworms), so it&#x27;s safe for them to come up for travel (faster...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reconnectwithnature.org  
    Title: Why do worms come to the surface when it rains?  
-   Link: <a href="https://www.reconnectwithnature.org/news-events/the-buzz/nature-curiosity-why-do-worms-come-above-ground" target="_blank" rel="noopener noreferrer nofollow">https://www.reconnectwithnature.org/news-events/the-buzz/nature-curiosity-why-do-worms-come-above-ground</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 26, 2020 — And just like worms will move toward the surface to escape a nearby mole, they may move the same way when it rains, thinki...</p></details>
+   Link:<a href="https://www.reconnectwithnature.org/news-events/the-buzz/nature-curiosity-why-do-worms-come-above-ground" target="_blank" rel="noopener noreferrer nofollow">https://www.reconnectwithnature.org/news-events/the-buzz/nature-curiosity-why-do-worms-come-above-ground</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 26, 2020 — And just like worms will move toward the surface to escape a nearby mole, they may move the same way when it rains, thinki...</p></details>
    Published: May 26, 2020  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AccuWeather/posts/do-you-ever-notice-worms-all-over-the-pavement-after-it-rains-%EF%B8%8F-heres-why/1341133741204602/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AccuWeather/posts/do-you-ever-notice-worms-all-over-the-pavement-after-it-rains-%EF%B8%8F-heres-why/1341133741204602/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ound can trigger worms to come to the surface fearing predators.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/AccuWeather/posts/do-you-ever-notice-worms-all-over-the-pavement-after-it-rains-%EF%B8%8F-heres-why/1341133741204602/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AccuWeather/posts/do-you-ever-notice-worms-all-over-the-pavement-after-it-rains-%EF%B8%8F-heres-why/1341133741204602/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ound can trigger worms to come to the surface fearing predators.Read more...</p></details>

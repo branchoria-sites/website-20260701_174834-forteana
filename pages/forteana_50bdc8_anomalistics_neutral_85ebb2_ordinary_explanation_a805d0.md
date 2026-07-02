@@ -280,7 +280,7 @@ image: /assets/images/forteana_50bdc8_anomalistics_neutral_85ebb2_ordinary_expla
 
 ## Introduction
 
-Many reports of strange lights, mysterious figures or apparently impossible events turn out to have ordinary explanations without implying that the witnesses were dishonest, unintelligent or inventing stories. This is a central principle of anomalistics: investigate conventional possibilities thoroughly before treating an event as genuinely unexplained. The goal is not to dismiss unusual experiences, but to distinguish between the [experience]({{ 'experience/' | relative_url }}) itself and the mechanism that produced it. In practice, many seemingly extraordinary sightings are resolved through a combination of human perception, environmental conditions, equipment limitations, coincidence or deliberate deception. This approach reduces error while preserving genuine uncertainty where evidence remains incomplete. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Anomalistics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+Many reports of strange lights, mysterious figures or apparently impossible events turn out to have ordinary explanations without implying that the witnesses were dishonest, unintelligent or inventing stories. This is a central principle of anomalistics: investigate conventional possibilities thoroughly before treating an event as genuinely unexplained. The goal is not to dismiss unusual experiences, but to distinguish between the [experience]({{ 'experience/' | relative_url }}) itself and the mechanism that produced it. In practice, many seemingly extraordinary sightings are resolved through a combination of human perception, environmental conditions, equipment limitations, coincidence or deliberate deception. This approach reduces error while preserving genuine uncertainty where evidence remains incomplete.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Anomalistics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_anomalistics_neutral_85ebb2_ordinary_explanation_a805d0-Illustration-1-dark.svg" | relative_url }}" alt="Ordinary Causes illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_anomalistics_neutral_85ebb2_ordinary_explanation_a805d0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_anomalistics_neutral_85ebb2_ordinary_explanation_a805d0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,7 +288,7 @@ Many reports of strange lights, mysterious figures or apparently impossible even
 
 One of the most persistent misconceptions is that if a witness is honest, the reported explanation must also be accurate. Anomalistics separates [sincerity]({{ 'sincerity/' | relative_url }}) from accuracy. A person may accurately describe what they remember seeing while misidentifying its cause.
 
-Human perception is not a passive recording device. Vision depends heavily on context, expectation, lighting, distance and prior knowledge. Under poor viewing conditions the brain fills in missing information, often creating a coherent but incorrect interpretation. Memory then reconstructs the event each time it is recalled, meaning confidence can increase even when details become less reliable. Psychological research on anomalistic experiences has repeatedly shown that cognitive biases, subjective validation, expectation effects and the reconstructive nature of memory can produce convincing but mistaken accounts without any intent to deceive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Anomalistic_psychology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anomalistic psychology</span><span class="citation-popover-snippet">Anomalistic psychology</span></span></span>
+Human perception is not a passive recording device. Vision depends heavily on context, expectation, lighting, distance and prior knowledge. Under poor viewing conditions the brain fills in missing information, often creating a coherent but incorrect interpretation. Memory then reconstructs the event each time it is recalled, meaning confidence can increase even when details become less reliable. Psychological research on anomalistic experiences has repeatedly shown that cognitive biases, subjective validation, expectation effects and the reconstructive nature of memory can produce convincing but mistaken accounts without any intent to deceive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Anomalistic_psychology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anomalistic psychology</span><span class="citation-popover-snippet">Anomalistic psychology</span></span></span>
 
 Several common conditions increase the chance of misinterpretation:
 
@@ -316,7 +316,7 @@ Many famous "mystery" sightings have later been traced to ordinary physical proc
 
 The atmosphere can dramatically distort what people see. Temperature inversions, haze, ice crystals and unusual cloud layers may produce mirages, halos or distorted images of distant lights. Stars and planets close to the horizon often appear to flicker, change colour or seem to move because of atmospheric turbulence rather than any movement of the object itself.
 
-Rare natural phenomena can also resemble paranormal events. Ball lightning remains an unusual and incompletely understood atmospheric phenomenon, but its existence demonstrates that unfamiliar natural events need not imply supernatural causes. Similarly, reports of luminous phenomena during earthquakes include both genuine geophysical hypotheses and more mundane explanations such as electrical arcing from damaged power lines. The existence of one natural explanation does not mean every report shares the same cause, illustrating why investigators examine each case individually. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ball_lightning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ball lightning</span><span class="citation-popover-snippet">Ball lightning</span></span></span>
+Rare natural phenomena can also resemble paranormal events. Ball lightning remains an unusual and incompletely understood atmospheric phenomenon, but its existence demonstrates that unfamiliar natural events need not imply supernatural causes. Similarly, reports of luminous phenomena during earthquakes include both genuine geophysical hypotheses and more mundane explanations such as electrical arcing from damaged power lines. The existence of one natural explanation does not mean every report shares the same cause, illustrating why investigators examine each case individually.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ball_lightning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ball lightning</span><span class="citation-popover-snippet">Ball lightning</span></span></span>
 
 ### Astronomy mistaken for anomalies
 
@@ -353,7 +353,7 @@ A sensor records physical signals rather than objective reality. Interpreting th
 
 Although most investigators do not assume deception, deliberate fraud has always been part of the history of extraordinary claims. [Hoaxes]({{ 'hoaxes/' | relative_url }}) range from practical jokes and fabricated photographs to commercial schemes and attempts to attract publicity.
 
-Importantly, anomalistics treats fraud as only one possible explanation among many. Assuming every unusual report is fake is no more justified than assuming every report proves an extraordinary phenomenon. Researchers instead ask whether independent evidence supports the claim and whether ordinary mechanisms have been adequately excluded. Historical studies of disputes over paranormal claims show that scientific investigations have long distinguished between honest error, methodological [mistakes]({{ 'mistakes/' | relative_url }}) and deliberate deception rather than collapsing them into a single category. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/348179502/Peter-Lamont-Extraordinary-Beliefs-a-Historical-AP" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Peter Lamont Extraordinary Beliefs A Historical AP &#124; PDFeither as evidence of extraordinary phenomena, or else as examples of error...</span></span></span>
+Importantly, anomalistics treats fraud as only one possible explanation among many. Assuming every unusual report is fake is no more justified than assuming every report proves an extraordinary phenomenon. Researchers instead ask whether independent evidence supports the claim and whether ordinary mechanisms have been adequately excluded. Historical studies of disputes over paranormal claims show that scientific investigations have long distinguished between honest error, methodological [mistakes]({{ 'mistakes/' | relative_url }}) and deliberate deception rather than collapsing them into a single category.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/348179502/Peter-Lamont-Extraordinary-Beliefs-a-Historical-AP" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Peter Lamont Extraordinary Beliefs A Historical AP &#124; PDFeither as evidence of extraordinary phenomena, or else as examples of error...</span></span></span>
 
 Coincidence also plays a larger role than intuition suggests. Humans naturally search for meaningful patterns, particularly during emotionally significant events. A strange light appearing on the same evening as an unusual dream or local rumour may seem connected despite having no causal relationship. This tendency towards pattern recognition is a normal cognitive process and often helps explain why unrelated events become linked into compelling narratives.
 
@@ -366,14 +366,14 @@ Cultural expectations further shape interpretation. During different historical 
 
 Testing conventional explanations before extraordinary ones follows a practical logic rather than a philosophical commitment against unusual phenomena.
 
-Ordinary explanations generally: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/348179502/Peter-Lamont-Extraordinary-Beliefs-a-Historical-AP" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[scribd.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Peter Lamont Extraordinary Beliefs A Historical AP &#124; PDFeither as evidence of extraordinary phenomena, or else as examples of error...</span></span></span>
+Ordinary explanations generally:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/348179502/Peter-Lamont-Extraordinary-Beliefs-a-Historical-AP" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[scribd.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Peter Lamont Extraordinary Beliefs A Historical AP &#124; PDFeither as evidence of extraordinary phenomena, or else as examples of error...</span></span></span>
 
 * Have independently established mechanisms.
 * Can often be tested against [weather]({{ 'weather/' | relative_url }}) records, astronomical data or technical evidence.
 * Require fewer unsupported assumptions.
 * Frequently account for many reports simultaneously.
 
-This does not mean every case receives a conventional solution. Some reports remain unresolved because evidence is incomplete, contradictory or too limited to support any confident conclusion. In anomalistics, "unexplained" is not treated as evidence for the paranormal; it usually means there is insufficient information to distinguish between competing explanations. Marcello Truzzi argued that anomalistics should evaluate anomaly claims using conventional reasoning while remaining open to evidence rather than prematurely accepting or rejecting unusual claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Anomalistics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+This does not mean every case receives a conventional solution. Some reports remain unresolved because evidence is incomplete, contradictory or too limited to support any confident conclusion. In anomalistics, "unexplained" is not treated as evidence for the paranormal; it usually means there is insufficient information to distinguish between competing explanations. Marcello Truzzi argued that anomalistics should evaluate anomaly claims using conventional reasoning while remaining open to evidence rather than prematurely accepting or rejecting unusual claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Anomalistics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_anomalistics_neutral_85ebb2_ordinary_explanation_a805d0-Illustration-3-dark.svg" | relative_url }}" alt="Ordinary Causes illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_anomalistics_neutral_85ebb2_ordinary_explanation_a805d0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_anomalistics_neutral_85ebb2_ordinary_explanation_a805d0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -384,194 +384,194 @@ Ordinary explanations perform an important quality-control function within the s
 A careful investigation therefore asks not, "Can this be explained away?" but, "Which explanation best fits the available evidence?" Sometimes the answer is a misidentified planet, unusual weather, faulty equipment, coincidence or fraud. Sometimes the evidence is simply insufficient. Maintaining that distinction allows anomalistics to remain neutral: sceptical of unwarranted conclusions without being dismissive of unusual experiences themselves.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Weird Reports Have Ordinary Causes. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Weird Reports Have Ordinary Causes. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Demonstrates why ordinary explanations should be tested first.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates why ordinary explanations should be tested first.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explores cognitive biases behind misinterpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores cognitive biases behind misinterpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explains self-justification and mistaken belief formation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains self-justification and mistaken belief formation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Examines why people form extraordinary beliefs from ordinary events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines why people form extraordinary beliefs from ordinary events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cute Mothman Enamel Pin Gold Cryptid Gothic Luna Moth Horror Pin Badge Gift"><img src="{{ '/assets/images/marketplace-covers/ce39211fe9989f39f1aa.jpg' | relative_url }}" alt="Listing image for Cute Mothman Enamel Pin Gold Cryptid Gothic Luna Moth Horror Pin Badge Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Cute Mothman Enamel Pin Gold Cryptid Gothic Luna Moth Horror Pin Badge Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cute Mothman Enamel Pin Gold Cryptid Gothic Luna Moth Horror Pin Badge Gift"><img src="{{ '/assets/images/marketplace-covers/ce39211fe9989f39f1aa.jpg' | relative_url }}" alt="Listing image for Cute Mothman Enamel Pin Gold Cryptid Gothic Luna Moth Horror Pin Badge Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Cute Mothman Enamel Pin Gold Cryptid Gothic Luna Moth Horror Pin Badge Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Cthulhu Kraken Cryptid Metal Pin Badge Brooch Octopus DnD Goth Horror Alt"><img src="{{ '/assets/images/marketplace-covers/1e15df85d004c0f3697e.jpg' | relative_url }}" alt="Listing image for Green Cthulhu Kraken Cryptid Metal Pin Badge Brooch Octopus DnD Goth Horror Alt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Green Cthulhu Kraken Cryptid Metal Pin Badge Brooch Octopus DnD Goth Horror Alt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Cthulhu Kraken Cryptid Metal Pin Badge Brooch Octopus DnD Goth Horror Alt"><img src="{{ '/assets/images/marketplace-covers/1e15df85d004c0f3697e.jpg' | relative_url }}" alt="Listing image for Green Cthulhu Kraken Cryptid Metal Pin Badge Brooch Octopus DnD Goth Horror Alt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Green Cthulhu Kraken Cryptid Metal Pin Badge Brooch Octopus DnD Goth Horror Alt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scotland Loch Ness Monster Nessie Enamel Pin Badge Cryptid"><img src="{{ '/assets/images/marketplace-covers/b3d12daf944b32d1af8e.jpg' | relative_url }}" alt="Listing image for Scotland Loch Ness Monster Nessie Enamel Pin Badge Cryptid" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Scotland Loch Ness Monster Nessie Enamel Pin Badge Cryptid</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scotland Loch Ness Monster Nessie Enamel Pin Badge Cryptid"><img src="{{ '/assets/images/marketplace-covers/b3d12daf944b32d1af8e.jpg' | relative_url }}" alt="Listing image for Scotland Loch Ness Monster Nessie Enamel Pin Badge Cryptid" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Scotland Loch Ness Monster Nessie Enamel Pin Badge Cryptid</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cryptid Research Team Enamel Pin Badge"><img src="{{ '/assets/images/marketplace-covers/6c87de1d116ba359b641.jpg' | relative_url }}" alt="Listing image for Cryptid Research Team Enamel Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Cryptid Research Team Enamel Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cryptid Research Team Enamel Pin Badge"><img src="{{ '/assets/images/marketplace-covers/6c87de1d116ba359b641.jpg' | relative_url }}" alt="Listing image for Cryptid Research Team Enamel Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Cryptid Research Team Enamel Pin Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid enamel pin" data-ebay-reference="ordinary-causes-when-weird-reports-have-ordinary-causes-forteana-cryptid-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -587,7 +587,7 @@ A careful investigation therefore asks not, "Can this be explained away?" but, "
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -607,7 +607,7 @@ A careful investigation therefore asks not, "Can this be explained away?" but, "
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -639,7 +639,7 @@ A careful investigation therefore asks not, "Can this be explained away?" but, "
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -691,7 +691,7 @@ A careful investigation therefore asks not, "Can this be explained away?" but, "
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -736,7 +736,7 @@ A careful investigation therefore asks not, "Can this be explained away?" but, "
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -777,112 +777,112 @@ A careful investigation therefore asks not, "Can this be explained away?" but, "
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Anomalistics" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anomalistics</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Anomalistics" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anomalistics</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Anomalistic [psychology](&#123;&#123; 'psychology/' | relative_url &#125;&#125;)  
-   Link: <a href="https://en.wikipedia.org/wiki/Anomalistic_psychology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anomalistic_psychology</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Anomalistic_psychology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anomalistic_psychology</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Ball lightning  
-   Link: <a href="https://en.wikipedia.org/wiki/Ball_lightning" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ball_lightning</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ball_lightning" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ball_lightning</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: usgs.gov  
-   Link: <a href="https://www.usgs.gov/faqs/what-are-earthquake-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/faqs/what-are-earthquake-lights</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What are earthquake lights? | U.S. Geological SurveyPhenomena such as sheet lightning, balls of light, streamers, and steady glows, repor...</p></details>
+   Link:<a href="https://www.usgs.gov/faqs/what-are-earthquake-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/faqs/what-are-earthquake-lights</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What are earthquake lights? | U.S. Geological SurveyPhenomena such as sheet lightning, balls of light, streamers, and steady glows, repor...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Earthquake light  
-   Link: <a href="https://en.wikipedia.org/wiki/Earthquake_light" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Earthquake_light</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Earthquake_light" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Earthquake_light</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/348179502/Peter-Lamont-Extraordinary-Beliefs-a-Historical-AP" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/348179502/Peter-Lamont-Extraordinary-Beliefs-a-Historical-AP</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Peter Lamont Extraordinary Beliefs A Historical AP | PDFeither as evidence of extraordinary phenomena, or else as examples of error...</p></details>
+   Link:<a href="https://www.scribd.com/document/348179502/Peter-Lamont-Extraordinary-Beliefs-a-Historical-AP" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/348179502/Peter-Lamont-Extraordinary-Beliefs-a-Historical-AP</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Peter Lamont Extraordinary Beliefs A Historical AP | PDFeither as evidence of extraordinary phenomena, or else as examples of error...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Marcello Truzzi  
-   Link: <a href="https://en.wikipedia.org/wiki/Marcello_Truzzi" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Marcello_Truzzi</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Marcello_Truzzi" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Marcello_Truzzi</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: scribd.com  
    Title: Debating Psychic Experiences | PDF | [Parapsychology](&#123;&#123; 'parapsychology/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.scribd.com/document/94892851/Debating-Psychic-Experiences" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/94892851/Debating-Psychic-Experiences</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>fraud, or statistical error (p. 40). Methodological aws, fraud, and statistical error were ruled out, as Hyman admitted, in the ganzfeld...</p></details>
+   Link:<a href="https://www.scribd.com/document/94892851/Debating-Psychic-Experiences" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/94892851/Debating-Psychic-Experiences</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fraud, or statistical error (p. 40). Methodological aws, fraud, and statistical error were ruled out, as Hyman admitted, in the ganzfeld...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/708007523/neppe-best-evidence-survival" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/708007523/neppe-best-evidence-survival</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Yet, are they correct? Vernon Neppe MD, PhD, FRSSAf. Survival...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/708007523/neppe-best-evidence-survival" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/708007523/neppe-best-evidence-survival</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Yet, are they correct? Vernon Neppe MD, PhD, FRSSAf. Survival...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/866236046/2025-George-Felfoldi-eBook-ParaPsychology-ParaPsychology-and-ParaNormal-Science-500-Pages" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/866236046/2025-George-Felfoldi-eBook-ParaPsychology-ParaPsychology-and-ParaNormal-Science-500-Pages</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tances of fraud in the history of parapsychological research.Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/866236046/2025-George-Felfoldi-eBook-ParaPsychology-ParaPsychology-and-ParaNormal-Science-500-Pages" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/866236046/2025-George-Felfoldi-eBook-ParaPsychology-ParaPsychology-and-ParaNormal-Science-500-Pages</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tances of fraud in the history of parapsychological research.Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/451722034/Advanced-ESP-testing" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/451722034/Advanced-ESP-testing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced ESP Testing | PDF | TelepathyAccording to scientific research, clairvoyance is generally explained as the result of confirmation...</p></details>
+   Link:<a href="https://www.scribd.com/document/451722034/Advanced-ESP-testing" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/451722034/Advanced-ESP-testing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced ESP Testing | PDF | TelepathyAccording to scientific research, clairvoyance is generally explained as the result of confirmation...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: anomalistik.de  
-   Link: <a href="https://www.anomalistik.de/images/pdf/schriften/Band-4_Hoevelmann-Michels_w-cover.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.anomalistik.de/images/pdf/schriften/Band-4_Hoevelmann-Michels_w-cover.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Legitimacy of UnbeliefFraud and Other Sources of Error. The skeptical scenario does not require us to assume that all or most parapsychol...</p></details>
+   Link:<a href="https://www.anomalistik.de/images/pdf/schriften/Band-4_Hoevelmann-Michels_w-cover.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.anomalistik.de/images/pdf/schriften/Band-4_Hoevelmann-Michels_w-cover.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Legitimacy of UnbeliefFraud and Other Sources of Error. The skeptical scenario does not require us to assume that all or most parapsychol...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
    Title: 274244963 Prevalence of Earthquake Lights Associated with Rift Environments  
-   Link: <a href="https://www.researchgate.net/publication/274244963_Prevalence_of_Earthquake_Lights_Associated_with_Rift_Environments" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/274244963_Prevalence_of_Earthquake_Lights_Associated_with_Rift_Environments</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Prevalence of Earthquake Lights Associated with Rift...8 Jun 2015 — A total of seven yellow-colored orbs can be seen, a total of 1...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/274244963_Prevalence_of_Earthquake_Lights_Associated_with_Rift_Environments" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/274244963_Prevalence_of_Earthquake_Lights_Associated_with_Rift_Environments</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Prevalence of Earthquake Lights Associated with Rift...8 Jun 2015 — A total of seven yellow-colored orbs can be seen, a total of 1...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=2ppfY5G75XA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2ppfY5G75XA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>One of Geology&#x27;s Biggest MysteriesMysterious glowing orbs and silent, luminous flashes have been witnessed right before an earthquake vid...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2ppfY5G75XA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2ppfY5G75XA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>One of Geology&#x27;s Biggest MysteriesMysterious glowing orbs and silent, luminous flashes have been witnessed right before an earthquake vid...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nationalgeographic.com  
    Title: 140106 earthquake lights earthquake prediction geology science  
-   Link: <a href="https://www.nationalgeographic.com/science/article/140106-earthquake-lights-earthquake-prediction-geology-science" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/science/article/140106-earthquake-lights-earthquake-prediction-geology-science</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bizarre Earthquake Lights Finally Explained7 Jan 2014 — Rare lights seen near earthquakes had long been labeled UFOs, but now geologists...</p></details>
+   Link:<a href="https://www.nationalgeographic.com/science/article/140106-earthquake-lights-earthquake-prediction-geology-science" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/science/article/140106-earthquake-lights-earthquake-prediction-geology-science</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bizarre Earthquake Lights Finally Explained7 Jan 2014 — Rare lights seen near earthquakes had long been labeled UFOs, but now geologists...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/argumentativeatheists/posts/2988111741485925/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/argumentativeatheists/posts/2988111741485925/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>eing levitated in her presence while psychical researcher Alexander Aksakov...</p></details>
+   Link:<a href="https://www.facebook.com/groups/argumentativeatheists/posts/2988111741485925/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/argumentativeatheists/posts/2988111741485925/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>eing levitated in her presence while psychical researcher Alexander Aksakov...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100064845936536/posts/george-p-hansen-is-a-parapsychologist-magician-and-critic-of-both-believers-and-/1363845225786996/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100064845936536/posts/george-p-hansen-is-a-parapsychologist-magician-and-critic-of-both-believers-and-/1363845225786996/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and attribute supporting evidence to fraud, coincidence, or...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/100064845936536/posts/george-p-hansen-is-a-parapsychologist-magician-and-critic-of-both-believers-and-/1363845225786996/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100064845936536/posts/george-p-hansen-is-a-parapsychologist-magician-and-critic-of-both-believers-and-/1363845225786996/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and attribute supporting evidence to fraud, coincidence, or...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: skepticalinquirer.org  
    Title: Fifty Years of the Modern Skeptical Movement  
-   Link: <a href="https://skepticalinquirer.org/2025/12/fifty-years-of-the-modern-skeptical-movement/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2025/12/fifty-years-of-the-modern-skeptical-movement/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>fraud!” The lecturer, unfazed, responds, “Yes, I&#x27;m a cheat and a charlatan... The Zetetic was renamed The Skeptical Inquirer, and scienc...</p></details>
+   Link:<a href="https://skepticalinquirer.org/2025/12/fifty-years-of-the-modern-skeptical-movement/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2025/12/fifty-years-of-the-modern-skeptical-movement/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fraud!” The lecturer, unfazed, responds, “Yes, I&#x27;m a cheat and a charlatan... The Zetetic was renamed The Skeptical Inquirer, and scienc...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RyanDBuell/posts/statement-from-new-england-society-for-psychic-research-nespr-please-share/1343891333769382/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RyanDBuell/posts/statement-from-new-england-society-for-psychic-research-nespr-please-share/1343891333769382/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>experimental design or questionable research practices.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/RyanDBuell/posts/statement-from-new-england-society-for-psychic-research-nespr-please-share/1343891333769382/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RyanDBuell/posts/statement-from-new-england-society-for-psychic-research-nespr-please-share/1343891333769382/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>experimental design or questionable research practices.Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/UnusualNaturalPhenomena/Unusual%20Natural%20Phenomena_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/UnusualNaturalPhenomena/Unusual%20Natural%20Phenomena_djvu.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>eye-witness accounts of unusual natural phenomena.Read more...</p></details>
+   Link:<a href="https://archive.org/stream/UnusualNaturalPhenomena/Unusual%20Natural%20Phenomena_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/UnusualNaturalPhenomena/Unusual%20Natural%20Phenomena_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>eye-witness accounts of unusual natural phenomena.Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/anomalistic-psychology.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/anomalistic-psychology.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and fraud. Robert Baker wrote that many...Read more...</p></details>
+   Link:<a href="https://dokumen.pub/anomalistic-psychology.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/anomalistic-psychology.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and fraud. Robert Baker wrote that many...Read more...</p></details>

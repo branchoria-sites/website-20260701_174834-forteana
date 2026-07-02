@@ -280,7 +280,7 @@ image: /assets/images/forteana_50bdc8_weather_strange_fall_4c1363_frog_rain_grou
 
 ## Introduction
 
-Reports of “frog rain” are among the best-known stories in [Forteana]({{ 'forteana/' | relative_url }}), but not every apparent shower of amphibians requires frogs to have fallen from the sky. In many cases, heavy rain simply reveals animals that were already present but hidden. Wet [weather]({{ 'weather/' | relative_url }}) triggers breeding migrations, encourages frogs and toads to leave shelter, and floods burrows or vegetation where they had been concealed. To someone stepping outside after a storm, a field or road that seemed empty an hour earlier can suddenly be alive with hundreds of amphibians, creating the powerful impression that they arrived with the rain rather than emerging from the ground. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/browse-all-questions/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">The Library of CongressCan it rain frogs, fish, and other objects?Of course, it doesn&#x27;t “rain” frogs or fish in the sense that it rains w...</span></span></span>
+Reports of “frog rain” are among the best-known stories in [Forteana]({{ 'forteana/' | relative_url }}), but not every apparent shower of amphibians requires frogs to have fallen from the sky. In many cases, heavy rain simply reveals animals that were already present but hidden. Wet [weather]({{ 'weather/' | relative_url }}) triggers breeding migrations, encourages frogs and toads to leave shelter, and floods burrows or vegetation where they had been concealed. To someone stepping outside after a storm, a field or road that seemed empty an hour earlier can suddenly be alive with hundreds of amphibians, creating the powerful impression that they arrived with the rain rather than emerging from the ground.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/browse-all-questions/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">The Library of CongressCan it rain frogs, fish, and other objects?Of course, it doesn&#x27;t “rain” frogs or fish in the sense that it rains w...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_weather_strange_fall_4c1363_frog_rain_ground_ill_d797e6-Illustration-1-dark.svg" | relative_url }}" alt="Frog Rains illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_weather_strange_fall_4c1363_frog_rain_ground_ill_d797e6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_weather_strange_fall_4c1363_frog_rain_ground_ill_d797e6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,9 +288,9 @@ This ground-level explanation does not rule out the possibility that some genuin
 
 ## Why frogs move in wet weather
 
-Rain transforms the landscape from a frog's perspective. Amphibians lose water easily through their skin, so cool, damp conditions allow them to travel safely across ground that would otherwise be dangerously dry. Many species therefore emerge during or immediately after rainfall to feed, disperse or migrate to breeding ponds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oriannesociety.org/great-northern-forests-initiative/how-to-find-amphibians-during-spring/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oriannesociety.org">[The Orianne Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oriannesociety.org</span><span class="citation-popover-title">The Orianne Society How to Find Amphibians During Their Spring Breeding</span><span class="citation-popover-snippet">The Orianne SocietyHow to Find Amphibians During Their Spring Breeding...March 9, 2020 — 9 Mar 2020 — Amphibians can move whenever roads...</span><span class="citation-popover-meta">Published: March 9, 2020</span></span></span>
+Rain transforms the landscape from a frog's perspective. Amphibians lose water easily through their skin, so cool, damp conditions allow them to travel safely across ground that would otherwise be dangerously dry. Many species therefore emerge during or immediately after rainfall to feed, disperse or migrate to breeding ponds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oriannesociety.org/great-northern-forests-initiative/how-to-find-amphibians-during-spring/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oriannesociety.org">[The Orianne Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oriannesociety.org</span><span class="citation-popover-title">The Orianne Society How to Find Amphibians During Their Spring Breeding</span><span class="citation-popover-snippet">The Orianne SocietyHow to Find Amphibians During Their Spring Breeding...March 9, 2020 — 9 Mar 2020 — Amphibians can move whenever roads...</span><span class="citation-popover-meta">Published: March 9, 2020</span></span></span>
 
-For some species the response is especially dramatic. Large numbers may leave woodland, hedgerows or underground refuges on the same rainy evening, particularly when temperature, humidity and seasonal timing coincide. Conservation groups routinely warn motorists about these "big nights" because thousands of frogs, toads and salamanders may cross roads simultaneously. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://content.govdelivery.com/accounts/NYSDEC/bulletins/30db15a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: content.govdelivery.com">[GovDelivery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">content.govdelivery.com</span><span class="citation-popover-snippet">Amphibian Migrations - Forecast for TonightFor the lower and mid-Hudson Valley, the predicted warm, rainy evening is looking p...</span></span></span>
+For some species the response is especially dramatic. Large numbers may leave woodland, hedgerows or underground refuges on the same rainy evening, particularly when temperature, humidity and seasonal timing coincide. Conservation groups routinely warn motorists about these "big nights" because thousands of frogs, toads and salamanders may cross roads simultaneously.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://content.govdelivery.com/accounts/NYSDEC/bulletins/30db15a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: content.govdelivery.com">[GovDelivery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">content.govdelivery.com</span><span class="citation-popover-snippet">Amphibian Migrations - Forecast for TonightFor the lower and mid-Hudson Valley, the predicted warm, rainy evening is looking p...</span></span></span>
 
 The result is a classic perceptual trap. Observers who were unaware that amphibians had been hidden nearby may conclude that the storm deposited them from above.
 
@@ -311,9 +311,9 @@ The ground-level illusion becomes especially convincing because several ordinary
 
 </div>
 
-Together these factors can create the impression of instantaneous appearance. A lawn that appeared empty before a thunderstorm may contain dozens of frogs afterwards, not because they descended from the sky but because they emerged simultaneously from surrounding habitat. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://northernwoodlands.org/outside_story/article/amphibians-big-night" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northernwoodlands.org">[northernwoodlands.org+2The Orianne Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northernwoodlands.org</span><span class="citation-popover-title">Why Did the Frog Cross the Road?</span><span class="citation-popover-snippet">by Julia Janson7 Apr 2026 — The timing and presence of rainfall have a powerful effect on frogs. Researchers at University of North Carol...</span></span></span>
+Together these factors can create the impression of instantaneous appearance. A lawn that appeared empty before a thunderstorm may contain dozens of frogs afterwards, not because they descended from the sky but because they emerged simultaneously from surrounding habitat.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://northernwoodlands.org/outside_story/article/amphibians-big-night" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northernwoodlands.org">[northernwoodlands.org+2The Orianne Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northernwoodlands.org</span><span class="citation-popover-title">Why Did the Frog Cross the Road?</span><span class="citation-popover-snippet">by Julia Janson7 Apr 2026 — The timing and presence of rainfall have a powerful effect on frogs. Researchers at University of North Carol...</span></span></span>
 
-In some dry regions, certain frogs and toads remain dormant underground for long periods before emerging rapidly after substantial rainfall. To anyone unfamiliar with their life cycle, their sudden abundance can seem almost supernatural despite being a normal ecological response. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/explainlikeimfive/comments/5vnos5/eli5_how_do_frogs_just_suddenly_appear_in_areas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">ELI5: How do frogs just suddenly appear in areas that...They can stay underground for so long because they coat themselves in mucu...</span></span></span>
+In some dry regions, certain frogs and toads remain dormant underground for long periods before emerging rapidly after substantial rainfall. To anyone unfamiliar with their life cycle, their sudden abundance can seem almost supernatural despite being a normal ecological response.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/explainlikeimfive/comments/5vnos5/eli5_how_do_frogs_just_suddenly_appear_in_areas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">ELI5: How do frogs just suddenly appear in areas that...They can stay underground for so long because they coat themselves in mucu...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_weather_strange_fall_4c1363_frog_rain_ground_ill_d797e6-Illustration-2-dark.svg" | relative_url }}" alt="Frog Rains illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_weather_strange_fall_4c1363_frog_rain_ground_ill_d797e6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_weather_strange_fall_4c1363_frog_rain_ground_ill_d797e6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -321,7 +321,7 @@ In some dry regions, certain frogs and toads remain dormant underground for long
 
 Because frog rain occupies the boundary between meteorology and animal behaviour, investigators look for evidence that distinguishes aerial transport from ground emergence.
 
-A genuine atmospheric fall becomes more plausible when witnesses actually observe animals descending, when severe rotating storms or [waterspouts]({{ 'waterspouts/' | relative_url }}) were present, when the deposition is confined to a narrow area, and when nearby water bodies could plausibly have supplied the animals. Even then, the complete sequence of animals being lifted and later deposited has rarely been directly documented. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/browse-all-questions/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">The Library of CongressCan it rain frogs, fish, and other objects?Of course, it doesn&#x27;t “rain” frogs or fish in the sense that it rains w...</span></span></span>
+A genuine atmospheric fall becomes more plausible when witnesses actually observe animals descending, when severe rotating storms or [waterspouts]({{ 'waterspouts/' | relative_url }}) were present, when the deposition is confined to a narrow area, and when nearby water bodies could plausibly have supplied the animals. Even then, the complete sequence of animals being lifted and later deposited has rarely been directly documented.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/browse-all-questions/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">The Library of CongressCan it rain frogs, fish, and other objects?Of course, it doesn&#x27;t “rain” frogs or fish in the sense that it rains w...</span></span></span>
 
 By contrast, a ground-level migration is more likely when:
 
@@ -344,14 +344,14 @@ Rather than lying where they landed, migrating frogs typically continue hopping 
 
 Human perception naturally links unusual events with the most obvious recent cause. After an intense downpour, the appearance of hundreds of frogs seems connected to the rain itself, especially when no one noticed them beforehand.
 
-This tendency is strengthened by memory. Witnesses often remember that "there were suddenly frogs everywhere after the storm," a description that can gradually become "frogs came down with the rain" as the story is retold. Historical reports are frequently second- or third-hand, making it difficult to determine whether anyone actually saw frogs falling or merely discovered them afterwards. The Library of Congress notes that many reported animal rains may instead involve storms exposing or displacing animals already present on the ground. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/browse-all-questions/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">The Library of CongressCan it rain frogs, fish, and other objects?Of course, it doesn&#x27;t “rain” frogs or fish in the sense that it rains w...</span></span></span>
+This tendency is strengthened by memory. Witnesses often remember that "there were suddenly frogs everywhere after the storm," a description that can gradually become "frogs came down with the rain" as the story is retold. Historical reports are frequently second- or third-hand, making it difficult to determine whether anyone actually saw frogs falling or merely discovered them afterwards. The Library of Congress notes that many reported animal rains may instead involve storms exposing or displacing animals already present on the ground.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/browse-all-questions/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">The Library of CongressCan it rain frogs, fish, and other objects?Of course, it doesn&#x27;t “rain” frogs or fish in the sense that it rains w...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vtOnIBJkW-Q" title="I Love a Rainy Night: The Rhythm of Forest Amphibians" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vtOnIBJkW-Q" target="_blank" rel="noopener noreferrer">I Love a Rainy Night: The Rhythm of Forest Amphibians</a></p><p class="youtube-embed-meta">Channel: Cary Institute of Ecosystem Studies</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vtOnIBJkW-Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vtOnIBJkW-Q">Open on YouTube</a></p></div></div></div>
 
 ## What this means for Fortean reports
 
-The ground-level illusion does not explain every frog rain account, nor does it prove that every report is mistaken. Severe storms are capable of transporting lightweight animals under some circumstances, and meteorologists consider waterspouts a plausible explanation for at least some well-documented cases. However, the simpler behavioural explanation often fits reports in which frogs are merely discovered after rainfall rather than observed falling through the air. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/browse-all-questions/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">The Library of CongressCan it rain frogs, fish, and other objects?Of course, it doesn&#x27;t “rain” frogs or fish in the sense that it rains w...</span></span></span>
+The ground-level illusion does not explain every frog rain account, nor does it prove that every report is mistaken. Severe storms are capable of transporting lightweight animals under some circumstances, and meteorologists consider waterspouts a plausible explanation for at least some well-documented cases. However, the simpler behavioural explanation often fits reports in which frogs are merely discovered after rainfall rather than observed falling through the air.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/browse-all-questions/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">The Library of CongressCan it rain frogs, fish, and other objects?Of course, it doesn&#x27;t “rain” frogs or fish in the sense that it rains w...</span></span></span>
 
 For Fortean investigations, this distinction is valuable. It shifts attention from the dramatic claim that frogs literally rained from clouds to a more careful question: did the storm transport amphibians through the atmosphere, or did it simply reveal a hidden migration already unfolding at ground level? In many reports, that overlooked difference provides the most economical explanation without diminishing the genuine strangeness experienced by witnesses.
 
@@ -359,194 +359,194 @@ For Fortean investigations, this distinction is valuable. It shifts attention fr
 <img src="{{ "/assets/images/forteana_50bdc8_weather_strange_fall_4c1363_frog_rain_ground_ill_d797e6-Illustration-3-dark.svg" | relative_url }}" alt="Frog Rains illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_weather_strange_fall_4c1363_frog_rain_ground_ill_d797e6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_weather_strange_fall_4c1363_frog_rain_ground_ill_d797e6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did the Frogs Fall or Just Appear?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did the Frogs Fall or Just Appear?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weather For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LtoPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Weather For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
-        </h4>
-        <p class="fr-book-author">By John D. Cox</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weather For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LtoPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Weather For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
+</h4>
+<p class="fr-book-author">By John D. Cox</p>
         
-        <p class="fr-book-desc">Explains storms linked to apparent frog rain.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains storms linked to apparent frog rain.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Weather+Machine+Andrew+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Weather Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NWQMDgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Weather Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Weather+Machine+Andrew+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Weather Machine">The Weather Machine</a>
-        </h4>
-        <p class="fr-book-author">By Andrew Blum</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Weather+Machine+Andrew+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Weather Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NWQMDgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Weather Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Weather+Machine+Andrew+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Weather Machine">The Weather Machine</a>
+</h4>
+<p class="fr-book-author">By Andrew Blum</p>
         
-        <p class="fr-book-desc">Provides modern understanding of weather systems behind unusual events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Weather+Machine+Andrew+Blum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides modern understanding of weather systems behind unusual events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Weather+Machine+Andrew+Blum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+Unusual+Knowledge+Publications+International+Ltd.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of Unusual Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10860496-M.jpg" alt="Cover for The Book of Unusual Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Book+of+Unusual+Knowledge+Publications+International+Ltd.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Unusual Knowledge">The Book of Unusual Knowledge</a>
-        </h4>
-        <p class="fr-book-author">By Publications International Ltd.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+Unusual+Knowledge+Publications+International+Ltd.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of Unusual Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10860496-M.jpg" alt="Cover for The Book of Unusual Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Book+of+Unusual+Knowledge+Publications+International+Ltd.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Unusual Knowledge">The Book of Unusual Knowledge</a>
+</h4>
+<p class="fr-book-author">By Publications International Ltd.</p>
         
-        <p class="fr-book-desc">First published 2012. Subjects: Curiosities and wonders.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Book+of+Unusual+Knowledge+Publications+International+Ltd.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2012. Subjects: Curiosities and wonders.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Book+of+Unusual+Knowledge+Publications+International+Ltd.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mysteries of the Unexplained on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysteries of the Unexplained">Mysteries of the Unexplained</a>
-        </h4>
-        <p class="fr-book-author">By Reader&#x27;s Digest Association</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mysteries of the Unexplained on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysteries of the Unexplained">Mysteries of the Unexplained</a>
+</h4>
+<p class="fr-book-author">By Reader&#x27;s Digest Association</p>
         
-        <p class="fr-book-desc">First published 1985.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1985.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Weather+For+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weather For Dummies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Weather+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Weather Machine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+Unusual+Knowledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of Unusual Knowledge</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Weather+For+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weather For Dummies</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Weather+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Weather Machine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+Unusual+Knowledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of Unusual Knowledge</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=frog+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frog figurine" data-ebay-reference="frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1989 Lynn Chase Frog Porcelain Paper Weight Hand Painted VGC"><img src="{{ '/assets/images/marketplace-covers/4d2f17813fd2e2b18b8a.jpg' | relative_url }}" alt="Listing image for Vintage 1989 Lynn Chase Frog Porcelain Paper Weight Hand Painted VGC" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=frog+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frog figurine" data-ebay-reference="frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine" target="_blank" rel="sponsored noopener noreferrer">Vintage 1989 Lynn Chase Frog Porcelain Paper Weight Hand Painted VGC</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=frog+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frog figurine" data-ebay-reference="frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for frog figurine">Search <span data-ebay-domain-label>eBay.co.uk</span>: frog figurine</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=frog+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frog figurine" data-ebay-reference="frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=frog+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frog figurine" data-ebay-reference="frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1989 Lynn Chase Frog Porcelain Paper Weight Hand Painted VGC"><img src="{{ '/assets/images/marketplace-covers/4d2f17813fd2e2b18b8a.jpg' | relative_url }}" alt="Listing image for Vintage 1989 Lynn Chase Frog Porcelain Paper Weight Hand Painted VGC" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=frog+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frog figurine" data-ebay-reference="frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine" target="_blank" rel="sponsored noopener noreferrer">Vintage 1989 Lynn Chase Frog Porcelain Paper Weight Hand Painted VGC</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=frog+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frog figurine" data-ebay-reference="frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for frog figurine">Search<span data-ebay-domain-label>eBay.co.uk</span>: frog figurine</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=frog+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frog figurine" data-ebay-reference="frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=frog+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frog figurine" data-ebay-reference="frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Frog Fantasy Figurines (all 3). 1995 Amica Collection.AM457/461/459 3.5 Inches."><img src="{{ '/assets/images/marketplace-covers/b73d144b12cd60b4e609.jpg' | relative_url }}" alt="Listing image for Frog Fantasy Figurines (all 3). 1995 Amica Collection.AM457/461/459 3.5 Inches." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=frog+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frog figurine" data-ebay-reference="frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine" target="_blank" rel="sponsored noopener noreferrer">Frog Fantasy Figurines (all 3). 1995 Amica Collection.AM457/461/459 3.5 Inches.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=frog+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frog figurine" data-ebay-reference="frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for frog figurine">Search <span data-ebay-domain-label>eBay.co.uk</span>: frog figurine</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=frog+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frog figurine" data-ebay-reference="frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=frog+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frog figurine" data-ebay-reference="frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Frog Fantasy Figurines (all 3). 1995 Amica Collection.AM457/461/459 3.5 Inches."><img src="{{ '/assets/images/marketplace-covers/b73d144b12cd60b4e609.jpg' | relative_url }}" alt="Listing image for Frog Fantasy Figurines (all 3). 1995 Amica Collection.AM457/461/459 3.5 Inches." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=frog+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frog figurine" data-ebay-reference="frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine" target="_blank" rel="sponsored noopener noreferrer">Frog Fantasy Figurines (all 3). 1995 Amica Collection.AM457/461/459 3.5 Inches.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=frog+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frog figurine" data-ebay-reference="frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for frog figurine">Search<span data-ebay-domain-label>eBay.co.uk</span>: frog figurine</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=frog+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frog figurine" data-ebay-reference="frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=frog+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frog figurine" data-ebay-reference="frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Whites Tree Frog Fidget"><img src="{{ '/assets/images/marketplace-covers/1af8000740df4ef7ee22.jpg' | relative_url }}" alt="Listing image for Whites Tree Frog Fidget" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=frog+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frog figurine" data-ebay-reference="frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine" target="_blank" rel="sponsored noopener noreferrer">Whites Tree Frog Fidget</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=frog+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frog figurine" data-ebay-reference="frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for frog figurine">Search <span data-ebay-domain-label>eBay.co.uk</span>: frog figurine</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=frog+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frog figurine" data-ebay-reference="frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=frog+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frog figurine" data-ebay-reference="frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Whites Tree Frog Fidget"><img src="{{ '/assets/images/marketplace-covers/1af8000740df4ef7ee22.jpg' | relative_url }}" alt="Listing image for Whites Tree Frog Fidget" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=frog+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frog figurine" data-ebay-reference="frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine" target="_blank" rel="sponsored noopener noreferrer">Whites Tree Frog Fidget</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=frog+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frog figurine" data-ebay-reference="frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for frog figurine">Search<span data-ebay-domain-label>eBay.co.uk</span>: frog figurine</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=frog+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frog figurine" data-ebay-reference="frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=frog+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frog figurine" data-ebay-reference="frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3D Resin Frog Figurine Frog Statue Ornament with Leaf Landscape Decor"><img src="{{ '/assets/images/marketplace-covers/2727dd61783b952abff2.jpg' | relative_url }}" alt="Listing image for 3D Resin Frog Figurine Frog Statue Ornament with Leaf Landscape Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=frog+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frog figurine" data-ebay-reference="frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine" target="_blank" rel="sponsored noopener noreferrer">3D Resin Frog Figurine Frog Statue Ornament with Leaf Landscape Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=frog+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frog figurine" data-ebay-reference="frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for frog figurine">Search <span data-ebay-domain-label>eBay.co.uk</span>: frog figurine</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=frog+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frog figurine" data-ebay-reference="frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=frog+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frog figurine" data-ebay-reference="frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=frog+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frog figurine" data-ebay-reference="frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3D Resin Frog Figurine Frog Statue Ornament with Leaf Landscape Decor"><img src="{{ '/assets/images/marketplace-covers/2727dd61783b952abff2.jpg' | relative_url }}" alt="Listing image for 3D Resin Frog Figurine Frog Statue Ornament with Leaf Landscape Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=frog+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frog figurine" data-ebay-reference="frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine" target="_blank" rel="sponsored noopener noreferrer">3D Resin Frog Figurine Frog Statue Ornament with Leaf Landscape Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=frog+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frog figurine" data-ebay-reference="frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for frog figurine">Search<span data-ebay-domain-label>eBay.co.uk</span>: frog figurine</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=frog+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frog figurine" data-ebay-reference="frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=frog+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="frog figurine" data-ebay-reference="frog-rains-did-the-frogs-fall-or-just-appear-forteana-frog-figurine" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -562,7 +562,7 @@ For Fortean investigations, this distinction is valuable. It shifts attention fr
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -582,7 +582,7 @@ For Fortean investigations, this distinction is valuable. It shifts attention fr
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -614,7 +614,7 @@ For Fortean investigations, this distinction is valuable. It shifts attention fr
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -666,7 +666,7 @@ For Fortean investigations, this distinction is valuable. It shifts attention fr
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -711,7 +711,7 @@ For Fortean investigations, this distinction is valuable. It shifts attention fr
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -752,110 +752,110 @@ For Fortean investigations, this distinction is valuable. It shifts attention fr
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: northernwoodlands.org  
    Title: Why Did the Frog Cross the Road?  
-   Link: <a href="https://northernwoodlands.org/outside_story/article/amphibians-big-night" target="_blank" rel="noopener noreferrer nofollow">https://northernwoodlands.org/outside_story/article/amphibians-big-night</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by Julia Janson7 Apr 2026 — The timing and presence of rainfall have a powerful effect on frogs. Researchers at University of North Carol...</p></details>
+   Link:<a href="https://northernwoodlands.org/outside_story/article/amphibians-big-night" target="_blank" rel="noopener noreferrer nofollow">https://northernwoodlands.org/outside_story/article/amphibians-big-night</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by Julia Janson7 Apr 2026 — The timing and presence of rainfall have a powerful effect on frogs. Researchers at University of North Carol...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: content.govdelivery.com  
-   Link: <a href="https://content.govdelivery.com/accounts/NYSDEC/bulletins/30db15a" target="_blank" rel="noopener noreferrer nofollow">https://content.govdelivery.com/accounts/NYSDEC/bulletins/30db15a</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Amphibian Migrations - Forecast for TonightFor the lower and mid-Hudson Valley, the predicted warm, rainy evening is looking p...</p></details>
+   Link:<a href="https://content.govdelivery.com/accounts/NYSDEC/bulletins/30db15a" target="_blank" rel="noopener noreferrer nofollow">https://content.govdelivery.com/accounts/NYSDEC/bulletins/30db15a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Amphibian Migrations - Forecast for TonightFor the lower and mid-Hudson Valley, the predicted warm, rainy evening is looking p...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/explainlikeimfive/comments/5vnos5/eli5_how_do_frogs_just_suddenly_appear_in_areas/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/5vnos5/eli5_how_do_frogs_just_suddenly_appear_in_areas/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ELI5: How do frogs just suddenly appear in areas that...They can stay underground for so long because they coat themselves in mucu...</p></details>
+   Link:<a href="https://www.reddit.com/r/explainlikeimfive/comments/5vnos5/eli5_how_do_frogs_just_suddenly_appear_in_areas/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/5vnos5/eli5_how_do_frogs_just_suddenly_appear_in_areas/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ELI5: How do frogs just suddenly appear in areas that...They can stay underground for so long because they coat themselves in mucu...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: loc.gov  
-   Link: <a href="https://www.loc.gov/everyday-mysteries/browse-all-questions/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/everyday-mysteries/browse-all-questions/item/can-it-rain-frogs-fish-and-other-objects/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Library of CongressCan it rain frogs, fish, and other objects?Of course, it doesn&#x27;t “rain” frogs or fish in the sense that it rains w...</p></details>
+   Link:<a href="https://www.loc.gov/everyday-mysteries/browse-all-questions/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/everyday-mysteries/browse-all-questions/item/can-it-rain-frogs-fish-and-other-objects/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Library of CongressCan it rain frogs, fish, and other objects?Of course, it doesn&#x27;t “rain” frogs or fish in the sense that it rains w...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: oriannesociety.org  
    Title: The Orianne Society How to Find Amphibians During Their Spring Breeding  
-   Link: <a href="https://www.oriannesociety.org/great-northern-forests-initiative/how-to-find-amphibians-during-spring/" target="_blank" rel="noopener noreferrer nofollow">https://www.oriannesociety.org/great-northern-forests-initiative/how-to-find-amphibians-during-spring/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Orianne SocietyHow to Find Amphibians During Their Spring Breeding...March 9, 2020 — 9 Mar 2020 — Amphibians can move whenever roads...</p></details>
+   Link:<a href="https://www.oriannesociety.org/great-northern-forests-initiative/how-to-find-amphibians-during-spring/" target="_blank" rel="noopener noreferrer nofollow">https://www.oriannesociety.org/great-northern-forests-initiative/how-to-find-amphibians-during-spring/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Orianne SocietyHow to Find Amphibians During Their Spring Breeding...March 9, 2020 — 9 Mar 2020 — Amphibians can move whenever roads...</p></details>
    Published: March 9, 2020  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Amphibian" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Amphibian</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Amphibian" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Amphibian</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
    Title: The Library  
-   Link: <a href="https://www.facebook.com/libraryofcongress/photos/do-you-think-its-possible-for-it-to-rain-frogs-fish-other-objects-find-out-https/10158077690488059/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/libraryofcongress/photos/do-you-think-its-possible-for-it-to-rain-frogs-fish-other-objects-find-out-https/10158077690488059/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Do you think it&#x27;s possible for it to rain frogs...10 Apr 2021 — Yes, when I was a little girl at my great grandmothers house a few block...</p></details>
+   Link:<a href="https://www.facebook.com/libraryofcongress/photos/do-you-think-its-possible-for-it-to-rain-frogs-fish-other-objects-find-out-https/10158077690488059/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/libraryofcongress/photos/do-you-think-its-possible-for-it-to-rain-frogs-fish-other-objects-find-out-https/10158077690488059/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Do you think it&#x27;s possible for it to rain frogs...10 Apr 2021 — Yes, when I was a little girl at my great grandmothers house a few block...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: loc.gov  
-   Link: <a href="https://www.loc.gov/everyday-mysteries/meteorology-climatology/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/everyday-mysteries/meteorology-climatology/item/can-it-rain-frogs-fish-and-other-objects/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>seen frogs or fish vaporize into the air before a rainfall.Read more...</p></details>
+   Link:<a href="https://www.loc.gov/everyday-mysteries/meteorology-climatology/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/everyday-mysteries/meteorology-climatology/item/can-it-rain-frogs-fish-and-other-objects/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>seen frogs or fish vaporize into the air before a rainfall.Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: loc.gov  
-   Link: <a href="https://www.loc.gov/everyday-mysteries/meteorology-climatology/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/everyday-mysteries/meteorology-climatology/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>There have been reports of raining frogs and fish dating back to ancient civilization. Of course, it doesn&#x27;t “rain...Read more...</p></details>
+   Link:<a href="https://www.loc.gov/everyday-mysteries/meteorology-climatology/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/everyday-mysteries/meteorology-climatology/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>There have been reports of raining frogs and fish dating back to ancient civilization. Of course, it doesn&#x27;t “rain...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: loc.gov  
-   Link: <a href="https://www.loc.gov/everyday-mysteries/browse-all-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/everyday-mysteries/browse-all-questions/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Browse All Questions | Everyday MysteriesCan it rain frogs, fish, and other objects? There have been reports of raining frogs and fish da...</p></details>
+   Link:<a href="https://www.loc.gov/everyday-mysteries/browse-all-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/everyday-mysteries/browse-all-questions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Browse All Questions | Everyday MysteriesCan it rain frogs, fish, and other objects? There have been reports of raining frogs and fish da...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: newsweek.com  
-   Link: <a href="https://www.newsweek.com/raining-fish-explained-storm-brings-fish-falling-sky-texas-1664747" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/raining-fish-explained-storm-brings-fish-falling-sky-texas-1664747</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Raining Fish&#x27; Explained: Fish Falling From Sky in Rare...31 Dec 2021 — Updrafts can also sweep up small animals and cause animal rain...</p></details>
+   Link:<a href="https://www.newsweek.com/raining-fish-explained-storm-brings-fish-falling-sky-texas-1664747" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/raining-fish-explained-storm-brings-fish-falling-sky-texas-1664747</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Raining Fish&#x27; Explained: Fish Falling From Sky in Rare...31 Dec 2021 — Updrafts can also sweep up small animals and cause animal rain...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DP_EhxLj3PC/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DP_EhxLj3PC/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Actually, they don&#x27;t go anywhere. Frogs stay hidden in soil, leaves, and cracks in the...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DP_EhxLj3PC/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DP_EhxLj3PC/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Actually, they don&#x27;t go anywhere. Frogs stay hidden in soil, leaves, and cracks in the...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: scienceabc.com  
-   Link: <a href="https://www.scienceabc.com/nature/can-really-rain-animals-frog-fish-tornado-weather" target="_blank" rel="noopener noreferrer nofollow">https://www.scienceabc.com/nature/can-really-rain-animals-frog-fish-tornado-weather</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Raining Fish And Frogs: Can It Really Rain Animals?19 Oct 2023 — It is possible for animals to rain from the sky, though it is a rare event...</p></details>
+   Link:<a href="https://www.scienceabc.com/nature/can-really-rain-animals-frog-fish-tornado-weather" target="_blank" rel="noopener noreferrer nofollow">https://www.scienceabc.com/nature/can-really-rain-animals-frog-fish-tornado-weather</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Raining Fish And Frogs: Can It Really Rain Animals?19 Oct 2023 — It is possible for animals to rain from the sky, though it is a rare event...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/mark.hall.432085/posts/known-as-animal-rain-there-are-many-recorded-occurrences-of-fish-frogs-and-other/10229997945682825/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mark.hall.432085/posts/known-as-animal-rain-there-are-many-recorded-occurrences-of-fish-frogs-and-other/10229997945682825/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>is the action of waterspouts or tornadoes. The mechanism...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/mark.hall.432085/posts/known-as-animal-rain-there-are-many-recorded-occurrences-of-fish-frogs-and-other/10229997945682825/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mark.hall.432085/posts/known-as-animal-rain-there-are-many-recorded-occurrences-of-fish-frogs-and-other/10229997945682825/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>is the action of waterspouts or tornadoes. The mechanism...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100090673943205/posts/the-first-warm-rainy-night-triggers-mass-amphibian-movementfrogs-toads-and-salam/892937220405401/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100090673943205/posts/the-first-warm-rainy-night-triggers-mass-amphibian-movementfrogs-toads-and-salam/892937220405401/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arly April), after the ground has thawed and evening air...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/100090673943205/posts/the-first-warm-rainy-night-triggers-mass-amphibian-movementfrogs-toads-and-salam/892937220405401/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100090673943205/posts/the-first-warm-rainy-night-triggers-mass-amphibian-movementfrogs-toads-and-salam/892937220405401/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>arly April), after the ground has thawed and evening air...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DVw67ZdkUgd/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVw67ZdkUgd/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>h and early April after the ground starts to thaw, it&#x27;s raining...</p></details>
+   Link:<a href="https://www.instagram.com/p/DVw67ZdkUgd/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVw67ZdkUgd/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>h and early April after the ground starts to thaw, it&#x27;s raining...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: almanac.com  
    Title: Why Does It Rain Frogs, Worms, and Bugs?  
-   Link: <a href="https://www.almanac.com/can-it-rain-frogs-and-spiders" target="_blank" rel="noopener noreferrer nofollow">https://www.almanac.com/can-it-rain-frogs-and-spiders</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science...10 Apr 2026 — The most common explanation is that updrafts, particularly “watery” tornadoes, aka waterspouts, suck the cri...</p></details>
+   Link:<a href="https://www.almanac.com/can-it-rain-frogs-and-spiders" target="_blank" rel="noopener noreferrer nofollow">https://www.almanac.com/can-it-rain-frogs-and-spiders</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Science...10 Apr 2026 — The most common explanation is that updrafts, particularly “watery” tornadoes, aka waterspouts, suck the cri...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/465398636953947/posts/3000606170099835/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/465398636953947/posts/3000606170099835/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>an be found hoping across roads to explore new territories...</p></details>
+   Link:<a href="https://www.facebook.com/groups/465398636953947/posts/3000606170099835/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/465398636953947/posts/3000606170099835/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>an be found hoping across roads to explore new territories...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: wave3.com  
    Title: behind forecast raining cats dogs  
-   Link: <a href="https://www.wave3.com/2019/06/28/behind-forecast-raining-cats-dogs/" target="_blank" rel="noopener noreferrer nofollow">https://www.wave3.com/2019/06/28/behind-forecast-raining-cats-dogs/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behind the Forecast: Raining cats and dogs28 Jun 2019 — Can it actually rain animals? Meteorologist Tawana Andrew explains why the truth...</p></details>
+   Link:<a href="https://www.wave3.com/2019/06/28/behind-forecast-raining-cats-dogs/" target="_blank" rel="noopener noreferrer nofollow">https://www.wave3.com/2019/06/28/behind-forecast-raining-cats-dogs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Behind the Forecast: Raining cats and dogs28 Jun 2019 — Can it actually rain animals? Meteorologist Tawana Andrew explains why the truth...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ryansweeklywildlife.blogspot.com  
    Title: at mercy of rain and weather  
-   Link: <a href="https://ryansweeklywildlife.blogspot.com/2018/03/at-mercy-of-rain-and-weather.html" target="_blank" rel="noopener noreferrer nofollow">https://ryansweeklywildlife.blogspot.com/2018/03/at-mercy-of-rain-and-weather.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>At the Mercy of the Rain and Weather3 Mar 2018 — A good rule of thumb for most amphibians: wetter is better. They move under the cover of...</p></details>
+   Link:<a href="https://ryansweeklywildlife.blogspot.com/2018/03/at-mercy-of-rain-and-weather.html" target="_blank" rel="noopener noreferrer nofollow">https://ryansweeklywildlife.blogspot.com/2018/03/at-mercy-of-rain-and-weather.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>At the Mercy of the Rain and Weather3 Mar 2018 — A good rule of thumb for most amphibians: wetter is better. They move under the cover of...</p></details>

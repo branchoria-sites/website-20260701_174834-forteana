@@ -284,19 +284,19 @@ Many famous creature reports begin with a fleeting encounter in poor light rathe
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_misidentification_bi_3761ff_eyeshine_large_birds_f084ef-Illustration-1-dark.svg" | relative_url }}" alt="Bird Monsters illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_misidentification_bi_3761ff_eyeshine_large_birds_f084ef-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_misidentification_bi_3761ff_eyeshine_large_birds_f084ef-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This explanation does not fit every cryptid claim, nor does it dismiss witnesses as dishonest. Instead, it shows how normal visual perception can produce extraordinary impressions when size, distance and shape are difficult to judge. Within Fortean studies, large birds offer one of the clearest examples of how sincere observations can become enduring mysteries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.audubon.org/news/is-mothman-west-virginia-owl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audubon.org">[Audubon+2Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audubon.org</span><span class="citation-popover-title">Is the Mothman of West Virginia an Owl?</span><span class="citation-popover-snippet">Is the Mothman of West Virginia an Owl?October 26, 2018 — 26 Oct 2018 — More than 50 years after the first sighting, the best expl...</span><span class="citation-popover-meta">Published: October 26, 2018</span></span></span>
+This explanation does not fit every cryptid claim, nor does it dismiss witnesses as dishonest. Instead, it shows how normal visual perception can produce extraordinary impressions when size, distance and shape are difficult to judge. Within Fortean studies, large birds offer one of the clearest examples of how sincere observations can become enduring mysteries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.audubon.org/news/is-mothman-west-virginia-owl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audubon.org">[Audubon+2Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audubon.org</span><span class="citation-popover-title">Is the Mothman of West Virginia an Owl?</span><span class="citation-popover-snippet">Is the Mothman of West Virginia an Owl?October 26, 2018 — 26 Oct 2018 — More than 50 years after the first sighting, the best expl...</span><span class="citation-popover-meta">Published: October 26, 2018</span></span></span>
 
 ## Eyeshine, Wingspan and Startled Witnesses
 
 The feature that often dominates monster reports is not the wings or body but the eyes. Witnesses frequently describe bright red or orange eyes shining from the darkness. Such descriptions feel supernatural because the eyes appear self-luminous, yet in many situations they are simply reflecting a light source.
 
-When headlights or a torch are close to the observer's line of sight, reflected light travels directly back towards the source. This creates the impression of glowing eyes even though the animal is merely reflecting light. The colour depends on viewing angle, lighting conditions and the anatomy of the eye, with reddish reflections being particularly striking under vehicle headlights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcbirds.org/news/owl-be-seeing-you-amazing-facts-about-owl-eyes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcbirds.org">[American Bird Conservancy+2Discover Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcbirds.org</span><span class="citation-popover-title">owl be seeing you amazing facts about owl eyes</span><span class="citation-popover-snippet">American Bird Conservancy&quot;Owl&quot; Be Seeing You: Amazing Facts About Owl Eyes4 Mar 2022 — Behind an owl eye&#x27;s rod-packed retina is another l...</span></span></span>
+When headlights or a torch are close to the observer's line of sight, reflected light travels directly back towards the source. This creates the impression of glowing eyes even though the animal is merely reflecting light. The colour depends on viewing angle, lighting conditions and the anatomy of the eye, with reddish reflections being particularly striking under vehicle headlights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcbirds.org/news/owl-be-seeing-you-amazing-facts-about-owl-eyes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcbirds.org">[American Bird Conservancy+2Discover Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcbirds.org</span><span class="citation-popover-title">owl be seeing you amazing facts about owl eyes</span><span class="citation-popover-snippet">American Bird Conservancy&quot;Owl&quot; Be Seeing You: Amazing Facts About Owl Eyes4 Mar 2022 — Behind an owl eye&#x27;s rod-packed retina is another l...</span></span></span>
 
 The effect becomes more dramatic because large nocturnal birds often remain motionless until the last possible moment. A driver may notice only two bright points floating above roadside vegetation before the bird suddenly spreads its wings and takes flight. That rapid transition—from stationary eyes to a large silhouette—can make the animal appear to transform into something much bigger than it is.
 
-Owls are especially well suited to producing this impression because they possess exceptional low-light vision and large forward-facing eyes. Their broad facial discs can also resemble a face more than a beak when briefly illuminated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.audubon.org/news/is-mothman-west-virginia-owl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audubon.org">[Audubon+2American Bird Conservancy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audubon.org</span><span class="citation-popover-title">Is the Mothman of West Virginia an Owl?</span><span class="citation-popover-snippet">Is the Mothman of West Virginia an Owl?October 26, 2018 — 26 Oct 2018 — More than 50 years after the first sighting, the best expl...</span><span class="citation-popover-meta">Published: October 26, 2018</span></span></span>
+Owls are especially well suited to producing this impression because they possess exceptional low-light vision and large forward-facing eyes. Their broad facial discs can also resemble a face more than a beak when briefly illuminated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.audubon.org/news/is-mothman-west-virginia-owl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audubon.org">[Audubon+2American Bird Conservancy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audubon.org</span><span class="citation-popover-title">Is the Mothman of West Virginia an Owl?</span><span class="citation-popover-snippet">Is the Mothman of West Virginia an Owl?October 26, 2018 — 26 Oct 2018 — More than 50 years after the first sighting, the best expl...</span><span class="citation-popover-meta">Published: October 26, 2018</span></span></span>
 
-It is worth noting that discussions of bird eyeshine are more complicated than popular summaries sometimes suggest. Scientific surveys have found that birds generally lack the classic tapetum lucidum—the reflective layer responsible for the strong eyeshine seen in cats and many mammals—although some birds can still produce noticeable eye reflections through other optical mechanisms and retinal structures. The important point for eyewitness reports is the visual effect itself rather than the precise anatomy, since observers [experience]({{ 'experience/' | relative_url }}) reflected eyes as apparently glowing regardless of the underlying cause. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/14738502/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Comparative morphology of the tapetum lucidum (among...by FJ Ollivier · 2004 · Cited by 428 — Some species (primates, squirrels, b...</span></span></span>
+It is worth noting that discussions of bird eyeshine are more complicated than popular summaries sometimes suggest. Scientific surveys have found that birds generally lack the classic tapetum lucidum—the reflective layer responsible for the strong eyeshine seen in cats and many mammals—although some birds can still produce noticeable eye reflections through other optical mechanisms and retinal structures. The important point for eyewitness reports is the visual effect itself rather than the precise anatomy, since observers [experience]({{ 'experience/' | relative_url }}) reflected eyes as apparently glowing regardless of the underlying cause.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/14738502/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Comparative morphology of the tapetum lucidum (among...by FJ Ollivier · 2004 · Cited by 428 — Some species (primates, squirrels, b...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ORjgfuBoJ6A" title="Owl Adaptations: Vision, Hearing &amp; Silent Flight Explained!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ORjgfuBoJ6A" target="_blank" rel="noopener noreferrer">Owl Adaptations: Vision, Hearing &amp; Silent Flight Explained!</a></p><p class="youtube-embed-meta">Channel: BuschWildlife</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ORjgfuBoJ6A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ORjgfuBoJ6A">Open on YouTube</a></p></div></div></div>
@@ -319,7 +319,7 @@ Several perceptual effects combine at once:
 
 </div>
 
-Large wading birds are particularly effective at producing these illusions. Great blue herons and cranes have exceptionally long necks and legs, while some species can reach heights exceeding one metre with wingspans approaching two metres. Seen from an unfamiliar angle, these proportions can appear unlike any bird the witness expects to encounter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2022/06/the-mothman-and-the-crane-a-contemporary-perspective/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer+2Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">The data revealed that there indeed were sightings of sandhill cranes in and around the Point Pleasant area prior to 1967...</span></span></span>
+Large wading birds are particularly effective at producing these illusions. Great blue herons and cranes have exceptionally long necks and legs, while some species can reach heights exceeding one metre with wingspans approaching two metres. Seen from an unfamiliar angle, these proportions can appear unlike any bird the witness expects to encounter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2022/06/the-mothman-and-the-crane-a-contemporary-perspective/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer+2Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">The data revealed that there indeed were sightings of sandhill cranes in and around the Point Pleasant area prior to 1967...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_misidentification_bi_3761ff_eyeshine_large_birds_f084ef-Illustration-2-dark.svg" | relative_url }}" alt="Bird Monsters illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_misidentification_bi_3761ff_eyeshine_large_birds_f084ef-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_misidentification_bi_3761ff_eyeshine_large_birds_f084ef-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -327,11 +327,11 @@ Large wading birds are particularly effective at producing these illusions. Grea
 
 Not every bird generates monster reports. Certain species repeatedly appear in sceptical investigations because their appearance matches recurring witness descriptions.
 
-**Owls** often explain reports involving glowing eyes, broad shoulders, silent flight and encounters near woodland or buildings. Their habit of turning the head without moving the body can make them seem unnaturally fixed on an observer. A perched owl viewed from below also hides much of its body beneath feathers, exaggerating the impression of a bulky torso. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.audubon.org/news/is-mothman-west-virginia-owl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audubon.org">[Audubon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audubon.org</span><span class="citation-popover-title">Is the Mothman of West Virginia an Owl?</span><span class="citation-popover-snippet">Is the Mothman of West Virginia an Owl?October 26, 2018 — 26 Oct 2018 — More than 50 years after the first sighting, the best expl...</span><span class="citation-popover-meta">Published: October 26, 2018</span></span></span>
+**Owls** often explain reports involving glowing eyes, broad shoulders, silent flight and encounters near woodland or buildings. Their habit of turning the head without moving the body can make them seem unnaturally fixed on an observer. A perched owl viewed from below also hides much of its body beneath feathers, exaggerating the impression of a bulky torso.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.audubon.org/news/is-mothman-west-virginia-owl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audubon.org">[Audubon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audubon.org</span><span class="citation-popover-title">Is the Mothman of West Virginia an Owl?</span><span class="citation-popover-snippet">Is the Mothman of West Virginia an Owl?October 26, 2018 — 26 Oct 2018 — More than 50 years after the first sighting, the best expl...</span><span class="citation-popover-meta">Published: October 26, 2018</span></span></span>
 
-**Sandhill cranes** are frequently proposed in North American cryptid cases because they are unusually tall birds with long legs, broad wings and reddish skin around the eyes. Their height surprises observers unfamiliar with them, particularly where they appear outside their expected range during migration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2022/06/the-mothman-and-the-crane-a-contemporary-perspective/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">The data revealed that there indeed were sightings of sandhill cranes in and around the Point Pleasant area prior to 1967...</span></span></span>
+**Sandhill cranes** are frequently proposed in North American cryptid cases because they are unusually tall birds with long legs, broad wings and reddish skin around the eyes. Their height surprises observers unfamiliar with them, particularly where they appear outside their expected range during migration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2022/06/the-mothman-and-the-crane-a-contemporary-perspective/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">The data revealed that there indeed were sightings of sandhill cranes in and around the Point Pleasant area prior to 1967...</span></span></span>
 
-**Great blue herons** offer another plausible explanation for some reports. Their elongated necks can appear surprisingly thick or almost absent depending on whether the neck is extended or folded into an S-shape. During take-off, the combination of long wings, dangling legs and awkward movement can produce an unfamiliar silhouette. Research comparing historical sightings with bird distributions has suggested that herons may fit some reports even better than cranes in particular regions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mothman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+**Great blue herons** offer another plausible explanation for some reports. Their elongated necks can appear surprisingly thick or almost absent depending on whether the neck is extended or folded into an S-shape. During take-off, the combination of long wings, dangling legs and awkward movement can produce an unfamiliar silhouette. Research comparing historical sightings with bird distributions has suggested that herons may fit some reports even better than cranes in particular regions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mothman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9n1lJt12u0A" title="Owl Eyes Are Shaped Like Tubes, Here&#x27;s Why" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9n1lJt12u0A" target="_blank" rel="noopener noreferrer">Owl Eyes Are Shaped Like Tubes, Here&#x27;s Why</a></p><p class="youtube-embed-meta">Channel: Seeker</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9n1lJt12u0A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9n1lJt12u0A">Open on YouTube</a></p></div></div></div>
@@ -340,7 +340,7 @@ Not every bird generates monster reports. Certain species repeatedly appear in s
 
 Perhaps the best-known example is the series of sightings associated with the Mothman legend near Point Pleasant, West Virginia, during 1966 and 1967.
 
-The original newspaper accounts described a "man-sized bird" before later [retellings]({{ 'retellings/' | relative_url }}) increasingly emphasised supernatural elements. Over time, investigators have proposed several bird species—including barred owls, great blue herons and sandhill cranes—as explanations for different reports rather than assuming a single animal lay behind every sighting. Modern analyses argue that multiple ordinary birds observed under varying conditions are more consistent with the diversity of witness descriptions than one unknown creature. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mothman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+The original newspaper accounts described a "man-sized bird" before later [retellings]({{ 'retellings/' | relative_url }}) increasingly emphasised supernatural elements. Over time, investigators have proposed several bird species—including barred owls, great blue herons and sandhill cranes—as explanations for different reports rather than assuming a single animal lay behind every sighting. Modern analyses argue that multiple ordinary birds observed under varying conditions are more consistent with the diversity of witness descriptions than one unknown creature.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mothman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 Importantly, this interpretation does not require every witness to have seen the same species. One report may involve an owl reflecting headlights, another a heron taking flight near a road, and another an unusually placed crane during migration. As the stories merge through conversation and media coverage, they become remembered as sightings of a single mysterious being rather than separate encounters with different animals.
 
@@ -354,185 +354,185 @@ They explain why encounters often happen at dusk or night, why the creature vani
 
 At the same time, [bird explanations]({{ 'bird-theory/' | relative_url }}) have limits. Reports involving prolonged close observation, detailed anatomical descriptions inconsistent with known birds or multiple independent observations under good lighting require separate evaluation. [Misidentification]({{ 'mistakes/' | relative_url }}) is therefore best understood as one mechanism among several possibilities considered in Fortean investigation, not as a universal answer.
 
-Within the broader history of Forteana, however, roadside encounters with owls, cranes and herons illustrate how an ordinary animal can become extraordinary. A few seconds of surprise, distorted by darkness and amplified through retelling, are often enough for a familiar bird to enter folklore as an unknown monster. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.audubon.org/news/is-mothman-west-virginia-owl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audubon.org">[Audubon+2Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audubon.org</span><span class="citation-popover-title">Is the Mothman of West Virginia an Owl?</span><span class="citation-popover-snippet">Is the Mothman of West Virginia an Owl?October 26, 2018 — 26 Oct 2018 — More than 50 years after the first sighting, the best expl...</span><span class="citation-popover-meta">Published: October 26, 2018</span></span></span>
+Within the broader history of Forteana, however, roadside encounters with owls, cranes and herons illustrate how an ordinary animal can become extraordinary. A few seconds of surprise, distorted by darkness and amplified through retelling, are often enough for a familiar bird to enter folklore as an unknown monster.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.audubon.org/news/is-mothman-west-virginia-owl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audubon.org">[Audubon+2Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audubon.org</span><span class="citation-popover-title">Is the Mothman of West Virginia an Owl?</span><span class="citation-popover-snippet">Is the Mothman of West Virginia an Owl?October 26, 2018 — 26 Oct 2018 — More than 50 years after the first sighting, the best expl...</span><span class="citation-popover-meta">Published: October 26, 2018</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fYunzkRRNPI" title="Real or Cryptid? Animal X Hunts for Mothman,Thunderbirds &amp; the Mexican Birdman | Storyteller Digital" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fYunzkRRNPI" target="_blank" rel="noopener noreferrer">Real or Cryptid? Animal X Hunts for Mothman,Thunderbirds &amp; the Mexican Birdman | Storyteller Digital</a></p><p class="youtube-embed-meta">Channel: Storyteller Digital</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fYunzkRRNPI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fYunzkRRNPI">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Birds Become Monsters at Night. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Birds Become Monsters at Night. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Encourages evidence-based interpretation of unusual sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages evidence-based interpretation of unusual sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Places strange claims within the wider history of collective belief.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Places strange claims within the wider history of collective belief.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explains perception, memory and pattern recognition.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains perception, memory and pattern recognition.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mothman+Prophecies+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mothman Prophecies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/725969-M.jpg" alt="Cover for The Mothman Prophecies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mothman Prophecies">The Mothman Prophecies</a>
-        </h4>
-        <p class="fr-book-author">By John A. Keel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mothman+Prophecies+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mothman Prophecies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/725969-M.jpg" alt="Cover for The Mothman Prophecies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mothman Prophecies">The Mothman Prophecies</a>
+</h4>
+<p class="fr-book-author">By John A. Keel</p>
         
-        <p class="fr-book-desc">First published 1975. Subjects: Unidentified flying objects, Curiosities and wonders, Human-alien encounters, Sightings and encounters, U...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1975. Subjects: Unidentified flying objects, Curiosities and wonders, Human-alien encounters, Sightings and encounters, U...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-monsters-when-birds-become-monsters-at-night-forteana-cryptid-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster -book -books" data-ebay-reference="bird-monsters-when-birds-become-monsters-at-night-forteana-cryptid-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mothman The Legend Cryptid Poster Best Seller Funny Gift Tee T Shirt 2951"><img src="{{ '/assets/images/marketplace-covers/8fca34891a1d8685b268.jpg' | relative_url }}" alt="Listing image for Mothman The Legend Cryptid Poster Best Seller Funny Gift Tee T Shirt 2951" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-monsters-when-birds-become-monsters-at-night-forteana-cryptid-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster -book -books" data-ebay-reference="bird-monsters-when-birds-become-monsters-at-night-forteana-cryptid-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Mothman The Legend Cryptid Poster Best Seller Funny Gift Tee T Shirt 2951</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-monsters-when-birds-become-monsters-at-night-forteana-cryptid-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster -book -books" data-ebay-reference="bird-monsters-when-birds-become-monsters-at-night-forteana-cryptid-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-monsters-when-birds-become-monsters-at-night-forteana-cryptid-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster -book -books" data-ebay-reference="bird-monsters-when-birds-become-monsters-at-night-forteana-cryptid-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-monsters-when-birds-become-monsters-at-night-forteana-cryptid-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster -book -books" data-ebay-reference="bird-monsters-when-birds-become-monsters-at-night-forteana-cryptid-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mothman The Legend Cryptid Poster Best Seller Funny Gift Tee T Shirt 2951"><img src="{{ '/assets/images/marketplace-covers/8fca34891a1d8685b268.jpg' | relative_url }}" alt="Listing image for Mothman The Legend Cryptid Poster Best Seller Funny Gift Tee T Shirt 2951" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-monsters-when-birds-become-monsters-at-night-forteana-cryptid-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster -book -books" data-ebay-reference="bird-monsters-when-birds-become-monsters-at-night-forteana-cryptid-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Mothman The Legend Cryptid Poster Best Seller Funny Gift Tee T Shirt 2951</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-monsters-when-birds-become-monsters-at-night-forteana-cryptid-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster -book -books" data-ebay-reference="bird-monsters-when-birds-become-monsters-at-night-forteana-cryptid-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-monsters-when-birds-become-monsters-at-night-forteana-cryptid-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster -book -books" data-ebay-reference="bird-monsters-when-birds-become-monsters-at-night-forteana-cryptid-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-monsters-when-birds-become-monsters-at-night-forteana-cryptid-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster -book -books" data-ebay-reference="bird-monsters-when-birds-become-monsters-at-night-forteana-cryptid-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Local Cryptid Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f8f85cfeeb9bb78d9c49.jpg' | relative_url }}" alt="Listing image for Local Cryptid Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-monsters-when-birds-become-monsters-at-night-forteana-cryptid-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster -book -books" data-ebay-reference="bird-monsters-when-birds-become-monsters-at-night-forteana-cryptid-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Local Cryptid Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-monsters-when-birds-become-monsters-at-night-forteana-cryptid-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster -book -books" data-ebay-reference="bird-monsters-when-birds-become-monsters-at-night-forteana-cryptid-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-monsters-when-birds-become-monsters-at-night-forteana-cryptid-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster -book -books" data-ebay-reference="bird-monsters-when-birds-become-monsters-at-night-forteana-cryptid-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-monsters-when-birds-become-monsters-at-night-forteana-cryptid-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster -book -books" data-ebay-reference="bird-monsters-when-birds-become-monsters-at-night-forteana-cryptid-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Local Cryptid Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f8f85cfeeb9bb78d9c49.jpg' | relative_url }}" alt="Listing image for Local Cryptid Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-monsters-when-birds-become-monsters-at-night-forteana-cryptid-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster -book -books" data-ebay-reference="bird-monsters-when-birds-become-monsters-at-night-forteana-cryptid-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Local Cryptid Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-monsters-when-birds-become-monsters-at-night-forteana-cryptid-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster -book -books" data-ebay-reference="bird-monsters-when-birds-become-monsters-at-night-forteana-cryptid-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-monsters-when-birds-become-monsters-at-night-forteana-cryptid-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster -book -books" data-ebay-reference="bird-monsters-when-birds-become-monsters-at-night-forteana-cryptid-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-monsters-when-birds-become-monsters-at-night-forteana-cryptid-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster -book -books" data-ebay-reference="bird-monsters-when-birds-become-monsters-at-night-forteana-cryptid-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wendigo Cryptid Monster Travel Art Framed Wall Art Poster Canvas Print Picture"><span>eBay</span></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-monsters-when-birds-become-monsters-at-night-forteana-cryptid-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster -book -books" data-ebay-reference="bird-monsters-when-birds-become-monsters-at-night-forteana-cryptid-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Wendigo Cryptid Monster Travel Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-monsters-when-birds-become-monsters-at-night-forteana-cryptid-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster -book -books" data-ebay-reference="bird-monsters-when-birds-become-monsters-at-night-forteana-cryptid-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-monsters-when-birds-become-monsters-at-night-forteana-cryptid-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster -book -books" data-ebay-reference="bird-monsters-when-birds-become-monsters-at-night-forteana-cryptid-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-monsters-when-birds-become-monsters-at-night-forteana-cryptid-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster -book -books" data-ebay-reference="bird-monsters-when-birds-become-monsters-at-night-forteana-cryptid-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-monsters-when-birds-become-monsters-at-night-forteana-cryptid-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster -book -books" data-ebay-reference="bird-monsters-when-birds-become-monsters-at-night-forteana-cryptid-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wendigo Cryptid Monster Travel Art Framed Wall Art Poster Canvas Print Picture"><span>eBay</span></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-monsters-when-birds-become-monsters-at-night-forteana-cryptid-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster -book -books" data-ebay-reference="bird-monsters-when-birds-become-monsters-at-night-forteana-cryptid-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Wendigo Cryptid Monster Travel Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-monsters-when-birds-become-monsters-at-night-forteana-cryptid-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster -book -books" data-ebay-reference="bird-monsters-when-birds-become-monsters-at-night-forteana-cryptid-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-monsters-when-birds-become-monsters-at-night-forteana-cryptid-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster -book -books" data-ebay-reference="bird-monsters-when-birds-become-monsters-at-night-forteana-cryptid-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-monsters-when-birds-become-monsters-at-night-forteana-cryptid-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid poster -book -books" data-ebay-reference="bird-monsters-when-birds-become-monsters-at-night-forteana-cryptid-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -548,7 +548,7 @@ Within the broader history of Forteana, however, roadside encounters with owls, 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -568,7 +568,7 @@ Within the broader history of Forteana, however, roadside encounters with owls, 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -600,7 +600,7 @@ Within the broader history of Forteana, however, roadside encounters with owls, 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -652,7 +652,7 @@ Within the broader history of Forteana, however, roadside encounters with owls, 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -697,7 +697,7 @@ Within the broader history of Forteana, however, roadside encounters with owls, 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -738,128 +738,128 @@ Within the broader history of Forteana, however, roadside encounters with owls, 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: audubon.org  
    Title: Is the Mothman of West Virginia an Owl?  
-   Link: <a href="https://www.audubon.org/news/is-mothman-west-virginia-owl" target="_blank" rel="noopener noreferrer nofollow">https://www.audubon.org/news/is-mothman-west-virginia-owl</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Is the Mothman of West Virginia an Owl?October 26, 2018 — 26 Oct 2018 — More than 50 years after the first sighting, the best expl...</p></details>
+   Link:<a href="https://www.audubon.org/news/is-mothman-west-virginia-owl" target="_blank" rel="noopener noreferrer nofollow">https://www.audubon.org/news/is-mothman-west-virginia-owl</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is the Mothman of West Virginia an Owl?October 26, 2018 — 26 Oct 2018 — More than 50 years after the first sighting, the best expl...</p></details>
    Published: October 26, 2018  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: phys.org  
    Title: [Urban legends](&#123;&#123; 'urban-legends/' | relative_url &#125;&#125;) or urban wildlife?  
-   Link: <a href="https://phys.org/news/2024-11-urban-legends-wildlife-creepy-creature.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2024-11-urban-legends-wildlife-creepy-creature.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Creepy creature sightings...1 Nov 2024 — And large birds—such as barred owls, sandhill cranes or great blue herons—can be misidentified...</p></details>
+   Link:<a href="https://phys.org/news/2024-11-urban-legends-wildlife-creepy-creature.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2024-11-urban-legends-wildlife-creepy-creature.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Creepy creature sightings...1 Nov 2024 — And large birds—such as barred owls, sandhill cranes or great blue herons—can be misidentified...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Tapetum_lucidum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tapetum_lucidum</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tapetum lucidumEyeshine is a visible effect of the tapetum lucidum. When light shines into the eye of an animal having a tapetum lucid...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Tapetum_lucidum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tapetum_lucidum</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tapetum lucidumEyeshine is a visible effect of the tapetum lucidum. When light shines into the eye of an animal having a tapetum lucid...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Mothman" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mothman</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Mothman" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mothman</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: connectparanormal.net  
    Title: Sandhill cranes  
-   Link: <a href="https://connectparanormal.net/2025/01/05/mothman-vs-sandhill-cranes-myth-or-reality/" target="_blank" rel="noopener noreferrer nofollow">https://connectparanormal.net/2025/01/05/mothman-vs-sandhill-cranes-myth-or-reality/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mothman vs Sandhill Cranes: Myth or Reality?5 Jan 2025 — Skeptics and wildlife specialists have put forth the sandhill crane theory as a...</p></details>
+   Link:<a href="https://connectparanormal.net/2025/01/05/mothman-vs-sandhill-cranes-myth-or-reality/" target="_blank" rel="noopener noreferrer nofollow">https://connectparanormal.net/2025/01/05/mothman-vs-sandhill-cranes-myth-or-reality/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mothman vs Sandhill Cranes: Myth or Reality?5 Jan 2025 — Skeptics and wildlife specialists have put forth the sandhill crane theory as a...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/newsletter/mothman-revisitedinvestigating-on-site/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/mothman-revisitedinvestigating-on-site/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerMothman Revisited: Investigating on Site2 Dec 2002 — In light of the evidence it seems very likely that the Mothman sig...</p></details>
+   Link:<a href="https://skepticalinquirer.org/newsletter/mothman-revisitedinvestigating-on-site/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/mothman-revisitedinvestigating-on-site/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerMothman Revisited: Investigating on Site2 Dec 2002 — In light of the evidence it seems very likely that the Mothman sig...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: abcbirds.org  
    Title: owl be seeing you amazing facts about owl eyes  
-   Link: <a href="https://abcbirds.org/news/owl-be-seeing-you-amazing-facts-about-owl-eyes/" target="_blank" rel="noopener noreferrer nofollow">https://abcbirds.org/news/owl-be-seeing-you-amazing-facts-about-owl-eyes/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>American Bird Conservancy&quot;Owl&quot; Be Seeing You: Amazing Facts About Owl Eyes4 Mar 2022 — Behind an owl eye&#x27;s rod-packed retina is another l...</p></details>
+   Link:<a href="https://abcbirds.org/news/owl-be-seeing-you-amazing-facts-about-owl-eyes/" target="_blank" rel="noopener noreferrer nofollow">https://abcbirds.org/news/owl-be-seeing-you-amazing-facts-about-owl-eyes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Bird Conservancy&quot;Owl&quot; Be Seeing You: Amazing Facts About Owl Eyes4 Mar 2022 — Behind an owl eye&#x27;s rod-packed retina is another l...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: discovermagazine.com  
    Title: why these 7 animals have eyes that glow in the dark 45496  
-   Link: <a href="https://www.discovermagazine.com/why-these-7-animals-have-eyes-that-glow-in-the-dark-45496" target="_blank" rel="noopener noreferrer nofollow">https://www.discovermagazine.com/why-these-7-animals-have-eyes-that-glow-in-the-dark-45496</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why These 7 Animals Have Eyes That Glow in the DarkOct 26, 2023 — Among species that do possess biological reflectors, eyeshine varies gr...</p></details>
+   Link:<a href="https://www.discovermagazine.com/why-these-7-animals-have-eyes-that-glow-in-the-dark-45496" target="_blank" rel="noopener noreferrer nofollow">https://www.discovermagazine.com/why-these-7-animals-have-eyes-that-glow-in-the-dark-45496</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why These 7 Animals Have Eyes That Glow in the DarkOct 26, 2023 — Among species that do possess biological reflectors, eyeshine varies gr...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/14738502/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/14738502/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Comparative morphology of the tapetum lucidum (among...by FJ Ollivier · 2004 · Cited by 428 — Some species (primates, squirrels, b...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/14738502/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/14738502/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Comparative morphology of the tapetum lucidum (among...by FJ Ollivier · 2004 · Cited by 428 — Some species (primates, squirrels, b...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2022/06/the-mothman-and-the-crane-a-contemporary-perspective/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2022/06/the-mothman-and-the-crane-a-contemporary-perspective/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The data revealed that there indeed were sightings of sandhill cranes in and around the Point Pleasant area prior to 1967...</p></details>
+   Link:<a href="https://skepticalinquirer.org/2022/06/the-mothman-and-the-crane-a-contemporary-perspective/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2022/06/the-mothman-and-the-crane-a-contemporary-perspective/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The data revealed that there indeed were sightings of sandhill cranes in and around the Point Pleasant area prior to 1967...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cryptozoologycryptids.fandom.com  
-   Link: <a href="https://cryptozoologycryptids.fandom.com/wiki/Mothman" target="_blank" rel="noopener noreferrer nofollow">https://cryptozoologycryptids.fandom.com/wiki/Mothman</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cryptid Wiki - FandomSightings of the Mothman ceased soon after the tragic collapse. Some theorize that the creature was actually a large...</p></details>
+   Link:<a href="https://cryptozoologycryptids.fandom.com/wiki/Mothman" target="_blank" rel="noopener noreferrer nofollow">https://cryptozoologycryptids.fandom.com/wiki/Mothman</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cryptid Wiki - FandomSightings of the Mothman ceased soon after the tragic collapse. Some theorize that the creature was actually a large...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12093289/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12093289/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of the Vertebrate Retina to Low‐Light Conditionsby R Cobo · 2025 · Cited by 3 — Rod‐dominated retinas are supported by structural feature...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12093289/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12093289/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of the Vertebrate Retina to Low‐Light Conditionsby R Cobo · 2025 · Cited by 3 — Rod‐dominated retinas are supported by structural feature...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: scienceline.ucsb.edu  
    Title: edutapetum lucidum  
-   Link: <a href="https://scienceline.ucsb.edu/getkey.php?key=1235" target="_blank" rel="noopener noreferrer nofollow">https://scienceline.ucsb.edu/getkey.php?key=1235</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>lucidum - UCSB Science Line16 Mar 2006 — Owls have good night vision for a few reasons. First, they have a lot more rods and not as many...</p></details>
+   Link:<a href="https://scienceline.ucsb.edu/getkey.php?key=1235" target="_blank" rel="noopener noreferrer nofollow">https://scienceline.ucsb.edu/getkey.php?key=1235</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lucidum - UCSB Science Line16 Mar 2006 — Owls have good night vision for a few reasons. First, they have a lot more rods and not as many...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/do" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/do</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DO Definition &amp; Meaning5 days ago — 1. to bring to pass: carry out do another&#x27;s wishes it is my earnest desire to know the will of Provi...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/do" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/do</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DO Definition &amp; Meaning5 days ago — 1. to bring to pass: carry out do another&#x27;s wishes it is my earnest desire to know the will of Provi...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/entomemeology/posts/1669640817221196/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/entomemeology/posts/1669640817221196/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mothman Sighting and Theories DiscussionLol. Someone&#x27;s trying to really turn moth man into a cryptid people believe like the [Jersey Devil](&amp;#123;&amp;#123; &#x27;jersey-devil/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link:<a href="https://www.facebook.com/groups/entomemeology/posts/1669640817221196/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/entomemeology/posts/1669640817221196/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mothman Sighting and Theories DiscussionLol. Someone&#x27;s trying to really turn moth man into a cryptid people believe like the [Jersey Devil](&amp;#123;&amp;#123; &#x27;jersey-devil/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pocketmags.com  
-   Link: <a href="https://pocketmags.com/us/skeptical-inquirer-magazine/julyaugust-2022/articles/the-mothman-and-the-crane-a-contemporary-perspective?srsltid=AfmBOor6IypaiVss8IeNZY3-TBfB7YoTnE-r7Rd0MiGz_QVUNJzKqBAr" target="_blank" rel="noopener noreferrer nofollow">https://pocketmags.com/us/skeptical-inquirer-magazine/julyaugust-2022/articles/the-mothman-and-the-crane-a-contemporary-perspective?srsltid=AfmBOor6IypaiVss8IeNZY3-TBfB7YoTnE-r7Rd0MiGz_QVUNJzKqBAr</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mothman and the Crane: A Contemporary PerspectiveThe assertion that some of the original sightings of the mysterious entity were like...</p></details>
+   Link:<a href="https://pocketmags.com/us/skeptical-inquirer-magazine/julyaugust-2022/articles/the-mothman-and-the-crane-a-contemporary-perspective?srsltid=AfmBOor6IypaiVss8IeNZY3-TBfB7YoTnE-r7Rd0MiGz_QVUNJzKqBAr" target="_blank" rel="noopener noreferrer nofollow">https://pocketmags.com/us/skeptical-inquirer-magazine/julyaugust-2022/articles/the-mothman-and-the-crane-a-contemporary-perspective?srsltid=AfmBOor6IypaiVss8IeNZY3-TBfB7YoTnE-r7Rd0MiGz_QVUNJzKqBAr</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Mothman and the Crane: A Contemporary PerspectiveThe assertion that some of the original sightings of the mysterious entity were like...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/monstertalkgroupmail/posts/1654982247853923/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/monstertalkgroupmail/posts/1654982247853923/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mothman as a ghostly Appalachian bird of doomNickell attributes the Mothman reports to pranks, misidentified planes, and sightings of...</p></details>
+   Link:<a href="https://www.facebook.com/groups/monstertalkgroupmail/posts/1654982247853923/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/monstertalkgroupmail/posts/1654982247853923/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Mothman as a ghostly Appalachian bird of doomNickell attributes the Mothman reports to pranks, misidentified planes, and sightings of...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: murderapparel.com  
    Title: mothman the real story behind point pleasants most famous cryptid  
-   Link: <a href="https://murderapparel.com/blogs/news/mothman-the-real-story-behind-point-pleasants-most-famous-cryptid?srsltid=AfmBOornE18FPniUl6NMl90npyoq0Ksvm63YZITFgVTmo9o3GV3lhOjl" target="_blank" rel="noopener noreferrer nofollow">https://murderapparel.com/blogs/news/mothman-the-real-story-behind-point-pleasants-most-famous-cryptid?srsltid=AfmBOornE18FPniUl6NMl90npyoq0Ksvm63YZITFgVTmo9o3GV3lhOjl</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Real Story Behind Point Pleasant&#x27;s Most Famous Cryptid2 May 2026 — Proposed explanations include a large sandhill crane or barn owl m...</p></details>
+   Link:<a href="https://murderapparel.com/blogs/news/mothman-the-real-story-behind-point-pleasants-most-famous-cryptid?srsltid=AfmBOornE18FPniUl6NMl90npyoq0Ksvm63YZITFgVTmo9o3GV3lhOjl" target="_blank" rel="noopener noreferrer nofollow">https://murderapparel.com/blogs/news/mothman-the-real-story-behind-point-pleasants-most-famous-cryptid?srsltid=AfmBOornE18FPniUl6NMl90npyoq0Ksvm63YZITFgVTmo9o3GV3lhOjl</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Real Story Behind Point Pleasant&#x27;s Most Famous Cryptid2 May 2026 — Proposed explanations include a large sandhill crane or barn owl m...</p></details>
    Published: May 2026  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: blog.nature.org  
    Title: why do some animals eyes glow in the dark the science of eyeshine  
-   Link: <a href="https://blog.nature.org/2026/04/14/why-do-some-animals-eyes-glow-in-the-dark-the-science-of-eyeshine/" target="_blank" rel="noopener noreferrer nofollow">https://blog.nature.org/2026/04/14/why-do-some-animals-eyes-glow-in-the-dark-the-science-of-eyeshine/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Do Some Animals&#x27; Eyes Glow in the Dark?14 Apr 2026 — That&#x27;s thanks to a reflective layer in the back of the organ called the tapetum luci...</p></details>
+   Link:<a href="https://blog.nature.org/2026/04/14/why-do-some-animals-eyes-glow-in-the-dark-the-science-of-eyeshine/" target="_blank" rel="noopener noreferrer nofollow">https://blog.nature.org/2026/04/14/why-do-some-animals-eyes-glow-in-the-dark-the-science-of-eyeshine/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Do Some Animals&#x27; Eyes Glow in the Dark?14 Apr 2026 — That&#x27;s thanks to a reflective layer in the back of the organ called the tapetum luci...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: funderstanding.com  
-   Link: <a href="https://funderstanding.com/parents/animal-night-vision-superpowers-the-secret-behind-glowing-eyes-in-the-dark/" target="_blank" rel="noopener noreferrer nofollow">https://funderstanding.com/parents/animal-night-vision-superpowers-the-secret-behind-glowing-eyes-in-the-dark/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tapetum lucidum behind their retina that reflects light back through their...Read more...</p></details>
+   Link:<a href="https://funderstanding.com/parents/animal-night-vision-superpowers-the-secret-behind-glowing-eyes-in-the-dark/" target="_blank" rel="noopener noreferrer nofollow">https://funderstanding.com/parents/animal-night-vision-superpowers-the-secret-behind-glowing-eyes-in-the-dark/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tapetum lucidum behind their retina that reflects light back through their...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Cryptozoology/comments/p0d1bs/mothman_believers_please_explain_why_it_is/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Cryptozoology/comments/p0d1bs/mothman_believers_please_explain_why_it_is/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>at the red feathers are bioluminescent and can account for the...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/Cryptozoology/comments/p0d1bs/mothman_believers_please_explain_why_it_is/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Cryptozoology/comments/p0d1bs/mothman_believers_please_explain_why_it_is/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>at the red feathers are bioluminescent and can account for the...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DR96hq8jSAU/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DR96hq8jSAU/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e the sightings are best explained by misidentified large birds and...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DR96hq8jSAU/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DR96hq8jSAU/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e the sightings are best explained by misidentified large birds and...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/[cryptids" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/[cryptids</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>igration season, so the Chicagoland moth man might be a crane...</p></details>
+   Link:<a href="https://www.reddit.com/r/[cryptids" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/[cryptids</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>igration season, so the Chicagoland moth man might be a crane...</p></details>

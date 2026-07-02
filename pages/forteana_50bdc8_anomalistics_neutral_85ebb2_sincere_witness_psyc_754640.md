@@ -280,11 +280,11 @@ image: /assets/images/forteana_50bdc8_anomalistics_neutral_85ebb2_sincere_witnes
 
 ## Introduction
 
-Many people who report [ghosts]({{ 'ghosts/' | relative_url }}), [apparitions]({{ 'apparitions/' | relative_url }}), precognitive dreams, out-of-body experiences or other seemingly paranormal events are completely sincere. Anomalistic psychology begins from that premise. Rather than assuming that witnesses are dishonest or that their experiences prove paranormal forces, it asks how ordinary psychological processes can produce extraordinary experiences and why those experiences often feel utterly convincing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sydneysymposium.unsw.edu.au/2024/chapters/FrenchSSSP2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sydneysymposium.unsw.edu.au">[Sydney Symposium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sydneysymposium.unsw.edu.au</span><span class="citation-popover-snippet">One of the central topics of anomalistic psychology is the unreliability of memory. After all, when assessing someone&#x27;s claim...Read more...</span></span></span>
+Many people who report [ghosts]({{ 'ghosts/' | relative_url }}), [apparitions]({{ 'apparitions/' | relative_url }}), precognitive dreams, out-of-body experiences or other seemingly paranormal events are completely sincere. Anomalistic psychology begins from that premise. Rather than assuming that witnesses are dishonest or that their experiences prove paranormal forces, it asks how ordinary psychological processes can produce extraordinary experiences and why those experiences often feel utterly convincing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sydneysymposium.unsw.edu.au/2024/chapters/FrenchSSSP2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sydneysymposium.unsw.edu.au">[Sydney Symposium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sydneysymposium.unsw.edu.au</span><span class="citation-popover-snippet">One of the central topics of anomalistic psychology is the unreliability of memory. After all, when assessing someone&#x27;s claim...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_anomalistics_neutral_85ebb2_sincere_witness_psyc_754640-Illustration-1-dark.svg" | relative_url }}" alt="Psychology illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_anomalistics_neutral_85ebb2_sincere_witness_psyc_754640-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_anomalistics_neutral_85ebb2_sincere_witness_psyc_754640-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within anomalistics, this approach is valuable because it separates the [experience]({{ 'experience/' | relative_url }}) from its interpretation. A person may genuinely hear footsteps in an empty house, feel a presence while unable to move, or vividly remember a striking coincidence. The psychological question is not whether the witness is lying, but how perception, memory, expectation, emotion and cultural beliefs combine to shape what is experienced and later reported. This allows investigators to take witnesses seriously while remaining neutral about supernatural explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sydneysymposium.unsw.edu.au/2024/chapters/FrenchSSSP2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sydneysymposium.unsw.edu.au">[Sydney Symposium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sydneysymposium.unsw.edu.au</span><span class="citation-popover-snippet">One of the central topics of anomalistic psychology is the unreliability of memory. After all, when assessing someone&#x27;s claim...Read more...</span></span></span>
+Within anomalistics, this approach is valuable because it separates the [experience]({{ 'experience/' | relative_url }}) from its interpretation. A person may genuinely hear footsteps in an empty house, feel a presence while unable to move, or vividly remember a striking coincidence. The psychological question is not whether the witness is lying, but how perception, memory, expectation, emotion and cultural beliefs combine to shape what is experienced and later reported. This allows investigators to take witnesses seriously while remaining neutral about supernatural explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sydneysymposium.unsw.edu.au/2024/chapters/FrenchSSSP2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sydneysymposium.unsw.edu.au">[Sydney Symposium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sydneysymposium.unsw.edu.au</span><span class="citation-popover-snippet">One of the central topics of anomalistic psychology is the unreliability of memory. After all, when assessing someone&#x27;s claim...Read more...</span></span></span>
 
 ## Memory and expectation in unusual experiences
 
@@ -303,9 +303,9 @@ This is especially important in reports of paranormal events because such experi
 
 </div>
 
-Laboratory studies illustrate how expectation changes interpretation. In one well-known investigation of supposedly haunted locations, participants who were told that a building was haunted reported significantly more unusual sensations than those given a neutral explanation, despite exploring the same environment. Expectation did not invent every sensation, but it influenced how ordinary perceptions were interpreted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Anomalistic_psychology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anomalistic psychology</span><span class="citation-popover-snippet">Anomalistic psychology</span></span></span>
+Laboratory studies illustrate how expectation changes interpretation. In one well-known investigation of supposedly haunted locations, participants who were told that a building was haunted reported significantly more unusual sensations than those given a neutral explanation, despite exploring the same environment. Expectation did not invent every sensation, but it influenced how ordinary perceptions were interpreted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Anomalistic_psychology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anomalistic psychology</span><span class="citation-popover-snippet">Anomalistic psychology</span></span></span>
 
-Memory adds another layer. Recalling an event is a reconstructive process rather than replaying a perfect recording. Each retelling may incorporate new assumptions, conversations or interpretations. Over time, a puzzling event can become a coherent supernatural narrative without deliberate deception. Anomalistic psychologists therefore distinguish between the original experience and the later memory of that experience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sydneysymposium.unsw.edu.au/2024/chapters/FrenchSSSP2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sydneysymposium.unsw.edu.au">[Sydney Symposium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sydneysymposium.unsw.edu.au</span><span class="citation-popover-snippet">One of the central topics of anomalistic psychology is the unreliability of memory. After all, when assessing someone&#x27;s claim...Read more...</span></span></span>
+Memory adds another layer. Recalling an event is a reconstructive process rather than replaying a perfect recording. Each retelling may incorporate new assumptions, conversations or interpretations. Over time, a puzzling event can become a coherent supernatural narrative without deliberate deception. Anomalistic psychologists therefore distinguish between the original experience and the later memory of that experience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sydneysymposium.unsw.edu.au/2024/chapters/FrenchSSSP2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sydneysymposium.unsw.edu.au">[Sydney Symposium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sydneysymposium.unsw.edu.au</span><span class="citation-popover-snippet">One of the central topics of anomalistic psychology is the unreliability of memory. After all, when assessing someone&#x27;s claim...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/i8mjM3PB_Tk" title="Paranormal activity: science or fiction? - with Chris French" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=i8mjM3PB_Tk" target="_blank" rel="noopener noreferrer">Paranormal activity: science or fiction? - with Chris French</a></p><p class="youtube-embed-meta">Channel: The Royal Institution &middot; Views: 63.9K &middot; Uploaded: June 2024 &middot; Length: 57 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=i8mjM3PB_Tk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=i8mjM3PB_Tk">Open on YouTube</a></p></div></div></div>
@@ -316,7 +316,7 @@ One of the central misunderstandings surrounding psychological explanations is t
 
 An experience can be psychologically understandable while remaining emotionally profound. Someone who senses the presence of a recently deceased relative during grief may have undergone a genuine subjective experience, regardless of whether an external entity was present. Explaining possible cognitive or neurological mechanisms does not imply that the comfort, fear or significance of the event was unreal.
 
-This distinction is particularly important in clinical settings. Mental health professionals generally assess how an experience affects a person's wellbeing rather than assuming that all unusual experiences indicate illness. Many anomalous experiences occur in psychologically healthy individuals and never develop into psychiatric disorders. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4685320/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAnomalous Experiences, Trauma, and Symbolization</span><span class="citation-popover-snippet">by T Rabeyron · 2015 · Cited by 70 — Anomalous or exceptional experiences are uncommon experiences which are usually interpreted as be...</span></span></span>
+This distinction is particularly important in clinical settings. Mental health professionals generally assess how an experience affects a person's wellbeing rather than assuming that all unusual experiences indicate illness. Many anomalous experiences occur in psychologically healthy individuals and never develop into psychiatric disorders.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4685320/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAnomalous Experiences, Trauma, and Symbolization</span><span class="citation-popover-snippet">by T Rabeyron · 2015 · Cited by 70 — Anomalous or exceptional experiences are uncommon experiences which are usually interpreted as be...</span></span></span>
 
 For anomalistics, respectful investigation requires holding two ideas simultaneously:
 
@@ -329,22 +329,22 @@ Keeping these possibilities separate reduces both credulity and unfair scepticis
 
 Some of the most striking paranormal reports occur during transitions between sleeping and waking, when the brain can briefly combine elements of dreaming with conscious awareness.
 
-[Sleep paralysis]({{ 'sleep-paralysis/' | relative_url }}) is a well-studied example. During an episode, people may awaken while temporarily unable to move. Many report a powerful feeling that another presence is in the room, accompanied by vivid visual, auditory or tactile sensations. Across different cultures these experiences have often been interpreted as ghosts, demons, alien visitors or supernatural attacks. Modern sleep research explains many such episodes as temporary overlap between REM (rapid eye movement) sleep processes and wakefulness rather than evidence for external entities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.apa.org/news/podcasts/speaking-of-psychology/paranormal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationSpeaking of Psychology: Ghosts, Ouija boards, and ESPFrench discusses how psychological explanations su...</span></span></span>
+[Sleep paralysis]({{ 'sleep-paralysis/' | relative_url }}) is a well-studied example. During an episode, people may awaken while temporarily unable to move. Many report a powerful feeling that another presence is in the room, accompanied by vivid visual, auditory or tactile sensations. Across different cultures these experiences have often been interpreted as ghosts, demons, alien visitors or supernatural attacks. Modern sleep research explains many such episodes as temporary overlap between REM (rapid eye movement) sleep processes and wakefulness rather than evidence for external entities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.apa.org/news/podcasts/speaking-of-psychology/paranormal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationSpeaking of Psychology: Ghosts, Ouija boards, and ESPFrench discusses how psychological explanations su...</span></span></span>
 
 Systematic reviews have also found consistent associations between paranormal experiences or beliefs and several sleep-related phenomena, including:
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Sleep paralysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sleep_paralysis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Sleep paralysisSleep paralysis is a state, during waking up or falling asleep, in which a person is conscious but in a complete state...</span></span></span>
+* Sleep paralysis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sleep_paralysis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Sleep paralysisSleep paralysis is a state, during waking up or falling asleep, in which a person is conscious but in a complete state...</span></span></span>
 * Hypnagogic hallucinations while falling asleep.
 * Hypnopompic hallucinations while waking.
-* Lucid dreaming. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pure.hud.ac.uk/en/publications/lucid-dreaming-nightmares-and-sleep-paralysis-associations-with-r/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.hud.ac.uk">[pure.hud.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.hud.ac.uk</span><span class="citation-popover-title">lucid dreaming nightmares and sleep paralysis associations with r</span><span class="citation-popover-snippet">Dreaming, Nightmares, and Sleep Paralysisby KG Drinkwater · 2020 · Cited by 33 — Focusing on lucid dreaming, this paper examined relation...</span></span></span>
+* Lucid dreaming.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pure.hud.ac.uk/en/publications/lucid-dreaming-nightmares-and-sleep-paralysis-associations-with-r/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.hud.ac.uk">[pure.hud.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.hud.ac.uk</span><span class="citation-popover-title">lucid dreaming nightmares and sleep paralysis associations with r</span><span class="citation-popover-snippet">Dreaming, Nightmares, and Sleep Paralysisby KG Drinkwater · 2020 · Cited by 33 — Focusing on lucid dreaming, this paper examined relation...</span></span></span>
 * Frequent nightmares.
 
 </div>
 
-These associations do not prove that all paranormal reports originate during sleep. Instead, they identify one important pathway through which exceptionally vivid experiences can arise naturally. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/37070349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Associations between sleep variables and ostensibly...18 Apr 2023 — Overall, there were positive associations between many sleep v...</span></span></span>
+These associations do not prove that all paranormal reports originate during sleep. Instead, they identify one important pathway through which exceptionally vivid experiences can arise naturally.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/37070349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Associations between sleep variables and ostensibly...18 Apr 2023 — Overall, there were positive associations between many sleep v...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_anomalistics_neutral_85ebb2_sincere_witness_psyc_754640-Illustration-2-dark.svg" | relative_url }}" alt="Psychology illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_anomalistics_neutral_85ebb2_sincere_witness_psyc_754640-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_anomalistics_neutral_85ebb2_sincere_witness_psyc_754640-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -366,9 +366,9 @@ The same unexplained sound might therefore become:
 
 Psychologists refer to this as top-down interpretation: prior beliefs influence how ambiguous information is understood. Once an explanation has been adopted, several well-known cognitive tendencies can strengthen it.
 
-Confirmation bias encourages attention to experiences that support an existing belief while contradictory events receive less attention. Pattern perception allows meaningful connections to emerge from chance [coincidences]({{ 'coincidences/' | relative_url }}). Source-monitoring errors can blur the distinction between something personally witnessed, imagined or later heard from others. These mechanisms are common features of everyday cognition rather than unique flaws found only among paranormal believers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9067702/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Paranormal beliefs and cognitive function: A systematic review...by CE Dean · 2022 · Cited by 60 — Cognitive biases explain religious...</span></span></span>
+Confirmation bias encourages attention to experiences that support an existing belief while contradictory events receive less attention. Pattern perception allows meaningful connections to emerge from chance [coincidences]({{ 'coincidences/' | relative_url }}). Source-monitoring errors can blur the distinction between something personally witnessed, imagined or later heard from others. These mechanisms are common features of everyday cognition rather than unique flaws found only among paranormal believers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9067702/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Paranormal beliefs and cognitive function: A systematic review...by CE Dean · 2022 · Cited by 60 — Cognitive biases explain religious...</span></span></span>
 
-Importantly, anomalistic psychology does not claim that everyone who holds paranormal beliefs exhibits the same thinking style or reasoning ability. Reviews of the literature find numerous statistical associations between belief, cognitive biases and certain reasoning tendencies, but the relationships are generally modest, vary across studies and should not be interpreted as simple measures of intelligence or rationality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9067702/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Paranormal beliefs and cognitive function: A systematic review...by CE Dean · 2022 · Cited by 60 — Cognitive biases explain religious...</span></span></span>
+Importantly, anomalistic psychology does not claim that everyone who holds paranormal beliefs exhibits the same thinking style or reasoning ability. Reviews of the literature find numerous statistical associations between belief, cognitive biases and certain reasoning tendencies, but the relationships are generally modest, vary across studies and should not be interpreted as simple measures of intelligence or rationality.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9067702/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Paranormal beliefs and cognitive function: A systematic review...by CE Dean · 2022 · Cited by 60 — Cognitive biases explain religious...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/n_ppZy5dKX0" title="Paranormal beliefs caused by cognitive errors? | Anomalistic Psychology" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=n_ppZy5dKX0" target="_blank" rel="noopener noreferrer">Paranormal beliefs caused by cognitive errors? | Anomalistic Psychology</a></p><p class="youtube-embed-meta">Channel: TFF - Teacher From Finland</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=n_ppZy5dKX0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=n_ppZy5dKX0">Open on YouTube</a></p></div></div></div>
@@ -390,7 +390,7 @@ This becomes particularly relevant for paranormal claims because many reports in
 
 </div>
 
-Each factor increases opportunities for memory reconstruction while leaving the witness entirely convinced of the account's accuracy. Consequently, anomalistic investigators place considerable weight on contemporaneous notes, independent witnesses, photographs, recordings and environmental evidence rather than relying solely on confident recollection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sydneysymposium.unsw.edu.au/2024/chapters/FrenchSSSP2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sydneysymposium.unsw.edu.au">[Sydney Symposium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sydneysymposium.unsw.edu.au</span><span class="citation-popover-snippet">One of the central topics of anomalistic psychology is the unreliability of memory. After all, when assessing someone&#x27;s claim...Read more...</span></span></span>
+Each factor increases opportunities for memory reconstruction while leaving the witness entirely convinced of the account's accuracy. Consequently, anomalistic investigators place considerable weight on contemporaneous notes, independent witnesses, photographs, recordings and environmental evidence rather than relying solely on confident recollection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sydneysymposium.unsw.edu.au/2024/chapters/FrenchSSSP2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sydneysymposium.unsw.edu.au">[Sydney Symposium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sydneysymposium.unsw.edu.au</span><span class="citation-popover-snippet">One of the central topics of anomalistic psychology is the unreliability of memory. After all, when assessing someone&#x27;s claim...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_anomalistics_neutral_85ebb2_sincere_witness_psyc_754640-Illustration-3-dark.svg" | relative_url }}" alt="Psychology illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_anomalistics_neutral_85ebb2_sincere_witness_psyc_754640-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_anomalistics_neutral_85ebb2_sincere_witness_psyc_754640-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -411,201 +411,201 @@ Instead, it asks structured questions:
 
 </div>
 
-This approach recognises that unusual experiences are genuine psychological events deserving careful study, even when their preferred paranormal interpretation is unsupported. By treating witnesses respectfully while applying established knowledge about perception, memory, sleep and belief formation, anomalistic psychology provides one of the most balanced frameworks for understanding why sincere people can report extraordinary experiences that feel completely real. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sydneysymposium.unsw.edu.au/2024/chapters/FrenchSSSP2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sydneysymposium.unsw.edu.au">[Sydney Symposium+2American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sydneysymposium.unsw.edu.au</span><span class="citation-popover-snippet">One of the central topics of anomalistic psychology is the unreliability of memory. After all, when assessing someone&#x27;s claim...Read more...</span></span></span>
+This approach recognises that unusual experiences are genuine psychological events deserving careful study, even when their preferred paranormal interpretation is unsupported. By treating witnesses respectfully while applying established knowledge about perception, memory, sleep and belief formation, anomalistic psychology provides one of the most balanced frameworks for understanding why sincere people can report extraordinary experiences that feel completely real.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sydneysymposium.unsw.edu.au/2024/chapters/FrenchSSSP2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sydneysymposium.unsw.edu.au">[Sydney Symposium+2American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sydneysymposium.unsw.edu.au</span><span class="citation-popover-snippet">One of the central topics of anomalistic psychology is the unreliability of memory. After all, when assessing someone&#x27;s claim...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/z1CWjSuiocA" title="Weird Science: Exploring Paranormal Belief And Experience with Chris French" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=z1CWjSuiocA" target="_blank" rel="noopener noreferrer">Weird Science: Exploring Paranormal Belief And Experience with Chris French</a></p><p class="youtube-embed-meta">Channel: The Science and Cocktails Foundation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=z1CWjSuiocA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=z1CWjSuiocA">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Sincere Witnesses Can Be Mistaken. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Sincere Witnesses Can Be Mistaken. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Directly explores sincere belief and extraordinary experiences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explores sincere belief and extraordinary experiences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Examines paranormal claims without assuming dishonesty.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines paranormal claims without assuming dishonesty.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
+</h4>
+<p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
         
-        <p class="fr-book-desc">Shows how perception and attention can mislead sincere witnesses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how perception and attention can mislead sincere witnesses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Provides the cognitive framework behind judgment errors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the cognitive framework behind judgment errors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Box Set Of Historical Headlines Reprinted Newspapers - Historical Events"><img src="{{ '/assets/images/marketplace-covers/d86a0cd68eb44f7b9e5e.jpg' | relative_url }}" alt="Listing image for Vintage Box Set Of Historical Headlines Reprinted Newspapers - Historical Events" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer">Vintage Box Set Of Historical Headlines Reprinted Newspapers - Historical Events</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage newspaper reprint">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage newspaper reprint</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Box Set Of Historical Headlines Reprinted Newspapers - Historical Events"><img src="{{ '/assets/images/marketplace-covers/d86a0cd68eb44f7b9e5e.jpg' | relative_url }}" alt="Listing image for Vintage Box Set Of Historical Headlines Reprinted Newspapers - Historical Events" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer">Vintage Box Set Of Historical Headlines Reprinted Newspapers - Historical Events</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage newspaper reprint">Search<span data-ebay-domain-label>eBay.co.uk</span>: vintage newspaper reprint</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Newspaper The Sunday Sun July 23 1944 Reprint"><img src="{{ '/assets/images/marketplace-covers/7ea06289e4c697b8d1d8.jpg' | relative_url }}" alt="Listing image for Vintage Newspaper The Sunday Sun July 23 1944 Reprint" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer">Vintage Newspaper The Sunday Sun July 23 1944 Reprint</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage newspaper reprint">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage newspaper reprint</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Newspaper The Sunday Sun July 23 1944 Reprint"><img src="{{ '/assets/images/marketplace-covers/7ea06289e4c697b8d1d8.jpg' | relative_url }}" alt="Listing image for Vintage Newspaper The Sunday Sun July 23 1944 Reprint" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer">Vintage Newspaper The Sunday Sun July 23 1944 Reprint</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage newspaper reprint">Search<span data-ebay-domain-label>eBay.co.uk</span>: vintage newspaper reprint</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for REPRINT - The Daily Telegraph - Tuesday August 7 1945"><img src="{{ '/assets/images/marketplace-covers/aad8667f319e362a378c.jpg' | relative_url }}" alt="Listing image for REPRINT - The Daily Telegraph - Tuesday August 7 1945" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer">REPRINT - The Daily Telegraph - Tuesday August 7 1945</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage newspaper reprint">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage newspaper reprint</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for REPRINT - The Daily Telegraph - Tuesday August"><img src="{{ '/assets/images/marketplace-covers/aad8667f319e362a378c.jpg' | relative_url }}" alt="Listing image for REPRINT - The Daily Telegraph - Tuesday August" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer">REPRINT - The Daily Telegraph - Tuesday August</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage newspaper reprint">Search<span data-ebay-domain-label>eBay.co.uk</span>: vintage newspaper reprint</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Commemorative/Reprint Newspapers, Pages Missing, As Seen, Historical Interest"><img src="{{ '/assets/images/marketplace-covers/72439b21efa56ec743e6.jpg' | relative_url }}" alt="Listing image for Commemorative/Reprint Newspapers, Pages Missing, As Seen, Historical Interest" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer">Commemorative/Reprint Newspapers, Pages Missing, As Seen, Historical Interest</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage newspaper reprint">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage newspaper reprint</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Commemorative/Reprint Newspapers, Pages Missing, As Seen, Historical Interest"><img src="{{ '/assets/images/marketplace-covers/72439b21efa56ec743e6.jpg' | relative_url }}" alt="Listing image for Commemorative/Reprint Newspapers, Pages Missing, As Seen, Historical Interest" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer">Commemorative/Reprint Newspapers, Pages Missing, As Seen, Historical Interest</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage newspaper reprint">Search<span data-ebay-domain-label>eBay.co.uk</span>: vintage newspaper reprint</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="psychology-why-sincere-witnesses-can-be-mistaken-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -621,7 +621,7 @@ This approach recognises that unusual experiences are genuine psychological even
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -641,7 +641,7 @@ This approach recognises that unusual experiences are genuine psychological even
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -673,7 +673,7 @@ This approach recognises that unusual experiences are genuine psychological even
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -725,7 +725,7 @@ This approach recognises that unusual experiences are genuine psychological even
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -770,7 +770,7 @@ This approach recognises that unusual experiences are genuine psychological even
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -811,143 +811,143 @@ This approach recognises that unusual experiences are genuine psychological even
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Anomalistic psychology  
-   Link: <a href="https://en.wikipedia.org/wiki/Anomalistic_psychology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anomalistic_psychology</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Anomalistic_psychology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anomalistic_psychology</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4230037/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4230037/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Magic and memory: using conjuring to explore the effects of...by K Wilson · 2014 · Cited by 44 — A number of individual difference me...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4230037/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4230037/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Magic and memory: using conjuring to explore the effects of...by K Wilson · 2014 · Cited by 44 — A number of individual difference me...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAnomalous Experiences, Trauma, and Symbolization  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4685320/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4685320/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by T Rabeyron · 2015 · Cited by 70 — Anomalous or exceptional experiences are uncommon experiences which are usually interpreted as be...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4685320/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4685320/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by T Rabeyron · 2015 · Cited by 70 — Anomalous or exceptional experiences are uncommon experiences which are usually interpreted as be...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Sleep_paralysis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sleep_paralysis</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep paralysisSleep paralysis is a state, during waking up or falling asleep, in which a person is conscious but in a complete state...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Sleep_paralysis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sleep_paralysis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep paralysisSleep paralysis is a state, during waking up or falling asleep, in which a person is conscious but in a complete state...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCLucid Dreaming, Nightmares, and Sleep Paralysis  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7093643/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7093643/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dreaming, Nightmares, and Sleep Paralysis - PMC - NIHby KG Drinkwater · 2020 · Cited by 33 — This paper examined relationships between di...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7093643/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7093643/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dreaming, Nightmares, and Sleep Paralysis - PMC - NIHby KG Drinkwater · 2020 · Cited by 33 — This paper examined relationships between di...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9067702/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9067702/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Paranormal beliefs and cognitive function: A systematic review...by CE Dean · 2022 · Cited by 60 — Cognitive biases explain religious...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9067702/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9067702/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paranormal beliefs and cognitive function: A systematic review...by CE Dean · 2022 · Cited by 60 — Cognitive biases explain religious...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Chris French  
-   Link: <a href="https://en.wikipedia.org/wiki/Chris_French" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chris_French</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chris FrenchChristopher (Chris) Charles French is a British psychologist who is prominent in the field of anomalistic psychology, with...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Chris_French" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chris_French</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chris FrenchChristopher (Chris) Charles French is a British psychologist who is prominent in the field of anomalistic psychology, with...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sydneysymposium.unsw.edu.au  
-   Link: <a href="https://sydneysymposium.unsw.edu.au/2024/chapters/FrenchSSSP2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sydneysymposium.unsw.edu.au/2024/chapters/FrenchSSSP2024.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>One of the central topics of anomalistic psychology is the unreliability of memory. After all, when assessing someone&#x27;s claim...Read more...</p></details>
+   Link:<a href="https://sydneysymposium.unsw.edu.au/2024/chapters/FrenchSSSP2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sydneysymposium.unsw.edu.au/2024/chapters/FrenchSSSP2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>One of the central topics of anomalistic psychology is the unreliability of memory. After all, when assessing someone&#x27;s claim...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: apa.org  
-   Link: <a href="https://www.apa.org/news/podcasts/speaking-of-psychology/paranormal" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/news/podcasts/speaking-of-psychology/paranormal</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationSpeaking of Psychology: Ghosts, Ouija boards, and ESPFrench discusses how psychological explanations su...</p></details>
+   Link:<a href="https://www.apa.org/news/podcasts/speaking-of-psychology/paranormal" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/news/podcasts/speaking-of-psychology/paranormal</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationSpeaking of Psychology: Ghosts, Ouija boards, and ESPFrench discusses how psychological explanations su...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/37070349/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/37070349/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Associations between sleep variables and ostensibly...18 Apr 2023 — Overall, there were positive associations between many sleep v...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/37070349/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/37070349/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Associations between sleep variables and ostensibly...18 Apr 2023 — Overall, there were positive associations between many sleep v...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10700808/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10700808/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Role of Cognitive Control in Paranormal Beliefs - PMC - NIHby A Narmashiri · 2023 · Cited by 17 — Studies show that decision-making and c...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10700808/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10700808/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Role of Cognitive Control in Paranormal Beliefs - PMC - NIHby A Narmashiri · 2023 · Cited by 17 — Studies show that decision-making and c...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pure.hud.ac.uk  
    Title: lucid dreaming nightmares and sleep paralysis associations with r  
-   Link: <a href="https://pure.hud.ac.uk/en/publications/lucid-dreaming-nightmares-and-sleep-paralysis-associations-with-r/" target="_blank" rel="noopener noreferrer nofollow">https://pure.hud.ac.uk/en/publications/lucid-dreaming-nightmares-and-sleep-paralysis-associations-with-r/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dreaming, Nightmares, and Sleep Paralysisby KG Drinkwater · 2020 · Cited by 33 — Focusing on lucid dreaming, this paper examined relation...</p></details>
+   Link:<a href="https://pure.hud.ac.uk/en/publications/lucid-dreaming-nightmares-and-sleep-paralysis-associations-with-r/" target="_blank" rel="noopener noreferrer nofollow">https://pure.hud.ac.uk/en/publications/lucid-dreaming-nightmares-and-sleep-paralysis-associations-with-r/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dreaming, Nightmares, and Sleep Paralysisby KG Drinkwater · 2020 · Cited by 33 — Focusing on lucid dreaming, this paper examined relation...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: probiologists.com  
-   Link: <a href="https://www.probiologists.com/article/voices-in-the-night-sleep-paralysis-the-intersection-of-brain-trauma-traditions" target="_blank" rel="noopener noreferrer nofollow">https://www.probiologists.com/article/voices-in-the-night-sleep-paralysis-the-intersection-of-brain-trauma-traditions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep paralysis &amp; The intersection of brain, trauma, traditionsby ZB Akhtar · 2025 · Cited by 6 — These hallucinations may include the pe...</p></details>
+   Link:<a href="https://www.probiologists.com/article/voices-in-the-night-sleep-paralysis-the-intersection-of-brain-trauma-traditions" target="_blank" rel="noopener noreferrer nofollow">https://www.probiologists.com/article/voices-in-the-night-sleep-paralysis-the-intersection-of-brain-trauma-traditions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep paralysis &amp; The intersection of brain, trauma, traditionsby ZB Akhtar · 2025 · Cited by 6 — These hallucinations may include the pe...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40svk0316/sleep-paralysis-and-the-supernatural-exploring-the-paranormal-connection-815058c5b78a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40svk0316/sleep-paralysis-and-the-supernatural-exploring-the-paranormal-connection-815058c5b78a</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep Paralysis and the SupernaturalSome research has examined the link between sleep paralysis and [parapsychology](&amp;#123;&amp;#123; &#x27;parapsychology/&#x27; | relative_url &amp;#125;&amp;#125;), especially paranormal...</p></details>
+   Link:<a href="https://medium.com/%40svk0316/sleep-paralysis-and-the-supernatural-exploring-the-paranormal-connection-815058c5b78a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40svk0316/sleep-paralysis-and-the-supernatural-exploring-the-paranormal-connection-815058c5b78a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep Paralysis and the SupernaturalSome research has examined the link between sleep paralysis and [parapsychology](&amp;#123;&amp;#123; &#x27;parapsychology/&#x27; | relative_url &amp;#125;&amp;#125;), especially paranormal...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sleepfoundation.org  
    Title: sleep demon  
-   Link: <a href="https://www.sleepfoundation.org/parasomnias/sleep-demon" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/parasomnias/sleep-demon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep Paralysis Demon: Causes, Types, and Prevention25 Jul 2025 — Sleep paralysis demons refer to the vivid, often terrifying hallucinati...</p></details>
+   Link:<a href="https://www.sleepfoundation.org/parasomnias/sleep-demon" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/parasomnias/sleep-demon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep Paralysis Demon: Causes, Types, and Prevention25 Jul 2025 — Sleep paralysis demons refer to the vivid, often terrifying hallucinati...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: clinicalpsychologytoday.wordpress.com  
-   Link: <a href="https://clinicalpsychologytoday.wordpress.com/2021/11/24/sleep-paralysis-and-post-episode-distress-the-role-of-catastrophic-thinking-and-supernatural-beliefs/" target="_blank" rel="noopener noreferrer nofollow">https://clinicalpsychologytoday.wordpress.com/2021/11/24/sleep-paralysis-and-post-episode-distress-the-role-of-catastrophic-thinking-and-supernatural-beliefs/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Paralysis and Post-Episode Distress: The role of...by L Costello — This study explored the predictive value of catastrophic thinking pat...</p></details>
+   Link:<a href="https://clinicalpsychologytoday.wordpress.com/2021/11/24/sleep-paralysis-and-post-episode-distress-the-role-of-catastrophic-thinking-and-supernatural-beliefs/" target="_blank" rel="noopener noreferrer nofollow">https://clinicalpsychologytoday.wordpress.com/2021/11/24/sleep-paralysis-and-post-episode-distress-the-role-of-catastrophic-thinking-and-supernatural-beliefs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paralysis and Post-Episode Distress: The role of...by L Costello — This study explored the predictive value of catastrophic thinking pat...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/370099624_Associations_between_sleep_variables_and_ostensibly_paranormal_experiences_and_paranormal_beliefs_A_scoping_review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/370099624_Associations_between_sleep_variables_and_ostensibly_paranormal_experiences_and_paranormal_beliefs_A_scoping_review</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Associations between sleep variables and ostensibly...21 Apr 2023 — Overall, there were positive associations between many sleep variabl...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/370099624_Associations_between_sleep_variables_and_ostensibly_paranormal_experiences_and_paranormal_beliefs_A_scoping_review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/370099624_Associations_between_sleep_variables_and_ostensibly_paranormal_experiences_and_paranormal_beliefs_A_scoping_review</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Associations between sleep variables and ostensibly...21 Apr 2023 — Overall, there were positive associations between many sleep variabl...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/384269326_Universal_Sleep_Paralysis_Hallucinations_A_Systematic_Literature_Review_of_Associations_Characteristics_and_Explanations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/384269326_Universal_Sleep_Paralysis_Hallucinations_A_Systematic_Literature_Review_of_Associations_Characteristics_and_Explanations</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Universal Sleep Paralysis Hallucinations24 Sept 2024 — This review investigates and accesses associations, characteristics, and pos...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/384269326_Universal_Sleep_Paralysis_Hallucinations_A_Systematic_Literature_Review_of_Associations_Characteristics_and_Explanations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/384269326_Universal_Sleep_Paralysis_Hallucinations_A_Systematic_Literature_Review_of_Associations_Characteristics_and_Explanations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Universal Sleep Paralysis Hallucinations24 Sept 2024 — This review investigates and accesses associations, characteristics, and pos...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: gold.ac.uk  
-   Link: <a href="https://www.gold.ac.uk/psychology/staff/french/" target="_blank" rel="noopener noreferrer nofollow">https://www.gold.ac.uk/psychology/staff/french/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>smiths, University of LondonChristopher FrenchChris is an expert in the area of anomalistic psychology, focusing upon non- paranormal...</p></details>
+   Link:<a href="https://www.gold.ac.uk/psychology/staff/french/" target="_blank" rel="noopener noreferrer nofollow">https://www.gold.ac.uk/psychology/staff/french/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>smiths, University of LondonChristopher FrenchChris is an expert in the area of anomalistic psychology, focusing upon non- paranormal...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/353642245_Thinking_Style_and_Paranormal_Belief_The_Role_of_Cognitive_Biases" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/353642245_Thinking_Style_and_Paranormal_Belief_The_Role_of_Cognitive_Biases</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Thinking Style and Paranormal Belief: The Role of...This study investigated the degree to which cognitive bias mediated the relati...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/353642245_Thinking_Style_and_Paranormal_Belief_The_Role_of_Cognitive_Biases" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/353642245_Thinking_Style_and_Paranormal_Belief_The_Role_of_Cognitive_Biases</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Thinking Style and Paranormal Belief: The Role of...This study investigated the degree to which cognitive bias mediated the relati...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: api.pageplace.de  
-   Link: <a href="https://api.pageplace.de/preview/DT0400.9781137368065_A29486486/preview-9781137368065_A29486486.pdf" target="_blank" rel="noopener noreferrer nofollow">https://api.pageplace.de/preview/DT0400.9781137368065_A29486486/preview-9781137368065_A29486486.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PsychologyTo take but one example, much recent work has been directed towards investigating memory for anomalous experiences (French, 200...</p></details>
+   Link:<a href="https://api.pageplace.de/preview/DT0400.9781137368065_A29486486/preview-9781137368065_A29486486.pdf" target="_blank" rel="noopener noreferrer nofollow">https://api.pageplace.de/preview/DT0400.9781137368065_A29486486/preview-9781137368065_A29486486.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PsychologyTo take but one example, much recent work has been directed towards investigating memory for anomalous experiences (French, 200...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/post/What_do_you_think_are_the_differences_between_Parapsychology_and_Anomalous_Psychology" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/post/What_do_you_think_are_the_differences_between_Parapsychology_and_Anomalous_Psychology</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What do you think are the differences between...Sep 29, 2020 — What do you think are the differences between Parapsychology and Anomalou...</p></details>
+   Link:<a href="https://www.researchgate.net/post/What_do_you_think_are_the_differences_between_Parapsychology_and_Anomalous_Psychology" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/post/What_do_you_think_are_the_differences_between_Parapsychology_and_Anomalous_Psychology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What do you think are the differences between...Sep 29, 2020 — What do you think are the differences between Parapsychology and Anomalou...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: researchgate.net  
    Title: 367053905 The associations between paranormal beliefs and sleep variables  
-   Link: <a href="https://www.researchgate.net/publication/367053905_The_associations_between_paranormal_beliefs_and_sleep_variables" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/367053905_The_associations_between_paranormal_beliefs_and_sleep_variables</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The associations between paranormal beliefs and sleep...12 Jan 2023 — In addition, episodes of exploding head syndrome and isolated slee...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/367053905_The_associations_between_paranormal_beliefs_and_sleep_variables" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/367053905_The_associations_between_paranormal_beliefs_and_sleep_variables</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The associations between paranormal beliefs and sleep...12 Jan 2023 — In addition, episodes of exploding head syndrome and isolated slee...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: researchgate.net  
    Title: 313267123 The Psychology of Anomalous Experiences A Rediscovery  
-   Link: <a href="https://www.researchgate.net/publication/313267123_The_Psychology_of_Anomalous_Experiences_A_Rediscovery" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/313267123_The_Psychology_of_Anomalous_Experiences_A_Rediscovery</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychology of Anomalous Experiences: A RediscoveryOct 9, 2025 — This essay presents the rationale to consider anomalous experiences (...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/313267123_The_Psychology_of_Anomalous_Experiences_A_Rediscovery" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/313267123_The_Psychology_of_Anomalous_Experiences_A_Rediscovery</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychology of Anomalous Experiences: A RediscoveryOct 9, 2025 — This essay presents the rationale to consider anomalous experiences (...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: blogs.nature.com  
    Title: comand the fall of parapsychology?  
-   Link: <a href="https://blogs.nature.com/soapboxscience/2011/12/19/the-rise-of-anomalistic-psychology-%E2%80%93-and-the-fall-of-parapsychology" target="_blank" rel="noopener noreferrer nofollow">https://blogs.nature.com/soapboxscience/2011/12/19/the-rise-of-anomalistic-psychology-%E2%80%93-and-the-fall-of-parapsychology</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Soapbox ScienceDec 19, 2011 — It is noteworthy that anomalistic psychologists have, in just a few decades, produced many examples of re...</p></details>
+   Link:<a href="https://blogs.nature.com/soapboxscience/2011/12/19/the-rise-of-anomalistic-psychology-%E2%80%93-and-the-fall-of-parapsychology" target="_blank" rel="noopener noreferrer nofollow">https://blogs.nature.com/soapboxscience/2011/12/19/the-rise-of-anomalistic-psychology-%E2%80%93-and-the-fall-of-parapsychology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Soapbox ScienceDec 19, 2011 — It is noteworthy that anomalistic psychologists have, in just a few decades, produced many examples of re...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: paulpope.co.uk  
    Title: the psychology of paranormal beliefs exploring cognitive bias  
-   Link: <a href="https://paulpope.co.uk/the-psychology-of-paranormal-beliefs-exploring-cognitive-bias/" target="_blank" rel="noopener noreferrer nofollow">https://paulpope.co.uk/the-psychology-of-paranormal-beliefs-exploring-cognitive-bias/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychology of Paranormal Belief: Exploring Cognitive Bias14 Dec 2024 — This post explores the psychology of paranormal belief and how...</p></details>
+   Link:<a href="https://paulpope.co.uk/the-psychology-of-paranormal-beliefs-exploring-cognitive-bias/" target="_blank" rel="noopener noreferrer nofollow">https://paulpope.co.uk/the-psychology-of-paranormal-beliefs-exploring-cognitive-bias/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychology of Paranormal Belief: Exploring Cognitive Bias14 Dec 2024 — This post explores the psychology of paranormal belief and how...</p></details>

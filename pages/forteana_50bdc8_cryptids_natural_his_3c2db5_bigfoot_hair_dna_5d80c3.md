@@ -284,7 +284,7 @@ Hair has long been one of the most frequently claimed forms of physical evidence
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_cryptids_natural_his_3c2db5_bigfoot_hair_dna_5d80c3-Illustration-1-dark.svg" | relative_url }}" alt="Hair DNA illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_cryptids_natural_his_3c2db5_bigfoot_hair_dna_5d80c3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_cryptids_natural_his_3c2db5_bigfoot_hair_dna_5d80c3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That shift has exposed a central weakness in many Bigfoot claims. While unusual-looking hairs are regularly reported from forests, fences, tree bark and alleged bedding sites, almost all published genetic investigations have identified them as belonging to ordinary mammals or humans. The problem is not simply whether an unknown primate exists, but whether the evidence chain behind each sample is strong enough to support such an extraordinary conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4100498/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Keywords: yeti, almasty, bigfoot, sasquatch, mitochondrial DNA. 1. Introduction. Despite several...Read more...</span></span></span>
+That shift has exposed a central weakness in many Bigfoot claims. While unusual-looking hairs are regularly reported from forests, fences, tree bark and alleged bedding sites, almost all published genetic investigations have identified them as belonging to ordinary mammals or humans. The problem is not simply whether an unknown primate exists, but whether the evidence chain behind each sample is strong enough to support such an extraordinary conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4100498/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Keywords: yeti, almasty, bigfoot, sasquatch, mitochondrial DNA. 1. Introduction. Despite several...Read more...</span></span></span>
 
 ## Why strange-looking hair is weak evidence
 
@@ -298,7 +298,7 @@ DNA has largely replaced morphology as the preferred method for identifying unkn
 * Hair shafts usually contain little or no nuclear DNA because the cells that formed them have died.
 * Most successful analyses rely on mitochondrial DNA, which is more abundant but carries less information than a complete genome.
 * Environmental exposure rapidly degrades DNA through sunlight, moisture, microbes and repeated handling.
-* Human contamination is common because alleged cryptid samples are often collected informally rather than under forensic conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4100498/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Keywords: yeti, almasty, bigfoot, sasquatch, mitochondrial DNA. 1. Introduction. Despite several...Read more...</span></span></span>
+* Human contamination is common because alleged cryptid samples are often collected informally rather than under forensic conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4100498/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Keywords: yeti, almasty, bigfoot, sasquatch, mitochondrial DNA. 1. Introduction. Despite several...Read more...</span></span></span>
 
 </div>
 
@@ -311,9 +311,9 @@ Consequently, an unusual-looking hair is better regarded as a candidate for labo
 
 The most influential published investigation remains the 2014 study led by geneticist Bryan Sykes in the *Proceedings of the Royal Society B*. The project invited museums, researchers and private collectors worldwide to submit hairs attributed to Bigfoot, Sasquatch, Yeti, Almasty and other alleged wild hominoids.
 
-After screening submissions for suitability, the researchers sequenced mitochondrial DNA from 30 samples using established laboratory procedures. The outcome was striking. Rather than revealing an unknown primate, nearly every sample matched familiar mammals, including bears, horses, cattle, dogs, wolves, raccoons, deer, porcupines, sheep and humans. None provided genetic evidence for an undiscovered ape or hominin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4100498/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Keywords: yeti, almasty, bigfoot, sasquatch, mitochondrial DNA. 1. Introduction. Despite several...Read more...</span></span></span>
+After screening submissions for suitability, the researchers sequenced mitochondrial DNA from 30 samples using established laboratory procedures. The outcome was striking. Rather than revealing an unknown primate, nearly every sample matched familiar mammals, including bears, horses, cattle, dogs, wolves, raccoons, deer, porcupines, sheep and humans. None provided genetic evidence for an undiscovered ape or hominin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4100498/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Keywords: yeti, almasty, bigfoot, sasquatch, mitochondrial DNA. 1. Introduction. Despite several...Read more...</span></span></span>
 
-Two Himalayan samples initially attracted considerable attention because their short mitochondrial sequences resembled DNA from an ancient polar bear. This led to speculation about an unknown bear lineage rather than a Yeti. Later researchers argued that the apparent match resulted from the limited DNA fragment analysed and incomplete reference databases, proposing instead that the hairs probably came from known Himalayan brown bears. The episode illustrated how preliminary genetic matches can change as comparative databases improve. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2015/07/no-reason-to-believe-that-sykess-yeti-bear-cryptid-exists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerNo Reason to Believe That Sykes&#x27;s Yeti-Bear Cryptid Existsby EE Gutiérrez — Sykes and company claimed that these sampl...</span></span></span>
+Two Himalayan samples initially attracted considerable attention because their short mitochondrial sequences resembled DNA from an ancient polar bear. This led to speculation about an unknown bear lineage rather than a Yeti. Later researchers argued that the apparent match resulted from the limited DNA fragment analysed and incomplete reference databases, proposing instead that the hairs probably came from known Himalayan brown bears. The episode illustrated how preliminary genetic matches can change as comparative databases improve.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2015/07/no-reason-to-believe-that-sykess-yeti-bear-cryptid-exists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerNo Reason to Believe That Sykes&#x27;s Yeti-Bear Cryptid Existsby EE Gutiérrez — Sykes and company claimed that these sampl...</span></span></span>
 
 Although the Sykes study cannot prove that Bigfoot does not exist, it established an important empirical benchmark: when purported cryptid hair has been subjected to systematic genetic testing under published methods, the identified sources have consistently been known animals.
 
@@ -336,7 +336,7 @@ A convincing biological specimen requires an unbroken chain of custody showing:
 
 </div>
 
-Many Bigfoot hairs fail these basic forensic requirements. Samples may have been collected weeks after the alleged encounter, stored in envelopes or plastic bags, repeatedly handled by investigators, or passed among private collectors before reaching a laboratory. By then, establishing whether recovered DNA originated from the hair itself or from later contamination can be extremely difficult. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4100498/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Keywords: yeti, almasty, bigfoot, sasquatch, mitochondrial DNA. 1. Introduction. Despite several...Read more...</span></span></span>
+Many Bigfoot hairs fail these basic forensic requirements. Samples may have been collected weeks after the alleged encounter, stored in envelopes or plastic bags, repeatedly handled by investigators, or passed among private collectors before reaching a laboratory. By then, establishing whether recovered DNA originated from the hair itself or from later contamination can be extremely difficult.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4100498/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Keywords: yeti, almasty, bigfoot, sasquatch, mitochondrial DNA. 1. Introduction. Despite several...Read more...</span></span></span>
 
 This explains why even a surprising laboratory result would receive careful scrutiny. An unidentified DNA sequence is not automatically evidence for a new species. Scientists must first exclude contamination, sequencing artefacts, degraded DNA and incomplete reference databases before considering more extraordinary explanations.
 
@@ -347,7 +347,7 @@ This explains why even a surprising laboratory result would receive careful scru
 
 The best-known contrary claim came from veterinarian Melba Ketchum, who announced that Bigfoot represented a hybrid hominin species based on genetic testing of alleged samples. The work attracted widespread publicity but was not accepted by the mainstream genetics community.
 
-Criticism focused on several issues: uncertain sample provenance, extraordinary biological conclusions unsupported by independently verified specimens, and publication in a journal created after repeated difficulties securing acceptance in established peer-reviewed journals. Independent experts argued that the reported genetic evidence did not justify the paper's conclusions, and the study has not become part of accepted zoological evidence for an unknown North American primate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.livescience.com/27140-bigfoot-dna-study-questioned.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science+2Ars Technica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">27140 bigfoot dna study questioned</span><span class="citation-popover-snippet">Live ScienceBigfoot DNA Discovered? Not So Fast14 Feb 2013 — The study, by Melba S. Ketchum, suggested such cryptids had sex with modern...</span></span></span>
+Criticism focused on several issues: uncertain sample provenance, extraordinary biological conclusions unsupported by independently verified specimens, and publication in a journal created after repeated difficulties securing acceptance in established peer-reviewed journals. Independent experts argued that the reported genetic evidence did not justify the paper's conclusions, and the study has not become part of accepted zoological evidence for an unknown North American primate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.livescience.com/27140-bigfoot-dna-study-questioned.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science+2Ars Technica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">27140 bigfoot dna study questioned</span><span class="citation-popover-snippet">Live ScienceBigfoot DNA Discovered? Not So Fast14 Feb 2013 — The study, by Melba S. Ketchum, suggested such cryptids had sex with modern...</span></span></span>
 
 The contrast with the Sykes project is instructive. Both involved alleged cryptid material, but one relied on systematic identification of submitted samples while the other made far more ambitious claims that have not been independently replicated.
 
@@ -359,201 +359,201 @@ Hair remains one of the most common forms of alleged Bigfoot evidence because it
 
 Today, the evidential burden extends well beyond obtaining a strange hair. Researchers would need multiple independently collected samples with secure provenance, reproducible DNA sequences, and genetic results inconsistent with every known mammal. Ideally, those findings would also agree with other forms of evidence, such as tissue, environmental DNA, or a verifiable specimen.
 
-To date, published analyses have consistently pointed in the opposite direction. Rather than revealing an unknown North American primate, they have shown that purported Bigfoot hairs almost always originate from familiar species, while the few initially puzzling results have become less mysterious as comparative genetic databases and analytical methods have improved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4100498/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Retraction Watch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Keywords: yeti, almasty, bigfoot, sasquatch, mitochondrial DNA. 1. Introduction. Despite several...Read more...</span></span></span>
+To date, published analyses have consistently pointed in the opposite direction. Rather than revealing an unknown North American primate, they have shown that purported Bigfoot hairs almost always originate from familiar species, while the few initially puzzling results have become less mysterious as comparative genetic databases and analytical methods have improved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4100498/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Retraction Watch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Keywords: yeti, almasty, bigfoot, sasquatch, mitochondrial DNA. 1. Introduction. Despite several...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NyluWtczdzA" title="Finding Bigfoot: Sasquatch DNA Found?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NyluWtczdzA" target="_blank" rel="noopener noreferrer">Finding Bigfoot: Sasquatch DNA Found?</a></p><p class="youtube-embed-meta">Channel: Animal Planet</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NyluWtczdzA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NyluWtczdzA">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Bigfoot Hair Tests Really Show. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Bigfoot Hair Tests Really Show. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+field+guide+to+Bigfoot%2C+Yeti%2C+and+other+mystery+primates+worldwide+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The field guide to Bigfoot, Yeti, and other mystery primates worldwide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7119242-M.jpg" alt="Cover for The field guide to Bigfoot, Yeti, and other mystery primates worldwide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+field+guide+to+Bigfoot%2C+Yeti%2C+and+other+mystery+primates+worldwide+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The field guide to Bigfoot, Yeti, and other mystery primates worldwide">The field guide to Bigfoot, Yeti, and other mystery primates...</a>
-        </h4>
-        <p class="fr-book-author">By Loren Coleman, Patrick Huyghe et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+field+guide+to+Bigfoot%2C+Yeti%2C+and+other+mystery+primates+worldwide+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The field guide to Bigfoot, Yeti, and other mystery primates worldwide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7119242-M.jpg" alt="Cover for The field guide to Bigfoot, Yeti, and other mystery primates worldwide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+field+guide+to+Bigfoot%2C+Yeti%2C+and+other+mystery+primates+worldwide+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The field guide to Bigfoot, Yeti, and other mystery primates worldwide">The field guide to Bigfoot, Yeti, and other mystery primates...</a>
+</h4>
+<p class="fr-book-author">By Loren Coleman, Patrick Huyghe et al.</p>
         
-        <p class="fr-book-desc">First published 1999. Subjects: Primates, Monsters, Folklore, Sasquatch, Yeti.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+field+guide+to+Bigfoot%2C+Yeti%2C+and+other+mystery+primates+worldwide+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1999. Subjects: Primates, Monsters, Folklore, Sasquatch, Yeti.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+field+guide+to+Bigfoot%2C+Yeti%2C+and+other+mystery+primates+worldwide+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunting Monsters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10220347-M.jpg" alt="Cover for Hunting Monsters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunting Monsters">Hunting Monsters</a>
-        </h4>
-        <p class="fr-book-author">By Darren Naish</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunting Monsters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10220347-M.jpg" alt="Cover for Hunting Monsters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunting Monsters">Hunting Monsters</a>
+</h4>
+<p class="fr-book-author">By Darren Naish</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Monsters, Zoology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Monsters, Zoology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bigfoot+Joshua+Blu+Buhs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bigfoot on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9256868-M.jpg" alt="Cover for Bigfoot" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bigfoot+Joshua+Blu+Buhs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bigfoot">Bigfoot</a>
-        </h4>
-        <p class="fr-book-author">By Joshua Blu Buhs</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bigfoot+Joshua+Blu+Buhs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bigfoot on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9256868-M.jpg" alt="Cover for Bigfoot" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bigfoot+Joshua+Blu+Buhs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bigfoot">Bigfoot</a>
+</h4>
+<p class="fr-book-author">By Joshua Blu Buhs</p>
         
-        <p class="fr-book-desc">First published 2009. Subjects: Sasquatch, History, New Age, Nonfiction, Science.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bigfoot+Joshua+Blu+Buhs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2009. Subjects: Sasquatch, History, New Age, Nonfiction, Science.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bigfoot+Joshua+Blu+Buhs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science">Abominable Science</a>
-        </h4>
-        <p class="fr-book-author">By Donald R. Prothero, Daniel Loxton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science">Abominable Science</a>
+</h4>
+<p class="fr-book-author">By Donald R. Prothero, Daniel Loxton</p>
         
-        <p class="fr-book-desc">First published 2012. Subjects: Animals, mythical.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2012. Subjects: Animals, mythical.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+field+to+Bigfoot%2C+Yeti%2C+and+other+mystery+primates+worldwide+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The field to Bigfoot, Yeti, and other mystery primates worldwide books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunting+Monsters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunting Monsters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bigfoot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bigfoot</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+field+to+Bigfoot%2C+Yeti%2C+and+other+mystery+primates+worldwide+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The field to Bigfoot, Yeti, and other mystery primates worldwide books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunting+Monsters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunting Monsters</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bigfoot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bigfoot</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid art print" data-ebay-reference="hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wendigo Cryptid Monster Travel Art Framed Wall Art Poster Canvas Print Picture"><span>eBay</span></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid art print" data-ebay-reference="hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print" target="_blank" rel="sponsored noopener noreferrer">Wendigo Cryptid Monster Travel Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid art print" data-ebay-reference="hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid art print" data-ebay-reference="hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid art print" data-ebay-reference="hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wendigo Cryptid Monster Travel Art Framed Wall Art Poster Canvas Print Picture"><span>eBay</span></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid art print" data-ebay-reference="hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print" target="_blank" rel="sponsored noopener noreferrer">Wendigo Cryptid Monster Travel Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid art print" data-ebay-reference="hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid art print" data-ebay-reference="hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid art print" data-ebay-reference="hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cryptid Team Nessie Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e735176ab40c1ff75492.jpg' | relative_url }}" alt="Listing image for Cryptid Team Nessie Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid art print" data-ebay-reference="hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print" target="_blank" rel="sponsored noopener noreferrer">Cryptid Team Nessie Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid art print" data-ebay-reference="hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid art print" data-ebay-reference="hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid art print" data-ebay-reference="hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cryptid Team Nessie Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e735176ab40c1ff75492.jpg' | relative_url }}" alt="Listing image for Cryptid Team Nessie Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid art print" data-ebay-reference="hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print" target="_blank" rel="sponsored noopener noreferrer">Cryptid Team Nessie Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid art print" data-ebay-reference="hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid art print" data-ebay-reference="hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid art print" data-ebay-reference="hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Local Cryptid Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f8f85cfeeb9bb78d9c49.jpg' | relative_url }}" alt="Listing image for Local Cryptid Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid art print" data-ebay-reference="hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print" target="_blank" rel="sponsored noopener noreferrer">Local Cryptid Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid art print" data-ebay-reference="hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid art print" data-ebay-reference="hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid art print" data-ebay-reference="hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Local Cryptid Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f8f85cfeeb9bb78d9c49.jpg' | relative_url }}" alt="Listing image for Local Cryptid Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid art print" data-ebay-reference="hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print" target="_blank" rel="sponsored noopener noreferrer">Local Cryptid Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid art print" data-ebay-reference="hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid art print" data-ebay-reference="hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid art print" data-ebay-reference="hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cryptids of Europe, Cryptozoology s Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4194495c2ab690268abb.jpg' | relative_url }}" alt="Listing image for Cryptids of Europe, Cryptozoology s Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid art print" data-ebay-reference="hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print" target="_blank" rel="sponsored noopener noreferrer">Cryptids of Europe, Cryptozoology s Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid art print" data-ebay-reference="hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid art print" data-ebay-reference="hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid art print" data-ebay-reference="hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid art print" data-ebay-reference="hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cryptids of Europe, Cryptozoology s Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4194495c2ab690268abb.jpg' | relative_url }}" alt="Listing image for Cryptids of Europe, Cryptozoology s Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid art print" data-ebay-reference="hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print" target="_blank" rel="sponsored noopener noreferrer">Cryptids of Europe, Cryptozoology s Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid art print" data-ebay-reference="hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid art print" data-ebay-reference="hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid art print" data-ebay-reference="hair-dna-what-bigfoot-hair-tests-really-show-forteana-cryptid-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -569,7 +569,7 @@ To date, published analyses have consistently pointed in the opposite direction.
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -589,7 +589,7 @@ To date, published analyses have consistently pointed in the opposite direction.
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -621,7 +621,7 @@ To date, published analyses have consistently pointed in the opposite direction.
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -673,7 +673,7 @@ To date, published analyses have consistently pointed in the opposite direction.
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -718,7 +718,7 @@ To date, published analyses have consistently pointed in the opposite direction.
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -759,94 +759,94 @@ To date, published analyses have consistently pointed in the opposite direction.
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4100498/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4100498/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Keywords: yeti, almasty, bigfoot, sasquatch, mitochondrial DNA. 1. Introduction. Despite several...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4100498/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4100498/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Keywords: yeti, almasty, bigfoot, sasquatch, mitochondrial DNA. 1. Introduction. Despite several...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/24990672/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24990672/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Genetic analysis of hair samples attributed to yeti, bigfoot...Genetic analysis of hair samples attributed to yeti, bigfoot and ot...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/24990672/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24990672/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Genetic analysis of hair samples attributed to yeti, bigfoot...Genetic analysis of hair samples attributed to yeti, bigfoot and ot...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2015/07/no-reason-to-believe-that-sykess-yeti-bear-cryptid-exists/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2015/07/no-reason-to-believe-that-sykess-yeti-bear-cryptid-exists/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerNo Reason to Believe That Sykes&#x27;s Yeti-Bear Cryptid Existsby EE Gutiérrez — Sykes and company claimed that these sampl...</p></details>
+   Link:<a href="https://skepticalinquirer.org/2015/07/no-reason-to-believe-that-sykess-yeti-bear-cryptid-exists/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2015/07/no-reason-to-believe-that-sykess-yeti-bear-cryptid-exists/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerNo Reason to Believe That Sykes&#x27;s Yeti-Bear Cryptid Existsby EE Gutiérrez — Sykes and company claimed that these sampl...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: retractionwatch.com  
    Title: bigfoot paper corrected because it doesnt exist the authors institution that is  
-   Link: <a href="https://retractionwatch.com/2015/04/14/bigfoot-paper-corrected-because-it-doesnt-exist-the-authors-institution-that-is/" target="_blank" rel="noopener noreferrer nofollow">https://retractionwatch.com/2015/04/14/bigfoot-paper-corrected-because-it-doesnt-exist-the-authors-institution-that-is/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bigfoot paper corrected because it doesn&#x27;t exist14 Apr 2015 — The Proceedings of the Royal Society B paper, “Genetic analysis of hair sam...</p></details>
+   Link:<a href="https://retractionwatch.com/2015/04/14/bigfoot-paper-corrected-because-it-doesnt-exist-the-authors-institution-that-is/" target="_blank" rel="noopener noreferrer nofollow">https://retractionwatch.com/2015/04/14/bigfoot-paper-corrected-because-it-doesnt-exist-the-authors-institution-that-is/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bigfoot paper corrected because it doesn&#x27;t exist14 Apr 2015 — The Proceedings of the Royal Society B paper, “Genetic analysis of hair sam...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: livescience.com  
    Title: 27140 bigfoot dna study questioned  
-   Link: <a href="https://www.livescience.com/27140-bigfoot-dna-study-questioned.html" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/27140-bigfoot-dna-study-questioned.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Live ScienceBigfoot DNA Discovered? Not So Fast14 Feb 2013 — The study, by Melba S. Ketchum, suggested such [cryptids](&amp;#123;&amp;#123; &#x27;cryptids/&#x27; | relative_url &amp;#125;&amp;#125;) had sex with modern...</p></details>
+   Link:<a href="https://www.livescience.com/27140-bigfoot-dna-study-questioned.html" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/27140-bigfoot-dna-study-questioned.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Live ScienceBigfoot DNA Discovered? Not So Fast14 Feb 2013 — The study, by Melba S. Ketchum, suggested such [cryptids](&amp;#123;&amp;#123; &#x27;cryptids/&#x27; | relative_url &amp;#125;&amp;#125;) had sex with modern...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arstechnica.com  
    Title: an honest attempt to understand the bigfoot genome and the woman who created it  
-   Link: <a href="https://arstechnica.com/science/2013/07/an-honest-attempt-to-understand-the-bigfoot-genome-and-the-woman-who-created-it/" target="_blank" rel="noopener noreferrer nofollow">https://arstechnica.com/science/2013/07/an-honest-attempt-to-understand-the-bigfoot-genome-and-the-woman-who-created-it/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How the attempt to sequence “Bigfoot&#x27;s genome” went...7 Jul 2013 — The paper claims that bigfeet are hybrids, the product of humans inte...</p></details>
+   Link:<a href="https://arstechnica.com/science/2013/07/an-honest-attempt-to-understand-the-bigfoot-genome-and-the-woman-who-created-it/" target="_blank" rel="noopener noreferrer nofollow">https://arstechnica.com/science/2013/07/an-honest-attempt-to-understand-the-bigfoot-genome-and-the-woman-who-created-it/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How the attempt to sequence “Bigfoot&#x27;s genome” went...7 Jul 2013 — The paper claims that bigfeet are hybrids, the product of humans inte...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: livescience.com  
-   Link: <a href="https://www.livescience.com/25047-bigfoot-dna-human-ancestor.html" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/25047-bigfoot-dna-human-ancestor.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Bigfoot&#x27; Is Part Human, DNA Study ClaimsNov 27, 2012 — For her study, Ketchum obtained three &quot;whole nuclear genomes from purported Sasqu...</p></details>
+   Link:<a href="https://www.livescience.com/25047-bigfoot-dna-human-ancestor.html" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/25047-bigfoot-dna-human-ancestor.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Bigfoot&#x27; Is Part Human, DNA Study ClaimsNov 27, 2012 — For her study, Ketchum obtained three &quot;whole nuclear genomes from purported Sasqu...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: txcourts.gov  
-   Link: <a href="https://www.txcourts.gov/media/1453745/ketchum-final-report-012422-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.txcourts.gov/media/1453745/ketchum-final-report-012422-1.pdf</a>  
+   Link:<a href="https://www.txcourts.gov/media/1453745/ketchum-final-report-012422-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.txcourts.gov/media/1453745/ketchum-final-report-012422-1.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/bigfoot/comments/mgojf0/dna_study_from_nabigfootsearch/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/bigfoot/comments/mgojf0/dna_study_from_nabigfootsearch/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DNA Study from NAbigfootsearch: r/bigfoot... North American bigfoot population... project would describe “complete Sasquatch mitochondr...</p></details>
+   Link:<a href="https://www.reddit.com/r/bigfoot/comments/mgojf0/dna_study_from_nabigfootsearch/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/bigfoot/comments/mgojf0/dna_study_from_nabigfootsearch/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DNA Study from NAbigfootsearch: r/bigfoot... North American bigfoot population... project would describe “complete Sasquatch mitochondr...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/bigfoot/comments/14zkht0/moneymakers_new_dna_study/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/bigfoot/comments/14zkht0/moneymakers_new_dna_study/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MONEYMAKER&#x27;S NEW DNA STUDY:: r/bigfoot... Bigfoot Hair Sample DNA research? Do you think it will prove... If you re-run that DNA data f...</p></details>
+   Link:<a href="https://www.reddit.com/r/bigfoot/comments/14zkht0/moneymakers_new_dna_study/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/bigfoot/comments/14zkht0/moneymakers_new_dna_study/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MONEYMAKER&#x27;S NEW DNA STUDY:: r/bigfoot... Bigfoot Hair Sample DNA research? Do you think it will prove... If you re-run that DNA data f...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: bigfootforums.com  
-   Link: <a href="https://bigfootforums.com/topic/7225-the-ketchum-report/page/897/" target="_blank" rel="noopener noreferrer nofollow">https://bigfootforums.com/topic/7225-the-ketchum-report/page/897/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ketchum ReportSpecimens yielding DNA were obtained, purportedly from elusive hominins in North America called Sasquatch. Sequencing a...</p></details>
+   Link:<a href="https://bigfootforums.com/topic/7225-the-ketchum-report/page/897/" target="_blank" rel="noopener noreferrer nofollow">https://bigfootforums.com/topic/7225-the-ketchum-report/page/897/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Ketchum ReportSpecimens yielding DNA were obtained, purportedly from elusive hominins in North America called Sasquatch. Sequencing a...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sci.news  
-   Link: <a href="https://www.sci.news/genetics/science-bigfoot-yeti-hair-samples-match-dna-paleolithic-polar-bear-known-mammals-02044.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sci.news/genetics/science-bigfoot-yeti-hair-samples-match-dna-paleolithic-polar-bear-known-mammals-02044.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bigfoot, Yeti? Hair Samples Match DNA from Paleolithic...7 Jul 2014 — The first ever systematic genetic analysis of evidence purporting...</p></details>
+   Link:<a href="https://www.sci.news/genetics/science-bigfoot-yeti-hair-samples-match-dna-paleolithic-polar-bear-known-mammals-02044.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sci.news/genetics/science-bigfoot-yeti-hair-samples-match-dna-paleolithic-polar-bear-known-mammals-02044.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bigfoot, Yeti? Hair Samples Match DNA from Paleolithic...7 Jul 2014 — The first ever systematic genetic analysis of evidence purporting...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ksj.mit.edu  
-   Link: <a href="https://ksj.mit.edu/tracker-archive/bigfoot-hair-analysis-how-to-write-a-smart-story-about-a-stupid-topic/" target="_blank" rel="noopener noreferrer nofollow">https://ksj.mit.edu/tracker-archive/bigfoot-hair-analysis-how-to-write-a-smart-story-about-a-stupid-topic/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>st Bryan Sykes, focused on the remaining 37 samples, isolating and cleaning a 2- to 4-centimeter segment of each hair...Read more...</p></details>
+   Link:<a href="https://ksj.mit.edu/tracker-archive/bigfoot-hair-analysis-how-to-write-a-smart-story-about-a-stupid-topic/" target="_blank" rel="noopener noreferrer nofollow">https://ksj.mit.edu/tracker-archive/bigfoot-hair-analysis-how-to-write-a-smart-story-about-a-stupid-topic/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>st Bryan Sykes, focused on the remaining 37 samples, isolating and cleaning a 2- to 4-centimeter segment of each hair...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=K5DLHp4ACVM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=K5DLHp4ACVM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Bigfoot DNA Paper and Dr. Melba KetchumIn this episode of Journey to the Fringe, we delve into the fascinating and controversial worl...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=K5DLHp4ACVM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=K5DLHp4ACVM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Bigfoot DNA Paper and Dr. Melba KetchumIn this episode of Journey to the Fringe, we delve into the fascinating and controversial worl...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: theguardian.com  
    Title: genetics evolution dna analysis yeti sasquatch bigfoot zoology primates  
-   Link: <a href="https://www.theguardian.com/science/grrlscientist/2014/jul/02/genetics-evolution-dna-analysis-yeti-sasquatch-bigfoot-zoology-primates" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/grrlscientist/2014/jul/02/genetics-evolution-dna-analysis-yeti-sasquatch-bigfoot-zoology-primates</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DNA analysis indicates Bigfoot may be a big fake2 Jul 2014 — Despite my reservations, Professor Sykes&#x27; and his colleagues&#x27; study reveals...</p></details>
+   Link:<a href="https://www.theguardian.com/science/grrlscientist/2014/jul/02/genetics-evolution-dna-analysis-yeti-sasquatch-bigfoot-zoology-primates" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/grrlscientist/2014/jul/02/genetics-evolution-dna-analysis-yeti-sasquatch-bigfoot-zoology-primates</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DNA analysis indicates Bigfoot may be a big fake2 Jul 2014 — Despite my reservations, Professor Sykes&#x27; and his colleagues&#x27; study reveals...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: csmonitor.com  
    Title: Bigfoot hair samples undergo DNA analysis Big mammals yes. Bigfoot no  
-   Link: <a href="https://www.csmonitor.com/Science/2014/0701/Bigfoot-hair-samples-undergo-DNA-analysis-Big-mammals-yes.-Bigfoot-no" target="_blank" rel="noopener noreferrer nofollow">https://www.csmonitor.com/Science/2014/0701/Bigfoot-hair-samples-undergo-DNA-analysis-Big-mammals-yes.-Bigfoot-no</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Bigfoot&#x27; hair samples undergo DNA analysis: Big mammals...1 Jul 2014 — Hair samples from creatures claimed to be Bigfoot or Sasquatch a...</p></details>
+   Link:<a href="https://www.csmonitor.com/Science/2014/0701/Bigfoot-hair-samples-undergo-DNA-analysis-Big-mammals-yes.-Bigfoot-no" target="_blank" rel="noopener noreferrer nofollow">https://www.csmonitor.com/Science/2014/0701/Bigfoot-hair-samples-undergo-DNA-analysis-Big-mammals-yes.-Bigfoot-no</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Bigfoot&#x27; hair samples undergo DNA analysis: Big mammals...1 Jul 2014 — Hair samples from creatures claimed to be Bigfoot or Sasquatch a...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: salon.com  
    Title: bigfoot still doesnt exist but a new species may have been discovered  
-   Link: <a href="https://www.salon.com/2014/07/03/bigfoot_still_doesnt_exist_but_a_new_species_may_have_been_discovered/" target="_blank" rel="noopener noreferrer nofollow">https://www.salon.com/2014/07/03/bigfoot_still_doesnt_exist_but_a_new_species_may_have_been_discovered/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Still no evidence of Bigfoot, but a new species may have...3 Jul 2014 — Scientists tested 30 hair samples that supposedly came from Bigf...</p></details>
+   Link:<a href="https://www.salon.com/2014/07/03/bigfoot_still_doesnt_exist_but_a_new_species_may_have_been_discovered/" target="_blank" rel="noopener noreferrer nofollow">https://www.salon.com/2014/07/03/bigfoot_still_doesnt_exist_but_a_new_species_may_have_been_discovered/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Still no evidence of Bigfoot, but a new species may have...3 Jul 2014 — Scientists tested 30 hair samples that supposedly came from Bigf...</p></details>

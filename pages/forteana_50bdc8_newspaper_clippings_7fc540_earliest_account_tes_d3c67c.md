@@ -280,7 +280,7 @@ image: /assets/images/forteana_50bdc8_newspaper_clippings_7fc540_earliest_accoun
 
 ## Introduction
 
-For anyone investigating a classic Fortean claim, the most valuable newspaper clipping is usually not the most widely circulated or the most dramatic one. It is the earliest recoverable report. That first account fixes what was actually claimed before later editors shortened it, embellished it, miscopied it or detached it from its original context. In practical terms, locating the earliest newspaper version is one of the strongest tests that can be applied to historical anomaly stories. It cannot prove that an extraordinary event happened, but it can establish when the claim entered the public record, what details were present at the start, and how the story changed as it spread through the press. This chronological approach fits [Charles Fort]({{ 'charles-fort/' | relative_url }})'s reliance on printed sources while applying a more rigorous historical method to the same material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Charles_Fort" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Research Guides]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Charles Fort</span><span class="citation-popover-snippet">Charles Fort</span></span></span>
+For anyone investigating a classic Fortean claim, the most valuable newspaper clipping is usually not the most widely circulated or the most dramatic one. It is the earliest recoverable report. That first account fixes what was actually claimed before later editors shortened it, embellished it, miscopied it or detached it from its original context. In practical terms, locating the earliest newspaper version is one of the strongest tests that can be applied to historical anomaly stories. It cannot prove that an extraordinary event happened, but it can establish when the claim entered the public record, what details were present at the start, and how the story changed as it spread through the press. This chronological approach fits [Charles Fort]({{ 'charles-fort/' | relative_url }})'s reliance on printed sources while applying a more rigorous historical method to the same material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Charles_Fort" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Research Guides]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Charles Fort</span><span class="citation-popover-snippet">Charles Fort</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_newspaper_clippings_7fc540_earliest_account_tes_d3c67c-Illustration-1-dark.svg" | relative_url }}" alt="First Account illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_newspaper_clippings_7fc540_earliest_account_tes_d3c67c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_newspaper_clippings_7fc540_earliest_account_tes_d3c67c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -292,13 +292,13 @@ Three questions make the [first report]({{ 'first-report/' | relative_url }}) es
 
 * **What was originally claimed?** Later [retellings]({{ 'retellings/' | relative_url }}) frequently add details that were absent from the first publication.
 * **Who made the claim?** The earliest version is more likely to identify witnesses, locations, dates or officials before those details disappear in abbreviated reprints.
-* **How close was the newspaper to the event?** A local newspaper published within days of the alleged incident generally deserves more evidential weight than a distant paper reproducing the story weeks later. This reflects proximity to sources, not automatic accuracy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://guides.loc.gov/united-states-newspapers/historical-newspapers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guides.loc.gov">[Research Guides+2storybench.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guides.loc.gov</span><span class="citation-popover-title">Research Guides Historical Newspapers</span><span class="citation-popover-snippet">Newspaper Collections at the...This research guide gathers together a collection of topical guides that tell various stories of America...</span></span></span>
+* **How close was the newspaper to the event?** A local newspaper published within days of the alleged incident generally deserves more evidential weight than a distant paper reproducing the story weeks later. This reflects proximity to sources, not automatic accuracy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://guides.loc.gov/united-states-newspapers/historical-newspapers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guides.loc.gov">[Research Guides+2storybench.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guides.loc.gov</span><span class="citation-popover-title">Research Guides Historical Newspapers</span><span class="citation-popover-snippet">Newspaper Collections at the...This research guide gathers together a collection of topical guides that tell various stories of America...</span></span></span>
 
 For Fortean research, this distinction is crucial because many famous anomalies survive only as newspaper reports. Establishing the first known appearance allows researchers to separate the history of the report from the history of the alleged event.
 
 ## How later retellings reshape the original claim
 
-Historical [newspapers]({{ 'newspapers/' | relative_url }}) routinely copied one another. Before modern reporting practices, editors exchanged material extensively, filling columns with items lifted from other publications. A story appearing in dozens of newspapers may therefore represent one originating report rather than dozens of independent investigations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.storybench.org/how-newspaper-stories-went-viral-in-the-19th-century/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: storybench.org">[storybench.org+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">storybench.org</span><span class="citation-popover-title">how newspaper stories went viral in the 19th century</span><span class="citation-popover-snippet">Looking through more than 40,000 issues of 132 different...Read more...</span></span></span>
+Historical [newspapers]({{ 'newspapers/' | relative_url }}) routinely copied one another. Before modern reporting practices, editors exchanged material extensively, filling columns with items lifted from other publications. A story appearing in dozens of newspapers may therefore represent one originating report rather than dozens of independent investigations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.storybench.org/how-newspaper-stories-went-viral-in-the-19th-century/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: storybench.org">[storybench.org+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">storybench.org</span><span class="citation-popover-title">how newspaper stories went viral in the 19th century</span><span class="citation-popover-snippet">Looking through more than 40,000 issues of 132 different...Read more...</span></span></span>
 
 As stories travelled, several kinds of change commonly appeared:
 
@@ -344,7 +344,7 @@ It cannot, by itself, establish:
 
 </div>
 
-This distinction is especially important in [Forteana]({{ 'forteana/' | relative_url }}), where surviving documentation is often fragmentary. Newspapers preserve evidence of reporting and public circulation. They are only indirect evidence for the anomalous event itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://guides.loc.gov/united-states-newspapers/historical-newspapers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guides.loc.gov">[Research Guides+2OAPEN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guides.loc.gov</span><span class="citation-popover-title">Research Guides Historical Newspapers</span><span class="citation-popover-snippet">Newspaper Collections at the...This research guide gathers together a collection of topical guides that tell various stories of America...</span></span></span>
+This distinction is especially important in [Forteana]({{ 'forteana/' | relative_url }}), where surviving documentation is often fragmentary. Newspapers preserve evidence of reporting and public circulation. They are only indirect evidence for the anomalous event itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://guides.loc.gov/united-states-newspapers/historical-newspapers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guides.loc.gov">[Research Guides+2OAPEN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guides.loc.gov</span><span class="citation-popover-title">Research Guides Historical Newspapers</span><span class="citation-popover-snippet">Newspaper Collections at the...This research guide gathers together a collection of topical guides that tell various stories of America...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_newspaper_clippings_7fc540_earliest_account_tes_d3c67c-Illustration-2-dark.svg" | relative_url }}" alt="First Account illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_newspaper_clippings_7fc540_earliest_account_tes_d3c67c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_newspaper_clippings_7fc540_earliest_account_tes_d3c67c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -369,7 +369,7 @@ Reading the newspaper as a complete historical document often reveals whether an
 
 ## Practical method for identifying the earliest account
 
-Modern digitised newspaper archives make it easier than ever to work backwards through a story, although they introduce new challenges such as incomplete collections and imperfect optical character recognition (OCR), the automated conversion of scanned pages into searchable text. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://library.oapen.org/bitstream/id/e2870dba-3099-46c0-be6d-6d6979a3e654/9783110729214.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.oapen.org">[OAPEN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.oapen.org</span><span class="citation-popover-snippet">The digital evolution not only...Read more...</span></span></span>
+Modern digitised newspaper archives make it easier than ever to work backwards through a story, although they introduce new challenges such as incomplete collections and imperfect optical character recognition (OCR), the automated conversion of scanned pages into searchable text.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://library.oapen.org/bitstream/id/e2870dba-3099-46c0-be6d-6d6979a3e654/9783110729214.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.oapen.org">[OAPEN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.oapen.org</span><span class="citation-popover-snippet">The digital evolution not only...Read more...</span></span></span>
 
 A practical workflow is:
 
@@ -388,7 +388,7 @@ A practical workflow is:
 
 </div>
 
-Researchers should also remember that the earliest surviving clipping is not necessarily the first publication. Many historical newspapers have not survived, while others remain undigitised or have OCR errors that prevent straightforward discovery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://library.oapen.org/bitstream/id/e2870dba-3099-46c0-be6d-6d6979a3e654/9783110729214.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.oapen.org">[OAPEN+2NEH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.oapen.org</span><span class="citation-popover-snippet">The digital evolution not only...Read more...</span></span></span>
+Researchers should also remember that the earliest surviving clipping is not necessarily the first publication. Many historical newspapers have not survived, while others remain undigitised or have OCR errors that prevent straightforward discovery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://library.oapen.org/bitstream/id/e2870dba-3099-46c0-be6d-6d6979a3e654/9783110729214.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.oapen.org">[OAPEN+2NEH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.oapen.org</span><span class="citation-popover-snippet">The digital evolution not only...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_newspaper_clippings_7fc540_earliest_account_tes_d3c67c-Illustration-3-dark.svg" | relative_url }}" alt="First Account illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_newspaper_clippings_7fc540_earliest_account_tes_d3c67c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_newspaper_clippings_7fc540_earliest_account_tes_d3c67c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -401,194 +401,194 @@ That shift often changes the interpretation of the entire case. Some stories bec
 For this reason, the earliest recoverable newspaper account functions as a practical benchmark in Fortean research. It does not resolve whether an anomaly occurred, but it provides the firmest available foundation for understanding what was originally reported before the distortions of repetition, [folklore]({{ 'folklore/' | relative_url }}) and retelling accumulated over time.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the First Clipping Matters Most. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the First Clipping Matters Most. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
-        </h4>
-        <p class="fr-book-author">By Charles Fort</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
+</h4>
+<p class="fr-book-author">By Charles Fort</p>
         
-        <p class="fr-book-desc">Provides the historical newspaper context behind many cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the historical newspaper context behind many cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+Books+of+Charles+Fort+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete Books of Charles Fort on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NaFUhCtOCb4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Complete Books of Charles Fort" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Complete+Books+of+Charles+Fort+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Books of Charles Fort">The Complete Books of Charles Fort</a>
-        </h4>
-        <p class="fr-book-author">By Charles Fort</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+Books+of+Charles+Fort+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete Books of Charles Fort on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NaFUhCtOCb4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Complete Books of Charles Fort" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Complete+Books+of+Charles+Fort+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Books of Charles Fort">The Complete Books of Charles Fort</a>
+</h4>
+<p class="fr-book-author">By Charles Fort</p>
         
-        <p class="fr-book-desc">Shows how original reports evolved into Fortean case collections.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Complete+Books+of+Charles+Fort+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how original reports evolved into Fortean case collections.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Complete+Books+of+Charles+Fort+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+World+of+the+Unknown+Ghosts+%28World+of+the+Unknown%29+Christopher+Maynard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The World of the Unknown Ghosts (World of the Unknown) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8561060-M.jpg" alt="Cover for The World of the Unknown Ghosts (World of the Unknown)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+World+of+the+Unknown+Ghosts+%28World+of+the+Unknown%29+Christopher+Maynard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World of the Unknown Ghosts (World of the Unknown)">The World of the Unknown Ghosts (World of the Unknown)</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Maynard</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+World+of+the+Unknown+Ghosts+%28World+of+the+Unknown%29+Christopher+Maynard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The World of the Unknown Ghosts (World of the Unknown) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8561060-M.jpg" alt="Cover for The World of the Unknown Ghosts (World of the Unknown)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+World+of+the+Unknown+Ghosts+%28World+of+the+Unknown%29+Christopher+Maynard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World of the Unknown Ghosts (World of the Unknown)">The World of the Unknown Ghosts (World of the Unknown)</a>
+</h4>
+<p class="fr-book-author">By Christopher Maynard</p>
         
-        <p class="fr-book-desc">First published 1977. Subjects: Ghosts, Juvenile literature.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+World+of+the+Unknown+Ghosts+%28World+of+the+Unknown%29+Christopher+Maynard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1977. Subjects: Ghosts, Juvenile literature.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+World+of+the+Unknown+Ghosts+%28World+of+the+Unknown%29+Christopher+Maynard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Past+imperfect+Julian+Fellowes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Past imperfect on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7095109-M.jpg" alt="Cover for Past imperfect" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Past+imperfect+Julian+Fellowes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Past imperfect">Past imperfect</a>
-        </h4>
-        <p class="fr-book-author">By Julian Fellowes</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Past+imperfect+Julian+Fellowes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Past imperfect on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7095109-M.jpg" alt="Cover for Past imperfect" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Past+imperfect+Julian+Fellowes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Past imperfect">Past imperfect</a>
+</h4>
+<p class="fr-book-author">By Julian Fellowes</p>
         
-        <p class="fr-book-desc">First published 2008. Subjects: Social life and customs, Nineteen sixties, Fiction, Upper class, Fiction, general.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Past+imperfect+Julian+Fellowes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2008. Subjects: Social life and customs, Nineteen sixties, Fiction, Upper class, Fiction, general.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Past+imperfect+Julian+Fellowes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Complete+Books+of+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Complete Books of Charles Fort</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+World+of+the+Unknown+Ghosts+%28World+of+the+Unknown%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The World of the Unknown Ghosts (World of the Unknown)</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Complete+Books+of+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Complete Books of Charles Fort</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+World+of+the+Unknown+Ghosts+%28World+of+the+Unknown%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The World of the Unknown Ghosts (World of the Unknown)</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Paranormal Pals: L&#x27;il Monster - Thi Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/da46a4fa8d8b40fb6c62.jpg' | relative_url }}" alt="Listing image for Paranormal Pals: L&#x27;il Monster - Thi Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer">Paranormal Pals: L&#x27;il Monster - Thi Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Paranormal Pals: L&#x27;il Monster - Thi Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/da46a4fa8d8b40fb6c62.jpg' | relative_url }}" alt="Listing image for Paranormal Pals: L&#x27;il Monster - Thi Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer">Paranormal Pals: L&#x27;il Monster - Thi Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: paranormal art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for National Paranormal Day Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/55ae121a3349eaf72d81.jpg' | relative_url }}" alt="Listing image for National Paranormal Day Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer">National Paranormal Day Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for National Paranormal Day Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/55ae121a3349eaf72d81.jpg' | relative_url }}" alt="Listing image for National Paranormal Day Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer">National Paranormal Day Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: paranormal art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Twin Paranormal Merch Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e81c3be635c0399faf40.jpg' | relative_url }}" alt="Listing image for Twin Paranormal Merch Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer">Twin Paranormal Merch Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Twin Paranormal Merch Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e81c3be635c0399faf40.jpg' | relative_url }}" alt="Listing image for Twin Paranormal Merch Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer">Twin Paranormal Merch Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: paranormal art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Minimalist Ghost Trap Poster - Paranormal-Inspired Wall Art Print Gift Decor"><img src="{{ '/assets/images/marketplace-covers/d75f042b15766aa0acd7.jpg' | relative_url }}" alt="Listing image for Minimalist Ghost Trap Poster - Paranormal-Inspired Wall Art Print Gift Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer">Minimalist Ghost Trap Poster - Paranormal-Inspired Wall Art Print Gift Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Minimalist Ghost Trap Poster - Paranormal-Inspired Wall Art Print Gift Decor"><img src="{{ '/assets/images/marketplace-covers/d75f042b15766aa0acd7.jpg' | relative_url }}" alt="Listing image for Minimalist Ghost Trap Poster - Paranormal-Inspired Wall Art Print Gift Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer">Minimalist Ghost Trap Poster - Paranormal-Inspired Wall Art Print Gift Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: paranormal art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="first-account-why-the-first-clipping-matters-most-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -604,7 +604,7 @@ For this reason, the earliest recoverable newspaper account functions as a pract
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -624,7 +624,7 @@ For this reason, the earliest recoverable newspaper account functions as a pract
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -656,7 +656,7 @@ For this reason, the earliest recoverable newspaper account functions as a pract
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -708,7 +708,7 @@ For this reason, the earliest recoverable newspaper account functions as a pract
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -753,7 +753,7 @@ For this reason, the earliest recoverable newspaper account functions as a pract
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -794,108 +794,108 @@ For this reason, the earliest recoverable newspaper account functions as a pract
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Charles Fort  
-   Link: <a href="https://en.wikipedia.org/wiki/Charles_Fort" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Charles_Fort</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Charles_Fort" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Charles_Fort</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: library.oapen.org  
-   Link: <a href="https://library.oapen.org/bitstream/id/e2870dba-3099-46c0-be6d-6d6979a3e654/9783110729214.pdf" target="_blank" rel="noopener noreferrer nofollow">https://library.oapen.org/bitstream/id/e2870dba-3099-46c0-be6d-6d6979a3e654/9783110729214.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The digital evolution not only...Read more...</p></details>
+   Link:<a href="https://library.oapen.org/bitstream/id/e2870dba-3099-46c0-be6d-6d6979a3e654/9783110729214.pdf" target="_blank" rel="noopener noreferrer nofollow">https://library.oapen.org/bitstream/id/e2870dba-3099-46c0-be6d-6d6979a3e654/9783110729214.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The digital evolution not only...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: storybench.org  
    Title: how newspaper stories went viral in the 19th century  
-   Link: <a href="https://www.storybench.org/how-newspaper-stories-went-viral-in-the-19th-century/" target="_blank" rel="noopener noreferrer nofollow">https://www.storybench.org/how-newspaper-stories-went-viral-in-the-19th-century/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Looking through more than 40,000 issues of 132 different...Read more...</p></details>
+   Link:<a href="https://www.storybench.org/how-newspaper-stories-went-viral-in-the-19th-century/" target="_blank" rel="noopener noreferrer nofollow">https://www.storybench.org/how-newspaper-stories-went-viral-in-the-19th-century/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Looking through more than 40,000 issues of 132 different...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: neh.gov  
-   Link: <a href="https://www.neh.gov/explore/chronicling-america-historic-american-newspapers" target="_blank" rel="noopener noreferrer nofollow">https://www.neh.gov/explore/chronicling-america-historic-american-newspapers</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chronicling America: Historic American NewspapersChronicling America is an open access database of historic American newspapers created b...</p></details>
+   Link:<a href="https://www.neh.gov/explore/chronicling-america-historic-american-newspapers" target="_blank" rel="noopener noreferrer nofollow">https://www.neh.gov/explore/chronicling-america-historic-american-newspapers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chronicling America: Historic American NewspapersChronicling America is an open access database of historic American newspapers created b...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Print syndication  
-   Link: <a href="https://en.wikipedia.org/wiki/Print_syndication" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Print_syndication</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Print_syndication" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Print_syndication</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: folklore.ee  
-   Link: <a href="https://www.folklore.ee/FOAFtale/ftn22.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.folklore.ee/FOAFtale/ftn22.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FOAFtale News 22 June 1991First, two versions appeared in the Reformatorisch Dagblad on. 24 February 1991. Version 1: A man driving along...</p></details>
+   Link:<a href="https://www.folklore.ee/FOAFtale/ftn22.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.folklore.ee/FOAFtale/ftn22.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FOAFtale News 22 June 1991First, two versions appeared in the Reformatorisch Dagblad on. 24 February 1991. Version 1: A man driving along...</p></details>
    Published: February 1991  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: guides.loc.gov  
    Title: Research Guides Historical Newspapers  
-   Link: <a href="https://guides.loc.gov/united-states-newspapers/historical-newspapers" target="_blank" rel="noopener noreferrer nofollow">https://guides.loc.gov/united-states-newspapers/historical-newspapers</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Newspaper Collections at the...This research guide gathers together a collection of topical guides that tell various stories of America...</p></details>
+   Link:<a href="https://guides.loc.gov/united-states-newspapers/historical-newspapers" target="_blank" rel="noopener noreferrer nofollow">https://guides.loc.gov/united-states-newspapers/historical-newspapers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Newspaper Collections at the...This research guide gathers together a collection of topical guides that tell various stories of America...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: scribd.com  
    Title: Fortean Times Issue  
-   Link: <a href="https://www.scribd.com/document/365661447/Fortean-Times-Issue" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/365661447/Fortean-Times-Issue</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PDF | Witchcraft | Fairies17 Nov 2017 — A digest of the worldwide weird, including: Lucifers letter, Thai spirits, levitating dog, myster...</p></details>
+   Link:<a href="https://www.scribd.com/document/365661447/Fortean-Times-Issue" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/365661447/Fortean-Times-Issue</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PDF | Witchcraft | Fairies17 Nov 2017 — A digest of the worldwide weird, including: Lucifers letter, Thai spirits, levitating dog, myster...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: loc.gov  
-   Link: <a href="https://www.loc.gov/item/video-11670/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/item/video-11670/</a>  
+   Link:<a href="https://www.loc.gov/item/video-11670/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/item/video-11670/</a>  
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: collectionsasdata.github.io  
-   Link: <a href="https://collectionsasdata.github.io/facet6/" target="_blank" rel="noopener noreferrer nofollow">https://collectionsasdata.github.io/facet6/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Collections as Data Facets • Always Already ComputationalA built-in reporting feature of the Django framework provides information and RS...</p></details>
+   Link:<a href="https://collectionsasdata.github.io/facet6/" target="_blank" rel="noopener noreferrer nofollow">https://collectionsasdata.github.io/facet6/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Collections as Data Facets • Always Already ComputationalA built-in reporting feature of the Django framework provides information and RS...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: library.udel.edu  
    Title: Chronicling America Tutorial Transcript  
-   Link: <a href="https://library.udel.edu/teaching-and-learning/wp-content/uploads/sites/27/2019/09/Chronicling-America-Tutorial-Transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://library.udel.edu/teaching-and-learning/wp-content/uploads/sites/27/2019/09/Chronicling-America-Tutorial-Transcript.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chronicling America database provides​​free full text...​​In this video you will learn​​how newspapers can enhance​​your research and ho...</p></details>
+   Link:<a href="https://library.udel.edu/teaching-and-learning/wp-content/uploads/sites/27/2019/09/Chronicling-America-Tutorial-Transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://library.udel.edu/teaching-and-learning/wp-content/uploads/sites/27/2019/09/Chronicling-America-Tutorial-Transcript.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chronicling America database provides​​free full text...​​In this video you will learn​​how newspapers can enhance​​your research and ho...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/tony.brunt.173094/posts/putting-a-face-to-someone-who-lived-in-the-shadows/3086145091774975/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tony.brunt.173094/posts/putting-a-face-to-someone-who-lived-in-the-shadows/3086145091774975/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>began with the pilot Kenneth Arnold, whose 24 June 1947...</p></details>
+   Link:<a href="https://www.facebook.com/tony.brunt.173094/posts/putting-a-face-to-someone-who-lived-in-the-shadows/3086145091774975/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tony.brunt.173094/posts/putting-a-face-to-someone-who-lived-in-the-shadows/3086145091774975/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>began with the pilot Kenneth Arnold, whose 24 June 1947...</p></details>
    Published: June 1947  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: archive.org  
    Title: Fortean Times 06.2021 djvu.txt  
-   Link: <a href="https://archive.org/stream/fortean-times-08.2021/Fortean%20Times%2006.2021_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/fortean-times-08.2021/Fortean%20Times%2006.2021_djvu.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;Fortean Times 2021&quot;... historical accuracy or independent verification of reported events. In January 1975, the Glasgow Her...</p></details>
+   Link:<a href="https://archive.org/stream/fortean-times-08.2021/Fortean%20Times%2006.2021_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/fortean-times-08.2021/Fortean%20Times%2006.2021_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;Fortean Times 2021&quot;... historical accuracy or independent verification of reported events. In January 1975, the Glasgow Her...</p></details>
    Published: January 1975  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: 2012books.lardbucket.org  
    Title: s07 01 history of newspapers  
-   Link: <a href="https://2012books.lardbucket.org/books/culture-and-media/s07-01-history-of-newspapers.html" target="_blank" rel="noopener noreferrer nofollow">https://2012books.lardbucket.org/books/culture-and-media/s07-01-history-of-newspapers.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of NewspapersScholars commonly credit the ancient Romans with publishing the first newspaper, Acta Diurna, or daily doings, in 59 BCE.Rea...</p></details>
+   Link:<a href="https://2012books.lardbucket.org/books/culture-and-media/s07-01-history-of-newspapers.html" target="_blank" rel="noopener noreferrer nofollow">https://2012books.lardbucket.org/books/culture-and-media/s07-01-history-of-newspapers.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of NewspapersScholars commonly credit the ancient Romans with publishing the first newspaper, Acta Diurna, or daily doings, in 59 BCE.Rea...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: digitisednewspapers.net  
-   Link: <a href="https://www.digitisednewspapers.net/histories/ca/" target="_blank" rel="noopener noreferrer nofollow">https://www.digitisednewspapers.net/histories/ca/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chronicling America - The AtlasChronicling America is a free, online repository of newspapers printed in the United States, primarily fro...</p></details>
+   Link:<a href="https://www.digitisednewspapers.net/histories/ca/" target="_blank" rel="noopener noreferrer nofollow">https://www.digitisednewspapers.net/histories/ca/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chronicling America - The AtlasChronicling America is a free, online repository of newspapers printed in the United States, primarily fro...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: shura.shu.ac.uk  
    Title: The most recent reprint  
-   Link: <a href="https://shura.shu.ac.uk/24606/3/Clarke_Mothman_Of_West%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/24606/3/Clarke_Mothman_Of_West%28AM%29.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mothman of West Virginia: A case study in Legendary...by D Clarke · 2022 · Cited by 6 — [The book](&amp;#123;&amp;#123; &#x27;the-book/&#x27; | relative_url &amp;#125;&amp;#125;) is a classic of “Fortean” research, tha...</p></details>
+   Link:<a href="https://shura.shu.ac.uk/24606/3/Clarke_Mothman_Of_West%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/24606/3/Clarke_Mothman_Of_West%28AM%29.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mothman of West Virginia: A case study in Legendary...by D Clarke · 2022 · Cited by 6 — [The book](&amp;#123;&amp;#123; &#x27;the-book/&#x27; | relative_url &amp;#125;&amp;#125;) is a classic of “Fortean” research, tha...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: libguides.holycross.edu  
-   Link: <a href="https://libguides.holycross.edu/chroniclingamerica" target="_blank" rel="noopener noreferrer nofollow">https://libguides.holycross.edu/chroniclingamerica</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>is Chronicling America? - Database Guides11 Dec 2025 — Chronicling America is a website providing access to information about historic ne...</p></details>
+   Link:<a href="https://libguides.holycross.edu/chroniclingamerica" target="_blank" rel="noopener noreferrer nofollow">https://libguides.holycross.edu/chroniclingamerica</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>is Chronicling America? - Database Guides11 Dec 2025 — Chronicling America is a website providing access to information about historic ne...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: assets.cambridge.org  
-   Link: <a href="https://assets.cambridge.org/97805214/97107/sample/9780521497107ws.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.cambridge.org/97805214/97107/sample/9780521497107ws.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and the - american literary - marketplaceThis book gathers the numerous scraps of contem- porary accounts, information gleaned from numer...</p></details>
+   Link:<a href="https://assets.cambridge.org/97805214/97107/sample/9780521497107ws.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.cambridge.org/97805214/97107/sample/9780521497107ws.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and the - american literary - marketplaceThis book gathers the numerous scraps of contem- porary accounts, information gleaned from numer...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2606.16209v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2606.16209v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Viral Images: Identifying Reprintings within 1.5 Million...15 Jun 2026 — In 2020, the Library of Congress launched the Newspaper Navigat...</p></details>
+   Link:<a href="https://arxiv.org/html/2606.16209v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2606.16209v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Viral Images: Identifying Reprintings within 1.5 Million...15 Jun 2026 — In 2020, the Library of Congress launched the Newspaper Navigat...</p></details>

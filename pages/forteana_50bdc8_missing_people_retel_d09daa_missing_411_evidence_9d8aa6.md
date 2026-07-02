@@ -280,7 +280,7 @@ image: /assets/images/forteana_50bdc8_missing_people_retel_d09daa_missing_411_ev
 
 ## Introduction
 
-The appeal of *Missing 411* lies in a simple but powerful idea: that apparently unrelated [disappearances]({{ 'disappearances/' | relative_url }}) in wilderness areas form a hidden pattern that [ordinary explanations]({{ 'ordinary-causes/' | relative_url }}) cannot account for. Within modern Fortean culture, these stories have become one of the best-known examples of how missing-person cases are transformed into a larger mystery. The central problem is not that disappearances never contain puzzling features—they often do—but that incomplete records, unsuccessful searches and selective comparisons can be presented as evidence for an underlying phenomenon without demonstrating that such a phenomenon actually exists. Independent analyses have repeatedly found a substantial gap between the strength of the claims and the evidence available to support them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2017/07/an-investigation-of-the-missing411-conspiracy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">An Investigation of the Missing411 ConspiracyPaulides has classified over 1,440 missing persons cases under the Missing411 label...</span></span></span>
+The appeal of *Missing 411* lies in a simple but powerful idea: that apparently unrelated [disappearances]({{ 'disappearances/' | relative_url }}) in wilderness areas form a hidden pattern that [ordinary explanations]({{ 'ordinary-causes/' | relative_url }}) cannot account for. Within modern Fortean culture, these stories have become one of the best-known examples of how missing-person cases are transformed into a larger mystery. The central problem is not that disappearances never contain puzzling features—they often do—but that incomplete records, unsuccessful searches and selective comparisons can be presented as evidence for an underlying phenomenon without demonstrating that such a phenomenon actually exists. Independent analyses have repeatedly found a substantial gap between the strength of the claims and the evidence available to support them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2017/07/an-investigation-of-the-missing411-conspiracy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">An Investigation of the Missing411 ConspiracyPaulides has classified over 1,440 missing persons cases under the Missing411 label...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_missing_people_retel_d09daa_missing_411_evidence_9d8aa6-Illustration-1-dark.svg" | relative_url }}" alt="Missing 411 illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_missing_people_retel_d09daa_missing_411_evidence_9d8aa6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_missing_people_retel_d09daa_missing_411_evidence_9d8aa6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,7 +288,7 @@ Understanding that evidence gap is important because genuine missing-person inve
 
 ## What the pattern claims usually rely on
 
-The *Missing 411* series, created by David Paulides, argues that numerous disappearances in North American wilderness areas share recurring characteristics. Rather than advancing one explicit explanation, [the books]({{ 'the-book/' | relative_url }}) and documentaries emphasise clusters of unusual details and encourage readers to conclude that ordinary search-and-rescue explanations are insufficient. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2017/07/an-investigation-of-the-missing411-conspiracy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">An Investigation of the Missing411 ConspiracyPaulides has classified over 1,440 missing persons cases under the Missing411 label...</span></span></span>
+The *Missing 411* series, created by David Paulides, argues that numerous disappearances in North American wilderness areas share recurring characteristics. Rather than advancing one explicit explanation, [the books]({{ 'the-book/' | relative_url }}) and documentaries emphasise clusters of unusual details and encourage readers to conclude that ordinary search-and-rescue explanations are insufficient.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2017/07/an-investigation-of-the-missing411-conspiracy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">An Investigation of the Missing411 ConspiracyPaulides has classified over 1,440 missing persons cases under the Missing411 label...</span></span></span>
 
 The recurring features often highlighted include:
 
@@ -335,7 +335,7 @@ Many wilderness disappearances end without a definitive explanation because:
 
 Each missing fact increases uncertainty, but uncertainty itself is not positive evidence for a paranormal or unknown mechanism.
 
-This distinction is fundamental in both scientific reasoning and criminal investigation. A hypothesis requires evidence supporting it; it cannot be confirmed simply because competing explanations remain incomplete. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2017/07/an-investigation-of-the-missing411-conspiracy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">An Investigation of the Missing411 ConspiracyPaulides has classified over 1,440 missing persons cases under the Missing411 label...</span></span></span>
+This distinction is fundamental in both scientific reasoning and criminal investigation. A hypothesis requires evidence supporting it; it cannot be confirmed simply because competing explanations remain incomplete.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2017/07/an-investigation-of-the-missing411-conspiracy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">An Investigation of the Missing411 ConspiracyPaulides has classified over 1,440 missing persons cases under the Missing411 label...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_missing_people_retel_d09daa_missing_411_evidence_9d8aa6-Illustration-2-dark.svg" | relative_url }}" alt="Missing 411 illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_missing_people_retel_d09daa_missing_411_evidence_9d8aa6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_missing_people_retel_d09daa_missing_411_evidence_9d8aa6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -361,7 +361,7 @@ A stronger demonstration would require questions such as:
 
 Without this type of baseline comparison, recurring characteristics may simply reflect what is already common among people who become lost in wilderness environments.
 
-Independent statistical reviews of available *Missing 411* datasets have concluded that the reported patterns do not clearly exceed what would be expected from ordinary wilderness accidents and disappearances. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2017/07/an-investigation-of-the-missing411-conspiracy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org+2skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">An Investigation of the Missing411 ConspiracyPaulides has classified over 1,440 missing persons cases under the Missing411 label...</span></span></span>
+Independent statistical reviews of available *Missing 411* datasets have concluded that the reported patterns do not clearly exceed what would be expected from ordinary wilderness accidents and disappearances.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2017/07/an-investigation-of-the-missing411-conspiracy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org+2skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">An Investigation of the Missing411 ConspiracyPaulides has classified over 1,440 missing persons cases under the Missing411 label...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RxixM-WuV0Y" title="The Missing 411 Mystery Has A Solution. You Won&#x27;t Like It." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RxixM-WuV0Y" target="_blank" rel="noopener noreferrer">The Missing 411 Mystery Has A Solution. You Won&#x27;t Like It.</a></p><p class="youtube-embed-meta">Channel: Joe Scott</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RxixM-WuV0Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RxixM-WuV0Y">Open on YouTube</a></p></div></div></div>
@@ -372,7 +372,7 @@ Another recurring criticism concerns case selection.
 
 The books do not analyse every wilderness disappearance. Instead, they select cases considered to fit a developing profile. This creates a risk of selection bias: examples matching the proposed pattern receive attention, while ordinary-looking cases remain outside the dataset.
 
-Researchers have also identified instances where later discoveries or official findings altered the understanding of individual disappearances but did not always receive equal prominence in later [retellings]({{ 'retellings/' | relative_url }}). Some people featured in *Missing 411* discussions were eventually found alive or had conventional explanations emerge after publication. Including resolved and unresolved cases together can make the overall collection appear more mysterious than the underlying evidence warrants. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/exclusive/assessing-the-missing-411-conspiracy-theory-a-conversation-with-data-skeptic-kyle-polich/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Assessing the Missing 411 Conspiracy Theory29 Mar 2023 — This conspiracy theory is the invention of a single individual: Bigfoot proponen...</span></span></span>
+Researchers have also identified instances where later discoveries or official findings altered the understanding of individual disappearances but did not always receive equal prominence in later [retellings]({{ 'retellings/' | relative_url }}). Some people featured in *Missing 411* discussions were eventually found alive or had conventional explanations emerge after publication. Including resolved and unresolved cases together can make the overall collection appear more mysterious than the underlying evidence warrants.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/exclusive/assessing-the-missing-411-conspiracy-theory-a-conversation-with-data-skeptic-kyle-polich/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Assessing the Missing 411 Conspiracy Theory29 Mar 2023 — This conspiracy theory is the invention of a single individual: Bigfoot proponen...</span></span></span>
 
 The same issue affects descriptive details. Different retellings may emphasise particular facts—such as unusual weather, unusual clothing or unexpected locations of remains—while giving less attention to evidence that points towards accident, exposure, drowning or medical emergency.
 
@@ -385,7 +385,7 @@ None of this proves deliberate distortion in every instance. It illustrates how 
 
 One element of the *Missing 411* story that attracted legitimate public attention concerns record keeping.
 
-Paulides argued that the US National Park Service lacked a comprehensive, easily accessible database of missing persons across all parks. Journalists confirmed that record management between parks and agencies had historically been inconsistent, prompting broader discussion about how disappearances should be tracked nationally. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/David_Paulides" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">David PaulidesMissing 411 is a series of self-published books and films, which document cases of people who have gone missing in national...</span></span></span>
+Paulides argued that the US National Park Service lacked a comprehensive, easily accessible database of missing persons across all parks. Journalists confirmed that record management between parks and agencies had historically been inconsistent, prompting broader discussion about how disappearances should be tracked nationally.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/David_Paulides" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">David PaulidesMissing 411 is a series of self-published books and films, which document cases of people who have gone missing in national...</span></span></span>
 
 However, administrative shortcomings do not themselves demonstrate an unexplained disappearance phenomenon.
 
@@ -410,197 +410,197 @@ This does not mean the stories have no value. They have encouraged many people t
 
 The difficulty arises when narrative coherence begins to replace evidential standards.
 
-Within Fortean retellings, *Missing 411* therefore serves as a useful case study in how mystery can grow from genuine uncertainty. The evidence gap is not simply the lack of an explanation for individual disappearances; it is the distance between observing recurring features and demonstrating that those features constitute a real, statistically unusual or anomalous pattern. Until that gap is bridged with transparent datasets, reproducible methods and appropriate baseline comparisons, the claimed pattern remains considerably weaker than the stories built around it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2017/07/an-investigation-of-the-missing411-conspiracy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org+2skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">An Investigation of the Missing411 ConspiracyPaulides has classified over 1,440 missing persons cases under the Missing411 label...</span></span></span>
+Within Fortean retellings, *Missing 411* therefore serves as a useful case study in how mystery can grow from genuine uncertainty. The evidence gap is not simply the lack of an explanation for individual disappearances; it is the distance between observing recurring features and demonstrating that those features constitute a real, statistically unusual or anomalous pattern. Until that gap is bridged with transparent datasets, reproducible methods and appropriate baseline comparisons, the claimed pattern remains considerably weaker than the stories built around it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2017/07/an-investigation-of-the-missing411-conspiracy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org+2skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">An Investigation of the Missing411 ConspiracyPaulides has classified over 1,440 missing persons cases under the Missing411 label...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Missing Person Patterns Go Too Far. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Missing Person Patterns Go Too Far. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explains pattern-finding and belief formation relevant to Missing 411 claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains pattern-finding and belief formation relevant to Missing 411 claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
-        </h4>
-        <p class="fr-book-author">By Charles Fort</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
+</h4>
+<p class="fr-book-author">By Charles Fort</p>
         
-        <p class="fr-book-desc">Supplies historical context for anomalous-claims literature.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supplies historical context for anomalous-claims literature.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Lost+person+behavior+Koester%2C+Robert+J.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lost person behavior on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5544847-M.jpg" alt="Cover for Lost person behavior" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Lost+person+behavior+Koester%2C+Robert+J.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lost person behavior">Lost person behavior</a>
-        </h4>
-        <p class="fr-book-author">By Koester, Robert J.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Lost+person+behavior+Koester%2C+Robert+J.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lost person behavior on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5544847-M.jpg" alt="Cover for Lost person behavior" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Lost+person+behavior+Koester%2C+Robert+J.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lost person behavior">Lost person behavior</a>
+</h4>
+<p class="fr-book-author">By Koester, Robert J.</p>
         
-        <p class="fr-book-desc">First published 2008. Subjects: Missing persons, Investigation, Psychology, Databases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Lost+person+behavior+Koester%2C+Robert+J.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2008. Subjects: Missing persons, Investigation, Psychology, Databases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Lost+person+behavior+Koester%2C+Robert+J.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Unexplained%21+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Unexplained! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/595571-M.jpg" alt="Cover for Unexplained!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Unexplained%21+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Unexplained!">Unexplained!</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Unexplained%21+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Unexplained! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/595571-M.jpg" alt="Cover for Unexplained!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Unexplained%21+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Unexplained!">Unexplained!</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">First published 1993. Subjects: Science, Curiosities and wonders, Miscellanea, Nonfiction, Psychiatry &amp; Psychology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Unexplained%21+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1993. Subjects: Science, Curiosities and wonders, Miscellanea, Nonfiction, Psychiatry &amp; Psychology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Unexplained%21+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Lost+person+behavior&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lost person behavior</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Lost+person+behavior&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lost person behavior</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1961 MISSING PERSONS RETAIL STORE LITHO POSTER - UK Design USA Printing 28x54”"><img src="{{ '/assets/images/marketplace-covers/253e2b7699229a0416af.jpg' | relative_url }}" alt="Listing image for 1961 MISSING PERSONS RETAIL STORE LITHO POSTER - UK Design USA Printing 28x54”" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">1961 MISSING PERSONS RETAIL STORE LITHO POSTER - UK Design USA Printing 28x54”</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missing persons poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: missing persons poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1961 MISSING PERSONS RETAIL STORE LITHO POSTER - UK Design USA Printing 28x54”"><img src="{{ '/assets/images/marketplace-covers/253e2b7699229a0416af.jpg' | relative_url }}" alt="Listing image for 1961 MISSING PERSONS RETAIL STORE LITHO POSTER - UK Design USA Printing 28x54”" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">1961 MISSING PERSONS RETAIL STORE LITHO POSTER - UK Design USA Printing 28x54”</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missing persons poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: missing persons poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/064f13354b9b88e64041.jpg' | relative_url }}" alt="Listing image for Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missing persons poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: missing persons poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/064f13354b9b88e64041.jpg' | relative_url }}" alt="Listing image for Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missing persons poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: missing persons poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Missing Persons Concert Poster Greek Theatre"><img src="{{ '/assets/images/marketplace-covers/b139e6959141b1a0be5d.jpg' | relative_url }}" alt="Listing image for Missing Persons Concert Poster Greek Theatre" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">Missing Persons Concert Poster Greek Theatre</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missing persons poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: missing persons poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Missing Persons Concert Poster Greek Theatre"><img src="{{ '/assets/images/marketplace-covers/b139e6959141b1a0be5d.jpg' | relative_url }}" alt="Listing image for Missing Persons Concert Poster Greek Theatre" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">Missing Persons Concert Poster Greek Theatre</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missing persons poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: missing persons poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for For Fan Missing Persons Band Ablum Poster Red T-shirt S to 5XL"><img src="{{ '/assets/images/marketplace-covers/a509598f94cd70967db4.jpg' | relative_url }}" alt="Listing image for For Fan Missing Persons Band Ablum Poster Red T-shirt S to 5XL" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">For Fan Missing Persons Band Ablum Poster Red T-shirt S to 5XL</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missing persons poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: missing persons poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for For Fan Missing Persons Band Ablum Poster Red T-shirt S to 5XL"><img src="{{ '/assets/images/marketplace-covers/a509598f94cd70967db4.jpg' | relative_url }}" alt="Listing image for For Fan Missing Persons Band Ablum Poster Red T-shirt S to 5XL" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">For Fan Missing Persons Band Ablum Poster Red T-shirt S to 5XL</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missing persons poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: missing persons poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-411-when-missing-person-patterns-go-too-far-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -616,7 +616,7 @@ Within Fortean retellings, *Missing 411* therefore serves as a useful case study
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -636,7 +636,7 @@ Within Fortean retellings, *Missing 411* therefore serves as a useful case study
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -668,7 +668,7 @@ Within Fortean retellings, *Missing 411* therefore serves as a useful case study
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -720,7 +720,7 @@ Within Fortean retellings, *Missing 411* therefore serves as a useful case study
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -765,7 +765,7 @@ Within Fortean retellings, *Missing 411* therefore serves as a useful case study
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -806,79 +806,79 @@ Within Fortean retellings, *Missing 411* therefore serves as a useful case study
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2017/07/an-investigation-of-the-missing411-conspiracy/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/07/an-investigation-of-the-missing411-conspiracy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An Investigation of the Missing411 ConspiracyPaulides has classified over 1,440 missing persons cases under the Missing411 label...</p></details>
+   Link:<a href="https://skepticalinquirer.org/2017/07/an-investigation-of-the-missing411-conspiracy/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/07/an-investigation-of-the-missing411-conspiracy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An Investigation of the Missing411 ConspiracyPaulides has classified over 1,440 missing persons cases under the Missing411 label...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/exclusive/assessing-the-missing-411-conspiracy-theory-a-conversation-with-data-skeptic-kyle-polich/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/exclusive/assessing-the-missing-411-conspiracy-theory-a-conversation-with-data-skeptic-kyle-polich/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing the Missing 411 Conspiracy Theory29 Mar 2023 — This conspiracy theory is the invention of a single individual: [Bigfoot](&amp;#123;&amp;#123; &#x27;bigfoot/&#x27; | relative_url &amp;#125;&amp;#125;) proponen...</p></details>
+   Link:<a href="https://skepticalinquirer.org/exclusive/assessing-the-missing-411-conspiracy-theory-a-conversation-with-data-skeptic-kyle-polich/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/exclusive/assessing-the-missing-411-conspiracy-theory-a-conversation-with-data-skeptic-kyle-polich/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing the Missing 411 Conspiracy Theory29 Mar 2023 — This conspiracy theory is the invention of a single individual: [Bigfoot](&amp;#123;&amp;#123; &#x27;bigfoot/&#x27; | relative_url &amp;#125;&amp;#125;) proponen...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/David_Paulides" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/David_Paulides</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>David PaulidesMissing 411 is a series of self-published books and films, which document cases of people who have gone missing in national...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/David_Paulides" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/David_Paulides</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David PaulidesMissing 411 is a series of self-published books and films, which document cases of people who have gone missing in national...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/mystery/comments/1k9fl1g/missing_411_a_mystery_that_doesnt_sit_right_with/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/mystery/comments/1k9fl1g/missing_411_a_mystery_that_doesnt_sit_right_with/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Missing 411 - A Mystery That Doesn&#x27;t Sit Right With MeBasically, many 411 cases were completely misrepresented to make them seem mysterio...</p></details>
+   Link:<a href="https://www.reddit.com/r/mystery/comments/1k9fl1g/missing_411_a_mystery_that_doesnt_sit_right_with/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/mystery/comments/1k9fl1g/missing_411_a_mystery_that_doesnt_sit_right_with/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Missing 411 - A Mystery That Doesn&#x27;t Sit Right With MeBasically, many 411 cases were completely misrepresented to make them seem mysterio...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/crimejunkie/posts/895427921285585/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/crimejunkie/posts/895427921285585/</a>  
+   Link:<a href="https://www.facebook.com/groups/crimejunkie/posts/895427921285585/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/crimejunkie/posts/895427921285585/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: medium.com  
    Title: What the First Statistical Analysis of the Missing 411 Data  
-   Link: <a href="https://medium.com/words-of-tomorrow/what-the-first-statistical-analysis-of-the-missing-411-data-reveals-about-the-phenomenon-9d743e788246" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/words-of-tomorrow/what-the-first-statistical-analysis-of-the-missing-411-data-reveals-about-the-phenomenon-9d743e788246</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>David Paulides, who put together the profile and list of cases that qualify as conventionally unexplainable. I asked him whether he put t...</p></details>
+   Link:<a href="https://medium.com/words-of-tomorrow/what-the-first-statistical-analysis-of-the-missing-411-data-reveals-about-the-phenomenon-9d743e788246" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/words-of-tomorrow/what-the-first-statistical-analysis-of-the-missing-411-data-reveals-about-the-phenomenon-9d743e788246</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David Paulides, who put together the profile and list of cases that qualify as conventionally unexplainable. I asked him whether he put t...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
    Title: 348550578 The Mishandling of the Missing 411 Phenomenon  
-   Link: <a href="https://www.researchgate.net/publication/348550578_The_Mishandling_of_the_Missing_411_Phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/348550578_The_Mishandling_of_the_Missing_411_Phenomenon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Mishandling of the Missing 411 Phenomenon16 Jan 2021 — The article is a compilation of data and research taking a critical eye...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/348550578_The_Mishandling_of_the_Missing_411_Phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/348550578_The_Mishandling_of_the_Missing_411_Phenomenon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Mishandling of the Missing 411 Phenomenon16 Jan 2021 — The article is a compilation of data and research taking a critical eye...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: podcasts.apple.com  
-   Link: <a href="https://podcasts.apple.com/es/podcast/the-missing-411-part-2/id923527373?i=1000580601049" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/es/podcast/the-missing-411-part-2/id923527373?i=1000580601049</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Missing 411 Part 2 - Astonishing LegendsAre blunders in the reporting, whatever the intent, proof that nothing extraordinary is going on?...</p></details>
+   Link:<a href="https://podcasts.apple.com/es/podcast/the-missing-411-part-2/id923527373?i=1000580601049" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/es/podcast/the-missing-411-part-2/id923527373?i=1000580601049</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Missing 411 Part 2 - Astonishing LegendsAre blunders in the reporting, whatever the intent, proof that nothing extraordinary is going on?...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: I Investigated the Strangest Missing People Cases (Missing 411)  
-   Link: <a href="https://www.youtube.com/watch?v=OgCJ1beZQ40" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OgCJ1beZQ40</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Missing 411 skeptic analysis evidence gap 8 People Vanished Leaving Evidence That Defies Explanation | Missing 411 Echo-7...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OgCJ1beZQ40" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OgCJ1beZQ40</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Missing 411 skeptic analysis evidence gap 8 People Vanished Leaving Evidence That Defies Explanation | Missing 411 Echo-7...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: imdb.com  
    Title: Missing 411: National Parks  
-   Link: <a href="https://www.imdb.com/title/tt40835343/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt40835343/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Washington State (2026)This documentary exposes disturbing patterns and federal secrecy surrounding those who vanish on public land.Inves...</p></details>
+   Link:<a href="https://www.imdb.com/title/tt40835343/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt40835343/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Washington State (2026)This documentary exposes disturbing patterns and federal secrecy surrounding those who vanish on public land.Inves...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=fKIQeY8TAhI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fKIQeY8TAhI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>g missing in our national parks. The former police officer turned...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=fKIQeY8TAhI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fKIQeY8TAhI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>g missing in our national parks. The former police officer turned...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: podcasts.apple.com  
-   Link: <a href="https://podcasts.apple.com/us/podcast/the-missing-411-part-2/id923527373?i=1000580601049" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/us/podcast/the-missing-411-part-2/id923527373?i=1000580601049</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Missing 411 Part 2 - Astonishing LegendsSep 26, 2022 — We then take a closer look at a few more puzzling cases and, with a critical eye...</p></details>
+   Link:<a href="https://podcasts.apple.com/us/podcast/the-missing-411-part-2/id923527373?i=1000580601049" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/us/podcast/the-missing-411-part-2/id923527373?i=1000580601049</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Missing 411 Part 2 - Astonishing LegendsSep 26, 2022 — We then take a closer look at a few more puzzling cases and, with a critical eye...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: David Paulides is Lying About Missing 411  
-   Link: <a href="https://www.youtube.com/watch?v=Uj0_v06qTAM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Uj0_v06qTAM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is Something Supernatural Responsible for Missing 411? | An Analysis...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Uj0_v06qTAM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Uj0_v06qTAM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is Something Supernatural Responsible for Missing 411? | An Analysis...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: The Missing 411 Mystery Has A Solution. You Won't Like It  
-   Link: <a href="https://www.youtube.com/watch?v=RxixM-WuV0Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RxixM-WuV0Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>David Paulides is Lying About Missing 411...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=RxixM-WuV0Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RxixM-WuV0Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David Paulides is Lying About Missing 411...</p></details>

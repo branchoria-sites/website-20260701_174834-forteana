@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /forteana-50bdc8-newspaper-clippings/
 description: Focused pages that expand on Newspapers.
-date: '2026-07-01'
+date: '2026'
 layout: default
 parent_basename: forteana_50bdc8_newspaper_clippings_7fc540
 parent_title: Newspapers
@@ -16,7 +16,7 @@ parent_permalink: /newspapers/
 
 # Explore Topics in Newspapers
 
-The following pages expand on the main **[Newspapers]({{ '/newspapers/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Newspapers]({{ '/newspapers/' | relative_url }})** page and cover its key branches in.
 
 - [Cross Checks]({{ '/cross-checks/' | relative_url }})
 - [Devil Tracks]({{ '/devil-tracks/' | relative_url }})

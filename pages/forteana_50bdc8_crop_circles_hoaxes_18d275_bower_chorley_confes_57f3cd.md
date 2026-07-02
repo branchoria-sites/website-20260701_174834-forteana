@@ -274,47 +274,47 @@ image: /assets/images/forteana_50bdc8_crop_circles_hoaxes_18d275_bower_chorley_c
 
 ## Introduction
 
-The public confession by Doug Bower and Dave Chorley in September 1991 did not end the crop-circle mystery, but it fundamentally changed it. Until then, many discussions centred on whether increasingly elaborate formations required an unknown natural force, extraterrestrial intelligence or another unexplained cause. After the confession, the central question shifted. The existence of convincing human-made formations was no longer hypothetical: two men had described their methods, demonstrated them publicly and claimed responsibility for hundreds of circles created over more than a decade. Contemporary reporting, later historical accounts and demonstrations all showed that impressive designs could be produced with simple tools, forcing believers and investigators alike to reconsider what counted as persuasive evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/archives/la-xpm-1991-09-10-mn-2463-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">la xpm 1991 09 10 mn 2463 story</span><span class="citation-popover-snippet">Los Angeles Times&#x27;Crop Circles&#x27; Their Prank, 2 Britons Say: Hoax10 Sept 1991 — British painters Doug Bower and Dave Chorley, 62, claimed...</span></span></span>
+The public confession by Doug Bower and Dave Chorley in September 1991 did not end the crop-circle mystery, but it fundamentally changed it. Until then, many discussions centred on whether increasingly elaborate formations required an unknown natural force, extraterrestrial intelligence or another unexplained cause. After the confession, the central question shifted. The existence of convincing human-made formations was no longer hypothetical: two men had described their methods, demonstrated them publicly and claimed responsibility for hundreds of circles created over more than a decade. Contemporary reporting, later historical accounts and demonstrations all showed that impressive designs could be produced with simple tools, forcing believers and investigators alike to reconsider what counted as persuasive evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/archives/la-xpm-1991-09-10-mn-2463-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">la xpm 1991 09 10 mn 2463 story</span><span class="citation-popover-snippet">Los Angeles Times&#x27;Crop Circles&#x27; Their Prank, 2 Britons Say: Hoax10 Sept 1991 — British painters Doug Bower and Dave Chorley, 62, claimed...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_crop_circles_hoaxes_18d275_bower_chorley_confes_57f3cd-Illustration-1-dark.svg" | relative_url }}" alt="1991 Confession illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_crop_circles_hoaxes_18d275_bower_chorley_confes_57f3cd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_crop_circles_hoaxes_18d275_bower_chorley_confes_57f3cd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Bower and Chorley said they made
 
-Doug Bower and Dave Chorley, two retired men from southern England, told the newspaper *Today* that they had begun making crop circles in the late 1970s after Bower had read about the 1966 Tully "saucer nest" incident in Australia. According to their account, they initially intended to create simple circular patterns that would encourage speculation about UFO landings. As public fascination grew, they continued the project for years, gradually refining their techniques while enjoying the growing mythology surrounding the formations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.todayifoundout.com/index.php/2016/03/two-men-started-phenomenon-crop-circles-planks-wire/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: todayifoundout.com">[Today I Found Out+2thecroppie.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">todayifoundout.com</span><span class="citation-popover-title">two men started phenomenon crop circles planks wire</span><span class="citation-popover-snippet">Today I Found OutThe Story Behind the Crop Circle Phenomenon29 Mar 2016 — With his wife&#x27;s blessing, Bower and Chorley continued making cr...</span></span></span>
+Doug Bower and Dave Chorley, two retired men from southern England, told the newspaper *Today* that they had begun making crop circles in the late 1970s after Bower had read about the 1966 Tully "saucer nest" incident in Australia. According to their account, they initially intended to create simple circular patterns that would encourage speculation about UFO landings. As public fascination grew, they continued the project for years, gradually refining their techniques while enjoying the growing mythology surrounding the formations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.todayifoundout.com/index.php/2016/03/two-men-started-phenomenon-crop-circles-planks-wire/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: todayifoundout.com">[Today I Found Out+2thecroppie.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">todayifoundout.com</span><span class="citation-popover-title">two men started phenomenon crop circles planks wire</span><span class="citation-popover-snippet">Today I Found OutThe Story Behind the Crop Circle Phenomenon29 Mar 2016 — With his wife&#x27;s blessing, Bower and Chorley continued making cr...</span></span></span>
 
-The pair did not claim responsibility for every crop circle ever reported. Rather, they said they had created more than 200 formations between 1978 and 1991 and had produced virtually all of the well-known English circles before the late 1980s, after which they believed copycat makers had begun creating their own designs. This distinction is often overlooked in later [retellings]({{ 'retellings/' | relative_url }}), which sometimes exaggerate their confession into a claim that they had made every crop circle worldwide. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Crop_circle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2thecroppie.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Crop circle</span><span class="citation-popover-snippet">Crop circle</span></span></span>
+The pair did not claim responsibility for every crop circle ever reported. Rather, they said they had created more than 200 formations between 1978 and 1991 and had produced virtually all of the well-known English circles before the late 1980s, after which they believed copycat makers had begun creating their own designs. This distinction is often overlooked in later [retellings]({{ 'retellings/' | relative_url }}), which sometimes exaggerate their confession into a claim that they had made every crop circle worldwide.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Crop_circle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2thecroppie.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Crop circle</span><span class="citation-popover-snippet">Crop circle</span></span></span>
 
-Their confession also included practical details that strengthened its credibility. They described using little more than wooden planks attached to ropes to flatten crops, together with a simple wire sight fixed to a cap to maintain straight lines and symmetry. The methods were ordinary rather than technological, which was precisely why they proved so disruptive to paranormal explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.todayifoundout.com/index.php/2016/03/two-men-started-phenomenon-crop-circles-planks-wire/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: todayifoundout.com">[Today I Found Out]</a><span class="citation-popover" role="note"><span class="citation-popover-source">todayifoundout.com</span><span class="citation-popover-title">two men started phenomenon crop circles planks wire</span><span class="citation-popover-snippet">Today I Found OutThe Story Behind the Crop Circle Phenomenon29 Mar 2016 — With his wife&#x27;s blessing, Bower and Chorley continued making cr...</span></span></span>
+Their confession also included practical details that strengthened its credibility. They described using little more than wooden planks attached to ropes to flatten crops, together with a simple wire sight fixed to a cap to maintain straight lines and symmetry. The methods were ordinary rather than technological, which was precisely why they proved so disruptive to paranormal explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.todayifoundout.com/index.php/2016/03/two-men-started-phenomenon-crop-circles-planks-wire/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: todayifoundout.com">[Today I Found Out]</a><span class="citation-popover" role="note"><span class="citation-popover-source">todayifoundout.com</span><span class="citation-popover-title">two men started phenomenon crop circles planks wire</span><span class="citation-popover-snippet">Today I Found OutThe Story Behind the Crop Circle Phenomenon29 Mar 2016 — With his wife&#x27;s blessing, Bower and Chorley continued making cr...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UC0JzXBW2Vg" title="BBC1 &#x27;Painting Circles in the Corn&#x27; ( crop circles ) Jim Chorley..." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UC0JzXBW2Vg" target="_blank" rel="noopener noreferrer">BBC1 &#x27;Painting Circles in the Corn&#x27; ( crop circles ) Jim Chorley...</a></p><p class="youtube-embed-meta">Channel: Jim Chorley</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UC0JzXBW2Vg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UC0JzXBW2Vg">Open on YouTube</a></p></div></div></div>
 
 ## Why the demonstrated methods mattered
 
-The confession alone might have remained controversial had it not been accompanied by demonstration. Under journalistic [observation]({{ 'observation/' | relative_url }}), Bower and Chorley recreated a crop circle using the techniques they described. The resulting formation was then shown to Pat Delgado, one of the best-known crop-circle investigators and co-author of *Circular Evidence*. Believing he was examining a newly discovered formation, Delgado reportedly judged it to possess characteristics that indicated a genuine unexplained event. Only afterwards was he told that the circle had been created by the two confessed hoaxers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/archives/la-xpm-1991-09-10-mn-2463-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times+2www2.nau.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">la xpm 1991 09 10 mn 2463 story</span><span class="citation-popover-snippet">Los Angeles Times&#x27;Crop Circles&#x27; Their Prank, 2 Britons Say: Hoax10 Sept 1991 — British painters Doug Bower and Dave Chorley, 62, claimed...</span></span></span>
+The confession alone might have remained controversial had it not been accompanied by demonstration. Under journalistic [observation]({{ 'observation/' | relative_url }}), Bower and Chorley recreated a crop circle using the techniques they described. The resulting formation was then shown to Pat Delgado, one of the best-known crop-circle investigators and co-author of *Circular Evidence*. Believing he was examining a newly discovered formation, Delgado reportedly judged it to possess characteristics that indicated a genuine unexplained event. Only afterwards was he told that the circle had been created by the two confessed hoaxers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/archives/la-xpm-1991-09-10-mn-2463-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times+2www2.nau.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">la xpm 1991 09 10 mn 2463 story</span><span class="citation-popover-snippet">Los Angeles Times&#x27;Crop Circles&#x27; Their Prank, 2 Britons Say: Hoax10 Sept 1991 — British painters Doug Bower and Dave Chorley, 62, claimed...</span></span></span>
 
-This episode became one of the defining moments in the history of crop-circle research because it demonstrated an important methodological problem. If experienced investigators could not reliably distinguish a freshly made human construction from one they regarded as authentic, then appearance alone could no longer serve as convincing evidence for extraordinary origins. The burden increasingly shifted from asking whether a formation looked mysterious to asking whether there was independent evidence that it could not have been produced by people. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/archives/la-xpm-1991-09-10-mn-2463-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">la xpm 1991 09 10 mn 2463 story</span><span class="citation-popover-snippet">Los Angeles Times&#x27;Crop Circles&#x27; Their Prank, 2 Britons Say: Hoax10 Sept 1991 — British painters Doug Bower and Dave Chorley, 62, claimed...</span></span></span>
+This episode became one of the defining moments in the history of crop-circle research because it demonstrated an important methodological problem. If experienced investigators could not reliably distinguish a freshly made human construction from one they regarded as authentic, then appearance alone could no longer serve as convincing evidence for extraordinary origins. The burden increasingly shifted from asking whether a formation looked mysterious to asking whether there was independent evidence that it could not have been produced by people.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/archives/la-xpm-1991-09-10-mn-2463-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">la xpm 1991 09 10 mn 2463 story</span><span class="citation-popover-snippet">Los Angeles Times&#x27;Crop Circles&#x27; Their Prank, 2 Britons Say: Hoax10 Sept 1991 — British painters Doug Bower and Dave Chorley, 62, claimed...</span></span></span>
 
-Equally significant was the revelation that complexity itself was not proof of non-human agency. Until then, many arguments had relied on the assumption that large, geometrically precise patterns exceeded what two people could create overnight. Bower and Chorley's demonstration showed that careful planning, simple surveying methods and familiarity with the landscape could produce results that many observers had assumed required advanced technology or unknown forces. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.todayifoundout.com/index.php/2016/03/two-men-started-phenomenon-crop-circles-planks-wire/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: todayifoundout.com">[Today I Found Out]</a><span class="citation-popover" role="note"><span class="citation-popover-source">todayifoundout.com</span><span class="citation-popover-title">two men started phenomenon crop circles planks wire</span><span class="citation-popover-snippet">Today I Found OutThe Story Behind the Crop Circle Phenomenon29 Mar 2016 — With his wife&#x27;s blessing, Bower and Chorley continued making cr...</span></span></span>
+Equally significant was the revelation that complexity itself was not proof of non-human agency. Until then, many arguments had relied on the assumption that large, geometrically precise patterns exceeded what two people could create overnight. Bower and Chorley's demonstration showed that careful planning, simple surveying methods and familiarity with the landscape could produce results that many observers had assumed required advanced technology or unknown forces.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.todayifoundout.com/index.php/2016/03/two-men-started-phenomenon-crop-circles-planks-wire/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: todayifoundout.com">[Today I Found Out]</a><span class="citation-popover" role="note"><span class="citation-popover-source">todayifoundout.com</span><span class="citation-popover-title">two men started phenomenon crop circles planks wire</span><span class="citation-popover-snippet">Today I Found OutThe Story Behind the Crop Circle Phenomenon29 Mar 2016 — With his wife&#x27;s blessing, Bower and Chorley continued making cr...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_crop_circles_hoaxes_18d275_bower_chorley_confes_57f3cd-Illustration-2-dark.svg" | relative_url }}" alt="1991 Confession illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_crop_circles_hoaxes_18d275_bower_chorley_confes_57f3cd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_crop_circles_hoaxes_18d275_bower_chorley_confes_57f3cd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the mystery survived
 
-The confession dramatically weakened claims that crop circles as a whole represented unexplained physical phenomena, but it did not persuade everyone. Some researchers argued that Bower and Chorley had explained only a portion of the known formations. Others pointed to increasingly elaborate pictograms that appeared after the confession, suggesting that these exceeded the abilities demonstrated by the two men. Critics of the confession also noted that crop circles had appeared outside Britain, beyond locations where Bower and Chorley had worked. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.todayifoundout.com/index.php/2016/03/two-men-started-phenomenon-crop-circles-planks-wire/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: todayifoundout.com">[Today I Found Out]</a><span class="citation-popover" role="note"><span class="citation-popover-source">todayifoundout.com</span><span class="citation-popover-title">two men started phenomenon crop circles planks wire</span><span class="citation-popover-snippet">Today I Found OutThe Story Behind the Crop Circle Phenomenon29 Mar 2016 — With his wife&#x27;s blessing, Bower and Chorley continued making cr...</span></span></span>
+The confession dramatically weakened claims that crop circles as a whole represented unexplained physical phenomena, but it did not persuade everyone. Some researchers argued that Bower and Chorley had explained only a portion of the known formations. Others pointed to increasingly elaborate pictograms that appeared after the confession, suggesting that these exceeded the abilities demonstrated by the two men. Critics of the confession also noted that crop circles had appeared outside Britain, beyond locations where Bower and Chorley had worked.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.todayifoundout.com/index.php/2016/03/two-men-started-phenomenon-crop-circles-planks-wire/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: todayifoundout.com">[Today I Found Out]</a><span class="citation-popover" role="note"><span class="citation-popover-source">todayifoundout.com</span><span class="citation-popover-title">two men started phenomenon crop circles planks wire</span><span class="citation-popover-snippet">Today I Found OutThe Story Behind the Crop Circle Phenomenon29 Mar 2016 — With his wife&#x27;s blessing, Bower and Chorley continued making cr...</span></span></span>
 
-Supporters of the human-origin explanation responded that these objections actually illustrated the confession's wider influence. Once the methods became publicly known, other artists and pranksters adopted and expanded them. Rather than disproving the confession, the growing diversity of crop circles could be understood as evidence of imitation. What had begun as a local prank had become an international form of environmental art, performance and media spectacle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.historicmysteries.com/history/crop-circles/32175/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historicmysteries.com">[Historic Mysteries+2Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historicmysteries.com</span><span class="citation-popover-snippet">Historic MysteriesDoug, Dave, and Crop Circles: The Men Who Conned...22 Apr 2023 — Bower and Chorley claimed to have made all crop circl...</span></span></span>
+Supporters of the human-origin explanation responded that these objections actually illustrated the confession's wider influence. Once the methods became publicly known, other artists and pranksters adopted and expanded them. Rather than disproving the confession, the growing diversity of crop circles could be understood as evidence of imitation. What had begun as a local prank had become an international form of environmental art, performance and media spectacle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.historicmysteries.com/history/crop-circles/32175/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historicmysteries.com">[Historic Mysteries+2Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historicmysteries.com</span><span class="citation-popover-snippet">Historic MysteriesDoug, Dave, and Crop Circles: The Men Who Conned...22 Apr 2023 — Bower and Chorley claimed to have made all crop circl...</span></span></span>
 
-This shift also explains why crop-circle debates became less about whether humans *could* make sophisticated formations and more about whether any individual case displayed evidence that genuinely ruled out human authorship. The discussion became narrower and more case-specific instead of relying on the overall existence of crop circles as evidence for extraordinary causes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Crop_circle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Crop circle</span><span class="citation-popover-snippet">Crop circle</span></span></span>
+This shift also explains why crop-circle debates became less about whether humans *could* make sophisticated formations and more about whether any individual case displayed evidence that genuinely ruled out human authorship. The discussion became narrower and more case-specific instead of relying on the overall existence of crop circles as evidence for extraordinary causes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Crop_circle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Crop circle</span><span class="citation-popover-snippet">Crop circle</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ep_AxaWBVPs" title="How are Crop Circles Made?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ep_AxaWBVPs" target="_blank" rel="noopener noreferrer">How are Crop Circles Made?</a></p><p class="youtube-embed-meta">Channel: History of Simple Things</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ep_AxaWBVPs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ep_AxaWBVPs">Open on YouTube</a></p></div></div></div>
 
 ## How believers and investigators adapted afterward
 
-After 1991, crop-circle research increasingly divided into two approaches. Skeptical investigators regarded the confession as establishing a default explanation: any new formation should be presumed human-made unless compelling evidence suggested otherwise. They argued that demonstrated techniques, copycat activity and later commercial circle-making made this the simplest explanation for most cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Crop_circle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Crop circle</span><span class="citation-popover-snippet">Crop circle</span></span></span>
+After 1991, crop-circle research increasingly divided into two approaches. Skeptical investigators regarded the confession as establishing a default explanation: any new formation should be presumed human-made unless compelling evidence suggested otherwise. They argued that demonstrated techniques, copycat activity and later commercial circle-making made this the simplest explanation for most cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Crop_circle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Crop circle</span><span class="citation-popover-snippet">Crop circle</span></span></span>
 
-Believers, by contrast, refined their standards. Rather than treating every crop circle as potentially paranormal, they began distinguishing between ordinary human-made formations and a smaller category of allegedly "genuine" circles. Proposed indicators included unusual plant changes, reported luminous phenomena or exceptional geometric precision. These claims remained controversial, but the important historical point is that they represented an adaptation to the challenge posed by the confession rather than a continuation of the earlier debate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Crop_circle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Crop circle</span><span class="citation-popover-snippet">Crop circle</span></span></span>
+Believers, by contrast, refined their standards. Rather than treating every crop circle as potentially paranormal, they began distinguishing between ordinary human-made formations and a smaller category of allegedly "genuine" circles. Proposed indicators included unusual plant changes, reported luminous phenomena or exceptional geometric precision. These claims remained controversial, but the important historical point is that they represented an adaptation to the challenge posed by the confession rather than a continuation of the earlier debate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Crop_circle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Crop circle</span><span class="citation-popover-snippet">Crop circle</span></span></span>
 
 The confession therefore changed not only public opinion but also investigative practice. Human craftsmanship was no longer the alternative explanation that critics merely proposed; it had become an established part of the phenomenon's documented history.
 
@@ -324,201 +324,201 @@ The confession therefore changed not only public opinion but also investigative 
 
 The significance of Bower and Chorley's confession lies less in proving who made every crop circle than in redefining what required explanation. Before 1991, many discussions assumed that the striking appearance of crop circles itself demanded an extraordinary cause. After the confession, that assumption could no longer be maintained without additional evidence.
 
-In the broader history of Fortean subjects, the episode illustrates how a successful hoax can transform rather than eliminate a mystery. Crop circles did not disappear after the confession. Instead, they evolved into a cultural phenomenon combining landscape art, media attention, [folklore]({{ 'folklore/' | relative_url }}) and continuing paranormal belief. Bower and Chorley demonstrated that ordinary people could produce extraordinary-looking evidence, and that lesson permanently altered how crop circles were interpreted, investigated and debated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/arts-culture/crop-circles-the-art-of-the-hoax-2524283/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-snippet">Smithsonian MagazineCrop Circles: The Art of the Hoax15 Dec 2009 — Crop circle makers Doug Bower (right) and Dave Chorley planning their...</span></span></span>
+In the broader history of Fortean subjects, the episode illustrates how a successful hoax can transform rather than eliminate a mystery. Crop circles did not disappear after the confession. Instead, they evolved into a cultural phenomenon combining landscape art, media attention, [folklore]({{ 'folklore/' | relative_url }}) and continuing paranormal belief. Bower and Chorley demonstrated that ordinary people could produce extraordinary-looking evidence, and that lesson permanently altered how crop circles were interpreted, investigated and debated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/arts-culture/crop-circles-the-art-of-the-hoax-2524283/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-snippet">Smithsonian MagazineCrop Circles: The Art of the Hoax15 Dec 2009 — Crop circle makers Doug Bower (right) and Dave Chorley planning their...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oxLaxe4HVt4" title="Episode 206 Crop Circles Part 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oxLaxe4HVt4" target="_blank" rel="noopener noreferrer">Episode 206 Crop Circles Part 1</a></p><p class="youtube-embed-meta">Channel: Astonishing Legends</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oxLaxe4HVt4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oxLaxe4HVt4">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did the 1991 Confession End the Mystery?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did the 1991 Confession End the Mystery?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Matches the article&#x27;s focus on how evidence changed after the confession.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches the article&#x27;s focus on how evidence changed after the confession.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+skeptic%27s+dictionary+Robert+Todd+Carroll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The skeptic&#x27;s dictionary on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6410740-M.jpg" alt="Cover for The skeptic&#x27;s dictionary" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+skeptic%27s+dictionary+Robert+Todd+Carroll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The skeptic&#x27;s dictionary">The skeptic&#x27;s dictionary</a>
-        </h4>
-        <p class="fr-book-author">By Robert Todd Carroll</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+skeptic%27s+dictionary+Robert+Todd+Carroll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The skeptic&#x27;s dictionary on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6410740-M.jpg" alt="Cover for The skeptic&#x27;s dictionary" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+skeptic%27s+dictionary+Robert+Todd+Carroll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The skeptic&#x27;s dictionary">The skeptic&#x27;s dictionary</a>
+</h4>
+<p class="fr-book-author">By Robert Todd Carroll</p>
         
-        <p class="fr-book-desc">First published 2003. Subjects: Nonfiction, Science, Pseudoscience, Encyclopedias, Science, dictionaries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+skeptic%27s+dictionary+Robert+Todd+Carroll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2003. Subjects: Nonfiction, Science, Pseudoscience, Encyclopedias, Science, dictionaries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+skeptic%27s+dictionary+Robert+Todd+Carroll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Unexplained+phenomena+John+F.+Michell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Unexplained phenomena on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/911775-M.jpg" alt="Cover for Unexplained phenomena" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Unexplained+phenomena+John+F.+Michell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Unexplained phenomena">Unexplained phenomena</a>
-        </h4>
-        <p class="fr-book-author">By John F. Michell, John Michell et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Unexplained+phenomena+John+F.+Michell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Unexplained phenomena on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/911775-M.jpg" alt="Cover for Unexplained phenomena" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Unexplained+phenomena+John+F.+Michell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Unexplained phenomena">Unexplained phenomena</a>
+</h4>
+<p class="fr-book-author">By John F. Michell, John Michell et al.</p>
         
-        <p class="fr-book-desc">First published 2000. Subjects: Curiosities and wonders, Reference works, Unexplained phenomena, Metaphysical Phenomena - General, Refere...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Unexplained+phenomena+John+F.+Michell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2000. Subjects: Curiosities and wonders, Reference works, Unexplained phenomena, Metaphysical Phenomena - General, Refere...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Unexplained+phenomena+John+F.+Michell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mysteries of the Unexplained on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysteries of the Unexplained">Mysteries of the Unexplained</a>
-        </h4>
-        <p class="fr-book-author">By Reader&#x27;s Digest Association</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mysteries of the Unexplained on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysteries of the Unexplained">Mysteries of the Unexplained</a>
+</h4>
+<p class="fr-book-author">By Reader&#x27;s Digest Association</p>
         
-        <p class="fr-book-desc">First published 1985.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1985.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+skeptic%27s+dictionary&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The skeptic&#x27;s dictionary</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Unexplained+phenomena&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Unexplained phenomena</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+skeptic%27s+dictionary&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The skeptic&#x27;s dictionary</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Unexplained+phenomena&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Unexplained phenomena</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &quot;Lilac Mystery&quot; Original Handmade Acrylic Canvas Painting Wall Art Gift Idea"><img src="{{ '/assets/images/marketplace-covers/1cb7fd0276a469bd10b1.jpg' | relative_url }}" alt="Listing image for &quot;Lilac Mystery&quot; Original Handmade Acrylic Canvas Painting Wall Art Gift Idea" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">&quot;Lilac Mystery&quot; Original Handmade Acrylic Canvas Painting Wall Art Gift Idea</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &quot;Lilac Mystery&quot; Original Handmade Acrylic Canvas Painting Wall Art Gift Idea"><img src="{{ '/assets/images/marketplace-covers/1cb7fd0276a469bd10b1.jpg' | relative_url }}" alt="Listing image for &quot;Lilac Mystery&quot; Original Handmade Acrylic Canvas Painting Wall Art Gift Idea" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">&quot;Lilac Mystery&quot; Original Handmade Acrylic Canvas Painting Wall Art Gift Idea</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mystery Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ca24716f9f89915101b9.jpg' | relative_url }}" alt="Listing image for Mystery Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Mystery Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mystery Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ca24716f9f89915101b9.jpg' | relative_url }}" alt="Listing image for Mystery Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Mystery Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mystery forest Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5eb2b9bf8e926c565ad6.jpg' | relative_url }}" alt="Listing image for Mystery forest Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Mystery forest Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mystery forest Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5eb2b9bf8e926c565ad6.jpg' | relative_url }}" alt="Listing image for Mystery forest Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Mystery forest Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gothic Silhouette Painting on Rustic Wood | Staircase Mystery Wall Art"><img src="{{ '/assets/images/marketplace-covers/7f3f2c5e40c1a5c1ca26.jpg' | relative_url }}" alt="Listing image for Gothic Silhouette Painting on Rustic Wood | Staircase Mystery Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Gothic Silhouette Painting on Rustic Wood | Staircase Mystery Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gothic Silhouette Painting on Rustic Wood | Staircase Mystery Wall Art"><img src="{{ '/assets/images/marketplace-covers/7f3f2c5e40c1a5c1ca26.jpg' | relative_url }}" alt="Listing image for Gothic Silhouette Painting on Rustic Wood | Staircase Mystery Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Gothic Silhouette Painting on Rustic Wood | Staircase Mystery Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="1991-confession-did-the-1991-confession-end-the-mystery-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -534,7 +534,7 @@ In the broader history of Fortean subjects, the episode illustrates how a succes
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -554,7 +554,7 @@ In the broader history of Fortean subjects, the episode illustrates how a succes
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -586,7 +586,7 @@ In the broader history of Fortean subjects, the episode illustrates how a succes
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -638,7 +638,7 @@ In the broader history of Fortean subjects, the episode illustrates how a succes
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -683,7 +683,7 @@ In the broader history of Fortean subjects, the episode illustrates how a succes
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -724,105 +724,105 @@ In the broader history of Fortean subjects, the episode illustrates how a succes
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Crop circle  
-   Link: <a href="https://en.wikipedia.org/wiki/Crop_circle" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Crop_circle</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Crop_circle" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Crop_circle</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: thecroppie.com  
    Title: doug bower 25 june 1924 21 july 2018  
-   Link: <a href="https://thecroppie.com/2018/07/23/doug-bower-25-june-1924-21-july-2018/" target="_blank" rel="noopener noreferrer nofollow">https://thecroppie.com/2018/07/23/doug-bower-25-june-1924-21-july-2018/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Doug Bower: 25 June 1924 – 21 July 201823 Jul 2018 — Bower earned infamy in 1991 when, with his friend Dave Chorley, he confessed to TODA...</p></details>
+   Link:<a href="https://thecroppie.com/2018/07/23/doug-bower-25-june-1924-21-july-2018/" target="_blank" rel="noopener noreferrer nofollow">https://thecroppie.com/2018/07/23/doug-bower-25-june-1924-21-july-2018/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Doug Bower: 25 June 1924 – 21 July 201823 Jul 2018 — Bower earned infamy in 1991 when, with his friend Dave Chorley, he confessed to TODA...</p></details>
    Published: june 1924  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: thecroppie.com  
    Title: ten more crop circle myths that refuse to die  
-   Link: <a href="https://thecroppie.com/2025/01/15/ten-more-crop-circle-myths-that-refuse-to-die/" target="_blank" rel="noopener noreferrer nofollow">https://thecroppie.com/2025/01/15/ten-more-crop-circle-myths-that-refuse-to-die/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>15 Jan 2025 — This is a common misunderstanding still used to discredit Doug Bower and Dave Chorley following their September 1991 confes...</p></details>
+   Link:<a href="https://thecroppie.com/2025/01/15/ten-more-crop-circle-myths-that-refuse-to-die/" target="_blank" rel="noopener noreferrer nofollow">https://thecroppie.com/2025/01/15/ten-more-crop-circle-myths-that-refuse-to-die/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>15 Jan 2025 — This is a common misunderstanding still used to discredit Doug Bower and Dave Chorley following their September 1991 confes...</p></details>
    Published: September 1991  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: www2.nau.edu  
-   Link: <a href="https://www2.nau.edu/~gaud/bio372/class/readings/circ.htm" target="_blank" rel="noopener noreferrer nofollow">https://www2.nau.edu/~gaud/bio372/class/readings/circ.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>revealed, that for the past 13...Read more...</p></details>
+   Link:<a href="https://www2.nau.edu/~gaud/bio372/class/readings/circ.htm" target="_blank" rel="noopener noreferrer nofollow">https://www2.nau.edu/~gaud/bio372/class/readings/circ.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>revealed, that for the past 13...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: latimes.com  
    Title: la xpm 1991 09 10 mn 2463 story  
-   Link: <a href="https://www.latimes.com/archives/la-xpm-1991-09-10-mn-2463-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/archives/la-xpm-1991-09-10-mn-2463-story.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Los Angeles Times&#x27;Crop Circles&#x27; Their Prank, 2 Britons Say: Hoax10 Sept 1991 — British painters Doug Bower and Dave Chorley, 62, claimed...</p></details>
+   Link:<a href="https://www.latimes.com/archives/la-xpm-1991-09-10-mn-2463-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/archives/la-xpm-1991-09-10-mn-2463-story.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Los Angeles Times&#x27;Crop Circles&#x27; Their Prank, 2 Britons Say: Hoax10 Sept 1991 — British painters Doug Bower and Dave Chorley, 62, claimed...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: smithsonianmag.com  
-   Link: <a href="https://www.smithsonianmag.com/arts-culture/crop-circles-the-art-of-the-hoax-2524283/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/arts-culture/crop-circles-the-art-of-the-hoax-2524283/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian MagazineCrop Circles: The Art of the Hoax15 Dec 2009 — Crop circle makers Doug Bower (right) and Dave Chorley planning their...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/arts-culture/crop-circles-the-art-of-the-hoax-2524283/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/arts-culture/crop-circles-the-art-of-the-hoax-2524283/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian MagazineCrop Circles: The Art of the Hoax15 Dec 2009 — Crop circle makers Doug Bower (right) and Dave Chorley planning their...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: todayifoundout.com  
    Title: two men started phenomenon crop circles planks wire  
-   Link: <a href="https://www.todayifoundout.com/index.php/2016/03/two-men-started-phenomenon-crop-circles-planks-wire/" target="_blank" rel="noopener noreferrer nofollow">https://www.todayifoundout.com/index.php/2016/03/two-men-started-phenomenon-crop-circles-planks-wire/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Today I Found OutThe Story Behind the Crop Circle Phenomenon29 Mar 2016 — With his wife&#x27;s blessing, Bower and Chorley continued making cr...</p></details>
+   Link:<a href="https://www.todayifoundout.com/index.php/2016/03/two-men-started-phenomenon-crop-circles-planks-wire/" target="_blank" rel="noopener noreferrer nofollow">https://www.todayifoundout.com/index.php/2016/03/two-men-started-phenomenon-crop-circles-planks-wire/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Today I Found OutThe Story Behind the Crop Circle Phenomenon29 Mar 2016 — With his wife&#x27;s blessing, Bower and Chorley continued making cr...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: historicmysteries.com  
-   Link: <a href="https://www.historicmysteries.com/history/crop-circles/32175/" target="_blank" rel="noopener noreferrer nofollow">https://www.historicmysteries.com/history/crop-circles/32175/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Historic MysteriesDoug, Dave, and Crop Circles: The Men Who Conned...22 Apr 2023 — Bower and Chorley claimed to have made all crop circl...</p></details>
+   Link:<a href="https://www.historicmysteries.com/history/crop-circles/32175/" target="_blank" rel="noopener noreferrer nofollow">https://www.historicmysteries.com/history/crop-circles/32175/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Historic MysteriesDoug, Dave, and Crop Circles: The Men Who Conned...22 Apr 2023 — Bower and Chorley claimed to have made all crop circl...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
    Title: til in 1991 two english pranksters took credit  
-   Link: <a href="https://www.reddit.com/r/todayilearned/comments/m9dz32/til_in_1991_two_english_pranksters_took_credit/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/m9dz32/til_in_1991_two_english_pranksters_took_credit/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>for many of...TIL in 1991 two English pranksters took credit for many of Britain&#x27;s crop circles, after an investigator declared one exam...</p></details>
+   Link:<a href="https://www.reddit.com/r/todayilearned/comments/m9dz32/til_in_1991_two_english_pranksters_took_credit/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/m9dz32/til_in_1991_two_english_pranksters_took_credit/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>for many of...TIL in 1991 two English pranksters took credit for many of Britain&#x27;s crop circles, after an investigator declared one exam...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: chillinkristen.medium.com  
-   Link: <a href="https://chillinkristen.medium.com/the-origin-of-the-crop-circles-con-is-surprisingly-wholesome-8226f9d252fa" target="_blank" rel="noopener noreferrer nofollow">https://chillinkristen.medium.com/the-origin-of-the-crop-circles-con-is-surprisingly-wholesome-8226f9d252fa</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Origin of the Crop Circles Con is Surprisingly WholesomeSo, in 1991, Bower and Chorley held a press conference in a field in [Warminster](&amp;#123;&amp;#123; &#x27;warminster/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link:<a href="https://chillinkristen.medium.com/the-origin-of-the-crop-circles-con-is-surprisingly-wholesome-8226f9d252fa" target="_blank" rel="noopener noreferrer nofollow">https://chillinkristen.medium.com/the-origin-of-the-crop-circles-con-is-surprisingly-wholesome-8226f9d252fa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Origin of the Crop Circles Con is Surprisingly WholesomeSo, in 1991, Bower and Chorley held a press conference in a field in [Warminster](&amp;#123;&amp;#123; &#x27;warminster/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: spookystuff.co.uk  
    Title: Doug and Dave: The Crop Circle Hoaxers  
-   Link: <a href="https://www.spookystuff.co.uk/DougAndDaveTheCropCircleHoaxers.html" target="_blank" rel="noopener noreferrer nofollow">https://www.spookystuff.co.uk/DougAndDaveTheCropCircleHoaxers.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spooky StuffTwo pranksters fooled the world into believing aliens made crop circles, until they revealed the joke in 1991...</p></details>
+   Link:<a href="https://www.spookystuff.co.uk/DougAndDaveTheCropCircleHoaxers.html" target="_blank" rel="noopener noreferrer nofollow">https://www.spookystuff.co.uk/DougAndDaveTheCropCircleHoaxers.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spooky StuffTwo pranksters fooled the world into believing aliens made crop circles, until they revealed the joke in 1991...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: podcasts.apple.com  
-   Link: <a href="https://podcasts.apple.com/il/podcast/crop-circles-part-1/id923527373?i=1000516718274&amp;l=fr" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/il/podcast/crop-circles-part-1/id923527373?i=1000516718274&amp;l=fr</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apple PodcastsCrop Circles Part 1–Astonishing LegendsApr 12, 2021 — When two older British gentlemen, Doug Bower and Dave Chorley, came f...</p></details>
+   Link:<a href="https://podcasts.apple.com/il/podcast/crop-circles-part-1/id923527373?i=1000516718274&amp;l=fr" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/il/podcast/crop-circles-part-1/id923527373?i=1000516718274&amp;l=fr</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Apple PodcastsCrop Circles Part 1–Astonishing LegendsApr 12, 2021 — When two older British gentlemen, Doug Bower and Dave Chorley, came f...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/8640515501/posts/10160012420395502/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/8640515501/posts/10160012420395502/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1991, Today newspaper printed a story of how...In 1991, Today newspaper printed a story of how sexagenarians Doug and Dave made all t...</p></details>
+   Link:<a href="https://www.facebook.com/groups/8640515501/posts/10160012420395502/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/8640515501/posts/10160012420395502/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 1991, Today newspaper printed a story of how...In 1991, Today newspaper printed a story of how sexagenarians Doug and Dave made all t...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=dYV_zpCXYtc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dYV_zpCXYtc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How the Crop Circle Phenomenon Got Started...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=dYV_zpCXYtc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dYV_zpCXYtc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How the Crop Circle Phenomenon Got Started...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: How the Crop Circle Phenomenon Got Started  
-   Link: <a href="https://www.youtube.com/watch?v=axrXPkSnbGc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=axrXPkSnbGc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BBC1 &#x27;Painting Circles in the Corn&#x27; (crop circles) Jim Chorley...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=axrXPkSnbGc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=axrXPkSnbGc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BBC1 &#x27;Painting Circles in the Corn&#x27; (crop circles) Jim Chorley...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: How are Crop Circles Made?  
-   Link: <a href="https://www.youtube.com/watch?v=Ep_AxaWBVPs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ep_AxaWBVPs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sept. 9, 1991: Two Brits reveal they&#x27;re behind crop circles...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ep_AxaWBVPs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ep_AxaWBVPs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sept. 9, 1991: Two Brits reveal they&#x27;re behind crop circles...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: BBC1 'Painting Circles in the Corn' (crop circles) Jim Chorley  
-   Link: <a href="https://www.youtube.com/watch?v=UC0JzXBW2Vg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UC0JzXBW2Vg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Episode 206 Crop Circles Part 1...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UC0JzXBW2Vg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UC0JzXBW2Vg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Episode 206 Crop Circles Part 1...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Episode 206 Crop Circles Part 1  
-   Link: <a href="https://www.youtube.com/watch?v=oxLaxe4HVt4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oxLaxe4HVt4</a>  
+   Link:<a href="https://www.youtube.com/watch?v=oxLaxe4HVt4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oxLaxe4HVt4</a>  

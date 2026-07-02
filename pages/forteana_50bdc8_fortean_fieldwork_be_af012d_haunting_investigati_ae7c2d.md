@@ -280,13 +280,13 @@ image: /assets/images/forteana_50bdc8_fortean_fieldwork_be_af012d_haunting_inves
 
 ## Introduction
 
-Haunting investigations often take place in ordinary homes, workplaces and communities rather than controlled research settings. That means the most important ethical questions are frequently about people rather than paranormal claims. A careful Fortean investigator protects witnesses, respects private property, avoids increasing fear, and recognises that reports may involve grief, illness, family conflict or vulnerable individuals. Good ethics are therefore part of good evidence: people who feel respected are more likely to provide accurate accounts, while careless publicity can distort testimony, damage reputations and make future investigation impossible. Ethical guidance produced for psychical research has long stressed informed consent, confidentiality, appropriate referrals and the investigator's responsibility towards those seeking help. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/Ciaran-Okeeffe-2/publication/283087624_Ethical_guidelines_for_the_investigation_of_haunting_experiences/links/584fc48b08aecb6bd8d1db24/Ethical-guidelines-for-the-investigation-of-haunting-experiences.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Ethical-guidelines-for-the-investigation-of-haunting</span><span class="citation-popover-snippet">17, 2007 — The paper is divided into three sections: (a) ge...</span><span class="citation-popover-meta">Published: November 17, 2007</span></span></span>
+Haunting investigations often take place in ordinary homes, workplaces and communities rather than controlled research settings. That means the most important ethical questions are frequently about people rather than paranormal claims. A careful Fortean investigator protects witnesses, respects private property, avoids increasing fear, and recognises that reports may involve grief, illness, family conflict or vulnerable individuals. Good ethics are therefore part of good evidence: people who feel respected are more likely to provide accurate accounts, while careless publicity can distort testimony, damage reputations and make future investigation impossible. Ethical guidance produced for psychical research has long stressed informed consent, confidentiality, appropriate referrals and the investigator's responsibility towards those seeking help.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/Ciaran-Okeeffe-2/publication/283087624_Ethical_guidelines_for_the_investigation_of_haunting_experiences/links/584fc48b08aecb6bd8d1db24/Ethical-guidelines-for-the-investigation-of-haunting-experiences.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Ethical-guidelines-for-the-investigation-of-haunting</span><span class="citation-popover-snippet">17, 2007 — The paper is divided into three sections: (a) ge...</span><span class="citation-popover-meta">Published: November 17, 2007</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_fortean_fieldwork_be_af012d_haunting_investigati_ae7c2d-Illustration-1-dark.svg" | relative_url }}" alt="Ethics illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_fortean_fieldwork_be_af012d_haunting_investigati_ae7c2d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_fortean_fieldwork_be_af012d_haunting_investigati_ae7c2d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Consent before publishing names or recordings
 
-Consent should be viewed as an ongoing process rather than a single signature. Before recording interviews, photographing a location or publishing audio, investigators should explain what will be collected, how it may be used, who may see it and whether it could later appear online or in books, talks or documentaries. Participants should understand that they can decline particular forms of recording or request anonymity where practical. Ethical guidance developed specifically for haunting investigations identifies informed consent and confidentiality as central obligations, while broader research ethics guidance recommends making consent clear, specific and proportionate to the intended use of recordings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/Ciaran-Okeeffe-2/publication/283087624_Ethical_guidelines_for_the_investigation_of_haunting_experiences/links/584fc48b08aecb6bd8d1db24/Ethical-guidelines-for-the-investigation-of-haunting-experiences.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2the-sra.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Ethical-guidelines-for-the-investigation-of-haunting</span><span class="citation-popover-snippet">17, 2007 — The paper is divided into three sections: (a) ge...</span><span class="citation-popover-meta">Published: November 17, 2007</span></span></span>
+Consent should be viewed as an ongoing process rather than a single signature. Before recording interviews, photographing a location or publishing audio, investigators should explain what will be collected, how it may be used, who may see it and whether it could later appear online or in books, talks or documentaries. Participants should understand that they can decline particular forms of recording or request anonymity where practical. Ethical guidance developed specifically for haunting investigations identifies informed consent and confidentiality as central obligations, while broader research ethics guidance recommends making consent clear, specific and proportionate to the intended use of recordings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/Ciaran-Okeeffe-2/publication/283087624_Ethical_guidelines_for_the_investigation_of_haunting_experiences/links/584fc48b08aecb6bd8d1db24/Ethical-guidelines-for-the-investigation-of-haunting-experiences.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2the-sra.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Ethical-guidelines-for-the-investigation-of-haunting</span><span class="citation-popover-snippet">17, 2007 — The paper is divided into three sections: (a) ge...</span><span class="citation-popover-meta">Published: November 17, 2007</span></span></span>
 
 In practice, this means avoiding assumptions such as:
 
@@ -307,9 +307,9 @@ Changing circumstances also matter. Someone who initially welcomes publicity may
 
 ## Handling grief, fear and children carefully
 
-Many haunting reports arise during emotionally difficult periods. Bereavement, sleep disruption, anxiety, family stress and significant life changes frequently shape how experiences are interpreted, regardless of whether any unusual event has an [ordinary explanation]({{ 'ordinary-causes/' | relative_url }}). Ethical investigators should therefore avoid presenting themselves as counsellors, clergy or medical professionals unless they genuinely hold those qualifications. When someone appears distressed, the priority becomes their wellbeing rather than collecting dramatic testimony. Guidance on haunting investigations specifically discusses the investigator's pastoral role and the importance of recognising when referral to appropriate services is more responsible than continuing an investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/Ciaran-Okeeffe-2/publication/283087624_Ethical_guidelines_for_the_investigation_of_haunting_experiences/links/584fc48b08aecb6bd8d1db24/Ethical-guidelines-for-the-investigation-of-haunting-experiences.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Ethical-guidelines-for-the-investigation-of-haunting</span><span class="citation-popover-snippet">17, 2007 — The paper is divided into three sections: (a) ge...</span><span class="citation-popover-meta">Published: November 17, 2007</span></span></span>
+Many haunting reports arise during emotionally difficult periods. Bereavement, sleep disruption, anxiety, family stress and significant life changes frequently shape how experiences are interpreted, regardless of whether any unusual event has an [ordinary explanation]({{ 'ordinary-causes/' | relative_url }}). Ethical investigators should therefore avoid presenting themselves as counsellors, clergy or medical professionals unless they genuinely hold those qualifications. When someone appears distressed, the priority becomes their wellbeing rather than collecting dramatic testimony. Guidance on haunting investigations specifically discusses the investigator's pastoral role and the importance of recognising when referral to appropriate services is more responsible than continuing an investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/Ciaran-Okeeffe-2/publication/283087624_Ethical_guidelines_for_the_investigation_of_haunting_experiences/links/584fc48b08aecb6bd8d1db24/Ethical-guidelines-for-the-investigation-of-haunting-experiences.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Ethical-guidelines-for-the-investigation-of-haunting</span><span class="citation-popover-snippet">17, 2007 — The paper is divided into three sections: (a) ge...</span><span class="citation-popover-meta">Published: November 17, 2007</span></span></span>
 
-Children deserve additional protection. Interviews should be appropriate to their age and understanding, should avoid leading questions, and should not encourage frightening interpretations of ordinary events. Modern research ethics for children consistently emphasises informed participation, privacy and safeguarding over the collection of interesting data. If there are concerns that a child may be at risk of harm, safeguarding responsibilities can override ordinary expectations of confidentiality. user-research.education.gov.uk+2eprints.ncrm.ac.uk <span class="citation-link-wrap"><a class="citation-inline-link" href="https://user-research.education.gov.uk/guidance/ethics-and-safeguarding/research-with-children-and-young-people" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: user-research.education.gov.uk">[user-research.education.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">user-research.education.gov.uk</span><span class="citation-popover-snippet">Research with children and young peopleGuidance and ideas to help you plan and conduct research with children and young people successful...</span></span></span>
+Children deserve additional protection. Interviews should be appropriate to their age and understanding, should avoid leading questions, and should not encourage frightening interpretations of ordinary events. Modern research ethics for children consistently emphasises informed participation, privacy and safeguarding over the collection of interesting data. If there are concerns that a child may be at risk of harm, safeguarding responsibilities can override ordinary expectations of confidentiality. user-research.education.gov.uk+2eprints.ncrm.ac.uk<span class="citation-link-wrap"><a class="citation-inline-link" href="https://user-research.education.gov.uk/guidance/ethics-and-safeguarding/research-with-children-and-young-people" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: user-research.education.gov.uk">[user-research.education.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">user-research.education.gov.uk</span><span class="citation-popover-snippet">Research with children and young peopleGuidance and ideas to help you plan and conduct research with children and young people successful...</span></span></span>
 
 Practical safeguards include:
 
@@ -369,7 +369,7 @@ A more ethical approach is to:
 * Distinguish [observation]({{ 'observation/' | relative_url }}) from interpretation in notes and publications.
 * Report contradictory evidence rather than editing it away.
 
-These practices reduce both investigator influence and confirmation bias, making later evaluation more credible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spr.ac.uk/research/notes-investigators" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spr.ac.uk">[spr.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spr.ac.uk</span><span class="citation-popover-snippet">Notes for InvestigatorsFor instance, crisis apparitions might require confirmation of a reported death from newspaper notices or public r...</span></span></span>
+These practices reduce both investigator influence and confirmation bias, making later evaluation more credible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spr.ac.uk/research/notes-investigators" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spr.ac.uk">[spr.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spr.ac.uk</span><span class="citation-popover-snippet">Notes for InvestigatorsFor instance, crisis apparitions might require confirmation of a reported death from newspaper notices or public r...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_fortean_fieldwork_be_af012d_haunting_investigati_ae7c2d-Illustration-3-dark.svg" | relative_url }}" alt="Ethics illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_fortean_fieldwork_be_af012d_haunting_investigati_ae7c2d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_fortean_fieldwork_be_af012d_haunting_investigati_ae7c2d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -377,7 +377,7 @@ These practices reduce both investigator influence and confirmation bias, making
 
 Financial incentives can create ethical tensions. Charging for investigations, selling dramatic narratives or guaranteeing paranormal conclusions may encourage investigators to overstate weak evidence or discourage ordinary explanations.
 
-Ethical guidelines for haunting investigations recommend being transparent about fees, expertise, equipment limitations and investigative goals. Witnesses should understand whether they are receiving a research visit, an entertainment experience or a commercial service. Claims that expensive equipment has scientifically proven supernatural activity should be avoided unless supported by robust evidence, which is generally lacking. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/Ciaran-Okeeffe-2/publication/283087624_Ethical_guidelines_for_the_investigation_of_haunting_experiences/links/584fc48b08aecb6bd8d1db24/Ethical-guidelines-for-the-investigation-of-haunting-experiences.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Ethical-guidelines-for-the-investigation-of-haunting</span><span class="citation-popover-snippet">17, 2007 — The paper is divided into three sections: (a) ge...</span><span class="citation-popover-meta">Published: November 17, 2007</span></span></span>
+Ethical guidelines for haunting investigations recommend being transparent about fees, expertise, equipment limitations and investigative goals. Witnesses should understand whether they are receiving a research visit, an entertainment experience or a commercial service. Claims that expensive equipment has scientifically proven supernatural activity should be avoided unless supported by robust evidence, which is generally lacking.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/Ciaran-Okeeffe-2/publication/283087624_Ethical_guidelines_for_the_investigation_of_haunting_experiences/links/584fc48b08aecb6bd8d1db24/Ethical-guidelines-for-the-investigation-of-haunting-experiences.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Ethical-guidelines-for-the-investigation-of-haunting</span><span class="citation-popover-snippet">17, 2007 — The paper is divided into three sections: (a) ge...</span><span class="citation-popover-meta">Published: November 17, 2007</span></span></span>
 
 Investigators should also disclose conflicts of interest, such as financial relationships with haunted attractions, television productions or property owners whose commercial success depends upon paranormal publicity.
 
@@ -390,194 +390,194 @@ For newcomers to [Fortean fieldwork]({{ 'fieldwork/' | relative_url }}), a simpl
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Human Side of Ghost Reports. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Human Side of Ghost Reports. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports ethical, evidence-led inquiry.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports ethical, evidence-led inquiry.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
-        </h4>
-        <p class="fr-book-author">By Charles Fort</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
+</h4>
+<p class="fr-book-author">By Charles Fort</p>
         
-        <p class="fr-book-desc">Broad context for anomalous reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Broad context for anomalous reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+Hunters+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost Hunters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/872311-M.jpg" alt="Cover for Ghost Hunters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghost+Hunters+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost Hunters">Ghost Hunters</a>
-        </h4>
-        <p class="fr-book-author">By Deborah Blum</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+Hunters+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost Hunters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/872311-M.jpg" alt="Cover for Ghost Hunters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghost+Hunters+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost Hunters">Ghost Hunters</a>
+</h4>
+<p class="fr-book-author">By Deborah Blum</p>
         
-        <p class="fr-book-desc">First published 2006. Subjects: Spiritualism, History, Ghosts, Parapsychology, New York Times reviewed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghost+Hunters+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2006. Subjects: Spiritualism, History, Ghosts, Parapsychology, New York Times reviewed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghost+Hunters+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Paranormality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12284173-M.jpg" alt="Cover for Paranormality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Paranormality">Paranormality</a>
-        </h4>
-        <p class="fr-book-author">By Richard Wiseman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Paranormality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12284173-M.jpg" alt="Cover for Paranormality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Paranormality">Paranormality</a>
+</h4>
+<p class="fr-book-author">By Richard Wiseman</p>
         
-        <p class="fr-book-desc">First published 2011. Subjects: Parapsychology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011. Subjects: Parapsychology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+Hunters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost Hunters</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+Hunters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost Hunters</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HexCom - WordBank Word Generator Ghost Hunting Equipment Paranormal Kit EMF"><img src="{{ '/assets/images/marketplace-covers/7b176348381057a6cfde.jpg' | relative_url }}" alt="Listing image for HexCom - WordBank Word Generator Ghost Hunting Equipment Paranormal Kit EMF" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer">HexCom - WordBank Word Generator Ghost Hunting Equipment Paranormal Kit EMF</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost hunting equipment">Search <span data-ebay-domain-label>eBay.co.uk</span>: ghost hunting equipment</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HexCom - WordBank Word Generator Ghost Hunting Equipment Paranormal Kit EMF"><img src="{{ '/assets/images/marketplace-covers/7b176348381057a6cfde.jpg' | relative_url }}" alt="Listing image for HexCom - WordBank Word Generator Ghost Hunting Equipment Paranormal Kit EMF" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer">HexCom - WordBank Word Generator Ghost Hunting Equipment Paranormal Kit EMF</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost hunting equipment">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost hunting equipment</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LED EMF Meter Magnetic Field Detector Ghost Hunting Paranormal Equipment Tool"><img src="{{ '/assets/images/marketplace-covers/e23d48a6a558029d1fee.jpg' | relative_url }}" alt="Listing image for LED EMF Meter Magnetic Field Detector Ghost Hunting Paranormal Equipment Tool" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer">LED EMF Meter Magnetic Field Detector Ghost Hunting Paranormal Equipment Tool</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost hunting equipment">Search <span data-ebay-domain-label>eBay.co.uk</span>: ghost hunting equipment</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LED EMF Meter Magnetic Field Detector Ghost Hunting Paranormal Equipment Tool"><img src="{{ '/assets/images/marketplace-covers/e23d48a6a558029d1fee.jpg' | relative_url }}" alt="Listing image for LED EMF Meter Magnetic Field Detector Ghost Hunting Paranormal Equipment Tool" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer">LED EMF Meter Magnetic Field Detector Ghost Hunting Paranormal Equipment Tool</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost hunting equipment">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost hunting equipment</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HexBox Spirit Box Ghost Hunting Equipment AM FM Radio Scanner Paranormal ITC"><img src="{{ '/assets/images/marketplace-covers/d6dd7edad5dea306e788.jpg' | relative_url }}" alt="Listing image for HexBox Spirit Box Ghost Hunting Equipment AM FM Radio Scanner Paranormal ITC" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer">HexBox Spirit Box Ghost Hunting Equipment AM FM Radio Scanner Paranormal ITC</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost hunting equipment">Search <span data-ebay-domain-label>eBay.co.uk</span>: ghost hunting equipment</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HexBox Spirit Box Ghost Hunting Equipment AM FM Radio Scanner Paranormal ITC"><img src="{{ '/assets/images/marketplace-covers/d6dd7edad5dea306e788.jpg' | relative_url }}" alt="Listing image for HexBox Spirit Box Ghost Hunting Equipment AM FM Radio Scanner Paranormal ITC" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer">HexBox Spirit Box Ghost Hunting Equipment AM FM Radio Scanner Paranormal ITC</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost hunting equipment">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost hunting equipment</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ghostly Music Box for Ghost Hunting Equipment Motion Detector PIR Paranormal"><img src="{{ '/assets/images/marketplace-covers/f801bd4d0c11af924cef.jpg' | relative_url }}" alt="Listing image for Ghostly Music Box for Ghost Hunting Equipment Motion Detector PIR Paranormal" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer">Ghostly Music Box for Ghost Hunting Equipment Motion Detector PIR Paranormal</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost hunting equipment">Search <span data-ebay-domain-label>eBay.co.uk</span>: ghost hunting equipment</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ghostly Music Box for Ghost Hunting Equipment Motion Detector PIR Paranormal"><img src="{{ '/assets/images/marketplace-covers/f801bd4d0c11af924cef.jpg' | relative_url }}" alt="Listing image for Ghostly Music Box for Ghost Hunting Equipment Motion Detector PIR Paranormal" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer">Ghostly Music Box for Ghost Hunting Equipment Motion Detector PIR Paranormal</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost hunting equipment">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost hunting equipment</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="ethics-the-human-side-of-ghost-reports-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -593,7 +593,7 @@ For newcomers to [Fortean fieldwork]({{ 'fieldwork/' | relative_url }}), a simpl
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -613,7 +613,7 @@ For newcomers to [Fortean fieldwork]({{ 'fieldwork/' | relative_url }}), a simpl
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -645,7 +645,7 @@ For newcomers to [Fortean fieldwork]({{ 'fieldwork/' | relative_url }}), a simpl
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -697,7 +697,7 @@ For newcomers to [Fortean fieldwork]({{ 'fieldwork/' | relative_url }}), a simpl
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -742,7 +742,7 @@ For newcomers to [Fortean fieldwork]({{ 'fieldwork/' | relative_url }}), a simpl
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -783,105 +783,105 @@ For newcomers to [Fortean fieldwork]({{ 'fieldwork/' | relative_url }}), a simpl
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
    Title: Research Gate Ethical-guidelines-for-the-investigation-of-haunting  
-   Link: <a href="https://www.researchgate.net/profile/Ciaran-Okeeffe-2/publication/283087624_Ethical_guidelines_for_the_investigation_of_haunting_experiences/links/584fc48b08aecb6bd8d1db24/Ethical-guidelines-for-the-investigation-of-haunting-experiences.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Ciaran-Okeeffe-2/publication/283087624_Ethical_guidelines_for_the_investigation_of_haunting_experiences/links/584fc48b08aecb6bd8d1db24/Ethical-guidelines-for-the-investigation-of-haunting-experiences.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>17, 2007 — The paper is divided into three sections: (a) ge...</p></details>
+   Link:<a href="https://www.researchgate.net/profile/Ciaran-Okeeffe-2/publication/283087624_Ethical_guidelines_for_the_investigation_of_haunting_experiences/links/584fc48b08aecb6bd8d1db24/Ethical-guidelines-for-the-investigation-of-haunting-experiences.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Ciaran-Okeeffe-2/publication/283087624_Ethical_guidelines_for_the_investigation_of_haunting_experiences/links/584fc48b08aecb6bd8d1db24/Ethical-guidelines-for-the-investigation-of-haunting-experiences.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>17, 2007 — The paper is divided into three sections: (a) ge...</p></details>
    Published: November 17, 2007  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: spr.ac.uk  
-   Link: <a href="https://www.spr.ac.uk/research/notes-investigators" target="_blank" rel="noopener noreferrer nofollow">https://www.spr.ac.uk/research/notes-investigators</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Notes for InvestigatorsFor instance, crisis [apparitions](&amp;#123;&amp;#123; &#x27;apparitions/&#x27; | relative_url &amp;#125;&amp;#125;) might require confirmation of a reported death from newspaper notices or public r...</p></details>
+   Link:<a href="https://www.spr.ac.uk/research/notes-investigators" target="_blank" rel="noopener noreferrer nofollow">https://www.spr.ac.uk/research/notes-investigators</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Notes for InvestigatorsFor instance, crisis [apparitions](&amp;#123;&amp;#123; &#x27;apparitions/&#x27; | relative_url &amp;#125;&amp;#125;) might require confirmation of a reported death from newspaper notices or public r...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: the-sra.org.uk  
    Title: SRA Ethics guidance 2021  
-   Link: <a href="https://the-sra.org.uk/common/Uploaded%20files/Resources/SRA%20Ethics%20guidance%202021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://the-sra.org.uk/common/Uploaded%20files/Resources/SRA%20Ethics%20guidance%202021.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Research Ethics Guidance12 Feb 2021 — Using a sound recorder or video camera is an alternative method for recording consent. This may be...</p></details>
+   Link:<a href="https://the-sra.org.uk/common/Uploaded%20files/Resources/SRA%20Ethics%20guidance%202021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://the-sra.org.uk/common/Uploaded%20files/Resources/SRA%20Ethics%20guidance%202021.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Research Ethics Guidance12 Feb 2021 — Using a sound recorder or video camera is an alternative method for recording consent. This may be...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: user-research.education.gov.uk  
-   Link: <a href="https://user-research.education.gov.uk/guidance/ethics-and-safeguarding/research-with-children-and-young-people" target="_blank" rel="noopener noreferrer nofollow">https://user-research.education.gov.uk/guidance/ethics-and-safeguarding/research-with-children-and-young-people</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Research with children and young peopleGuidance and ideas to help you plan and conduct research with children and young people successful...</p></details>
+   Link:<a href="https://user-research.education.gov.uk/guidance/ethics-and-safeguarding/research-with-children-and-young-people" target="_blank" rel="noopener noreferrer nofollow">https://user-research.education.gov.uk/guidance/ethics-and-safeguarding/research-with-children-and-young-people</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Research with children and young peopleGuidance and ideas to help you plan and conduct research with children and young people successful...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: eprints.ncrm.ac.uk  
    Title: Confidentiality, Privacy and the Protection of Children’s Data  
-   Link: <a href="https://eprints.ncrm.ac.uk/id/eprint/4927/1/Confidentiality%2C%20Privacy%20and%20the%20Protection%20of%20Children%E2%80%99s%20Data.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.ncrm.ac.uk/id/eprint/4927/1/Confidentiality%2C%20Privacy%20and%20the%20Protection%20of%20Children%E2%80%99s%20Data.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Confidentiality, Privacy and the Protection of Children&#x27;s Databy E Horowicz · 2023 — This guidance paper discusses issues of confidential...</p></details>
+   Link:<a href="https://eprints.ncrm.ac.uk/id/eprint/4927/1/Confidentiality%2C%20Privacy%20and%20the%20Protection%20of%20Children%E2%80%99s%20Data.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.ncrm.ac.uk/id/eprint/4927/1/Confidentiality%2C%20Privacy%20and%20the%20Protection%20of%20Children%E2%80%99s%20Data.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Confidentiality, Privacy and the Protection of Children&#x27;s Databy E Horowicz · 2023 — This guidance paper discusses issues of confidential...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/66320b06c084007696fca731/Info_sharing_advice_content_May_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/66320b06c084007696fca731/Info_sharing_advice_content_May_2024.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>non statutory information sharing advice for...You do not need consent to share personal information about a child and/or members of the...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/66320b06c084007696fca731/Info_sharing_advice_content_May_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/66320b06c084007696fca731/Info_sharing_advice_content_May_2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>non statutory information sharing advice for...You do not need consent to share personal information about a child and/or members of the...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/283087624_Ethical_guidelines_for_the_investigation_of_haunting_experiences" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/283087624_Ethical_guidelines_for_the_investigation_of_haunting_experiences</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Ethical guidelines for the investigation of haunting...The paper is divided into three sections: (a) general issues – discussing o...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/283087624_Ethical_guidelines_for_the_investigation_of_haunting_experiences" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/283087624_Ethical_guidelines_for_the_investigation_of_haunting_experiences</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Ethical guidelines for the investigation of haunting...The paper is divided into three sections: (a) general issues – discussing o...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3601707/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3601707/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Therefore...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3601707/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3601707/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Therefore...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: lib.cam.ac.uk  
-   Link: <a href="https://www.lib.cam.ac.uk/collections/departments/archives-modern-and-medieval-manuscripts-and-university-archives-0" target="_blank" rel="noopener noreferrer nofollow">https://www.lib.cam.ac.uk/collections/departments/archives-modern-and-medieval-manuscripts-and-university-archives-0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>for Psychical Research | Cambridge University LibraryInitially the SPR focussed on investigating, exposing, and reproducing fake psychic...</p></details>
+   Link:<a href="https://www.lib.cam.ac.uk/collections/departments/archives-modern-and-medieval-manuscripts-and-university-archives-0" target="_blank" rel="noopener noreferrer nofollow">https://www.lib.cam.ac.uk/collections/departments/archives-modern-and-medieval-manuscripts-and-university-archives-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>for Psychical Research | Cambridge University LibraryInitially the SPR focussed on investigating, exposing, and reproducing fake psychic...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ohs.org.uk  
-   Link: <a href="https://ohs.org.uk/gdpr-2/" target="_blank" rel="noopener noreferrer nofollow">https://ohs.org.uk/gdpr-2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GDPRConsent is only one of the legal bases available under GDPR to legitimise the processing of personal data, such as the making, storag...</p></details>
+   Link:<a href="https://ohs.org.uk/gdpr-2/" target="_blank" rel="noopener noreferrer nofollow">https://ohs.org.uk/gdpr-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GDPRConsent is only one of the legal bases available under GDPR to legitimise the processing of personal data, such as the making, storag...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: rcl.ac.uk  
-   Link: <a href="https://www.rcl.ac.uk/wp-content/uploads/2022/12/rcl-guidance-on-research-involving-children.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rcl.ac.uk/wp-content/uploads/2022/12/rcl-guidance-on-research-involving-children.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Research Ethics: Guidance on Research Involving ChildrenChildren under 16 are able to give their full consent providing they have been co...</p></details>
+   Link:<a href="https://www.rcl.ac.uk/wp-content/uploads/2022/12/rcl-guidance-on-research-involving-children.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rcl.ac.uk/wp-content/uploads/2022/12/rcl-guidance-on-research-involving-children.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Research Ethics: Guidance on Research Involving ChildrenChildren under 16 are able to give their full consent providing they have been co...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: tusla.ie  
-   Link: <a href="https://www.tusla.ie/uploads/content/CF_WelfarePracticehandbook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.tusla.ie/uploads/content/CF_WelfarePracticehandbook.pdf</a>  
+   Link:<a href="https://www.tusla.ie/uploads/content/CF_WelfarePracticehandbook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.tusla.ie/uploads/content/CF_WelfarePracticehandbook.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: oralhistory.org  
-   Link: <a href="https://oralhistory.org/oha-statement-on-ethics/" target="_blank" rel="noopener noreferrer nofollow">https://oralhistory.org/oha-statement-on-ethics/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OHA Statement on EthicsOral historians have ethical obligations that are both specific to oral history methodology and shared with other...</p></details>
+   Link:<a href="https://oralhistory.org/oha-statement-on-ethics/" target="_blank" rel="noopener noreferrer nofollow">https://oralhistory.org/oha-statement-on-ethics/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OHA Statement on EthicsOral historians have ethical obligations that are both specific to oral history methodology and shared with other...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nps.gov  
    Title: oral history resources considering legal and ethical issues  
-   Link: <a href="https://www.nps.gov/articles/000/oral-history-resources-considering-legal-and-ethical-issues.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/articles/000/oral-history-resources-considering-legal-and-ethical-issues.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Considering Legal and Ethical Issues25 Oct 2023 — Ethical considerations in oral history practice are grounded in a methodology that rest...</p></details>
+   Link:<a href="https://www.nps.gov/articles/000/oral-history-resources-considering-legal-and-ethical-issues.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/articles/000/oral-history-resources-considering-legal-and-ethical-issues.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Considering Legal and Ethical Issues25 Oct 2023 — Ethical considerations in oral history practice are grounded in a methodology that rest...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: judiciary.uk  
    Title: guidance no 46 obtaining information regarding social media use  
-   Link: <a href="https://www.judiciary.uk/guidance-and-resources/guidance-no-46-obtaining-information-regarding-social-media-use/" target="_blank" rel="noopener noreferrer nofollow">https://www.judiciary.uk/guidance-and-resources/guidance-no-46-obtaining-information-regarding-social-media-use/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Guidance No 46 Obtaining information regarding social...2 Apr 2024 — The purpose of this guidance is to help coroners understand their o...</p></details>
+   Link:<a href="https://www.judiciary.uk/guidance-and-resources/guidance-no-46-obtaining-information-regarding-social-media-use/" target="_blank" rel="noopener noreferrer nofollow">https://www.judiciary.uk/guidance-and-resources/guidance-no-46-obtaining-information-regarding-social-media-use/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Guidance No 46 Obtaining information regarding social...2 Apr 2024 — The purpose of this guidance is to help coroners understand their o...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/3479138/Ethical_Guidelines_for_the_Investigation_of_Haunting_Experiences_2007_Journal_of_the_Society_for_Psychical_Research_" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/3479138/Ethical_Guidelines_for_the_Investigation_of_Haunting_Experiences_2007_Journal_of_the_Society_for_Psychical_Research_</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Informed consent must be obtained, detailing risks, procedures, and confidentiality...</p></details>
+   Link:<a href="https://www.academia.edu/3479138/Ethical_Guidelines_for_the_Investigation_of_Haunting_Experiences_2007_Journal_of_the_Society_for_Psychical_Research_" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/3479138/Ethical_Guidelines_for_the_Investigation_of_Haunting_Experiences_2007_Journal_of_the_Society_for_Psychical_Research_</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Informed consent must be obtained, detailing risks, procedures, and confidentiality...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/930577694/Code-of-Ethics-and-Protocols-for-the-Par" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/930577694/Code-of-Ethics-and-Protocols-for-the-Par</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>etailed data to support or invalidate paranormal phenomena.Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/930577694/Code-of-Ethics-and-Protocols-for-the-Par" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/930577694/Code-of-Ethics-and-Protocols-for-the-Par</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>etailed data to support or invalidate paranormal phenomena.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2025/12/ethical-issues-in-ghost-investigation/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2025/12/ethical-issues-in-ghost-investigation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ethical Issues in Ghost InvestigationThe very beliefs, practices, claims, conclusions, and cures of ghost hunters are often unethical...</p></details>
+   Link:<a href="https://skepticalinquirer.org/2025/12/ethical-issues-in-ghost-investigation/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2025/12/ethical-issues-in-ghost-investigation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ethical Issues in Ghost InvestigationThe very beliefs, practices, claims, conclusions, and cures of ghost hunters are often unethical...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: childrenfirst.org.uk  
    Title: guide to investigations review.docx  
-   Link: <a href="https://www.childrenfirst.org.uk/media/4dcdvhr0/guide-to-investigations-review.docx" target="_blank" rel="noopener noreferrer nofollow">https://www.childrenfirst.org.uk/media/4dcdvhr0/guide-to-investigations-review.docx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Guide To Investigations Review10 Jul 2025 — Consent Investigators should have the informed consent of any witness. It should be clear why...</p></details>
+   Link:<a href="https://www.childrenfirst.org.uk/media/4dcdvhr0/guide-to-investigations-review.docx" target="_blank" rel="noopener noreferrer nofollow">https://www.childrenfirst.org.uk/media/4dcdvhr0/guide-to-investigations-review.docx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Guide To Investigations Review10 Jul 2025 — Consent Investigators should have the informed consent of any witness. It should be clear why...</p></details>

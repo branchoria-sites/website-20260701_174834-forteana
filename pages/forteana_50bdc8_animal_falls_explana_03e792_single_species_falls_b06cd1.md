@@ -284,11 +284,11 @@ One of the most persistent puzzles in reports of animal falls is not simply that
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_animal_falls_explana_03e792_single_species_falls_b06cd1-Illustration-1-dark.svg" | relative_url }}" alt="One Species illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_animal_falls_explana_03e792_single_species_falls_b06cd1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_animal_falls_explana_03e792_single_species_falls_b06cd1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The answer is less straightforward than either sceptics or believers sometimes suggest. A single-species fall is not impossible under ordinary processes, but it demands more specific conditions than the simple image of a storm scooping up an entire pond. Whether a report strengthens or weakens the storm hypothesis depends on the ecology of the animals involved, the likely source habitat, and how carefully the species was actually identified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/meteorology-climatology/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">Although waterspouts are the most commonly offered explanation</span><span class="citation-popover-snippet">The Library of CongressCan it rain frogs, fish, and other objects?Many scientists believe tornadic waterspouts may be responsible for fro...</span></span></span>
+The answer is less straightforward than either sceptics or believers sometimes suggest. A single-species fall is not impossible under ordinary processes, but it demands more specific conditions than the simple image of a storm scooping up an entire pond. Whether a report strengthens or weakens the storm hypothesis depends on the ecology of the animals involved, the likely source habitat, and how carefully the species was actually identified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/meteorology-climatology/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">Although waterspouts are the most commonly offered explanation</span><span class="citation-popover-snippet">The Library of CongressCan it rain frogs, fish, and other objects?Many scientists believe tornadic waterspouts may be responsible for fro...</span></span></span>
 
 ## The selection problem in fish and frog falls
 
-The intuitive objection is simple. Natural ponds, lakes and marshes are biologically messy. Even small freshwater habitats usually contain multiple fish species alongside amphibians, aquatic insects, crustaceans, snails, plants and floating debris. A random sample lifted wholesale from such an environment ought to look similarly mixed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nhm.ac.uk/discover/pond-life-facts-about-habitats-plants-animals.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhm.ac.uk">[Natural History Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhm.ac.uk</span><span class="citation-popover-snippet">Natural History MuseumPond life: facts about pond habitats, plants and animalsFind out about the animals and plants that rely on ponds, t...</span></span></span>
+The intuitive objection is simple. Natural ponds, lakes and marshes are biologically messy. Even small freshwater habitats usually contain multiple fish species alongside amphibians, aquatic insects, crustaceans, snails, plants and floating debris. A random sample lifted wholesale from such an environment ought to look similarly mixed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nhm.ac.uk/discover/pond-life-facts-about-habitats-plants-animals.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhm.ac.uk">[Natural History Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhm.ac.uk</span><span class="citation-popover-snippet">Natural History MuseumPond life: facts about pond habitats, plants and animalsFind out about the animals and plants that rely on ponds, t...</span></span></span>
 
 That expectation makes reports of "nothing but small perch", "only tiny frogs", or "all the fish were the same kind" seem harder to reconcile with an indiscriminate lifting mechanism.
 
@@ -315,7 +315,7 @@ Animal populations are rarely distributed evenly across a body of water.
 
 Many small freshwater fish spend much of their lives schooling with their own species, particularly juveniles. Shallow margins can become crowded with thousands of similarly sized individuals while deeper water contains different species altogether. A rotating updraught that intersects only part of this habitat would not necessarily collect a representative sample of the entire ecosystem.
 
-Likewise, amphibians often become highly concentrated during breeding seasons. Temporary pools may contain enormous numbers of tadpoles or newly metamorphosed froglets with relatively few other vertebrates present. Heavy rain and storms also coincide with periods when frogs move across land, increasing the chance that witnesses encounter large numbers of one species after bad [weather]({{ 'weather/' | relative_url }}) without requiring long-distance aerial transport. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nhm.ac.uk/discover/pond-life-facts-about-habitats-plants-animals.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhm.ac.uk">[Natural History Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhm.ac.uk</span><span class="citation-popover-snippet">Natural History MuseumPond life: facts about pond habitats, plants and animalsFind out about the animals and plants that rely on ponds, t...</span></span></span>
+Likewise, amphibians often become highly concentrated during breeding seasons. Temporary pools may contain enormous numbers of tadpoles or newly metamorphosed froglets with relatively few other vertebrates present. Heavy rain and storms also coincide with periods when frogs move across land, increasing the chance that witnesses encounter large numbers of one species after bad [weather]({{ 'weather/' | relative_url }}) without requiring long-distance aerial transport.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nhm.ac.uk/discover/pond-life-facts-about-habitats-plants-animals.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhm.ac.uk">[Natural History Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhm.ac.uk</span><span class="citation-popover-snippet">Natural History MuseumPond life: facts about pond habitats, plants and animalsFind out about the animals and plants that rely on ponds, t...</span></span></span>
 
 This ecological clustering means that "single species" does not automatically imply selective atmospheric sorting. It may instead reflect selective availability at the source.
 
@@ -327,7 +327,7 @@ Witness descriptions often simplify what they observe.
 
 People frequently report "it rained fish" after noticing dozens of similar-looking animals scattered across a street. Unless specimens are collected and identified by specialists, subtle differences between related species may go unnoticed. A mixture of several minnow species can easily become "all little fish" in news reports.
 
-The opposite also occurs. Investigators sometimes discover that an apparently uniform fall actually included several species once careful identification was carried out. Historical accounts illustrate this point. For example, the well-known [Marksville]({{ 'marksville/' | relative_url }}), Louisiana fish fall was remembered as a fish rain, yet later examination reported several freshwater species rather than a perfectly uniform collection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://spo.nmfs.noaa.gov/Fishery%20Leaflets/leaflet513.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spo.nmfs.noaa.gov">[NMFS Scientific Publications Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spo.nmfs.noaa.gov</span><span class="citation-popover-snippet">NMFS Scientific Publications OfficeRAINS OF FISHESApril 6, 2011 — by BOFC FISHERIES · 1961 — The fish were fresh-water species native to...</span><span class="citation-popover-meta">Published: April 6, 2011</span></span></span>
+The opposite also occurs. Investigators sometimes discover that an apparently uniform fall actually included several species once careful identification was carried out. Historical accounts illustrate this point. For example, the well-known [Marksville]({{ 'marksville/' | relative_url }}), Louisiana fish fall was remembered as a fish rain, yet later examination reported several freshwater species rather than a perfectly uniform collection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://spo.nmfs.noaa.gov/Fishery%20Leaflets/leaflet513.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spo.nmfs.noaa.gov">[NMFS Scientific Publications Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spo.nmfs.noaa.gov</span><span class="citation-popover-snippet">NMFS Scientific Publications OfficeRAINS OF FISHESApril 6, 2011 — by BOFC FISHERIES · 1961 — The fish were fresh-water species native to...</span><span class="citation-popover-meta">Published: April 6, 2011</span></span></span>
 
 Reporting biases reinforce the impression of selectivity:
 
@@ -359,11 +359,11 @@ Investigators become more cautious when reports describe:
 * animals all of identical size and developmental stage;
 * species that are unlikely to have shared the same source habitat;
 * no plausible water source within transport range;
-* weather conditions inconsistent with strong convective storms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/Newsxonline/posts/residents-in-blue-ridge-were-left-astonished-after-a-bizarre-phenomenon-fish-rai/1296434959180740/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">into strong updrafts created by intense storms. When these upward...</span></span></span>
+* weather conditions inconsistent with strong convective storms.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/Newsxonline/posts/residents-in-blue-ridge-were-left-astonished-after-a-bizarre-phenomenon-fish-rai/1296434959180740/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">into strong updrafts created by intense storms. When these upward...</span></span></span>
 
 </div>
 
-These circumstances do not automatically rule out [ordinary explanations]({{ 'ordinary-causes/' | relative_url }}), but they require additional assumptions. A waterspout capable of lifting aquatic animals might also be expected to entrain vegetation, mud, aquatic insects or multiple fish species unless it intercepted an unusually concentrated group. The more selective the reported sample, the narrower the range of ordinary scenarios becomes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/meteorology-climatology/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">Although waterspouts are the most commonly offered explanation</span><span class="citation-popover-snippet">The Library of CongressCan it rain frogs, fish, and other objects?Many scientists believe tornadic waterspouts may be responsible for fro...</span></span></span>
+These circumstances do not automatically rule out [ordinary explanations]({{ 'ordinary-causes/' | relative_url }}), but they require additional assumptions. A waterspout capable of lifting aquatic animals might also be expected to entrain vegetation, mud, aquatic insects or multiple fish species unless it intercepted an unusually concentrated group. The more selective the reported sample, the narrower the range of ordinary scenarios becomes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/meteorology-climatology/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">Although waterspouts are the most commonly offered explanation</span><span class="citation-popover-snippet">The Library of CongressCan it rain frogs, fish, and other objects?Many scientists believe tornadic waterspouts may be responsible for fro...</span></span></span>
 
 This is one reason researchers prefer well-documented modern cases with preserved specimens, radar data and meteorological records over colourful historical anecdotes.
 
@@ -373,7 +373,7 @@ This is one reason researchers prefer well-documented modern cases with preserve
 
 Within Fortean discussions, single-species falls are sometimes presented as evidence against conventional meteorological explanations altogether. Most scientists take a more cautious position.
 
-The waterspout hypothesis was never intended to explain every reported animal fall. It is offered as a plausible mechanism for some cases, particularly those involving small aquatic animals associated with severe weather. Even the Library of Congress presents waterspouts as the most commonly proposed explanation rather than an established solution to every report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/meteorology-climatology/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">Although waterspouts are the most commonly offered explanation</span><span class="citation-popover-snippet">The Library of CongressCan it rain frogs, fish, and other objects?Many scientists believe tornadic waterspouts may be responsible for fro...</span></span></span>
+The waterspout hypothesis was never intended to explain every reported animal fall. It is offered as a plausible mechanism for some cases, particularly those involving small aquatic animals associated with severe weather. Even the Library of Congress presents waterspouts as the most commonly proposed explanation rather than an established solution to every report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/meteorology-climatology/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">Although waterspouts are the most commonly offered explanation</span><span class="citation-popover-snippet">The Library of CongressCan it rain frogs, fish, and other objects?Many scientists believe tornadic waterspouts may be responsible for fro...</span></span></span>
 
 Consequently, species selectivity functions best as a critical test rather than a decisive argument. It asks investigators to examine whether the ecology of the reported animals matches what would be expected from a real source population. If the reported uniformity can be explained by schooling, breeding aggregations or habitat structure, the ordinary explanation remains viable. If it cannot, the report deserves closer scrutiny—but not necessarily a supernatural conclusion.
 
@@ -384,194 +384,194 @@ The strongest investigations therefore treat species composition as one piece of
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Do Animal Falls Look So Selective?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Do Animal Falls Look So Selective?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
-        </h4>
-        <p class="fr-book-author">By Charles Fort</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
+</h4>
+<p class="fr-book-author">By Charles Fort</p>
         
-        <p class="fr-book-desc">Introduces famous anomalous animal-fall reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduces famous anomalous animal-fall reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Explores why remarkable stories and beliefs persist across generations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Explores why remarkable stories and beliefs persist across generations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=National+Audubon+Society+Field+Guide+to+North+American+Fishes+National+Audubon+Society&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open National Audubon Society Field Guide to North American Fishes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/226323-M.jpg" alt="Cover for National Audubon Society Field Guide to North American Fishes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=National+Audubon+Society+Field+Guide+to+North+American+Fishes+National+Audubon+Society&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="National Audubon Society Field Guide to North American Fishes">National Audubon Society Field Guide to North American Fishes</a>
-        </h4>
-        <p class="fr-book-author">By National Audubon Society</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=National+Audubon+Society+Field+Guide+to+North+American+Fishes+National+Audubon+Society&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open National Audubon Society Field Guide to North American Fishes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/226323-M.jpg" alt="Cover for National Audubon Society Field Guide to North American Fishes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=National+Audubon+Society+Field+Guide+to+North+American+Fishes+National+Audubon+Society&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="National Audubon Society Field Guide to North American Fishes">National Audubon Society Field Guide to North American Fishes</a>
+</h4>
+<p class="fr-book-author">By National Audubon Society</p>
         
-        <p class="fr-book-desc">First published 2002. Subjects: Fishes, Identification, Fishes, north america.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=National+Audubon+Society+Field+Guide+to+North+American+Fishes+National+Audubon+Society&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2002. Subjects: Fishes, Identification, Fishes, north america.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=National+Audubon+Society+Field+Guide+to+North+American+Fishes+National+Audubon+Society&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+think+about+weird+things+Theodore+Schick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to think about weird things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/527286-M.jpg" alt="Cover for How to think about weird things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+think+about+weird+things+Theodore+Schick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to think about weird things">How to think about weird things</a>
-        </h4>
-        <p class="fr-book-author">By Theodore Schick, Lewis Vaughn et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+think+about+weird+things+Theodore+Schick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to think about weird things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/527286-M.jpg" alt="Cover for How to think about weird things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+think+about+weird+things+Theodore+Schick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to think about weird things">How to think about weird things</a>
+</h4>
+<p class="fr-book-author">By Theodore Schick, Lewis Vaughn et al.</p>
         
-        <p class="fr-book-desc">First published 1994. Subjects: Critical thinking, Curiosities and wonders, Mind, body, spirit: disciplines &amp; techniques, Parapsychology,...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+think+about+weird+things+Theodore+Schick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1994. Subjects: Critical thinking, Curiosities and wonders, Mind, body, spirit: disciplines &amp; techniques, Parapsychology,...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+think+about+weird+things+Theodore+Schick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=National+Audubon+Society+Field+to+North+American+Fishes+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">National Audubon Society Field to North American Fishes books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=National+Audubon+Society+Field+to+North+American+Fishes+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">National Audubon Society Field to North American Fishes books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print Fish Man Human Rain Umbrella Weird Strange Funny Ironic Out Of Water"><img src="{{ '/assets/images/marketplace-covers/83ba5668697ac14b9dab.jpg' | relative_url }}" alt="Listing image for Art Print Fish Man Human Rain Umbrella Weird Strange Funny Ironic Out Of Water" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">Art Print Fish Man Human Rain Umbrella Weird Strange Funny Ironic Out Of Water</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print Fish Man Human Rain Umbrella Weird Strange Funny Ironic Out Of Water"><img src="{{ '/assets/images/marketplace-covers/83ba5668697ac14b9dab.jpg' | relative_url }}" alt="Listing image for Art Print Fish Man Human Rain Umbrella Weird Strange Funny Ironic Out Of Water" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">Art Print Fish Man Human Rain Umbrella Weird Strange Funny Ironic Out Of Water</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Grinder fish rain clouds Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/9f733ce224aa6b0a4349.jpg' | relative_url }}" alt="Listing image for The Grinder fish rain clouds Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">The Grinder fish rain clouds Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Grinder fish rain clouds Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/9f733ce224aa6b0a4349.jpg' | relative_url }}" alt="Listing image for The Grinder fish rain clouds Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">The Grinder fish rain clouds Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print"><img src="{{ '/assets/images/marketplace-covers/c7769be80584af0e631f.jpg' | relative_url }}" alt="Listing image for Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print"><img src="{{ '/assets/images/marketplace-covers/c7769be80584af0e631f.jpg' | relative_url }}" alt="Listing image for Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for After The Rain Fjord Sea Boat Fishing Finnmark Norway Green Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/61d368165882a17db39e.jpg' | relative_url }}" alt="Listing image for After The Rain Fjord Sea Boat Fishing Finnmark Norway Green Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">After The Rain Fjord Sea Boat Fishing Finnmark Norway Green Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for After The Rain Fjord Sea Boat Fishing Finnmark Norway Green Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/61d368165882a17db39e.jpg' | relative_url }}" alt="Listing image for After The Rain Fjord Sea Boat Fishing Finnmark Norway Green Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">After The Rain Fjord Sea Boat Fishing Finnmark Norway Green Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="one-species-why-do-animal-falls-look-so-selective-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -587,7 +587,7 @@ The strongest investigations therefore treat species composition as one piece of
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -607,7 +607,7 @@ The strongest investigations therefore treat species composition as one piece of
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -639,7 +639,7 @@ The strongest investigations therefore treat species composition as one piece of
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -691,7 +691,7 @@ The strongest investigations therefore treat species composition as one piece of
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -736,7 +736,7 @@ The strongest investigations therefore treat species composition as one piece of
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -777,88 +777,88 @@ The strongest investigations therefore treat species composition as one piece of
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: weather.gov  
    Title: National Weather Service Science  
-   Link: <a href="https://www.weather.gov/apx/waterspout" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/apx/waterspout</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceScience - WaterspoutsThe fact is, depending on how they form, waterspouts come in two types: tornadic and fair we...</p></details>
+   Link:<a href="https://www.weather.gov/apx/waterspout" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/apx/waterspout</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceScience - WaterspoutsThe fact is, depending on how they form, waterspouts come in two types: tornadic and fair we...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: weather.com  
    Title: mexico rained fish  
-   Link: <a href="https://weather.com/news/news/mexico-rained-fish" target="_blank" rel="noopener noreferrer nofollow">https://weather.com/news/news/mexico-rained-fish</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>According to the US Library of Congress, scientists believe that waterspouts could be responsible for...</p></details>
+   Link:<a href="https://weather.com/news/news/mexico-rained-fish" target="_blank" rel="noopener noreferrer nofollow">https://weather.com/news/news/mexico-rained-fish</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>According to the US Library of Congress, scientists believe that waterspouts could be responsible for...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: loc.gov  
    Title: Although waterspouts are the most commonly offered explanation  
-   Link: <a href="https://www.loc.gov/everyday-mysteries/meteorology-climatology/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/everyday-mysteries/meteorology-climatology/item/can-it-rain-frogs-fish-and-other-objects/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Library of CongressCan it rain frogs, fish, and other objects?Many scientists believe tornadic waterspouts may be responsible for fro...</p></details>
+   Link:<a href="https://www.loc.gov/everyday-mysteries/meteorology-climatology/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/everyday-mysteries/meteorology-climatology/item/can-it-rain-frogs-fish-and-other-objects/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Library of CongressCan it rain frogs, fish, and other objects?Many scientists believe tornadic waterspouts may be responsible for fro...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nhm.ac.uk  
-   Link: <a href="https://www.nhm.ac.uk/discover/pond-life-facts-about-habitats-plants-animals.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nhm.ac.uk/discover/pond-life-facts-about-habitats-plants-animals.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Natural History MuseumPond life: facts about pond habitats, plants and animalsFind out about the animals and plants that rely on ponds, t...</p></details>
+   Link:<a href="https://www.nhm.ac.uk/discover/pond-life-facts-about-habitats-plants-animals.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nhm.ac.uk/discover/pond-life-facts-about-habitats-plants-animals.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Natural History MuseumPond life: facts about pond habitats, plants and animalsFind out about the animals and plants that rely on ponds, t...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: spo.nmfs.noaa.gov  
-   Link: <a href="https://spo.nmfs.noaa.gov/Fishery%20Leaflets/leaflet513.pdf" target="_blank" rel="noopener noreferrer nofollow">https://spo.nmfs.noaa.gov/Fishery%20Leaflets/leaflet513.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NMFS Scientific Publications OfficeRAINS OF FISHESApril 6, 2011 — by BOFC FISHERIES · 1961 — The fish were fresh-water species native to...</p></details>
+   Link:<a href="https://spo.nmfs.noaa.gov/Fishery%20Leaflets/leaflet513.pdf" target="_blank" rel="noopener noreferrer nofollow">https://spo.nmfs.noaa.gov/Fishery%20Leaflets/leaflet513.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NMFS Scientific Publications OfficeRAINS OF FISHESApril 6, 2011 — by BOFC FISHERIES · 1961 — The fish were fresh-water species native to...</p></details>
    Published: April 6, 2011  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: loc.gov  
-   Link: <a href="https://www.loc.gov/everyday-mysteries/browse-all-questions/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/everyday-mysteries/browse-all-questions/item/can-it-rain-frogs-fish-and-other-objects/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ccording to Complete Weather Resource (1997), “a tornadic...Read more...</p></details>
+   Link:<a href="https://www.loc.gov/everyday-mysteries/browse-all-questions/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/everyday-mysteries/browse-all-questions/item/can-it-rain-frogs-fish-and-other-objects/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ccording to Complete Weather Resource (1997), “a tornadic...Read more...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/knowthings/comments/y40qky/there_is_a_rare_unusual_meteorological_phenomenon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/knowthings/comments/y40qky/there_is_a_rare_unusual_meteorological_phenomenon/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Explain the phenomenon of fish rainIf a strong air disturbance such as tornadoes move over water it creates waterspouts that can lift wat...</p></details>
+   Link:<a href="https://www.reddit.com/r/knowthings/comments/y40qky/there_is_a_rare_unusual_meteorological_phenomenon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/knowthings/comments/y40qky/there_is_a_rare_unusual_meteorological_phenomenon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Explain the phenomenon of fish rainIf a strong air disturbance such as tornadoes move over water it creates waterspouts that can lift wat...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: content.freshwaterhabitats.org.uk  
-   Link: <a href="https://content.freshwaterhabitats.org.uk/2015/10/Flagship-Ponds-The-value-of-ponds.pdf" target="_blank" rel="noopener noreferrer nofollow">https://content.freshwaterhabitats.org.uk/2015/10/Flagship-Ponds-The-value-of-ponds.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The value of pondsOne of the reasons that ponds are such rich habitats is because they provide a very natural type of habitat. Ponds have...</p></details>
+   Link:<a href="https://content.freshwaterhabitats.org.uk/2015/10/Flagship-Ponds-The-value-of-ponds.pdf" target="_blank" rel="noopener noreferrer nofollow">https://content.freshwaterhabitats.org.uk/2015/10/Flagship-Ponds-The-value-of-ponds.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The value of pondsOne of the reasons that ponds are such rich habitats is because they provide a very natural type of habitat. Ponds have...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nopr.niscpr.res.in  
-   Link: <a href="https://nopr.niscpr.res.in/bitstream/123456789/32767/1/SR%2052%2810%29%2034-37.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nopr.niscpr.res.in/bitstream/123456789/32767/1/SR%2052%2810%29%2034-37.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TUREMost of the fish or any other small aquatic creature may survive due to the moisture content of the clouds and fall alive with the ra...</p></details>
+   Link:<a href="https://nopr.niscpr.res.in/bitstream/123456789/32767/1/SR%2052%2810%29%2034-37.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nopr.niscpr.res.in/bitstream/123456789/32767/1/SR%2052%2810%29%2034-37.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TUREMost of the fish or any other small aquatic creature may survive due to the moisture content of the clouds and fall alive with the ra...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: freshwaterhabitats.b-cdn.net  
-   Link: <a href="https://freshwaterhabitats.b-cdn.net/app/uploads/2023/07/The-value-of-ponds-for-wildlife-NEW-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://freshwaterhabitats.b-cdn.net/app/uploads/2023/07/The-value-of-ponds-for-wildlife-NEW-1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Freshwater Habitats TrustThe value of ponds for wildlifeRecent evidence suggests that some amphibian species are able to sense chemicals...</p></details>
+   Link:<a href="https://freshwaterhabitats.b-cdn.net/app/uploads/2023/07/The-value-of-ponds-for-wildlife-NEW-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://freshwaterhabitats.b-cdn.net/app/uploads/2023/07/The-value-of-ponds-for-wildlife-NEW-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Freshwater Habitats TrustThe value of ponds for wildlifeRecent evidence suggests that some amphibian species are able to sense chemicals...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: froglife.org  
-   Link: <a href="https://www.froglife.org/wp-content/uploads/2013/06/Froglife_JustAddWater_2011.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.froglife.org/wp-content/uploads/2013/06/Froglife_JustAddWater_2011.pdf</a>  
+   Link:<a href="https://www.froglife.org/wp-content/uploads/2013/06/Froglife_JustAddWater_2011.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.froglife.org/wp-content/uploads/2013/06/Froglife_JustAddWater_2011.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/texarkanatexas/posts/2021-is-pulling-out-all-the-tricks-including-raining-fish-in-texarkana-today-and/287678246727984/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/texarkanatexas/posts/2021-is-pulling-out-all-the-tricks-including-raining-fish-in-texarkana-today-and/287678246727984/</a>  
+   Link:<a href="https://www.facebook.com/texarkanatexas/posts/2021-is-pulling-out-all-the-tricks-including-raining-fish-in-texarkana-today-and/287678246727984/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/texarkanatexas/posts/2021-is-pulling-out-all-the-tricks-including-raining-fish-in-texarkana-today-and/287678246727984/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: newsweek.com  
    Title: raining fish explained storm brings fish falling sky texas 1664747  
-   Link: <a href="https://www.newsweek.com/raining-fish-explained-storm-brings-fish-falling-sky-texas-1664747" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/raining-fish-explained-storm-brings-fish-falling-sky-texas-1664747</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Raining Fish&#x27; Explained: Fish Falling From Sky in Rare...31 Dec 2021 — A Library of Congress report says a common misconception about w...</p></details>
+   Link:<a href="https://www.newsweek.com/raining-fish-explained-storm-brings-fish-falling-sky-texas-1664747" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/raining-fish-explained-storm-brings-fish-falling-sky-texas-1664747</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Raining Fish&#x27; Explained: Fish Falling From Sky in Rare...31 Dec 2021 — A Library of Congress report says a common misconception about w...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nerdist.com  
    Title: texas falling fish rain rare weather phenomenon waterspouts  
-   Link: <a href="https://nerdist.com/article/texas-falling-fish-rain-rare-weather-phenomenon-waterspouts/" target="_blank" rel="noopener noreferrer nofollow">https://nerdist.com/article/texas-falling-fish-rain-rare-weather-phenomenon-waterspouts/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Texas Fish Rain Is a Potentially Recurring &#x27;Weather&#x27;...4 Jan 2022 — Animal rain is a phenomenon that occurs when small water animals lik...</p></details>
+   Link:<a href="https://nerdist.com/article/texas-falling-fish-rain-rare-weather-phenomenon-waterspouts/" target="_blank" rel="noopener noreferrer nofollow">https://nerdist.com/article/texas-falling-fish-rain-rare-weather-phenomenon-waterspouts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Texas Fish Rain Is a Potentially Recurring &#x27;Weather&#x27;...4 Jan 2022 — Animal rain is a phenomenon that occurs when small water animals lik...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Newsxonline/posts/residents-in-blue-ridge-were-left-astonished-after-a-bizarre-phenomenon-fish-rai/1296434959180740/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Newsxonline/posts/residents-in-blue-ridge-were-left-astonished-after-a-bizarre-phenomenon-fish-rai/1296434959180740/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>into strong updrafts created by intense storms. When these upward...</p></details>
+   Link:<a href="https://www.facebook.com/Newsxonline/posts/residents-in-blue-ridge-were-left-astonished-after-a-bizarre-phenomenon-fish-rai/1296434959180740/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Newsxonline/posts/residents-in-blue-ridge-were-left-astonished-after-a-bizarre-phenomenon-fish-rai/1296434959180740/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>into strong updrafts created by intense storms. When these upward...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RicWTSP/posts/can-fish-really-fall-from-the-sky-actually-yes-but-its-rare-of-course-the-fish-d/1041286680695506/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RicWTSP/posts/can-fish-really-fall-from-the-sky-actually-yes-but-its-rare-of-course-the-fish-d/1041286680695506/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>re, the phenomenon is typically caused by tornadic waterspouts...</p></details>
+   Link:<a href="https://www.facebook.com/RicWTSP/posts/can-fish-really-fall-from-the-sky-actually-yes-but-its-rare-of-course-the-fish-d/1041286680695506/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RicWTSP/posts/can-fish-really-fall-from-the-sky-actually-yes-but-its-rare-of-course-the-fish-d/1041286680695506/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>re, the phenomenon is typically caused by tornadic waterspouts...</p></details>

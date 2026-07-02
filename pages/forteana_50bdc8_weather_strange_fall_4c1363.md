@@ -451,18 +451,18 @@ Strange falls sit near the centre of [Forteana]({{ 'forteana/' | relative_url }}
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_weather_strange_fall_4c1363-overview.webp" | relative_url }}" alt="Overview image for Weather" loading="eager" decoding="sync" fetchpriority="high">
-Weather does not explain every old “fall” report with equal confidence. Many historical accounts are second-hand, exaggerated or missing details such as wind direction, nearby water, timing and species identification. But the mechanism-first approach changes the question. Instead of asking whether frogs can literally “rain”, it asks what storm process could lift, move, expose, wash out or concentrate animals and debris so that witnesses reasonably believe something has fallen from above. The Library of Congress gives this as the central caution: numerous reports exist, but many cases may involve storms flushing animals from burrows, knocking birds from trees, washing fish from water margins, or driving frogs into view rather than lifting them high into the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/browse-all-questions/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">Instead, storms fill in worm burrows, knock birds from trees and roofs, wash fish onto the shores of rivers...Read more...</span></span></span>
+Weather does not explain every old “fall” report with equal confidence. Many historical accounts are second-hand, exaggerated or missing details such as wind direction, nearby water, timing and species identification. But the mechanism-first approach changes the question. Instead of asking whether frogs can literally “rain”, it asks what storm process could lift, move, expose, wash out or concentrate animals and debris so that witnesses reasonably believe something has fallen from above. The Library of Congress gives this as the central caution: numerous reports exist, but many cases may involve storms flushing animals from burrows, knocking birds from trees, washing fish from water margins, or driving frogs into view rather than lifting them high into the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/browse-all-questions/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">Instead, storms fill in worm burrows, knock birds from trees and roofs, wash fish onto the shores of rivers...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6AYng-br22U" title="WX Fun 1on1: Does it really rain frogs and fish?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6AYng-br22U" target="_blank" rel="noopener noreferrer">WX Fun 1on1: Does it really rain frogs and fish?</a></p><p class="youtube-embed-meta">Channel: WVTM 13 News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6AYng-br22U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6AYng-br22U">Open on YouTube</a></p></div></div></div>
 
 ## Waterspouts and whirlwinds: the classic Fortean mechanism
 
-The best-known natural explanation for animal falls is the vortex: a rotating column of air capable of lifting light material and dropping it elsewhere. In ordinary language this is usually described as a waterspout, but meteorologists distinguish between fair-weather waterspouts and tornadic waterspouts. The US National Weather Service describes tornadic waterspouts as tornadoes that form over water or move from land to water, associated with severe thunderstorms, high winds, rough seas, hail and dangerous lightning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/mfl/waterspouts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">National Weather ServiceAbout WaterspoutsWaterspouts are similar to tornadoes over water. simply tornadoes that form over water, often ac...</span></span></span> NOAA’s Ocean Today gives the same distinction: tornadic waterspouts may begin as land tornadoes or form in severe thunderstorms over water, whereas fair-weather waterspouts are generally a different, usually less violent, category. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oceantoday.noaa.gov/waterspouts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oceantoday.noaa.gov">[Ocean Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oceantoday.noaa.gov</span><span class="citation-popover-title">Ocean Today Waterspouts &#124; Ocean Today</span><span class="citation-popover-snippet">Ocean Today Waterspouts &#124; Ocean Today</span></span></span>
+The best-known natural explanation for animal falls is the vortex: a rotating column of air capable of lifting light material and dropping it elsewhere. In ordinary language this is usually described as a waterspout, but meteorologists distinguish between fair-weather waterspouts and tornadic waterspouts. The US National Weather Service describes tornadic waterspouts as tornadoes that form over water or move from land to water, associated with severe thunderstorms, high winds, rough seas, hail and dangerous lightning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/mfl/waterspouts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">National Weather ServiceAbout WaterspoutsWaterspouts are similar to tornadoes over water. simply tornadoes that form over water, often ac...</span></span></span> NOAA’s Ocean Today gives the same distinction: tornadic waterspouts may begin as land tornadoes or form in severe thunderstorms over water, whereas fair-weather waterspouts are generally a different, usually less violent, category.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://oceantoday.noaa.gov/waterspouts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oceantoday.noaa.gov">[Ocean Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oceantoday.noaa.gov</span><span class="citation-popover-title">Ocean Today Waterspouts &#124; Ocean Today</span><span class="citation-popover-snippet">Ocean Today Waterspouts &#124; Ocean Today</span></span></span>
 
 That distinction matters because “a waterspout did it” is often used too loosely. A weak, fair-weather waterspout is not a magic vacuum that selectively harvests fish, frogs and nothing else. A stronger tornadic vortex, storm updraught or small tornado can move loose objects, spray, mud, leaves, insects and small animals, but the details of distance, height and survival still matter. A credible weather explanation should fit the local geography: a pond, marsh, river, flooded field or shoreline close enough for the animals to be lifted or displaced.
 
-The Library of Congress notes that many scientists regard tornadic waterspouts as a possible explanation for some frog and fish falls, while also stressing that the phenomenon remains difficult to verify because scientists generally have not observed the full chain from animal pickup to later fall. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/browse-all-questions/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">Instead, storms fill in worm burrows, knock birds from trees and roofs, wash fish onto the shores of rivers...Read more...</span></span></span> That is a useful Fortean lesson. A mechanism can be physically plausible without proving that every famous story happened exactly as retold.
+The Library of Congress notes that many scientists regard tornadic waterspouts as a possible explanation for some frog and fish falls, while also stressing that the phenomenon remains difficult to verify because scientists generally have not observed the full chain from animal pickup to later fall.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/browse-all-questions/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">Instead, storms fill in worm burrows, knock birds from trees and roofs, wash fish onto the shores of rivers...Read more...</span></span></span> That is a useful Fortean lesson. A mechanism can be physically plausible without proving that every famous story happened exactly as retold.
 
 A vortex explanation becomes stronger when several clues line up:
 
@@ -477,21 +477,21 @@ A vortex explanation becomes stronger when several clues line up:
 
 </div>
 
-[Charles Fort]({{ 'charles-fort/' | relative_url }}) himself was fascinated by such cases because they seemed to expose the limits of neat explanation. His *Book of the Damned* collected strange falls, including fish and frogs, as examples of data that conventional science had supposedly “damned” or pushed aside. Project Gutenberg’s summary of [the book]({{ 'the-book/' | relative_url }}) places mysterious falls of fish and frogs among the anomalous material Fort used to challenge accepted categories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/ebooks/22472" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Open source on gutenberg.org.</span></span></span> Modern meteorology does not remove the Fortean interest; it relocates it. The puzzle becomes less “what impossible thing happened?” and more “how did a rare but natural event become a story of impossible rain?”
+[Charles Fort]({{ 'charles-fort/' | relative_url }}) himself was fascinated by such cases because they seemed to expose the limits of neat explanation. His *Book of the Damned* collected strange falls, including fish and frogs, as examples of data that conventional science had supposedly “damned” or pushed aside. Project Gutenberg’s summary of [the book]({{ 'the-book/' | relative_url }}) places mysterious falls of fish and frogs among the anomalous material Fort used to challenge accepted categories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/ebooks/22472" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Open source on gutenberg.org.</span></span></span> Modern meteorology does not remove the Fortean interest; it relocates it. The puzzle becomes less “what impossible thing happened?” and more “how did a rare but natural event become a story of impossible rain?”
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_weather_strange_fall_4c1363-Illustration-1-dark.svg" | relative_url }}" alt="Weather illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_weather_strange_fall_4c1363-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_weather_strange_fall_4c1363-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Rainfall illusions and animals: when the fall may not be a fall
 
-Many “rains” of animals may begin at ground level. Heavy rain can fill worm burrows, flood ant nests, flush frogs from damp hiding places, strand fish from overflowing watercourses, or reveal animals already present but unnoticed. The Library of Congress explicitly warns that suburban and urban witnesses may underestimate how many small organisms live around them, making a sudden storm-driven appearance look like a fall from the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/browse-all-questions/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">Instead, storms fill in worm burrows, knock birds from trees and roofs, wash fish onto the shores of rivers...Read more...</span></span></span>
+Many “rains” of animals may begin at ground level. Heavy rain can fill worm burrows, flood ant nests, flush frogs from damp hiding places, strand fish from overflowing watercourses, or reveal animals already present but unnoticed. The Library of Congress explicitly warns that suburban and urban witnesses may underestimate how many small organisms live around them, making a sudden storm-driven appearance look like a fall from the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/browse-all-questions/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">Instead, storms fill in worm burrows, knock birds from trees and roofs, wash fish onto the shores of rivers...Read more...</span></span></span>
 
 This is especially important for frogs and worms. Amphibians often move during wet weather because damp conditions reduce the risk of drying out. After a heavy shower, a road, lawn or school playing field can suddenly be dotted with frogs that were hidden in vegetation, drains or nearby wet ground minutes earlier. Worms may surface after rain because their burrows are saturated or because moist surfaces allow safer movement. To a witness who notices the animals only after the rain begins, the sequence can feel obvious: rain fell, animals appeared, therefore animals fell with the rain.
 
-Birds add another layer. Fish found after a storm are often assumed to have been lifted from water by wind, but birds can drop, vomit or abandon fish when startled. A modern example is the fish fall reported in Texarkana, Texas, in December 2021. Early reports framed it as “raining fish” after storms moved through the area, but later independent investigation by Sharon A. Hill and Paul Cropper argued that the fish probably came from birds, likely cormorants, which are known to expel stomach contents under stress. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wsls.com/features/2022/01/04/city-warned-of-animal-rain-after-fish-were-seen-falling-from-the-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsls.com">[WSLS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsls.com</span><span class="citation-popover-title">Texas city warned of &#x27;animal rain&#x27; after fish were seen</span><span class="citation-popover-snippet">Texas city warned of &#x27;animal rain&#x27; after fish were seen</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sharonahill.com/texarkana-fish-rain-mystery-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sharonahill.com">[Sharon A. Hill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sharonahill.com</span><span class="citation-popover-title">Sharon A. Hill Texarkana Fish Rain Mystery Solved &#124; Sharon A. Hill</span><span class="citation-popover-snippet">Sharon A. Hill Texarkana Fish Rain Mystery Solved &#124; Sharon A. Hill</span></span></span> Popular Science’s account of the investigation noted that some fish appeared partly digested and that local reports placed large flocks of cormorants near the airport at the relevant time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popsci.com/environment/fish-falling-from-sky-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popsci.com">[Popular Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popsci.com</span><span class="citation-popover-title">Popular Science We may know why fish rained from the sky over Texas</span><span class="citation-popover-snippet">Popular Science We may know why fish rained from the sky over Texas</span></span></span>
+Birds add another layer. Fish found after a storm are often assumed to have been lifted from water by wind, but birds can drop, vomit or abandon fish when startled. A modern example is the fish fall reported in Texarkana, Texas, in December 2021. Early reports framed it as “raining fish” after storms moved through the area, but later independent investigation by Sharon A. Hill and Paul Cropper argued that the fish probably came from birds, likely cormorants, which are known to expel stomach contents under stress.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wsls.com/features/2022/01/04/city-warned-of-animal-rain-after-fish-were-seen-falling-from-the-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsls.com">[WSLS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsls.com</span><span class="citation-popover-title">Texas city warned of &#x27;animal rain&#x27; after fish were seen</span><span class="citation-popover-snippet">Texas city warned of &#x27;animal rain&#x27; after fish were seen</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://sharonahill.com/texarkana-fish-rain-mystery-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sharonahill.com">[Sharon A. Hill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sharonahill.com</span><span class="citation-popover-title">Sharon A. Hill Texarkana Fish Rain Mystery Solved &#124; Sharon A. Hill</span><span class="citation-popover-snippet">Sharon A. Hill Texarkana Fish Rain Mystery Solved &#124; Sharon A. Hill</span></span></span> Popular Science’s account of the investigation noted that some fish appeared partly digested and that local reports placed large flocks of cormorants near the airport at the relevant time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popsci.com/environment/fish-falling-from-sky-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popsci.com">[Popular Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popsci.com</span><span class="citation-popover-title">Popular Science We may know why fish rained from the sky over Texas</span><span class="citation-popover-snippet">Popular Science We may know why fish rained from the sky over Texas</span></span></span>
 
 That case is valuable because it shows how a weather event can be real without the first weather explanation being correct. A storm may still be part of the story: it startles birds, concentrates witnesses indoors and outdoors at particular moments, and gives the event a dramatic frame. But the immediate transport mechanism may be biological rather than meteorological.
 
-The same caution applies to the famous fish events at Yoro in Honduras. Reports describe fish appearing after heavy seasonal storms, and the local tradition has become culturally important. The usual explanations include strong winds or waterspouts, but another possibility is that heavy rain floods underground streams, drainage channels or hidden freshwater habitats, leaving fish stranded after water recedes. The important point is that the Yoro case is not just a simple example of fish lifted from the sea; the Atlantic is roughly 72 kilometres away, and repeated annual occurrence in the same area makes a direct sea-to-town waterspout explanation less tidy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lluvia_de_peces" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lluvia de peces</span><span class="citation-popover-snippet">Lluvia de peces</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://remezcla.com/culture/lluvia-de-peces-honduras/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: remezcla.com">[Remezcla]</a><span class="citation-popover" role="note"><span class="citation-popover-source">remezcla.com</span><span class="citation-popover-snippet">Open source on remezcla.com.</span></span></span>
+The same caution applies to the famous fish events at Yoro in Honduras. Reports describe fish appearing after heavy seasonal storms, and the local tradition has become culturally important. The usual explanations include strong winds or waterspouts, but another possibility is that heavy rain floods underground streams, drainage channels or hidden freshwater habitats, leaving fish stranded after water recedes. The important point is that the Yoro case is not just a simple example of fish lifted from the sea; the Atlantic is roughly 72 kilometres away, and repeated annual occurrence in the same area makes a direct sea-to-town waterspout explanation less tidy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lluvia_de_peces" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lluvia de peces</span><span class="citation-popover-snippet">Lluvia de peces</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://remezcla.com/culture/lluvia-de-peces-honduras/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: remezcla.com">[Remezcla]</a><span class="citation-popover" role="note"><span class="citation-popover-source">remezcla.com</span><span class="citation-popover-snippet">Open source on remezcla.com.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ma5zgSHUj8w" title="Fish, Frogs And Ice Blocks Falling From The Sky | Our World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ma5zgSHUj8w" target="_blank" rel="noopener noreferrer">Fish, Frogs And Ice Blocks Falling From The Sky | Our World</a></p><p class="youtube-embed-meta">Channel: Our World</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ma5zgSHUj8w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ma5zgSHUj8w">Open on YouTube</a></p></div></div></div>
@@ -500,13 +500,13 @@ The same caution applies to the famous fish events at Yoro in Honduras. Reports 
 
 Not every Fortean fall involves living creatures. “Blood rain”, black rain, yellow dust and milky rain can look even more ominous because they appear to transform ordinary water into something symbolic. Here again, weather is often the delivery system rather than the whole source.
 
-The UK Met Office explains “blood rain” as a colloquial rather than formal scientific term. It occurs when relatively high concentrations of red dust or other particles mix with raindrops, tinting the rain or leaving reddish residue after the water evaporates. The red colour often comes from iron-rich desert dust carried long distances through the atmosphere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/rain/blood-rain" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Open source on metoffice.gov.uk.</span></span></span> In March 2026, for example, the Met Office discussed the possibility of Saharan dust reaching the UK and noted that rain falling through suspended dust can take on a reddish tint or leave coloured deposits. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metoffice.gov.uk/blog/2026/what-is-blood-rain-and-will-we-see-it-this-week" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metoffice.gov.uk</span><span class="citation-popover-title">what is blood rain and will we see it this week</span><span class="citation-popover-snippet">what is blood rain and will we see it this week</span></span></span>
+The UK Met Office explains “blood rain” as a colloquial rather than formal scientific term. It occurs when relatively high concentrations of red dust or other particles mix with raindrops, tinting the rain or leaving reddish residue after the water evaporates. The red colour often comes from iron-rich desert dust carried long distances through the atmosphere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/rain/blood-rain" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Open source on metoffice.gov.uk.</span></span></span> In March 2026, for example, the Met Office discussed the possibility of Saharan dust reaching the UK and noted that rain falling through suspended dust can take on a reddish tint or leave coloured deposits.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metoffice.gov.uk/blog/2026/what-is-blood-rain-and-will-we-see-it-this-week" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metoffice.gov.uk</span><span class="citation-popover-title">what is blood rain and will we see it this week</span><span class="citation-popover-snippet">what is blood rain and will we see it this week</span></span></span>
 
 This kind of fall feels Fortean because it collapses distance. Dust from a desert may arrive on a car windscreen hundreds or thousands of kilometres away; a storm becomes a courier for a landscape the witness cannot see. The event is not supernatural, but it is still strange in the everyday sense: the sky really can deliver material from far away, and rain can make invisible transport visible.
 
-The Kerala red rain episodes show a different version of the same pattern. During the 2001 monsoon season, red-coloured rain fell sporadically in parts of Kerala, India, staining clothes and surfaces. Early speculation included a meteor-related explanation, but the Government of India-commissioned work by the Centre for Earth Science Studies and the Tropical Botanical Garden and Research Institute concluded that the colour came from airborne spores of algae in the genus *Trentepohlia*. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Red_rain_in_Kerala" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Red rain in Kerala</span><span class="citation-popover-snippet">Red rain in Kerala</span></span></span> Later discussion continued around how such spores were dispersed and concentrated, but the core lesson is clear: “red rain” can be a biological and atmospheric event rather than an omen, miracle or extraterrestrial deposit.
+The Kerala red rain episodes show a different version of the same pattern. During the 2001 monsoon season, red-coloured rain fell sporadically in parts of Kerala, India, staining clothes and surfaces. Early speculation included a meteor-related explanation, but the Government of India-commissioned work by the Centre for Earth Science Studies and the Tropical Botanical Garden and Research Institute concluded that the colour came from airborne spores of algae in the genus *Trentepohlia*.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Red_rain_in_Kerala" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Red rain in Kerala</span><span class="citation-popover-snippet">Red rain in Kerala</span></span></span> Later discussion continued around how such spores were dispersed and concentrated, but the core lesson is clear: “red rain” can be a biological and atmospheric event rather than an omen, miracle or extraterrestrial deposit.
 
-Other odd falls are similar. Smithsonian Magazine described a “milky rain” case in the Pacific north-west of the United States in which scientists eventually traced the material to a dust storm that had lifted particles from a shallow lakebed in southern Oregon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/science-nature/strange-rain-why-fish-frogs-and-golf-balls-fall-skies-180956527/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">Smithsonian Magazine Strange Rain: Why Fish, Frogs and Golf Balls Fall From the</span><span class="citation-popover-snippet">Smithsonian Magazine Strange Rain: Why Fish, Frogs and Golf Balls Fall From the</span></span></span> The visual effect was uncanny, but the mechanism was a chain of ordinary processes: dry sediment, wind transport, atmospheric mixing and rain-out.
+Other odd falls are similar. Smithsonian Magazine described a “milky rain” case in the Pacific north-west of the United States in which scientists eventually traced the material to a dust storm that had lifted particles from a shallow lakebed in southern Oregon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/science-nature/strange-rain-why-fish-frogs-and-golf-balls-fall-skies-180956527/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">Smithsonian Magazine Strange Rain: Why Fish, Frogs and Golf Balls Fall From the</span><span class="citation-popover-snippet">Smithsonian Magazine Strange Rain: Why Fish, Frogs and Golf Balls Fall From the</span></span></span> The visual effect was uncanny, but the mechanism was a chain of ordinary processes: dry sediment, wind transport, atmospheric mixing and rain-out.
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_weather_strange_fall_4c1363-Illustration-2-dark.svg" | relative_url }}" alt="Weather illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_weather_strange_fall_4c1363-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_weather_strange_fall_4c1363-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -514,7 +514,7 @@ Other odd falls are similar. Smithsonian Magazine described a “milky rain” c
 
 Some strange falls look impossible because of number rather than size. A single frog on a path is not Fortean; hundreds of small animals or vast sheets of silk are. Weather can create that effect by synchronising behaviour across many small organisms.
 
-“Spider rain” is usually not rain in the strict sense. Many spiders disperse by ballooning: they release silk threads that catch moving air, allowing them to travel. National Geographic reported on a 2015 event in southern Australia in which large numbers of tiny spiders appeared to rain down, explaining the spectacle as mass ballooning on silk strands. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalgeographic.com/animals/article/150518-spiders-australia-silk-webs-animals-environment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[National Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-title">150518 spiders australia silk webs animals environment</span><span class="citation-popover-snippet">150518 spiders australia silk webs animals environment</span></span></span> After floods in Victoria in 2021, the Guardian reported extensive sheets of webbing across fields and roadsides, with experts explaining that spiders had moved to higher ground and produced a temporary “gossamer” effect. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/australia-news/2021/jun/15/they-look-like-waves-massive-spider-webs-blanket-gippsland-after-victorian-floods" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+“Spider rain” is usually not rain in the strict sense. Many spiders disperse by ballooning: they release silk threads that catch moving air, allowing them to travel. National Geographic reported on a 2015 event in southern Australia in which large numbers of tiny spiders appeared to rain down, explaining the spectacle as mass ballooning on silk strands.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalgeographic.com/animals/article/150518-spiders-australia-silk-webs-animals-environment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[National Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-title">150518 spiders australia silk webs animals environment</span><span class="citation-popover-snippet">150518 spiders australia silk webs animals environment</span></span></span> After floods in Victoria in 2021, the Guardian reported extensive sheets of webbing across fields and roadsides, with experts explaining that spiders had moved to higher ground and produced a temporary “gossamer” effect.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/australia-news/2021/jun/15/they-look-like-waves-massive-spider-webs-blanket-gippsland-after-victorian-floods" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
 The weather role here is indirect but crucial. Flooding forces movement. Wind and atmospheric electrical conditions can help tiny spiders launch and travel. Damp landscapes then make silk visible as shining sheets. A person encountering the result may reasonably describe the scene as if spiders or webs had fallen from the sky, even when the event is a mass escape, dispersal or landing.
 
@@ -527,9 +527,9 @@ This is a recurring pattern in Fortean weather cases. The witness’s descriptio
 
 Weather-driven strange falls become folklore because they have three qualities that [ordinary explanations]({{ 'ordinary-causes/' | relative_url }}) do not erase: they are sudden, public and symbolically charged. A violent storm already primes people to expect disruption. If the storm leaves fish in the street, red stains on walls or frogs across a road, the aftermath feels like a message, even when it is better understood as transport, wash-out or animal behaviour.
 
-The Yoro fish tradition shows how quickly a repeated weather-linked event can become more than a puzzle. Reports connect the fish with seasonal storms, local religious tradition and community identity; since the late 1990s, the event has also been marked by a local festival. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lluvia_de_peces" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lluvia de peces</span><span class="citation-popover-snippet">Lluvia de peces</span></span></span> Once a strange fall becomes part of a place’s story, explanation and meaning separate. A hydrological explanation may account for how fish arrive, but not why people continue to tell the story as blessing, marvel or inheritance.
+The Yoro fish tradition shows how quickly a repeated weather-linked event can become more than a puzzle. Reports connect the fish with seasonal storms, local religious tradition and community identity; since the late 1990s, the event has also been marked by a local festival.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lluvia_de_peces" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lluvia de peces</span><span class="citation-popover-snippet">Lluvia de peces</span></span></span> Once a strange fall becomes part of a place’s story, explanation and meaning separate. A hydrological explanation may account for how fish arrive, but not why people continue to tell the story as blessing, marvel or inheritance.
 
-Fortean cases also survive because the evidence often arrives in awkward form. A storm has passed; the animals or residue remain; the most important processes are already over. There may be no video of a waterspout lifting fish, no sample collection, no species identification, no wind reconstruction, and no reliable first-hand chronology. That gap gives room for both sceptical correction and extravagant speculation. Fort’s own interest in strange falls grew from this evidential awkwardness: the reports were concrete enough to intrigue, but incomplete enough to resist closure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publicdomainreview.org/essay/charles-fort-and-the-book-of-the-damned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publicdomainreview.org">[The Public Domain Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publicdomainreview.org</span><span class="citation-popover-title">charles fort and the book of the damned</span><span class="citation-popover-snippet">charles fort and the book of the damned</span></span></span>
+Fortean cases also survive because the evidence often arrives in awkward form. A storm has passed; the animals or residue remain; the most important processes are already over. There may be no video of a waterspout lifting fish, no sample collection, no species identification, no wind reconstruction, and no reliable first-hand chronology. That gap gives room for both sceptical correction and extravagant speculation. Fort’s own interest in strange falls grew from this evidential awkwardness: the reports were concrete enough to intrigue, but incomplete enough to resist closure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publicdomainreview.org/essay/charles-fort-and-the-book-of-the-damned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publicdomainreview.org">[The Public Domain Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publicdomainreview.org</span><span class="citation-popover-title">charles fort and the book of the damned</span><span class="citation-popover-snippet">charles fort and the book of the damned</span></span></span>
 
 The most balanced reading is therefore neither credulous nor dismissive. Weather can make the world look Fortean in genuinely surprising ways. Tornadic waterspouts and whirlwinds can move small animals and debris; storms can flush hidden life into the open; birds can drop fish during turbulent weather; dust and spores can tint rain; floods and winds can create mass movements of spiders and insects. The mystery is not always whether something fell from the sky. Often it is how atmosphere, landscape, animals and human interpretation briefly align to make an ordinary storm look like an impossible one.
 
@@ -537,194 +537,194 @@ The most balanced reading is therefore neither credulous nor dismissive. Weather
 <img src="{{ "/assets/images/forteana_50bdc8_weather_strange_fall_4c1363-Illustration-3-dark.svg" | relative_url }}" alt="Weather illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_weather_strange_fall_4c1363-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_weather_strange_fall_4c1363-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Weather Makes the World Look Fortean. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Weather Makes the World Look Fortean. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Explores why remarkable stories and beliefs persist across generations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Explores why remarkable stories and beliefs persist across generations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weather For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LtoPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Weather For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
-        </h4>
-        <p class="fr-book-author">By John D. Cox</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weather For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LtoPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Weather For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
+</h4>
+<p class="fr-book-author">By John D. Cox</p>
         
-        <p class="fr-book-desc">Explains storms, vortices and atmospheric processes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains storms, vortices and atmospheric processes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Weather+Machine+by+Andrew+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Weather Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NWQMDgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Weather Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Weather+Machine+by+Andrew+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Weather Machine">The Weather Machine</a>
-        </h4>
-        <p class="fr-book-author">By Andrew Blum</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Weather+Machine+by+Andrew+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Weather Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NWQMDgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Weather Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Weather+Machine+by+Andrew+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Weather Machine">The Weather Machine</a>
+</h4>
+<p class="fr-book-author">By Andrew Blum</p>
         
-        <p class="fr-book-desc">Provides modern understanding of weather systems behind unusual events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Weather+Machine+by+Andrew+Blum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides modern understanding of weather systems behind unusual events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Weather+Machine+by+Andrew+Blum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+Unusual+Knowledge+Publications+International+Ltd.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of Unusual Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10860496-M.jpg" alt="Cover for The Book of Unusual Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Book+of+Unusual+Knowledge+Publications+International+Ltd.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Unusual Knowledge">The Book of Unusual Knowledge</a>
-        </h4>
-        <p class="fr-book-author">By Publications International Ltd.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+Unusual+Knowledge+Publications+International+Ltd.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of Unusual Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10860496-M.jpg" alt="Cover for The Book of Unusual Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Book+of+Unusual+Knowledge+Publications+International+Ltd.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Unusual Knowledge">The Book of Unusual Knowledge</a>
+</h4>
+<p class="fr-book-author">By Publications International Ltd.</p>
         
-        <p class="fr-book-desc">First published 2012. Subjects: Curiosities and wonders.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Book+of+Unusual+Knowledge+Publications+International+Ltd.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2012. Subjects: Curiosities and wonders.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Book+of+Unusual+Knowledge+Publications+International+Ltd.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Weather+For+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weather For Dummies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Weather+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Weather Machine</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Weather+For+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weather For Dummies</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Weather+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Weather Machine</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Talking About Meteorology Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5e9b26a1df43946a154d.jpg' | relative_url }}" alt="Listing image for Talking About Meteorology Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer">Talking About Meteorology Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Talking About Meteorology Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5e9b26a1df43946a154d.jpg' | relative_url }}" alt="Listing image for Talking About Meteorology Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer">Talking About Meteorology Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Diagram of meteorology Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e237acecb122fc0c9914.jpg' | relative_url }}" alt="Listing image for Diagram of meteorology Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer">Diagram of meteorology Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Diagram of meteorology Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e237acecb122fc0c9914.jpg' | relative_url }}" alt="Listing image for Diagram of meteorology Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer">Diagram of meteorology Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Meteorologist Meteorology Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1fbe8eeaa9ae5bfe266c.jpg' | relative_url }}" alt="Listing image for Meteorologist Meteorology Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer">Meteorologist Meteorology Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Meteorologist Meteorology Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1fbe8eeaa9ae5bfe266c.jpg' | relative_url }}" alt="Listing image for Meteorologist Meteorology Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer">Meteorologist Meteorology Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Introverted Meteorology Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ca603b4b895b265ec943.jpg' | relative_url }}" alt="Listing image for Introverted Meteorology Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer">Introverted Meteorology Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Introverted Meteorology Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ca603b4b895b265ec943.jpg' | relative_url }}" alt="Listing image for Introverted Meteorology Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer">Introverted Meteorology Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="weather-when-weather-makes-the-world-look-fortean-forteana-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -740,7 +740,7 @@ The most balanced reading is therefore neither credulous nor dismissive. Weather
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -760,7 +760,7 @@ The most balanced reading is therefore neither credulous nor dismissive. Weather
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -792,7 +792,7 @@ The most balanced reading is therefore neither credulous nor dismissive. Weather
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -844,7 +844,7 @@ The most balanced reading is therefore neither credulous nor dismissive. Weather
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -889,7 +889,7 @@ The most balanced reading is therefore neither credulous nor dismissive. Weather
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -930,168 +930,168 @@ The most balanced reading is therefore neither credulous nor dismissive. Weather
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/mfl/waterspouts" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/mfl/waterspouts</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceAbout WaterspoutsWaterspouts are similar to tornadoes over water. simply tornadoes that form over water, often ac...</p></details>
+   Link:<a href="https://www.weather.gov/mfl/waterspouts" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/mfl/waterspouts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceAbout WaterspoutsWaterspouts are similar to tornadoes over water. simply tornadoes that form over water, often ac...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: oceantoday.noaa.gov  
    Title: Ocean Today Waterspouts | Ocean Today  
-   Link: <a href="https://oceantoday.noaa.gov/waterspouts/" target="_blank" rel="noopener noreferrer nofollow">https://oceantoday.noaa.gov/waterspouts/</a>  
+   Link:<a href="https://oceantoday.noaa.gov/waterspouts/" target="_blank" rel="noopener noreferrer nofollow">https://oceantoday.noaa.gov/waterspouts/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/ebooks/22472" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/ebooks/22472</a>  
+   Link:<a href="https://www.gutenberg.org/ebooks/22472" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/ebooks/22472</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: wsls.com  
    Title: Texas city warned of 'animal rain' after fish were seen  
-   Link: <a href="https://www.wsls.com/features/2022/01/04/city-warned-of-animal-rain-after-fish-were-seen-falling-from-the-sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.wsls.com/features/2022/01/04/city-warned-of-animal-rain-after-fish-were-seen-falling-from-the-sky/</a>  
+   Link:<a href="https://www.wsls.com/features/2022/01/04/city-warned-of-animal-rain-after-fish-were-seen-falling-from-the-sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.wsls.com/features/2022/01/04/city-warned-of-animal-rain-after-fish-were-seen-falling-from-the-sky/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Lluvia de peces  
-   Link: <a href="https://en.wikipedia.org/wiki/Lluvia_de_peces" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lluvia_de_peces</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Lluvia_de_peces" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lluvia_de_peces</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: remezcla.com  
-   Link: <a href="https://remezcla.com/culture/lluvia-de-peces-honduras/" target="_blank" rel="noopener noreferrer nofollow">https://remezcla.com/culture/lluvia-de-peces-honduras/</a>  
+   Link:<a href="https://remezcla.com/culture/lluvia-de-peces-honduras/" target="_blank" rel="noopener noreferrer nofollow">https://remezcla.com/culture/lluvia-de-peces-honduras/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Red rain in Kerala  
-   Link: <a href="https://en.wikipedia.org/wiki/Red_rain_in_Kerala" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Red_rain_in_Kerala</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Red_rain_in_Kerala" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Red_rain_in_Kerala</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Rain of animals  
-   Link: <a href="https://en.wikipedia.org/wiki/Rain_of_animals" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rain_of_animals</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Rain_of_animals" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rain_of_animals</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: National Oceanic and Atmospheric Administration  
-   Link: <a href="https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: The Book of the Damned  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Book_of_the_Damned" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Book_of_the_Damned</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Book_of_the_Damned" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Book_of_the_Damned</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/</a>  
+   Link:<a href="https://www.weather.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/apx/waterspout" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/apx/waterspout</a>  
+   Link:<a href="https://www.weather.gov/apx/waterspout" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/apx/waterspout</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: time.com  
    Title: animals have actually rained from the sky  
-   Link: <a href="https://time.com/28894/animals-have-actually-rained-from-the-sky/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/28894/animals-have-actually-rained-from-the-sky/</a>  
+   Link:<a href="https://time.com/28894/animals-have-actually-rained-from-the-sky/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/28894/animals-have-actually-rained-from-the-sky/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: loc.gov  
-   Link: <a href="https://www.loc.gov/everyday-mysteries/browse-all-questions/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/everyday-mysteries/browse-all-questions/item/can-it-rain-frogs-fish-and-other-objects/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Instead, storms fill in worm burrows, knock birds from trees and roofs, wash fish onto the shores of rivers...Read more...</p></details>
+   Link:<a href="https://www.loc.gov/everyday-mysteries/browse-all-questions/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/everyday-mysteries/browse-all-questions/item/can-it-rain-frogs-fish-and-other-objects/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Instead, storms fill in worm burrows, knock birds from trees and roofs, wash fish onto the shores of rivers...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sharonahill.com  
    Title: Sharon A. Hill [Texarkana Fish Rain](&#123;&#123; 'texarkana-fish/' | relative_url &#125;&#125;) Mystery Solved | Sharon A. Hill  
-   Link: <a href="https://sharonahill.com/texarkana-fish-rain-mystery-solved/" target="_blank" rel="noopener noreferrer nofollow">https://sharonahill.com/texarkana-fish-rain-mystery-solved/</a>  
+   Link:<a href="https://sharonahill.com/texarkana-fish-rain-mystery-solved/" target="_blank" rel="noopener noreferrer nofollow">https://sharonahill.com/texarkana-fish-rain-mystery-solved/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: popsci.com  
    Title: Popular Science We may know why fish rained from the sky over Texas  
-   Link: <a href="https://www.popsci.com/environment/fish-falling-from-sky-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://www.popsci.com/environment/fish-falling-from-sky-mystery/</a>  
+   Link:<a href="https://www.popsci.com/environment/fish-falling-from-sky-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://www.popsci.com/environment/fish-falling-from-sky-mystery/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/rain/blood-rain" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/rain/blood-rain</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/rain/blood-rain" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/rain/blood-rain</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: metoffice.gov.uk  
    Title: what is blood rain and will we see it this week  
-   Link: <a href="https://www.metoffice.gov.uk/blog/2026/what-is-blood-rain-and-will-we-see-it-this-week" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2026/what-is-blood-rain-and-will-we-see-it-this-week</a>  
+   Link:<a href="https://www.metoffice.gov.uk/blog/2026/what-is-blood-rain-and-will-we-see-it-this-week" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2026/what-is-blood-rain-and-will-we-see-it-this-week</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: smithsonianmag.com  
-   Link: <a href="https://www.smithsonianmag.com/science-nature/[strange-rain" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/science-nature/[strange-rain</a>  
+   Link:<a href="https://www.smithsonianmag.com/science-nature/[strange-rain" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/science-nature/[strange-rain</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nationalgeographic.com  
    Title: 150518 spiders australia silk webs animals environment  
-   Link: <a href="https://www.nationalgeographic.com/animals/article/150518-spiders-australia-silk-webs-animals-environment" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/animals/article/150518-spiders-australia-silk-webs-animals-environment</a>  
+   Link:<a href="https://www.nationalgeographic.com/animals/article/150518-spiders-australia-silk-webs-animals-environment" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/animals/article/150518-spiders-australia-silk-webs-animals-environment</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/australia-news/2021/jun/15/they-look-like-waves-massive-spider-webs-blanket-gippsland-after-victorian-floods" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/australia-news/2021/jun/15/they-look-like-waves-massive-spider-webs-blanket-gippsland-after-victorian-floods</a>  
+   Link:<a href="https://www.theguardian.com/australia-news/2021/jun/15/they-look-like-waves-massive-spider-webs-blanket-gippsland-after-victorian-floods" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/australia-news/2021/jun/15/they-look-like-waves-massive-spider-webs-blanket-gippsland-after-victorian-floods</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: publicdomainreview.org  
    Title: charles fort and the book of the damned  
-   Link: <a href="https://publicdomainreview.org/essay/charles-fort-and-the-book-of-the-damned/" target="_blank" rel="noopener noreferrer nofollow">https://publicdomainreview.org/essay/charles-fort-and-the-book-of-the-damned/</a>  
+   Link:<a href="https://publicdomainreview.org/essay/charles-fort-and-the-book-of-the-damned/" target="_blank" rel="noopener noreferrer nofollow">https://publicdomainreview.org/essay/charles-fort-and-the-book-of-the-damned/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: loc.gov  
-   Link: <a href="https://www.loc.gov/everyday-mysteries/meteorology-climatology/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/everyday-mysteries/meteorology-climatology/item/can-it-rain-frogs-fish-and-other-objects/</a>  
+   Link:<a href="https://www.loc.gov/everyday-mysteries/meteorology-climatology/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/everyday-mysteries/meteorology-climatology/item/can-it-rain-frogs-fish-and-other-objects/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/International/baby-spiders-rain-sky-witness-describes-amazing-phenomenon/story?id=31173490" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/International/baby-spiders-rain-sky-witness-describes-amazing-phenomenon/story?id=31173490</a>  
+   Link:<a href="https://abcnews.com/International/baby-spiders-rain-sky-witness-describes-amazing-phenomenon/story?id=31173490" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/International/baby-spiders-rain-sky-witness-describes-amazing-phenomenon/story?id=31173490</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: skeptoid.com  
-   Link: <a href="https://skeptoid.com/episodes/224" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/224</a>  
+   Link:<a href="https://skeptoid.com/episodes/224" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/224</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: smithsonianmag.com  
    Title: no its not really raining spiders australia 180955327  
-   Link: <a href="https://www.smithsonianmag.com/smart-news/no-its-not-really-raining-spiders-australia-180955327/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smart-news/no-its-not-really-raining-spiders-australia-180955327/</a>  
+   Link:<a href="https://www.smithsonianmag.com/smart-news/no-its-not-really-raining-spiders-australia-180955327/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smart-news/no-its-not-really-raining-spiders-australia-180955327/</a>  
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: Fish, Frogs And Ice Blocks Falling From The Sky | Our World  
-   Link: <a href="https://www.youtube.com/watch?v=Ma5zgSHUj8w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ma5zgSHUj8w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Does It Really Rain Fish in Honduras? (Lluvia de Peces)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ma5zgSHUj8w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ma5zgSHUj8w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Does It Really Rain Fish in Honduras? (Lluvia de Peces)...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: Does It Really Rain Fish in Honduras? (Lluvia de Peces)  
-   Link: <a href="https://www.youtube.com/watch?v=yenMbmILJtw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yenMbmILJtw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Raining Fish In London | World&#x27;s Strangest...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yenMbmILJtw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yenMbmILJtw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Raining Fish In London | World&#x27;s Strangest...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Rochakjankari31/posts/a-rare-phenomenon-called-animal-rain-occurs-when-powerful-waterspout-lifts-fish-/1250278473925252/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Rochakjankari31/posts/a-rare-phenomenon-called-animal-rain-occurs-when-powerful-waterspout-lifts-fish-/1250278473925252/</a>  
+   Link:<a href="https://www.facebook.com/Rochakjankari31/posts/a-rare-phenomenon-called-animal-rain-occurs-when-powerful-waterspout-lifts-fish-/1250278473925252/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Rochakjankari31/posts/a-rare-phenomenon-called-animal-rain-occurs-when-powerful-waterspout-lifts-fish-/1250278473925252/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/aboutnature/posts/4076826089220196/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/aboutnature/posts/4076826089220196/</a>  
+   Link:<a href="https://www.facebook.com/groups/aboutnature/posts/4076826089220196/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/aboutnature/posts/4076826089220196/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WIONews/posts/blood-rain-to-hit-britainsaharan-dust-cloud-set-to-turn-uk-rain-red-eric-njoka-h/1274313888141116/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/blood-rain-to-hit-britainsaharan-dust-cloud-set-to-turn-uk-rain-red-eric-njoka-h/1274313888141116/</a>  
+   Link:<a href="https://www.facebook.com/WIONews/posts/blood-rain-to-hit-britainsaharan-dust-cloud-set-to-turn-uk-rain-red-eric-njoka-h/1274313888141116/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/blood-rain-to-hit-britainsaharan-dust-cloud-set-to-turn-uk-rain-red-eric-njoka-h/1274313888141116/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RicWTSP/posts/can-fish-really-fall-from-the-sky-actually-yes-but-its-rare-of-course-the-fish-d/1041286680695506/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RicWTSP/posts/can-fish-really-fall-from-the-sky-actually-yes-but-its-rare-of-course-the-fish-d/1041286680695506/</a>  
+   Link:<a href="https://www.facebook.com/RicWTSP/posts/can-fish-really-fall-from-the-sky-actually-yes-but-its-rare-of-course-the-fish-d/1041286680695506/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RicWTSP/posts/can-fish-really-fall-from-the-sky-actually-yes-but-its-rare-of-course-the-fish-d/1041286680695506/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/colorsofnatureofficialpage/posts/in-2001-something-strange-happened-in-kerala-india-people-were-shocked-to-see-re/1063751862224689/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/colorsofnatureofficialpage/posts/in-2001-something-strange-happened-in-kerala-india-people-were-shocked-to-see-re/1063751862224689/</a>  
+   Link:<a href="https://www.facebook.com/colorsofnatureofficialpage/posts/in-2001-something-strange-happened-in-kerala-india-people-were-shocked-to-see-re/1063751862224689/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/colorsofnatureofficialpage/posts/in-2001-something-strange-happened-in-kerala-india-people-were-shocked-to-see-re/1063751862224689/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/KRDO13/posts/earlier-this-week-residents-of-texarkana-reported-small-fish-falling-from-the-sk/5145836965466943/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KRDO13/posts/earlier-this-week-residents-of-texarkana-reported-small-fish-falling-from-the-sk/5145836965466943/</a>  
+   Link:<a href="https://www.facebook.com/KRDO13/posts/earlier-this-week-residents-of-texarkana-reported-small-fish-falling-from-the-sk/5145836965466943/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KRDO13/posts/earlier-this-week-residents-of-texarkana-reported-small-fish-falling-from-the-sk/5145836965466943/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/marchofthedamned/comments/1t00ena/fish_rain_from_sky_every_year_in_honduras_weather/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/marchofthedamned/comments/1t00ena/fish_rain_from_sky_every_year_in_honduras_weather/</a>  
+   Link:<a href="https://www.reddit.com/r/marchofthedamned/comments/1t00ena/fish_rain_from_sky_every_year_in_honduras_weather/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/marchofthedamned/comments/1t00ena/fish_rain_from_sky_every_year_in_honduras_weather/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/worldatlas/posts/fish-rain-in-yoro-honduras-yes-its-real-once-or-twice-a-year-in-the-town-of-yoro/1226127396221855/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/worldatlas/posts/fish-rain-in-yoro-honduras-yes-its-real-once-or-twice-a-year-in-the-town-of-yoro/1226127396221855/</a>  
+   Link:<a href="https://www.facebook.com/worldatlas/posts/fish-rain-in-yoro-honduras-yes-its-real-once-or-twice-a-year-in-the-town-of-yoro/1226127396221855/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/worldatlas/posts/fish-rain-in-yoro-honduras-yes-its-real-once-or-twice-a-year-in-the-town-of-yoro/1226127396221855/</a>  

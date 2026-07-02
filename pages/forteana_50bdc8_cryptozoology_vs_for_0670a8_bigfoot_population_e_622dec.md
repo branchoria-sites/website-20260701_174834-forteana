@@ -280,7 +280,7 @@ image: /assets/images/forteana_50bdc8_cryptozoology_vs_for_0670a8_bigfoot_popula
 
 ## Introduction
 
-Bigfoot sits at the point where cryptozoology meets biology. Witnesses may sincerely report seeing a large, ape-like figure, but if Bigfoot is proposed as a real animal rather than a purely folkloric or Fortean phenomenon, it must satisfy the same ecological rules as every other large mammal. A viable species cannot exist as a handful of isolated individuals. It requires a breeding population, sufficient food, suitable habitat, genetic diversity, and physical traces that accumulate over time. This shift—from evaluating individual encounters to evaluating whether an entire species could persist—is where the debate changes most dramatically. While reports continue to be collected across North America, the central scientific question is not whether unusual sightings occur, but whether those sightings are accompanied by evidence consistent with a hidden population of large primates. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newsweek.com/bigfoot-likely-bear-statistics-1776741" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-snippet">Scientist Has Very Simple Explanation for BigfootJan 30, 2023 — &quot;Based on statistical considerations, it is likely that many supp...</span></span></span>
+Bigfoot sits at the point where cryptozoology meets biology. Witnesses may sincerely report seeing a large, ape-like figure, but if Bigfoot is proposed as a real animal rather than a purely folkloric or Fortean phenomenon, it must satisfy the same ecological rules as every other large mammal. A viable species cannot exist as a handful of isolated individuals. It requires a breeding population, sufficient food, suitable habitat, genetic diversity, and physical traces that accumulate over time. This shift—from evaluating individual encounters to evaluating whether an entire species could persist—is where the debate changes most dramatically. While reports continue to be collected across North America, the central scientific question is not whether unusual sightings occur, but whether those sightings are accompanied by evidence consistent with a hidden population of large primates.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newsweek.com/bigfoot-likely-bear-statistics-1776741" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-snippet">Scientist Has Very Simple Explanation for BigfootJan 30, 2023 — &quot;Based on statistical considerations, it is likely that many supp...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_cryptozoology_vs_for_0670a8_bigfoot_population_e_622dec-Illustration-1-dark.svg" | relative_url }}" alt="Bigfoot illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_cryptozoology_vs_for_0670a8_bigfoot_population_e_622dec-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_cryptozoology_vs_for_0670a8_bigfoot_population_e_622dec-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -302,9 +302,9 @@ From a biological perspective, however, eyewitness testimony is only the beginni
 
 </div>
 
-Individual reports may remain unexplained without demonstrating that an unknown species exists. This distinction explains why many zoologists regard the Bigfoot question differently from the cultural importance of Bigfoot stories themselves. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4100498/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Keywords: yeti, almasty, bigfoot, sasquatch, mitochondrial DNA. 1. Introduction. Despite several...Read more...</span></span></span>
+Individual reports may remain unexplained without demonstrating that an unknown species exists. This distinction explains why many zoologists regard the Bigfoot question differently from the cultural importance of Bigfoot stories themselves.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4100498/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Keywords: yeti, almasty, bigfoot, sasquatch, mitochondrial DNA. 1. Introduction. Despite several...Read more...</span></span></span>
 
-One example is the extensive genetic examination of purported Bigfoot hair samples published in *Proceedings of the Royal Society B*. Researchers analysed dozens of samples submitted from around the world. Nearly all proved to originate from known mammals such as bears, horses, cattle, deer, dogs or humans rather than an unidentified primate. Although this did not eliminate every possible future claim, it demonstrated that some of the strongest physical evidence presented over many years failed scientific testing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4100498/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Keywords: yeti, almasty, bigfoot, sasquatch, mitochondrial DNA. 1. Introduction. Despite several...Read more...</span></span></span>
+One example is the extensive genetic examination of purported Bigfoot hair samples published in *Proceedings of the Royal Society B*. Researchers analysed dozens of samples submitted from around the world. Nearly all proved to originate from known mammals such as bears, horses, cattle, deer, dogs or humans rather than an unidentified primate. Although this did not eliminate every possible future claim, it demonstrated that some of the strongest physical evidence presented over many years failed scientific testing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4100498/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Keywords: yeti, almasty, bigfoot, sasquatch, mitochondrial DNA. 1. Introduction. Despite several...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_zUxw6yXuKw" title="The Unsettling Biology of Sasquatch: A Deep Dive into the Science of Bigfoot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_zUxw6yXuKw" target="_blank" rel="noopener noreferrer">The Unsettling Biology of Sasquatch: A Deep Dive into the Science of Bigfoot</a></p><p class="youtube-embed-meta">Channel: Thought Potato</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_zUxw6yXuKw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_zUxw6yXuKw">Open on YouTube</a></p></div></div></div>
@@ -315,7 +315,7 @@ The greatest challenge for the biological Bigfoot hypothesis is not whether one 
 
 ### How many individuals would be needed?
 
-Conservation biology shows that long-term survival generally requires substantially more than a few scattered animals. Small populations face inbreeding, random mortality and loss of genetic diversity. Although the exact number depends on lifespan, reproduction and movement between groups, a large mammal persisting over centuries would ordinarily require at least several hundred breeding individuals, and probably considerably more over a continental range. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/jun/11/sasquatch-bigfoot-sightings-fervour-scepticism-ape-ontario" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Witnesses described large, ape-like creatures, a strong earthy smell, and unexplained knocking sounds, all aligning with traditional Sasq...</span></span></span>
+Conservation biology shows that long-term survival generally requires substantially more than a few scattered animals. Small populations face inbreeding, random mortality and loss of genetic diversity. Although the exact number depends on lifespan, reproduction and movement between groups, a large mammal persisting over centuries would ordinarily require at least several hundred breeding individuals, and probably considerably more over a continental range.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/jun/11/sasquatch-bigfoot-sightings-fervour-scepticism-ape-ontario" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Witnesses described large, ape-like creatures, a strong earthy smell, and unexplained knocking sounds, all aligning with traditional Sasq...</span></span></span>
 
 If such a population existed, it would create cumulative biological evidence rather than isolated encounters.
 
@@ -325,7 +325,7 @@ An ape standing over two metres tall would require significant daily energy inta
 
 Large mammals also require space. Bears, cougars and wolves occupy measurable home ranges and leave detectable signs through tracks, scat, hair, feeding remains and repeated camera-trap images. A breeding population of large primates distributed across North America would likewise be expected to leave a persistent ecological footprint extending well beyond occasional eyewitness reports.
 
-Supporters often argue that the forests of the Pacific Northwest and western Canada are vast enough to conceal unknown animals. Scientists generally agree that these landscapes remain incompletely explored, but they also note that they are extensively used by foresters, hunters, biologists, Indigenous communities, hikers, aerial surveys and increasingly dense networks of remote cameras. Maintaining an undiscovered population becomes progressively more difficult as monitoring technology improves. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bigfoot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+Supporters often argue that the forests of the Pacific Northwest and western Canada are vast enough to conceal unknown animals. Scientists generally agree that these landscapes remain incompletely explored, but they also note that they are extensively used by foresters, hunters, biologists, Indigenous communities, hikers, aerial surveys and increasingly dense networks of remote cameras. Maintaining an undiscovered population becomes progressively more difficult as monitoring technology improves.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bigfoot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_cryptozoology_vs_for_0670a8_bigfoot_population_e_622dec-Illustration-2-dark.svg" | relative_url }}" alt="Bigfoot illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_cryptozoology_vs_for_0670a8_bigfoot_population_e_622dec-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_cryptozoology_vs_for_0670a8_bigfoot_population_e_622dec-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -333,7 +333,7 @@ Supporters often argue that the forests of the Pacific Northwest and western Can
 
 A common argument is that few bear skeletons are found naturally, so the absence of Bigfoot bones proves little.
 
-It is true that carcasses decompose rapidly and scavengers disperse remains. Nevertheless, established large mammals leave recoverable skeletal material, road casualties, museum specimens, fossils or genetically identifiable remains over long periods. For Bigfoot, despite decades of searches and thousands of reported encounters, no authenticated bones or bodies have entered the scientific record as evidence for a previously unknown North American ape. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bigfoot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+It is true that carcasses decompose rapidly and scavengers disperse remains. Nevertheless, established large mammals leave recoverable skeletal material, road casualties, museum specimens, fossils or genetically identifiable remains over long periods. For Bigfoot, despite decades of searches and thousands of reported encounters, no authenticated bones or bodies have entered the scientific record as evidence for a previously unknown North American ape.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bigfoot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 ## Why traces matter more than sightings
 
@@ -343,7 +343,7 @@ Environmental DNA (eDNA) allows researchers to identify animals through tiny fra
 
 These methods have successfully documented species once considered exceptionally difficult to observe, including snow leopards, rare forest carnivores and previously overlooked populations of known mammals. If a widespread population of large primates existed across North America, many researchers argue that repeated positive results from these techniques would be expected eventually.
 
-The absence of consistent genetic evidence does not logically prove non-existence, but it raises the evidential threshold. As technology becomes more sensitive, continued failure to detect an unknown species weighs increasingly against the biological hypothesis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4100498/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Keywords: yeti, almasty, bigfoot, sasquatch, mitochondrial DNA. 1. Introduction. Despite several...Read more...</span></span></span>
+The absence of consistent genetic evidence does not logically prove non-existence, but it raises the evidential threshold. As technology becomes more sensitive, continued failure to detect an unknown species weighs increasingly against the biological hypothesis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4100498/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Keywords: yeti, almasty, bigfoot, sasquatch, mitochondrial DNA. 1. Introduction. Despite several...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xL5OnqKXX7k" title="Expedition Bigfoot | S4 E2 | DNA Test Results From White Hairs Found At Bigfoot Location [HD] [2023]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xL5OnqKXX7k" target="_blank" rel="noopener noreferrer">Expedition Bigfoot | S4 E2 | DNA Test Results From White Hairs Found At Bigfoot Location [HD] [2023]</a></p><p class="youtube-embed-meta">Channel: WotNot</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xL5OnqKXX7k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xL5OnqKXX7k">Open on YouTube</a></p></div></div></div>
@@ -373,201 +373,201 @@ Importantly, no single blurry photograph or isolated footprint would normally sa
 
 Within Forteana, Bigfoot remains one of the most influential modern legends because it combines [folklore]({{ 'folklore/' | relative_url }}), eyewitness testimony, Indigenous traditions, media culture and the enduring appeal of unexplored wilderness. Within cryptozoology, however, it becomes a biological claim subject to ecological constraints.
 
-That distinction explains why the debate increasingly centres on breeding populations rather than dramatic encounters. A single unexplained sighting can remain unresolved indefinitely. A real species must leave a continuous trail of evidence through reproduction, genetics, habitat use and physical remains. The longer such evidence fails to emerge despite advances in wildlife monitoring and genetic methods, the more difficult it becomes to reconcile the reported encounters with the requirements of a surviving population of large, undiscovered primates. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newsweek.com/bigfoot-likely-bear-statistics-1776741" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-snippet">Scientist Has Very Simple Explanation for BigfootJan 30, 2023 — &quot;Based on statistical considerations, it is likely that many supp...</span></span></span>
+That distinction explains why the debate increasingly centres on breeding populations rather than dramatic encounters. A single unexplained sighting can remain unresolved indefinitely. A real species must leave a continuous trail of evidence through reproduction, genetics, habitat use and physical remains. The longer such evidence fails to emerge despite advances in wildlife monitoring and genetic methods, the more difficult it becomes to reconcile the reported encounters with the requirements of a surviving population of large, undiscovered primates.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newsweek.com/bigfoot-likely-bear-statistics-1776741" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-snippet">Scientist Has Very Simple Explanation for BigfootJan 30, 2023 — &quot;Based on statistical considerations, it is likely that many supp...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YwfAPwdz6x4" title="Could Bigfoot ACTUALLY Exist?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YwfAPwdz6x4" target="_blank" rel="noopener noreferrer">Could Bigfoot ACTUALLY Exist?</a></p><p class="youtube-embed-meta">Channel: Absolute History</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YwfAPwdz6x4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YwfAPwdz6x4">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could Bigfoot Work as a Real Animal?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Could Bigfoot Work as a Real Animal?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunting Monsters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10220347-M.jpg" alt="Cover for Hunting Monsters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunting Monsters">Hunting Monsters</a>
-        </h4>
-        <p class="fr-book-author">By Darren Naish</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunting Monsters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10220347-M.jpg" alt="Cover for Hunting Monsters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunting Monsters">Hunting Monsters</a>
+</h4>
+<p class="fr-book-author">By Darren Naish</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Monsters, Zoology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Monsters, Zoology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sasquatch+Jeff+Meldrum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sasquatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/524559-M.jpg" alt="Cover for Sasquatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Sasquatch+Jeff+Meldrum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sasquatch">Sasquatch</a>
-        </h4>
-        <p class="fr-book-author">By Jeff Meldrum</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sasquatch+Jeff+Meldrum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sasquatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/524559-M.jpg" alt="Cover for Sasquatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Sasquatch+Jeff+Meldrum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sasquatch">Sasquatch</a>
+</h4>
+<p class="fr-book-author">By Jeff Meldrum</p>
         
-        <p class="fr-book-desc">First published 2006. Subjects: Sasquatch, Animals.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Sasquatch+Jeff+Meldrum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2006. Subjects: Sasquatch, Animals.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Sasquatch+Jeff+Meldrum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bigfoot+Joshua+Blu+Buhs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bigfoot on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9256868-M.jpg" alt="Cover for Bigfoot" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bigfoot+Joshua+Blu+Buhs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bigfoot">Bigfoot</a>
-        </h4>
-        <p class="fr-book-author">By Joshua Blu Buhs</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bigfoot+Joshua+Blu+Buhs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bigfoot on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9256868-M.jpg" alt="Cover for Bigfoot" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bigfoot+Joshua+Blu+Buhs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bigfoot">Bigfoot</a>
+</h4>
+<p class="fr-book-author">By Joshua Blu Buhs</p>
         
-        <p class="fr-book-desc">First published 2009. Subjects: Sasquatch, History, New Age, Nonfiction, Science.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bigfoot+Joshua+Blu+Buhs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2009. Subjects: Sasquatch, History, New Age, Nonfiction, Science.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bigfoot+Joshua+Blu+Buhs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science">Abominable Science</a>
-        </h4>
-        <p class="fr-book-author">By Donald R. Prothero, Daniel Loxton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science">Abominable Science</a>
+</h4>
+<p class="fr-book-author">By Donald R. Prothero, Daniel Loxton</p>
         
-        <p class="fr-book-desc">First published 2012. Subjects: Animals, mythical.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2012. Subjects: Animals, mythical.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunting+Monsters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunting Monsters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sasquatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sasquatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bigfoot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bigfoot</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunting+Monsters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunting Monsters</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Sasquatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sasquatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bigfoot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bigfoot</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for GHOST IN THE SHELL Movie Poster Retro Art Print A4"><img src="{{ '/assets/images/marketplace-covers/28e6695edf184a006bd9.jpg' | relative_url }}" alt="Listing image for GHOST IN THE SHELL Movie Poster Retro Art Print A4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer">GHOST IN THE SHELL Movie Poster Retro Art Print A4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ghost poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for GHOST IN THE SHELL Movie Poster Retro Art Print A4"><img src="{{ '/assets/images/marketplace-covers/28e6695edf184a006bd9.jpg' | relative_url }}" alt="Listing image for GHOST IN THE SHELL Movie Poster Retro Art Print A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer">GHOST IN THE SHELL Movie Poster Retro Art Print A4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for GHOST WORLD - SCARLETT JOHANSSON / BUSCEMI / HIGH SCHOOL - ORIGINAL MOVIE POSTER"><img src="{{ '/assets/images/marketplace-covers/713afac198ea9ae2ac19.jpg' | relative_url }}" alt="Listing image for GHOST WORLD - SCARLETT JOHANSSON / BUSCEMI / HIGH SCHOOL - ORIGINAL MOVIE POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer">GHOST WORLD - SCARLETT JOHANSSON / BUSCEMI / HIGH SCHOOL - ORIGINAL MOVIE POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ghost poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for GHOST WORLD - SCARLETT JOHANSSON / BUSCEMI / HIGH SCHOOL - ORIGINAL MOVIE POSTER"><img src="{{ '/assets/images/marketplace-covers/713afac198ea9ae2ac19.jpg' | relative_url }}" alt="Listing image for GHOST WORLD - SCARLETT JOHANSSON / BUSCEMI / HIGH SCHOOL - ORIGINAL MOVIE POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer">GHOST WORLD - SCARLETT JOHANSSON / BUSCEMI / HIGH SCHOOL - ORIGINAL MOVIE POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Poster Ghost in the Shell 420mm x 594mm (size A2)"><img src="{{ '/assets/images/marketplace-covers/ed5a1be57c89939f869e.jpg' | relative_url }}" alt="Listing image for Poster Ghost in the Shell 420mm x 594mm (size A2)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer">Poster Ghost in the Shell 420mm x 594mm (size A2)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ghost poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Poster Ghost in the Shell 420mm x 594mm (size A2)"><img src="{{ '/assets/images/marketplace-covers/ed5a1be57c89939f869e.jpg' | relative_url }}" alt="Listing image for Poster Ghost in the Shell 420mm x 594mm (size A2)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer">Poster Ghost in the Shell 420mm x 594mm (size A2)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ghost - live music show Nov 2019 promotional tour concert gig poster"><img src="{{ '/assets/images/marketplace-covers/e9bbab17781e4df43065.jpg' | relative_url }}" alt="Listing image for Ghost - live music show Nov 2019 promotional tour concert gig poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer">Ghost - live music show Nov 2019 promotional tour concert gig poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ghost poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ghost - live music show Nov 2019 promotional tour concert gig poster"><img src="{{ '/assets/images/marketplace-covers/e9bbab17781e4df43065.jpg' | relative_url }}" alt="Listing image for Ghost - live music show Nov 2019 promotional tour concert gig poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer">Ghost - live music show Nov 2019 promotional tour concert gig poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="bigfoot-could-bigfoot-work-as-a-real-animal-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -583,7 +583,7 @@ That distinction explains why the debate increasingly centres on breeding popula
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -603,7 +603,7 @@ That distinction explains why the debate increasingly centres on breeding popula
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -635,7 +635,7 @@ That distinction explains why the debate increasingly centres on breeding popula
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -687,7 +687,7 @@ That distinction explains why the debate increasingly centres on breeding popula
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -732,7 +732,7 @@ That distinction explains why the debate increasingly centres on breeding popula
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -773,105 +773,105 @@ That distinction explains why the debate increasingly centres on breeding popula
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: newsweek.com  
-   Link: <a href="https://www.newsweek.com/bigfoot-likely-bear-statistics-1776741" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/bigfoot-likely-bear-statistics-1776741</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientist Has Very Simple Explanation for BigfootJan 30, 2023 — &quot;Based on statistical considerations, it is likely that many supp...</p></details>
+   Link:<a href="https://www.newsweek.com/bigfoot-likely-bear-statistics-1776741" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/bigfoot-likely-bear-statistics-1776741</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientist Has Very Simple Explanation for BigfootJan 30, 2023 — &quot;Based on statistical considerations, it is likely that many supp...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4100498/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4100498/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Keywords: yeti, almasty, bigfoot, sasquatch, mitochondrial DNA. 1. Introduction. Despite several...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4100498/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4100498/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Keywords: yeti, almasty, bigfoot, sasquatch, mitochondrial DNA. 1. Introduction. Despite several...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Bigfoot" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bigfoot</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Bigfoot" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bigfoot</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: time.com  
    Title: bigfoot dna bear animal  
-   Link: <a href="https://time.com/2949457/bigfoot-dna-bear-animal/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/2949457/bigfoot-dna-bear-animal/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DNA Study Proves Bigfoot Never Existed2 Jul 2014 — University of Oxford researchers announced that the beloved bipedal cryptid known glob...</p></details>
+   Link:<a href="https://time.com/2949457/bigfoot-dna-bear-animal/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/2949457/bigfoot-dna-bear-animal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DNA Study Proves Bigfoot Never Existed2 Jul 2014 — University of Oxford researchers announced that the beloved bipedal cryptid known glob...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/24990672/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24990672/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Genetic analysis of hair samples attributed to yeti, bigfoot...22 Aug 2014 — Genetic analysis of hair samples attributed to yeti...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/24990672/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24990672/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Genetic analysis of hair samples attributed to yeti, bigfoot...22 Aug 2014 — Genetic analysis of hair samples attributed to yeti...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2026/jun/11/sasquatch-bigfoot-sightings-fervour-scepticism-ape-ontario" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/jun/11/sasquatch-bigfoot-sightings-fervour-scepticism-ape-ontario</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Witnesses described large, ape-like creatures, a strong earthy smell, and unexplained knocking sounds, all aligning with traditional Sasq...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/jun/11/sasquatch-bigfoot-sightings-fervour-scepticism-ape-ontario" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/jun/11/sasquatch-bigfoot-sightings-fervour-scepticism-ape-ontario</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Witnesses described large, ape-like creatures, a strong earthy smell, and unexplained knocking sounds, all aligning with traditional Sasq...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: science.howstuffworks.com  
-   Link: <a href="https://science.howstuffworks.com/science-vs-myth/strange-creatures/bigfoot.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/science-vs-myth/strange-creatures/bigfoot.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>howstuffworks.comBigfoot: The Pacific Northwest&#x27;s Claim to Cryptid FameApr 9, 2025 — Bigfoot, aka Sasquatch, allegedly roams the forests...</p></details>
+   Link:<a href="https://science.howstuffworks.com/science-vs-myth/strange-creatures/bigfoot.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/science-vs-myth/strange-creatures/bigfoot.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>howstuffworks.comBigfoot: The Pacific Northwest&#x27;s Claim to Cryptid FameApr 9, 2025 — Bigfoot, aka Sasquatch, allegedly roams the forests...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: theguardian.com  
    Title: genetics evolution dna analysis yeti sasquatch bigfoot zoology primates  
-   Link: <a href="https://www.theguardian.com/science/grrlscientist/2014/jul/02/genetics-evolution-dna-analysis-yeti-sasquatch-bigfoot-zoology-primates" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/grrlscientist/2014/jul/02/genetics-evolution-dna-analysis-yeti-sasquatch-bigfoot-zoology-primates</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DNA analysis indicates Bigfoot may be a big fake2 Jul 2014 — A newly-published genetic analysis of hair samples suspected as being from a...</p></details>
+   Link:<a href="https://www.theguardian.com/science/grrlscientist/2014/jul/02/genetics-evolution-dna-analysis-yeti-sasquatch-bigfoot-zoology-primates" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/grrlscientist/2014/jul/02/genetics-evolution-dna-analysis-yeti-sasquatch-bigfoot-zoology-primates</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DNA analysis indicates Bigfoot may be a big fake2 Jul 2014 — A newly-published genetic analysis of hair samples suspected as being from a...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/bigfoot/comments/tt71tq/how_many_big_foot_creatures_needed_to_sustain/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/bigfoot/comments/tt71tq/how_many_big_foot_creatures_needed_to_sustain/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>population?...</p></details>
+   Link:<a href="https://www.reddit.com/r/bigfoot/comments/tt71tq/how_many_big_foot_creatures_needed_to_sustain/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/bigfoot/comments/tt71tq/how_many_big_foot_creatures_needed_to_sustain/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>population?...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/263583915_Correction_to_Genetic_analysis_of_hair_samples_attributed_to_yeti_bigfoot_and_other_anomalous_primates" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/263583915_Correction_to_Genetic_analysis_of_hair_samples_attributed_to_yeti_bigfoot_and_other_anomalous_primates</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Genetic analysis of hair samples attributed to yeti, bigfoot...3 Jan 2026 — All but two hair samples were proven to be known domesticate...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/263583915_Correction_to_Genetic_analysis_of_hair_samples_attributed_to_yeti_bigfoot_and_other_anomalous_primates" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/263583915_Correction_to_Genetic_analysis_of_hair_samples_attributed_to_yeti_bigfoot_and_other_anomalous_primates</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Genetic analysis of hair samples attributed to yeti, bigfoot...3 Jan 2026 — All but two hair samples were proven to be known domesticate...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/bigfoot/comments/14zkht0/moneymakers_new_dna_study/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/bigfoot/comments/14zkht0/moneymakers_new_dna_study/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MONEYMAKER&#x27;S NEW DNA STUDY:: r/bigfoot... Bigfoot Hair Sample DNA research? Do you think it will prove... If you re-run that DNA data f...</p></details>
+   Link:<a href="https://www.reddit.com/r/bigfoot/comments/14zkht0/moneymakers_new_dna_study/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/bigfoot/comments/14zkht0/moneymakers_new_dna_study/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MONEYMAKER&#x27;S NEW DNA STUDY:: r/bigfoot... Bigfoot Hair Sample DNA research? Do you think it will prove... If you re-run that DNA data f...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/bigfoot/comments/17hkmiv/on_the_possibility_of_large_primates_living_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/bigfoot/comments/17hkmiv/on_the_possibility_of_large_primates_living_in/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On the possibility of large primates living in North AmericaWhat are some cases or evidence that you make you totally believe Sasquatch r...</p></details>
+   Link:<a href="https://www.reddit.com/r/bigfoot/comments/17hkmiv/on_the_possibility_of_large_primates_living_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/bigfoot/comments/17hkmiv/on_the_possibility_of_large_primates_living_in/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On the possibility of large primates living in North AmericaWhat are some cases or evidence that you make you totally believe Sasquatch r...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: retractionwatch.com  
    Title: bigfoot paper corrected because it doesnt exist the authors institution that is  
-   Link: <a href="https://retractionwatch.com/2015/04/14/bigfoot-paper-corrected-because-it-doesnt-exist-the-authors-institution-that-is/" target="_blank" rel="noopener noreferrer nofollow">https://retractionwatch.com/2015/04/14/bigfoot-paper-corrected-because-it-doesnt-exist-the-authors-institution-that-is/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>primates such as the yeti in the Himalaya, almasty in central Asia and sasquatch/bigfoot in North America. On the one hand, numerous repo...</p></details>
+   Link:<a href="https://retractionwatch.com/2015/04/14/bigfoot-paper-corrected-because-it-doesnt-exist-the-authors-institution-that-is/" target="_blank" rel="noopener noreferrer nofollow">https://retractionwatch.com/2015/04/14/bigfoot-paper-corrected-because-it-doesnt-exist-the-authors-institution-that-is/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>primates such as the yeti in the Himalaya, almasty in central Asia and sasquatch/bigfoot in North America. On the one hand, numerous repo...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ksj.mit.edu  
    Title: bigfoot hair analysis how to write a smart story about a stupid topic  
-   Link: <a href="https://ksj.mit.edu/tracker-archive/bigfoot-hair-analysis-how-to-write-a-smart-story-about-a-stupid-topic/" target="_blank" rel="noopener noreferrer nofollow">https://ksj.mit.edu/tracker-archive/bigfoot-hair-analysis-how-to-write-a-smart-story-about-a-stupid-topic/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>hair analysis: How to write a smart story about a stupid...They received 57 hairs from Bigfoot enthusiasts and museums around the world...</p></details>
+   Link:<a href="https://ksj.mit.edu/tracker-archive/bigfoot-hair-analysis-how-to-write-a-smart-story-about-a-stupid-topic/" target="_blank" rel="noopener noreferrer nofollow">https://ksj.mit.edu/tracker-archive/bigfoot-hair-analysis-how-to-write-a-smart-story-about-a-stupid-topic/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>hair analysis: How to write a smart story about a stupid...They received 57 hairs from Bigfoot enthusiasts and museums around the world...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/bigfoot/comments/1j91zzo/first_bigfoot_dna_study/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/bigfoot/comments/1j91zzo/first_bigfoot_dna_study/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>First Bigfoot DNA studyHere&#x27;s a structured overview of notable Sasquatch (Bigfoot) DNA studies, highlighting key projects, researchers, m...</p></details>
+   Link:<a href="https://www.reddit.com/r/bigfoot/comments/1j91zzo/first_bigfoot_dna_study/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/bigfoot/comments/1j91zzo/first_bigfoot_dna_study/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>First Bigfoot DNA studyHere&#x27;s a structured overview of notable Sasquatch (Bigfoot) DNA studies, highlighting key projects, researchers, m...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: science.org  
    Title: bigfoot samples analyzed lab  
-   Link: <a href="https://www.science.org/content/article/bigfoot-samples-analyzed-lab" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/bigfoot-samples-analyzed-lab</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Bigfoot&#x27; samples analyzed in labJul 1, 2014 — First peer-reviewed genetic analysis looks at more than 50 samples... In North America, t...</p></details>
+   Link:<a href="https://www.science.org/content/article/bigfoot-samples-analyzed-lab" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/bigfoot-samples-analyzed-lab</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Bigfoot&#x27; samples analyzed in labJul 1, 2014 — First peer-reviewed genetic analysis looks at more than 50 samples... In North America, t...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: csmonitor.com  
    Title: How genetic sequencing is stomping on the Bigfoot myth  
-   Link: <a href="https://www.csmonitor.com/Science/2014/0702/How-genetic-sequencing-is-stomping-on-the-Bigfoot-myth" target="_blank" rel="noopener noreferrer nofollow">https://www.csmonitor.com/Science/2014/0702/How-genetic-sequencing-is-stomping-on-the-Bigfoot-myth</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Jul 2014 — An analysis of more than 30 hair samples purported to be from Bigfoot are actually from bears, cows, raccoons, and other mam...</p></details>
+   Link:<a href="https://www.csmonitor.com/Science/2014/0702/How-genetic-sequencing-is-stomping-on-the-Bigfoot-myth" target="_blank" rel="noopener noreferrer nofollow">https://www.csmonitor.com/Science/2014/0702/How-genetic-sequencing-is-stomping-on-the-Bigfoot-myth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 Jul 2014 — An analysis of more than 30 hair samples purported to be from Bigfoot are actually from bears, cows, raccoons, and other mam...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: bigfootforums.com  
    Title: 75206 the sasquatch genome project a failed dna study  
-   Link: <a href="https://bigfootforums.com/topic/75206-the-sasquatch-genome-project-a-failed-dna-study/" target="_blank" rel="noopener noreferrer nofollow">https://bigfootforums.com/topic/75206-the-sasquatch-genome-project-a-failed-dna-study/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Sasquatch Genome Project: A Failed DNA StudyAug 23, 2020 — This book is the result of research over seven years (more than the origin...</p></details>
+   Link:<a href="https://bigfootforums.com/topic/75206-the-sasquatch-genome-project-a-failed-dna-study/" target="_blank" rel="noopener noreferrer nofollow">https://bigfootforums.com/topic/75206-the-sasquatch-genome-project-a-failed-dna-study/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Sasquatch Genome Project: A Failed DNA StudyAug 23, 2020 — This book is the result of research over seven years (more than the origin...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/272352125_The_Ketchum_Project_What_to_Believe_about_Bigfoot_DNA_%27Science%27" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/272352125_The_Ketchum_Project_What_to_Believe_about_Bigfoot_DNA_%27Science%27</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ybrid species, commonly called “Bigfoot” or “Sasquatch,” living in North America.”...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/272352125_The_Ketchum_Project_What_to_Believe_about_Bigfoot_DNA_%27Science%27" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/272352125_The_Ketchum_Project_What_to_Believe_about_Bigfoot_DNA_%27Science%27</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ybrid species, commonly called “Bigfoot” or “Sasquatch,” living in North America.”...</p></details>

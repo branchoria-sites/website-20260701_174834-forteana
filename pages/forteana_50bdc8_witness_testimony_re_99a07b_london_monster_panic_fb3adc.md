@@ -274,7 +274,7 @@ image: /assets/images/forteana_50bdc8_witness_testimony_re_99a07b_london_monster
 
 ## Introduction
 
-The London Monster panic of 1788–1790 is one of the clearest historical examples of why witness testimony must be handled with caution during periods of intense public fear. Although women undoubtedly reported genuine assaults by an unknown attacker, the investigation quickly became entangled with sensational newspaper coverage, public rewards, rumours, copycat incidents, and mounting pressure to identify a culprit. As a result, reliable eyewitness evidence became increasingly difficult to distinguish from mistaken identification, social expectation, and collective anxiety. Rather than showing that witnesses are inherently unreliable, the episode demonstrates how a climate of panic can alter the conditions under which testimony is produced, remembered and evaluated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://eprints.soton.ac.uk/412011/1/LIBRARY_COPY_PhD_Thesis_Final_Formatted_Version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.soton.ac.uk">[ePrints Soton+2Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.soton.ac.uk</span><span class="citation-popover-snippet">ePrints SotonCrime, Deviance, and the Social Discovery of Moral Panic in...May 4, 2017 — by C Hamerton · 2016 · Cited by 1 — The thesis...</span><span class="citation-popover-meta">Published: May 4, 2017</span></span></span>
+The London Monster panic of 1788–1790 is one of the clearest historical examples of why witness testimony must be handled with caution during periods of intense public fear. Although women undoubtedly reported genuine assaults by an unknown attacker, the investigation quickly became entangled with sensational newspaper coverage, public rewards, rumours, copycat incidents, and mounting pressure to identify a culprit. As a result, reliable eyewitness evidence became increasingly difficult to distinguish from mistaken identification, social expectation, and collective anxiety. Rather than showing that witnesses are inherently unreliable, the episode demonstrates how a climate of panic can alter the conditions under which testimony is produced, remembered and evaluated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://eprints.soton.ac.uk/412011/1/LIBRARY_COPY_PhD_Thesis_Final_Formatted_Version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.soton.ac.uk">[ePrints Soton+2Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.soton.ac.uk</span><span class="citation-popover-snippet">ePrints SotonCrime, Deviance, and the Social Discovery of Moral Panic in...May 4, 2017 — by C Hamerton · 2016 · Cited by 1 — The thesis...</span><span class="citation-popover-meta">Published: May 4, 2017</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_witness_testimony_re_99a07b_london_monster_panic_fb3adc-Illustration-1-dark.svg" | relative_url }}" alt="London Monster illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_witness_testimony_re_99a07b_london_monster_panic_fb3adc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_witness_testimony_re_99a07b_london_monster_panic_fb3adc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,9 +282,9 @@ For students of [Forteana]({{ 'forteana/' | relative_url }}), the London Monster
 
 ## Attacks, rewards, and public fear
 
-The attacks began in 1788 and intensified dramatically during the first half of 1790. Victims commonly described a man who approached them with obscene remarks before cutting or stabbing their clothing or bodies with concealed blades. More than fifty attacks were reported, although historians continue to debate whether they were all committed by one individual, by several offenders, or whether some reports reflected imitation or misunderstanding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/London_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">London Monster</span><span class="citation-popover-snippet">London Monster</span></span></span>
+The attacks began in 1788 and intensified dramatically during the first half of 1790. Victims commonly described a man who approached them with obscene remarks before cutting or stabbing their clothing or bodies with concealed blades. More than fifty attacks were reported, although historians continue to debate whether they were all committed by one individual, by several offenders, or whether some reports reflected imitation or misunderstanding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/London_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">London Monster</span><span class="citation-popover-snippet">London Monster</span></span></span>
 
-A turning point came after a cluster of attacks in January 1790 attracted exceptional public attention. [Newspapers]({{ 'newspapers/' | relative_url }}) carried increasingly dramatic accounts, while philanthropist John Julius Angerstein organised a reward of 100 guineas for information leading to the attacker's conviction. The reward, enormous by contemporary standards, encouraged a flood of tips and accusations. Historians studying the case argue that the combination of intense media coverage and financial incentive transformed a criminal investigation into one of Britain's earliest recognisable moral panics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/London_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2ePrints Soton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">London Monster</span><span class="citation-popover-snippet">London Monster</span></span></span>
+A turning point came after a cluster of attacks in January 1790 attracted exceptional public attention. [Newspapers]({{ 'newspapers/' | relative_url }}) carried increasingly dramatic accounts, while philanthropist John Julius Angerstein organised a reward of 100 guineas for information leading to the attacker's conviction. The reward, enormous by contemporary standards, encouraged a flood of tips and accusations. Historians studying the case argue that the combination of intense media coverage and financial incentive transformed a criminal investigation into one of Britain's earliest recognisable moral panics.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/London_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2ePrints Soton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">London Monster</span><span class="citation-popover-snippet">London Monster</span></span></span>
 
 The public reaction spread well beyond fear of assault.
 
@@ -294,7 +294,7 @@ The public reaction spread well beyond fear of assault.
 * Women altered their clothing by adding protective linings or improvised armour beneath dresses.
 * Citizens began detaining strangers on suspicion alone.
 * Bow Street magistrates received numerous reports that proved impossible to verify.
-* Newspapers reinforced expectations by repeatedly describing the mysterious "Monster", encouraging readers to interpret unrelated encounters through the same narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/London_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">London Monster</span><span class="citation-popover-snippet">London Monster</span></span></span>
+* Newspapers reinforced expectations by repeatedly describing the mysterious "Monster", encouraging readers to interpret unrelated encounters through the same narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/London_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">London Monster</span><span class="citation-popover-snippet">London Monster</span></span></span>
 
 </div>
 
@@ -307,11 +307,11 @@ From the perspective of witness testimony, this is the crucial moment. Once a wi
 
 One of the strongest lessons from the London Monster affair is how rapidly eyewitness confidence can be influenced by social pressure.
 
-Contemporary accounts record that more than thirty innocent men were brought before Bow Street after being identified or detained by members of the public hoping to claim the reward. None proved to be the attacker. Innocent employers, relatives and complete strangers were seized simply because they vaguely matched circulating descriptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/London_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">London Monster</span><span class="citation-popover-snippet">London Monster</span></span></span>
+Contemporary accounts record that more than thirty innocent men were brought before Bow Street after being identified or detained by members of the public hoping to claim the reward. None proved to be the attacker. Innocent employers, relatives and complete strangers were seized simply because they vaguely matched circulating descriptions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/London_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">London Monster</span><span class="citation-popover-snippet">London Monster</span></span></span>
 
 This pattern illustrates several well-known problems in eyewitness evidence.
 
-First, descriptions of the attacker varied considerably. Witnesses differed over his appearance, build, methods and even the weapons supposedly used. Some reports described concealed knives attached to knees, others blades hidden in bouquets, while still others suggested claw-like devices fixed to the hands. Some variation is expected in genuine observations made under stressful conditions, but the diversity also raises the possibility that multiple offenders—or evolving rumours—became merged into a single legendary figure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/London_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">London Monster</span><span class="citation-popover-snippet">London Monster</span></span></span>
+First, descriptions of the attacker varied considerably. Witnesses differed over his appearance, build, methods and even the weapons supposedly used. Some reports described concealed knives attached to knees, others blades hidden in bouquets, while still others suggested claw-like devices fixed to the hands. Some variation is expected in genuine observations made under stressful conditions, but the diversity also raises the possibility that multiple offenders—or evolving rumours—became merged into a single legendary figure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/London_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">London Monster</span><span class="citation-popover-snippet">London Monster</span></span></span>
 
 Second, public expectation encouraged confirmation rather than careful discrimination. Once newspapers repeatedly referred to "the Monster", people encountering suspicious behaviour were more likely to interpret ambiguous experiences as connected to the famous attacker rather than as isolated incidents.
 
@@ -323,7 +323,7 @@ Third, the reward created incentives that complicated witness behaviour. While m
 
 The arrest of Renwick Williams did not end questions about the reliability of witness testimony.
 
-Williams was identified after one victim, Anne Porter, believed she recognised him in public. Other witnesses, however, either failed to identify him or expressed uncertainty. Despite these inconsistencies, Williams was convicted after two trials, although historians have continued to question whether the evidence justified the verdict. No forensic evidence linked him directly to the attacks, and some incidents appear incompatible with his known whereabouts. Several modern historians therefore argue that his guilt cannot be regarded as conclusively established, even if he may have committed some assaults. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/London_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2History Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">London Monster</span><span class="citation-popover-snippet">London Monster</span></span></span>
+Williams was identified after one victim, Anne Porter, believed she recognised him in public. Other witnesses, however, either failed to identify him or expressed uncertainty. Despite these inconsistencies, Williams was convicted after two trials, although historians have continued to question whether the evidence justified the verdict. No forensic evidence linked him directly to the attacks, and some incidents appear incompatible with his known whereabouts. Several modern historians therefore argue that his guilt cannot be regarded as conclusively established, even if he may have committed some assaults.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/London_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2History Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">London Monster</span><span class="citation-popover-snippet">London Monster</span></span></span>
 
 For a witness-study perspective, the significance lies less in Williams himself than in the conditions surrounding the identification.
 
@@ -350,11 +350,11 @@ The London Monster case has become valuable well beyond criminal history because
 
 ### Fear changes the information environment
 
-As publicity grows, witnesses are increasingly influenced by previous reports. Later testimony may therefore reflect both original perception and knowledge acquired afterwards. This does not require deliberate deception; memory is reconstructive and naturally incorporates later information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://eprints.soton.ac.uk/412011/1/LIBRARY_COPY_PhD_Thesis_Final_Formatted_Version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.soton.ac.uk">[ePrints Soton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.soton.ac.uk</span><span class="citation-popover-snippet">ePrints SotonCrime, Deviance, and the Social Discovery of Moral Panic in...May 4, 2017 — by C Hamerton · 2016 · Cited by 1 — The thesis...</span><span class="citation-popover-meta">Published: May 4, 2017</span></span></span>
+As publicity grows, witnesses are increasingly influenced by previous reports. Later testimony may therefore reflect both original perception and knowledge acquired afterwards. This does not require deliberate deception; memory is reconstructive and naturally incorporates later information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://eprints.soton.ac.uk/412011/1/LIBRARY_COPY_PhD_Thesis_Final_Formatted_Version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.soton.ac.uk">[ePrints Soton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.soton.ac.uk</span><span class="citation-popover-snippet">ePrints SotonCrime, Deviance, and the Social Discovery of Moral Panic in...May 4, 2017 — by C Hamerton · 2016 · Cited by 1 — The thesis...</span><span class="citation-popover-meta">Published: May 4, 2017</span></span></span>
 
 ### Genuine events can generate unreliable secondary reports
 
-The existence of false accusations does not prove that no assaults occurred. Modern historians broadly accept that numerous women were genuinely attacked while also recognising that rumours, copycats and mistaken identifications probably expanded the apparent scope of the phenomenon. This distinction is essential in Fortean investigations, where scepticism about some reports should not automatically invalidate every report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/London_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">London Monster</span><span class="citation-popover-snippet">London Monster</span></span></span>
+The existence of false accusations does not prove that no assaults occurred. Modern historians broadly accept that numerous women were genuinely attacked while also recognising that rumours, copycats and mistaken identifications probably expanded the apparent scope of the phenomenon. This distinction is essential in Fortean investigations, where scepticism about some reports should not automatically invalidate every report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/London_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">London Monster</span><span class="citation-popover-snippet">London Monster</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_witness_testimony_re_99a07b_london_monster_panic_fb3adc-Illustration-3-dark.svg" | relative_url }}" alt="London Monster illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_witness_testimony_re_99a07b_london_monster_panic_fb3adc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_witness_testimony_re_99a07b_london_monster_panic_fb3adc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -377,178 +377,178 @@ For Fortean researchers, the enduring lesson is methodological rather than super
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Panic That Made Witnesses Dangerous. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Panic That Made Witnesses Dangerous. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Explores collective belief and mass panics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Explores collective belief and mass panics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Highlights pitfalls in evaluating sensational claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights pitfalls in evaluating sensational claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+Books+of+Charles+Fort+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete Books of Charles Fort on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NaFUhCtOCb4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Complete Books of Charles Fort" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Complete+Books+of+Charles+Fort+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Books of Charles Fort">The Complete Books of Charles Fort</a>
-        </h4>
-        <p class="fr-book-author">By Charles Fort</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+Books+of+Charles+Fort+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete Books of Charles Fort on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NaFUhCtOCb4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Complete Books of Charles Fort" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Complete+Books+of+Charles+Fort+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Books of Charles Fort">The Complete Books of Charles Fort</a>
+</h4>
+<p class="fr-book-author">By Charles Fort</p>
         
-        <p class="fr-book-desc">Useful background for unusual historical reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Complete+Books+of+Charles+Fort+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful background for unusual historical reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Complete+Books+of+Charles+Fort+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+London+Monster+Jan+Bondeson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The London Monster on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/602892-M.jpg" alt="Cover for The London Monster" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+London+Monster+Jan+Bondeson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The London Monster">The London Monster</a>
-        </h4>
-        <p class="fr-book-author">By Jan Bondeson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+London+Monster+Jan+Bondeson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The London Monster on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/602892-M.jpg" alt="Cover for The London Monster" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+London+Monster+Jan+Bondeson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The London Monster">The London Monster</a>
+</h4>
+<p class="fr-book-author">By Jan Bondeson</p>
         
-        <p class="fr-book-desc">First published 2000. Subjects: Biography, Crimes against, Criminals, History, Trials, litigation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+London+Monster+Jan+Bondeson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2000. Subjects: Biography, Crimes against, Criminals, History, Trials, litigation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+London+Monster+Jan+Bondeson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Complete+Books+of+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Complete Books of Charles Fort</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Complete+Books+of+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Complete Books of Charles Fort</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=London+Monster+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=london-monster-the-panic-that-made-witnesses-dangerous-forteana-london-monster-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="London Monster print -book -books" data-ebay-reference="london-monster-the-panic-that-made-witnesses-dangerous-forteana-london-monster-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Old Antique Print 1846 London Street Musc Entertainment Monster Organ"><img src="{{ '/assets/images/marketplace-covers/5b1bb7f8eb9af7488ac3.jpg' | relative_url }}" alt="Listing image for Original Old Antique Print 1846 London Street Musc Entertainment Monster Organ" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=London+Monster+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=london-monster-the-panic-that-made-witnesses-dangerous-forteana-london-monster-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="London Monster print -book -books" data-ebay-reference="london-monster-the-panic-that-made-witnesses-dangerous-forteana-london-monster-print-book-books" target="_blank" rel="sponsored noopener noreferrer">Original Old Antique Print 1846 London Street Musc Entertainment Monster Organ</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=London+Monster+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=london-monster-the-panic-that-made-witnesses-dangerous-forteana-london-monster-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="London Monster print -book -books" data-ebay-reference="london-monster-the-panic-that-made-witnesses-dangerous-forteana-london-monster-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for London Monster print">Search <span data-ebay-domain-label>eBay.co.uk</span>: London Monster print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=London+Monster+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=london-monster-the-panic-that-made-witnesses-dangerous-forteana-london-monster-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="London Monster print -book -books" data-ebay-reference="london-monster-the-panic-that-made-witnesses-dangerous-forteana-london-monster-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=London+Monster+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=london-monster-the-panic-that-made-witnesses-dangerous-forteana-london-monster-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="London Monster print -book -books" data-ebay-reference="london-monster-the-panic-that-made-witnesses-dangerous-forteana-london-monster-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Old Antique Print 1846 London Street Musc Entertainment Monster Organ"><img src="{{ '/assets/images/marketplace-covers/5b1bb7f8eb9af7488ac3.jpg' | relative_url }}" alt="Listing image for Original Old Antique Print 1846 London Street Musc Entertainment Monster Organ" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=London+Monster+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=london-monster-the-panic-that-made-witnesses-dangerous-forteana-london-monster-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="London Monster print -book -books" data-ebay-reference="london-monster-the-panic-that-made-witnesses-dangerous-forteana-london-monster-print-book-books" target="_blank" rel="sponsored noopener noreferrer">Original Old Antique Print 1846 London Street Musc Entertainment Monster Organ</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=London+Monster+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=london-monster-the-panic-that-made-witnesses-dangerous-forteana-london-monster-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="London Monster print -book -books" data-ebay-reference="london-monster-the-panic-that-made-witnesses-dangerous-forteana-london-monster-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for London Monster print">Search<span data-ebay-domain-label>eBay.co.uk</span>: London Monster print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=London+Monster+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=london-monster-the-panic-that-made-witnesses-dangerous-forteana-london-monster-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="London Monster print -book -books" data-ebay-reference="london-monster-the-panic-that-made-witnesses-dangerous-forteana-london-monster-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=London+Monster+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=london-monster-the-panic-that-made-witnesses-dangerous-forteana-london-monster-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="London Monster print -book -books" data-ebay-reference="london-monster-the-panic-that-made-witnesses-dangerous-forteana-london-monster-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE LONDON POLICE x BUFF MONSTER - limited edition signed print /33"><img src="{{ '/assets/images/marketplace-covers/836a2cbed9c9430a201d.jpg' | relative_url }}" alt="Listing image for THE LONDON POLICE x BUFF MONSTER - limited edition signed print /33" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=London+Monster+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=london-monster-the-panic-that-made-witnesses-dangerous-forteana-london-monster-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="London Monster print -book -books" data-ebay-reference="london-monster-the-panic-that-made-witnesses-dangerous-forteana-london-monster-print-book-books" target="_blank" rel="sponsored noopener noreferrer">THE LONDON POLICE x BUFF MONSTER - limited edition signed print /33</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=London+Monster+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=london-monster-the-panic-that-made-witnesses-dangerous-forteana-london-monster-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="London Monster print -book -books" data-ebay-reference="london-monster-the-panic-that-made-witnesses-dangerous-forteana-london-monster-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for London Monster print">Search <span data-ebay-domain-label>eBay.co.uk</span>: London Monster print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=London+Monster+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=london-monster-the-panic-that-made-witnesses-dangerous-forteana-london-monster-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="London Monster print -book -books" data-ebay-reference="london-monster-the-panic-that-made-witnesses-dangerous-forteana-london-monster-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=London+Monster+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=london-monster-the-panic-that-made-witnesses-dangerous-forteana-london-monster-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="London Monster print -book -books" data-ebay-reference="london-monster-the-panic-that-made-witnesses-dangerous-forteana-london-monster-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE LONDON POLICE x BUFF MONSTER - limited edition signed print /33"><img src="{{ '/assets/images/marketplace-covers/836a2cbed9c9430a201d.jpg' | relative_url }}" alt="Listing image for THE LONDON POLICE x BUFF MONSTER - limited edition signed print /33" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=London+Monster+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=london-monster-the-panic-that-made-witnesses-dangerous-forteana-london-monster-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="London Monster print -book -books" data-ebay-reference="london-monster-the-panic-that-made-witnesses-dangerous-forteana-london-monster-print-book-books" target="_blank" rel="sponsored noopener noreferrer">THE LONDON POLICE x BUFF MONSTER - limited edition signed print /33</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=London+Monster+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=london-monster-the-panic-that-made-witnesses-dangerous-forteana-london-monster-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="London Monster print -book -books" data-ebay-reference="london-monster-the-panic-that-made-witnesses-dangerous-forteana-london-monster-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for London Monster print">Search<span data-ebay-domain-label>eBay.co.uk</span>: London Monster print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=London+Monster+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=london-monster-the-panic-that-made-witnesses-dangerous-forteana-london-monster-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="London Monster print -book -books" data-ebay-reference="london-monster-the-panic-that-made-witnesses-dangerous-forteana-london-monster-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=London+Monster+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=london-monster-the-panic-that-made-witnesses-dangerous-forteana-london-monster-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="London Monster print -book -books" data-ebay-reference="london-monster-the-panic-that-made-witnesses-dangerous-forteana-london-monster-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Framed Gorgo 1961 Print – London Piccadilly Circus Monster Scene Art"><img src="{{ '/assets/images/marketplace-covers/b42a4c92263ebdddda6d.jpg' | relative_url }}" alt="Listing image for Framed Gorgo 1961 Print – London Piccadilly Circus Monster Scene Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=London+Monster+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=london-monster-the-panic-that-made-witnesses-dangerous-forteana-london-monster-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="London Monster print -book -books" data-ebay-reference="london-monster-the-panic-that-made-witnesses-dangerous-forteana-london-monster-print-book-books" target="_blank" rel="sponsored noopener noreferrer">Framed Gorgo 1961 Print – London Piccadilly Circus Monster Scene Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=London+Monster+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=london-monster-the-panic-that-made-witnesses-dangerous-forteana-london-monster-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="London Monster print -book -books" data-ebay-reference="london-monster-the-panic-that-made-witnesses-dangerous-forteana-london-monster-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for London Monster print">Search <span data-ebay-domain-label>eBay.co.uk</span>: London Monster print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=London+Monster+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=london-monster-the-panic-that-made-witnesses-dangerous-forteana-london-monster-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="London Monster print -book -books" data-ebay-reference="london-monster-the-panic-that-made-witnesses-dangerous-forteana-london-monster-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=London+Monster+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=london-monster-the-panic-that-made-witnesses-dangerous-forteana-london-monster-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="London Monster print -book -books" data-ebay-reference="london-monster-the-panic-that-made-witnesses-dangerous-forteana-london-monster-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=London+Monster+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=london-monster-the-panic-that-made-witnesses-dangerous-forteana-london-monster-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="London Monster print -book -books" data-ebay-reference="london-monster-the-panic-that-made-witnesses-dangerous-forteana-london-monster-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Framed Gorgo 1961 Print – London Piccadilly Circus Monster Scene Art"><img src="{{ '/assets/images/marketplace-covers/b42a4c92263ebdddda6d.jpg' | relative_url }}" alt="Listing image for Framed Gorgo 1961 Print – London Piccadilly Circus Monster Scene Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=London+Monster+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=london-monster-the-panic-that-made-witnesses-dangerous-forteana-london-monster-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="London Monster print -book -books" data-ebay-reference="london-monster-the-panic-that-made-witnesses-dangerous-forteana-london-monster-print-book-books" target="_blank" rel="sponsored noopener noreferrer">Framed Gorgo 1961 Print – London Piccadilly Circus Monster Scene Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=London+Monster+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=london-monster-the-panic-that-made-witnesses-dangerous-forteana-london-monster-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="London Monster print -book -books" data-ebay-reference="london-monster-the-panic-that-made-witnesses-dangerous-forteana-london-monster-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for London Monster print">Search<span data-ebay-domain-label>eBay.co.uk</span>: London Monster print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=London+Monster+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=london-monster-the-panic-that-made-witnesses-dangerous-forteana-london-monster-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="London Monster print -book -books" data-ebay-reference="london-monster-the-panic-that-made-witnesses-dangerous-forteana-london-monster-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=London+Monster+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=london-monster-the-panic-that-made-witnesses-dangerous-forteana-london-monster-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="London Monster print -book -books" data-ebay-reference="london-monster-the-panic-that-made-witnesses-dangerous-forteana-london-monster-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -564,7 +564,7 @@ For Fortean researchers, the enduring lesson is methodological rather than super
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -584,7 +584,7 @@ For Fortean researchers, the enduring lesson is methodological rather than super
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -616,7 +616,7 @@ For Fortean researchers, the enduring lesson is methodological rather than super
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -668,7 +668,7 @@ For Fortean researchers, the enduring lesson is methodological rather than super
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -713,7 +713,7 @@ For Fortean researchers, the enduring lesson is methodological rather than super
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -754,124 +754,124 @@ For Fortean researchers, the enduring lesson is methodological rather than super
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: link.springer.com  
    Title: A Moral Panic in Eighteenth-Century London?  
-   Link: <a href="https://link.springer.com/content/pdf/10.1057/9780230274679_11" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/content/pdf/10.1057/9780230274679_11</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The &#x27;Monster...9 Yet even satirical prints and pamphlets, while not cheap, were able to reach many both in and beyond London. Individual...</p></details>
+   Link:<a href="https://link.springer.com/content/pdf/10.1057/9780230274679_11" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/content/pdf/10.1057/9780230274679_11</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The &#x27;Monster...9 Yet even satirical prints and pamphlets, while not cheap, were able to reach many both in and beyond London. Individual...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: London Monster  
-   Link: <a href="https://en.wikipedia.org/wiki/London_Monster" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/London_Monster</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/London_Monster" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/London_Monster</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Timeline of London  
-   Link: <a href="https://en.wikipedia.org/wiki/Timeline_of_London" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Timeline_of_London</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Timeline of London1790 – 23 June: The alleged London Monster is arrested, and he later receives 2 years&#x27; imprisonment for 3 assaults...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Timeline_of_London" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Timeline_of_London</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Timeline of London1790 – 23 June: The alleged London Monster is arrested, and he later receives 2 years&#x27; imprisonment for 3 assaults...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: The London Monster  
-   Link: <a href="https://www.youtube.com/watch?v=tN4DHMKAWPo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tN4DHMKAWPo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rhynwick Williams &amp; The London Monster | The Dark Histories Podcast...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tN4DHMKAWPo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tN4DHMKAWPo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rhynwick Williams &amp; The London Monster | The Dark Histories Podcast...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: Rhynwick Williams & The London Monster | The Dark Histories Podcast  
-   Link: <a href="https://www.youtube.com/watch?v=uJSk0wJ2mas" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uJSk0wJ2mas</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The London Monster...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=uJSk0wJ2mas" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uJSk0wJ2mas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The London Monster...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: The London Monster  
-   Link: <a href="https://www.youtube.com/watch?v=j-Ur09OsVaw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j-Ur09OsVaw</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr Watson, The London Monster &amp; Piquerism...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=j-Ur09OsVaw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j-Ur09OsVaw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dr Watson, The London Monster &amp; Piquerism...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: eprints.soton.ac.uk  
-   Link: <a href="https://eprints.soton.ac.uk/412011/1/LIBRARY_COPY_PhD_Thesis_Final_Formatted_Version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.soton.ac.uk/412011/1/LIBRARY_COPY_PhD_Thesis_Final_Formatted_Version.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ePrints SotonCrime, Deviance, and the Social Discovery of Moral Panic in...May 4, 2017 — by C Hamerton · 2016 · Cited by 1 — The thesis...</p></details>
+   Link:<a href="https://eprints.soton.ac.uk/412011/1/LIBRARY_COPY_PhD_Thesis_Final_Formatted_Version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.soton.ac.uk/412011/1/LIBRARY_COPY_PhD_Thesis_Final_Formatted_Version.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ePrints SotonCrime, Deviance, and the Social Discovery of Moral Panic in...May 4, 2017 — by C Hamerton · 2016 · Cited by 1 — The thesis...</p></details>
    Published: May 4, 2017  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: historytoday.com  
-   Link: <a href="https://www.historytoday.com/archive/feature/monsters-and-moral-panic-18th-and-19th-century-london" target="_blank" rel="noopener noreferrer nofollow">https://www.historytoday.com/archive/feature/monsters-and-moral-panic-18th-and-19th-century-london</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>History TodayMonsters and Moral Panic in 18th and 19th Century LondonJan Bonderson describes a bizarre series of assaults on London ladie...</p></details>
+   Link:<a href="https://www.historytoday.com/archive/feature/monsters-and-moral-panic-18th-and-19th-century-london" target="_blank" rel="noopener noreferrer nofollow">https://www.historytoday.com/archive/feature/monsters-and-moral-panic-18th-and-19th-century-london</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History TodayMonsters and Moral Panic in 18th and 19th Century LondonJan Bonderson describes a bizarre series of assaults on London ladie...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: spookyisles.com  
    Title: the london monster  
-   Link: <a href="https://www.spookyisles.com/the-london-monster/" target="_blank" rel="noopener noreferrer nofollow">https://www.spookyisles.com/the-london-monster/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Tale Of Terror And Hysteria28 Jul 2024 — In the late 18th century, the &quot;London Monster&quot; terrorised women, causing mass hysteria and a c...</p></details>
+   Link:<a href="https://www.spookyisles.com/the-london-monster/" target="_blank" rel="noopener noreferrer nofollow">https://www.spookyisles.com/the-london-monster/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Tale Of Terror And Hysteria28 Jul 2024 — In the late 18th century, the &quot;London Monster&quot; terrorised women, causing mass hysteria and a c...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: strandmag.com  
    Title: the london monster  
-   Link: <a href="https://strandmag.com/the-london-monster/" target="_blank" rel="noopener noreferrer nofollow">https://strandmag.com/the-london-monster/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>11 Jun 2020 — The London Monster mania of 1790 is just one example of what can be called the phantom attacker syndrome. In 1819, Paris wa...</p></details>
+   Link:<a href="https://strandmag.com/the-london-monster/" target="_blank" rel="noopener noreferrer nofollow">https://strandmag.com/the-london-monster/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>11 Jun 2020 — The London Monster mania of 1790 is just one example of what can be called the phantom attacker syndrome. In 1819, Paris wa...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: characters.fandom.com  
    Title: London Monster  
-   Link: <a href="https://characters.fandom.com/wiki/London_Monster" target="_blank" rel="noopener noreferrer nofollow">https://characters.fandom.com/wiki/London_Monster</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Monster - Fictional Characters Wiki - FandomThe London Monster was the name given to an alleged attacker of women in London between 1788...</p></details>
+   Link:<a href="https://characters.fandom.com/wiki/London_Monster" target="_blank" rel="noopener noreferrer nofollow">https://characters.fandom.com/wiki/London_Monster</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Monster - Fictional Characters Wiki - FandomThe London Monster was the name given to an alleged attacker of women in London between 1788...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: upload.wikimedia.org  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/5/58/The_Encyclopaedia_Britannica%3B_..._A_dictionary_of_arts%2C_sciences_and_general_literature_%28IA_encyclopaediabri30kell%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/5/58/The_Encyclopaedia_Britannica%3B_..._A_dictionary_of_arts%2C_sciences_and_general_literature_%28IA_encyclopaediabri30kell%29.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopaedia Britannica... Monster, xvi. 763. Aneroid Barometer, iil 383. Anet, town, France, 11. 26... Beast, of theApocalypse, 11. 12...</p></details>
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/5/58/The_Encyclopaedia_Britannica%3B_..._A_dictionary_of_arts%2C_sciences_and_general_literature_%28IA_encyclopaediabri30kell%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/5/58/The_Encyclopaedia_Britannica%3B_..._A_dictionary_of_arts%2C_sciences_and_general_literature_%28IA_encyclopaediabri30kell%29.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopaedia Britannica... Monster, xvi. 763. Aneroid Barometer, iil 383. Anet, town, France, 11. 26... Beast, of theApocalypse, 11. 12...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
    Title: 365651762 Morality Amid Monstrosity The London Monster Panic 1790  
-   Link: <a href="https://www.researchgate.net/publication/365651762_Morality_Amid_Monstrosity_The_London_Monster_Panic_1790" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/365651762_Morality_Amid_Monstrosity_The_London_Monster_Panic_1790</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Morality Amid Monstrosity: The London Monster Panic, 1790During the late eighteenth century, the London Monster purportedly stalked the s...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/365651762_Morality_Amid_Monstrosity_The_London_Monster_Panic_1790" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/365651762_Morality_Amid_Monstrosity_The_London_Monster_Panic_1790</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Morality Amid Monstrosity: The London Monster Panic, 1790During the late eighteenth century, the London Monster purportedly stalked the s...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: uhra.herts.ac.uk  
    Title: herts.ac.uk Ordering the Mob: London's Public Punishments, c  
-   Link: <a href="https://uhra.herts.ac.uk/id/eprint/16324/1/MW%20FINAL%20SUBMISSION%202.%202009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://uhra.herts.ac.uk/id/eprint/16324/1/MW%20FINAL%20SUBMISSION%202.%202009.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MT White · 2010 · Cited by 4 —... monster‟ Chartist meetings - there still remains a relative disconnection in this literatu...</p></details>
+   Link:<a href="https://uhra.herts.ac.uk/id/eprint/16324/1/MW%20FINAL%20SUBMISSION%202.%202009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://uhra.herts.ac.uk/id/eprint/16324/1/MW%20FINAL%20SUBMISSION%202.%202009.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MT White · 2010 · Cited by 4 —... monster‟ Chartist meetings - there still remains a relative disconnection in this literatu...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pbc.gda.pl  
    Title: The concise Cambridge history of English literature.pdf  
-   Link: <a href="https://pbc.gda.pl/Content/104914/The%20concise%20Cambridge%20history%20of%20English%20literature.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pbc.gda.pl/Content/104914/The%20concise%20Cambridge%20history%20of%20English%20literature.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>monster-haunted mere, and the story o f B eow ulf s death and burial have... beast, wind and water. The wild and even fro nSt|!&#x27;?liS Ard...</p></details>
+   Link:<a href="https://pbc.gda.pl/Content/104914/The%20concise%20Cambridge%20history%20of%20English%20literature.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pbc.gda.pl/Content/104914/The%20concise%20Cambridge%20history%20of%20English%20literature.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>monster-haunted mere, and the story o f B eow ulf s death and burial have... beast, wind and water. The wild and even fro nSt|!&#x27;?liS Ard...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: semanticscholar.org  
    Title: A Moral Panic in Eighteenth-Century London?  
-   Link: <a href="https://www.semanticscholar.org/paper/A-Moral-Panic-in-Eighteenth-Century-London-The-and-McCreery/88d350f6321b59123c3cb0a634cacbf1c8177c71" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/A-Moral-Panic-in-Eighteenth-Century-London-The-and-McCreery/88d350f6321b59123c3cb0a634cacbf1c8177c71</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The &#x27;...In 1790, panic gripped Londoners. A man stalked the streets at night, cutting women with a sharp instrument.1 Newspapers, pamphl...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/A-Moral-Panic-in-Eighteenth-Century-London-The-and-McCreery/88d350f6321b59123c3cb0a634cacbf1c8177c71" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/A-Moral-Panic-in-Eighteenth-Century-London-The-and-McCreery/88d350f6321b59123c3cb0a634cacbf1c8177c71</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The &#x27;...In 1790, panic gripped Londoners. A man stalked the streets at night, cutting women with a sharp instrument.1 Newspapers, pamphl...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/18572491/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/18572491/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and moral panic in LondonMeSH terms. Crime / ethnology; Crime / history; Crime / legislation &amp; jurisprudence; Crime / [psychology](&amp;#123;&amp;#123; &#x27;psychology/&#x27; | relative_url &amp;#125;&amp;#125;); Crime V...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/18572491/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/18572491/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and moral panic in LondonMeSH terms. Crime / ethnology; Crime / history; Crime / legislation &amp; jurisprudence; Crime / [psychology](&amp;#123;&amp;#123; &#x27;psychology/&#x27; | relative_url &amp;#125;&amp;#125;); Crime V...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: englische-romantik.de  
-   Link: <a href="https://www.englische-romantik.de/bibliography/" target="_blank" rel="noopener noreferrer nofollow">https://www.englische-romantik.de/bibliography/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BIBLIOGRAPHY - englische-romantiks Webseite!&quot;Monster and Machine: Romantic Misreadings of the Dawning of the Industrial Era&quot;...</p></details>
+   Link:<a href="https://www.englische-romantik.de/bibliography/" target="_blank" rel="noopener noreferrer nofollow">https://www.englische-romantik.de/bibliography/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BIBLIOGRAPHY - englische-romantiks Webseite!&quot;Monster and Machine: Romantic Misreadings of the Dawning of the Industrial Era&quot;...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: library.wales  
    Title: attacks in london in 1790  
-   Link: <a href="https://www.library.wales/news/article/attacks-in-london-in-1790" target="_blank" rel="noopener noreferrer nofollow">https://www.library.wales/news/article/attacks-in-london-in-1790</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>21 Apr 2025 — First Miss Ann Porter recounts how he attacked her outside her father&#x27;s front door when she was returning from a ball celeb...</p></details>
+   Link:<a href="https://www.library.wales/news/article/attacks-in-london-in-1790" target="_blank" rel="noopener noreferrer nofollow">https://www.library.wales/news/article/attacks-in-london-in-1790</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>21 Apr 2025 — First Miss Ann Porter recounts how he attacked her outside her father&#x27;s front door when she was returning from a ball celeb...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: books.google.com  
-   Link: <a href="https://books.google.com/books/about/The_London_Monster.html?id=xiWYYKklgvsC" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/The_London_Monster.html?id=xiWYYKklgvsC</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>London Monster: A Sanguinary Tale - Jan BondesonA century before Jack the Ripper haunted the streets of London, another predator held sway...</p></details>
+   Link:<a href="https://books.google.com/books/about/The_London_Monster.html?id=xiWYYKklgvsC" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/The_London_Monster.html?id=xiWYYKklgvsC</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>London Monster: A Sanguinary Tale - Jan BondesonA century before Jack the Ripper haunted the streets of London, another predator held sway...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: onlinelibrary.wiley.com  
    Title: 1754 0208.70035  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1111/1754-0208.70035" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/1754-0208.70035</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wiley.comPseudonyms, Propaganda, and Prints: The Life...6 Apr 2026 — Coalition Dissected is a visually striking dissection of the Fox-No...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/10.1111/1754-0208.70035" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/1754-0208.70035</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wiley.comPseudonyms, Propaganda, and Prints: The Life...6 Apr 2026 — Coalition Dissected is a visually striking dissection of the Fox-No...</p></details>

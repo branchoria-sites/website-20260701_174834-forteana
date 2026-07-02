@@ -274,13 +274,13 @@ image: /assets/images/forteana_50bdc8_weather_strange_fall_4c1363_yoro_fish_rain
 
 ## Introduction
 
-The annual "rain of fish" reported around Yoro in Honduras is one of the world's best-known Fortean traditions, yet it is also one of the least compatible with the classic idea of fish being carried inland from the sea. Yoro lies well inland, and the repeated appearance of small freshwater fish after intense seasonal storms has led many researchers to look beyond [waterspouts]({{ 'waterspouts/' | relative_url }}) towards local hydrology. Rather than asking how fish could survive a long aerial journey, the more focused question is whether heavy rain, underground waterways, flood channels and hidden freshwater habitats could explain why fish repeatedly appear on the ground after storms. The evidence does not settle the mystery completely, but it shifts attention from spectacular long-distance transport to the interaction between extreme rainfall and the local landscape. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iflscience.com/lluvia-de-peces-the-mystery-of-why-it-rains-fish-annually-in-honduras-68945" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[IFLScience+2Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-snippet">IFLScience&quot;Lluvia De Peces&quot;: The Mystery Of Why It Rains Fish...16 May 2023 — According to residents, the fish rain, called &quot;Lluvia De P...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+The annual "rain of fish" reported around Yoro in Honduras is one of the world's best-known Fortean traditions, yet it is also one of the least compatible with the classic idea of fish being carried inland from the sea. Yoro lies well inland, and the repeated appearance of small freshwater fish after intense seasonal storms has led many researchers to look beyond [waterspouts]({{ 'waterspouts/' | relative_url }}) towards local hydrology. Rather than asking how fish could survive a long aerial journey, the more focused question is whether heavy rain, underground waterways, flood channels and hidden freshwater habitats could explain why fish repeatedly appear on the ground after storms. The evidence does not settle the mystery completely, but it shifts attention from spectacular long-distance transport to the interaction between extreme rainfall and the local landscape.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iflscience.com/lluvia-de-peces-the-mystery-of-why-it-rains-fish-annually-in-honduras-68945" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[IFLScience+2Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-snippet">IFLScience&quot;Lluvia De Peces&quot;: The Mystery Of Why It Rains Fish...16 May 2023 — According to residents, the fish rain, called &quot;Lluvia De P...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_weather_strange_fall_4c1363_yoro_fish_rain_997917-Illustration-1-dark.svg" | relative_url }}" alt="Yoro Fish illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_weather_strange_fall_4c1363_yoro_fish_rain_997917-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_weather_strange_fall_4c1363_yoro_fish_rain_997917-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why distance from the sea matters
 
-Many reports of animal falls can plausibly involve waterspouts lifting fish from nearby lakes, rivers or coastal waters. Yoro is different because the event is reported in essentially the same region year after year despite its inland location. This geographical consistency has made many commentators question whether a marine waterspout could repeatedly deliver fish to the same area over decades. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iflscience.com/lluvia-de-peces-the-mystery-of-why-it-rains-fish-annually-in-honduras-68945" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[IFLScience+2The Weather Channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-snippet">IFLScience&quot;Lluvia De Peces&quot;: The Mystery Of Why It Rains Fish...16 May 2023 — According to residents, the fish rain, called &quot;Lluvia De P...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+Many reports of animal falls can plausibly involve waterspouts lifting fish from nearby lakes, rivers or coastal waters. Yoro is different because the event is reported in essentially the same region year after year despite its inland location. This geographical consistency has made many commentators question whether a marine waterspout could repeatedly deliver fish to the same area over decades.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iflscience.com/lluvia-de-peces-the-mystery-of-why-it-rains-fish-annually-in-honduras-68945" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[IFLScience+2The Weather Channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-snippet">IFLScience&quot;Lluvia De Peces&quot;: The Mystery Of Why It Rains Fish...16 May 2023 — According to residents, the fish rain, called &quot;Lluvia De P...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 That does not mean a [weather]({{ 'weather/' | relative_url }}) explanation is impossible. Instead, it narrows the range of realistic mechanisms. Any explanation based on atmospheric transport must account for:
 
@@ -290,7 +290,7 @@ That does not mean a [weather]({{ 'weather/' | relative_url }}) explanation is i
 * the repeated occurrence during the rainy season rather than random years;
 * the apparent concentration in the same locality;
 * the fact that the fish are reported after prolonged thunderstorms and flooding rather than during ordinary rain;
-* reports that many of the fish are alive when collected. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iflscience.com/lluvia-de-peces-the-mystery-of-why-it-rains-fish-annually-in-honduras-68945" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[IFLScience+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-snippet">IFLScience&quot;Lluvia De Peces&quot;: The Mystery Of Why It Rains Fish...16 May 2023 — According to residents, the fish rain, called &quot;Lluvia De P...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+* reports that many of the fish are alive when collected.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iflscience.com/lluvia-de-peces-the-mystery-of-why-it-rains-fish-annually-in-honduras-68945" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[IFLScience+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-snippet">IFLScience&quot;Lluvia De Peces&quot;: The Mystery Of Why It Rains Fish...16 May 2023 — According to residents, the fish rain, called &quot;Lluvia De P...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 </div>
 
@@ -303,24 +303,24 @@ Because those characteristics are difficult to reconcile with repeated long-dist
 
 The leading local alternative is not that fish fall from the sky at all, but that they emerge from hidden freshwater systems when exceptional rainfall overwhelms the landscape.
 
-Heavy tropical storms can rapidly flood low ground, connect isolated pools, overflow drainage channels and recharge underground cavities. If fish occupy normally inaccessible streams, sinkholes, caves or temporary channels, sudden floodwater may carry them onto fields and roads before the water quickly recedes. To people arriving after the storm, the result resembles a shower of fish even if the animals were transported at ground level. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iflscience.com/lluvia-de-peces-the-mystery-of-why-it-rains-fish-annually-in-honduras-68945" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[IFLScience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-snippet">IFLScience&quot;Lluvia De Peces&quot;: The Mystery Of Why It Rains Fish...16 May 2023 — According to residents, the fish rain, called &quot;Lluvia De P...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+Heavy tropical storms can rapidly flood low ground, connect isolated pools, overflow drainage channels and recharge underground cavities. If fish occupy normally inaccessible streams, sinkholes, caves or temporary channels, sudden floodwater may carry them onto fields and roads before the water quickly recedes. To people arriving after the storm, the result resembles a shower of fish even if the animals were transported at ground level.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iflscience.com/lluvia-de-peces-the-mystery-of-why-it-rains-fish-annually-in-honduras-68945" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[IFLScience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-snippet">IFLScience&quot;Lluvia De Peces&quot;: The Mystery Of Why It Rains Fish...16 May 2023 — According to residents, the fish rain, called &quot;Lluvia De P...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 The underground-waterway hypothesis has several features that fit the reported pattern:
 
 * **Freshwater origin.** The fish are generally described as freshwater species rather than marine fish.
 * **Seasonal timing.** Events coincide with the period of the strongest tropical rains, when underground drainage systems are most likely to overflow.
 * **Local repetition.** A stable network of hidden waterways could explain why the phenomenon is associated with the same region rather than appearing randomly across Honduras.
-* **Limited transport distance.** Fish moved only a short distance through floodwater are more likely to survive than fish carried high into severe storms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iflscience.com/lluvia-de-peces-the-mystery-of-why-it-rains-fish-annually-in-honduras-68945" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[IFLScience+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-snippet">IFLScience&quot;Lluvia De Peces&quot;: The Mystery Of Why It Rains Fish...16 May 2023 — According to residents, the fish rain, called &quot;Lluvia De P...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+* **Limited transport distance.** Fish moved only a short distance through floodwater are more likely to survive than fish carried high into severe storms.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iflscience.com/lluvia-de-peces-the-mystery-of-why-it-rains-fish-annually-in-honduras-68945" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[IFLScience+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-snippet">IFLScience&quot;Lluvia De Peces&quot;: The Mystery Of Why It Rains Fish...16 May 2023 — According to residents, the fish rain, called &quot;Lluvia De P...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
-The hypothesis remains difficult to prove directly because the proposed underground routes have not been comprehensively mapped or observed transporting fish during a storm. Nevertheless, many researchers regard it as better matched to Yoro's geography than the traditional waterspout explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iflscience.com/lluvia-de-peces-the-mystery-of-why-it-rains-fish-annually-in-honduras-68945" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[IFLScience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-snippet">IFLScience&quot;Lluvia De Peces&quot;: The Mystery Of Why It Rains Fish...16 May 2023 — According to residents, the fish rain, called &quot;Lluvia De P...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+The hypothesis remains difficult to prove directly because the proposed underground routes have not been comprehensively mapped or observed transporting fish during a storm. Nevertheless, many researchers regard it as better matched to Yoro's geography than the traditional waterspout explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iflscience.com/lluvia-de-peces-the-mystery-of-why-it-rains-fish-annually-in-honduras-68945" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[IFLScience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-snippet">IFLScience&quot;Lluvia De Peces&quot;: The Mystery Of Why It Rains Fish...16 May 2023 — According to residents, the fish rain, called &quot;Lluvia De P...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_weather_strange_fall_4c1363_yoro_fish_rain_997917-Illustration-2-dark.svg" | relative_url }}" alt="Yoro Fish illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_weather_strange_fall_4c1363_yoro_fish_rain_997917-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_weather_strange_fall_4c1363_yoro_fish_rain_997917-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Tradition, repetition and natural explanations
 
-Yoro's importance in [Forteana]({{ 'forteana/' | relative_url }}) comes not simply from unusual weather but from repetition. Residents describe the phenomenon as occurring during the mid-year rainy season, often after hours of darkness, thunder and exceptionally heavy rainfall. Once the storm passes, people search roads and fields for fish that can be gathered by hand. The consistency of this narrative over many decades distinguishes Yoro from isolated reports of fish falls elsewhere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lluvia_de_peces" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">t has been occurring for over a...Read more...</span></span></span>
+Yoro's importance in [Forteana]({{ 'forteana/' | relative_url }}) comes not simply from unusual weather but from repetition. Residents describe the phenomenon as occurring during the mid-year rainy season, often after hours of darkness, thunder and exceptionally heavy rainfall. Once the storm passes, people search roads and fields for fish that can be gathered by hand. The consistency of this narrative over many decades distinguishes Yoro from isolated reports of fish falls elsewhere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lluvia_de_peces" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">t has been occurring for over a...Read more...</span></span></span>
 
-Local tradition also includes a religious explanation. According to popular accounts, the nineteenth-century missionary José Manuel Subirana prayed for food for the poor, after which the fish began appearing as a recurring blessing. Whether understood as miracle, [folklore]({{ 'folklore/' | relative_url }}) or historical memory, this story has become inseparable from the identity of the event and helps explain why the annual occurrence is celebrated rather than treated merely as an odd meteorological incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iflscience.com/lluvia-de-peces-the-mystery-of-why-it-rains-fish-annually-in-honduras-68945" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[IFLScience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-snippet">IFLScience&quot;Lluvia De Peces&quot;: The Mystery Of Why It Rains Fish...16 May 2023 — According to residents, the fish rain, called &quot;Lluvia De P...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+Local tradition also includes a religious explanation. According to popular accounts, the nineteenth-century missionary José Manuel Subirana prayed for food for the poor, after which the fish began appearing as a recurring blessing. Whether understood as miracle, [folklore]({{ 'folklore/' | relative_url }}) or historical memory, this story has become inseparable from the identity of the event and helps explain why the annual occurrence is celebrated rather than treated merely as an odd meteorological incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iflscience.com/lluvia-de-peces-the-mystery-of-why-it-rains-fish-annually-in-honduras-68945" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[IFLScience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-snippet">IFLScience&quot;Lluvia De Peces&quot;: The Mystery Of Why It Rains Fish...16 May 2023 — According to residents, the fish rain, called &quot;Lluvia De P...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 From a naturalistic perspective, however, the recurring schedule itself strengthens interest in local environmental mechanisms. Unlike an unpredictable tornado crossing open water, seasonal flooding follows established rainfall patterns. If hidden freshwater habitats are periodically connected to the surface by intense storms, the event would be expected to recur under broadly similar conditions each year.
 
@@ -334,200 +334,200 @@ From a naturalistic perspective, however, the recurring schedule itself strength
 
 The Yoro fish rain illustrates an important distinction within the study of unusual weather reports. Many famous animal-fall stories ask whether storms can transport animals through the air. Yoro instead raises the possibility that witnesses may correctly associate fish with exceptional storms while misidentifying the direction from which they arrived.
 
-The case therefore encourages a broader view of "strange falls". Extreme rainfall can create temporary links between underground channels, floodplains, drainage systems and the surface, producing dramatic concentrations of animals without requiring a long aerial journey. Although no single explanation has been conclusively demonstrated, the hidden-freshwater-route hypothesis fits the locality, seasonal timing and repeated nature of Yoro's reports more closely than a simple sea-to-town waterspout model, making it one of the most distinctive natural explanations within Fortean studies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iflscience.com/lluvia-de-peces-the-mystery-of-why-it-rains-fish-annually-in-honduras-68945" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[IFLScience+2Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-snippet">IFLScience&quot;Lluvia De Peces&quot;: The Mystery Of Why It Rains Fish...16 May 2023 — According to residents, the fish rain, called &quot;Lluvia De P...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+The case therefore encourages a broader view of "strange falls". Extreme rainfall can create temporary links between underground channels, floodplains, drainage systems and the surface, producing dramatic concentrations of animals without requiring a long aerial journey. Although no single explanation has been conclusively demonstrated, the hidden-freshwater-route hypothesis fits the locality, seasonal timing and repeated nature of Yoro's reports more closely than a simple sea-to-town waterspout model, making it one of the most distinctive natural explanations within Fortean studies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iflscience.com/lluvia-de-peces-the-mystery-of-why-it-rains-fish-annually-in-honduras-68945" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[IFLScience+2Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-snippet">IFLScience&quot;Lluvia De Peces&quot;: The Mystery Of Why It Rains Fish...16 May 2023 — According to residents, the fish rain, called &quot;Lluvia De P...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_weather_strange_fall_4c1363_yoro_fish_rain_997917-Illustration-3-dark.svg" | relative_url }}" alt="Yoro Fish illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_weather_strange_fall_4c1363_yoro_fish_rain_997917-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_weather_strange_fall_4c1363_yoro_fish_rain_997917-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Feeds the Yoro Fish Rain?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Feeds the Yoro Fish Rain?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weather For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LtoPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Weather For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
-        </h4>
-        <p class="fr-book-author">By John D. Cox</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weather For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LtoPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Weather For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
+</h4>
+<p class="fr-book-author">By John D. Cox</p>
         
-        <p class="fr-book-desc">Explains storms and waterspouts relevant to fish falls.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains storms and waterspouts relevant to fish falls.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Weather+Machine+by+Andrew+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Weather Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NWQMDgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Weather Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Weather+Machine+by+Andrew+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Weather Machine">The Weather Machine</a>
-        </h4>
-        <p class="fr-book-author">By Andrew Blum</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Weather+Machine+by+Andrew+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Weather Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NWQMDgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Weather Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Weather+Machine+by+Andrew+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Weather Machine">The Weather Machine</a>
+</h4>
+<p class="fr-book-author">By Andrew Blum</p>
         
-        <p class="fr-book-desc">Provides broader understanding of weather systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Weather+Machine+by+Andrew+Blum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader understanding of weather systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Weather+Machine+by+Andrew+Blum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+Unusual+Knowledge+Publications+International+Ltd.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of Unusual Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10860496-M.jpg" alt="Cover for The Book of Unusual Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Book+of+Unusual+Knowledge+Publications+International+Ltd.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Unusual Knowledge">The Book of Unusual Knowledge</a>
-        </h4>
-        <p class="fr-book-author">By Publications International Ltd.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+Unusual+Knowledge+Publications+International+Ltd.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of Unusual Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10860496-M.jpg" alt="Cover for The Book of Unusual Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Book+of+Unusual+Knowledge+Publications+International+Ltd.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Unusual Knowledge">The Book of Unusual Knowledge</a>
+</h4>
+<p class="fr-book-author">By Publications International Ltd.</p>
         
-        <p class="fr-book-desc">First published 2012. Subjects: Curiosities and wonders.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Book+of+Unusual+Knowledge+Publications+International+Ltd.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2012. Subjects: Curiosities and wonders.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Book+of+Unusual+Knowledge+Publications+International+Ltd.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mysteries of the Unexplained on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysteries of the Unexplained">Mysteries of the Unexplained</a>
-        </h4>
-        <p class="fr-book-author">By Reader&#x27;s Digest Association</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mysteries of the Unexplained on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysteries of the Unexplained">Mysteries of the Unexplained</a>
+</h4>
+<p class="fr-book-author">By Reader&#x27;s Digest Association</p>
         
-        <p class="fr-book-desc">First published 1985.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1985.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Weather+For+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weather For Dummies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Weather+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Weather Machine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+Unusual+Knowledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of Unusual Knowledge</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Weather+For+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weather For Dummies</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Weather+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Weather Machine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+Unusual+Knowledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of Unusual Knowledge</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Grinder fish rain clouds Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/9f733ce224aa6b0a4349.jpg' | relative_url }}" alt="Listing image for The Grinder fish rain clouds Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">The Grinder fish rain clouds Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Grinder fish rain clouds Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/9f733ce224aa6b0a4349.jpg' | relative_url }}" alt="Listing image for The Grinder fish rain clouds Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">The Grinder fish rain clouds Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print"><img src="{{ '/assets/images/marketplace-covers/c7769be80584af0e631f.jpg' | relative_url }}" alt="Listing image for Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print"><img src="{{ '/assets/images/marketplace-covers/c7769be80584af0e631f.jpg' | relative_url }}" alt="Listing image for Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print Fish Man Human Rain Umbrella Weird Strange Funny Ironic Out Of Water"><img src="{{ '/assets/images/marketplace-covers/83ba5668697ac14b9dab.jpg' | relative_url }}" alt="Listing image for Art Print Fish Man Human Rain Umbrella Weird Strange Funny Ironic Out Of Water" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">Art Print Fish Man Human Rain Umbrella Weird Strange Funny Ironic Out Of Water</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print Fish Man Human Rain Umbrella Weird Strange Funny Ironic Out Of Water"><img src="{{ '/assets/images/marketplace-covers/83ba5668697ac14b9dab.jpg' | relative_url }}" alt="Listing image for Art Print Fish Man Human Rain Umbrella Weird Strange Funny Ironic Out Of Water" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">Art Print Fish Man Human Rain Umbrella Weird Strange Funny Ironic Out Of Water</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Man Monochrome Rain Rainy Cloudy Walk Walking Behind Back Fish Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/27ff5433e18ed337d089.jpg' | relative_url }}" alt="Listing image for Man Monochrome Rain Rainy Cloudy Walk Walking Behind Back Fish Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">Man Monochrome Rain Rainy Cloudy Walk Walking Behind Back Fish Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Man Monochrome Rain Rainy Cloudy Walk Walking Behind Back Fish Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/27ff5433e18ed337d089.jpg' | relative_url }}" alt="Listing image for Man Monochrome Rain Rainy Cloudy Walk Walking Behind Back Fish Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">Man Monochrome Rain Rainy Cloudy Walk Walking Behind Back Fish Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="yoro-fish-what-really-feeds-the-yoro-fish-rain-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -543,7 +543,7 @@ The case therefore encourages a broader view of "strange falls". Extreme rainfal
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -563,7 +563,7 @@ The case therefore encourages a broader view of "strange falls". Extreme rainfal
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -595,7 +595,7 @@ The case therefore encourages a broader view of "strange falls". Extreme rainfal
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -647,7 +647,7 @@ The case therefore encourages a broader view of "strange falls". Extreme rainfal
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -692,7 +692,7 @@ The case therefore encourages a broader view of "strange falls". Extreme rainfal
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -733,78 +733,78 @@ The case therefore encourages a broader view of "strange falls". Extreme rainfal
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: iflscience.com  
-   Link: <a href="https://www.iflscience.com/lluvia-de-peces-the-mystery-of-why-it-rains-fish-annually-in-honduras-68945" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/lluvia-de-peces-the-mystery-of-why-it-rains-fish-annually-in-honduras-68945</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IFLScience&quot;Lluvia De Peces&quot;: The Mystery Of Why It Rains Fish...16 May 2023 — According to residents, the fish rain, called &quot;Lluvia De P...</p></details>
+   Link:<a href="https://www.iflscience.com/lluvia-de-peces-the-mystery-of-why-it-rains-fish-annually-in-honduras-68945" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/lluvia-de-peces-the-mystery-of-why-it-rains-fish-annually-in-honduras-68945</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IFLScience&quot;Lluvia De Peces&quot;: The Mystery Of Why It Rains Fish...16 May 2023 — According to residents, the fish rain, called &quot;Lluvia De P...</p></details>
    Published: May 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Lluvia_de_peces" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lluvia_de_peces</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>t has been occurring for over a...Read more...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Lluvia_de_peces" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lluvia_de_peces</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>t has been occurring for over a...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: weather.com  
-   Link: <a href="https://weather.com/science/weather-explainers/video/lluvia-de-peces-honduras-mystery-explained" target="_blank" rel="noopener noreferrer nofollow">https://weather.com/science/weather-explainers/video/lluvia-de-peces-honduras-mystery-explained</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Weather ChannelFish Rain From Sky Every Year In Honduras Town Since...The scientific explanation typically points to tornadic waters...</p></details>
+   Link:<a href="https://weather.com/science/weather-explainers/video/lluvia-de-peces-honduras-mystery-explained" target="_blank" rel="noopener noreferrer nofollow">https://weather.com/science/weather-explainers/video/lluvia-de-peces-honduras-mystery-explained</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Weather ChannelFish Rain From Sky Every Year In Honduras Town Since...The scientific explanation typically points to tornadic waters...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: livescience.com  
    Title: 37820 lluvia de peces fish rain  
-   Link: <a href="https://www.livescience.com/37820-lluvia-de-peces-fish-rain.html" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/37820-lluvia-de-peces-fish-rain.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Live ScienceLluvia de Peces: When Fish Rain from the Sky1 Jul 2013 — One hypothesis suggests that a fish-rain such as lluvia de peces ori...</p></details>
+   Link:<a href="https://www.livescience.com/37820-lluvia-de-peces-fish-rain.html" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/37820-lluvia-de-peces-fish-rain.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Live ScienceLluvia de Peces: When Fish Rain from the Sky1 Jul 2013 — One hypothesis suggests that a fish-rain such as lluvia de peces ori...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/854704090/5ffg-fg-gfd-fg-fdg" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/854704090/5ffg-fg-gfd-fg-fdg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lluvia de Peces: Yoro&#x27;s Fish Rain PhenomenonAlthough various scientific teams have investigated, the exact cause remains a topic of debat...</p></details>
+   Link:<a href="https://www.scribd.com/document/854704090/5ffg-fg-gfd-fg-fdg" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/854704090/5ffg-fg-gfd-fg-fdg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lluvia de Peces: Yoro&#x27;s Fish Rain PhenomenonAlthough various scientific teams have investigated, the exact cause remains a topic of debat...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/7462062260516399/posts/9496835933705678/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/7462062260516399/posts/9496835933705678/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lluvia de peces natural phenomenon in Yoro, HondurasYoro&#x27;s fish would have to come from the next-closest body of water — the Atlantic Oce...</p></details>
+   Link:<a href="https://www.facebook.com/groups/7462062260516399/posts/9496835933705678/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/7462062260516399/posts/9496835933705678/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lluvia de peces natural phenomenon in Yoro, HondurasYoro&#x27;s fish would have to come from the next-closest body of water — the Atlantic Oce...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/todayilearned/comments/qycjjv/til_about_lluvia_de_peces_a_phenomenon_that/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/qycjjv/til_about_lluvia_de_peces_a_phenomenon_that/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TIL about LLuvia de peces a phenomenon that happens in...TIL about LLuvia de peces a phenomenon that happens in Honduras 200km inland aw...</p></details>
+   Link:<a href="https://www.reddit.com/r/todayilearned/comments/qycjjv/til_about_lluvia_de_peces_a_phenomenon_that/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/qycjjv/til_about_lluvia_de_peces_a_phenomenon_that/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TIL about LLuvia de peces a phenomenon that happens in...TIL about LLuvia de peces a phenomenon that happens in Honduras 200km inland aw...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=SOGEUXU4YCo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SOGEUXU4YCo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Town where Fish Rain from the SkyIt takes a rain that lasts for hours to cause it, and those are definite flood waters. The fact that...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=SOGEUXU4YCo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SOGEUXU4YCo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Town where Fish Rain from the SkyIt takes a rain that lasts for hours to cause it, and those are definite flood waters. The fact that...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DZarK3jKmVv/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZarK3jKmVv/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Residents claimed to have found dozens of live fish on streets and grounds, repeating an event that usually...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DZarK3jKmVv/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZarK3jKmVv/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Residents claimed to have found dozens of live fish on streets and grounds, repeating an event that usually...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: boingboing.net  
    Title: It's been happening for over a century. Nobody agrees on why  
-   Link: <a href="https://boingboing.net/2026/06/17/in-a-honduran-town-fish-appear-on-the-ground-after-every-major-rainstorm.html" target="_blank" rel="noopener noreferrer nofollow">https://boingboing.net/2026/06/17/in-a-honduran-town-fish-appear-on-the-ground-after-every-major-rainstorm.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Boing BoingIn a Honduran town, fish appear on the ground after every...Jun 17, 2026 — Fish appear on the ground in Yoro, Honduras after...</p></details>
+   Link:<a href="https://boingboing.net/2026/06/17/in-a-honduran-town-fish-appear-on-the-ground-after-every-major-rainstorm.html" target="_blank" rel="noopener noreferrer nofollow">https://boingboing.net/2026/06/17/in-a-honduran-town-fish-appear-on-the-ground-after-every-major-rainstorm.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boing BoingIn a Honduran town, fish appear on the ground after every...Jun 17, 2026 — Fish appear on the ground in Yoro, Honduras after...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYO0UvTOI83/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYO0UvTOI83/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>as “Lluvia de Peces” (Rain of Fish), where fish appear scattered...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DYO0UvTOI83/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYO0UvTOI83/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>as “Lluvia de Peces” (Rain of Fish), where fish appear scattered...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/GeographicEnigma/videos/theres-a-town-where-fish-literally-fall-from-the-sky-and-this-is-not-fakeevery-y/833103929554646/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GeographicEnigma/videos/theres-a-town-where-fish-literally-fall-from-the-sky-and-this-is-not-fakeevery-y/833103929554646/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e storms trigger sudden flooding that forces water and fish upward through...</p></details>
+   Link:<a href="https://www.facebook.com/GeographicEnigma/videos/theres-a-town-where-fish-literally-fall-from-the-sky-and-this-is-not-fakeevery-y/833103929554646/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GeographicEnigma/videos/theres-a-town-where-fish-literally-fall-from-the-sky-and-this-is-not-fakeevery-y/833103929554646/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e storms trigger sudden flooding that forces water and fish upward through...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/engineeringexploration/videos/in-the-town-of-yoro-honduras-a-rare-phenomenon-known-as-lluvia-de-peces-rain-of-/742132768477556/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/engineeringexploration/videos/in-the-town-of-yoro-honduras-a-rare-phenomenon-known-as-lluvia-de-peces-rain-of-/742132768477556/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s, forcing blind, light-sensitive fish to the surface through...</p></details>
+   Link:<a href="https://www.facebook.com/engineeringexploration/videos/in-the-town-of-yoro-honduras-a-rare-phenomenon-known-as-lluvia-de-peces-rain-of-/742132768477556/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/engineeringexploration/videos/in-the-town-of-yoro-honduras-a-rare-phenomenon-known-as-lluvia-de-peces-rain-of-/742132768477556/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s, forcing blind, light-sensitive fish to the surface through...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: caterpickles.com  
    Title: Locals call it the Lluvia de Peces (rain of fish).Read more  
-   Link: <a href="https://caterpickles.com/2021/06/25/update-to-a-past-caterpickles-why-does-it-rain-fish-in-honduras/" target="_blank" rel="noopener noreferrer nofollow">https://caterpickles.com/2021/06/25/update-to-a-past-caterpickles-why-does-it-rain-fish-in-honduras/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Update to a Past Caterpickles: “Why does it rain fish in...25 Jun 2021 — The rain of fishes in Yoro, Honduras happens at least once a ye...</p></details>
+   Link:<a href="https://caterpickles.com/2021/06/25/update-to-a-past-caterpickles-why-does-it-rain-fish-in-honduras/" target="_blank" rel="noopener noreferrer nofollow">https://caterpickles.com/2021/06/25/update-to-a-past-caterpickles-why-does-it-rain-fish-in-honduras/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Update to a Past Caterpickles: “Why does it rain fish in...25 Jun 2021 — The rain of fishes in Yoro, Honduras happens at least once a ye...</p></details>

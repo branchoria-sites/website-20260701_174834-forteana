@@ -274,7 +274,7 @@ image: /assets/images/forteana_50bdc8_miracle_claims_expla_5c0e6a_miracle_witnes
 
 ## Introduction
 
-Reports of [miracles]({{ 'miracles/' | relative_url }}) witnessed by crowds often begin with honest testimony rather than photographs, measurements or formal investigations. That does not mean the witnesses are dishonest, nor does it automatically validate the reported event. Modern research on eyewitness memory shows that people can sincerely remember experiences inaccurately, especially when they are emotionally aroused, surrounded by others, and trying to interpret an unexpected event. Memory is reconstructive rather than a literal recording, so later conversations, expectations and repeated [retellings]({{ 'retellings/' | relative_url }}) can gradually reshape what individuals believe they saw. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4183265/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Neuroscience of Memory: Implications for the Courtroomby JW Lacy · 2013 · Cited by 268 — Findings from basic psychological researc...</span></span></span>
+Reports of [miracles]({{ 'miracles/' | relative_url }}) witnessed by crowds often begin with honest testimony rather than photographs, measurements or formal investigations. That does not mean the witnesses are dishonest, nor does it automatically validate the reported event. Modern research on eyewitness memory shows that people can sincerely remember experiences inaccurately, especially when they are emotionally aroused, surrounded by others, and trying to interpret an unexpected event. Memory is reconstructive rather than a literal recording, so later conversations, expectations and repeated [retellings]({{ 'retellings/' | relative_url }}) can gradually reshape what individuals believe they saw.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4183265/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Neuroscience of Memory: Implications for the Courtroomby JW Lacy · 2013 · Cited by 268 — Findings from basic psychological researc...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_miracle_claims_expla_5c0e6a_miracle_witness_memo_9ab039-Illustration-1-dark.svg" | relative_url }}" alt="Witness Memory illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_miracle_claims_expla_5c0e6a_miracle_witness_memo_9ab039-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_miracle_claims_expla_5c0e6a_miracle_witness_memo_9ab039-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -286,10 +286,10 @@ Crowds create conditions that can influence both perception at the time of an ev
 
 Several well-established psychological mechanisms are relevant:
 
-* **Selective attention.** During emotionally significant events, people often focus on one striking feature while overlooking surrounding details. Stress and heightened arousal can narrow attention rather than improve complete recall. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.666724/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">full</span><span class="citation-popover-snippet">The present review will discuss two such important factors,</span></span></span>
+* **Selective attention.** During emotionally significant events, people often focus on one striking feature while overlooking surrounding details. Stress and heightened arousal can narrow attention rather than improve complete recall.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.666724/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">full</span><span class="citation-popover-snippet">The present review will discuss two such important factors,</span></span></span>
 * **Expectation effects.** Pilgrims attending a site where visions or miraculous signs are anticipated may interpret ambiguous sensory information in similar ways because they share background beliefs and expectations.
-* **Memory conformity.** After witnessing an event, people naturally discuss what happened. Research shows that details mentioned by one witness can later become incorporated into another witness's memory, even when those details were not originally observed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1385&amp;context=ajacourtreview" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.unl.edu">[DigitalCommons+2Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.unl.edu</span><span class="citation-popover-snippet">Memory Conformity Between Eyewitnessesby F Gabbert · 2012 · Cited by 39 — In summary, memory-conformity effects are often d...</span></span></span>
-* **Source-monitoring errors.** People may later remember a detail but forget whether they personally saw it, heard it from another witness or read it in a later account. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCA Behavioral Account of the Misinformation Effect</span><span class="citation-popover-snippet">by DM Challies · 2011 · Cited by 34 — One cognitive account of the misinformation effect is that memory errors are due to source monit...</span></span></span>
+* **Memory conformity.** After witnessing an event, people naturally discuss what happened. Research shows that details mentioned by one witness can later become incorporated into another witness's memory, even when those details were not originally observed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1385&amp;context=ajacourtreview" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.unl.edu">[DigitalCommons+2Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.unl.edu</span><span class="citation-popover-snippet">Memory Conformity Between Eyewitnessesby F Gabbert · 2012 · Cited by 39 — In summary, memory-conformity effects are often d...</span></span></span>
+* **Source-monitoring errors.** People may later remember a detail but forget whether they personally saw it, heard it from another witness or read it in a later account.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCA Behavioral Account of the Misinformation Effect</span><span class="citation-popover-snippet">by DM Challies · 2011 · Cited by 34 — One cognitive account of the misinformation effect is that memory errors are due to source monit...</span></span></span>
 
 These processes are especially important for reports involving distant lights, changing cloud formations, subtle movements of statues or brief visionary experiences where the original sensory evidence may already have been ambiguous.
 
@@ -300,7 +300,7 @@ These processes are especially important for reports involving distant lights, c
 
 One common argument for a miracle vision is that many witnesses reported similar experiences. While independent agreement can strengthen historical evidence, psychological research warns that apparent agreement is not necessarily independent.
 
-Studies of co-witness discussions repeatedly demonstrate that people influence each other's recollections. After conversation, witnesses often produce accounts that become increasingly alike. Importantly, participants usually do not experience themselves as inventing details. They commonly report altered memories with genuine confidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1385&amp;context=ajacourtreview" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.unl.edu">[DigitalCommons+2Goldsmiths, University of London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.unl.edu</span><span class="citation-popover-snippet">Memory Conformity Between Eyewitnessesby F Gabbert · 2012 · Cited by 39 — In summary, memory-conformity effects are often d...</span></span></span>
+Studies of co-witness discussions repeatedly demonstrate that people influence each other's recollections. After conversation, witnesses often produce accounts that become increasingly alike. Importantly, participants usually do not experience themselves as inventing details. They commonly report altered memories with genuine confidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1385&amp;context=ajacourtreview" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.unl.edu">[DigitalCommons+2Goldsmiths, University of London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.unl.edu</span><span class="citation-popover-snippet">Memory Conformity Between Eyewitnessesby F Gabbert · 2012 · Cited by 39 — In summary, memory-conformity effects are often d...</span></span></span>
 
 This has two implications for crowd miracle reports:
 
@@ -317,9 +317,9 @@ Miracle traditions often develop over months or years. During that period, accou
 
 Memory research predicts several reasons why this can happen without deliberate deception.
 
-Immediately after an unusual event, witnesses frequently describe uncertainty, fragmented observations or incomplete impressions. As time passes, later retellings tend to become more coherent because people reconstruct memories using repeated narration, community discussion and existing beliefs. Every retrieval of a memory creates an opportunity for modification before the memory is stored again. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4183265/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Neuroscience of Memory: Implications for the Courtroomby JW Lacy · 2013 · Cited by 268 — Findings from basic psychological researc...</span></span></span>
+Immediately after an unusual event, witnesses frequently describe uncertainty, fragmented observations or incomplete impressions. As time passes, later retellings tend to become more coherent because people reconstruct memories using repeated narration, community discussion and existing beliefs. Every retrieval of a memory creates an opportunity for modification before the memory is stored again.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4183265/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Neuroscience of Memory: Implications for the Courtroomby JW Lacy · 2013 · Cited by 268 — Findings from basic psychological researc...</span></span></span>
 
-Devotional communities may also unintentionally reinforce particular versions of events by repeating certain details in sermons, pilgrim accounts, [newspapers]({{ 'newspapers/' | relative_url }}) or books. Once these details become familiar, witnesses may later experience them as personal memories rather than learned information—a classic example of source confusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCA Behavioral Account of the Misinformation Effect</span><span class="citation-popover-snippet">by DM Challies · 2011 · Cited by 34 — One cognitive account of the misinformation effect is that memory errors are due to source monit...</span></span></span>
+Devotional communities may also unintentionally reinforce particular versions of events by repeating certain details in sermons, pilgrim accounts, [newspapers]({{ 'newspapers/' | relative_url }}) or books. Once these details become familiar, witnesses may later experience them as personal memories rather than learned information—a classic example of source confusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCA Behavioral Account of the Misinformation Effect</span><span class="citation-popover-snippet">by DM Challies · 2011 · Cited by 34 — One cognitive account of the misinformation effect is that memory errors are due to source monit...</span></span></span>
 
 This does not imply fraud. It reflects the ordinary way autobiographical memory operates under repeated rehearsal.
 
@@ -330,7 +330,7 @@ This does not imply fraud. It reflects the ordinary way autobiographical memory 
 
 A common misunderstanding is that emotionally powerful experiences produce perfectly accurate memories. Research suggests a more complicated picture.
 
-Emotion often increases confidence that an event occurred while reducing accuracy for peripheral details. Witnesses may remain highly certain that something extraordinary happened yet disagree about timing, colours, positions, spoken words or the sequence of events. Acute stress also affects attention during encoding, making later reconstruction more likely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.666724/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">full</span><span class="citation-popover-snippet">The present review will discuss two such important factors,</span></span></span>
+Emotion often increases confidence that an event occurred while reducing accuracy for peripheral details. Witnesses may remain highly certain that something extraordinary happened yet disagree about timing, colours, positions, spoken words or the sequence of events. Acute stress also affects attention during encoding, making later reconstruction more likely.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.666724/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">full</span><span class="citation-popover-snippet">The present review will discuss two such important factors,</span></span></span>
 
 Confidence should therefore not be treated as a direct measure of historical accuracy. Highly confident witnesses can still make sincere memory errors.
 
@@ -360,185 +360,185 @@ These questions do not determine whether a miracle occurred. Instead, they help 
 <img src="{{ "/assets/images/forteana_50bdc8_miracle_claims_expla_5c0e6a_miracle_witness_memo_9ab039-Illustration-3-dark.svg" | relative_url }}" alt="Witness Memory illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_miracle_claims_expla_5c0e6a_miracle_witness_memo_9ab039-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_miracle_claims_expla_5c0e6a_miracle_witness_memo_9ab039-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What eyewitness memory research can and cannot explain
 
-Psychological mechanisms explain how sincere people may misremember or reshape unusual experiences, particularly in emotionally charged group settings. They account for many features commonly found in crowd vision reports, including increasing agreement after discussion, richer narratives over time and confident recollection of details introduced after the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9225701/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The impact of recall timing on the preservation of eyewitness...by C Chevroulet · 2021 · Cited by 15 — As a witness&#x27; memory of the ev...</span></span></span>
+Psychological mechanisms explain how sincere people may misremember or reshape unusual experiences, particularly in emotionally charged group settings. They account for many features commonly found in crowd vision reports, including increasing agreement after discussion, richer narratives over time and confident recollection of details introduced after the event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9225701/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The impact of recall timing on the preservation of eyewitness...by C Chevroulet · 2021 · Cited by 15 — As a witness&#x27; memory of the ev...</span></span></span>
 
 However, memory research has limits. It cannot prove that any particular miracle claim is false, just as accurate memory alone cannot prove that a supernatural event occurred. The science addresses the reliability of testimony rather than the ultimate nature of the reported experience.
 
 Within the broader evaluation of miracle claims, eyewitness memory research therefore functions as a caution against assuming that multiple sincere accounts automatically provide independent confirmation. It encourages close attention to when testimony was recorded, how witnesses interacted and whether the reported narrative remained stable from its earliest surviving forms.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Miracle Witnesses Can Be Sincere but Wrong. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Miracle Witnesses Can Be Sincere but Wrong. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
+</h4>
+<p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
         
-        <p class="fr-book-desc">Directly addresses perception and eyewitness limitations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses perception and eyewitness limitations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explains why sincere people form confident but mistaken beliefs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why sincere people form confident but mistaken beliefs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Examines testimony, belief and extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines testimony, belief and extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explores cognitive dissonance and memory revision.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores cognitive dissonance and memory revision.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-memory-why-miracle-witnesses-can-be-sincere-but-wrong-forteana-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="witness-memory-why-miracle-witnesses-can-be-sincere-but-wrong-forteana-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Virgin Mary Mother Of Christ Catholic Holy A4 Poster Wall Art Print Picture"><img src="{{ '/assets/images/marketplace-covers/9b4a9e6334af6e05b499.jpg' | relative_url }}" alt="Listing image for The Virgin Mary Mother Of Christ Catholic Holy A4 Poster Wall Art Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-memory-why-miracle-witnesses-can-be-sincere-but-wrong-forteana-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="witness-memory-why-miracle-witnesses-can-be-sincere-but-wrong-forteana-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer">The Virgin Mary Mother Of Christ Catholic Holy A4 Poster Wall Art Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-memory-why-miracle-witnesses-can-be-sincere-but-wrong-forteana-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="witness-memory-why-miracle-witnesses-can-be-sincere-but-wrong-forteana-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Catholic wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: Catholic wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-memory-why-miracle-witnesses-can-be-sincere-but-wrong-forteana-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="witness-memory-why-miracle-witnesses-can-be-sincere-but-wrong-forteana-catholic-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-memory-why-miracle-witnesses-can-be-sincere-but-wrong-forteana-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="witness-memory-why-miracle-witnesses-can-be-sincere-but-wrong-forteana-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Virgin Mary Mother Of Christ Catholic Holy A4 Poster Wall Art Print Picture"><img src="{{ '/assets/images/marketplace-covers/9b4a9e6334af6e05b499.jpg' | relative_url }}" alt="Listing image for The Virgin Mary Mother Of Christ Catholic Holy A4 Poster Wall Art Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-memory-why-miracle-witnesses-can-be-sincere-but-wrong-forteana-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="witness-memory-why-miracle-witnesses-can-be-sincere-but-wrong-forteana-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer">The Virgin Mary Mother Of Christ Catholic Holy A4 Poster Wall Art Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-memory-why-miracle-witnesses-can-be-sincere-but-wrong-forteana-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="witness-memory-why-miracle-witnesses-can-be-sincere-but-wrong-forteana-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Catholic wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: Catholic wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-memory-why-miracle-witnesses-can-be-sincere-but-wrong-forteana-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="witness-memory-why-miracle-witnesses-can-be-sincere-but-wrong-forteana-catholic-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-memory-why-miracle-witnesses-can-be-sincere-but-wrong-forteana-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="witness-memory-why-miracle-witnesses-can-be-sincere-but-wrong-forteana-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Catholic Wall Art 26x32"><img src="{{ '/assets/images/marketplace-covers/d0a2bb79254320b3786c.jpg' | relative_url }}" alt="Listing image for Catholic Wall Art 26x32" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-memory-why-miracle-witnesses-can-be-sincere-but-wrong-forteana-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="witness-memory-why-miracle-witnesses-can-be-sincere-but-wrong-forteana-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer">Catholic Wall Art 26x32</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-memory-why-miracle-witnesses-can-be-sincere-but-wrong-forteana-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="witness-memory-why-miracle-witnesses-can-be-sincere-but-wrong-forteana-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Catholic wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: Catholic wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-memory-why-miracle-witnesses-can-be-sincere-but-wrong-forteana-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="witness-memory-why-miracle-witnesses-can-be-sincere-but-wrong-forteana-catholic-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-memory-why-miracle-witnesses-can-be-sincere-but-wrong-forteana-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="witness-memory-why-miracle-witnesses-can-be-sincere-but-wrong-forteana-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Catholic Wall Art 26x32"><img src="{{ '/assets/images/marketplace-covers/d0a2bb79254320b3786c.jpg' | relative_url }}" alt="Listing image for Catholic Wall Art 26x32" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-memory-why-miracle-witnesses-can-be-sincere-but-wrong-forteana-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="witness-memory-why-miracle-witnesses-can-be-sincere-but-wrong-forteana-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer">Catholic Wall Art 26x32</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-memory-why-miracle-witnesses-can-be-sincere-but-wrong-forteana-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="witness-memory-why-miracle-witnesses-can-be-sincere-but-wrong-forteana-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Catholic wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: Catholic wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-memory-why-miracle-witnesses-can-be-sincere-but-wrong-forteana-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="witness-memory-why-miracle-witnesses-can-be-sincere-but-wrong-forteana-catholic-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-memory-why-miracle-witnesses-can-be-sincere-but-wrong-forteana-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="witness-memory-why-miracle-witnesses-can-be-sincere-but-wrong-forteana-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for St Saint Francis Of Assisi Catholic Holy A4 Poster Wall Art Decor Print Picture"><img src="{{ '/assets/images/marketplace-covers/f988f9f21e0cbff77693.jpg' | relative_url }}" alt="Listing image for St Saint Francis Of Assisi Catholic Holy A4 Poster Wall Art Decor Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-memory-why-miracle-witnesses-can-be-sincere-but-wrong-forteana-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="witness-memory-why-miracle-witnesses-can-be-sincere-but-wrong-forteana-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer">St Saint Francis Of Assisi Catholic Holy A4 Poster Wall Art Decor Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-memory-why-miracle-witnesses-can-be-sincere-but-wrong-forteana-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="witness-memory-why-miracle-witnesses-can-be-sincere-but-wrong-forteana-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Catholic wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: Catholic wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-memory-why-miracle-witnesses-can-be-sincere-but-wrong-forteana-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="witness-memory-why-miracle-witnesses-can-be-sincere-but-wrong-forteana-catholic-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-memory-why-miracle-witnesses-can-be-sincere-but-wrong-forteana-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="witness-memory-why-miracle-witnesses-can-be-sincere-but-wrong-forteana-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-memory-why-miracle-witnesses-can-be-sincere-but-wrong-forteana-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="witness-memory-why-miracle-witnesses-can-be-sincere-but-wrong-forteana-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for St Saint Francis Of Assisi Catholic Holy A4 Poster Wall Art Decor Print Picture"><img src="{{ '/assets/images/marketplace-covers/f988f9f21e0cbff77693.jpg' | relative_url }}" alt="Listing image for St Saint Francis Of Assisi Catholic Holy A4 Poster Wall Art Decor Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-memory-why-miracle-witnesses-can-be-sincere-but-wrong-forteana-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="witness-memory-why-miracle-witnesses-can-be-sincere-but-wrong-forteana-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer">St Saint Francis Of Assisi Catholic Holy A4 Poster Wall Art Decor Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-memory-why-miracle-witnesses-can-be-sincere-but-wrong-forteana-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="witness-memory-why-miracle-witnesses-can-be-sincere-but-wrong-forteana-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Catholic wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: Catholic wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-memory-why-miracle-witnesses-can-be-sincere-but-wrong-forteana-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="witness-memory-why-miracle-witnesses-can-be-sincere-but-wrong-forteana-catholic-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-memory-why-miracle-witnesses-can-be-sincere-but-wrong-forteana-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="witness-memory-why-miracle-witnesses-can-be-sincere-but-wrong-forteana-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -554,7 +554,7 @@ Within the broader evaluation of miracle claims, eyewitness memory research ther
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -574,7 +574,7 @@ Within the broader evaluation of miracle claims, eyewitness memory research ther
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -606,7 +606,7 @@ Within the broader evaluation of miracle claims, eyewitness memory research ther
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -658,7 +658,7 @@ Within the broader evaluation of miracle claims, eyewitness memory research ther
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -703,7 +703,7 @@ Within the broader evaluation of miracle claims, eyewitness memory research ther
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -744,115 +744,115 @@ Within the broader evaluation of miracle claims, eyewitness memory research ther
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4183265/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4183265/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Neuroscience of Memory: Implications for the Courtroomby JW Lacy · 2013 · Cited by 268 — Findings from basic psychological researc...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4183265/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4183265/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Neuroscience of Memory: Implications for the Courtroomby JW Lacy · 2013 · Cited by 268 — Findings from basic psychological researc...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8076587/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8076587/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>These failures and distortions are influenced by several...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8076587/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8076587/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These failures and distortions are influenced by several...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9225701/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9225701/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of recall timing on the preservation of eyewitness...by C Chevroulet · 2021 · Cited by 15 — As a witness&#x27; memory of the ev...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9225701/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9225701/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of recall timing on the preservation of eyewitness...by C Chevroulet · 2021 · Cited by 15 — As a witness&#x27; memory of the ev...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: saskoer.ca  
    Title: eyewitness testimony and memory biases  
-   Link: <a href="https://www.saskoer.ca/introductiontopsychology/chapter/eyewitness-testimony-and-memory-biases/" target="_blank" rel="noopener noreferrer nofollow">https://www.saskoer.ca/introductiontopsychology/chapter/eyewitness-testimony-and-memory-biases/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>8.4 Eyewitness Testimony and Memory Biasesby C Laney · 2019 · Cited by 2 — Loftus Eyewitnesses can provide very compelling legal testimon...</p></details>
+   Link:<a href="https://www.saskoer.ca/introductiontopsychology/chapter/eyewitness-testimony-and-memory-biases/" target="_blank" rel="noopener noreferrer nofollow">https://www.saskoer.ca/introductiontopsychology/chapter/eyewitness-testimony-and-memory-biases/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>8.4 Eyewitness Testimony and Memory Biasesby C Laney · 2019 · Cited by 2 — Loftus Eyewitnesses can provide very compelling legal testimon...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/[psychology" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/[psychology</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The present review will discuss two such important factors...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/[psychology" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/[psychology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The present review will discuss two such important factors...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCA Behavioral Account of the Misinformation Effect  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by DM Challies · 2011 · Cited by 34 — One cognitive account of the misinformation effect is that memory errors are due to source monit...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by DM Challies · 2011 · Cited by 34 — One cognitive account of the misinformation effect is that memory errors are due to source monit...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: digitalcommons.unl.edu  
-   Link: <a href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1385&amp;context=ajacourtreview" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1385&amp;context=ajacourtreview</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Memory Conformity Between Eyewitnessesby F Gabbert · 2012 · Cited by 39 — In summary, memory-conformity effects are often d...</p></details>
+   Link:<a href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1385&amp;context=ajacourtreview" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1385&amp;context=ajacourtreview</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Memory Conformity Between Eyewitnessesby F Gabbert · 2012 · Cited by 39 — In summary, memory-conformity effects are often d...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: frontiersin.org  
    Title: Frontiers Online misinformation can distort witnesses' memories  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1239139/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1239139/full</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by M Kękuś · 2024 · Cited by 2 — The memory conformity effect occurs when people witness a given incident, then talk to each other about...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1239139/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1239139/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by M Kękuś · 2024 · Cited by 2 — The memory conformity effect occurs when people witness a given incident, then talk to each other about...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sites.gold.ac.uk  
    Title: Goldsmiths, University of London Memory conformity between eyewitnesses  
-   Link: <a href="https://sites.gold.ac.uk/psychology/2020/05/22/memory-conformity-between-eyewitnesses/" target="_blank" rel="noopener noreferrer nofollow">https://sites.gold.ac.uk/psychology/2020/05/22/memory-conformity-between-eyewitnesses/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It occurs because people accept, and later report, information that is suggested to them in the...Read more...</p></details>
+   Link:<a href="https://sites.gold.ac.uk/psychology/2020/05/22/memory-conformity-between-eyewitnesses/" target="_blank" rel="noopener noreferrer nofollow">https://sites.gold.ac.uk/psychology/2020/05/22/memory-conformity-between-eyewitnesses/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It occurs because people accept, and later report, information that is suggested to them in the...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10829763/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10829763/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by M Kękuś · 2024 · Cited by 2 — The memory conformity effect occurs when people witness a given incident and then talk to each other...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10829763/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10829763/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by M Kękuś · 2024 · Cited by 2 — The memory conformity effect occurs when people witness a given incident and then talk to each other...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: academicworks.cuny.edu  
-   Link: <a href="https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1018&amp;context=jj_etds" target="_blank" rel="noopener noreferrer nofollow">https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1018&amp;context=jj_etds</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Implicit Post-Event Information Influence Explicit...by HS Chau · 2017 — In the eyewitness setting, the source monitoring model suggests...</p></details>
+   Link:<a href="https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1018&amp;context=jj_etds" target="_blank" rel="noopener noreferrer nofollow">https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1018&amp;context=jj_etds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Implicit Post-Event Information Influence Explicit...by HS Chau · 2017 — In the eyewitness setting, the source monitoring model suggests...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/264905204_Memory_Conformity_Between_Eyewitnesses" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/264905204_Memory_Conformity_Between_Eyewitnesses</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Memory Conformity Between EyewitnessesWhen false details encountered during a discussion are later reported in our own recall, this...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/264905204_Memory_Conformity_Between_Eyewitnesses" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/264905204_Memory_Conformity_Between_Eyewitnesses</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Memory Conformity Between EyewitnessesWhen false details encountered during a discussion are later reported in our own recall, this...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: courses.lumenlearning.com  
-   Link: <a href="https://courses.lumenlearning.com/suny-hvcc-psychology-1/chapter/reading-eyewitness-testimony-and-memory-construction/" target="_blank" rel="noopener noreferrer nofollow">https://courses.lumenlearning.com/suny-hvcc-psychology-1/chapter/reading-eyewitness-testimony-and-memory-construction/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness Testimony and Memory ConstructionThe formulation of new memories is sometimes called construction, and the process of bringing...</p></details>
+   Link:<a href="https://courses.lumenlearning.com/suny-hvcc-psychology-1/chapter/reading-eyewitness-testimony-and-memory-construction/" target="_blank" rel="noopener noreferrer nofollow">https://courses.lumenlearning.com/suny-hvcc-psychology-1/chapter/reading-eyewitness-testimony-and-memory-construction/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness Testimony and Memory ConstructionThe formulation of new memories is sometimes called construction, and the process of bringing...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation effect | Social Sciences and HumanitiesThe misinformation effect refers to the phenomenon where post-event information can...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation effect | Social Sciences and HumanitiesThe misinformation effect refers to the phenomenon where post-event information can...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/226051579_A_theoretical_review_of_the_misinformation_effect_Predictions_from_an_activation-based_memory_model" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/226051579_A_theoretical_review_of_the_misinformation_effect_Predictions_from_an_activation-based_memory_model</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A theoretical review of the misinformation effectDecades of research into the misinformation effect have reliably shown that exposu...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/226051579_A_theoretical_review_of_the_misinformation_effect_Predictions_from_an_activation-based_memory_model" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/226051579_A_theoretical_review_of_the_misinformation_effect_Predictions_from_an_activation-based_memory_model</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A theoretical review of the misinformation effectDecades of research into the misinformation effect have reliably shown that exposu...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cdn.ymaws.com  
-   Link: <a href="https://cdn.ymaws.com/www.idc.law/resource/resmgr/quarterly_v28-29/29.1.23.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.ymaws.com/www.idc.law/resource/resmgr/quarterly_v28-29/29.1.23.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Error in Eyewitness Perception and MemoryUnderstanding the ways in which memory can fail or falter can help to inform the way that eye...</p></details>
+   Link:<a href="https://cdn.ymaws.com/www.idc.law/resource/resmgr/quarterly_v28-29/29.1.23.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.ymaws.com/www.idc.law/resource/resmgr/quarterly_v28-29/29.1.23.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Error in Eyewitness Perception and MemoryUnderstanding the ways in which memory can fail or falter can help to inform the way that eye...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/the-misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/the-misinformation-effect</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Misinformation EffectThe misinformation effect happens when our memory for past events is altered after exposure to misleading inform...</p></details>
+   Link:<a href="https://thedecisionlab.com/reference-guide/psychology/the-misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/the-misinformation-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Misinformation EffectThe misinformation effect happens when our memory for past events is altered after exposure to misleading inform...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: psychstory.co.uk  
-   Link: <a href="https://www.psychstory.co.uk/memory/eye-witness-testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.psychstory.co.uk/memory/eye-witness-testimony</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>factors affecting the accuracy of eye witness testimonyApplying reconstructive memory and schemas to eyewitness testimony reveals a criti...</p></details>
+   Link:<a href="https://www.psychstory.co.uk/memory/eye-witness-testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.psychstory.co.uk/memory/eye-witness-testimony</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>factors affecting the accuracy of eye witness testimonyApplying reconstructive memory and schemas to eyewitness testimony reveals a criti...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: eprints.whiterose.ac.uk  
    Title: Eyewitness Testimony, Misinformation Effect and Reasonable [Doubt](&#123;&#123; 'doubt/' | relative_url &#125;&#125;)  
-   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/175787/3/Eyewitness%20Testimony%2C%20Misinformation%20Effect%20and%20Reasonable%20Doubt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/175787/3/Eyewitness%20Testimony%2C%20Misinformation%20Effect%20and%20Reasonable%20Doubt.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Testimony, Misinformation Effect and...by C Bennett · 2021 · Cited by 2 — Because it involves agreeing that the misinformation effect wi...</p></details>
+   Link:<a href="https://eprints.whiterose.ac.uk/id/eprint/175787/3/Eyewitness%20Testimony%2C%20Misinformation%20Effect%20and%20Reasonable%20Doubt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/175787/3/Eyewitness%20Testimony%2C%20Misinformation%20Effect%20and%20Reasonable%20Doubt.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Testimony, Misinformation Effect and...by C Bennett · 2021 · Cited by 2 — Because it involves agreeing that the misinformation effect wi...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/247358793_Reconstructing_memory_The_incredible_eyewitness" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/247358793_Reconstructing_memory_The_incredible_eyewitness</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Such testimonies are often given more weight than other forms of evidence (Wang...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/247358793_Reconstructing_memory_The_incredible_eyewitness" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/247358793_Reconstructing_memory_The_incredible_eyewitness</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Such testimonies are often given more weight than other forms of evidence (Wang...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: savemyexams.com  
    Title: reconstructive memory eye witness testimony  
-   Link: <a href="https://www.savemyexams.com/dp/psychology/ib/17/sl/revision-notes/the-cognitive-approach/reliability-of-cognitive-processes/reconstructive-memory-eye-witness-testimony/" target="_blank" rel="noopener noreferrer nofollow">https://www.savemyexams.com/dp/psychology/ib/17/sl/revision-notes/the-cognitive-approach/reliability-of-cognitive-processes/reconstructive-memory-eye-witness-testimony/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reconstructive Memory: Eye Witness Testimony | DP IB...2 Oct 2024 — Loftus and Palmer (1974) suggested a hypothesis of reconstructive me...</p></details>
+   Link:<a href="https://www.savemyexams.com/dp/psychology/ib/17/sl/revision-notes/the-cognitive-approach/reliability-of-cognitive-processes/reconstructive-memory-eye-witness-testimony/" target="_blank" rel="noopener noreferrer nofollow">https://www.savemyexams.com/dp/psychology/ib/17/sl/revision-notes/the-cognitive-approach/reliability-of-cognitive-processes/reconstructive-memory-eye-witness-testimony/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reconstructive Memory: Eye Witness Testimony | DP IB...2 Oct 2024 — Loftus and Palmer (1974) suggested a hypothesis of reconstructive me...</p></details>

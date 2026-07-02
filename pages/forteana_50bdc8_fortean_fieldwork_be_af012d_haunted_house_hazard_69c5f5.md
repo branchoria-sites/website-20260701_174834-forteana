@@ -280,7 +280,7 @@ image: /assets/images/forteana_50bdc8_fortean_fieldwork_be_af012d_haunted_house_
 
 ## Introduction
 
-A beginner investigating a reputedly haunted house should treat the building itself as potential evidence before treating it as a stage for paranormal events. Many classic haunting reports—shadowy figures, unexplained voices, oppressive atmospheres, mysterious knocks, feelings of being watched, or waking to a presence in the room—can overlap with genuine environmental hazards or well-understood effects of buildings on human perception. That does not prove every haunting has an [ordinary explanation]({{ 'ordinary-causes/' | relative_url }}), but it does mean safety checks come before extraordinary claims. Modern environmental science, occupational health research, and even guidance from experienced psychical investigators all point to the same practical lesson: if a location is making people ill, disorientated or sleep-deprived, the first priority is identifying and removing those risks rather than collecting ghost stories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/407254157_Environmental_Factors_Misidentified_as_Paranormal_Activity_A_Scientific_Review_of_Physical_Chemical_Biological_Environmental_and_Psychological_Influences_on_Reported_Hauntings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Environmental Factors Misidentified as Paranormal Activity</span><span class="citation-popover-snippet">CO leaks, faulty appliances, infrasound sources) demonstrate natural causes behind classic haunt reports. We...Read more...</span></span></span>
+A beginner investigating a reputedly haunted house should treat the building itself as potential evidence before treating it as a stage for paranormal events. Many classic haunting reports—shadowy figures, unexplained voices, oppressive atmospheres, mysterious knocks, feelings of being watched, or waking to a presence in the room—can overlap with genuine environmental hazards or well-understood effects of buildings on human perception. That does not prove every haunting has an [ordinary explanation]({{ 'ordinary-causes/' | relative_url }}), but it does mean safety checks come before extraordinary claims. Modern environmental science, occupational health research, and even guidance from experienced psychical investigators all point to the same practical lesson: if a location is making people ill, disorientated or sleep-deprived, the first priority is identifying and removing those risks rather than collecting ghost stories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/407254157_Environmental_Factors_Misidentified_as_Paranormal_Activity_A_Scientific_Review_of_Physical_Chemical_Biological_Environmental_and_Psychological_Influences_on_Reported_Hauntings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Environmental Factors Misidentified as Paranormal Activity</span><span class="citation-popover-snippet">CO leaks, faulty appliances, infrasound sources) demonstrate natural causes behind classic haunt reports. We...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_fortean_fieldwork_be_af012d_haunted_house_hazard_69c5f5-Illustration-1-dark.svg" | relative_url }}" alt="House Hazards illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_fortean_fieldwork_be_af012d_haunted_house_hazard_69c5f5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_fortean_fieldwork_be_af012d_haunted_house_hazard_69c5f5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,7 +288,7 @@ A beginner investigating a reputedly haunted house should treat the building its
 
 The first question should never be "What ghost is here?" but "Is this building safe to enter?"
 
-Older buildings may contain hazards that produce unusual sensations while also creating convincing ghost narratives. Before beginning any investigation, check for obvious structural dangers, damaged wiring, poor ventilation, active heating appliances, mould, unstable floors and signs of water damage. If occupants report headaches, nausea, dizziness or confusion alongside paranormal experiences, treat those symptoms as potential medical warning signs rather than as supporting evidence for a haunting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lung.org/blog/spooky-things-in-house" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lung.org">[American Lung Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lung.org</span><span class="citation-popover-snippet">American Lung AssociationEnter if You Dare: 6 Spooky Things Lurking Inside Your...Some signs that you might have CO in your home include...</span></span></span>
+Older buildings may contain hazards that produce unusual sensations while also creating convincing ghost narratives. Before beginning any investigation, check for obvious structural dangers, damaged wiring, poor ventilation, active heating appliances, mould, unstable floors and signs of water damage. If occupants report headaches, nausea, dizziness or confusion alongside paranormal experiences, treat those symptoms as potential medical warning signs rather than as supporting evidence for a haunting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lung.org/blog/spooky-things-in-house" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lung.org">[American Lung Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lung.org</span><span class="citation-popover-snippet">American Lung AssociationEnter if You Dare: 6 Spooky Things Lurking Inside Your...Some signs that you might have CO in your home include...</span></span></span>
 
 Particular attention should be given to:
 
@@ -312,9 +312,9 @@ For [Fortean fieldwork]({{ 'fieldwork/' | relative_url }}), documenting these co
 
 Carbon monoxide (CO) deserves priority because it is both dangerous and capable of producing symptoms that witnesses may interpret as paranormal. It is colourless, odourless and produced by incomplete [combustion]({{ 'combustion/' | relative_url }}) from faulty gas appliances, blocked chimneys, wood burners and similar equipment.
 
-Low-level or chronic exposure may produce headaches, dizziness, confusion, disturbed sleep, vivid dreams and, in some cases, hallucinations or intense feelings of dread. These experiences can become woven into stories of haunted rooms or oppressive presences if the underlying poisoning goes unrecognised. Public health organisations therefore recommend working CO alarms and prompt inspection of fuel-burning appliances whenever exposure is suspected. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lung.org/blog/spooky-things-in-house" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lung.org">[American Lung Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lung.org</span><span class="citation-popover-snippet">American Lung AssociationEnter if You Dare: 6 Spooky Things Lurking Inside Your...Some signs that you might have CO in your home include...</span></span></span>
+Low-level or chronic exposure may produce headaches, dizziness, confusion, disturbed sleep, vivid dreams and, in some cases, hallucinations or intense feelings of dread. These experiences can become woven into stories of haunted rooms or oppressive presences if the underlying poisoning goes unrecognised. Public health organisations therefore recommend working CO alarms and prompt inspection of fuel-burning appliances whenever exposure is suspected.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lung.org/blog/spooky-things-in-house" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lung.org">[American Lung Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lung.org</span><span class="citation-popover-snippet">American Lung AssociationEnter if You Dare: 6 Spooky Things Lurking Inside Your...Some signs that you might have CO in your home include...</span></span></span>
 
-The often-cited 1913 investigation of a supposedly haunted Boston house found that a defective furnace was leaking combustion gases into occupied rooms. Residents reported nocturnal figures, strange sensations and frightening experiences that ceased once the ventilation problem was identified. While this single historical case does not explain all haunting traditions, it remains an important reminder that apparently supernatural reports can have life-threatening environmental causes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wigmoreonalcohol.com/carbon-monoxide-links-to-ghost-stories/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wigmoreonalcohol.com">[Wigmore on Alcohol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wigmoreonalcohol.com</span><span class="citation-popover-title">Discover how this invisible gas shaped history</span><span class="citation-popover-snippet">Wigmore on AlcoholCarbon Monoxide: 3 Chilling Truths Behind GhostsMarch 10, 2026 — 10 Mar 2026 — Carbon Monoxide may explain ghost sighti...</span><span class="citation-popover-meta">Published: March 10, 2026</span></span></span>
+The often-cited 1913 investigation of a supposedly haunted Boston house found that a defective furnace was leaking combustion gases into occupied rooms. Residents reported nocturnal figures, strange sensations and frightening experiences that ceased once the ventilation problem was identified. While this single historical case does not explain all haunting traditions, it remains an important reminder that apparently supernatural reports can have life-threatening environmental causes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wigmoreonalcohol.com/carbon-monoxide-links-to-ghost-stories/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wigmoreonalcohol.com">[Wigmore on Alcohol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wigmoreonalcohol.com</span><span class="citation-popover-title">Discover how this invisible gas shaped history</span><span class="citation-popover-snippet">Wigmore on AlcoholCarbon Monoxide: 3 Chilling Truths Behind GhostsMarch 10, 2026 — 10 Mar 2026 — Carbon Monoxide may explain ghost sighti...</span><span class="citation-popover-meta">Published: March 10, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/i8mjM3PB_Tk" title="Paranormal activity: science or fiction? - with Chris French" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=i8mjM3PB_Tk" target="_blank" rel="noopener noreferrer">Paranormal activity: science or fiction? - with Chris French</a></p><p class="youtube-embed-meta">Channel: The Royal Institution &middot; Views: 63.9K &middot; Uploaded: June 2024 &middot; Length: 57 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=i8mjM3PB_Tk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=i8mjM3PB_Tk">Open on YouTube</a></p></div></div></div>
@@ -323,13 +323,13 @@ The often-cited 1913 investigation of a supposedly haunted Boston house found th
 
 Persistent damp encourages mould growth, affecting indoor air quality. Exposure to mould is strongly associated with respiratory irritation, headaches, fatigue and difficulty concentrating, while living in damp housing is linked with poorer sleep and reduced wellbeing.
 
-Although mould does not reliably produce ghostly hallucinations by itself, feeling chronically unwell in a gloomy building can make ordinary creaks, shadows or ambiguous sensations seem far more significant. A neglected building that "feels wrong" may therefore be creating both genuine illness and a setting in which paranormal interpretations become more likely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://bigthink.com/the-past/paranormal-gas-leaks-toxic-mold/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bigthink.com">[Big Think]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bigthink.com</span><span class="citation-popover-title">Big Think Is the “paranormal” actually due to gas leaks and toxic mold?</span><span class="citation-popover-snippet">Big ThinkIs the “paranormal” actually due to gas leaks and toxic mold?November 11, 2023 — 11 Nov 2023 — Various environmental phenomena...</span><span class="citation-popover-meta">Published: November 11, 2023</span></span></span>
+Although mould does not reliably produce ghostly hallucinations by itself, feeling chronically unwell in a gloomy building can make ordinary creaks, shadows or ambiguous sensations seem far more significant. A neglected building that "feels wrong" may therefore be creating both genuine illness and a setting in which paranormal interpretations become more likely.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://bigthink.com/the-past/paranormal-gas-leaks-toxic-mold/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bigthink.com">[Big Think]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bigthink.com</span><span class="citation-popover-title">Big Think Is the “paranormal” actually due to gas leaks and toxic mold?</span><span class="citation-popover-snippet">Big ThinkIs the “paranormal” actually due to gas leaks and toxic mold?November 11, 2023 — 11 Nov 2023 — Various environmental phenomena...</span><span class="citation-popover-meta">Published: November 11, 2023</span></span></span>
 
 ### Vibration, low-frequency sound and strange sensations
 
 Not every unsettling sensation comes from something visible. Mechanical systems such as boilers, ventilation equipment, pumps and industrial machinery can generate low-frequency vibration or infrasound.
 
-Research into infrasound suggests that while it does not reliably create visions of [ghosts]({{ 'ghosts/' | relative_url }}), it can contribute to unease, anxiety, discomfort or an indefinable sense that something is wrong, particularly in suggestive environments. Combined with darkness, unfamiliar surroundings and prior expectations, these subtle sensations may encourage witnesses to interpret ambiguous experiences as supernatural. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/science/2026/apr/27/spooky-feelings-in-old-houses-may-be-caused-by-boiler-sounds-study-suggests" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Spooky feelings in old houses may be caused by boiler</span><span class="citation-popover-snippet">The GuardianSpooky feelings in old houses may be caused by boiler...April 27, 2026 — 27 Apr 2026 — Inaudible infrasound from old pipes a...</span><span class="citation-popover-meta">Published: April 27, 2026</span></span></span>
+Research into infrasound suggests that while it does not reliably create visions of [ghosts]({{ 'ghosts/' | relative_url }}), it can contribute to unease, anxiety, discomfort or an indefinable sense that something is wrong, particularly in suggestive environments. Combined with darkness, unfamiliar surroundings and prior expectations, these subtle sensations may encourage witnesses to interpret ambiguous experiences as supernatural.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/science/2026/apr/27/spooky-feelings-in-old-houses-may-be-caused-by-boiler-sounds-study-suggests" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Spooky feelings in old houses may be caused by boiler</span><span class="citation-popover-snippet">The GuardianSpooky feelings in old houses may be caused by boiler...April 27, 2026 — 27 Apr 2026 — Inaudible infrasound from old pipes a...</span><span class="citation-popover-meta">Published: April 27, 2026</span></span></span>
 
 Similarly, ordinary building movement can generate:
 
@@ -354,7 +354,7 @@ Cold patches are among the oldest features of haunting reports, yet many buildin
 
 Poor insulation, hidden air leaks, chimney effects, open floor voids and poorly sealed doors can create distinct streams of cold air. These draughts often occur in narrow corridors, staircases and older stone buildings—the very locations frequently described as haunted.
 
-Rather than assuming a supernatural cause, investigators should note [weather]({{ 'weather/' | relative_url }}) conditions, ventilation patterns and heating operation before assigning significance to isolated cold spots. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/407254157_Environmental_Factors_Misidentified_as_Paranormal_Activity_A_Scientific_Review_of_Physical_Chemical_Biological_Environmental_and_Psychological_Influences_on_Reported_Hauntings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Environmental Factors Misidentified as Paranormal Activity</span><span class="citation-popover-snippet">CO leaks, faulty appliances, infrasound sources) demonstrate natural causes behind classic haunt reports. We...Read more...</span></span></span>
+Rather than assuming a supernatural cause, investigators should note [weather]({{ 'weather/' | relative_url }}) conditions, ventilation patterns and heating operation before assigning significance to isolated cold spots.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/407254157_Environmental_Factors_Misidentified_as_Paranormal_Activity_A_Scientific_Review_of_Physical_Chemical_Biological_Environmental_and_Psychological_Influences_on_Reported_Hauntings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Environmental Factors Misidentified as Paranormal Activity</span><span class="citation-popover-snippet">CO leaks, faulty appliances, infrasound sources) demonstrate natural causes behind classic haunt reports. We...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-oN5awl7jhA" title="Can the Power of Specific Frequencies Unlock a Haunting Effect | Mythbusters | Discovery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-oN5awl7jhA" target="_blank" rel="noopener noreferrer">Can the Power of Specific Frequencies Unlock a Haunting Effect | Mythbusters | Discovery</a></p><p class="youtube-embed-meta">Channel: Discovery</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-oN5awl7jhA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-oN5awl7jhA">Open on YouTube</a></p></div></div></div>
@@ -378,7 +378,7 @@ Several factors commonly reinforce one another:
 
 </div>
 
-Importantly, these mechanisms do not imply dishonesty. Witnesses may be accurately describing what they experienced while being mistaken about its cause. Reviews of paranormal belief and cognition consistently emphasise that sincere experiences can arise from ordinary perceptual and cognitive processes without deliberate fabrication. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9067702/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Paranormal beliefs and cognitive function: A systematic review...by CE Dean · 2022 · Cited by 65 — Research into paranormal beliefs a...</span></span></span>
+Importantly, these mechanisms do not imply dishonesty. Witnesses may be accurately describing what they experienced while being mistaken about its cause. Reviews of paranormal belief and cognition consistently emphasise that sincere experiences can arise from ordinary perceptual and cognitive processes without deliberate fabrication.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9067702/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Paranormal beliefs and cognitive function: A systematic review...by CE Dean · 2022 · Cited by 65 — Research into paranormal beliefs a...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bnfIp30YDus" title="Carbon Monoxide Poisoning Mistaken for the Paranormal?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bnfIp30YDus" target="_blank" rel="noopener noreferrer">Carbon Monoxide Poisoning Mistaken for the Paranormal?</a></p><p class="youtube-embed-meta">Channel: Dr Duncan Couch</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bnfIp30YDus" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bnfIp30YDus">Open on YouTube</a></p></div></div></div>
@@ -403,184 +403,184 @@ Suspend any investigation immediately if there are signs of:
 
 No alleged haunting justifies remaining in an unsafe environment. Evacuating the building, contacting the appropriate emergency or maintenance professionals and documenting observed hazards should take precedence over collecting further testimony.
 
-This approach reflects good investigative practice rather than scepticism for its own sake. By removing obvious environmental explanations first, any remaining unexplained observations can be examined more carefully, while ensuring that genuine health risks are not mistaken for evidence of the paranormal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lung.org/blog/spooky-things-in-house" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lung.org">[American Lung Association+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lung.org</span><span class="citation-popover-snippet">American Lung AssociationEnter if You Dare: 6 Spooky Things Lurking Inside Your...Some signs that you might have CO in your home include...</span></span></span>
+This approach reflects good investigative practice rather than scepticism for its own sake. By removing obvious environmental explanations first, any remaining unexplained observations can be examined more carefully, while ensuring that genuine health risks are not mistaken for evidence of the paranormal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lung.org/blog/spooky-things-in-house" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lung.org">[American Lung Association+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lung.org</span><span class="citation-popover-snippet">American Lung AssociationEnter if You Dare: 6 Spooky Things Lurking Inside Your...Some signs that you might have CO in your home include...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_fortean_fieldwork_be_af012d_haunted_house_hazard_69c5f5-Illustration-3-dark.svg" | relative_url }}" alt="House Hazards illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_fortean_fieldwork_be_af012d_haunted_house_hazard_69c5f5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_fortean_fieldwork_be_af012d_haunted_house_hazard_69c5f5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When the Haunted House Is the Clue. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When the Haunted House Is the Clue. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Encourages ruling out ordinary causes before extraordinary conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages ruling out ordinary causes before extraordinary conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
-        </h4>
-        <p class="fr-book-author">By Charles Fort</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
+</h4>
+<p class="fr-book-author">By Charles Fort</p>
         
-        <p class="fr-book-desc">Provides broader anomalous context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader anomalous context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Paranormality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12284173-M.jpg" alt="Cover for Paranormality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Paranormality">Paranormality</a>
-        </h4>
-        <p class="fr-book-author">By Richard Wiseman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Paranormality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12284173-M.jpg" alt="Cover for Paranormality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Paranormality">Paranormality</a>
+</h4>
+<p class="fr-book-author">By Richard Wiseman</p>
         
-        <p class="fr-book-desc">First published 2011. Subjects: Parapsychology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011. Subjects: Parapsychology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Spook+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Spook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/247995-M.jpg" alt="Cover for Spook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Spook+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spook">Spook</a>
-        </h4>
-        <p class="fr-book-author">By Mary Roach</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Spook+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Spook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/247995-M.jpg" alt="Cover for Spook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Spook+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spook">Spook</a>
+</h4>
+<p class="fr-book-author">By Mary Roach</p>
         
-        <p class="fr-book-desc">First published 2005. Subjects: Religion and science, Consciousness, Near-death experiences, Soul, Future life.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Spook+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2005. Subjects: Religion and science, Consciousness, Near-death experiences, Soul, Future life.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Spook+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Paranormality&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Paranormality</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Paranormality&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Paranormality</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=house-hazards-when-the-haunted-house-is-the-clue-forteana-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="house-hazards-when-the-haunted-house-is-the-clue-forteana-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HAUNTED HOUSE - HOUSE DOOR PLAQUE SIGN SHED GATE (Gold or Silver Lettering)"><img src="{{ '/assets/images/marketplace-covers/a88d1c5ea93ea798e1ff.jpg' | relative_url }}" alt="Listing image for HAUNTED HOUSE - HOUSE DOOR PLAQUE SIGN SHED GATE (Gold or Silver Lettering)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=house-hazards-when-the-haunted-house-is-the-clue-forteana-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="house-hazards-when-the-haunted-house-is-the-clue-forteana-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer">HAUNTED HOUSE - HOUSE DOOR PLAQUE SIGN SHED GATE (Gold or Silver Lettering)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=house-hazards-when-the-haunted-house-is-the-clue-forteana-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="house-hazards-when-the-haunted-house-is-the-clue-forteana-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted house sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: haunted house sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=house-hazards-when-the-haunted-house-is-the-clue-forteana-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="house-hazards-when-the-haunted-house-is-the-clue-forteana-haunted-house-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=house-hazards-when-the-haunted-house-is-the-clue-forteana-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="house-hazards-when-the-haunted-house-is-the-clue-forteana-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HAUNTED HOUSE - HOUSE DOOR PLAQUE SIGN SHED GATE (Gold or Silver Lettering)"><img src="{{ '/assets/images/marketplace-covers/a88d1c5ea93ea798e1ff.jpg' | relative_url }}" alt="Listing image for HAUNTED HOUSE - HOUSE DOOR PLAQUE SIGN SHED GATE (Gold or Silver Lettering)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=house-hazards-when-the-haunted-house-is-the-clue-forteana-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="house-hazards-when-the-haunted-house-is-the-clue-forteana-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer">HAUNTED HOUSE - HOUSE DOOR PLAQUE SIGN SHED GATE (Gold or Silver Lettering)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=house-hazards-when-the-haunted-house-is-the-clue-forteana-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="house-hazards-when-the-haunted-house-is-the-clue-forteana-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted house sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted house sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=house-hazards-when-the-haunted-house-is-the-clue-forteana-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="house-hazards-when-the-haunted-house-is-the-clue-forteana-haunted-house-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=house-hazards-when-the-haunted-house-is-the-clue-forteana-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="house-hazards-when-the-haunted-house-is-the-clue-forteana-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Haunted House Halloween Sign “Haunted Highway “Black Metal Hanging Wall Sign"><img src="{{ '/assets/images/marketplace-covers/6a9ab4b993248f2965ff.jpg' | relative_url }}" alt="Listing image for Haunted House Halloween Sign “Haunted Highway “Black Metal Hanging Wall Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=house-hazards-when-the-haunted-house-is-the-clue-forteana-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="house-hazards-when-the-haunted-house-is-the-clue-forteana-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer">Haunted House Halloween Sign “Haunted Highway “Black Metal Hanging Wall Sign</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=house-hazards-when-the-haunted-house-is-the-clue-forteana-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="house-hazards-when-the-haunted-house-is-the-clue-forteana-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted house sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: haunted house sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=house-hazards-when-the-haunted-house-is-the-clue-forteana-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="house-hazards-when-the-haunted-house-is-the-clue-forteana-haunted-house-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=house-hazards-when-the-haunted-house-is-the-clue-forteana-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="house-hazards-when-the-haunted-house-is-the-clue-forteana-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Haunted House Halloween Sign “Haunted Highway “Black Metal Hanging Wall Sign"><img src="{{ '/assets/images/marketplace-covers/6a9ab4b993248f2965ff.jpg' | relative_url }}" alt="Listing image for Haunted House Halloween Sign “Haunted Highway “Black Metal Hanging Wall Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=house-hazards-when-the-haunted-house-is-the-clue-forteana-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="house-hazards-when-the-haunted-house-is-the-clue-forteana-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer">Haunted House Halloween Sign “Haunted Highway “Black Metal Hanging Wall Sign</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=house-hazards-when-the-haunted-house-is-the-clue-forteana-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="house-hazards-when-the-haunted-house-is-the-clue-forteana-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted house sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted house sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=house-hazards-when-the-haunted-house-is-the-clue-forteana-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="house-hazards-when-the-haunted-house-is-the-clue-forteana-haunted-house-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=house-hazards-when-the-haunted-house-is-the-clue-forteana-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="house-hazards-when-the-haunted-house-is-the-clue-forteana-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for How To Sell A haunted House Signed Special edition Hardback"><img src="{{ '/assets/images/marketplace-covers/2194b6d0f0cda7539d56.jpg' | relative_url }}" alt="Listing image for How To Sell A haunted House Signed Special edition Hardback" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=house-hazards-when-the-haunted-house-is-the-clue-forteana-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="house-hazards-when-the-haunted-house-is-the-clue-forteana-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer">How To Sell A haunted House Signed Special edition Hardback</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=house-hazards-when-the-haunted-house-is-the-clue-forteana-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="house-hazards-when-the-haunted-house-is-the-clue-forteana-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted house sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: haunted house sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=house-hazards-when-the-haunted-house-is-the-clue-forteana-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="house-hazards-when-the-haunted-house-is-the-clue-forteana-haunted-house-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=house-hazards-when-the-haunted-house-is-the-clue-forteana-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="house-hazards-when-the-haunted-house-is-the-clue-forteana-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=house-hazards-when-the-haunted-house-is-the-clue-forteana-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="house-hazards-when-the-haunted-house-is-the-clue-forteana-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for How To Sell A haunted House Signed Special edition Hardback"><img src="{{ '/assets/images/marketplace-covers/2194b6d0f0cda7539d56.jpg' | relative_url }}" alt="Listing image for How To Sell A haunted House Signed Special edition Hardback" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=house-hazards-when-the-haunted-house-is-the-clue-forteana-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="house-hazards-when-the-haunted-house-is-the-clue-forteana-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer">How To Sell A haunted House Signed Special edition Hardback</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=house-hazards-when-the-haunted-house-is-the-clue-forteana-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="house-hazards-when-the-haunted-house-is-the-clue-forteana-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted house sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted house sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=house-hazards-when-the-haunted-house-is-the-clue-forteana-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="house-hazards-when-the-haunted-house-is-the-clue-forteana-haunted-house-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=house-hazards-when-the-haunted-house-is-the-clue-forteana-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="house-hazards-when-the-haunted-house-is-the-clue-forteana-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -596,7 +596,7 @@ This approach reflects good investigative practice rather than scepticism for it
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -616,7 +616,7 @@ This approach reflects good investigative practice rather than scepticism for it
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -648,7 +648,7 @@ This approach reflects good investigative practice rather than scepticism for it
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -700,7 +700,7 @@ This approach reflects good investigative practice rather than scepticism for it
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -745,7 +745,7 @@ This approach reflects good investigative practice rather than scepticism for it
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -786,100 +786,100 @@ This approach reflects good investigative practice rather than scepticism for it
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
    Title: Research Gate Environmental Factors Misidentified as Paranormal Activity  
-   Link: <a href="https://www.researchgate.net/publication/407254157_Environmental_Factors_Misidentified_as_Paranormal_Activity_A_Scientific_Review_of_Physical_Chemical_Biological_Environmental_and_Psychological_Influences_on_Reported_Hauntings" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/407254157_Environmental_Factors_Misidentified_as_Paranormal_Activity_A_Scientific_Review_of_Physical_Chemical_Biological_Environmental_and_Psychological_Influences_on_Reported_Hauntings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CO leaks, faulty appliances, infrasound sources) demonstrate natural causes behind classic haunt reports. We...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/407254157_Environmental_Factors_Misidentified_as_Paranormal_Activity_A_Scientific_Review_of_Physical_Chemical_Biological_Environmental_and_Psychological_Influences_on_Reported_Hauntings" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/407254157_Environmental_Factors_Misidentified_as_Paranormal_Activity_A_Scientific_Review_of_Physical_Chemical_Biological_Environmental_and_Psychological_Influences_on_Reported_Hauntings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CO leaks, faulty appliances, infrasound sources) demonstrate natural causes behind classic haunt reports. We...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: lung.org  
-   Link: <a href="https://www.lung.org/blog/spooky-things-in-house" target="_blank" rel="noopener noreferrer nofollow">https://www.lung.org/blog/spooky-things-in-house</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>American Lung AssociationEnter if You Dare: 6 Spooky Things Lurking Inside Your...Some signs that you might have CO in your home include...</p></details>
+   Link:<a href="https://www.lung.org/blog/spooky-things-in-house" target="_blank" rel="noopener noreferrer nofollow">https://www.lung.org/blog/spooky-things-in-house</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Lung AssociationEnter if You Dare: 6 Spooky Things Lurking Inside Your...Some signs that you might have CO in your home include...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9067702/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9067702/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Paranormal beliefs and cognitive function: A systematic review...by CE Dean · 2022 · Cited by 65 — Research into paranormal beliefs a...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9067702/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9067702/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paranormal beliefs and cognitive function: A systematic review...by CE Dean · 2022 · Cited by 65 — Research into paranormal beliefs a...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/343590878_Sensing_Spirits_Paranormal_Investigation_and_the_Social_Construction_of_Ghosts" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/343590878_Sensing_Spirits_Paranormal_Investigation_and_the_Social_Construction_of_Ghosts</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ifestation of ghostly spirits in the living world, the distinction between ghosts...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/343590878_Sensing_Spirits_Paranormal_Investigation_and_the_Social_Construction_of_Ghosts" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/343590878_Sensing_Spirits_Paranormal_Investigation_and_the_Social_Construction_of_Ghosts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ifestation of ghostly spirits in the living world, the distinction between ghosts...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: wigmoreonalcohol.com  
    Title: Discover how this invisible gas shaped history  
-   Link: <a href="https://www.wigmoreonalcohol.com/carbon-monoxide-links-to-ghost-stories/" target="_blank" rel="noopener noreferrer nofollow">https://www.wigmoreonalcohol.com/carbon-monoxide-links-to-ghost-stories/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wigmore on AlcoholCarbon Monoxide: 3 Chilling Truths Behind GhostsMarch 10, 2026 — 10 Mar 2026 — Carbon Monoxide may explain ghost sighti...</p></details>
+   Link:<a href="https://www.wigmoreonalcohol.com/carbon-monoxide-links-to-ghost-stories/" target="_blank" rel="noopener noreferrer nofollow">https://www.wigmoreonalcohol.com/carbon-monoxide-links-to-ghost-stories/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wigmore on AlcoholCarbon Monoxide: 3 Chilling Truths Behind GhostsMarch 10, 2026 — 10 Mar 2026 — Carbon Monoxide may explain ghost sighti...</p></details>
    Published: March 10, 2026  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: bigthink.com  
    Title: Big Think Is the “paranormal” actually due to gas leaks and toxic mold?  
-   Link: <a href="https://bigthink.com/the-past/paranormal-gas-leaks-toxic-mold/" target="_blank" rel="noopener noreferrer nofollow">https://bigthink.com/the-past/paranormal-gas-leaks-toxic-mold/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Big ThinkIs the “paranormal” actually due to gas leaks and toxic mold?November 11, 2023 — 11 Nov 2023 — Various environmental phenomena...</p></details>
+   Link:<a href="https://bigthink.com/the-past/paranormal-gas-leaks-toxic-mold/" target="_blank" rel="noopener noreferrer nofollow">https://bigthink.com/the-past/paranormal-gas-leaks-toxic-mold/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Big ThinkIs the “paranormal” actually due to gas leaks and toxic mold?November 11, 2023 — 11 Nov 2023 — Various environmental phenomena...</p></details>
    Published: November 11, 2023  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: theguardian.com  
    Title: The Guardian Spooky feelings in [old houses](&#123;&#123; 'old-houses/' | relative_url &#125;&#125;) may be caused by boiler  
-   Link: <a href="https://www.theguardian.com/science/2026/apr/27/spooky-feelings-in-old-houses-may-be-caused-by-boiler-sounds-study-suggests" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/apr/27/spooky-feelings-in-old-houses-may-be-caused-by-boiler-sounds-study-suggests</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianSpooky feelings in old houses may be caused by boiler...April 27, 2026 — 27 Apr 2026 — Inaudible infrasound from old pipes a...</p></details>
+   Link:<a href="https://www.theguardian.com/science/2026/apr/27/spooky-feelings-in-old-houses-may-be-caused-by-boiler-sounds-study-suggests" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/apr/27/spooky-feelings-in-old-houses-may-be-caused-by-boiler-sounds-study-suggests</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianSpooky feelings in old houses may be caused by boiler...April 27, 2026 — 27 Apr 2026 — Inaudible infrasound from old pipes a...</p></details>
    Published: April 27, 2026  
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/41269699/The_Paradox_of_Contemporary_Paranormal_Research" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/41269699/The_Paradox_of_Contemporary_Paranormal_Research</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Paradox of Contemporary Paranormal ResearchThis essay involves a discussion of how actual progress in the heterodox sciences of...</p></details>
+   Link:<a href="https://www.academia.edu/41269699/The_Paradox_of_Contemporary_Paranormal_Research" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/41269699/The_Paradox_of_Contemporary_Paranormal_Research</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Paradox of Contemporary Paranormal ResearchThis essay involves a discussion of how actual progress in the heterodox sciences of...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/todayilearned/comments/5rs1bt/til_that_some_haunted_houses_are_thought_to_be/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/5rs1bt/til_that_some_haunted_houses_are_thought_to_be/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TIL that some haunted houses are thought to be the result...Some haunted houses are thought to be the result of dangerous safety hazards...</p></details>
+   Link:<a href="https://www.reddit.com/r/todayilearned/comments/5rs1bt/til_that_some_haunted_houses_are_thought_to_be/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/5rs1bt/til_that_some_haunted_houses_are_thought_to_be/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TIL that some haunted houses are thought to be the result...Some haunted houses are thought to be the result of dangerous safety hazards...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: top20.moveisdevalor.com.br  
-   Link: <a href="https://top20.moveisdevalor.com.br/uploaded-files/JbBwIj/7FE134/TheScienceOfGhosts.pdf" target="_blank" rel="noopener noreferrer nofollow">https://top20.moveisdevalor.com.br/uploaded-files/JbBwIj/7FE134/TheScienceOfGhosts.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SCIENCE OF GHOSTSYes, environmental factors such as mold, carbon monoxide poisoning, low- frequency sound waves (infrasound), and electro...</p></details>
+   Link:<a href="https://top20.moveisdevalor.com.br/uploaded-files/JbBwIj/7FE134/TheScienceOfGhosts.pdf" target="_blank" rel="noopener noreferrer nofollow">https://top20.moveisdevalor.com.br/uploaded-files/JbBwIj/7FE134/TheScienceOfGhosts.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SCIENCE OF GHOSTSYes, environmental factors such as mold, carbon monoxide poisoning, low- frequency sound waves (infrasound), and electro...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: lib.cam.ac.uk  
-   Link: <a href="https://www.lib.cam.ac.uk/collections/departments/archives-modern-and-medieval-manuscripts-and-university-archives-0" target="_blank" rel="noopener noreferrer nofollow">https://www.lib.cam.ac.uk/collections/departments/archives-modern-and-medieval-manuscripts-and-university-archives-0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>for Psychical Research | Cambridge University LibraryInitially the SPR focussed on investigating, exposing, and reproducing fake psychic...</p></details>
+   Link:<a href="https://www.lib.cam.ac.uk/collections/departments/archives-modern-and-medieval-manuscripts-and-university-archives-0" target="_blank" rel="noopener noreferrer nofollow">https://www.lib.cam.ac.uk/collections/departments/archives-modern-and-medieval-manuscripts-and-university-archives-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>for Psychical Research | Cambridge University LibraryInitially the SPR focussed on investigating, exposing, and reproducing fake psychic...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/scifri/posts/why-do-old-abandoned-houses-freak-us-out-and-feel-spookypsychologist-rodney-schm/1415080243987438/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/scifri/posts/why-do-old-abandoned-houses-freak-us-out-and-feel-spookypsychologist-rodney-schm/1415080243987438/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ound might cause people to feel unsettled in “haunted” places.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/scifri/posts/why-do-old-abandoned-houses-freak-us-out-and-feel-spookypsychologist-rodney-schm/1415080243987438/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/scifri/posts/why-do-old-abandoned-houses-freak-us-out-and-feel-spookypsychologist-rodney-schm/1415080243987438/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ound might cause people to feel unsettled in “haunted” places.Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: merid.org  
    Title: environmental culprit behind hauntings  
-   Link: <a href="https://merid.org/insights/environmental-culprit-behind-hauntings/" target="_blank" rel="noopener noreferrer nofollow">https://merid.org/insights/environmental-culprit-behind-hauntings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Halloween Horror Story: A Scary Environmental Culprit...29 Oct 2021 — CO poisoning symptoms can include headaches, hallucinations, drows...</p></details>
+   Link:<a href="https://merid.org/insights/environmental-culprit-behind-hauntings/" target="_blank" rel="noopener noreferrer nofollow">https://merid.org/insights/environmental-culprit-behind-hauntings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Halloween Horror Story: A Scary Environmental Culprit...29 Oct 2021 — CO poisoning symptoms can include headaches, hallucinations, drows...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: spr.ac.uk  
-   Link: <a href="https://www.spr.ac.uk/magazine-society-psychical-research" target="_blank" rel="noopener noreferrer nofollow">https://www.spr.ac.uk/magazine-society-psychical-research</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Paranormal Review 2014-2020 · Privacy &amp; Data...Read more...</p></details>
+   Link:<a href="https://www.spr.ac.uk/magazine-society-psychical-research" target="_blank" rel="noopener noreferrer nofollow">https://www.spr.ac.uk/magazine-society-psychical-research</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paranormal Review 2014-2020 · Privacy &amp; Data...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: scienceandmediamuseum.org.uk  
    Title: science investigating paranormal  
-   Link: <a href="https://www.scienceandmediamuseum.org.uk/objects-and-stories/science-investigating-paranormal" target="_blank" rel="noopener noreferrer nofollow">https://www.scienceandmediamuseum.org.uk/objects-and-stories/science-investigating-paranormal</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Science and Media MuseumUsing science to investigate the paranormal14 Feb 2022 — This story looks at the scientific instruments...</p></details>
+   Link:<a href="https://www.scienceandmediamuseum.org.uk/objects-and-stories/science-investigating-paranormal" target="_blank" rel="noopener noreferrer nofollow">https://www.scienceandmediamuseum.org.uk/objects-and-stories/science-investigating-paranormal</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Science and Media MuseumUsing science to investigate the paranormal14 Feb 2022 — This story looks at the scientific instruments...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: Ghosts or misperceptions?  
-   Link: <a href="https://www.facebook.com/wlkynews/posts/ghosts-or-misperceptions-a-2001-investigation-examines-haunting-evidence-with-ex/563944492676157/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wlkynews/posts/ghosts-or-misperceptions-a-2001-investigation-examines-haunting-evidence-with-ex/563944492676157/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A 2001 investigation examines...Eleanor Sidgwick of the Society for Psychical Research analyzed hundreds of ghost reports and concluded...</p></details>
+   Link:<a href="https://www.facebook.com/wlkynews/posts/ghosts-or-misperceptions-a-2001-investigation-examines-haunting-evidence-with-ex/563944492676157/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wlkynews/posts/ghosts-or-misperceptions-a-2001-investigation-examines-haunting-evidence-with-ex/563944492676157/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A 2001 investigation examines...Eleanor Sidgwick of the Society for Psychical Research analyzed hundreds of ghost reports and concluded...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Paranormal activity: science or fiction?  
-   Link: <a href="https://www.youtube.com/watch?v=i8mjM3PB_Tk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i8mjM3PB_Tk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>with Chris FrenchParanormal experiences often appear perplexing, but are they genuinely legitimate phenomena? Watch the Q&amp;A here (exclusi...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=i8mjM3PB_Tk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i8mjM3PB_Tk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>with Chris FrenchParanormal experiences often appear perplexing, but are they genuinely legitimate phenomena? Watch the Q&amp;A here (exclusi...</p></details>

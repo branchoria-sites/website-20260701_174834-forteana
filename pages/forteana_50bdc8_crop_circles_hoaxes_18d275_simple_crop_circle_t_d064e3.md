@@ -280,7 +280,7 @@ image: /assets/images/forteana_50bdc8_crop_circles_hoaxes_18d275_simple_crop_cir
 
 ## Introduction
 
-One of the most persistent questions in the crop-circle debate is whether ordinary people could really produce vast, geometrically precise formations in a single night. Decades of demonstrations, investigations and admissions by crop-circle makers indicate that they could. The key was not sophisticated machinery but careful planning combined with remarkably simple equipment: a wooden plank for flattening crops, ropes for measuring curves, and basic sighting devices for keeping long lines straight. These methods did not rely on mysterious technology. Instead, they applied familiar principles of surveying, geometry and teamwork to an open landscape. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2002/09/22164740/p17.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[cdn.centerforinquiry.org+2Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Circular Reasoning:by JOE NICKELL — Joe Nickell has written about crop circles in his book Real-life X-Files (2001)...</span></span></span>
+One of the most persistent questions in the crop-circle debate is whether ordinary people could really produce vast, geometrically precise formations in a single night. Decades of demonstrations, investigations and admissions by crop-circle makers indicate that they could. The key was not sophisticated machinery but careful planning combined with remarkably simple equipment: a wooden plank for flattening crops, ropes for measuring curves, and basic sighting devices for keeping long lines straight. These methods did not rely on mysterious technology. Instead, they applied familiar principles of surveying, geometry and teamwork to an open landscape.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2002/09/22164740/p17.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[cdn.centerforinquiry.org+2Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Circular Reasoning:by JOE NICKELL — Joe Nickell has written about crop circles in his book Real-life X-Files (2001)...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_crop_circles_hoaxes_18d275_simple_crop_circle_t_d064e3-Illustration-1-dark.svg" | relative_url }}" alt="Circle Tools illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_crop_circles_hoaxes_18d275_simple_crop_circle_t_d064e3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_crop_circles_hoaxes_18d275_simple_crop_circle_t_d064e3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -295,13 +295,13 @@ The classic method associated with early British crop-circle makers, particularl
 * **A wooden plank**, usually around four feet (1.2 metres) long, used to press crops down evenly without uprooting them.
 * **A rope or length of string**, attached to a central point to define accurate circles.
 * **A simple sighting aid**, famously a baseball cap fitted with a wire loop, allowing the maker to align distant landmarks and walk straight.
-* **A pre-drawn plan**, often sketched on paper before entering the field. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www2.nau.edu/~gaud/bio372/class/readings/circ.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nau.edu">[www2.nau.edu+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nau.edu</span><span class="citation-popover-title">Crop Circles</span><span class="citation-popover-snippet">NAUAt the center of the intended site, Bower held one end of the string. The other end was attached to the plank, held horizontally at kn...</span></span></span>
+* **A pre-drawn plan**, often sketched on paper before entering the field.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www2.nau.edu/~gaud/bio372/class/readings/circ.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nau.edu">[www2.nau.edu+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nau.edu</span><span class="citation-popover-title">Crop Circles</span><span class="citation-popover-snippet">NAUAt the center of the intended site, Bower held one end of the string. The other end was attached to the plank, held horizontally at kn...</span></span></span>
 
-The plank was not dragged behind the makers. Instead, it was laid across the standing crop, and body weight was applied by stepping onto it. This bent the stems in a consistent direction while reducing breakage, especially when the plants were naturally flexible because of moisture or recent rain. The operator then lifted the plank forward and repeated the process in overlapping steps, much like laying temporary footprints. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www2.nau.edu/~gaud/bio372/class/readings/circ.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nau.edu">[www2.nau.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nau.edu</span><span class="citation-popover-title">Crop Circles</span><span class="citation-popover-snippet">NAUAt the center of the intended site, Bower held one end of the string. The other end was attached to the plank, held horizontally at kn...</span></span></span>
+The plank was not dragged behind the makers. Instead, it was laid across the standing crop, and body weight was applied by stepping onto it. This bent the stems in a consistent direction while reducing breakage, especially when the plants were naturally flexible because of moisture or recent rain. The operator then lifted the plank forward and repeated the process in overlapping steps, much like laying temporary footprints.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www2.nau.edu/~gaud/bio372/class/readings/circ.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nau.edu">[www2.nau.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nau.edu</span><span class="citation-popover-title">Crop Circles</span><span class="citation-popover-snippet">NAUAt the center of the intended site, Bower held one end of the string. The other end was attached to the plank, held horizontally at kn...</span></span></span>
 
 For simple circles, one person could remain at the centre holding the rope while another walked around at the required radius. More elaborate designs simply repeated this principle with multiple centres, different rope lengths and carefully measured transitions between arcs.
 
-Straight lines, often assumed to require sophisticated surveying equipment, could instead be maintained by sighting along a distant tree, telegraph pole or hill using the wire fixed to the cap. Once the initial reference line existed, additional geometric elements could be measured from it much like a surveyor laying out a construction site. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www2.nau.edu/~gaud/bio372/class/readings/circ.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nau.edu">[www2.nau.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nau.edu</span><span class="citation-popover-title">Crop Circles</span><span class="citation-popover-snippet">NAUAt the center of the intended site, Bower held one end of the string. The other end was attached to the plank, held horizontally at kn...</span></span></span>
+Straight lines, often assumed to require sophisticated surveying equipment, could instead be maintained by sighting along a distant tree, telegraph pole or hill using the wire fixed to the cap. Once the initial reference line existed, additional geometric elements could be measured from it much like a surveyor laying out a construction site.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www2.nau.edu/~gaud/bio372/class/readings/circ.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nau.edu">[www2.nau.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nau.edu</span><span class="citation-popover-title">Crop Circles</span><span class="citation-popover-snippet">NAUAt the center of the intended site, Bower held one end of the string. The other end was attached to the plank, held horizontally at kn...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yVSQuNBreQc" title="The QI Crop Circle - QI Series 8 Episode 3 Hoaxes Preview - BBC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yVSQuNBreQc" target="_blank" rel="noopener noreferrer">The QI Crop Circle - QI Series 8 Episode 3 Hoaxes Preview - BBC</a></p><p class="youtube-embed-meta">Channel: BBC</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yVSQuNBreQc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yVSQuNBreQc">Open on YouTube</a></p></div></div></div>
@@ -324,7 +324,7 @@ Several factors amplify this effect:
 
 </div>
 
-Investigators and sceptics have repeatedly demonstrated that formations appearing highly sophisticated in aerial photographs can be recreated through patient measurement rather than advanced technology. Teams organised by investigators including Joe Nickell and Benjamin Radford have produced convincing crop-circle designs using ordinary materials in only a few hours. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2014/09/crop-circles-a-not-so-convincing-case/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer+2cdn.centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerCrop Circles: A Not-So-Convincing CaseIn fact I have personally created crop circle designs, including with Joe Nickell...</span></span></span>
+Investigators and sceptics have repeatedly demonstrated that formations appearing highly sophisticated in aerial photographs can be recreated through patient measurement rather than advanced technology. Teams organised by investigators including Joe Nickell and Benjamin Radford have produced convincing crop-circle designs using ordinary materials in only a few hours.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2014/09/crop-circles-a-not-so-convincing-case/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer+2cdn.centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerCrop Circles: A Not-So-Convincing CaseIn fact I have personally created crop circle designs, including with Joe Nickell...</span></span></span>
 
 The important point is that geometry scales efficiently. Doubling the size of a design does not double its conceptual complexity. Once reference points are established, very large patterns can be extended through straightforward repetition.
 
@@ -335,7 +335,7 @@ The important point is that geometry scales efficiently. Doubling the size of a 
 <img src="{{ "/assets/images/forteana_50bdc8_crop_circles_hoaxes_18d275_simple_crop_circle_t_d064e3-Illustration-2-dark.svg" | relative_url }}" alt="Circle Tools illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_crop_circles_hoaxes_18d275_simple_crop_circle_t_d064e3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_crop_circles_hoaxes_18d275_simple_crop_circle_t_d064e3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Planning mattered more than specialised equipment
 
-Accounts from crop-circle makers consistently emphasise preparation over improvisation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Crop_circle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Crop circle</span><span class="citation-popover-snippet">Crop circle</span></span></span>
+Accounts from crop-circle makers consistently emphasise preparation over improvisation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Crop_circle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Crop circle</span><span class="citation-popover-snippet">Crop circle</span></span></span>
 
 Rather than inventing a design while standing in a field, successful teams typically:
 
@@ -388,194 +388,194 @@ However, it does not automatically resolve every claim associated with crop circ
 What the evidence does establish with considerable confidence is a narrower point: the existence of intricate geometry is not, by itself, evidence for an unknown force. Demonstrations, documented construction methods and successful recreations have repeatedly shown that simple mechanical tools, applied with planning and patience, are sufficient to create the impressive patterns that helped make crop circles one of Fortean culture's most enduring visual mysteries. [Wikipedia+3cdn.centerforinquiry.org+3Skeptical Inquirer](https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2002/09/22164740/p17.pdf)
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Simple Tools Made Impressive Circles. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Simple Tools Made Impressive Circles. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explains why simple methods can produce apparently mysterious results.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why simple methods can produce apparently mysterious results.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+skeptic%27s+dictionary+Robert+Todd+Carroll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The skeptic&#x27;s dictionary on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6410740-M.jpg" alt="Cover for The skeptic&#x27;s dictionary" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+skeptic%27s+dictionary+Robert+Todd+Carroll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The skeptic&#x27;s dictionary">The skeptic&#x27;s dictionary</a>
-        </h4>
-        <p class="fr-book-author">By Robert Todd Carroll</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+skeptic%27s+dictionary+Robert+Todd+Carroll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The skeptic&#x27;s dictionary on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6410740-M.jpg" alt="Cover for The skeptic&#x27;s dictionary" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+skeptic%27s+dictionary+Robert+Todd+Carroll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The skeptic&#x27;s dictionary">The skeptic&#x27;s dictionary</a>
+</h4>
+<p class="fr-book-author">By Robert Todd Carroll</p>
         
-        <p class="fr-book-desc">First published 2003. Subjects: Nonfiction, Science, Pseudoscience, Encyclopedias, Science, dictionaries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+skeptic%27s+dictionary+Robert+Todd+Carroll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2003. Subjects: Nonfiction, Science, Pseudoscience, Encyclopedias, Science, dictionaries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+skeptic%27s+dictionary+Robert+Todd+Carroll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Unexplained+phenomena+John+F.+Michell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Unexplained phenomena on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/911775-M.jpg" alt="Cover for Unexplained phenomena" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Unexplained+phenomena+John+F.+Michell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Unexplained phenomena">Unexplained phenomena</a>
-        </h4>
-        <p class="fr-book-author">By John F. Michell, John Michell et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Unexplained+phenomena+John+F.+Michell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Unexplained phenomena on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/911775-M.jpg" alt="Cover for Unexplained phenomena" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Unexplained+phenomena+John+F.+Michell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Unexplained phenomena">Unexplained phenomena</a>
+</h4>
+<p class="fr-book-author">By John F. Michell, John Michell et al.</p>
         
-        <p class="fr-book-desc">First published 2000. Subjects: Curiosities and wonders, Reference works, Unexplained phenomena, Metaphysical Phenomena - General, Refere...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Unexplained+phenomena+John+F.+Michell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2000. Subjects: Curiosities and wonders, Reference works, Unexplained phenomena, Metaphysical Phenomena - General, Refere...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Unexplained+phenomena+John+F.+Michell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon+Haunted+World%3A+Science+as+a+Candle+in+the+Dark+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World: Science as a Candle in the Dark on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon+Haunted+World%3A+Science+as+a+Candle+in+the+Dark+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World: Science as a Candle in the Dark">The Demon-Haunted World: Science as a Candle in the Dark</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon+Haunted+World%3A+Science+as+a+Candle+in+the+Dark+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World: Science as a Candle in the Dark on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon+Haunted+World%3A+Science+as+a+Candle+in+the+Dark+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World: Science as a Candle in the Dark">The Demon-Haunted World: Science as a Candle in the Dark</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explains why simple methods can produce apparently mysterious results.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon+Haunted+World%3A+Science+as+a+Candle+in+the+Dark+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why simple methods can produce apparently mysterious results.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon+Haunted+World%3A+Science+as+a+Candle+in+the+Dark+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+skeptic%27s+dictionary&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The skeptic&#x27;s dictionary</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Unexplained+phenomena&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Unexplained phenomena</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+skeptic%27s+dictionary&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The skeptic&#x27;s dictionary</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Unexplained+phenomena&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Unexplained phenomena</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Crop circle 1 Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e676de007acaf29c0a31.jpg' | relative_url }}" alt="Listing image for Crop circle 1 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art" target="_blank" rel="sponsored noopener noreferrer">Crop circle 1 Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for crop circle wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: crop circle wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Crop circle 1 Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e676de007acaf29c0a31.jpg' | relative_url }}" alt="Listing image for Crop circle 1 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art" target="_blank" rel="sponsored noopener noreferrer">Crop circle 1 Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for crop circle wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: crop circle wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO CROP CIRCLE Wall Art, Alien Saucer Nest Poster, Retro Sci-fi Cryptid Glyph"><img src="{{ '/assets/images/marketplace-covers/1dcde6b5de2c382a2902.jpg' | relative_url }}" alt="Listing image for UFO CROP CIRCLE Wall Art, Alien Saucer Nest Poster, Retro Sci-fi Cryptid Glyph" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO CROP CIRCLE Wall Art, Alien Saucer Nest Poster, Retro Sci-fi Cryptid Glyph</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for crop circle wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: crop circle wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO CROP CIRCLE Wall Art, Alien Saucer Nest Poster, Retro Sci-fi Cryptid Glyph"><img src="{{ '/assets/images/marketplace-covers/1dcde6b5de2c382a2902.jpg' | relative_url }}" alt="Listing image for UFO CROP CIRCLE Wall Art, Alien Saucer Nest Poster, Retro Sci-fi Cryptid Glyph" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO CROP CIRCLE Wall Art, Alien Saucer Nest Poster, Retro Sci-fi Cryptid Glyph</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for crop circle wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: crop circle wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Crop Circle Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e846aa83c4de7b4a7b97.jpg' | relative_url }}" alt="Listing image for Crop Circle Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art" target="_blank" rel="sponsored noopener noreferrer">Crop Circle Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for crop circle wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: crop circle wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Crop Circle Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e846aa83c4de7b4a7b97.jpg' | relative_url }}" alt="Listing image for Crop Circle Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art" target="_blank" rel="sponsored noopener noreferrer">Crop Circle Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for crop circle wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: crop circle wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nines &#x27;Crop Circle&#x27; Album Poster Wall Art Tracklist Print"><img src="{{ '/assets/images/marketplace-covers/89e6fb168091cea5583c.jpg' | relative_url }}" alt="Listing image for Nines &#x27;Crop Circle&#x27; Album Poster Wall Art Tracklist Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art" target="_blank" rel="sponsored noopener noreferrer">Nines &#x27;Crop Circle&#x27; Album Poster Wall Art Tracklist Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for crop circle wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: crop circle wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nines &#x27;Crop Circle&#x27; Album Poster Wall Art Tracklist Print"><img src="{{ '/assets/images/marketplace-covers/89e6fb168091cea5583c.jpg' | relative_url }}" alt="Listing image for Nines &#x27;Crop Circle&#x27; Album Poster Wall Art Tracklist Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art" target="_blank" rel="sponsored noopener noreferrer">Nines &#x27;Crop Circle&#x27; Album Poster Wall Art Tracklist Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for crop circle wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: crop circle wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle wall art" data-ebay-reference="circle-tools-how-simple-tools-made-impressive-circles-forteana-crop-circle-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -591,7 +591,7 @@ What the evidence does establish with considerable confidence is a narrower poin
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -611,7 +611,7 @@ What the evidence does establish with considerable confidence is a narrower poin
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -643,7 +643,7 @@ What the evidence does establish with considerable confidence is a narrower poin
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -695,7 +695,7 @@ What the evidence does establish with considerable confidence is a narrower poin
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -740,7 +740,7 @@ What the evidence does establish with considerable confidence is a narrower poin
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -781,109 +781,109 @@ What the evidence does establish with considerable confidence is a narrower poin
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cdn.centerforinquiry.org  
-   Link: <a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2002/09/22164740/p17.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2002/09/22164740/p17.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Circular Reasoning:by JOE NICKELL — Joe Nickell has written about crop circles in his book Real-life X-Files (2001)...</p></details>
+   Link:<a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2002/09/22164740/p17.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2002/09/22164740/p17.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Circular Reasoning:by JOE NICKELL — Joe Nickell has written about crop circles in his book Real-life X-Files (2001)...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Crop circle  
-   Link: <a href="https://en.wikipedia.org/wiki/Crop_circle" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Crop_circle</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Crop_circle" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Crop_circle</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: The QI Crop Circle  
-   Link: <a href="https://www.youtube.com/watch?v=yVSQuNBreQc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yVSQuNBreQc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Crop Circles - the myth, the legend, the history...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yVSQuNBreQc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yVSQuNBreQc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Crop Circles - the myth, the legend, the history...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: Crop Circles  
-   Link: <a href="https://www.youtube.com/watch?v=WkOL4on26BE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WkOL4on26BE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Geographic - Crop Circle Mystery...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WkOL4on26BE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WkOL4on26BE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Geographic - Crop Circle Mystery...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/1992/01/the-crop-circle-phenomenon-an-investigative-report/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/1992/01/the-crop-circle-phenomenon-an-investigative-report/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Joe Nickell, PhD, is senior research fellow of the Committee for Skeptical Inquiry (CSI) and “Investigative Files” columnist for Skeptica...</p></details>
+   Link:<a href="https://skepticalinquirer.org/1992/01/the-crop-circle-phenomenon-an-investigative-report/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/1992/01/the-crop-circle-phenomenon-an-investigative-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Joe Nickell, PhD, is senior research fellow of the Committee for Skeptical Inquiry (CSI) and “Investigative Files” columnist for Skeptica...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2014/09/crop-circles-a-not-so-convincing-case/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2014/09/crop-circles-a-not-so-convincing-case/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerCrop Circles: A Not-So-Convincing CaseIn fact I have personally created crop circle designs, including with Joe Nickell...</p></details>
+   Link:<a href="https://skepticalinquirer.org/2014/09/crop-circles-a-not-so-convincing-case/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2014/09/crop-circles-a-not-so-convincing-case/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerCrop Circles: A Not-So-Convincing CaseIn fact I have personally created crop circle designs, including with Joe Nickell...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: christianitytoday.com  
-   Link: <a href="https://www.christianitytoday.com/pastors/preaching/sermon-illustrations/crop-circles-need-to-believe/" target="_blank" rel="noopener noreferrer nofollow">https://www.christianitytoday.com/pastors/preaching/sermon-illustrations/crop-circles-need-to-believe/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Christianity TodayCrop Circles: The Need To Believe - CT PastorsIn the early nineties the original pranksters confessed that they created...</p></details>
+   Link:<a href="https://www.christianitytoday.com/pastors/preaching/sermon-illustrations/crop-circles-need-to-believe/" target="_blank" rel="noopener noreferrer nofollow">https://www.christianitytoday.com/pastors/preaching/sermon-illustrations/crop-circles-need-to-believe/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Christianity TodayCrop Circles: The Need To Believe - CT PastorsIn the early nineties the original pranksters confessed that they created...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
    Title: Crop circles  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1ff7yp5/crop_circles_what_are_they_and_who_made_them/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1ff7yp5/crop_circles_what_are_they_and_who_made_them/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What are they? And who made them?? - RedditSeptember 12, 2024 — In the C20th a large number of the crop circles were created by Doug Bowe...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/1ff7yp5/crop_circles_what_are_they_and_who_made_them/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1ff7yp5/crop_circles_what_are_they_and_who_made_them/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What are they? And who made them?? - RedditSeptember 12, 2024 — In the C20th a large number of the crop circles were created by Doug Bowe...</p></details>
    Published: September 12, 2024  
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: centerforinquiry.s3.amazonaws.com  
-   Link: <a href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2008/09/22164452/p60.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2008/09/22164452/p60.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>From Weeping Icons to Crop Circles: Investigating with GustoReaders of this magazine need no intro- duction to Joe Nickell, who has devot...</p></details>
+   Link:<a href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2008/09/22164452/p60.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2008/09/22164452/p60.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From Weeping Icons to Crop Circles: Investigating with GustoReaders of this magazine need no intro- duction to Joe Nickell, who has devot...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: chillinkristen.medium.com  
    Title: the origin of the crop circles con is surprisingly wholesome 8226f9d252fa  
-   Link: <a href="https://chillinkristen.medium.com/the-origin-of-the-crop-circles-con-is-surprisingly-wholesome-8226f9d252fa" target="_blank" rel="noopener noreferrer nofollow">https://chillinkristen.medium.com/the-origin-of-the-crop-circles-con-is-surprisingly-wholesome-8226f9d252fa</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Origin of the Crop Circles Con is Surprisingly WholesomeFebruary 10, 2025 — Jim Chorley had to wrap his head around this when he found ou...</p></details>
+   Link:<a href="https://chillinkristen.medium.com/the-origin-of-the-crop-circles-con-is-surprisingly-wholesome-8226f9d252fa" target="_blank" rel="noopener noreferrer nofollow">https://chillinkristen.medium.com/the-origin-of-the-crop-circles-con-is-surprisingly-wholesome-8226f9d252fa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Origin of the Crop Circles Con is Surprisingly WholesomeFebruary 10, 2025 — Jim Chorley had to wrap his head around this when he found ou...</p></details>
    Published: February 10, 2025  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: blather.net  
    Title: They decided to make a crop circle so that “people  
-   Link: <a href="https://www.blather.net/thestore/2006/12/02/crop_circles/" target="_blank" rel="noopener noreferrer nofollow">https://www.blather.net/thestore/2006/12/02/crop_circles/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Field Guide: The Art, History and Philosophy of Crop Circle...December 2, 2006 — It was one night in 1976 when two middle-aged men D...</p></details>
+   Link:<a href="https://www.blather.net/thestore/2006/12/02/crop_circles/" target="_blank" rel="noopener noreferrer nofollow">https://www.blather.net/thestore/2006/12/02/crop_circles/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Field Guide: The Art, History and Philosophy of Crop Circle...December 2, 2006 — It was one night in 1976 when two middle-aged men D...</p></details>
    Published: December 2, 2006  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: hangar1publishing.com  
-   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/crop-circles?srsltid=AfmBOoo9xR72FSVzpFkcCpkQrLqrN0vHuFCcscTvmXNHlEE8GTOpXHvg" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/crop-circles?srsltid=AfmBOoo9xR72FSVzpFkcCpkQrLqrN0vHuFCcscTvmXNHlEE8GTOpXHvg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>seball cap—they began creating circular patterns in wheat fields...Read more...</p></details>
+   Link:<a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/crop-circles?srsltid=AfmBOoo9xR72FSVzpFkcCpkQrLqrN0vHuFCcscTvmXNHlEE8GTOpXHvg" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/crop-circles?srsltid=AfmBOoo9xR72FSVzpFkcCpkQrLqrN0vHuFCcscTvmXNHlEE8GTOpXHvg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>seball cap—they began creating circular patterns in wheat fields...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: You know I'm the one responsible for the crop circles  
-   Link: <a href="https://www.facebook.com/groups/1303773296362062/posts/36007056705606945/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1303773296362062/posts/36007056705606945/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 20, 2026 — They used a homemade device made of a rope and a plank. The two claimed that they made crop circles as a prank...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1303773296362062/posts/36007056705606945/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1303773296362062/posts/36007056705606945/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 20, 2026 — They used a homemade device made of a rope and a plank. The two claimed that they made crop circles as a prank...</p></details>
    Published: May 20, 2026  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: rupertsheldrake.substack.com  
-   Link: <a href="https://rupertsheldrake.substack.com/p/the-crop-circle-making-competition" target="_blank" rel="noopener noreferrer nofollow">https://rupertsheldrake.substack.com/p/the-crop-circle-making-competition</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Crop Circle Making Competition - Rupert Sheldrake | SubstackAugust 6, 2025 — Doug Bower and Dave Chorley, claimed that they had been had...</p></details>
+   Link:<a href="https://rupertsheldrake.substack.com/p/the-crop-circle-making-competition" target="_blank" rel="noopener noreferrer nofollow">https://rupertsheldrake.substack.com/p/the-crop-circle-making-competition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Crop Circle Making Competition - Rupert Sheldrake | SubstackAugust 6, 2025 — Doug Bower and Dave Chorley, claimed that they had been had...</p></details>
    Published: August 6, 2025  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: smithsonianmag.com  
-   Link: <a href="https://www.smithsonianmag.com/arts-culture/crop-circles-the-art-of-the-hoax-2524283/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/arts-culture/crop-circles-the-art-of-the-hoax-2524283/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Crop Circles: The Art of the Hoax15 Dec 2009 — Crop circles are a lens through which we can explore the nature and appeal of [hoaxes](&amp;#123;&amp;#123; &#x27;hoaxes/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/arts-culture/crop-circles-the-art-of-the-hoax-2524283/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/arts-culture/crop-circles-the-art-of-the-hoax-2524283/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Crop Circles: The Art of the Hoax15 Dec 2009 — Crop circles are a lens through which we can explore the nature and appeal of [hoaxes](&amp;#123;&amp;#123; &#x27;hoaxes/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: mcgill.ca  
    Title: remembering joe nickell skeptical icon  
-   Link: <a href="https://www.mcgill.ca/oss/article/critical-thinking/remembering-joe-nickell-skeptical-icon" target="_blank" rel="noopener noreferrer nofollow">https://www.mcgill.ca/oss/article/critical-thinking/remembering-joe-nickell-skeptical-icon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Remembering Joe Nickell, Skeptical Icon14 Mar 2025 — Remembering Joe Nickell, Skeptical Icon. Nickell, who died at age 80, was full of le...</p></details>
+   Link:<a href="https://www.mcgill.ca/oss/article/critical-thinking/remembering-joe-nickell-skeptical-icon" target="_blank" rel="noopener noreferrer nofollow">https://www.mcgill.ca/oss/article/critical-thinking/remembering-joe-nickell-skeptical-icon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Remembering Joe Nickell, Skeptical Icon14 Mar 2025 — Remembering Joe Nickell, Skeptical Icon. Nickell, who died at age 80, was full of le...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
    Title: So is THIS how crop circles are made?  
-   Link: <a href="https://www.facebook.com/memezarrr/posts/so-is-this-how-crop-circles-are-made-/779644724634982/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/memezarrr/posts/so-is-this-how-crop-circles-are-made-/779644724634982/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 9, 2025 —... crop circles using planks, ropes, and surveying techniques. Public... Chorley admitted that they had made hun...</p></details>
+   Link:<a href="https://www.facebook.com/memezarrr/posts/so-is-this-how-crop-circles-are-made-/779644724634982/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/memezarrr/posts/so-is-this-how-crop-circles-are-made-/779644724634982/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 9, 2025 —... crop circles using planks, ropes, and surveying techniques. Public... Chorley admitted that they had made hun...</p></details>
    Published: July 9, 2025  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pointofinquiry.org  
    Title: the 11th annual cfi houdini seance  
-   Link: <a href="https://pointofinquiry.org/2007/11/the_11th_annual_cfi_houdini_seance/" target="_blank" rel="noopener noreferrer nofollow">https://pointofinquiry.org/2007/11/the_11th_annual_cfi_houdini_seance/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Nov 2007 — Joe Nickell. Always a pleasure, T.J., to start off, Joe. We&#x27;ve done a Whodini science here at the Center for Inquiry for, we...</p></details>
+   Link:<a href="https://pointofinquiry.org/2007/11/the_11th_annual_cfi_houdini_seance/" target="_blank" rel="noopener noreferrer nofollow">https://pointofinquiry.org/2007/11/the_11th_annual_cfi_houdini_seance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 Nov 2007 — Joe Nickell. Always a pleasure, T.J., to start off, Joe. We&#x27;ve done a Whodini science here at the Center for Inquiry for, we...</p></details>

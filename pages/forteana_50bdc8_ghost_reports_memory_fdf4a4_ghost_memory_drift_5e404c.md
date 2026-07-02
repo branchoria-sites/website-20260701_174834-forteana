@@ -284,17 +284,17 @@ People often assume that if a ghost story changes over time, the original witnes
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_ghost_reports_memory_fdf4a4_ghost_memory_drift_5e404c-Illustration-1-dark.svg" | relative_url }}" alt="Memory drift illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_ghost_reports_memory_fdf4a4_ghost_memory_drift_5e404c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_ghost_reports_memory_fdf4a4_ghost_memory_drift_5e404c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within Fortean research, this distinction matters. A ghost report is not automatically strengthened because it accumulates vivid detail over time. In many cases, the earliest account—before discussion, media attention or [folklore]({{ 'folklore/' | relative_url }}) become involved—is the most valuable evidence because it is least affected by later reconstruction. Research in cognitive [psychology]({{ 'psychology/' | relative_url }}) consistently shows that human memory is reconstructive rather than a literal recording of events, making gradual memory drift an expected feature of sincere testimony rather than proof of deception. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCA Behavioral Account of the Misinformation Effect</span><span class="citation-popover-snippet">by DM Challies · 2011 · Cited by 34 — One cognitive account of the misinformation effect is that memory errors are due to source monit...</span></span></span>
+Within Fortean research, this distinction matters. A ghost report is not automatically strengthened because it accumulates vivid detail over time. In many cases, the earliest account—before discussion, media attention or [folklore]({{ 'folklore/' | relative_url }}) become involved—is the most valuable evidence because it is least affected by later reconstruction. Research in cognitive [psychology]({{ 'psychology/' | relative_url }}) consistently shows that human memory is reconstructive rather than a literal recording of events, making gradual memory drift an expected feature of sincere testimony rather than proof of deception.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCA Behavioral Account of the Misinformation Effect</span><span class="citation-popover-snippet">by DM Challies · 2011 · Cited by 34 — One cognitive account of the misinformation effect is that memory errors are due to source monit...</span></span></span>
 
 ## Why memory is not a recording device
 
 Remembering is an active process. Each time a person recalls an event, the brain rebuilds the memory from stored fragments rather than replaying an untouched recording. During this reconstruction, later information can become woven into the recollection without the witness recognising that anything has changed.
 
-This principle has been demonstrated repeatedly in eyewitness research. Exposure to misleading information after an event can alter later recall, a phenomenon known as the misinformation effect. The altered memory often feels just as convincing as the original because the witness is no longer consciously aware of where particular details came from. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCA Behavioral Account of the Misinformation Effect</span><span class="citation-popover-snippet">by DM Challies · 2011 · Cited by 34 — One cognitive account of the misinformation effect is that memory errors are due to source monit...</span></span></span>
+This principle has been demonstrated repeatedly in eyewitness research. Exposure to misleading information after an event can alter later recall, a phenomenon known as the misinformation effect. The altered memory often feels just as convincing as the original because the witness is no longer consciously aware of where particular details came from.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCA Behavioral Account of the Misinformation Effect</span><span class="citation-popover-snippet">by DM Challies · 2011 · Cited by 34 — One cognitive account of the misinformation effect is that memory errors are due to source monit...</span></span></span>
 
 For ghost reports, the same mechanisms can operate after an ambiguous experience. A person who initially reports "seeing a dark shape" may later remember "a woman in Victorian clothing" after hearing neighbours describe the site's famous ghost. The witness is not necessarily fabricating the figure. Instead, original perception, later information and attempts to make sense of the event may have become integrated into a single coherent memory.
 
-An influential illustration of reconstructive memory comes from the psychologist Frederic Bartlett. In his classic serial-recall experiments, stories changed with each retelling as people unconsciously reshaped unfamiliar details into forms that better matched their expectations and cultural knowledge. Although Bartlett was not studying paranormal experiences, his findings remain highly relevant to how haunting narratives evolve over repeated [retellings]({{ 'retellings/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Eyewitness_testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Eyewitness testimony</span><span class="citation-popover-snippet">Eyewitness testimony</span></span></span>
+An influential illustration of reconstructive memory comes from the psychologist Frederic Bartlett. In his classic serial-recall experiments, stories changed with each retelling as people unconsciously reshaped unfamiliar details into forms that better matched their expectations and cultural knowledge. Although Bartlett was not studying paranormal experiences, his findings remain highly relevant to how haunting narratives evolve over repeated [retellings]({{ 'retellings/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Eyewitness_testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Eyewitness testimony</span><span class="citation-popover-snippet">Eyewitness testimony</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PB2OegI6wvI" title="How reliable is your memory? | Elizabeth Loftus" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PB2OegI6wvI" target="_blank" rel="noopener noreferrer">How reliable is your memory? | Elizabeth Loftus</a></p><p class="youtube-embed-meta">Channel: TED &middot; Views: 2.7M &middot; Uploaded: September 2013 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PB2OegI6wvI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PB2OegI6wvI">Open on YouTube</a></p></div></div></div>
@@ -316,7 +316,7 @@ This process often follows a recognisable pattern:
 
 </div>
 
-Psychologists describe one part of this process as **source monitoring**. People usually remember the content of information more easily than its origin. Over time, it becomes difficult to distinguish what was directly perceived from what was later suggested by another person, read in a book, or heard during discussion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCA Behavioral Account of the Misinformation Effect</span><span class="citation-popover-snippet">by DM Challies · 2011 · Cited by 34 — One cognitive account of the misinformation effect is that memory errors are due to source monit...</span></span></span>
+Psychologists describe one part of this process as **source monitoring**. People usually remember the content of information more easily than its origin. Over time, it becomes difficult to distinguish what was directly perceived from what was later suggested by another person, read in a book, or heard during discussion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCA Behavioral Account of the Misinformation Effect</span><span class="citation-popover-snippet">by DM Challies · 2011 · Cited by 34 — One cognitive account of the misinformation effect is that memory errors are due to source monit...</span></span></span>
 
 This helps explain why ghost stories from well-known haunted locations often become more detailed over the years. Architectural features, historical rumours and previous accounts provide ready-made frameworks into which ambiguous memories can gradually fit. The witness may sincerely believe every detail while unknowingly blending perception with later interpretation.
 
@@ -328,7 +328,7 @@ Retelling does not merely communicate a memory; it can also reshape it.
 
 Every time someone recounts an experience, certain details receive emphasis while others fade. Listeners ask questions. They express surprise at particular elements. The witness reflects on aspects previously overlooked. During later recall, these newly emphasised features become easier to retrieve than details that were never discussed.
 
-Research on memory reconsolidation suggests that recalling an event temporarily makes the memory more open to updating before it is stored again. This updating normally helps people keep memories relevant, but it also creates opportunities for subtle distortion, especially when new information is introduced between recollections. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Eyewitness_testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Eyewitness testimony</span><span class="citation-popover-snippet">Eyewitness testimony</span></span></span>
+Research on memory reconsolidation suggests that recalling an event temporarily makes the memory more open to updating before it is stored again. This updating normally helps people keep memories relevant, but it also creates opportunities for subtle distortion, especially when new information is introduced between recollections.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Eyewitness_testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Eyewitness testimony</span><span class="citation-popover-snippet">Eyewitness testimony</span></span></span>
 
 In ghost narratives, common influences include:
 
@@ -353,7 +353,7 @@ None of these influences require deliberate dishonesty. They simply provide addi
 
 Agreement between witnesses is often treated as evidence that a haunting is genuine. However, investigators distinguish between **independent agreement** and **co-developed memory**.
 
-If witnesses discuss an event extensively before providing separate accounts, they may unintentionally influence one another. Shared conversations can gradually produce increasingly similar stories, even when initial recollections differed. This phenomenon, sometimes called co-witness contamination in eyewitness research, has been demonstrated outside paranormal settings and is one reason investigators prefer independent initial statements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Eyewitness_memory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Eyewitness memory</span><span class="citation-popover-snippet">Eyewitness memory</span></span></span>
+If witnesses discuss an event extensively before providing separate accounts, they may unintentionally influence one another. Shared conversations can gradually produce increasingly similar stories, even when initial recollections differed. This phenomenon, sometimes called co-witness contamination in eyewitness research, has been demonstrated outside paranormal settings and is one reason investigators prefer independent initial statements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Eyewitness_memory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Eyewitness memory</span><span class="citation-popover-snippet">Eyewitness memory</span></span></span>
 
 For Fortean researchers, convergence after prolonged discussion carries less evidential weight than agreement recorded immediately after the experience.
 
@@ -378,7 +378,7 @@ Investigators therefore place particular value on records created before the wit
 
 </div>
 
-These [early records]({{ 'early-records/' | relative_url }}) may appear less dramatic than later versions. They often contain uncertainty, incomplete descriptions and admissions such as "I don't know what I saw." Paradoxically, that uncertainty can increase their evidential value because it reflects memory before later reconstruction has imposed a coherent narrative. Research on eyewitness recall similarly finds that prompt interviews reduce opportunities for post-event information to reshape memory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9225701/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The impact of recall timing on the preservation of eyewitness...by C Chevroulet · 2021 · Cited by 15 — As a witness&#x27; memory of the ev...</span></span></span>
+These [early records]({{ 'early-records/' | relative_url }}) may appear less dramatic than later versions. They often contain uncertainty, incomplete descriptions and admissions such as "I don't know what I saw." Paradoxically, that uncertainty can increase their evidential value because it reflects memory before later reconstruction has imposed a coherent narrative. Research on eyewitness recall similarly finds that prompt interviews reduce opportunities for post-event information to reshape memory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9225701/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The impact of recall timing on the preservation of eyewitness...by C Chevroulet · 2021 · Cited by 15 — As a witness&#x27; memory of the ev...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_ghost_reports_memory_fdf4a4_ghost_memory_drift_5e404c-Illustration-3-dark.svg" | relative_url }}" alt="Memory drift illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_ghost_reports_memory_fdf4a4_ghost_memory_drift_5e404c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_ghost_reports_memory_fdf4a4_ghost_memory_drift_5e404c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -391,194 +391,194 @@ A witness may have experienced something genuinely strange while later rememberi
 For Fortean investigation, this distinction is crucial. The central question is not simply whether a witness is honest, but how memories evolve after emotionally significant events. By separating perception from later interpretation, investigators can better evaluate what was actually experienced and what may have emerged through the normal, well-documented processes of human memory.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Honest Ghost Witnesses Still Change Stories. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Honest Ghost Witnesses Still Change Stories. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
+</h4>
+<p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
         
-        <p class="fr-book-desc">Demonstrates how perception and memory can mislead sincere witnesses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates how perception and memory can mislead sincere witnesses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explains why honest people reinforce changing recollections.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why honest people reinforce changing recollections.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Encourages critical evaluation of testimony and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages critical evaluation of testimony and evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Paranormality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12284173-M.jpg" alt="Cover for Paranormality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Paranormality">Paranormality</a>
-        </h4>
-        <p class="fr-book-author">By Richard Wiseman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Paranormality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12284173-M.jpg" alt="Cover for Paranormality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Paranormality">Paranormality</a>
+</h4>
+<p class="fr-book-author">By Richard Wiseman</p>
         
-        <p class="fr-book-desc">First published 2011. Subjects: Parapsychology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011. Subjects: Parapsychology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HexBox Spirit Box Ghost Hunting Equipment AM FM Radio Scanner Paranormal ITC"><img src="{{ '/assets/images/marketplace-covers/d6dd7edad5dea306e788.jpg' | relative_url }}" alt="Listing image for HexBox Spirit Box Ghost Hunting Equipment AM FM Radio Scanner Paranormal ITC" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer">HexBox Spirit Box Ghost Hunting Equipment AM FM Radio Scanner Paranormal ITC</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost hunting equipment">Search <span data-ebay-domain-label>eBay.co.uk</span>: ghost hunting equipment</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HexBox Spirit Box Ghost Hunting Equipment AM FM Radio Scanner Paranormal ITC"><img src="{{ '/assets/images/marketplace-covers/d6dd7edad5dea306e788.jpg' | relative_url }}" alt="Listing image for HexBox Spirit Box Ghost Hunting Equipment AM FM Radio Scanner Paranormal ITC" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer">HexBox Spirit Box Ghost Hunting Equipment AM FM Radio Scanner Paranormal ITC</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost hunting equipment">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost hunting equipment</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ghostly Music Box for Ghost Hunting Equipment Motion Detector PIR Paranormal"><img src="{{ '/assets/images/marketplace-covers/f801bd4d0c11af924cef.jpg' | relative_url }}" alt="Listing image for Ghostly Music Box for Ghost Hunting Equipment Motion Detector PIR Paranormal" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer">Ghostly Music Box for Ghost Hunting Equipment Motion Detector PIR Paranormal</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost hunting equipment">Search <span data-ebay-domain-label>eBay.co.uk</span>: ghost hunting equipment</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ghostly Music Box for Ghost Hunting Equipment Motion Detector PIR Paranormal"><img src="{{ '/assets/images/marketplace-covers/f801bd4d0c11af924cef.jpg' | relative_url }}" alt="Listing image for Ghostly Music Box for Ghost Hunting Equipment Motion Detector PIR Paranormal" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer">Ghostly Music Box for Ghost Hunting Equipment Motion Detector PIR Paranormal</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost hunting equipment">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost hunting equipment</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HexCom - WordBank Word Generator Ghost Hunting Equipment Paranormal Kit EMF"><img src="{{ '/assets/images/marketplace-covers/7b176348381057a6cfde.jpg' | relative_url }}" alt="Listing image for HexCom - WordBank Word Generator Ghost Hunting Equipment Paranormal Kit EMF" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer">HexCom - WordBank Word Generator Ghost Hunting Equipment Paranormal Kit EMF</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost hunting equipment">Search <span data-ebay-domain-label>eBay.co.uk</span>: ghost hunting equipment</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HexCom - WordBank Word Generator Ghost Hunting Equipment Paranormal Kit EMF"><img src="{{ '/assets/images/marketplace-covers/7b176348381057a6cfde.jpg' | relative_url }}" alt="Listing image for HexCom - WordBank Word Generator Ghost Hunting Equipment Paranormal Kit EMF" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer">HexCom - WordBank Word Generator Ghost Hunting Equipment Paranormal Kit EMF</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost hunting equipment">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost hunting equipment</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Portable SLS Camera Skeletal Stickman Tracker Ghost Hunting Equipment Paranormal"><img src="{{ '/assets/images/marketplace-covers/3c16ae7eb1cbf7db55d8.jpg' | relative_url }}" alt="Listing image for Portable SLS Camera Skeletal Stickman Tracker Ghost Hunting Equipment Paranormal" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer">Portable SLS Camera Skeletal Stickman Tracker Ghost Hunting Equipment Paranormal</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost hunting equipment">Search <span data-ebay-domain-label>eBay.co.uk</span>: ghost hunting equipment</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Portable SLS Camera Skeletal Stickman Tracker Ghost Hunting Equipment Paranormal"><img src="{{ '/assets/images/marketplace-covers/3c16ae7eb1cbf7db55d8.jpg' | relative_url }}" alt="Listing image for Portable SLS Camera Skeletal Stickman Tracker Ghost Hunting Equipment Paranormal" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer">Portable SLS Camera Skeletal Stickman Tracker Ghost Hunting Equipment Paranormal</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost hunting equipment">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost hunting equipment</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+hunting+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost hunting equipment" data-ebay-reference="memory-drift-why-honest-ghost-witnesses-still-change-stories-forteana-ghost-hunting-equipment" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -594,7 +594,7 @@ For Fortean investigation, this distinction is crucial. The central question is 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -614,7 +614,7 @@ For Fortean investigation, this distinction is crucial. The central question is 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -646,7 +646,7 @@ For Fortean investigation, this distinction is crucial. The central question is 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -698,7 +698,7 @@ For Fortean investigation, this distinction is crucial. The central question is 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -743,7 +743,7 @@ For Fortean investigation, this distinction is crucial. The central question is 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -784,100 +784,100 @@ For Fortean investigation, this distinction is crucial. The central question is 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9225701/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9225701/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of recall timing on the preservation of eyewitness...by C Chevroulet · 2021 · Cited by 15 — As a witness&#x27; memory of the ev...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9225701/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9225701/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of recall timing on the preservation of eyewitness...by C Chevroulet · 2021 · Cited by 15 — As a witness&#x27; memory of the ev...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Eyewitness testimony  
-   Link: <a href="https://en.wikipedia.org/wiki/Eyewitness_testimony" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eyewitness_testimony</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Eyewitness_testimony" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eyewitness_testimony</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Eyewitness memory  
-   Link: <a href="https://en.wikipedia.org/wiki/Eyewitness_memory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eyewitness_memory</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Eyewitness_memory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eyewitness_memory</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Misinformation effect  
-   Link: <a href="https://en.wikipedia.org/wiki/Misinformation_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Misinformation_effect</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation effectThe misinformation effect occurs when a person&#x27;s recall of episodic memories becomes less accurate because of pos...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Misinformation_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Misinformation_effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation effectThe misinformation effect occurs when a person&#x27;s recall of episodic memories becomes less accurate because of pos...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCA Behavioral Account of the Misinformation Effect  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by DM Challies · 2011 · Cited by 34 — One cognitive account of the misinformation effect is that memory errors are due to source monit...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by DM Challies · 2011 · Cited by 34 — One cognitive account of the misinformation effect is that memory errors are due to source monit...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5248607/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5248607/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>and Flawed Logic About the Prevalence of...by RA Nash · 2016 · Cited by 37 — Brewin and Andrews (2016) propose that just 15% of people...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5248607/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5248607/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Flawed Logic About the Prevalence of...by RA Nash · 2016 · Cited by 37 — Brewin and Andrews (2016) propose that just 15% of people...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation effect | Social Sciences and HumanitiesThe misinformation effect refers to the phenomenon where post-event information can...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation effect | Social Sciences and HumanitiesThe misinformation effect refers to the phenomenon where post-event information can...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: piszek.com  
    Title: source monitoring  
-   Link: <a href="https://piszek.com/2022/02/21/source-monitoring/" target="_blank" rel="noopener noreferrer nofollow">https://piszek.com/2022/02/21/source-monitoring/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Errors21 Feb 2022 — Source Monitoring Errors can explain the Misinformation effect as first described by Elisabeth Loftus (1975). A class...</p></details>
+   Link:<a href="https://piszek.com/2022/02/21/source-monitoring/" target="_blank" rel="noopener noreferrer nofollow">https://piszek.com/2022/02/21/source-monitoring/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Errors21 Feb 2022 — Source Monitoring Errors can explain the Misinformation effect as first described by Elisabeth Loftus (1975). A class...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: plasticsurgery.org  
-   Link: <a href="https://www.plasticsurgery.org/reconstructive-procedures" target="_blank" rel="noopener noreferrer nofollow">https://www.plasticsurgery.org/reconstructive-procedures</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reconstructive ProceduresReconstructive surgery is performed to treat body parts affected aesthetically or functionally by congenital def...</p></details>
+   Link:<a href="https://www.plasticsurgery.org/reconstructive-procedures" target="_blank" rel="noopener noreferrer nofollow">https://www.plasticsurgery.org/reconstructive-procedures</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reconstructive ProceduresReconstructive surgery is performed to treat body parts affected aesthetically or functionally by congenital def...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=PB2OegI6wvI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PB2OegI6wvI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How reliable is your memory? | Elizabeth LoftusPsychologist Elizabeth Loftus studies memories. More precisely, she studies false memories...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PB2OegI6wvI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PB2OegI6wvI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How reliable is your memory? | Elizabeth LoftusPsychologist Elizabeth Loftus studies memories. More precisely, she studies false memories...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: uofmhealth.org  
-   Link: <a href="https://www.uofmhealth.org/our-care/specialties-services/reconstructive-surgery" target="_blank" rel="noopener noreferrer nofollow">https://www.uofmhealth.org/our-care/specialties-services/reconstructive-surgery</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Common reasons to get reconstructive surgery include cancer, burns, serious injuries...Read more...</p></details>
+   Link:<a href="https://www.uofmhealth.org/our-care/specialties-services/reconstructive-surgery" target="_blank" rel="noopener noreferrer nofollow">https://www.uofmhealth.org/our-care/specialties-services/reconstructive-surgery</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Common reasons to get reconstructive surgery include cancer, burns, serious injuries...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: apa.org  
-   Link: <a href="https://www.apa.org/news/podcasts/speaking-of-psychology/memory-manipulated" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/news/podcasts/speaking-of-psychology/memory-manipulated</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationHow memory can be manipulated, with Elizabeth Loftus, PhDElizabeth Loftus, PhD, is one of the nation&#x27;s...</p></details>
+   Link:<a href="https://www.apa.org/news/podcasts/speaking-of-psychology/memory-manipulated" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/news/podcasts/speaking-of-psychology/memory-manipulated</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationHow memory can be manipulated, with Elizabeth Loftus, PhDElizabeth Loftus, PhD, is one of the nation&#x27;s...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/betterbrain77/posts/-what-if-half-of-your-childhood-memories-never-actually-happenedwhen-you-remembe/1416033933857838/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/betterbrain77/posts/-what-if-half-of-your-childhood-memories-never-actually-happenedwhen-you-remembe/1416033933857838/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>be led to “remember” events from childhood that never happened...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/betterbrain77/posts/-what-if-half-of-your-childhood-memories-never-actually-happenedwhen-you-remembe/1416033933857838/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/betterbrain77/posts/-what-if-half-of-your-childhood-memories-never-actually-happenedwhen-you-remembe/1416033933857838/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>be led to “remember” events from childhood that never happened...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DRDHkVCkpc4/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DRDHkVCkpc4/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>at feel completely real. Research in the 1990s and onward...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DRDHkVCkpc4/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DRDHkVCkpc4/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>at feel completely real. Research in the 1990s and onward...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/brainstationlb/posts/memory-does-not-work-like-a-cameraresearch-shows-it-is-reconstructive-meaning-th/1624437442803245/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/brainstationlb/posts/memory-does-not-work-like-a-cameraresearch-shows-it-is-reconstructive-meaning-th/1624437442803245/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ese false memories. This is why eyewitness accounts are...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/brainstationlb/posts/memory-does-not-work-like-a-cameraresearch-shows-it-is-reconstructive-meaning-th/1624437442803245/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/brainstationlb/posts/memory-does-not-work-like-a-cameraresearch-shows-it-is-reconstructive-meaning-th/1624437442803245/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ese false memories. This is why eyewitness accounts are...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: Did your memories ever really happen?  
-   Link: <a href="https://www.facebook.com/NOVApbs/posts/did-your-memories-ever-really-happen-turns-out-every-time-you-recall-a-memory-it/953180316856353/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NOVApbs/posts/did-your-memories-ever-really-happen-turns-out-every-time-you-recall-a-memory-it/953180316856353/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Turns out, every...Neuroscience reveals that each time you recall a memory, it becomes malleable before being reconsolidated. This means...</p></details>
+   Link:<a href="https://www.facebook.com/NOVApbs/posts/did-your-memories-ever-really-happen-turns-out-every-time-you-recall-a-memory-it/953180316856353/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NOVApbs/posts/did-your-memories-ever-really-happen-turns-out-every-time-you-recall-a-memory-it/953180316856353/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Turns out, every...Neuroscience reveals that each time you recall a memory, it becomes malleable before being reconsolidated. This means...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: medschool.umich.edu  
    Title: facial plastic reconstructive surgery  
-   Link: <a href="https://medschool.umich.edu/departments/otolaryngology-head-neck-surgery/divisions/facial-plastic-reconstructive-surgery" target="_blank" rel="noopener noreferrer nofollow">https://medschool.umich.edu/departments/otolaryngology-head-neck-surgery/divisions/facial-plastic-reconstructive-surgery</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Plastic &amp; Reconstructive SurgeryThe Division of Facial Plastic and Reconstructive Surgery provides unparalleled treatment of common and c...</p></details>
+   Link:<a href="https://medschool.umich.edu/departments/otolaryngology-head-neck-surgery/divisions/facial-plastic-reconstructive-surgery" target="_blank" rel="noopener noreferrer nofollow">https://medschool.umich.edu/departments/otolaryngology-head-neck-surgery/divisions/facial-plastic-reconstructive-surgery</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Plastic &amp; Reconstructive SurgeryThe Division of Facial Plastic and Reconstructive Surgery provides unparalleled treatment of common and c...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: memlab.yale.edu  
    Title: 2011 Johnson etal NebraskaChapter  
-   Link: <a href="https://memlab.yale.edu/sites/default/files/files/2011_Johnson-etal_NebraskaChapter.pdf" target="_blank" rel="noopener noreferrer nofollow">https://memlab.yale.edu/sites/default/files/files/2011_Johnson-etal_NebraskaChapter.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Neuroscience of True and False Memories*by MK Johnson · 2012 · Cited by 108 — This chapter provides an overview of a theoretica...</p></details>
+   Link:<a href="https://memlab.yale.edu/sites/default/files/files/2011_Johnson-etal_NebraskaChapter.pdf" target="_blank" rel="noopener noreferrer nofollow">https://memlab.yale.edu/sites/default/files/files/2011_Johnson-etal_NebraskaChapter.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Neuroscience of True and False Memories*by MK Johnson · 2012 · Cited by 108 — This chapter provides an overview of a theoretica...</p></details>

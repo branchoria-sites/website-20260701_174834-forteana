@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /forteana-50bdc8-cryptids-natural-his/
 description: Focused pages that expand on Cryptids.
-date: '2026-07-01'
+date: '2026'
 layout: default
 parent_basename: forteana_50bdc8_cryptids_natural_his_3c2db5
 parent_title: Cryptids
@@ -16,7 +16,7 @@ parent_permalink: /cryptids/
 
 # Explore Topics in Cryptids
 
-The following pages expand on the main **[Cryptids]({{ '/cryptids/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Cryptids]({{ '/cryptids/' | relative_url }})** page and cover its key branches in.
 
 - [Among The Most Persistent Explanations For Alleged Sea Serpent...]({{ '/among-the-most-persistent-explanations/' | relative_url }})
 - [Hair DNA]({{ '/hair-dna/' | relative_url }})

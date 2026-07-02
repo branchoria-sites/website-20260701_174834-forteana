@@ -280,7 +280,7 @@ image: /assets/images/forteana_50bdc8_crop_circles_hoaxes_18d275_crop_circle_bel
 
 ## Introduction
 
-The exposure of famous crop-circle [hoaxes]({{ 'hoaxes/' | relative_url }}) did not end belief in the phenomenon because the debate quickly shifted from **whether some circles were faked** to **whether all circles were faked**. Within Fortean culture, the confession by Doug Bower and Dave Chorley in 1991 was widely accepted as evidence that many formations were human-made, but it was not universally accepted as evidence against every reported case. Instead, believers increasingly argued that successful hoaxes merely complicated the mystery by hiding genuinely unexplained formations among deliberate imitations. This "genuine remainder" position, combined with the emotional impact of visiting crop circles in person and the continuing appearance of new formations, allowed belief to persist despite repeated exposures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/archives/la-xpm-1991-09-10-mn-2463-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">la xpm 1991 09 10 mn 2463 story</span><span class="citation-popover-snippet">Los Angeles Times&#x27;Crop Circles&#x27; Their Prank, 2 Britons Say: Hoax10 Sept 1991 — British painters Doug Bower and Dave Chorley, 62, claimed...</span></span></span>
+The exposure of famous crop-circle [hoaxes]({{ 'hoaxes/' | relative_url }}) did not end belief in the phenomenon because the debate quickly shifted from **whether some circles were faked** to **whether all circles were faked**. Within Fortean culture, the confession by Doug Bower and Dave Chorley in 1991 was widely accepted as evidence that many formations were human-made, but it was not universally accepted as evidence against every reported case. Instead, believers increasingly argued that successful hoaxes merely complicated the mystery by hiding genuinely unexplained formations among deliberate imitations. This "genuine remainder" position, combined with the emotional impact of visiting crop circles in person and the continuing appearance of new formations, allowed belief to persist despite repeated exposures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/archives/la-xpm-1991-09-10-mn-2463-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">la xpm 1991 09 10 mn 2463 story</span><span class="citation-popover-snippet">Los Angeles Times&#x27;Crop Circles&#x27; Their Prank, 2 Britons Say: Hoax10 Sept 1991 — British painters Doug Bower and Dave Chorley, 62, claimed...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_crop_circles_hoaxes_18d275_crop_circle_belief_s_0ecc1c-Illustration-1-dark.svg" | relative_url }}" alt="Belief Survives illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_crop_circles_hoaxes_18d275_crop_circle_belief_s_0ecc1c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_crop_circles_hoaxes_18d275_crop_circle_belief_s_0ecc1c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -301,7 +301,7 @@ This reasoning had several consequences:
 
 </div>
 
-From within this framework, hoax exposure actually narrowed the field of investigation instead of closing it. Believers accepted that some circles were human-made while maintaining that a smaller number remained unexplained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/327693184_Finding_God_in_Grain_Crop_Circles_Rationality_and_the_Construction_of_Spiritual_Experience" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Finding God in Grain: Crop Circles, Rationality, and...September 1, 2018 — Crop circles, which are intricate geometric patte...</span><span class="citation-popover-meta">Published: September 1, 2018</span></span></span>
+From within this framework, hoax exposure actually narrowed the field of investigation instead of closing it. Believers accepted that some circles were human-made while maintaining that a smaller number remained unexplained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/327693184_Finding_God_in_Grain_Crop_Circles_Rationality_and_the_Construction_of_Spiritual_Experience" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Finding God in Grain: Crop Circles, Rationality, and...September 1, 2018 — Crop circles, which are intricate geometric patte...</span><span class="citation-popover-meta">Published: September 1, 2018</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WkOL4on26BE" title="Crop Circles - the myth, the legend, the history" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WkOL4on26BE" target="_blank" rel="noopener noreferrer">Crop Circles - the myth, the legend, the history</a></p><p class="youtube-embed-meta">Channel: The History Guy: History Deserves to Be Remembered</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WkOL4on26BE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WkOL4on26BE">Open on YouTube</a></p></div></div></div>
@@ -314,13 +314,13 @@ For many visitors, the attraction of crop circles was not based solely on newspa
 
 Standing inside a large formation could produce a powerful impression regardless of its origin. The geometry, scale and setting in the English countryside encouraged interpretations involving sacred landscapes, prehistoric monuments and altered states of awareness. For visitors already interested in Fortean mysteries, these experiences often carried more psychological weight than later reports about hoaxers.
 
-Researchers who have interviewed believers have found that crop circles frequently function as places of spiritual experience rather than simply puzzles requiring scientific explanation. Personal meaning therefore became resistant to external refutation because it depended on subjective experience rather than solely on claims about physical causation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/327693184_Finding_God_in_Grain_Crop_Circles_Rationality_and_the_Construction_of_Spiritual_Experience" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Finding God in Grain: Crop Circles, Rationality, and...September 1, 2018 — Crop circles, which are intricate geometric patte...</span><span class="citation-popover-meta">Published: September 1, 2018</span></span></span>
+Researchers who have interviewed believers have found that crop circles frequently function as places of spiritual experience rather than simply puzzles requiring scientific explanation. Personal meaning therefore became resistant to external refutation because it depended on subjective experience rather than solely on claims about physical causation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/327693184_Finding_God_in_Grain_Crop_Circles_Rationality_and_the_Construction_of_Spiritual_Experience" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Finding God in Grain: Crop Circles, Rationality, and...September 1, 2018 — Crop circles, which are intricate geometric patte...</span><span class="citation-popover-meta">Published: September 1, 2018</span></span></span>
 
 ### Claimed anomalies
 
 Believers also continued to point to reports of unusual plant damage, magnetic effects, animal behaviour or strange lights near some formations. Although these claims remain disputed and have not convinced the scientific community, they allowed supporters to argue that the mystery involved more than flattened crops alone.
 
-Whether or not such reports withstand critical examination, their existence helped separate particular formations from admitted hoaxes in the minds of believers. A confession explaining one field did not automatically explain another where witnesses believed additional phenomena had occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Crop_circle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Crop circle</span><span class="citation-popover-snippet">Crop circle</span></span></span>
+Whether or not such reports withstand critical examination, their existence helped separate particular formations from admitted hoaxes in the minds of believers. A confession explaining one field did not automatically explain another where witnesses believed additional phenomena had occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Crop_circle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Crop circle</span><span class="citation-popover-snippet">Crop circle</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_crop_circles_hoaxes_18d275_crop_circle_belief_s_0ecc1c-Illustration-2-dark.svg" | relative_url }}" alt="Belief Survives illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_crop_circles_hoaxes_18d275_crop_circle_belief_s_0ecc1c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_crop_circles_hoaxes_18d275_crop_circle_belief_s_0ecc1c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -342,7 +342,7 @@ This cycle encouraged several recurring questions:
 
 </div>
 
-Because every new formation could be evaluated independently, previous debunkings rarely settled discussion permanently. Instead, they became part of the background against which each fresh case was argued. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/arts-culture/crop-circles-the-art-of-the-hoax-2524283/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-snippet">Smithsonian MagazineCrop Circles: The Art of the Hoax15 Dec 2009 — Crop circles are a lens through which we can explore the nature and ap...</span></span></span>
+Because every new formation could be evaluated independently, previous debunkings rarely settled discussion permanently. Instead, they became part of the background against which each fresh case was argued.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/arts-culture/crop-circles-the-art-of-the-hoax-2524283/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-snippet">Smithsonian MagazineCrop Circles: The Art of the Hoax15 Dec 2009 — Crop circles are a lens through which we can explore the nature and ap...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/axrXPkSnbGc" title="How the Crop Circle Phenomenon Got Started" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=axrXPkSnbGc" target="_blank" rel="noopener noreferrer">How the Crop Circle Phenomenon Got Started</a></p><p class="youtube-embed-meta">Channel: Today I Found Out</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=axrXPkSnbGc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=axrXPkSnbGc">Open on YouTube</a></p></div></div></div>
@@ -355,7 +355,7 @@ If numerous people imitate an unexplained phenomenon, observers may conclude tha
 
 The same process appears in other anomalous traditions, where believers routinely separate deliberate fraud from what they regard as genuinely puzzling reports. Once this distinction becomes accepted within a community, exposing additional hoaxes has diminishing impact because fraud is already expected as part of the phenomenon.
 
-From a critical perspective, however, this creates a methodological problem. Every disconfirmed case can be removed from consideration while the remaining cases continue to be described as unexplained. Critics argue that this makes the hypothesis increasingly difficult to test because the category of "genuine" examples changes whenever new evidence appears. Anomalistic [psychology]({{ 'psychology/' | relative_url }}) identifies similar patterns across many forms of paranormal belief, where contradictory evidence often leads to refinement rather than abandonment of the underlying belief. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Anomalistic_psychology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anomalistic psychology</span><span class="citation-popover-snippet">Anomalistic psychology</span></span></span>
+From a critical perspective, however, this creates a methodological problem. Every disconfirmed case can be removed from consideration while the remaining cases continue to be described as unexplained. Critics argue that this makes the hypothesis increasingly difficult to test because the category of "genuine" examples changes whenever new evidence appears. Anomalistic [psychology]({{ 'psychology/' | relative_url }}) identifies similar patterns across many forms of paranormal belief, where contradictory evidence often leads to refinement rather than abandonment of the underlying belief.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Anomalistic_psychology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anomalistic psychology</span><span class="citation-popover-snippet">Anomalistic psychology</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_crop_circles_hoaxes_18d275_crop_circle_belief_s_0ecc1c-Illustration-3-dark.svg" | relative_url }}" alt="Belief Survives illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_crop_circles_hoaxes_18d275_crop_circle_belief_s_0ecc1c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_crop_circles_hoaxes_18d275_crop_circle_belief_s_0ecc1c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -363,7 +363,7 @@ From a critical perspective, however, this creates a methodological problem. Eve
 
 The crop-circle story illustrates a broader feature of Fortean belief systems: exposing fraud does not necessarily eliminate a mystery if participants already distinguish between deception and authentic anomalies.
 
-The [1991 confessions]({{ '1991-confession/' | relative_url }}) by Doug Bower and Dave Chorley fundamentally changed public understanding of crop circles by demonstrating that impressive formations could be produced with simple tools and careful planning. Yet they did not eliminate belief because many enthusiasts interpreted the confession as explaining **some** circles rather than **all** of them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/archives/la-xpm-1991-09-10-mn-2463-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">la xpm 1991 09 10 mn 2463 story</span><span class="citation-popover-snippet">Los Angeles Times&#x27;Crop Circles&#x27; Their Prank, 2 Britons Say: Hoax10 Sept 1991 — British painters Doug Bower and Dave Chorley, 62, claimed...</span></span></span>
+The [1991 confessions]({{ '1991-confession/' | relative_url }}) by Doug Bower and Dave Chorley fundamentally changed public understanding of crop circles by demonstrating that impressive formations could be produced with simple tools and careful planning. Yet they did not eliminate belief because many enthusiasts interpreted the confession as explaining **some** circles rather than **all** of them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/archives/la-xpm-1991-09-10-mn-2463-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">la xpm 1991 09 10 mn 2463 story</span><span class="citation-popover-snippet">Los Angeles Times&#x27;Crop Circles&#x27; Their Prank, 2 Britons Say: Hoax10 Sept 1991 — British painters Doug Bower and Dave Chorley, 62, claimed...</span></span></span>
 
 In that sense, the persistence of crop-circle belief was driven less by denial of hoaxes than by a continuing conviction that the remaining unexplained cases deserved separate consideration. Whether that distinction is persuasive depends largely on how one evaluates the available evidence, but it explains why exposure alone proved insufficient to end one of the best-known modern Fortean mysteries.
 
@@ -372,194 +372,194 @@ In that sense, the persistence of crop-circle belief was driven less by denial o
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Exposure Did Not Kill Belief. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Exposure Did Not Kill Belief. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explains why belief persists despite contradictory evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why belief persists despite contradictory evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Directly addresses extraordinary claims and skepticism.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses extraordinary claims and skepticism.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Examines mechanisms behind persistent paranormal belief.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines mechanisms behind persistent paranormal belief.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Crop+circles+Colin+Andrews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crop circles on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/799791-M.jpg" alt="Cover for Crop circles" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Crop+circles+Colin+Andrews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crop circles">Crop circles</a>
-        </h4>
-        <p class="fr-book-author">By Colin Andrews</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Crop+circles+Colin+Andrews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crop circles on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/799791-M.jpg" alt="Cover for Crop circles" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Crop+circles+Colin+Andrews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crop circles">Crop circles</a>
+</h4>
+<p class="fr-book-author">By Colin Andrews</p>
         
-        <p class="fr-book-desc">First published 2003. Subjects: Crop circles, Curiosities and wonders, Miscellanea, Science, Crop circles -- Miscellanea..</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Crop+circles+Colin+Andrews&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2003. Subjects: Crop circles, Curiosities and wonders, Miscellanea, Science, Crop circles -- Miscellanea..</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Crop+circles+Colin+Andrews&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mystery Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ca24716f9f89915101b9.jpg' | relative_url }}" alt="Listing image for Mystery Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Mystery Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mystery Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ca24716f9f89915101b9.jpg' | relative_url }}" alt="Listing image for Mystery Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Mystery Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mystery forest Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5eb2b9bf8e926c565ad6.jpg' | relative_url }}" alt="Listing image for Mystery forest Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Mystery forest Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mystery forest Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5eb2b9bf8e926c565ad6.jpg' | relative_url }}" alt="Listing image for Mystery forest Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Mystery forest Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gothic Silhouette Painting on Rustic Wood | Staircase Mystery Wall Art"><img src="{{ '/assets/images/marketplace-covers/7f3f2c5e40c1a5c1ca26.jpg' | relative_url }}" alt="Listing image for Gothic Silhouette Painting on Rustic Wood | Staircase Mystery Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Gothic Silhouette Painting on Rustic Wood | Staircase Mystery Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gothic Silhouette Painting on Rustic Wood | Staircase Mystery Wall Art"><img src="{{ '/assets/images/marketplace-covers/7f3f2c5e40c1a5c1ca26.jpg' | relative_url }}" alt="Listing image for Gothic Silhouette Painting on Rustic Wood | Staircase Mystery Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Gothic Silhouette Painting on Rustic Wood | Staircase Mystery Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &quot;Lilac Mystery&quot; Original Handmade Acrylic Canvas Painting Wall Art Gift Idea"><img src="{{ '/assets/images/marketplace-covers/1cb7fd0276a469bd10b1.jpg' | relative_url }}" alt="Listing image for &quot;Lilac Mystery&quot; Original Handmade Acrylic Canvas Painting Wall Art Gift Idea" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">&quot;Lilac Mystery&quot; Original Handmade Acrylic Canvas Painting Wall Art Gift Idea</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &quot;Lilac Mystery&quot; Original Handmade Acrylic Canvas Painting Wall Art Gift Idea"><img src="{{ '/assets/images/marketplace-covers/1cb7fd0276a469bd10b1.jpg' | relative_url }}" alt="Listing image for &quot;Lilac Mystery&quot; Original Handmade Acrylic Canvas Painting Wall Art Gift Idea" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">&quot;Lilac Mystery&quot; Original Handmade Acrylic Canvas Painting Wall Art Gift Idea</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="belief-survives-why-exposure-did-not-kill-belief-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -575,7 +575,7 @@ In that sense, the persistence of crop-circle belief was driven less by denial o
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -595,7 +595,7 @@ In that sense, the persistence of crop-circle belief was driven less by denial o
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -627,7 +627,7 @@ In that sense, the persistence of crop-circle belief was driven less by denial o
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -679,7 +679,7 @@ In that sense, the persistence of crop-circle belief was driven less by denial o
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -724,7 +724,7 @@ In that sense, the persistence of crop-circle belief was driven less by denial o
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -765,138 +765,138 @@ In that sense, the persistence of crop-circle belief was driven less by denial o
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Crop circle  
-   Link: <a href="https://en.wikipedia.org/wiki/Crop_circle" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Crop_circle</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Crop_circle" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Crop_circle</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/327693184_Finding_God_in_Grain_Crop_Circles_Rationality_and_the_Construction_of_Spiritual_Experience" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/327693184_Finding_God_in_Grain_Crop_Circles_Rationality_and_the_Construction_of_Spiritual_Experience</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Finding God in Grain: Crop Circles, Rationality, and...September 1, 2018 — Crop circles, which are intricate geometric patte...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/327693184_Finding_God_in_Grain_Crop_Circles_Rationality_and_the_Construction_of_Spiritual_Experience" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/327693184_Finding_God_in_Grain_Crop_Circles_Rationality_and_the_Construction_of_Spiritual_Experience</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Finding God in Grain: Crop Circles, Rationality, and...September 1, 2018 — Crop circles, which are intricate geometric patte...</p></details>
    Published: September 1, 2018  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Anomalistic psychology  
-   Link: <a href="https://en.wikipedia.org/wiki/Anomalistic_psychology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anomalistic_psychology</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Anomalistic_psychology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anomalistic_psychology</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12955757/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12955757/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>and Propagated Updating Within Pseudoscientific...by J García‐Arch · 2026 — These findings provide the first mechanistic account of how...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12955757/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12955757/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Propagated Updating Within Pseudoscientific...by J García‐Arch · 2026 — These findings provide the first mechanistic account of how...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: List of pseudoscience topics  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_pseudoscience_topics" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_pseudoscience_topics</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>List of pseudoscience topicsThis is a list of topics that are generally considered pseudoscience by the scientific community. Pseudosc...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_pseudoscience_topics" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_pseudoscience_topics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of pseudoscience topicsThis is a list of topics that are generally considered pseudoscience by the scientific community. Pseudosc...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Bower" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bower</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BowerOther uses · 1639 Bower, an asteroid · Bower (architecture), a dwelling or lean-to shelter, also known as a variation of pergola...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Bower" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bower</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BowerOther uses · 1639 Bower, an asteroid · Bower (architecture), a dwelling or lean-to shelter, also known as a variation of pergola...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: How the Crop Circle Phenomenon Got Started  
-   Link: <a href="https://www.youtube.com/watch?v=axrXPkSnbGc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=axrXPkSnbGc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Crop Circles - the myth, the legend, the history...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=axrXPkSnbGc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=axrXPkSnbGc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Crop Circles - the myth, the legend, the history...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: Crop Circles  
-   Link: <a href="https://www.youtube.com/watch?v=WkOL4on26BE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WkOL4on26BE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Feature Documentary: Crop Circles – The Hidden Truth by Richard D. Hall...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WkOL4on26BE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WkOL4on26BE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Feature Documentary: Crop Circles – The Hidden Truth by Richard D. Hall...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: latimes.com  
    Title: la xpm 1991 09 10 mn 2463 story  
-   Link: <a href="https://www.latimes.com/archives/la-xpm-1991-09-10-mn-2463-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/archives/la-xpm-1991-09-10-mn-2463-story.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Los Angeles Times&#x27;Crop Circles&#x27; Their Prank, 2 Britons Say: Hoax10 Sept 1991 — British painters Doug Bower and Dave Chorley, 62, claimed...</p></details>
+   Link:<a href="https://www.latimes.com/archives/la-xpm-1991-09-10-mn-2463-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/archives/la-xpm-1991-09-10-mn-2463-story.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Los Angeles Times&#x27;Crop Circles&#x27; Their Prank, 2 Britons Say: Hoax10 Sept 1991 — British painters Doug Bower and Dave Chorley, 62, claimed...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: smithsonianmag.com  
-   Link: <a href="https://www.smithsonianmag.com/arts-culture/crop-circles-the-art-of-the-hoax-2524283/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/arts-culture/crop-circles-the-art-of-the-hoax-2524283/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian MagazineCrop Circles: The Art of the Hoax15 Dec 2009 — Crop circles are a lens through which we can explore the nature and ap...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/arts-culture/crop-circles-the-art-of-the-hoax-2524283/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/arts-culture/crop-circles-the-art-of-the-hoax-2524283/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian MagazineCrop Circles: The Art of the Hoax15 Dec 2009 — Crop circles are a lens through which we can explore the nature and ap...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ebsco.com  
    Title: crop circle  
-   Link: <a href="https://www.ebsco.com/research-starters/history/crop-circle" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/history/crop-circle</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The men said they created...Read more...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/history/crop-circle" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/history/crop-circle</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The men said they created...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: en.wiktionary.org  
-   Link: <a href="https://en.wiktionary.org/wiki/bower" target="_blank" rel="noopener noreferrer nofollow">https://en.wiktionary.org/wiki/bower</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wiktionary.orgbowerNoun. edit. bower (plural bowers). One who bows or bends. 1977, Desmond Morris, Manwatching: A Field Guide to Human Be...</p></details>
+   Link:<a href="https://en.wiktionary.org/wiki/bower" target="_blank" rel="noopener noreferrer nofollow">https://en.wiktionary.org/wiki/bower</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wiktionary.orgbowerNoun. edit. bower (plural bowers). One who bows or bends. 1977, Desmond Morris, Manwatching: A Field Guide to Human Be...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: vocabulary.com  
-   Link: <a href="https://www.vocabulary.com/dictionary/bower" target="_blank" rel="noopener noreferrer nofollow">https://www.vocabulary.com/dictionary/bower</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>For next year&#x27;s holiday card, you should use that photo of your dog sitting under the...Read more...</p></details>
+   Link:<a href="https://www.vocabulary.com/dictionary/bower" target="_blank" rel="noopener noreferrer nofollow">https://www.vocabulary.com/dictionary/bower</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For next year&#x27;s holiday card, you should use that photo of your dog sitting under the...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: scribd.com  
    Title: Crop Circles  
-   Link: <a href="https://www.scribd.com/document/46920635/Crop-Circles-Signs-of-Contact-Malestrom" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/46920635/Crop-Circles-Signs-of-Contact-Malestrom</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Signs of Contact Malestrom | PDFCrop Circle Hoaxes and the Circus in the Fields... belief and interest in the paranormal aspects linked...</p></details>
+   Link:<a href="https://www.scribd.com/document/46920635/Crop-Circles-Signs-of-Contact-Malestrom" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/46920635/Crop-Circles-Signs-of-Contact-Malestrom</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Signs of Contact Malestrom | PDFCrop Circle Hoaxes and the Circus in the Fields... belief and interest in the paranormal aspects linked...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1bg4mpe/an_alien_crop_circle_deep_dive/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1bg4mpe/an_alien_crop_circle_deep_dive/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An Alien crop circle deep diveCommunication Effort- Aliens might use crop circles as a method to communicate with humans or other species...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1bg4mpe/an_alien_crop_circle_deep_dive/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1bg4mpe/an_alien_crop_circle_deep_dive/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An Alien crop circle deep diveCommunication Effort- Aliens might use crop circles as a method to communicate with humans or other species...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/itsryangeorge/posts/the-aliens-who-invented-crop-circles/1312629684007684/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/itsryangeorge/posts/the-aliens-who-invented-crop-circles/1312629684007684/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Aliens Who Invented Crop CirclesBritish duo Doug Bower and Dave Chorley admitted that they had made hundreds of crop circles since 19...</p></details>
+   Link:<a href="https://www.facebook.com/itsryangeorge/posts/the-aliens-who-invented-crop-circles/1312629684007684/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/itsryangeorge/posts/the-aliens-who-invented-crop-circles/1312629684007684/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Aliens Who Invented Crop CirclesBritish duo Doug Bower and Dave Chorley admitted that they had made hundreds of crop circles since 19...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/anomalistic-psychology-exploring-paranormal-belief-and-experience-9781403995711-9781137368065.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/anomalistic-psychology-exploring-paranormal-belief-and-experience-9781403995711-9781137368065.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anomalistic Psychology: Exploring Paranormal Belief and...A partial list (taken from Carroll, 2003) could arguably include angels, the B...</p></details>
+   Link:<a href="https://dokumen.pub/anomalistic-psychology-exploring-paranormal-belief-and-experience-9781403995711-9781137368065.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/anomalistic-psychology-exploring-paranormal-belief-and-experience-9781403995711-9781137368065.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anomalistic Psychology: Exploring Paranormal Belief and...A partial list (taken from Carroll, 2003) could arguably include angels, the B...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: chillinkristen.medium.com  
    Title: the origin of the crop circles con is surprisingly wholesome 8226f9d252fa  
-   Link: <a href="https://chillinkristen.medium.com/the-origin-of-the-crop-circles-con-is-surprisingly-wholesome-8226f9d252fa" target="_blank" rel="noopener noreferrer nofollow">https://chillinkristen.medium.com/the-origin-of-the-crop-circles-con-is-surprisingly-wholesome-8226f9d252fa</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Origin of the Crop Circles Con is Surprisingly WholesomeBower and Chorley created their crop circles for two years with almost no fanfare...</p></details>
+   Link:<a href="https://chillinkristen.medium.com/the-origin-of-the-crop-circles-con-is-surprisingly-wholesome-8226f9d252fa" target="_blank" rel="noopener noreferrer nofollow">https://chillinkristen.medium.com/the-origin-of-the-crop-circles-con-is-surprisingly-wholesome-8226f9d252fa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Origin of the Crop Circles Con is Surprisingly WholesomeBower and Chorley created their crop circles for two years with almost no fanfare...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: arcomai.org  
    Title: from prank to art the crop circles of doug bower and dave chorley  
-   Link: <a href="https://www.arcomai.org/2026/01/11/from-prank-to-art-the-crop-circles-of-doug-bower-and-dave-chorley/" target="_blank" rel="noopener noreferrer nofollow">https://www.arcomai.org/2026/01/11/from-prank-to-art-the-crop-circles-of-doug-bower-and-dave-chorley/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>From prank to art: The crop circles of Doug Bower and...11 Jan 2026 — Bower and Chorley never provided truly solid evidence of their aut...</p></details>
+   Link:<a href="https://www.arcomai.org/2026/01/11/from-prank-to-art-the-crop-circles-of-doug-bower-and-dave-chorley/" target="_blank" rel="noopener noreferrer nofollow">https://www.arcomai.org/2026/01/11/from-prank-to-art-the-crop-circles-of-doug-bower-and-dave-chorley/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From prank to art: The crop circles of Doug Bower and...11 Jan 2026 — Bower and Chorley never provided truly solid evidence of their aut...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: collinsdictionary.com  
    Title: BOWE R definition in American Englishbower in American English 1 · 1  
-   Link: <a href="https://www.collinsdictionary.com/us/dictionary/english/bower" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/us/dictionary/english/bower</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a leafy shelter or recess; arbor · 2. a rustic dwelling; cottage · 3. a lady&#x27;s boudoir in a medieval castle. transitive verb.Read more...</p></details>
+   Link:<a href="https://www.collinsdictionary.com/us/dictionary/english/bower" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/us/dictionary/english/bower</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a leafy shelter or recess; arbor · 2. a rustic dwelling; cottage · 3. a lady&#x27;s boudoir in a medieval castle. transitive verb.Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: tandfonline.com  
    Title: Full article: Marginalized, Secularized, and Popularized?  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/00380253.2025.2461298" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/00380253.2025.2461298</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by T Clark · 2025 · Cited by 7 — Religiosity had a strongly curvilinear effect on belief in faeries. For belief in crop circles, income (...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/00380253.2025.2461298" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/00380253.2025.2461298</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by T Clark · 2025 · Cited by 7 — Religiosity had a strongly curvilinear effect on belief in faeries. For belief in crop circles, income (...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: learningonscreen.ac.uk  
    Title: Two Hamphshire men claim responsibilty for crop circles  
-   Link: <a href="https://learningonscreen.ac.uk/lbc/search/index.php/segment/0008100518010" target="_blank" rel="noopener noreferrer nofollow">https://learningonscreen.ac.uk/lbc/search/index.php/segment/0008100518010</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bower, a self-confessed crop circle hoaxer from Hampshire. Doug describes the methods used and where he and accomplice David Chorley perf...</p></details>
+   Link:<a href="https://learningonscreen.ac.uk/lbc/search/index.php/segment/0008100518010" target="_blank" rel="noopener noreferrer nofollow">https://learningonscreen.ac.uk/lbc/search/index.php/segment/0008100518010</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bower, a self-confessed crop circle hoaxer from Hampshire. Doug describes the methods used and where he and accomplice David Chorley perf...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
    Title: The history of crop circles goes back centuries  
-   Link: <a href="https://www.facebook.com/groups/physicsisfun109/posts/712034051475442/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/physicsisfun109/posts/712034051475442/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>British pranksters Doug Bower and Dave Chorley claim to have started creating crop circles in British cornfields in 1978, inspire...</p></details>
+   Link:<a href="https://www.facebook.com/groups/physicsisfun109/posts/712034051475442/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/physicsisfun109/posts/712034051475442/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>British pranksters Doug Bower and Dave Chorley claim to have started creating crop circles in British cornfields in 1978, inspire...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reddit.com  
    Title: til in 1991 two english pranksters took credit  
-   Link: <a href="https://www.reddit.com/r/todayilearned/comments/m9dz32/til_in_1991_two_english_pranksters_took_credit/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/m9dz32/til_in_1991_two_english_pranksters_took_credit/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>for many of...After some refused to believe them, Bower and Chorley started adding straight lines and squares to show they weren&#x27;t natur...</p></details>
+   Link:<a href="https://www.reddit.com/r/todayilearned/comments/m9dz32/til_in_1991_two_english_pranksters_took_credit/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/m9dz32/til_in_1991_two_english_pranksters_took_credit/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>for many of...After some refused to believe them, Bower and Chorley started adding straight lines and squares to show they weren&#x27;t natur...</p></details>

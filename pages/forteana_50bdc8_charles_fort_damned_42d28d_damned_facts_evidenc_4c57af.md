@@ -274,7 +274,7 @@ image: /assets/images/forteana_50bdc8_charles_fort_damned_42d28d_damned_facts_ev
 
 ## Introduction
 
-[Charles Fort]({{ 'charles-fort/' | relative_url }})'s idea of “damned facts” was not simply a label for bizarre stories. It was a challenge to the process by which observations become accepted evidence. In *[The Book]({{ 'the-book/' | relative_url }}) of the Damned* (1919), Fort argued that countless reported events were not necessarily rejected because they had been disproved, but because they did not fit prevailing scientific assumptions, disciplinary boundaries, or accepted theories. His famous declaration, “By the damned, I mean the excluded,” framed the issue as one of selection rather than mere error. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/ebooks/22472" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Fort catalogs anomalous phenomena that mainstream science has excluded or...Read more...</span></span></span>
+[Charles Fort]({{ 'charles-fort/' | relative_url }})'s idea of “damned facts” was not simply a label for bizarre stories. It was a challenge to the process by which observations become accepted evidence. In *[The Book]({{ 'the-book/' | relative_url }}) of the Damned* (1919), Fort argued that countless reported events were not necessarily rejected because they had been disproved, but because they did not fit prevailing scientific assumptions, disciplinary boundaries, or accepted theories. His famous declaration, “By the damned, I mean the excluded,” framed the issue as one of selection rather than mere error.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/ebooks/22472" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Fort catalogs anomalous phenomena that mainstream science has excluded or...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_charles_fort_damned_42d28d_damned_facts_evidenc_4c57af-Illustration-1-dark.svg" | relative_url }}" alt="Damned Facts illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_charles_fort_damned_42d28d_damned_facts_evidenc_4c57af-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_charles_fort_damned_42d28d_damned_facts_evidenc_4c57af-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -284,7 +284,7 @@ The lasting significance of this idea lies less in whether Fort's individual exa
 
 Fort used the word "excluded" in a very specific sense. He believed that science constantly filtered observations, accepting those that reinforced existing theories while sidelining those that appeared contradictory. His criticism was aimed less at individual scientists than at what he saw as the institutional tendency to preserve coherent systems of knowledge.
 
-In the opening pages of *The Book of the Damned*, Fort promises a "procession of data that Science has excluded." The point is important: he rarely claimed that every excluded report was true. Instead, he argued that exclusion itself deserved examination because it revealed how knowledge is organised. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/ebooks/22472" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Fort catalogs anomalous phenomena that mainstream science has excluded or...Read more...</span></span></span>
+In the opening pages of *The Book of the Damned*, Fort promises a "procession of data that Science has excluded." The point is important: he rarely claimed that every excluded report was true. Instead, he argued that exclusion itself deserved examination because it revealed how knowledge is organised.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/ebooks/22472" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Fort catalogs anomalous phenomena that mainstream science has excluded or...Read more...</span></span></span>
 
 Fort regarded accepted knowledge as provisional rather than absolute. Every scientific theory, in his view, inevitably simplified reality. That meant some observations would always be treated as [mistakes]({{ 'mistakes/' | relative_url }}), [coincidences]({{ 'coincidences/' | relative_url }}), or curiosities until a broader framework could accommodate them.
 
@@ -294,7 +294,7 @@ This made his work philosophical as much as paranormal. His central concern was 
 
 Fort proposed that observations pass through several informal filters before becoming recognised facts. His description was literary rather than systematic, but the mechanism can be understood through several recurring themes.
 
-**Conflict with existing theory.** If an observation directly contradicted accepted explanations, researchers often looked first for recording errors, instrument failures, or [ordinary causes]({{ 'ordinary-causes/' | relative_url }}) before considering a revision of theory. Fort accepted that such caution was reasonable but argued that it could become habitual [dismissal]({{ 'dismissal/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kar.kent.ac.uk/50907/1/C.%20Sleigh%20-%20An%20outcry%20of%20silence.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kar.kent.ac.uk">[Kent Academic Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kar.kent.ac.uk</span><span class="citation-popover-title">Kent Academic Repository Charles Hoy Fort and the uncanny voices of science</span><span class="citation-popover-snippet">counts of strange phenomena are insistently rehearsed as &#x27;data&#x27;, interspersed with pot-shots...Read more...</span></span></span>
+**Conflict with existing theory.** If an observation directly contradicted accepted explanations, researchers often looked first for recording errors, instrument failures, or [ordinary causes]({{ 'ordinary-causes/' | relative_url }}) before considering a revision of theory. Fort accepted that such caution was reasonable but argued that it could become habitual [dismissal]({{ 'dismissal/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kar.kent.ac.uk/50907/1/C.%20Sleigh%20-%20An%20outcry%20of%20silence.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kar.kent.ac.uk">[Kent Academic Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kar.kent.ac.uk</span><span class="citation-popover-title">Kent Academic Repository Charles Hoy Fort and the uncanny voices of science</span><span class="citation-popover-snippet">counts of strange phenomena are insistently rehearsed as &#x27;data&#x27;, interspersed with pot-shots...Read more...</span></span></span>
 
 **Problems of classification.** Many reports combined features belonging to different disciplines. A strange object in the sky might interest astronomers, meteorologists, or geologists without fitting comfortably into any of those fields. Fort believed these boundary cases were especially vulnerable to neglect.
 
@@ -319,7 +319,7 @@ Rather than building one carefully tested case, he assembled hundreds of disconn
 * reports of unidentified aerial objects before the modern UFO era;
 * archaeological finds that appeared difficult to classify.
 
-Individually, many examples were weak. Fort acknowledged uncertainty repeatedly and often presented multiple speculative explanations, including ones he clearly intended humorously. His argument relied on accumulation: while any single report might be mistaken, he believed the sheer number of excluded observations suggested a larger problem with scientific certainty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kar.kent.ac.uk/50907/1/C.%20Sleigh%20-%20An%20outcry%20of%20silence.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kar.kent.ac.uk">[Kent Academic Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kar.kent.ac.uk</span><span class="citation-popover-title">Kent Academic Repository Charles Hoy Fort and the uncanny voices of science</span><span class="citation-popover-snippet">counts of strange phenomena are insistently rehearsed as &#x27;data&#x27;, interspersed with pot-shots...Read more...</span></span></span>
+Individually, many examples were weak. Fort acknowledged uncertainty repeatedly and often presented multiple speculative explanations, including ones he clearly intended humorously. His argument relied on accumulation: while any single report might be mistaken, he believed the sheer number of excluded observations suggested a larger problem with scientific certainty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kar.kent.ac.uk/50907/1/C.%20Sleigh%20-%20An%20outcry%20of%20silence.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kar.kent.ac.uk">[Kent Academic Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kar.kent.ac.uk</span><span class="citation-popover-title">Kent Academic Repository Charles Hoy Fort and the uncanny voices of science</span><span class="citation-popover-snippet">counts of strange phenomena are insistently rehearsed as &#x27;data&#x27;, interspersed with pot-shots...Read more...</span></span></span>
 
 This explains why *The Book of the Damned* often feels less like a scientific monograph than a sustained catalogue of exceptions.
 
@@ -331,7 +331,7 @@ One of the most common misunderstandings of Fort is the assumption that exposing
 
 Fort himself rarely claimed such certainty.
 
-Instead, he frequently suspended judgement. His books contain speculative ideas—including the famous suggestion that "I think we're property"—yet these were often presented as provocative hypotheses rather than conclusions established by evidence. Charlotte Sleigh notes that *The Book of the Damned* interweaves anomalous "data" with sustained attacks on scientific confidence, making it as much a critique of intellectual systems as a catalogue of mysteries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kar.kent.ac.uk/50907/1/C.%20Sleigh%20-%20An%20outcry%20of%20silence.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kar.kent.ac.uk">[Kent Academic Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kar.kent.ac.uk</span><span class="citation-popover-title">Kent Academic Repository Charles Hoy Fort and the uncanny voices of science</span><span class="citation-popover-snippet">counts of strange phenomena are insistently rehearsed as &#x27;data&#x27;, interspersed with pot-shots...Read more...</span></span></span>
+Instead, he frequently suspended judgement. His books contain speculative ideas—including the famous suggestion that "I think we're property"—yet these were often presented as provocative hypotheses rather than conclusions established by evidence. Charlotte Sleigh notes that *The Book of the Damned* interweaves anomalous "data" with sustained attacks on scientific confidence, making it as much a critique of intellectual systems as a catalogue of mysteries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kar.kent.ac.uk/50907/1/C.%20Sleigh%20-%20An%20outcry%20of%20silence.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kar.kent.ac.uk">[Kent Academic Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kar.kent.ac.uk</span><span class="citation-popover-title">Kent Academic Repository Charles Hoy Fort and the uncanny voices of science</span><span class="citation-popover-snippet">counts of strange phenomena are insistently rehearsed as &#x27;data&#x27;, interspersed with pot-shots...Read more...</span></span></span>
 
 Modern philosophy of science largely agrees with one limited aspect of Fort's position: rejecting one explanation does not automatically establish another. Evidence requires positive support, not merely criticism of existing theories.
 
@@ -357,7 +357,7 @@ Several recurring problems appear throughout his collections:
 
 </div>
 
-Critics such as Joe Nickell have argued that this inconsistent treatment of evidence prevents Fort's collections from functioning as reliable scientific documentation, even while acknowledging his importance as a critic of intellectual complacency. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/newsletter/charles-fort-purveyor-of-the-unprobed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerCharles Fort: Purveyor of the Unprobedby J Nickell — He began by writing The Book of the Damned, explaining in the int...</span></span></span>
+Critics such as Joe Nickell have argued that this inconsistent treatment of evidence prevents Fort's collections from functioning as reliable scientific documentation, even while acknowledging his importance as a critic of intellectual complacency.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/newsletter/charles-fort-purveyor-of-the-unprobed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerCharles Fort: Purveyor of the Unprobedby J Nickell — He began by writing The Book of the Damned, explaining in the int...</span></span></span>
 
 The weakness of individual cases therefore did not eliminate Fort's broader philosophical question, but it did limit the persuasive force of his empirical argument.
 
@@ -389,194 +389,194 @@ For that reason, Fort's greatest legacy is not a catalogue of unexplained phenom
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did Fort Mean by Damned Facts?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did Fort Mean by Damned Facts?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
-        </h4>
-        <p class="fr-book-author">By Charles Fort</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
+</h4>
+<p class="fr-book-author">By Charles Fort</p>
         
-        <p class="fr-book-desc">Introduces Fort&#x27;s argument about excluded evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduces Fort&#x27;s argument about excluded evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Examines how evidence should be assessed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how evidence should be assessed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explores belief formation and anomalous claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores belief formation and anomalous claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Structure+of+Scientific+Revolutions+by+Thomas+S.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Structure of Scientific Revolutions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Structure+of+Scientific+Revolutions+by+Thomas+S.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Structure of Scientific Revolutions">The Structure of Scientific Revolutions</a>
-        </h4>
-        <p class="fr-book-author">By Thomas S. Kuhn</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Structure+of+Scientific+Revolutions+by+Thomas+S.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Structure of Scientific Revolutions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Structure+of+Scientific+Revolutions+by+Thomas+S.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Structure of Scientific Revolutions">The Structure of Scientific Revolutions</a>
+</h4>
+<p class="fr-book-author">By Thomas S. Kuhn</p>
         
-        <p class="fr-book-desc">Addresses how scientific communities accept or reject ideas.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Structure+of+Scientific+Revolutions+by+Thomas+S.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses how scientific communities accept or reject ideas.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Structure+of+Scientific+Revolutions+by+Thomas+S.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fort Savage Raiders 1950 Original Columbia Western Movie Poster Charles Starrett"><img src="{{ '/assets/images/marketplace-covers/1c3213463c0985445320.jpg' | relative_url }}" alt="Listing image for Fort Savage Raiders 1950 Original Columbia Western Movie Poster Charles Starrett" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer">Fort Savage Raiders 1950 Original Columbia Western Movie Poster Charles Starrett</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Charles Fort poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Charles Fort poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fort Savage Raiders 1950 Original Columbia Western Movie Poster Charles Starrett"><img src="{{ '/assets/images/marketplace-covers/1c3213463c0985445320.jpg' | relative_url }}" alt="Listing image for Fort Savage Raiders 1950 Original Columbia Western Movie Poster Charles Starrett" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer">Fort Savage Raiders 1950 Original Columbia Western Movie Poster Charles Starrett</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Charles Fort poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Charles Fort poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Charles Wesley Godwin Fort Worth Texas September 20 2025 Poster"><img src="{{ '/assets/images/marketplace-covers/c6b57ec8abcffcb0235d.jpg' | relative_url }}" alt="Listing image for Charles Wesley Godwin Fort Worth Texas September 20 2025 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer">Charles Wesley Godwin Fort Worth Texas September 20 2025 Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Charles Fort poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Charles Fort poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Charles Wesley Godwin Fort Worth Texas September 20 2025 Poster"><img src="{{ '/assets/images/marketplace-covers/c6b57ec8abcffcb0235d.jpg' | relative_url }}" alt="Listing image for Charles Wesley Godwin Fort Worth Texas September 20 2025 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer">Charles Wesley Godwin Fort Worth Texas September 20 2025 Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Charles Fort poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Charles Fort poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Charles Wesley Godwin Fort Worth Texas September 20 2025 Poster"><img src="{{ '/assets/images/marketplace-covers/56569d7478de65de310d.jpg' | relative_url }}" alt="Listing image for Charles Wesley Godwin Fort Worth Texas September 20 2025 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer">Charles Wesley Godwin Fort Worth Texas September 20 2025 Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Charles Fort poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Charles Fort poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Charles Wesley Godwin Fort Worth Texas September 20 2025 Poster"><img src="{{ '/assets/images/marketplace-covers/56569d7478de65de310d.jpg' | relative_url }}" alt="Listing image for Charles Wesley Godwin Fort Worth Texas September 20 2025 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer">Charles Wesley Godwin Fort Worth Texas September 20 2025 Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Charles Fort poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Charles Fort poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FORT SAVAGE RAIDERS 1951 Charles Starrett, Smiley Burnette US 1-SHEET POSTER"><img src="{{ '/assets/images/marketplace-covers/6f64e015a25167c90ce3.jpg' | relative_url }}" alt="Listing image for FORT SAVAGE RAIDERS 1951 Charles Starrett, Smiley Burnette US 1-SHEET POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer">FORT SAVAGE RAIDERS 1951 Charles Starrett, Smiley Burnette US 1-SHEET POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Charles Fort poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Charles Fort poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FORT SAVAGE RAIDERS 1951 Charles Starrett, Smiley Burnette US 1-SHEET POSTER"><img src="{{ '/assets/images/marketplace-covers/6f64e015a25167c90ce3.jpg' | relative_url }}" alt="Listing image for FORT SAVAGE RAIDERS 1951 Charles Starrett, Smiley Burnette US 1-SHEET POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer">FORT SAVAGE RAIDERS 1951 Charles Starrett, Smiley Burnette US 1-SHEET POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Charles Fort poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Charles Fort poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="damned-facts-what-did-fort-mean-by-damned-facts-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -592,7 +592,7 @@ For that reason, Fort's greatest legacy is not a catalogue of unexplained phenom
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -612,7 +612,7 @@ For that reason, Fort's greatest legacy is not a catalogue of unexplained phenom
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -644,7 +644,7 @@ For that reason, Fort's greatest legacy is not a catalogue of unexplained phenom
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -696,7 +696,7 @@ For that reason, Fort's greatest legacy is not a catalogue of unexplained phenom
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -741,7 +741,7 @@ For that reason, Fort's greatest legacy is not a catalogue of unexplained phenom
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -782,82 +782,82 @@ For that reason, Fort's greatest legacy is not a catalogue of unexplained phenom
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/ebooks/22472" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/ebooks/22472</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fort catalogs anomalous phenomena that mainstream science has excluded or...Read more...</p></details>
+   Link:<a href="https://www.gutenberg.org/ebooks/22472" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/ebooks/22472</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fort catalogs anomalous phenomena that mainstream science has excluded or...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: bahaistudies.net  
    Title: book of the damned  
-   Link: <a href="https://www.bahaistudies.net/asma/book_of_the_damned.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bahaistudies.net/asma/book_of_the_damned.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>We shall have a procession of data that Science has excluded. Battalions of the accursed, captained by pallid data that I...Read more...</p></details>
+   Link:<a href="https://www.bahaistudies.net/asma/book_of_the_damned.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bahaistudies.net/asma/book_of_the_damned.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We shall have a procession of data that Science has excluded. Battalions of the accursed, captained by pallid data that I...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: kar.kent.ac.uk  
    Title: Kent Academic Repository Charles Hoy Fort and the uncanny voices of science  
-   Link: <a href="https://kar.kent.ac.uk/50907/1/C.%20Sleigh%20-%20An%20outcry%20of%20silence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kar.kent.ac.uk/50907/1/C.%20Sleigh%20-%20An%20outcry%20of%20silence.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>counts of strange phenomena are insistently rehearsed as &#x27;data&#x27;, interspersed with pot-shots...Read more...</p></details>
+   Link:<a href="https://kar.kent.ac.uk/50907/1/C.%20Sleigh%20-%20An%20outcry%20of%20silence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kar.kent.ac.uk/50907/1/C.%20Sleigh%20-%20An%20outcry%20of%20silence.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>counts of strange phenomena are insistently rehearsed as &#x27;data&#x27;, interspersed with pot-shots...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/newsletter/charles-fort-purveyor-of-the-unprobed/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/charles-fort-purveyor-of-the-unprobed/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerCharles Fort: Purveyor of the Unprobedby J Nickell — He began by writing The Book of the Damned, explaining in the int...</p></details>
+   Link:<a href="https://skepticalinquirer.org/newsletter/charles-fort-purveyor-of-the-unprobed/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/charles-fort-purveyor-of-the-unprobed/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerCharles Fort: Purveyor of the Unprobedby J Nickell — He began by writing The Book of the Damned, explaining in the int...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: The Book of the Damned  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Book_of_the_Damned" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Book_of_the_Damned</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Book of the DamnedThe Book of the Damned was the first published nonfiction work by American author Charles Fort (first edition 19...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/The_Book_of_the_Damned" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Book_of_the_Damned</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Book of the DamnedThe Book of the Damned was the first published nonfiction work by American author Charles Fort (first edition 19...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: utoread.com  
-   Link: <a href="https://utoread.com/reviews/the-book-of-the-damned-review/" target="_blank" rel="noopener noreferrer nofollow">https://utoread.com/reviews/the-book-of-the-damned-review/</a>  
+   Link:<a href="https://utoread.com/reviews/the-book-of-the-damned-review/" target="_blank" rel="noopener noreferrer nofollow">https://utoread.com/reviews/the-book-of-the-damned-review/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: bunkhistory.org  
    Title: strange gods charles forts book of the damned 1919  
-   Link: <a href="https://www.bunkhistory.org/resources/strange-gods-charles-forts-book-of-the-damned-1919" target="_blank" rel="noopener noreferrer nofollow">https://www.bunkhistory.org/resources/strange-gods-charles-forts-book-of-the-damned-1919</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange Gods: Charles Fort&#x27;s Book of the Damned26 Nov 2024 — Rains of blood and frogs, mysterious disappearances, objects in the sky: the...</p></details>
+   Link:<a href="https://www.bunkhistory.org/resources/strange-gods-charles-forts-book-of-the-damned-1919" target="_blank" rel="noopener noreferrer nofollow">https://www.bunkhistory.org/resources/strange-gods-charles-forts-book-of-the-damned-1919</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strange Gods: Charles Fort&#x27;s Book of the Damned26 Nov 2024 — Rains of blood and frogs, mysterious disappearances, objects in the sky: the...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: publicdomainreview.org  
    Title: charles fort and the book of the damned  
-   Link: <a href="https://publicdomainreview.org/essay/charles-fort-and-the-book-of-the-damned/" target="_blank" rel="noopener noreferrer nofollow">https://publicdomainreview.org/essay/charles-fort-and-the-book-of-the-damned/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Public Domain ReviewStrange Gods: Charles Fort&#x27;s Book of the Damned (1919)26 Nov 2024 — Rains of blood and frogs, mysterious disappea...</p></details>
+   Link:<a href="https://publicdomainreview.org/essay/charles-fort-and-the-book-of-the-damned/" target="_blank" rel="noopener noreferrer nofollow">https://publicdomainreview.org/essay/charles-fort-and-the-book-of-the-damned/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Public Domain ReviewStrange Gods: Charles Fort&#x27;s Book of the Damned (1919)26 Nov 2024 — Rains of blood and frogs, mysterious disappea...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Whimsical. Wooly. Weird. Charles Fort's "Book of the Damned!"  
-   Link: <a href="https://www.youtube.com/watch?v=Pj7IncfUd44" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Pj7IncfUd44</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Deep Weird: The Phenomenology of High Strangeness | Jack Hunter...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Pj7IncfUd44" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Pj7IncfUd44</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deep Weird: The Phenomenology of High Strangeness | Jack Hunter...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/details/04110400R.nlm.nih.gov" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/04110400R.nlm.nih.gov</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We shall have a procession of data that science has excluded.&quot; - p. 7 digitized. 2019.Read more...</p></details>
+   Link:<a href="https://archive.org/details/04110400R.nlm.nih.gov" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/04110400R.nlm.nih.gov</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We shall have a procession of data that science has excluded.&quot; - p. 7 digitized. 2019.Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Deep Weird: The Phenomenology of High Strangeness | Jack Hunter  
-   Link: <a href="https://www.youtube.com/watch?v=bKiNVJJ4CWE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bKiNVJJ4CWE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE BOOK OF THE DAMNED Part 1 of 2 - FULL AudioBook...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bKiNVJJ4CWE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bKiNVJJ4CWE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE BOOK OF THE DAMNED Part 1 of 2 - FULL AudioBook...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Episode 230 Charles Fort Our Supernatural Father Part 1  
-   Link: <a href="https://www.youtube.com/watch?v=E1nxUe7ur-M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E1nxUe7ur-M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Whimsical. Wooly. Weird. Charles Fort&#x27;s &quot;Book of the Damned!&quot;...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=E1nxUe7ur-M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E1nxUe7ur-M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Whimsical. Wooly. Weird. Charles Fort&#x27;s &quot;Book of the Damned!&quot;...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Fortean Times Talk (with Ian Simmons)  
-   Link: <a href="https://www.youtube.com/watch?v=Ok_7bMjUDtQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ok_7bMjUDtQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Episode 230 Charles Fort Our Supernatural Father Part 1...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ok_7bMjUDtQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ok_7bMjUDtQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Episode 230 Charles Fort Our Supernatural Father Part 1...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: THE BOOK OF THE DAMNED Part 1 of 2  
-   Link: <a href="https://www.youtube.com/watch?v=IOXmui2szII" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IOXmui2szII</a>  
+   Link:<a href="https://www.youtube.com/watch?v=IOXmui2szII" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IOXmui2szII</a>  

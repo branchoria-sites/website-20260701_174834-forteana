@@ -280,7 +280,7 @@ image: /assets/images/forteana_50bdc8_uncanny_coincidences_4f1cf2_frequency_illu
 
 ## Introduction
 
-One of the most common experiences behind apparently [uncanny coincidences]({{ 'coincidences/' | relative_url }}) is the feeling that a newly learned word, number, symbol, car model or phrase suddenly starts appearing everywhere. Within discussions of Forteana, this can feel like the world is sending messages or arranging meaningful repetitions. In most cases, however, cognitive [psychology]({{ 'psychology/' | relative_url }}) offers a well-supported explanation known as the **frequency illusion**, often nicknamed the **Baader–Meinhof phenomenon**. Rather than the outside world changing, the mind's filtering system changes, making previously ignored information suddenly stand out. Research and cognitive theory suggest that this effect arises from the interaction of selective attention and confirmation bias, creating the impression that the object's frequency has dramatically increased when its actual occurrence may be unchanged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Frequency_illusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Frequency illusion</span><span class="citation-popover-snippet">Frequency illusion</span></span></span>
+One of the most common experiences behind apparently [uncanny coincidences]({{ 'coincidences/' | relative_url }}) is the feeling that a newly learned word, number, symbol, car model or phrase suddenly starts appearing everywhere. Within discussions of Forteana, this can feel like the world is sending messages or arranging meaningful repetitions. In most cases, however, cognitive [psychology]({{ 'psychology/' | relative_url }}) offers a well-supported explanation known as the **frequency illusion**, often nicknamed the **Baader–Meinhof phenomenon**. Rather than the outside world changing, the mind's filtering system changes, making previously ignored information suddenly stand out. Research and cognitive theory suggest that this effect arises from the interaction of selective attention and confirmation bias, creating the impression that the object's frequency has dramatically increased when its actual occurrence may be unchanged.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Frequency_illusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Frequency illusion</span><span class="citation-popover-snippet">Frequency illusion</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_uncanny_coincidences_4f1cf2_frequency_illusion_r_74132c-Illustration-1-dark.svg" | relative_url }}" alt="Frequency Illusion illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_uncanny_coincidences_4f1cf2_frequency_illusion_r_74132c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_uncanny_coincidences_4f1cf2_frequency_illusion_r_74132c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -290,12 +290,12 @@ Understanding this mechanism does not make repeated sightings any less striking.
 
 The brain constantly receives vastly more information than conscious awareness can process. To cope, it filters incoming sights, sounds and ideas, prioritising whatever seems personally relevant.
 
-The frequency illusion begins the moment something crosses that threshold of relevance. A person learns an unfamiliar word, notices a particular make of car while shopping, hears an unusual surname, or becomes interested in a repeating number. Once the brain has marked that item as significant, it becomes easier to detect against the background of everyday [experience]({{ 'experience/' | relative_url }}). What previously blended into the environment now attracts attention almost automatically. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Frequency_illusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Frequency illusion</span><span class="citation-popover-snippet">Frequency illusion</span></span></span>
+The frequency illusion begins the moment something crosses that threshold of relevance. A person learns an unfamiliar word, notices a particular make of car while shopping, hears an unusual surname, or becomes interested in a repeating number. Once the brain has marked that item as significant, it becomes easier to detect against the background of everyday [experience]({{ 'experience/' | relative_url }}). What previously blended into the environment now attracts attention almost automatically.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Frequency_illusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Frequency illusion</span><span class="citation-popover-snippet">Frequency illusion</span></span></span>
 
 Linguist Arnold Zwicky, who popularised the term "frequency illusion", argued that two processes work together:
 
 * **Selective attention** makes the newly relevant item easier to notice.
-* **Confirmation bias** reinforces the belief that the item is genuinely appearing more often because each new encounter is remembered as supporting evidence, while countless non-occurrences are ignored. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Frequency_illusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Frequency illusion</span><span class="citation-popover-snippet">Frequency illusion</span></span></span>
+* **Confirmation bias** reinforces the belief that the item is genuinely appearing more often because each new encounter is remembered as supporting evidence, while countless non-occurrences are ignored.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Frequency_illusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Frequency illusion</span><span class="citation-popover-snippet">Frequency illusion</span></span></span>
 
 This combination is powerful because it changes perception without requiring any change in the external world.
 
@@ -319,7 +319,7 @@ Common experiences include:
 
 </div>
 
-These experiences often feel surprising because people naturally compare the present with a memory of never having noticed the item before. In reality, the object may have been present all along but was simply filtered out before it became meaningful. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/research-bias/baader-meinhof-phenomenon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">baader meinhof phenomenon</span><span class="citation-popover-snippet">The Baader–Meinhof Phenomenon Explained2 Nov 2022 — The Baader–Meinhof phenomenon refers to the false impression that something ha...</span></span></span>
+These experiences often feel surprising because people naturally compare the present with a memory of never having noticed the item before. In reality, the object may have been present all along but was simply filtered out before it became meaningful.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/research-bias/baader-meinhof-phenomenon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">baader meinhof phenomenon</span><span class="citation-popover-snippet">The Baader–Meinhof Phenomenon Explained2 Nov 2022 — The Baader–Meinhof phenomenon refers to the false impression that something ha...</span></span></span>
 
 This explains why different people can inhabit the same environment while noticing entirely different recurring patterns depending on their interests, worries or recent experiences.
 
@@ -329,7 +329,7 @@ Words occupy a special place because language is processed constantly yet mostly
 
 When an unfamiliar word is learned, the brain gains a new category. Once that category exists, matching examples become much easier to recognise. The result is the strong impression that [newspapers]({{ 'newspapers/' | relative_url }}), conversations and television have all started using the word simultaneously.
 
-The same effect applies to names, technical terms and expressions that suddenly become memorable because of a conversation, book or film. Unless there has genuinely been a surge in public usage, the apparent increase reflects a change in perception rather than in language itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Frequency_illusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Frequency illusion</span><span class="citation-popover-snippet">Frequency illusion</span></span></span>
+The same effect applies to names, technical terms and expressions that suddenly become memorable because of a conversation, book or film. Unless there has genuinely been a surge in public usage, the apparent increase reflects a change in perception rather than in language itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Frequency_illusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Frequency illusion</span><span class="citation-popover-snippet">Frequency illusion</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_uncanny_coincidences_4f1cf2_frequency_illusion_r_74132c-Illustration-2-dark.svg" | relative_url }}" alt="Frequency Illusion illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_uncanny_coincidences_4f1cf2_frequency_illusion_r_74132c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_uncanny_coincidences_4f1cf2_frequency_illusion_r_74132c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -371,7 +371,7 @@ Examples include assuming:
 
 </div>
 
-The mechanism does not mean every genuine trend is imaginary. Sometimes an item really is becoming more common because of changing fashions, breaking news or increased media coverage. The crucial question is whether independent evidence shows that frequency has actually changed, rather than relying solely on personal impressions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/research-bias/baader-meinhof-phenomenon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">baader meinhof phenomenon</span><span class="citation-popover-snippet">The Baader–Meinhof Phenomenon Explained2 Nov 2022 — The Baader–Meinhof phenomenon refers to the false impression that something ha...</span></span></span>
+The mechanism does not mean every genuine trend is imaginary. Sometimes an item really is becoming more common because of changing fashions, breaking news or increased media coverage. The crucial question is whether independent evidence shows that frequency has actually changed, rather than relying solely on personal impressions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/research-bias/baader-meinhof-phenomenon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">baader meinhof phenomenon</span><span class="citation-popover-snippet">The Baader–Meinhof Phenomenon Explained2 Nov 2022 — The Baader–Meinhof phenomenon refers to the false impression that something ha...</span></span></span>
 
 For this reason, psychologists distinguish between subjective frequency—the number of times something feels noticeable—and objective frequency, which can be measured independently.
 
@@ -383,185 +383,185 @@ Within [Forteana]({{ 'forteana/' | relative_url }}), repeated encounters often o
 
 A person who repeatedly encounters the same unusual word after hearing it once may interpret the experience as coincidence, synchronicity, divine guidance or simply a quirk of attention. The observable facts remain identical; only the explanatory framework changes.
 
-The frequency illusion therefore provides an important baseline explanation for many reports of repeated names, symbols and numbers. It does not settle broader philosophical questions about meaning or synchronicity, but it demonstrates that an experience can feel profoundly improbable even when it emerges naturally from the way attention filters an information-rich world. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Frequency_illusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Frequency illusion</span><span class="citation-popover-snippet">Frequency illusion</span></span></span>
+The frequency illusion therefore provides an important baseline explanation for many reports of repeated names, symbols and numbers. It does not settle broader philosophical questions about meaning or synchronicity, but it demonstrates that an experience can feel profoundly improbable even when it emerges naturally from the way attention filters an information-rich world.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Frequency_illusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Frequency illusion</span><span class="citation-popover-snippet">Frequency illusion</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ddAUybpRENQ" title="Why your brain is secretly editing Reality." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ddAUybpRENQ" target="_blank" rel="noopener noreferrer">Why your brain is secretly editing Reality.</a></p><p class="youtube-embed-meta">Channel: 000Outline</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ddAUybpRENQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ddAUybpRENQ">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why One New Thing Suddenly Appears Everywhere. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why One New Thing Suddenly Appears Everywhere. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=You+are+Not+So+Smart+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open You are Not So Smart on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rhq9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for You are Not So Smart" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=You+are+Not+So+Smart+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="You are Not So Smart">You are Not So Smart</a>
-        </h4>
-        <p class="fr-book-author">By David McRaney</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=You+are+Not+So+Smart+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open You are Not So Smart on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rhq9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for You are Not So Smart" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=You+are+Not+So+Smart+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="You are Not So Smart">You are Not So Smart</a>
+</h4>
+<p class="fr-book-author">By David McRaney</p>
         
-        <p class="fr-book-desc">Explains confirmation bias and selective attention behind the frequency illusion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=You+are+Not+So+Smart+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains confirmation bias and selective attention behind the frequency illusion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=You+are+Not+So+Smart+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Covers cognitive biases involved in noticing patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers cognitive biases involved in noticing patterns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
+</h4>
+<p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
         
-        <p class="fr-book-desc">Shows how attention filters what we notice.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how attention filters what we notice.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Relates cognitive biases to paranormal interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relates cognitive biases to paranormal interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=You+are+Not+So+Smart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">You are Not So Smart</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=You+are+Not+So+Smart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">You are Not So Smart</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frequency-illusion-why-one-new-thing-suddenly-appears-everywhere-forteana-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="frequency-illusion-why-one-new-thing-suddenly-appears-everywhere-forteana-psychology-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Reverse Psychology Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/507f06bf3be4341bf93d.jpg' | relative_url }}" alt="Listing image for Reverse Psychology Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frequency-illusion-why-one-new-thing-suddenly-appears-everywhere-forteana-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="frequency-illusion-why-one-new-thing-suddenly-appears-everywhere-forteana-psychology-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Reverse Psychology Quote Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frequency-illusion-why-one-new-thing-suddenly-appears-everywhere-forteana-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="frequency-illusion-why-one-new-thing-suddenly-appears-everywhere-forteana-psychology-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frequency-illusion-why-one-new-thing-suddenly-appears-everywhere-forteana-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="frequency-illusion-why-one-new-thing-suddenly-appears-everywhere-forteana-psychology-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frequency-illusion-why-one-new-thing-suddenly-appears-everywhere-forteana-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="frequency-illusion-why-one-new-thing-suddenly-appears-everywhere-forteana-psychology-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Reverse Psychology Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/507f06bf3be4341bf93d.jpg' | relative_url }}" alt="Listing image for Reverse Psychology Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frequency-illusion-why-one-new-thing-suddenly-appears-everywhere-forteana-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="frequency-illusion-why-one-new-thing-suddenly-appears-everywhere-forteana-psychology-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Reverse Psychology Quote Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frequency-illusion-why-one-new-thing-suddenly-appears-everywhere-forteana-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="frequency-illusion-why-one-new-thing-suddenly-appears-everywhere-forteana-psychology-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frequency-illusion-why-one-new-thing-suddenly-appears-everywhere-forteana-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="frequency-illusion-why-one-new-thing-suddenly-appears-everywhere-forteana-psychology-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frequency-illusion-why-one-new-thing-suddenly-appears-everywhere-forteana-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="frequency-illusion-why-one-new-thing-suddenly-appears-everywhere-forteana-psychology-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Psychology A4 Poster Print Lab Rat, Classical Conditioning Art for Psychologist"><img src="{{ '/assets/images/marketplace-covers/b9d6a80e381347dbe1b9.jpg' | relative_url }}" alt="Listing image for Psychology A4 Poster Print Lab Rat, Classical Conditioning Art for Psychologist" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frequency-illusion-why-one-new-thing-suddenly-appears-everywhere-forteana-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="frequency-illusion-why-one-new-thing-suddenly-appears-everywhere-forteana-psychology-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Psychology A4 Poster Print Lab Rat, Classical Conditioning Art for Psychologist</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frequency-illusion-why-one-new-thing-suddenly-appears-everywhere-forteana-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="frequency-illusion-why-one-new-thing-suddenly-appears-everywhere-forteana-psychology-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frequency-illusion-why-one-new-thing-suddenly-appears-everywhere-forteana-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="frequency-illusion-why-one-new-thing-suddenly-appears-everywhere-forteana-psychology-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frequency-illusion-why-one-new-thing-suddenly-appears-everywhere-forteana-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="frequency-illusion-why-one-new-thing-suddenly-appears-everywhere-forteana-psychology-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Psychology A4 Poster Print Lab Rat, Classical Conditioning Art for Psychologist"><img src="{{ '/assets/images/marketplace-covers/b9d6a80e381347dbe1b9.jpg' | relative_url }}" alt="Listing image for Psychology A4 Poster Print Lab Rat, Classical Conditioning Art for Psychologist" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frequency-illusion-why-one-new-thing-suddenly-appears-everywhere-forteana-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="frequency-illusion-why-one-new-thing-suddenly-appears-everywhere-forteana-psychology-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Psychology A4 Poster Print Lab Rat, Classical Conditioning Art for Psychologist</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frequency-illusion-why-one-new-thing-suddenly-appears-everywhere-forteana-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="frequency-illusion-why-one-new-thing-suddenly-appears-everywhere-forteana-psychology-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frequency-illusion-why-one-new-thing-suddenly-appears-everywhere-forteana-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="frequency-illusion-why-one-new-thing-suddenly-appears-everywhere-forteana-psychology-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frequency-illusion-why-one-new-thing-suddenly-appears-everywhere-forteana-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="frequency-illusion-why-one-new-thing-suddenly-appears-everywhere-forteana-psychology-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Psychologist Psychology Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ff8fe0c130a32448cb1e.jpg' | relative_url }}" alt="Listing image for Psychologist Psychology Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frequency-illusion-why-one-new-thing-suddenly-appears-everywhere-forteana-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="frequency-illusion-why-one-new-thing-suddenly-appears-everywhere-forteana-psychology-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Psychologist Psychology Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frequency-illusion-why-one-new-thing-suddenly-appears-everywhere-forteana-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="frequency-illusion-why-one-new-thing-suddenly-appears-everywhere-forteana-psychology-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frequency-illusion-why-one-new-thing-suddenly-appears-everywhere-forteana-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="frequency-illusion-why-one-new-thing-suddenly-appears-everywhere-forteana-psychology-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frequency-illusion-why-one-new-thing-suddenly-appears-everywhere-forteana-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="frequency-illusion-why-one-new-thing-suddenly-appears-everywhere-forteana-psychology-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frequency-illusion-why-one-new-thing-suddenly-appears-everywhere-forteana-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="frequency-illusion-why-one-new-thing-suddenly-appears-everywhere-forteana-psychology-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Psychologist Psychology Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ff8fe0c130a32448cb1e.jpg' | relative_url }}" alt="Listing image for Psychologist Psychology Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frequency-illusion-why-one-new-thing-suddenly-appears-everywhere-forteana-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="frequency-illusion-why-one-new-thing-suddenly-appears-everywhere-forteana-psychology-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Psychologist Psychology Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frequency-illusion-why-one-new-thing-suddenly-appears-everywhere-forteana-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="frequency-illusion-why-one-new-thing-suddenly-appears-everywhere-forteana-psychology-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frequency-illusion-why-one-new-thing-suddenly-appears-everywhere-forteana-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="frequency-illusion-why-one-new-thing-suddenly-appears-everywhere-forteana-psychology-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frequency-illusion-why-one-new-thing-suddenly-appears-everywhere-forteana-psychology-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster -book -books" data-ebay-reference="frequency-illusion-why-one-new-thing-suddenly-appears-everywhere-forteana-psychology-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -577,7 +577,7 @@ The frequency illusion therefore provides an important baseline explanation for 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -597,7 +597,7 @@ The frequency illusion therefore provides an important baseline explanation for 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -629,7 +629,7 @@ The frequency illusion therefore provides an important baseline explanation for 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -681,7 +681,7 @@ The frequency illusion therefore provides an important baseline explanation for 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -726,7 +726,7 @@ The frequency illusion therefore provides an important baseline explanation for 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -767,100 +767,100 @@ The frequency illusion therefore provides an important baseline explanation for 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Frequency illusion  
-   Link: <a href="https://en.wikipedia.org/wiki/Frequency_illusion" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Frequency_illusion</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Frequency_illusion" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Frequency_illusion</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: scribbr.com  
    Title: baader meinhof phenomenon  
-   Link: <a href="https://www.scribbr.com/research-bias/baader-meinhof-phenomenon/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/research-bias/baader-meinhof-phenomenon/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Baader–Meinhof Phenomenon Explained2 Nov 2022 — The Baader–Meinhof phenomenon refers to the false impression that something ha...</p></details>
+   Link:<a href="https://www.scribbr.com/research-bias/baader-meinhof-phenomenon/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/research-bias/baader-meinhof-phenomenon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Baader–Meinhof Phenomenon Explained2 Nov 2022 — The Baader–Meinhof phenomenon refers to the false impression that something ha...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12679345/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12679345/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>spread of mind: psychological contagion in theory and...by J Houran · 2025 · Cited by 5 — Baader–Meinhof phenomenon, i.e., the frequency...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12679345/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12679345/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>spread of mind: psychological contagion in theory and...by J Houran · 2025 · Cited by 5 — Baader–Meinhof phenomenon, i.e., the frequency...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: psychologytoday.com  
    Title: frequency illusion  
-   Link: <a href="https://www.psychologytoday.com/us/basics/frequency-illusion" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/basics/frequency-illusion</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>14 Nov 2025 — The frequency illusion, also called the Baader-Meinhof phenomenon, is a cognitive bias in which someone learns a novel word...</p></details>
+   Link:<a href="https://www.psychologytoday.com/us/basics/frequency-illusion" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/basics/frequency-illusion</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>14 Nov 2025 — The frequency illusion, also called the Baader-Meinhof phenomenon, is a cognitive bias in which someone learns a novel word...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: scribbr.co.uk  
    Title: The Baader–Meinhof Phenomenon Explained  
-   Link: <a href="https://www.scribbr.co.uk/bias-in-research/baader-meinhof/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/bias-in-research/baader-meinhof/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Nov 2022 — The Baader–Meinhof phenomenon refers to the false impression that something happens more frequently than it actually...</p></details>
+   Link:<a href="https://www.scribbr.co.uk/bias-in-research/baader-meinhof/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/bias-in-research/baader-meinhof/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 Nov 2022 — The Baader–Meinhof phenomenon refers to the false impression that something happens more frequently than it actually...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: psychotricks.com  
    Title: frequency illusion  
-   Link: <a href="https://psychotricks.com/frequency-illusion/" target="_blank" rel="noopener noreferrer nofollow">https://psychotricks.com/frequency-illusion/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Frequency Illusion: Why You Suddenly See Things...Jan 25, 2025 — The frequency illusion is a cognitive bias where, after noticing so...</p></details>
+   Link:<a href="https://psychotricks.com/frequency-illusion/" target="_blank" rel="noopener noreferrer nofollow">https://psychotricks.com/frequency-illusion/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Frequency Illusion: Why You Suddenly See Things...Jan 25, 2025 — The frequency illusion is a cognitive bias where, after noticing so...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: therahive.com  
    Title: the frequency illusion  
-   Link: <a href="https://www.therahive.com/blog/the-frequency-illusion" target="_blank" rel="noopener noreferrer nofollow">https://www.therahive.com/blog/the-frequency-illusion</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How New Skills Become More...31 Jul 2024 — The frequency illusion, also known as the Baader-Meinhof phenomenon, is a cognitive bias wher...</p></details>
+   Link:<a href="https://www.therahive.com/blog/the-frequency-illusion" target="_blank" rel="noopener noreferrer nofollow">https://www.therahive.com/blog/the-frequency-illusion</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How New Skills Become More...31 Jul 2024 — The frequency illusion, also known as the Baader-Meinhof phenomenon, is a cognitive bias wher...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: beyonduxdesign.com  
-   Link: <a href="https://www.beyonduxdesign.com/cognition-catalog/frequency-illusion/" target="_blank" rel="noopener noreferrer nofollow">https://www.beyonduxdesign.com/cognition-catalog/frequency-illusion/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Frequency IllusionZwicky attributed the illusion to two psychological processes working together: selective attention and confirmation bi...</p></details>
+   Link:<a href="https://www.beyonduxdesign.com/cognition-catalog/frequency-illusion/" target="_blank" rel="noopener noreferrer nofollow">https://www.beyonduxdesign.com/cognition-catalog/frequency-illusion/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Frequency IllusionZwicky attributed the illusion to two psychological processes working together: selective attention and confirmation bi...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: doctorspin.org  
-   Link: <a href="https://doctorspin.org/media-psychology/psychology/baader-meinhof-phenomenon/" target="_blank" rel="noopener noreferrer nofollow">https://doctorspin.org/media-psychology/psychology/baader-meinhof-phenomenon/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Baader-Meinhof phenomenon | The Public Relations BlogThe Baader-Meinhof phenomenon (also known as frequency illusion) is when you not...</p></details>
+   Link:<a href="https://doctorspin.org/media-psychology/psychology/baader-meinhof-phenomenon/" target="_blank" rel="noopener noreferrer nofollow">https://doctorspin.org/media-psychology/psychology/baader-meinhof-phenomenon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Baader-Meinhof phenomenon | The Public Relations BlogThe Baader-Meinhof phenomenon (also known as frequency illusion) is when you not...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: verywellmind.com  
-   Link: <a href="https://www.verywellmind.com/baader-meinhof-phenomenon-11902674" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellmind.com/baader-meinhof-phenomenon-11902674</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This effect is attributed to two psychological mechanisms: selective attention, which filters focus onto new stimuli, and confirmation bi...</p></details>
+   Link:<a href="https://www.verywellmind.com/baader-meinhof-phenomenon-11902674" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellmind.com/baader-meinhof-phenomenon-11902674</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This effect is attributed to two psychological mechanisms: selective attention, which filters focus onto new stimuli, and confirmation bi...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/222423421_Frequency_Illusions_and_Other_Fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/222423421_Frequency_Illusions_and_Other_Fallacies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The current paper focuses on two cognitive illusions. that have been reported to show some of the largest. eﬀects of...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/222423421_Frequency_Illusions_and_Other_Fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/222423421_Frequency_Illusions_and_Other_Fallacies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The current paper focuses on two cognitive illusions. that have been reported to show some of the largest. eﬀects of...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: associazionepsicologieurope.com  
    Title: the baader meinhof phenomenon when the noticed becomes seemingly unavoidable  
-   Link: <a href="https://associazionepsicologieurope.com/2024/03/22/the-baader-meinhof-phenomenon-when-the-noticed-becomes-seemingly-unavoidable/" target="_blank" rel="noopener noreferrer nofollow">https://associazionepsicologieurope.com/2024/03/22/the-baader-meinhof-phenomenon-when-the-noticed-becomes-seemingly-unavoidable/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Baader-Meinhof Phenomenon: When The Noticed...Mar 22, 2024 — The Baader-Meinhof phenomenon is a cognitive bias which occurs once an...</p></details>
+   Link:<a href="https://associazionepsicologieurope.com/2024/03/22/the-baader-meinhof-phenomenon-when-the-noticed-becomes-seemingly-unavoidable/" target="_blank" rel="noopener noreferrer nofollow">https://associazionepsicologieurope.com/2024/03/22/the-baader-meinhof-phenomenon-when-the-noticed-becomes-seemingly-unavoidable/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Baader-Meinhof Phenomenon: When The Noticed...Mar 22, 2024 — The Baader-Meinhof phenomenon is a cognitive bias which occurs once an...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: kureansiklopedi.com  
    Title: baader meinhof phenomenon frequency illusion f1efa  
-   Link: <a href="https://kureansiklopedi.com/en/detay/baader-meinhof-phenomenon-frequency-illusion-f1efa" target="_blank" rel="noopener noreferrer nofollow">https://kureansiklopedi.com/en/detay/baader-meinhof-phenomenon-frequency-illusion-f1efa</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Baader-Meinhof Phenomenon (Frequency Illusion)26 May 2026 — The mechanism behind the phenomenon is a consequence of the brain&#x27;s use of co...</p></details>
+   Link:<a href="https://kureansiklopedi.com/en/detay/baader-meinhof-phenomenon-frequency-illusion-f1efa" target="_blank" rel="noopener noreferrer nofollow">https://kureansiklopedi.com/en/detay/baader-meinhof-phenomenon-frequency-illusion-f1efa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Baader-Meinhof Phenomenon (Frequency Illusion)26 May 2026 — The mechanism behind the phenomenon is a consequence of the brain&#x27;s use of co...</p></details>
    Published: May 2026  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/PsychEducJournal/posts/the-baadermeinhof-phenomenon-frequency-illusion-occurs-when-you-learn-something-/875323408325332/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PsychEducJournal/posts/the-baadermeinhof-phenomenon-frequency-illusion-occurs-when-you-learn-something-/875323408325332/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>lective attention bias (noticing things that are salient to...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/PsychEducJournal/posts/the-baadermeinhof-phenomenon-frequency-illusion-occurs-when-you-learn-something-/875323408325332/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PsychEducJournal/posts/the-baadermeinhof-phenomenon-frequency-illusion-occurs-when-you-learn-something-/875323408325332/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lective attention bias (noticing things that are salient to...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: opencollege.info  
    Title: Open College UKFrequency illusion Explained  
-   Link: <a href="https://www.opencollege.info/frequency-illusion-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.opencollege.info/frequency-illusion-explained/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Frequency illusion Explained - Open CollegeThe illusion &#x27;selective attention bias&#x27;. The term “frequency illusion” was coined by professor...</p></details>
+   Link:<a href="https://www.opencollege.info/frequency-illusion-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.opencollege.info/frequency-illusion-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Frequency illusion Explained - Open CollegeThe illusion &#x27;selective attention bias&#x27;. The term “frequency illusion” was coined by professor...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: madeupmind.org  
    Title: what is the frequency illusion  
-   Link: <a href="https://madeupmind.org/blog/what-is-the-frequency-illusion" target="_blank" rel="noopener noreferrer nofollow">https://madeupmind.org/blog/what-is-the-frequency-illusion</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Frequency Illusion: Why You See New Things Everywhere11 Aug 2025 — Learn about the Baader-Meinhof Phenomenon, or Frequency Illusion—t...</p></details>
+   Link:<a href="https://madeupmind.org/blog/what-is-the-frequency-illusion" target="_blank" rel="noopener noreferrer nofollow">https://madeupmind.org/blog/what-is-the-frequency-illusion</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Frequency Illusion: Why You See New Things Everywhere11 Aug 2025 — Learn about the Baader-Meinhof Phenomenon, or Frequency Illusion—t...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: psychotricks.com  
    Title: baader meinhof phenomenon  
-   Link: <a href="https://psychotricks.com/baader-meinhof-phenomenon/" target="_blank" rel="noopener noreferrer nofollow">https://psychotricks.com/baader-meinhof-phenomenon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Baader-Meinhof Phenomenon: Why We Notice Things...8 Sept 2024 — In essence, the Baader-Meinhof phenomenon is a trick of the mind, co...</p></details>
+   Link:<a href="https://psychotricks.com/baader-meinhof-phenomenon/" target="_blank" rel="noopener noreferrer nofollow">https://psychotricks.com/baader-meinhof-phenomenon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Baader-Meinhof Phenomenon: Why We Notice Things...8 Sept 2024 — In essence, the Baader-Meinhof phenomenon is a trick of the mind, co...</p></details>

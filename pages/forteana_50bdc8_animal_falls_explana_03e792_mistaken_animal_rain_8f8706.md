@@ -280,7 +280,7 @@ image: /assets/images/forteana_50bdc8_animal_falls_explana_03e792_mistaken_anima
 
 ## Introduction
 
-Not every apparent "rain of animals" involves anything falling from the sky. In many cases, heavy rain changes the landscape rather than transporting animals through the air. Floodwater fills drains, overflows ponds, saturates soil and creates temporary routes across normally dry ground. Frogs, toads, salamanders, worms and small fish can then appear suddenly on roads, pavements and gardens, giving witnesses the understandable impression that they have just fallen with the rain. Investigators of Fortean reports therefore treat "animals found after rain" and "animals observed falling from the sky" as two separate questions. The distinction matters because many convincing-looking incidents can be explained entirely by flooding, drainage systems and wet-[weather]({{ 'weather/' | relative_url }}) animal movement rather than aerial transport. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/meteorology-climatology/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">The Library of CongressCan it rain frogs, fish, and other objects?What is unusual in reports of animal rainfalls is the uniformity of the...</span></span></span>
+Not every apparent "rain of animals" involves anything falling from the sky. In many cases, heavy rain changes the landscape rather than transporting animals through the air. Floodwater fills drains, overflows ponds, saturates soil and creates temporary routes across normally dry ground. Frogs, toads, salamanders, worms and small fish can then appear suddenly on roads, pavements and gardens, giving witnesses the understandable impression that they have just fallen with the rain. Investigators of Fortean reports therefore treat "animals found after rain" and "animals observed falling from the sky" as two separate questions. The distinction matters because many convincing-looking incidents can be explained entirely by flooding, drainage systems and wet-[weather]({{ 'weather/' | relative_url }}) animal movement rather than aerial transport.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/meteorology-climatology/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">The Library of CongressCan it rain frogs, fish, and other objects?What is unusual in reports of animal rainfalls is the uniformity of the...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_animal_falls_explana_03e792_mistaken_animal_rain_8f8706-Illustration-1-dark.svg" | relative_url }}" alt="Not Falling illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_animal_falls_explana_03e792_mistaken_animal_rain_8f8706-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_animal_falls_explana_03e792_mistaken_animal_rain_8f8706-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -290,16 +290,16 @@ Heavy rainfall can rapidly redistribute small animals without lifting them into 
 
 When floodwater drains away, it often leaves animals concentrated in depressions, gutters, car parks or road edges. Someone arriving after the storm sees dozens of fish or frogs apparently appearing "out of nowhere", even though they were carried horizontally by flowing water rather than vertically through the air. This mechanism is particularly plausible where reports are confined to low-lying areas, drainage channels or places immediately connected to nearby water.
 
-Flooding can also expose animals already living underground. Burrows fill with water, leaf litter is displaced and saturated soil forces some species to seek drier ground. The sudden visibility of animals is therefore often an ecological response to changing ground conditions rather than evidence of an atmospheric event. The Library of Congress specifically notes that some supposed animal rains are false reports arising after storms when observers encounter unusually large numbers of animals on the ground that did not actually fall from the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/meteorology-climatology/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">The Library of CongressCan it rain frogs, fish, and other objects?What is unusual in reports of animal rainfalls is the uniformity of the...</span></span></span>
+Flooding can also expose animals already living underground. Burrows fill with water, leaf litter is displaced and saturated soil forces some species to seek drier ground. The sudden visibility of animals is therefore often an ecological response to changing ground conditions rather than evidence of an atmospheric event. The Library of Congress specifically notes that some supposed animal rains are false reports arising after storms when observers encounter unusually large numbers of animals on the ground that did not actually fall from the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/meteorology-climatology/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">The Library of CongressCan it rain frogs, fish, and other objects?What is unusual in reports of animal rainfalls is the uniformity of the...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sHz6Wlc2MAI" title="Why Frogs Sometimes Fall From the Sky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sHz6Wlc2MAI" target="_blank" rel="noopener noreferrer">Why Frogs Sometimes Fall From the Sky</a></p><p class="youtube-embed-meta">Channel: SciShow</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sHz6Wlc2MAI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sHz6Wlc2MAI">Open on YouTube</a></p></div></div></div>
 
 ## Frogs and worms moving after rain
 
-Rain dramatically alters how many animals are active on the surface. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Rain_of_animals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rain of animals</span><span class="citation-popover-snippet">Rain of animalsRain of flightless animals and things has been reported throughout history. In the Bible, a rain of frogs is described...</span></span></span>
+Rain dramatically alters how many animals are active on the surface.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Rain_of_animals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rain of animals</span><span class="citation-popover-snippet">Rain of animalsRain of flightless animals and things has been reported throughout history. In the Bible, a rain of frogs is described...</span></span></span>
 
-Amphibians are especially sensitive to moisture because their permeable skin dries quickly in dry conditions. Warm, wet nights trigger mass movements from woodland or underground refuges towards breeding ponds and seasonal pools. Conservation organisations monitor these migrations because thousands of frogs, toads and salamanders may cross roads during a single rainy evening, a phenomenon often called "Big Night" in North America. Volunteer surveys have documented tens of thousands of migrating amphibians using these routes, demonstrating that large numbers can appear almost simultaneously without any aerial transport. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dec.ny.gov/nature/waterbodies/oceans-estuaries/hudson-river-estuary-program/conservation-and-land-use-program/amphibian-migrations-and-road-crossings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dec.ny.gov">[Department of Environmental Conservation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dec.ny.gov</span><span class="citation-popover-title">Department of Environmental Conservation Amphibian Migrations And Road Crossings</span><span class="citation-popover-snippet">Department of Environmental ConservationAmphibian Migrations And Road Crossings - NYSDECThe Amphibian Migrations and Road Crossings (AM&amp;R...</span></span></span>
+Amphibians are especially sensitive to moisture because their permeable skin dries quickly in dry conditions. Warm, wet nights trigger mass movements from woodland or underground refuges towards breeding ponds and seasonal pools. Conservation organisations monitor these migrations because thousands of frogs, toads and salamanders may cross roads during a single rainy evening, a phenomenon often called "Big Night" in North America. Volunteer surveys have documented tens of thousands of migrating amphibians using these routes, demonstrating that large numbers can appear almost simultaneously without any aerial transport.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dec.ny.gov/nature/waterbodies/oceans-estuaries/hudson-river-estuary-program/conservation-and-land-use-program/amphibian-migrations-and-road-crossings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dec.ny.gov">[Department of Environmental Conservation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dec.ny.gov</span><span class="citation-popover-title">Department of Environmental Conservation Amphibian Migrations And Road Crossings</span><span class="citation-popover-snippet">Department of Environmental ConservationAmphibian Migrations And Road Crossings - NYSDECThe Amphibian Migrations and Road Crossings (AM&amp;R...</span></span></span>
 
 Earthworms provide another classic example. After heavy rain, pavements and roads may suddenly become covered with worms. Researchers continue to debate the precise balance of causes, but several mechanisms are supported:
 
@@ -312,7 +312,7 @@ Earthworms provide another classic example. After heavy rain, pavements and road
 
 </div>
 
-Importantly, not every worm in the soil emerges, and the behaviour varies among species. The result is nevertheless dramatic enough that people unfamiliar with the biology may assume the worms have arrived with the rainfall itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.nature.org/2019/04/15/the-real-reason-you-see-earthworms-after-rain/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.nature.org">[Cool Green Science+2The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.nature.org</span><span class="citation-popover-snippet">Cool Green ScienceThe Real Reason You See Earthworms After RainApril 15, 2019 — 15 Apr 2019 — Another common explanation for worm emergen...</span><span class="citation-popover-meta">Published: April 15, 2019</span></span></span>
+Importantly, not every worm in the soil emerges, and the behaviour varies among species. The result is nevertheless dramatic enough that people unfamiliar with the biology may assume the worms have arrived with the rainfall itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.nature.org/2019/04/15/the-real-reason-you-see-earthworms-after-rain/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.nature.org">[Cool Green Science+2The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.nature.org</span><span class="citation-popover-snippet">Cool Green ScienceThe Real Reason You See Earthworms After RainApril 15, 2019 — 15 Apr 2019 — Another common explanation for worm emergen...</span><span class="citation-popover-meta">Published: April 15, 2019</span></span></span>
 
 These wet-weather migrations can be remarkably local. A neighbourhood that appeared empty an hour earlier may suddenly contain hundreds of frogs or worms simply because environmental conditions crossed the threshold that triggered movement.
 
@@ -329,7 +329,7 @@ Second, rainfall provides an obvious narrative link. If animals are first notice
 
 Third, sudden abundance is inherently surprising. Many amphibians spend most of the year hidden underground or beneath vegetation. Their synchronised emergence after favourable weather can make a familiar species appear unexpectedly exotic or mysterious.
 
-Historical reports often preserve only the [observation]({{ 'observation/' | relative_url }}) that animals were "found after heavy rain", while omitting whether anyone actually witnessed them falling. Later [retellings]({{ 'retellings/' | relative_url }}) may gradually transform a report of sudden appearance into a report of literal animal rain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/meteorology-climatology/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">The Library of CongressCan it rain frogs, fish, and other objects?What is unusual in reports of animal rainfalls is the uniformity of the...</span></span></span>
+Historical reports often preserve only the [observation]({{ 'observation/' | relative_url }}) that animals were "found after heavy rain", while omitting whether anyone actually witnessed them falling. Later [retellings]({{ 'retellings/' | relative_url }}) may gradually transform a report of sudden appearance into a report of literal animal rain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/meteorology-climatology/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">The Library of CongressCan it rain frogs, fish, and other objects?What is unusual in reports of animal rainfalls is the uniformity of the...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_animal_falls_explana_03e792_mistaken_animal_rain_8f8706-Illustration-2-dark.svg" | relative_url }}" alt="Not Falling illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_animal_falls_explana_03e792_mistaken_animal_rain_8f8706-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_animal_falls_explana_03e792_mistaken_animal_rain_8f8706-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -362,7 +362,7 @@ Evidence that would strengthen the case for an actual atmospheric fall includes:
 
 </div>
 
-Because most reports lack these stronger indicators, many remain better explained as sudden appearances caused by rain-driven ecological processes than as confirmed examples of animals transported through the atmosphere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/meteorology-climatology/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">The Library of CongressCan it rain frogs, fish, and other objects?What is unusual in reports of animal rainfalls is the uniformity of the...</span></span></span>
+Because most reports lack these stronger indicators, many remain better explained as sudden appearances caused by rain-driven ecological processes than as confirmed examples of animals transported through the atmosphere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/meteorology-climatology/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">The Library of CongressCan it rain frogs, fish, and other objects?What is unusual in reports of animal rainfalls is the uniformity of the...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XFbmWP9jteE" title="Were U Wondering: Why do worms come out on the sidewalks after it rains?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XFbmWP9jteE" target="_blank" rel="noopener noreferrer">Were U Wondering: Why do worms come out on the sidewalks after it rains?</a></p><p class="youtube-embed-meta">Channel: UW-Madison</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XFbmWP9jteE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XFbmWP9jteE">Open on YouTube</a></p></div></div></div>
@@ -371,200 +371,200 @@ Because most reports lack these stronger indicators, many remain better explaine
 
 Within Fortean studies, recognising flood-driven appearances prevents different phenomena from being merged into a single mystery. A witness who genuinely finds dozens of frogs after a storm has observed something unusual and worth documenting. The crucial question is not whether the frogs appeared unexpectedly—they clearly did—but how they reached that location.
 
-Separating horizontal movement from aerial transport improves the quality of case assessment. It directs attention towards local hydrology, drainage systems, breeding migrations and animal behaviour before invoking more dramatic mechanisms. In practice, many apparently extraordinary reports become understandable once recent flooding, saturated ground and seasonal animal movements are reconstructed alongside the weather. This does not explain every claimed animal fall, but it removes a substantial number of cases from the category of true "animal rain" without dismissing the witnesses' observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/meteorology-climatology/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">The Library of CongressCan it rain frogs, fish, and other objects?What is unusual in reports of animal rainfalls is the uniformity of the...</span></span></span>
+Separating horizontal movement from aerial transport improves the quality of case assessment. It directs attention towards local hydrology, drainage systems, breeding migrations and animal behaviour before invoking more dramatic mechanisms. In practice, many apparently extraordinary reports become understandable once recent flooding, saturated ground and seasonal animal movements are reconstructed alongside the weather. This does not explain every claimed animal fall, but it removes a substantial number of cases from the category of true "animal rain" without dismissing the witnesses' observations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/meteorology-climatology/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">The Library of CongressCan it rain frogs, fish, and other objects?What is unusual in reports of animal rainfalls is the uniformity of the...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_animal_falls_explana_03e792_mistaken_animal_rain_8f8706-Illustration-3-dark.svg" | relative_url }}" alt="Not Falling illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_animal_falls_explana_03e792_mistaken_animal_rain_8f8706-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_animal_falls_explana_03e792_mistaken_animal_rain_8f8706-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Animal Rain Did Not Fall. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Animal Rain Did Not Fall. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
-        </h4>
-        <p class="fr-book-author">By Charles Fort</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
+</h4>
+<p class="fr-book-author">By Charles Fort</p>
         
-        <p class="fr-book-desc">Classic collection of anomalous reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Classic collection of anomalous reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Explores why remarkable stories and beliefs persist across generations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Explores why remarkable stories and beliefs persist across generations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weather For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LtoPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Weather For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
-        </h4>
-        <p class="fr-book-author">By John D. Cox</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weather For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LtoPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Weather For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
+</h4>
+<p class="fr-book-author">By John D. Cox</p>
         
-        <p class="fr-book-desc">Explains flooding and storm processes behind apparent animal rain.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains flooding and storm processes behind apparent animal rain.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+think+about+weird+things+Theodore+Schick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to think about weird things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/527286-M.jpg" alt="Cover for How to think about weird things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+think+about+weird+things+Theodore+Schick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to think about weird things">How to think about weird things</a>
-        </h4>
-        <p class="fr-book-author">By Theodore Schick, Lewis Vaughn et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+think+about+weird+things+Theodore+Schick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to think about weird things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/527286-M.jpg" alt="Cover for How to think about weird things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+think+about+weird+things+Theodore+Schick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to think about weird things">How to think about weird things</a>
+</h4>
+<p class="fr-book-author">By Theodore Schick, Lewis Vaughn et al.</p>
         
-        <p class="fr-book-desc">First published 1994. Subjects: Critical thinking, Curiosities and wonders, Mind, body, spirit: disciplines &amp; techniques, Parapsychology,...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+think+about+weird+things+Theodore+Schick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1994. Subjects: Critical thinking, Curiosities and wonders, Mind, body, spirit: disciplines &amp; techniques, Parapsychology,...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+think+about+weird+things+Theodore+Schick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Weather+For+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weather For Dummies</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Weather+For+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weather For Dummies</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print Fish Man Human Rain Umbrella Weird Strange Funny Ironic Out Of Water"><img src="{{ '/assets/images/marketplace-covers/83ba5668697ac14b9dab.jpg' | relative_url }}" alt="Listing image for Art Print Fish Man Human Rain Umbrella Weird Strange Funny Ironic Out Of Water" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">Art Print Fish Man Human Rain Umbrella Weird Strange Funny Ironic Out Of Water</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print Fish Man Human Rain Umbrella Weird Strange Funny Ironic Out Of Water"><img src="{{ '/assets/images/marketplace-covers/83ba5668697ac14b9dab.jpg' | relative_url }}" alt="Listing image for Art Print Fish Man Human Rain Umbrella Weird Strange Funny Ironic Out Of Water" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">Art Print Fish Man Human Rain Umbrella Weird Strange Funny Ironic Out Of Water</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Man Monochrome Rain Rainy Cloudy Walk Walking Behind Back Fish Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/27ff5433e18ed337d089.jpg' | relative_url }}" alt="Listing image for Man Monochrome Rain Rainy Cloudy Walk Walking Behind Back Fish Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">Man Monochrome Rain Rainy Cloudy Walk Walking Behind Back Fish Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Man Monochrome Rain Rainy Cloudy Walk Walking Behind Back Fish Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/27ff5433e18ed337d089.jpg' | relative_url }}" alt="Listing image for Man Monochrome Rain Rainy Cloudy Walk Walking Behind Back Fish Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">Man Monochrome Rain Rainy Cloudy Walk Walking Behind Back Fish Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print"><img src="{{ '/assets/images/marketplace-covers/c7769be80584af0e631f.jpg' | relative_url }}" alt="Listing image for Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print"><img src="{{ '/assets/images/marketplace-covers/c7769be80584af0e631f.jpg' | relative_url }}" alt="Listing image for Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for After The Rain Fjord Sea Boat Fishing Finnmark Norway Green Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/61d368165882a17db39e.jpg' | relative_url }}" alt="Listing image for After The Rain Fjord Sea Boat Fishing Finnmark Norway Green Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">After The Rain Fjord Sea Boat Fishing Finnmark Norway Green Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for After The Rain Fjord Sea Boat Fishing Finnmark Norway Green Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/61d368165882a17db39e.jpg' | relative_url }}" alt="Listing image for After The Rain Fjord Sea Boat Fishing Finnmark Norway Green Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">After The Rain Fjord Sea Boat Fishing Finnmark Norway Green Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="not-falling-when-animal-rain-did-not-fall-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -580,7 +580,7 @@ Separating horizontal movement from aerial transport improves the quality of cas
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -600,7 +600,7 @@ Separating horizontal movement from aerial transport improves the quality of cas
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -632,7 +632,7 @@ Separating horizontal movement from aerial transport improves the quality of cas
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -684,7 +684,7 @@ Separating horizontal movement from aerial transport improves the quality of cas
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -729,7 +729,7 @@ Separating horizontal movement from aerial transport improves the quality of cas
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -770,90 +770,90 @@ Separating horizontal movement from aerial transport improves the quality of cas
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Rain of animals  
-   Link: <a href="https://en.wikipedia.org/wiki/Rain_of_animals" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rain_of_animals</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rain of animalsRain of flightless animals and things has been reported throughout history. In the Bible, a rain of frogs is described...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Rain_of_animals" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rain_of_animals</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rain of animalsRain of flightless animals and things has been reported throughout history. In the Bible, a rain of frogs is described...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Big Night (amphibians)  
-   Link: <a href="https://en.wikipedia.org/wiki/Big_Night_%28amphibians%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Big_Night_%28amphibians%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Big_Night_%28amphibians%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Big_Night_%28amphibians%29</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: loc.gov  
-   Link: <a href="https://www.loc.gov/everyday-mysteries/meteorology-climatology/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/everyday-mysteries/meteorology-climatology/item/can-it-rain-frogs-fish-and-other-objects/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Library of CongressCan it rain frogs, fish, and other objects?What is unusual in reports of animal rainfalls is the uniformity of the...</p></details>
+   Link:<a href="https://www.loc.gov/everyday-mysteries/meteorology-climatology/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/everyday-mysteries/meteorology-climatology/item/can-it-rain-frogs-fish-and-other-objects/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Library of CongressCan it rain frogs, fish, and other objects?What is unusual in reports of animal rainfalls is the uniformity of the...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: dec.ny.gov  
    Title: Department of Environmental Conservation Amphibian Migrations And Road Crossings  
-   Link: <a href="https://dec.ny.gov/nature/waterbodies/oceans-estuaries/hudson-river-estuary-program/conservation-and-land-use-program/amphibian-migrations-and-road-crossings" target="_blank" rel="noopener noreferrer nofollow">https://dec.ny.gov/nature/waterbodies/oceans-estuaries/hudson-river-estuary-program/conservation-and-land-use-program/amphibian-migrations-and-road-crossings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Environmental ConservationAmphibian Migrations And Road Crossings - NYSDECThe Amphibian Migrations and Road Crossings (AM&amp;R...</p></details>
+   Link:<a href="https://dec.ny.gov/nature/waterbodies/oceans-estuaries/hudson-river-estuary-program/conservation-and-land-use-program/amphibian-migrations-and-road-crossings" target="_blank" rel="noopener noreferrer nofollow">https://dec.ny.gov/nature/waterbodies/oceans-estuaries/hudson-river-estuary-program/conservation-and-land-use-program/amphibian-migrations-and-road-crossings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Environmental ConservationAmphibian Migrations And Road Crossings - NYSDECThe Amphibian Migrations and Road Crossings (AM&amp;R...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: blog.nature.org  
-   Link: <a href="https://blog.nature.org/2019/04/15/the-real-reason-you-see-earthworms-after-rain/" target="_blank" rel="noopener noreferrer nofollow">https://blog.nature.org/2019/04/15/the-real-reason-you-see-earthworms-after-rain/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cool Green ScienceThe Real Reason You See Earthworms After RainApril 15, 2019 — 15 Apr 2019 — Another common explanation for worm emergen...</p></details>
+   Link:<a href="https://blog.nature.org/2019/04/15/the-real-reason-you-see-earthworms-after-rain/" target="_blank" rel="noopener noreferrer nofollow">https://blog.nature.org/2019/04/15/the-real-reason-you-see-earthworms-after-rain/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cool Green ScienceThe Real Reason You See Earthworms After RainApril 15, 2019 — 15 Apr 2019 — Another common explanation for worm emergen...</p></details>
    Published: April 15, 2019  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: thetimes.co.uk  
-   Link: <a href="https://www.thetimes.co.uk/article/why-earthworms-come-to-the-surface-when-it-rains-rgmb9plpb" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/why-earthworms-come-to-the-surface-when-it-rains-rgmb9plpb</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Earthworms absorb oxygen through their moist skin and can survive in waterlogged soil for weeks if there is enough oxygen. Although some...</p></details>
+   Link:<a href="https://www.thetimes.co.uk/article/why-earthworms-come-to-the-surface-when-it-rains-rgmb9plpb" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/why-earthworms-come-to-the-surface-when-it-rains-rgmb9plpb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Earthworms absorb oxygen through their moist skin and can survive in waterlogged soil for weeks if there is enough oxygen. Although some...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100090673943205/posts/the-first-warm-rainy-night-triggers-mass-amphibian-movementfrogs-toads-and-salam/892937220405401/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100090673943205/posts/the-first-warm-rainy-night-triggers-mass-amphibian-movementfrogs-toads-and-salam/892937220405401/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>to wetlands where they reproduce, mostly in “vernal” (...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/100090673943205/posts/the-first-warm-rainy-night-triggers-mass-amphibian-movementfrogs-toads-and-salam/892937220405401/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100090673943205/posts/the-first-warm-rainy-night-triggers-mass-amphibian-movementfrogs-toads-and-salam/892937220405401/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to wetlands where they reproduce, mostly in “vernal” (...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/17140641/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/17140641/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of a changed inundation regime caused by climate...by I Thonon · 2007 · Cited by 31 — The present paper estimates the influence of clima...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/17140641/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/17140641/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of a changed inundation regime caused by climate...by I Thonon · 2007 · Cited by 31 — The present paper estimates the influence of clima...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/17774866/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/17774866/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Science. 1894 Feb 2;23(574):65. doi: 10.1126/science.ns-23.574.65-a. Author. F H James. PMID: 17774866; DOI: 10.1126/science.ns-23.574...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/17774866/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/17774866/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science. 1894 Feb 2;23(574):65. doi: 10.1126/science.ns-23.574.65-a. Author. F H James. PMID: 17774866; DOI: 10.1126/science.ns-23.574...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: almanac.com  
    Title: Why Does It Rain Frogs, Worms, and Bugs?  
-   Link: <a href="https://www.almanac.com/can-it-rain-frogs-and-spiders" target="_blank" rel="noopener noreferrer nofollow">https://www.almanac.com/can-it-rain-frogs-and-spiders</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science...10 Apr 2026 — The most common explanation is that updrafts, particularly “watery” tornadoes, aka [waterspouts](&amp;#123;&amp;#123; &#x27;waterspouts/&#x27; | relative_url &amp;#125;&amp;#125;), suck the cri...</p></details>
+   Link:<a href="https://www.almanac.com/can-it-rain-frogs-and-spiders" target="_blank" rel="noopener noreferrer nofollow">https://www.almanac.com/can-it-rain-frogs-and-spiders</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Science...10 Apr 2026 — The most common explanation is that updrafts, particularly “watery” tornadoes, aka [waterspouts](&amp;#123;&amp;#123; &#x27;waterspouts/&#x27; | relative_url &amp;#125;&amp;#125;), suck the cri...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: leeds.ac.uk  
    Title: can earthworms adapt to climate change  
-   Link: <a href="https://www.leeds.ac.uk/news-environment/news/article/5666/can-earthworms-adapt-to-climate-change" target="_blank" rel="noopener noreferrer nofollow">https://www.leeds.ac.uk/news-environment/news/article/5666/can-earthworms-adapt-to-climate-change</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>University of LeedsCan earthworms adapt to climate change?18 Oct 2024 — Researchers are to investigate whether the humble earthworm is be...</p></details>
+   Link:<a href="https://www.leeds.ac.uk/news-environment/news/article/5666/can-earthworms-adapt-to-climate-change" target="_blank" rel="noopener noreferrer nofollow">https://www.leeds.ac.uk/news-environment/news/article/5666/can-earthworms-adapt-to-climate-change</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of LeedsCan earthworms adapt to climate change?18 Oct 2024 — Researchers are to investigate whether the humble earthworm is be...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: northernwoodlands.org  
    Title: Why Did the Frog Cross the Road?  
-   Link: <a href="https://northernwoodlands.org/outside_story/article/amphibians-big-night" target="_blank" rel="noopener noreferrer nofollow">https://northernwoodlands.org/outside_story/article/amphibians-big-night</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by Julia Janson7 Apr 2026 — As the frogs dig their way out of the dirt and take in the nighttime air, the high moisture content also trig...</p></details>
+   Link:<a href="https://northernwoodlands.org/outside_story/article/amphibians-big-night" target="_blank" rel="noopener noreferrer nofollow">https://northernwoodlands.org/outside_story/article/amphibians-big-night</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by Julia Janson7 Apr 2026 — As the frogs dig their way out of the dirt and take in the nighttime air, the high moisture content also trig...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/TheEntomologyGroup/posts/10154921543158393/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/TheEntomologyGroup/posts/10154921543158393/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s, because of exposure to UV light.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/TheEntomologyGroup/posts/10154921543158393/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/TheEntomologyGroup/posts/10154921543158393/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s, because of exposure to UV light.Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=XFbmWP9jteE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XFbmWP9jteE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>oretum, explains why earthworms dig out of the soil when it...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=XFbmWP9jteE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XFbmWP9jteE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>oretum, explains why earthworms dig out of the soil when it...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=16xhpv13DsM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=16xhpv13DsM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>d fish. They&#x27;re not new. Homer, Pliny the Elder...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=16xhpv13DsM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=16xhpv13DsM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>d fish. They&#x27;re not new. Homer, Pliny the Elder...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AccuWeather/posts/do-you-ever-notice-worms-all-over-the-pavement-after-it-rains-%EF%B8%8F-heres-why/1341133741204602/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AccuWeather/posts/do-you-ever-notice-worms-all-over-the-pavement-after-it-rains-%EF%B8%8F-heres-why/1341133741204602/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Do you ever notice worms all over the pavement after it...Earthworms find it easier to travel across the surface of the soil when it is...</p></details>
+   Link:<a href="https://www.facebook.com/AccuWeather/posts/do-you-ever-notice-worms-all-over-the-pavement-after-it-rains-%EF%B8%8F-heres-why/1341133741204602/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AccuWeather/posts/do-you-ever-notice-worms-all-over-the-pavement-after-it-rains-%EF%B8%8F-heres-why/1341133741204602/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Do you ever notice worms all over the pavement after it...Earthworms find it easier to travel across the surface of the soil when it is...</p></details>

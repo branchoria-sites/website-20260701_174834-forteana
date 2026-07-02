@@ -457,7 +457,7 @@ The central issue is not whether every miracle report is fraud or every believer
 
 A miracle claim usually contains two layers. The first is the reported event: a tumour disappears, a paralysed person walks, a liquid appears on a statue, an image seems to move, a person reports a vision, or a prayer is followed by an unexpected recovery. The second is the interpretation: the event is taken to show divine action, saintly intercession, a sacred warning, or the truth of a devotional message.
 
-That distinction matters because many disputes arise when the two layers are blurred. A doctor may be willing to say that a cure is “medically unexplained” according to available knowledge, while a bishop, pilgrim or family may call the same cure a miracle. At Lourdes, for example, the official medical process is designed to examine whether a reported healing is medically credible and unexplained, but the religious judgement that a cure is miraculous belongs to Church authority rather than to the medical assessors themselves. The Sanctuary of Lourdes says its medical bureau was established in 1883 so that claimed cures would undergo “rigorous and collegiate medical assessment”, not simply leave the shrine as unexamined stories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lourdes-france.org/en/medical-bureau-sanctuary/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lourdes-france.org">[Lourdes France]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lourdes-france.org</span><span class="citation-popover-title">Lourdes France The Medical Bureau of the Sanctuary</span><span class="citation-popover-snippet">Lourdes FranceThe Medical Bureau of the Sanctuary - Lourdes-France.OrgDr Georges-Fernand Dunot de Saint-Maclou established the Bureau des...</span></span></span>
+That distinction matters because many disputes arise when the two layers are blurred. A doctor may be willing to say that a cure is “medically unexplained” according to available knowledge, while a bishop, pilgrim or family may call the same cure a miracle. At Lourdes, for example, the official medical process is designed to examine whether a reported healing is medically credible and unexplained, but the religious judgement that a cure is miraculous belongs to Church authority rather than to the medical assessors themselves. The Sanctuary of Lourdes says its medical bureau was established in 1883 so that claimed cures would undergo “rigorous and collegiate medical assessment”, not simply leave the shrine as unexamined stories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lourdes-france.org/en/medical-bureau-sanctuary/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lourdes-france.org">[Lourdes France]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lourdes-france.org</span><span class="citation-popover-title">Lourdes France The Medical Bureau of the Sanctuary</span><span class="citation-popover-snippet">Lourdes FranceThe Medical Bureau of the Sanctuary - Lourdes-France.OrgDr Georges-Fernand Dunot de Saint-Maclou established the Bureau des...</span></span></span>
 
 This makes miracle claims different from many other Fortean reports. A cryptid sighting may fade into [folklore]({{ 'folklore/' | relative_url }}) if no photograph or specimen appears. A miracle claim can become part of worship, pilgrimage, fundraising, canonisation, local identity and ecclesiastical authority. The event is not only assessed for factual accuracy; it is also placed inside a moral and devotional system. That is why miracle investigations often ask two questions at once: “What happened?” and “What should the faithful be allowed or encouraged to do with this story?”
 
@@ -465,9 +465,9 @@ This makes miracle claims different from many other Fortean reports. A cryptid s
 
 Miracle reports often begin with testimony. A person says they were healed, a group says they saw a statue weep, or a family says a dying relative recovered after invoking a saint. Testimony is not worthless. Courts, medicine, history and journalism all rely on human reports. But miracle testimony carries extra pressure because the claimed event is usually rare, emotionally charged and surrounded by expectation.
 
-The classic philosophical problem was sharpened by David Hume, who argued that testimony for a miracle must be weighed against the ordinary [experience]({{ 'experience/' | relative_url }}) that nature behaves regularly. The Stanford Encyclopedia of Philosophy summarises the debate as a question about whether testimony can ever be strong enough to justify belief in an event that appears to conflict with established regularities. Later philosophers have disputed Hume’s exact argument, but the practical problem remains: the rarer the claimed event, the more carefully testimony must be checked against error, exaggeration, coincidence, misdiagnosis and fraud. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://plato.stanford.edu/entries/miracles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyMiracles - Stanford Encyclopedia of Philosophyby T McGrew · 2010 · Cited by 83 — The argument for a mi...</span></span></span>
+The classic philosophical problem was sharpened by David Hume, who argued that testimony for a miracle must be weighed against the ordinary [experience]({{ 'experience/' | relative_url }}) that nature behaves regularly. The Stanford Encyclopedia of Philosophy summarises the debate as a question about whether testimony can ever be strong enough to justify belief in an event that appears to conflict with established regularities. Later philosophers have disputed Hume’s exact argument, but the practical problem remains: the rarer the claimed event, the more carefully testimony must be checked against error, exaggeration, coincidence, misdiagnosis and fraud.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://plato.stanford.edu/entries/miracles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyMiracles - Stanford Encyclopedia of Philosophyby T McGrew · 2010 · Cited by 83 — The argument for a mi...</span></span></span>
 
-Modern [psychology]({{ 'psychology/' | relative_url }}) adds a less dramatic but important point. Eyewitness memory is not a perfect recording device. General reviews of eyewitness testimony note that people can misremember details, absorb suggestions, and reconstruct events in ways that feel sincere but are inaccurate. That does not mean miracle witnesses are lying. It means that [sincerity]({{ 'sincerity/' | relative_url }}) and accuracy are not the same thing, especially when an event is interpreted in a religious setting where expectation, fear, hope and group attention are intense. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ecampusontario.pressbooks.pub/psyc100fw2021-draft/chapter/eyewitness-testimony-and-memory-biases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecampusontario.pressbooks.pub">[eCampusOntario Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecampusontario.pressbooks.pub</span><span class="citation-popover-snippet">Eyewitness Testimony and Memory Biases – PSYC 100Eyewitnesses can provide very compelling legal testimony, but r...</span></span></span>
+Modern [psychology]({{ 'psychology/' | relative_url }}) adds a less dramatic but important point. Eyewitness memory is not a perfect recording device. General reviews of eyewitness testimony note that people can misremember details, absorb suggestions, and reconstruct events in ways that feel sincere but are inaccurate. That does not mean miracle witnesses are lying. It means that [sincerity]({{ 'sincerity/' | relative_url }}) and accuracy are not the same thing, especially when an event is interpreted in a religious setting where expectation, fear, hope and group attention are intense.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ecampusontario.pressbooks.pub/psyc100fw2021-draft/chapter/eyewitness-testimony-and-memory-biases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecampusontario.pressbooks.pub">[eCampusOntario Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecampusontario.pressbooks.pub</span><span class="citation-popover-snippet">Eyewitness Testimony and Memory Biases – PSYC 100Eyewitnesses can provide very compelling legal testimony, but r...</span></span></span>
 
 For a Fortean reading, the most useful questions are concrete:
 
@@ -490,11 +490,11 @@ A miracle claim becomes stronger when testimony is early, independent, consisten
 
 Healing claims are among the most persistent miracle reports because they involve high human stakes. A person is gravely ill, medical treatment seems insufficient, prayer or pilgrimage occurs, and the person recovers in a way that feels impossible to those involved. These stories are emotionally powerful because they are not abstract anomalies; they concern fear, pain, gratitude and survival.
 
-Lourdes is the most important modern case because it has built an unusually formal boundary between devotion and medical review. A 2012 academic re-examination of Lourdes cures notes that hundreds of cures were historically reported and that the medical credibility of older cases depends heavily on retrospective diagnosis, record quality and changing standards of evidence. The authors argue that some religious healing experiences may be better approached with modern medical and neuropsychiatric methods rather than treated simply as either supernatural proof or nonsense. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3854941/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Lourdes Medical Cures Revisited - PMC - NIHby B François · 2012 · Cited by 53 — In this study, we reexamine the Lourdes cures usin...</span></span></span>
+Lourdes is the most important modern case because it has built an unusually formal boundary between devotion and medical review. A 2012 academic re-examination of Lourdes cures notes that hundreds of cures were historically reported and that the medical credibility of older cases depends heavily on retrospective diagnosis, record quality and changing standards of evidence. The authors argue that some religious healing experiences may be better approached with modern medical and neuropsychiatric methods rather than treated simply as either supernatural proof or nonsense.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3854941/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Lourdes Medical Cures Revisited - PMC - NIHby B François · 2012 · Cited by 53 — In this study, we reexamine the Lourdes cures usin...</span></span></span>
 
-The criteria used in Lourdes-style assessment show why the process is strict. A cure must be tied to a serious and verified diagnosis, be unexpected, rapid, complete and lasting, and lack an adequate explanation according to current medical knowledge. The Catholic Medical Quarterly’s account of the Lourdes Medical Bureau describes the core questions as whether the person was truly sick, whether the person is truly cured, and whether a possible explanation exists. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cmq.org.uk/CMQ/2018/May/medical_bureau_at_lourdes.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cmq.org.uk">[cmq.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cmq.org.uk</span><span class="citation-popover-snippet">ording to current medical knowledge ». The...Read more...</span></span></span>
+The criteria used in Lourdes-style assessment show why the process is strict. A cure must be tied to a serious and verified diagnosis, be unexpected, rapid, complete and lasting, and lack an adequate explanation according to current medical knowledge. The Catholic Medical Quarterly’s account of the Lourdes Medical Bureau describes the core questions as whether the person was truly sick, whether the person is truly cured, and whether a possible explanation exists.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cmq.org.uk/CMQ/2018/May/medical_bureau_at_lourdes.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cmq.org.uk">[cmq.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cmq.org.uk</span><span class="citation-popover-snippet">ording to current medical knowledge ». The...Read more...</span></span></span>
 
-The sceptical counterpoint is not that all such recoveries are imaginary. It is that “unexplained” is not the same as “inexplicable in principle”. Medicine contains rare recoveries, diagnostic uncertainty, variable disease courses, immune effects, treatment interactions and incomplete records. Spontaneous remission of cancer, for instance, is rare but documented in medical literature, and researchers continue to study possible mechanisms rather than treating every unexpected regression as a supernatural event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8271173/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe spontaneous remission of cancer: Current insights</span><span class="citation-popover-snippet">PMCThe spontaneous remission of cancer: Current insights</span></span></span>
+The sceptical counterpoint is not that all such recoveries are imaginary. It is that “unexplained” is not the same as “inexplicable in principle”. Medicine contains rare recoveries, diagnostic uncertainty, variable disease courses, immune effects, treatment interactions and incomplete records. Spontaneous remission of cancer, for instance, is rare but documented in medical literature, and researchers continue to study possible mechanisms rather than treating every unexpected regression as a supernatural event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8271173/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe spontaneous remission of cancer: Current insights</span><span class="citation-popover-snippet">PMCThe spontaneous remission of cancer: Current insights</span></span></span>
 
 This creates a genuine grey zone. A believer may see timing, prayer and personal transformation as religiously decisive. A clinician may see an unusual but medically open case. A sceptic may ask whether the original diagnosis was secure, whether treatments were still active, whether remission is known in that disease, and whether the recovery was really permanent. The same case can therefore be meaningful as testimony while remaining insufficient as public proof.
 
@@ -502,11 +502,11 @@ This creates a genuine grey zone. A believer may see timing, prayer and personal
 
 Miracle claims become socially powerful when institutions decide how to handle them. The Catholic Church is the clearest example because it has developed formal processes for [apparitions]({{ 'apparitions/' | relative_url }}), healings and canonisation miracles. These processes do not simply ask whether something strange happened. They manage risk: false devotion, manipulation, financial exploitation, theological error, reputational damage and harm to vulnerable people.
 
-In 2024, the Vatican’s Dicastery for the Doctrine of the Faith issued new norms for alleged supernatural phenomena. The rules state that discernment should normally avoid declaring that an event is supernatural, while allowing Church authorities to authorise devotion when there is no doctrinal or moral problem. Vatican News summarised the shift bluntly: as a rule, neither the local bishop nor the Holy See will declare such phenomena supernatural, but may permit devotion and pilgrimages. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240517_norme-fenomeni-soprannaturali_en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vatican.va">[Vatican]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vatican.va</span><span class="citation-popover-title">rc ddf doc 20240517 norme fenomeni soprannaturali en</span><span class="citation-popover-snippet">rc ddf doc 20240517 norme fenomeni soprannaturali en</span></span></span>
+In 2024, the Vatican’s Dicastery for the Doctrine of the Faith issued new norms for alleged supernatural phenomena. The rules state that discernment should normally avoid declaring that an event is supernatural, while allowing Church authorities to authorise devotion when there is no doctrinal or moral problem. Vatican News summarised the shift bluntly: as a rule, neither the local bishop nor the Holy See will declare such phenomena supernatural, but may permit devotion and pilgrimages.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240517_norme-fenomeni-soprannaturali_en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vatican.va">[Vatican]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vatican.va</span><span class="citation-popover-title">rc ddf doc 20240517 norme fenomeni soprannaturali en</span><span class="citation-popover-snippet">rc ddf doc 20240517 norme fenomeni soprannaturali en</span></span></span>
 
-That is a major governance intervention. It recognises that a claim can have pastoral value without being certified as a miracle. It also reflects the speed at which modern claims spread. The Associated Press reported that the new norms were intended partly to respond to the internet’s role in amplifying visions, weeping statues and similar claims, and to protect believers from hoaxes, abuse and exploitation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/f9b5659e2947e7eb966db2e491e17267" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Open source on apnews.com.</span></span></span>
+That is a major governance intervention. It recognises that a claim can have pastoral value without being certified as a miracle. It also reflects the speed at which modern claims spread. The Associated Press reported that the new norms were intended partly to respond to the internet’s role in amplifying visions, weeping statues and similar claims, and to protect believers from hoaxes, abuse and exploitation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/f9b5659e2947e7eb966db2e491e17267" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Open source on apnews.com.</span></span></span>
 
-Canonisation miracles are handled through a different Vatican process, but the same tension appears. Reuters’ guide to saint-making explains that a non-martyr generally requires a medically inexplicable healing for beatification and a second distinct miracle for canonisation; a Vatican-appointed medical commission assesses whether there is a medical explanation before theologians and Church authorities consider intercession and meaning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/brief-guide-catholic-churchs-saint-making-process-2025-04-15/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">A brief guide to the Catholic Church&#x27;s saint-making process</span><span class="citation-popover-snippet">A brief guide to the Catholic Church&#x27;s saint-making process</span></span></span>
+Canonisation miracles are handled through a different Vatican process, but the same tension appears. Reuters’ guide to saint-making explains that a non-martyr generally requires a medically inexplicable healing for beatification and a second distinct miracle for canonisation; a Vatican-appointed medical commission assesses whether there is a medical explanation before theologians and Church authorities consider intercession and meaning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/brief-guide-catholic-churchs-saint-making-process-2025-04-15/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">A brief guide to the Catholic Church&#x27;s saint-making process</span><span class="citation-popover-snippet">A brief guide to the Catholic Church&#x27;s saint-making process</span></span></span>
 
 This institutional machinery makes miracle claims more complex than ordinary strange stories. A reported healing may be personally convincing to a family long before it is acceptable to a medical board. A shrine may attract pilgrims before a bishop has ruled. A saint’s cause may require documentation that poorer communities cannot easily provide. A case may be spiritually important and yet never receive formal recognition.
 
@@ -517,9 +517,9 @@ This institutional machinery makes miracle claims more complex than ordinary str
 
 Weeping statues are useful Fortean cases because they compress the whole problem into a visible object. The claim appears simple: a statue produces tears, blood, oil or scented liquid. But the possible explanations multiply quickly: condensation, porous material, hidden channels, applied substances, environmental effects, pious fraud, deliberate fraud, mistaken observation, or a genuinely unexplained physical event.
 
-Recent Italian cases show why institutions have become cautious. In Civitavecchia, a Virgin Mary statue was reported to have wept blood in the 1990s; later attention returned when another statue associated with the same family was said to exude scented oil. The Guardian reported that earlier testing found male human blood, while male family members declined DNA tests; sceptical investigator Luigi Garlaschelli noted that other cases he examined had turned out to involve leaking pipes, melted glue or identifiable human blood. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/article/2024/jun/08/italian-home-weeping-statue-virgin-mary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+Recent Italian cases show why institutions have become cautious. In Civitavecchia, a Virgin Mary statue was reported to have wept blood in the 1990s; later attention returned when another statue associated with the same family was said to exude scented oil. The Guardian reported that earlier testing found male human blood, while male family members declined DNA tests; sceptical investigator Luigi Garlaschelli noted that other cases he examined had turned out to involve leaking pipes, melted glue or identifiable human blood.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/article/2024/jun/08/italian-home-weeping-statue-virgin-mary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
-The Trevignano Romano case shows the financial and legal stakes. A self-styled mystic, Gisella Cardia, drew pilgrims with claims of apparitions and a Virgin Mary statue weeping blood. The local Church rejected the claims, prosecutors investigated alleged fraud, and later reporting said DNA testing linked blood on the statue to Cardia herself. Her lawyer disputed what that meant, but the case illustrates why “miracle” claims are not only theological matters: they can involve donations, public trust, local conflict and criminal investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2025/feb/14/italian-mystic-may-face-trial-after-dna-match-with-bleeding-virgin-mary-statue" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+The Trevignano Romano case shows the financial and legal stakes. A self-styled mystic, Gisella Cardia, drew pilgrims with claims of apparitions and a Virgin Mary statue weeping blood. The local Church rejected the claims, prosecutors investigated alleged fraud, and later reporting said DNA testing linked blood on the statue to Cardia herself. Her lawyer disputed what that meant, but the case illustrates why “miracle” claims are not only theological matters: they can involve donations, public trust, local conflict and criminal investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2025/feb/14/italian-mystic-may-face-trial-after-dna-match-with-bleeding-virgin-mary-statue" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
 A sceptical explanation does not need to prove that every weeping statue is faked. It only needs to show that the class of claims has known ordinary mechanisms and recurring incentives. Liquids can be applied externally, seep through porous material, condense on cooler surfaces, or be introduced through tiny defects. Once a statue is placed behind glass, becomes a pilgrimage focus, or is surrounded by devotional expectation, later investigation may be too limited to reconstruct the first event.
 
@@ -531,7 +531,7 @@ One reason miracle debates become confused is that believers and sceptics often 
 
 Public proof works differently. It asks whether the event can persuade people who do not already share the religious framework. That requires accessible records, independent assessment and careful exclusion of ordinary causes. A claim may be spiritually meaningful while failing as public evidence. Conversely, a cure may be medically unexplained while still not establishing a specific theological interpretation.
 
-The Vatican’s newer approach reflects this distinction. A “nihil obstat” judgement can permit devotion without requiring believers to accept a supernatural declaration. That separates pastoral permission from proof. It allows a shrine, apparition tradition or healing story to be treated as potentially fruitful for faith while avoiding the stronger claim that the Church has established supernatural origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240517_norme-fenomeni-soprannaturali_en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vatican.va">[Vatican]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vatican.va</span><span class="citation-popover-title">rc ddf doc 20240517 norme fenomeni soprannaturali en</span><span class="citation-popover-snippet">rc ddf doc 20240517 norme fenomeni soprannaturali en</span></span></span>
+The Vatican’s newer approach reflects this distinction. A “nihil obstat” judgement can permit devotion without requiring believers to accept a supernatural declaration. That separates pastoral permission from proof. It allows a shrine, apparition tradition or healing story to be treated as potentially fruitful for faith while avoiding the stronger claim that the Church has established supernatural origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240517_norme-fenomeni-soprannaturali_en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vatican.va">[Vatican]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vatican.va</span><span class="citation-popover-title">rc ddf doc 20240517 norme fenomeni soprannaturali en</span><span class="citation-popover-snippet">rc ddf doc 20240517 norme fenomeni soprannaturali en</span></span></span>
 
 This is also why the word “miracle” can mislead in medical contexts. When doctors say a case is unexplained, they are marking the limits of current evidence. When a religious authority says a miracle has occurred, it is making a theological judgement about divine action. When a newspaper calls something a miracle, it may mean only “astonishing”. A careful reader has to ask which sense is being used.
 
@@ -543,7 +543,7 @@ The best sceptical accounts of miracle claims do not rely on one universal debun
 
 **Medical uncertainty** is central in healing claims. A diagnosis may have been wrong, incomplete or based on older standards. A disease may have an unusual course. Treatment may have worked later than expected. Rare spontaneous remission may occur. The recovery may be real while the miracle interpretation remains unproven.
 
-**Psychological and social expectation** can shape perception and memory. In crowds, pilgrimages and charismatic settings, people may experience intense bodily sensations, relief, suggestion or reinterpretation of symptoms. Placebo research shows that expectations and context can affect reported symptoms and some measurable outcomes, although this does not mean belief can cure all disease or explain every claimed recovery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/40028813/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+**Psychological and social expectation** can shape perception and memory. In crowds, pilgrimages and charismatic settings, people may experience intense bodily sensations, relief, suggestion or reinterpretation of symptoms. Placebo research shows that expectations and context can affect reported symptoms and some measurable outcomes, although this does not mean belief can cure all disease or explain every claimed recovery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/40028813/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
 **Material mechanisms** matter for objects. Weeping icons, bleeding statues and scented oils require physical examination: what is the object made of, who touched it, where did the liquid originate, and could environmental conditions explain it? Cases involving blood or oil are especially dependent on forensic testing and chain of custody.
 
@@ -583,194 +583,194 @@ The most useful conclusion is not that miracles are impossible, nor that every u
 <img src="{{ "/assets/images/forteana_50bdc8_miracle_claims_expla_5c0e6a-Illustration-3-dark.svg" | relative_url }}" alt="Miracles illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_miracle_claims_expla_5c0e6a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_miracle_claims_expla_5c0e6a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Should Miracle Claims Be Read?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Should Miracle Claims Be Read?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Offers a framework for assessing extraordinary miracle claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers a framework for assessing extraordinary miracle claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Provides psychological and evidential tools relevant to miracle reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides psychological and evidential tools relevant to miracle reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Explores why remarkable stories and beliefs persist across generations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Explores why remarkable stories and beliefs persist across generations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Miracles+C.+S.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Miracles on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9184514-M.jpg" alt="Cover for Miracles" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Miracles+C.+S.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Miracles">Miracles</a>
-        </h4>
-        <p class="fr-book-author">By C. S. Lewis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Miracles+C.+S.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Miracles on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9184514-M.jpg" alt="Cover for Miracles" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Miracles+C.+S.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Miracles">Miracles</a>
+</h4>
+<p class="fr-book-author">By C. S. Lewis</p>
         
-        <p class="fr-book-desc">First published 1947. Subjects: Miracles, Nonfiction, Religion &amp; Spirituality, Christianity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Miracles+C.+S.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1947. Subjects: Miracles, Nonfiction, Religion &amp; Spirituality, Christianity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Miracles+C.+S.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle poster" data-ebay-reference="miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nines &#x27;Crop Circle 3&#x27; Album Poster Wall Art Tracklist Print"><img src="{{ '/assets/images/marketplace-covers/8e53eb6a86e9af8fbe12.jpg' | relative_url }}" alt="Listing image for Nines &#x27;Crop Circle 3&#x27; Album Poster Wall Art Tracklist Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle poster" data-ebay-reference="miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster" target="_blank" rel="sponsored noopener noreferrer">Nines &#x27;Crop Circle 3&#x27; Album Poster Wall Art Tracklist Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle poster" data-ebay-reference="miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for crop circle poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: crop circle poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle poster" data-ebay-reference="miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle poster" data-ebay-reference="miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nines &#x27;Crop Circle 3&#x27; Album Poster Wall Art Tracklist Print"><img src="{{ '/assets/images/marketplace-covers/8e53eb6a86e9af8fbe12.jpg' | relative_url }}" alt="Listing image for Nines &#x27;Crop Circle 3&#x27; Album Poster Wall Art Tracklist Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle poster" data-ebay-reference="miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster" target="_blank" rel="sponsored noopener noreferrer">Nines &#x27;Crop Circle 3&#x27; Album Poster Wall Art Tracklist Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle poster" data-ebay-reference="miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for crop circle poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: crop circle poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle poster" data-ebay-reference="miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle poster" data-ebay-reference="miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Crop Circle Poster Prints, classic patterns and sacred geometry from 1997 - 2004"><img src="{{ '/assets/images/marketplace-covers/3cff836b4dedfd86fdf0.jpg' | relative_url }}" alt="Listing image for Crop Circle Poster Prints, classic patterns and sacred geometry from 1997 - 2004" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle poster" data-ebay-reference="miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster" target="_blank" rel="sponsored noopener noreferrer">Crop Circle Poster Prints, classic patterns and sacred geometry from 1997 - 2004</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle poster" data-ebay-reference="miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for crop circle poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: crop circle poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle poster" data-ebay-reference="miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle poster" data-ebay-reference="miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Crop Circle Poster Prints, classic patterns and sacred geometry from"><img src="{{ '/assets/images/marketplace-covers/3cff836b4dedfd86fdf0.jpg' | relative_url }}" alt="Listing image for Crop Circle Poster Prints, classic patterns and sacred geometry from" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle poster" data-ebay-reference="miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster" target="_blank" rel="sponsored noopener noreferrer">Crop Circle Poster Prints, classic patterns and sacred geometry from</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle poster" data-ebay-reference="miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for crop circle poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: crop circle poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle poster" data-ebay-reference="miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle poster" data-ebay-reference="miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Crop Circle 1 Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4780e0570388218a9360.jpg' | relative_url }}" alt="Listing image for Crop Circle 1 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle poster" data-ebay-reference="miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster" target="_blank" rel="sponsored noopener noreferrer">Crop Circle 1 Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle poster" data-ebay-reference="miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for crop circle poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: crop circle poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle poster" data-ebay-reference="miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle poster" data-ebay-reference="miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Crop Circle 1 Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4780e0570388218a9360.jpg' | relative_url }}" alt="Listing image for Crop Circle 1 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle poster" data-ebay-reference="miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster" target="_blank" rel="sponsored noopener noreferrer">Crop Circle 1 Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle poster" data-ebay-reference="miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for crop circle poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: crop circle poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle poster" data-ebay-reference="miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle poster" data-ebay-reference="miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nines &#x27;Crop Circle&#x27; Album Poster Wall Art Tracklist Print"><img src="{{ '/assets/images/marketplace-covers/89e6fb168091cea5583c.jpg' | relative_url }}" alt="Listing image for Nines &#x27;Crop Circle&#x27; Album Poster Wall Art Tracklist Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle poster" data-ebay-reference="miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster" target="_blank" rel="sponsored noopener noreferrer">Nines &#x27;Crop Circle&#x27; Album Poster Wall Art Tracklist Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle poster" data-ebay-reference="miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for crop circle poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: crop circle poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle poster" data-ebay-reference="miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle poster" data-ebay-reference="miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle poster" data-ebay-reference="miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nines &#x27;Crop Circle&#x27; Album Poster Wall Art Tracklist Print"><img src="{{ '/assets/images/marketplace-covers/89e6fb168091cea5583c.jpg' | relative_url }}" alt="Listing image for Nines &#x27;Crop Circle&#x27; Album Poster Wall Art Tracklist Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle poster" data-ebay-reference="miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster" target="_blank" rel="sponsored noopener noreferrer">Nines &#x27;Crop Circle&#x27; Album Poster Wall Art Tracklist Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle poster" data-ebay-reference="miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for crop circle poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: crop circle poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle poster" data-ebay-reference="miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=crop+circle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crop circle poster" data-ebay-reference="miracles-how-should-miracle-claims-be-read-forteana-crop-circle-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -786,7 +786,7 @@ The most useful conclusion is not that miracles are impossible, nor that every u
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -806,7 +806,7 @@ The most useful conclusion is not that miracles are impossible, nor that every u
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -838,7 +838,7 @@ The most useful conclusion is not that miracles are impossible, nor that every u
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -890,7 +890,7 @@ The most useful conclusion is not that miracles are impossible, nor that every u
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -935,7 +935,7 @@ The most useful conclusion is not that miracles are impossible, nor that every u
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -976,254 +976,254 @@ The most useful conclusion is not that miracles are impossible, nor that every u
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: lourdes-france.org  
    Title: Lourdes France The Medical Bureau of the Sanctuary  
-   Link: <a href="https://www.lourdes-france.org/en/medical-bureau-sanctuary/" target="_blank" rel="noopener noreferrer nofollow">https://www.lourdes-france.org/en/medical-bureau-sanctuary/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lourdes FranceThe Medical Bureau of the Sanctuary - Lourdes-France.OrgDr Georges-Fernand Dunot de Saint-Maclou established the Bureau des...</p></details>
+   Link:<a href="https://www.lourdes-france.org/en/medical-bureau-sanctuary/" target="_blank" rel="noopener noreferrer nofollow">https://www.lourdes-france.org/en/medical-bureau-sanctuary/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lourdes FranceThe Medical Bureau of the Sanctuary - Lourdes-France.OrgDr Georges-Fernand Dunot de Saint-Maclou established the Bureau des...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/entries/miracles/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/miracles/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyMiracles - Stanford Encyclopedia of Philosophyby T McGrew · 2010 · Cited by 83 — The argument for a mi...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/miracles/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/miracles/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyMiracles - Stanford Encyclopedia of Philosophyby T McGrew · 2010 · Cited by 83 — The argument for a mi...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ecampusontario.pressbooks.pub  
-   Link: <a href="https://ecampusontario.pressbooks.pub/psyc100fw2021-draft/chapter/eyewitness-testimony-and-memory-biases/" target="_blank" rel="noopener noreferrer nofollow">https://ecampusontario.pressbooks.pub/psyc100fw2021-draft/chapter/eyewitness-testimony-and-memory-biases/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness Testimony and Memory Biases – PSYC 100Eyewitnesses can provide very compelling legal testimony, but r...</p></details>
+   Link:<a href="https://ecampusontario.pressbooks.pub/psyc100fw2021-draft/chapter/eyewitness-testimony-and-memory-biases/" target="_blank" rel="noopener noreferrer nofollow">https://ecampusontario.pressbooks.pub/psyc100fw2021-draft/chapter/eyewitness-testimony-and-memory-biases/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness Testimony and Memory Biases – PSYC 100Eyewitnesses can provide very compelling legal testimony, but r...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3854941/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3854941/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Lourdes Medical Cures Revisited - PMC - NIHby B François · 2012 · Cited by 53 — In this study, we reexamine the Lourdes cures usin...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3854941/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3854941/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Lourdes Medical Cures Revisited - PMC - NIHby B François · 2012 · Cited by 53 — In this study, we reexamine the Lourdes cures usin...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cmq.org.uk  
-   Link: <a href="https://www.cmq.org.uk/CMQ/2018/May/medical_bureau_at_lourdes.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cmq.org.uk/CMQ/2018/May/medical_bureau_at_lourdes.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ording to current medical knowledge ». The...Read more...</p></details>
+   Link:<a href="https://www.cmq.org.uk/CMQ/2018/May/medical_bureau_at_lourdes.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cmq.org.uk/CMQ/2018/May/medical_bureau_at_lourdes.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ording to current medical knowledge ». The...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe spontaneous remission of cancer: Current insights  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8271173/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8271173/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8271173/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8271173/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: vatican.va  
    Title: rc ddf doc 20240517 norme fenomeni soprannaturali en  
-   Link: <a href="https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240517_norme-fenomeni-soprannaturali_en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240517_norme-fenomeni-soprannaturali_en.html</a>  
+   Link:<a href="https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240517_norme-fenomeni-soprannaturali_en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240517_norme-fenomeni-soprannaturali_en.html</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reuters.com  
    Title: A brief guide to the Catholic Church's saint-making process  
-   Link: <a href="https://www.reuters.com/world/europe/brief-guide-catholic-churchs-saint-making-process-2025-04-15/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/brief-guide-catholic-churchs-saint-making-process-2025-04-15/</a>  
+   Link:<a href="https://www.reuters.com/world/europe/brief-guide-catholic-churchs-saint-making-process-2025-04-15/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/brief-guide-catholic-churchs-saint-making-process-2025-04-15/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: press.vatican.va  
-   Link: <a href="https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2024/05/17/240517h.html" target="_blank" rel="noopener noreferrer nofollow">https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2024/05/17/240517h.html</a>  
+   Link:<a href="https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2024/05/17/240517h.html" target="_blank" rel="noopener noreferrer nofollow">https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2024/05/17/240517h.html</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: vatican.va  
-   Link: <a href="https://www.vatican.va/" target="_blank" rel="noopener noreferrer nofollow">https://www.vatican.va/</a>  
+   Link:<a href="https://www.vatican.va/" target="_blank" rel="noopener noreferrer nofollow">https://www.vatican.va/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: vatican.va  
    Title: rc ddf doc 20241122 falso misticismo e abuso spirituale en  
-   Link: <a href="https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20241122_falso-misticismo-e-abuso-spirituale_en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20241122_falso-misticismo-e-abuso-spirituale_en.html</a>  
+   Link:<a href="https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20241122_falso-misticismo-e-abuso-spirituale_en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20241122_falso-misticismo-e-abuso-spirituale_en.html</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: press.vatican.va  
-   Link: <a href="https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2016/09/23/160923a.html" target="_blank" rel="noopener noreferrer nofollow">https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2016/09/23/160923a.html</a>  
+   Link:<a href="https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2016/09/23/160923a.html" target="_blank" rel="noopener noreferrer nofollow">https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2016/09/23/160923a.html</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: plato.stanford.edu  
    Title: hume religion  
-   Link: <a href="https://plato.stanford.edu/entries/hume-religion/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/hume-religion/</a>  
+   Link:<a href="https://plato.stanford.edu/entries/hume-religion/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/hume-religion/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/archives/fall1997/entries/miracles/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall1997/entries/miracles/</a>  
+   Link:<a href="https://plato.stanford.edu/archives/fall1997/entries/miracles/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall1997/entries/miracles/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/archives/win2002/entries/miracles/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/win2002/entries/miracles/</a>  
+   Link:<a href="https://plato.stanford.edu/archives/win2002/entries/miracles/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/win2002/entries/miracles/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/archives/fall2016/entries/miracles/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2016/entries/miracles/</a>  
+   Link:<a href="https://plato.stanford.edu/archives/fall2016/entries/miracles/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2016/entries/miracles/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: plato.stanford.edu  
    Title: testimony episprob  
-   Link: <a href="https://plato.stanford.edu/entries/testimony-episprob/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/testimony-episprob/</a>  
+   Link:<a href="https://plato.stanford.edu/entries/testimony-episprob/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/testimony-episprob/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: lourdes-france.com  
    Title: Recognition of a miracle  
-   Link: <a href="https://www.lourdes-france.com/en/recognition-of-a-miracle/" target="_blank" rel="noopener noreferrer nofollow">https://www.lourdes-france.com/en/recognition-of-a-miracle/</a>  
+   Link:<a href="https://www.lourdes-france.com/en/recognition-of-a-miracle/" target="_blank" rel="noopener noreferrer nofollow">https://www.lourdes-france.com/en/recognition-of-a-miracle/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: lourdes-france.org  
    Title: the miracles of lourdes  
-   Link: <a href="https://www.lourdes-france.org/en/the-miracles-of-lourdes/" target="_blank" rel="noopener noreferrer nofollow">https://www.lourdes-france.org/en/the-miracles-of-lourdes/</a>  
+   Link:<a href="https://www.lourdes-france.org/en/the-miracles-of-lourdes/" target="_blank" rel="noopener noreferrer nofollow">https://www.lourdes-france.org/en/the-miracles-of-lourdes/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: vaticannews.va  
    Title: dicastery doctrine faith supernatural phenomena norms  
-   Link: <a href="https://www.vaticannews.va/en/vatican-city/news/2024-05/dicastery-doctrine-faith-supernatural-phenomena-norms.html" target="_blank" rel="noopener noreferrer nofollow">https://www.vaticannews.va/en/vatican-city/news/2024-05/dicastery-doctrine-faith-supernatural-phenomena-norms.html</a>  
+   Link:<a href="https://www.vaticannews.va/en/vatican-city/news/2024-05/dicastery-doctrine-faith-supernatural-phenomena-norms.html" target="_blank" rel="noopener noreferrer nofollow">https://www.vaticannews.va/en/vatican-city/news/2024-05/dicastery-doctrine-faith-supernatural-phenomena-norms.html</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/f9b5659e2947e7eb966db2e491e17267" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/f9b5659e2947e7eb966db2e491e17267</a>  
+   Link:<a href="https://apnews.com/article/f9b5659e2947e7eb966db2e491e17267" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/f9b5659e2947e7eb966db2e491e17267</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/article/2024/jun/08/italian-home-weeping-statue-virgin-mary" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/article/2024/jun/08/italian-home-weeping-statue-virgin-mary</a>  
+   Link:<a href="https://www.theguardian.com/world/article/2024/jun/08/italian-home-weeping-statue-virgin-mary" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/article/2024/jun/08/italian-home-weeping-statue-virgin-mary</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2025/feb/14/italian-mystic-may-face-trial-after-dna-match-with-bleeding-virgin-mary-statue" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/feb/14/italian-mystic-may-face-trial-after-dna-match-with-bleeding-virgin-mary-statue</a>  
+   Link:<a href="https://www.theguardian.com/world/2025/feb/14/italian-mystic-may-face-trial-after-dna-match-with-bleeding-virgin-mary-statue" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/feb/14/italian-mystic-may-face-trial-after-dna-match-with-bleeding-virgin-mary-statue</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/40028813/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/40028813/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/40028813/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/40028813/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: Wikipedia  
    Title: Lourdes Medical Bureau  
-   Link: <a href="https://en.wikipedia.org/wiki/Lourdes_Medical_Bureau" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lourdes_Medical_Bureau</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Lourdes_Medical_Bureau" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lourdes_Medical_Bureau</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
    Title: Vatican City  
-   Link: <a href="https://en.wikipedia.org/wiki/Vatican_City" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Vatican_City</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Vatican_City" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Vatican_City</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
    Title: Weeping statue  
-   Link: <a href="https://en.wikipedia.org/wiki/Weeping_statue" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Weeping_statue</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Weeping_statue" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Weeping_statue</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: vaticannews.va  
    Title: Vatican News: News from the Vatican  
-   Link: <a href="https://www.vaticannews.va/en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.vaticannews.va/en.html</a>  
+   Link:<a href="https://www.vaticannews.va/en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.vaticannews.va/en.html</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: vaticannews.va  
    Title: dicastery for the causes of saints  
-   Link: <a href="https://www.vaticannews.va/en/vatican-city/news/2025-07/dicastery-for-the-causes-of-saints.html" target="_blank" rel="noopener noreferrer nofollow">https://www.vaticannews.va/en/vatican-city/news/2025-07/dicastery-for-the-causes-of-saints.html</a>  
+   Link:<a href="https://www.vaticannews.va/en/vatican-city/news/2025-07/dicastery-for-the-causes-of-saints.html" target="_blank" rel="noopener noreferrer nofollow">https://www.vaticannews.va/en/vatican-city/news/2025-07/dicastery-for-the-causes-of-saints.html</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2025/nov/12/italian-mystic-gisella-cardia-faces-trial-over-claim-virgin-mary-statue-wept-blood" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/nov/12/italian-mystic-gisella-cardia-faces-trial-over-claim-virgin-mary-statue-wept-blood</a>  
+   Link:<a href="https://www.theguardian.com/world/2025/nov/12/italian-mystic-gisella-cardia-faces-trial-over-claim-virgin-mary-statue-wept-blood" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/nov/12/italian-mystic-gisella-cardia-faces-trial-over-claim-virgin-mary-statue-wept-blood</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4313433/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4313433/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4313433/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4313433/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13080756/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC13080756/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13080756/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC13080756/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Ojp0xLuBrJw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ojp0xLuBrJw</a>  
+   Link:<a href="https://www.youtube.com/watch?v=Ojp0xLuBrJw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ojp0xLuBrJw</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: religion.fandom.com  
    Title: Weeping statue  
-   Link: <a href="https://religion.fandom.com/wiki/Weeping_statue" target="_blank" rel="noopener noreferrer nofollow">https://religion.fandom.com/wiki/Weeping_statue</a>  
+   Link:<a href="https://religion.fandom.com/wiki/Weeping_statue" target="_blank" rel="noopener noreferrer nofollow">https://religion.fandom.com/wiki/Weeping_statue</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: ndl.ethernet.edu.et  
-   Link: <a href="https://ndl.ethernet.edu.et/bitstream/123456789/67030/1/152.pdf.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ndl.ethernet.edu.et/bitstream/123456789/67030/1/152.pdf.pdf</a>  
+   Link:<a href="https://ndl.ethernet.edu.et/bitstream/123456789/67030/1/152.pdf.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ndl.ethernet.edu.et/bitstream/123456789/67030/1/152.pdf.pdf</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: seop.illc.uva.nl  
-   Link: <a href="https://seop.illc.uva.nl/entries/miracles/" target="_blank" rel="noopener noreferrer nofollow">https://seop.illc.uva.nl/entries/miracles/</a>  
+   Link:<a href="https://seop.illc.uva.nl/entries/miracles/" target="_blank" rel="noopener noreferrer nofollow">https://seop.illc.uva.nl/entries/miracles/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: americamagazine.org  
    Title: vatican marian apparitions miracles document 247902  
-   Link: <a href="https://www.americamagazine.org/faith/2024/05/10/vatican-marian-apparitions-miracles-document-247902/" target="_blank" rel="noopener noreferrer nofollow">https://www.americamagazine.org/faith/2024/05/10/vatican-marian-apparitions-miracles-document-247902/</a>  
+   Link:<a href="https://www.americamagazine.org/faith/2024/05/10/vatican-marian-apparitions-miracles-document-247902/" target="_blank" rel="noopener noreferrer nofollow">https://www.americamagazine.org/faith/2024/05/10/vatican-marian-apparitions-miracles-document-247902/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: cbcew.org.uk  
    Title: vatican releases new norms on alleged supernatural phenomena  
-   Link: <a href="https://www.cbcew.org.uk/vatican-releases-new-norms-on-alleged-supernatural-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbcew.org.uk/vatican-releases-new-norms-on-alleged-supernatural-phenomena/</a>  
+   Link:<a href="https://www.cbcew.org.uk/vatican-releases-new-norms-on-alleged-supernatural-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbcew.org.uk/vatican-releases-new-norms-on-alleged-supernatural-phenomena/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: adoremus.org  
    Title: vaticans new apparitions guidelines stress caution in discernment process  
-   Link: <a href="https://adoremus.org/2024/07/vaticans-new-apparitions-guidelines-stress-caution-in-discernment-process/" target="_blank" rel="noopener noreferrer nofollow">https://adoremus.org/2024/07/vaticans-new-apparitions-guidelines-stress-caution-in-discernment-process/</a>  
+   Link:<a href="https://adoremus.org/2024/07/vaticans-new-apparitions-guidelines-stress-caution-in-discernment-process/" target="_blank" rel="noopener noreferrer nofollow">https://adoremus.org/2024/07/vaticans-new-apparitions-guidelines-stress-caution-in-discernment-process/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: iep.utm.edu  
-   Link: <a href="https://iep.utm.edu/miracles/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/miracles/</a>  
+   Link:<a href="https://iep.utm.edu/miracles/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/miracles/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: churchtimes.co.uk  
    Title: vatican wary of miracles in new rules on recognising supernatural phenomena  
-   Link: <a href="https://www.churchtimes.co.uk/articles/2024/24-may/news/world/vatican-wary-of-miracles-in-new-rules-on-recognising-supernatural-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.churchtimes.co.uk/articles/2024/24-may/news/world/vatican-wary-of-miracles-in-new-rules-on-recognising-supernatural-phenomena</a>  
+   Link:<a href="https://www.churchtimes.co.uk/articles/2024/24-may/news/world/vatican-wary-of-miracles-in-new-rules-on-recognising-supernatural-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.churchtimes.co.uk/articles/2024/24-may/news/world/vatican-wary-of-miracles-in-new-rules-on-recognising-supernatural-phenomena</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: nashvillecatholic.org  
-   Link: <a href="https://www.nashvillecatholic.org/news/posts/vatican-updates-norms-for-discerning-supernatural-apparitions" target="_blank" rel="noopener noreferrer nofollow">https://www.nashvillecatholic.org/news/posts/vatican-updates-norms-for-discerning-supernatural-apparitions</a>  
+   Link:<a href="https://www.nashvillecatholic.org/news/posts/vatican-updates-norms-for-discerning-supernatural-apparitions" target="_blank" rel="noopener noreferrer nofollow">https://www.nashvillecatholic.org/news/posts/vatican-updates-norms-for-discerning-supernatural-apparitions</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: religionnews.com  
    Title: vatican issues new norms to reign in supernatural phenomena  
-   Link: <a href="https://religionnews.com/2024/05/17/vatican-issues-new-norms-to-reign-in-supernatural-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://religionnews.com/2024/05/17/vatican-issues-new-norms-to-reign-in-supernatural-phenomena/</a>  
+   Link:<a href="https://religionnews.com/2024/05/17/vatican-issues-new-norms-to-reign-in-supernatural-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://religionnews.com/2024/05/17/vatican-issues-new-norms-to-reign-in-supernatural-phenomena/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: usccb.org  
    Title: vatican publishes new norms discern alleged supernatural phenomena  
-   Link: <a href="https://www.usccb.org/news/2024/vatican-publishes-new-norms-discern-alleged-supernatural-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.usccb.org/news/2024/vatican-publishes-new-norms-discern-alleged-supernatural-phenomena</a>  
+   Link:<a href="https://www.usccb.org/news/2024/vatican-publishes-new-norms-discern-alleged-supernatural-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.usccb.org/news/2024/vatican-publishes-new-norms-discern-alleged-supernatural-phenomena</a>  
 
 ### Additional References
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ewP7I0XAOVI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ewP7I0XAOVI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>He Studied Every Religion&#x27;s Miracles, His Conclusion Will Shock You...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ewP7I0XAOVI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ewP7I0XAOVI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>He Studied Every Religion&#x27;s Miracles, His Conclusion Will Shock You...</p></details>
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: youtube.com  
    Title: He Studied Every Religion's Miracles, His Conclusion Will Shock You  
-   Link: <a href="https://www.youtube.com/watch?v=tRjk7aJmYfA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tRjk7aJmYfA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Incorrupt Saints: Science vs Faith | Scientific look...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tRjk7aJmYfA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tRjk7aJmYfA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Incorrupt Saints: Science vs Faith | Scientific look...</p></details>
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: youtube.com  
    Title: Incorrupt Saints: Science vs Faith | Scientific look  
-   Link: <a href="https://www.youtube.com/watch?v=wFu1GQy6TOc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wFu1GQy6TOc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What They Discovered When Science Examined This Saint&#x27;s Body...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wFu1GQy6TOc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wFu1GQy6TOc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What They Discovered When Science Examined This Saint&#x27;s Body...</p></details>
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: youtube.com  
    Title: What They Discovered When Science Examined This Saint's Body  
-   Link: <a href="https://www.youtube.com/watch?v=TA9rKVQQe2Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TA9rKVQQe2Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Best of Michael Shermer On Religion - Part 1...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TA9rKVQQe2Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TA9rKVQQe2Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Best of Michael Shermer On Religion - Part 1...</p></details>
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/38039338/Miracle_Eyewitness_Reports_the_psychology_of_" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/38039338/Miracle_Eyewitness_Reports_the_psychology_of_</a>  
+   Link:<a href="https://www.academia.edu/38039338/Miracle_Eyewitness_Reports_the_psychology_of_" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/38039338/Miracle_Eyewitness_Reports_the_psychology_of_</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/327045656_Psychobiological_Mechanisms_of_Placebo_and_Nocebo_Effects_Pathways_to_Improve_Treatments_and_Reduce_Side_Effects" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/327045656_Psychobiological_Mechanisms_of_Placebo_and_Nocebo_Effects_Pathways_to_Improve_Treatments_and_Reduce_Side_Effects</a>  
+   Link:<a href="https://www.researchgate.net/publication/327045656_Psychobiological_Mechanisms_of_Placebo_and_Nocebo_Effects_Pathways_to_Improve_Treatments_and_Reduce_Side_Effects" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/327045656_Psychobiological_Mechanisms_of_Placebo_and_Nocebo_Effects_Pathways_to_Improve_Treatments_and_Reduce_Side_Effects</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/401135303_Our_Lady_of_Lourdes_and_some_spontaneous_healing_A_transdisciplinary_perspective" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/401135303_Our_Lady_of_Lourdes_and_some_spontaneous_healing_A_transdisciplinary_perspective</a>  
+   Link:<a href="https://www.researchgate.net/publication/401135303_Our_Lady_of_Lourdes_and_some_spontaneous_healing_A_transdisciplinary_perspective" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/401135303_Our_Lady_of_Lourdes_and_some_spontaneous_healing_A_transdisciplinary_perspective</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: mbu.edu  
-   Link: <a href="https://www.mbu.edu/seminary/a-critique-of-david-humes-on-miracles/" target="_blank" rel="noopener noreferrer nofollow">https://www.mbu.edu/seminary/a-critique-of-david-humes-on-miracles/</a>  
+   Link:<a href="https://www.mbu.edu/seminary/a-critique-of-david-humes-on-miracles/" target="_blank" rel="noopener noreferrer nofollow">https://www.mbu.edu/seminary/a-critique-of-david-humes-on-miracles/</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SignoftheCrossMedia/posts/a-statue-of-padre-pio-in-italy-has-allegedly-shed-a-tear-of-blood-the-parish-pri/1328488459480433/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SignoftheCrossMedia/posts/a-statue-of-padre-pio-in-italy-has-allegedly-shed-a-tear-of-blood-the-parish-pri/1328488459480433/</a>  
+   Link:<a href="https://www.facebook.com/SignoftheCrossMedia/posts/a-statue-of-padre-pio-in-italy-has-allegedly-shed-a-tear-of-blood-the-parish-pri/1328488459480433/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SignoftheCrossMedia/posts/a-statue-of-padre-pio-in-italy-has-allegedly-shed-a-tear-of-blood-the-parish-pri/1328488459480433/</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/60minutes/videos/a-visit-to-lourdes-the-site-of-mystery-and-medical-miracles/789908753545402/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/60minutes/videos/a-visit-to-lourdes-the-site-of-mystery-and-medical-miracles/789908753545402/</a>  
+   Link:<a href="https://www.facebook.com/60minutes/videos/a-visit-to-lourdes-the-site-of-mystery-and-medical-miracles/789908753545402/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/60minutes/videos/a-visit-to-lourdes-the-site-of-mystery-and-medical-miracles/789908753545402/</a>  

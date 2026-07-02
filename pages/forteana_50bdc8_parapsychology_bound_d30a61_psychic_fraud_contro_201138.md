@@ -280,7 +280,7 @@ image: /assets/images/forteana_50bdc8_parapsychology_bound_d30a61_psychic_fraud_
 
 ## Introduction
 
-Claims of psychic ability become scientifically interesting only after [ordinary explanations]({{ 'ordinary-causes/' | relative_url }}) have been excluded. Within [parapsychology]({{ 'parapsychology/' | relative_url }}), this means that a seemingly impressive result is not enough on its own. Researchers must show that information could not have reached the participant through normal sensory channels, subtle interpersonal cues, experimental mistakes or deliberate deception. This requirement distinguishes laboratory parapsychology from anecdotal Fortean reports: the central question is not simply whether an unusual event occurred, but whether conventional explanations have been ruled out to a standard that other researchers can independently assess. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/15969829/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">This work has obtained mixed results and provoked a considerable amount of methodological debate...</span></span></span>
+Claims of psychic ability become scientifically interesting only after [ordinary explanations]({{ 'ordinary-causes/' | relative_url }}) have been excluded. Within [parapsychology]({{ 'parapsychology/' | relative_url }}), this means that a seemingly impressive result is not enough on its own. Researchers must show that information could not have reached the participant through normal sensory channels, subtle interpersonal cues, experimental mistakes or deliberate deception. This requirement distinguishes laboratory parapsychology from anecdotal Fortean reports: the central question is not simply whether an unusual event occurred, but whether conventional explanations have been ruled out to a standard that other researchers can independently assess.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/15969829/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">This work has obtained mixed results and provoked a considerable amount of methodological debate...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_parapsychology_bound_d30a61_psychic_fraud_contro_201138-Illustration-1-dark.svg" | relative_url }}" alt="Leakage Risks illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_parapsychology_bound_d30a61_psychic_fraud_contro_201138-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_parapsychology_bound_d30a61_psychic_fraud_contro_201138-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -309,11 +309,11 @@ These possibilities matter because humans are exceptionally good at detecting pa
 
 Laboratory parapsychology has repeatedly revised its methods in response to concerns about leakage.
 
-Early card-guessing experiments using Zener cards became controversial because critics demonstrated numerous opportunities for information transfer. Participants might glimpse card backs, see reflections, hear handling noises or detect subtle differences in shuffling. These weaknesses did not necessarily prove fraud, but they made positive results difficult to interpret. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sensory_leakage" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sensory leakage</span><span class="citation-popover-snippet">Sensory leakage</span></span></span>
+Early card-guessing experiments using Zener cards became controversial because critics demonstrated numerous opportunities for information transfer. Participants might glimpse card backs, see reflections, hear handling noises or detect subtle differences in shuffling. These weaknesses did not necessarily prove fraud, but they made positive results difficult to interpret.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sensory_leakage" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sensory leakage</span><span class="citation-popover-snippet">Sensory leakage</span></span></span>
 
-The Ganzfeld telepathy experiments were specifically designed to reduce normal sensory input by placing a "receiver" in a state of mild sensory homogenisation while another participant attempted to mentally transmit a target image. However, methodological reviews identified potential weaknesses including inadequate soundproofing, handling cues, insufficient randomisation and opportunities for experimenters to learn target identities. Ray Hyman's influential reviews argued that these procedural weaknesses prevented the studies from conclusively demonstrating psi, while Charles Honorton accepted many criticisms and advocated stronger protocols in later work. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sensory_leakage" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sensory leakage</span><span class="citation-popover-snippet">Sensory leakage</span></span></span>
+The Ganzfeld telepathy experiments were specifically designed to reduce normal sensory input by placing a "receiver" in a state of mild sensory homogenisation while another participant attempted to mentally transmit a target image. However, methodological reviews identified potential weaknesses including inadequate soundproofing, handling cues, insufficient randomisation and opportunities for experimenters to learn target identities. Ray Hyman's influential reviews argued that these procedural weaknesses prevented the studies from conclusively demonstrating psi, while Charles Honorton accepted many criticisms and advocated stronger protocols in later work.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sensory_leakage" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sensory leakage</span><span class="citation-popover-snippet">Sensory leakage</span></span></span>
 
-Later automated Ganzfeld systems reduced several earlier vulnerabilities by computerising target selection and limiting experimenter involvement. Even so, debate continued over whether all possible leakage routes had been eliminated and whether apparent positive findings replicated reliably across independent laboratories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ganzfeld_experiment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ganzfeld experiment</span><span class="citation-popover-snippet">Ganzfeld experiment</span></span></span>
+Later automated Ganzfeld systems reduced several earlier vulnerabilities by computerising target selection and limiting experimenter involvement. Even so, debate continued over whether all possible leakage routes had been eliminated and whether apparent positive findings replicated reliably across independent laboratories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ganzfeld_experiment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ganzfeld experiment</span><span class="citation-popover-snippet">Ganzfeld experiment</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kwtdDnYJRI0" title="Experiments And Investigations Into Psychic Fraud! | 40-MINUTE COMPILATION | Derren Brown" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kwtdDnYJRI0" target="_blank" rel="noopener noreferrer">Experiments And Investigations Into Psychic Fraud! | 40-MINUTE COMPILATION | Derren Brown</a></p><p class="youtube-embed-meta">Channel: Derren Brown</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kwtdDnYJRI0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kwtdDnYJRI0">Open on YouTube</a></p></div></div></div>
@@ -336,9 +336,9 @@ Modern research attempts to prevent ordinary information transfer through layere
 
 </div>
 
-A frequently cited example is the controlled study by Ciarán O'Keeffe and Richard Wiseman. Professional mediums gave readings while physically separated from sitters, with identities concealed throughout the procedure. Statements were later scored under blind conditions. The investigators concluded that, under these controls, the evidence did not support claims of genuine mediumistic ability, although they also argued that the methodology could serve as a model for testing similar claims in the future. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/15969829/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">This work has obtained mixed results and provoked a considerable amount of methodological debate...</span></span></span>
+A frequently cited example is the controlled study by Ciarán O'Keeffe and Richard Wiseman. Professional mediums gave readings while physically separated from sitters, with identities concealed throughout the procedure. Statements were later scored under blind conditions. The investigators concluded that, under these controls, the evidence did not support claims of genuine mediumistic ability, although they also argued that the methodology could serve as a model for testing similar claims in the future.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/15969829/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">This work has obtained mixed results and provoked a considerable amount of methodological debate...</span></span></span>
 
-Other researchers, including Julie Beischel and colleagues, have reported positive findings using increasingly elaborate blinded protocols. These studies remain debated, with critics questioning statistical interpretation, replication and residual sources of bias rather than necessarily alleging fraud. The disagreement illustrates that stronger controls do not automatically settle the question; they shift attention towards increasingly subtle methodological issues. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://googlegroups.com/group/scientific-basis-of-consciousness/attach/6bcd9839078e/Beischel%202015%20Anomalous%20information%20reception%20by%20research%20mediums%20under%20blinded%20conditions%20II.pdf?part=0.4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: googlegroups.com">[googlegroups.com+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">googlegroups.com</span><span class="citation-popover-snippet">achieving positive findings regarding the anomalous reception of information...</span></span></span>
+Other researchers, including Julie Beischel and colleagues, have reported positive findings using increasingly elaborate blinded protocols. These studies remain debated, with critics questioning statistical interpretation, replication and residual sources of bias rather than necessarily alleging fraud. The disagreement illustrates that stronger controls do not automatically settle the question; they shift attention towards increasingly subtle methodological issues.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://googlegroups.com/group/scientific-basis-of-consciousness/attach/6bcd9839078e/Beischel%202015%20Anomalous%20information%20reception%20by%20research%20mediums%20under%20blinded%20conditions%20II.pdf?part=0.4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: googlegroups.com">[googlegroups.com+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">googlegroups.com</span><span class="citation-popover-snippet">achieving positive findings regarding the anomalous reception of information...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_parapsychology_bound_d30a61_psychic_fraud_contro_201138-Illustration-2-dark.svg" | relative_url }}" alt="Leakage Risks illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_parapsychology_bound_d30a61_psychic_fraud_contro_201138-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_parapsychology_bound_d30a61_psychic_fraud_contro_201138-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -361,7 +361,7 @@ Cold reading commonly involves:
 
 Because both clients and performers often remember successful statements more vividly than incorrect ones, sincere belief can coexist with entirely conventional information gathering.
 
-Controlled experiments therefore attempt to eliminate all feedback during readings. If mediums cannot observe facial expressions, hear verbal responses or know anything about the intended recipient, cold-reading opportunities become much more limited. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2001/11/22164759/p26.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[cdn.centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Schwartz et al.&#x27;s After-Death Communication Studiesby R WISEMAN · 2001 · Cited by 13 — Let us suppose that the medium is not in contact w...</span></span></span>
+Controlled experiments therefore attempt to eliminate all feedback during readings. If mediums cannot observe facial expressions, hear verbal responses or know anything about the intended recipient, cold-reading opportunities become much more limited.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2001/11/22164759/p26.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[cdn.centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Schwartz et al.&#x27;s After-Death Communication Studiesby R WISEMAN · 2001 · Cited by 13 — Let us suppose that the medium is not in contact w...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1khL8OVaF_Q" title="How TV&#x27;s Favourite Psychic Got Exposed as a Fraud" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1khL8OVaF_Q" target="_blank" rel="noopener noreferrer">How TV&#x27;s Favourite Psychic Got Exposed as a Fraud</a></p><p class="youtube-embed-meta">Channel: Nollid</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1khL8OVaF_Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1khL8OVaF_Q">Open on YouTube</a></p></div></div></div>
@@ -370,7 +370,7 @@ Controlled experiments therefore attempt to eliminate all feedback during readin
 
 The history of psychical research contains numerous cases in which impressive demonstrations collapsed after investigators discovered concealed methods.
 
-Investigations into physical mediumship during the late nineteenth and early twentieth centuries exposed hidden assistants, fake ectoplasm, concealed props, manipulated furniture and other stage techniques. Later investigators also documented instances in which performers relied on advance research, private files or information gathered before public demonstrations. These exposures encouraged psychical researchers to adopt stricter [observation]({{ 'observation/' | relative_url }}), independent witnesses and tighter physical controls rather than relying on impressive performances alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mediumship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+Investigations into physical mediumship during the late nineteenth and early twentieth centuries exposed hidden assistants, fake ectoplasm, concealed props, manipulated furniture and other stage techniques. Later investigators also documented instances in which performers relied on advance research, private files or information gathered before public demonstrations. These exposures encouraged psychical researchers to adopt stricter [observation]({{ 'observation/' | relative_url }}), independent witnesses and tighter physical controls rather than relying on impressive performances alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mediumship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 Importantly, exposing one fraudulent performer does not logically disprove every paranormal claim. Equally, identifying a few carefully controlled experiments does not erase the long history of deception. Both realities have shaped modern experimental standards.
 
@@ -394,7 +394,7 @@ An uncontrolled demonstration leaves many competing explanations available, incl
 
 </div>
 
-As controls become stronger, any remaining positive effect—if consistently replicated—would represent more compelling evidence because fewer conventional explanations remain viable. Conversely, if positive results disappear as controls improve, critics argue that earlier findings were probably produced by methodological weaknesses rather than psi itself. This pattern has been a recurring point of dispute throughout the history of parapsychology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ray_Hyman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ray Hyman</span><span class="citation-popover-snippet">Ray Hyman</span></span></span>
+As controls become stronger, any remaining positive effect—if consistently replicated—would represent more compelling evidence because fewer conventional explanations remain viable. Conversely, if positive results disappear as controls improve, critics argue that earlier findings were probably produced by methodological weaknesses rather than psi itself. This pattern has been a recurring point of dispute throughout the history of parapsychology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ray_Hyman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ray Hyman</span><span class="citation-popover-snippet">Ray Hyman</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_parapsychology_bound_d30a61_psychic_fraud_contro_201138-Illustration-3-dark.svg" | relative_url }}" alt="Leakage Risks illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_parapsychology_bound_d30a61_psychic_fraud_contro_201138-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_parapsychology_bound_d30a61_psychic_fraud_contro_201138-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -402,197 +402,197 @@ As controls become stronger, any remaining positive effect—if consistently rep
 
 Sensory leakage is not a minor technical detail but one of the defining challenges of psychic research. Because psi is typically proposed only after normal information transfer has been excluded, every possible ordinary pathway must be examined before extraordinary explanations become scientifically relevant.
 
-For that reason, discussions of psychic evidence often focus less on the apparent success of a demonstration than on the design of the experiment itself. Whether evaluating mediumship, telepathy or other claimed psychic phenomena, the strength of the claim rises or falls with the ability of researchers to show that information could not have arrived by ordinary means. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/15969829/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Richard Wiseman]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">This work has obtained mixed results and provoked a considerable amount of methodological debate...</span></span></span>
+For that reason, discussions of psychic evidence often focus less on the apparent success of a demonstration than on the design of the experiment itself. Whether evaluating mediumship, telepathy or other claimed psychic phenomena, the strength of the claim rises or falls with the ability of researchers to show that information could not have arrived by ordinary means.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/15969829/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Richard Wiseman]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">This work has obtained mixed results and provoked a considerable amount of methodological debate...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Psychic Evidence Leaks Ordinary Clues. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Psychic Evidence Leaks Ordinary Clues. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Emphasizes rigorous evidence standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes rigorous evidence standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Paranormality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12284173-M.jpg" alt="Cover for Paranormality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Paranormality">Paranormality</a>
-        </h4>
-        <p class="fr-book-author">By Richard Wiseman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Paranormality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12284173-M.jpg" alt="Cover for Paranormality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Paranormality">Paranormality</a>
+</h4>
+<p class="fr-book-author">By Richard Wiseman</p>
         
-        <p class="fr-book-desc">First published 2011. Subjects: Parapsychology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011. Subjects: Parapsychology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Flim-flam%21+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flim-flam! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/675766-M.jpg" alt="Cover for Flim-flam!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Flim-flam%21+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flim-flam!">Flim-flam!</a>
-        </h4>
-        <p class="fr-book-author">By James Randi, Dominique Le Brun</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Flim-flam%21+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flim-flam! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/675766-M.jpg" alt="Cover for Flim-flam!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Flim-flam%21+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flim-flam!">Flim-flam!</a>
+</h4>
+<p class="fr-book-author">By James Randi, Dominique Le Brun</p>
         
-        <p class="fr-book-desc">First published 1980. Subjects: Controversial literature, Occultism, Psychical research, Parapsicología, Ocultismo.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Flim-flam%21+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1980. Subjects: Controversial literature, Occultism, Psychical research, Parapsicología, Ocultismo.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Flim-flam%21+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Flim+Flam%21+by+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flim Flam! on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Flim+Flam%21+by+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flim Flam!">Flim Flam!</a>
-        </h4>
-        <p class="fr-book-author">By James Randi</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Flim+Flam%21+by+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flim Flam! on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Flim+Flam%21+by+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flim Flam!">Flim Flam!</a>
+</h4>
+<p class="fr-book-author">By James Randi</p>
         
-        <p class="fr-book-desc">Focuses on fraud, deception and testing psychic claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Flim+Flam%21+by+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on fraud, deception and testing psychic claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Flim+Flam%21+by+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Paranormality&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Paranormality</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Flim+flam%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flim flam!</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Paranormality&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Paranormality</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Flim+flam%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flim flam!</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal pin" data-ebay-reference="leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 40W E27 UV Ultraviolet Light Bulb Fluorescent Black Light CFL Lamp Paranormal UK"><img src="{{ '/assets/images/marketplace-covers/052110fe5d1e05cb7773.jpg' | relative_url }}" alt="Listing image for 40W E27 UV Ultraviolet Light Bulb Fluorescent Black Light CFL Lamp Paranormal UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal pin" data-ebay-reference="leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin" target="_blank" rel="sponsored noopener noreferrer">40W E27 UV Ultraviolet Light Bulb Fluorescent Black Light CFL Lamp Paranormal UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal pin" data-ebay-reference="leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal pin" data-ebay-reference="leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal pin" data-ebay-reference="leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 40W E27 UV Ultraviolet Light Bulb Fluorescent Black Light CFL Lamp Paranormal UK"><img src="{{ '/assets/images/marketplace-covers/052110fe5d1e05cb7773.jpg' | relative_url }}" alt="Listing image for 40W E27 UV Ultraviolet Light Bulb Fluorescent Black Light CFL Lamp Paranormal UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal pin" data-ebay-reference="leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin" target="_blank" rel="sponsored noopener noreferrer">40W E27 UV Ultraviolet Light Bulb Fluorescent Black Light CFL Lamp Paranormal UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal pin" data-ebay-reference="leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: paranormal pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal pin" data-ebay-reference="leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal pin" data-ebay-reference="leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Horror Paranormal Pin"><img src="{{ '/assets/images/marketplace-covers/b75952556f9895259753.jpg' | relative_url }}" alt="Listing image for Horror Paranormal Pin" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal pin" data-ebay-reference="leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin" target="_blank" rel="sponsored noopener noreferrer">Horror Paranormal Pin</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal pin" data-ebay-reference="leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal pin" data-ebay-reference="leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal pin" data-ebay-reference="leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Horror Paranormal Pin"><img src="{{ '/assets/images/marketplace-covers/b75952556f9895259753.jpg' | relative_url }}" alt="Listing image for Horror Paranormal Pin" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal pin" data-ebay-reference="leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin" target="_blank" rel="sponsored noopener noreferrer">Horror Paranormal Pin</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal pin" data-ebay-reference="leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: paranormal pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal pin" data-ebay-reference="leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal pin" data-ebay-reference="leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SCP Secure Contain Protect Metal Enamel Pin Badge Brooch Paranormal Supernatural"><img src="{{ '/assets/images/marketplace-covers/1f8374fe059f45aedcd6.jpg' | relative_url }}" alt="Listing image for SCP Secure Contain Protect Metal Enamel Pin Badge Brooch Paranormal Supernatural" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal pin" data-ebay-reference="leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin" target="_blank" rel="sponsored noopener noreferrer">SCP Secure Contain Protect Metal Enamel Pin Badge Brooch Paranormal Supernatural</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal pin" data-ebay-reference="leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal pin" data-ebay-reference="leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal pin" data-ebay-reference="leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SCP Secure Contain Protect Metal Enamel Pin Badge Brooch Paranormal Supernatural"><img src="{{ '/assets/images/marketplace-covers/1f8374fe059f45aedcd6.jpg' | relative_url }}" alt="Listing image for SCP Secure Contain Protect Metal Enamel Pin Badge Brooch Paranormal Supernatural" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal pin" data-ebay-reference="leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin" target="_blank" rel="sponsored noopener noreferrer">SCP Secure Contain Protect Metal Enamel Pin Badge Brooch Paranormal Supernatural</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal pin" data-ebay-reference="leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: paranormal pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal pin" data-ebay-reference="leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal pin" data-ebay-reference="leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Haunted House Kawaii Paranormal Cute Ghost Tarot Metal Enamel Pin Badge Kawaii"><img src="{{ '/assets/images/marketplace-covers/417283f6a867aec9d593.jpg' | relative_url }}" alt="Listing image for Haunted House Kawaii Paranormal Cute Ghost Tarot Metal Enamel Pin Badge Kawaii" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal pin" data-ebay-reference="leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin" target="_blank" rel="sponsored noopener noreferrer">Haunted House Kawaii Paranormal Cute Ghost Tarot Metal Enamel Pin Badge Kawaii</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal pin" data-ebay-reference="leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal pin" data-ebay-reference="leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal pin" data-ebay-reference="leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal pin" data-ebay-reference="leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Haunted House Kawaii Paranormal Cute Ghost Tarot Metal Enamel Pin Badge Kawaii"><img src="{{ '/assets/images/marketplace-covers/417283f6a867aec9d593.jpg' | relative_url }}" alt="Listing image for Haunted House Kawaii Paranormal Cute Ghost Tarot Metal Enamel Pin Badge Kawaii" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal pin" data-ebay-reference="leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin" target="_blank" rel="sponsored noopener noreferrer">Haunted House Kawaii Paranormal Cute Ghost Tarot Metal Enamel Pin Badge Kawaii</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal pin" data-ebay-reference="leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: paranormal pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal pin" data-ebay-reference="leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal pin" data-ebay-reference="leakage-risks-when-psychic-evidence-leaks-ordinary-clues-forteana-paranormal-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -608,7 +608,7 @@ For that reason, discussions of psychic evidence often focus less on the apparen
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -628,7 +628,7 @@ For that reason, discussions of psychic evidence often focus less on the apparen
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -660,7 +660,7 @@ For that reason, discussions of psychic evidence often focus less on the apparen
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -712,7 +712,7 @@ For that reason, discussions of psychic evidence often focus less on the apparen
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -757,7 +757,7 @@ For that reason, discussions of psychic evidence often focus less on the apparen
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -798,107 +798,107 @@ For that reason, discussions of psychic evidence often focus less on the apparen
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Sensory leakage  
-   Link: <a href="https://en.wikipedia.org/wiki/Sensory_leakage" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sensory_leakage</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Sensory_leakage" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sensory_leakage</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Ray Hyman  
-   Link: <a href="https://en.wikipedia.org/wiki/Ray_Hyman" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ray_Hyman</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ray_Hyman" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ray_Hyman</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Ganzfeld experiment  
-   Link: <a href="https://en.wikipedia.org/wiki/Ganzfeld_experiment" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ganzfeld_experiment</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ganzfeld_experiment" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ganzfeld_experiment</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Daryl Bem  
-   Link: <a href="https://en.wikipedia.org/wiki/Daryl_Bem" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Daryl_Bem</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Daryl_Bem" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Daryl_Bem</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: googlegroups.com  
-   Link: <a href="https://googlegroups.com/group/scientific-basis-of-consciousness/attach/6bcd9839078e/Beischel%202015%20Anomalous%20information%20reception%20by%20research%20mediums%20under%20blinded%20conditions%20II.pdf?part=0.4" target="_blank" rel="noopener noreferrer nofollow">https://googlegroups.com/group/scientific-basis-of-consciousness/attach/6bcd9839078e/Beischel%202015%20Anomalous%20information%20reception%20by%20research%20mediums%20under%20blinded%20conditions%20II.pdf?part=0.4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>achieving positive findings regarding the anomalous reception of information...</p></details>
+   Link:<a href="https://googlegroups.com/group/scientific-basis-of-consciousness/attach/6bcd9839078e/Beischel%202015%20Anomalous%20information%20reception%20by%20research%20mediums%20under%20blinded%20conditions%20II.pdf?part=0.4" target="_blank" rel="noopener noreferrer nofollow">https://googlegroups.com/group/scientific-basis-of-consciousness/attach/6bcd9839078e/Beischel%202015%20Anomalous%20information%20reception%20by%20research%20mediums%20under%20blinded%20conditions%20II.pdf?part=0.4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>achieving positive findings regarding the anomalous reception of information...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/49728817_An_Investigation_of_Mediums_Who_Claim_to_Give_Information_About_Deceased_Persons" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/49728817_An_Investigation_of_Mediums_Who_Claim_to_Give_Information_About_Deceased_Persons</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An Investigation of Mediums Who Claim to Give Information...Two research studies were conducted in which mediums provided readings about...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/49728817_An_Investigation_of_Mediums_Who_Claim_to_Give_Information_About_Deceased_Persons" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/49728817_An_Investigation_of_Mediums_Who_Claim_to_Give_Information_About_Deceased_Persons</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An Investigation of Mediums Who Claim to Give Information...Two research studies were conducted in which mediums provided readings about...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cdn.centerforinquiry.org  
-   Link: <a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2001/11/22164759/p26.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2001/11/22164759/p26.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Schwartz et al.&#x27;s After-Death Communication Studiesby R WISEMAN · 2001 · Cited by 13 — Let us suppose that the medium is not in contact w...</p></details>
+   Link:<a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2001/11/22164759/p26.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2001/11/22164759/p26.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Schwartz et al.&#x27;s After-Death Communication Studiesby R WISEMAN · 2001 · Cited by 13 — Let us suppose that the medium is not in contact w...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Mediumship" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mediumship</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Mediumship" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mediumship</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/7773238_Testing_alleged_mediumship_Methods_and_results" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/7773238_Testing_alleged_mediumship_Methods_and_results</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This work has obtained mixed results and provoked a considerable amount of methodological debate...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/7773238_Testing_alleged_mediumship_Methods_and_results" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/7773238_Testing_alleged_mediumship_Methods_and_results</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This work has obtained mixed results and provoked a considerable amount of methodological debate...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/15969829/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/15969829/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This work has obtained mixed results and provoked a considerable amount of methodological debate...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/15969829/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/15969829/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This work has obtained mixed results and provoked a considerable amount of methodological debate...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: richardwiseman.wordpress.com  
    Title: Richard Wiseman Parapsychology  
-   Link: <a href="https://richardwiseman.wordpress.com/research/parapsychology/" target="_blank" rel="noopener noreferrer nofollow">https://richardwiseman.wordpress.com/research/parapsychology/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Richard WisemanParapsychology - Richard Wiseman - WordPress.comThis work uses scientific methods to assesses the possible existence of ps...</p></details>
+   Link:<a href="https://richardwiseman.wordpress.com/research/parapsychology/" target="_blank" rel="noopener noreferrer nofollow">https://richardwiseman.wordpress.com/research/parapsychology/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Richard WisemanParapsychology - Richard Wiseman - WordPress.comThis work uses scientific methods to assesses the possible existence of ps...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: richardwiseman.com  
    Title: Medium BJP  
-   Link: <a href="https://richardwiseman.com/resources/MediumBJP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://richardwiseman.com/resources/MediumBJP.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Testing alleged mediumship: Methods and resultsby C O’Keeffe · 2005 · Cited by 95 — The test involved five professional mediums giving re...</p></details>
+   Link:<a href="https://richardwiseman.com/resources/MediumBJP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://richardwiseman.com/resources/MediumBJP.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Testing alleged mediumship: Methods and resultsby C O’Keeffe · 2005 · Cited by 95 — The test involved five professional mediums giving re...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/16848946/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/16848946/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in psychic ability and the misattribution hypothesisby R Wiseman · 2006 · Cited by 170 — This paper explores the notion that people who b...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/16848946/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/16848946/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in psychic ability and the misattribution hypothesisby R Wiseman · 2006 · Cited by 170 — This paper explores the notion that people who b...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: journalofscientificexploration.org  
-   Link: <a href="https://www.journalofscientificexploration.org/index.php/jse/article/view/2575/1769" target="_blank" rel="noopener noreferrer nofollow">https://www.journalofscientificexploration.org/index.php/jse/article/view/2575/1769</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>idual supposedly has access to data without the use of the basic senses, claiming...</p></details>
+   Link:<a href="https://www.journalofscientificexploration.org/index.php/jse/article/view/2575/1769" target="_blank" rel="noopener noreferrer nofollow">https://www.journalofscientificexploration.org/index.php/jse/article/view/2575/1769</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>idual supposedly has access to data without the use of the basic senses, claiming...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/12269961/Anomalous_information_reception_by_research_mediums_demonstrated_using_a_novel_triple_blind_protocol" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/12269961/Anomalous_information_reception_by_research_mediums_demonstrated_using_a_novel_triple_blind_protocol</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>y mediums addresses the existence of non-local information transfer...</p></details>
+   Link:<a href="https://www.academia.edu/12269961/Anomalous_information_reception_by_research_mediums_demonstrated_using_a_novel_triple_blind_protocol" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/12269961/Anomalous_information_reception_by_research_mediums_demonstrated_using_a_novel_triple_blind_protocol</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>y mediums addresses the existence of non-local information transfer...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=kwtdDnYJRI0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kwtdDnYJRI0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>James Randi busts psychics in TV show. &quot;Exploring Psychic Powers Live&quot;...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kwtdDnYJRI0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kwtdDnYJRI0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>James Randi busts psychics in TV show. &quot;Exploring Psychic Powers Live&quot;...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=DRqlvqHBVCg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DRqlvqHBVCg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How TV&#x27;s Favourite Psychic Got Exposed as a Fraud...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DRqlvqHBVCg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DRqlvqHBVCg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How TV&#x27;s Favourite Psychic Got Exposed as a Fraud...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: James Randi's fiery takedown of psychic fraud  
-   Link: <a href="https://www.youtube.com/watch?v=XcPuRaSEq1I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XcPuRaSEq1I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Can Science Prove Psychic Powers Are Real? | James Randi Investigates E4 | True Lives...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=XcPuRaSEq1I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XcPuRaSEq1I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can Science Prove Psychic Powers Are Real? | James Randi Investigates E4 | True Lives...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: James Randi busts psychics in TV show. "Exploring Psychic Powers Live"  
-   Link: <a href="https://www.youtube.com/watch?v=FVtaNmwacpo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FVtaNmwacpo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>James Randi&#x27;s fiery takedown of psychic fraud...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FVtaNmwacpo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FVtaNmwacpo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>James Randi&#x27;s fiery takedown of psychic fraud...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: How TV's Favourite Psychic Got Exposed as a Fraud  
-   Link: <a href="https://www.youtube.com/watch?v=1khL8OVaF_Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1khL8OVaF_Q</a>  
+   Link:<a href="https://www.youtube.com/watch?v=1khL8OVaF_Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1khL8OVaF_Q</a>  

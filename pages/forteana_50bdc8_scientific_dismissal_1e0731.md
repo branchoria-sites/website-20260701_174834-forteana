@@ -447,19 +447,19 @@ image: /assets/images/forteana_50bdc8_scientific_dismissal_1e0731-overview-socia
 
 ## Introduction
 
-[Forteana]({{ 'forteana/' | relative_url }}) is often treated as a shelf of oddities, but its sharper question is institutional: when is scepticism a healthy filter, and when does it become a way of discarding awkward observations before they have been properly examined? [Charles Fort]({{ 'charles-fort/' | relative_url }})’s phrase “damned” facts named reports that science had, in his view, excluded because they did not fit accepted categories. His complaint was not that every strange report was true, but that authority could turn uncertainty into dismissal too quickly. *The Book of the Damned* is described by Project Gutenberg as a 1919 catalogue of anomalous reports that mainstream science had excluded or “damned”, including strange falls, sky sightings and poltergeist claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/ebooks/22472" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">Project Gutenberg The Book of the Damned by Charles Fort &#124; Project Gutenberg</span><span class="citation-popover-snippet">Project Gutenberg The Book of the Damned by Charles Fort &#124; Project Gutenberg</span></span></span>
+[Forteana]({{ 'forteana/' | relative_url }}) is often treated as a shelf of oddities, but its sharper question is institutional: when is scepticism a healthy filter, and when does it become a way of discarding awkward observations before they have been properly examined? [Charles Fort]({{ 'charles-fort/' | relative_url }})’s phrase “damned” facts named reports that science had, in his view, excluded because they did not fit accepted categories. His complaint was not that every strange report was true, but that authority could turn uncertainty into dismissal too quickly. *The Book of the Damned* is described by Project Gutenberg as a 1919 catalogue of anomalous reports that mainstream science had excluded or “damned”, including strange falls, sky sightings and poltergeist claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gutenberg.org/ebooks/22472" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">Project Gutenberg The Book of the Damned by Charles Fort &#124; Project Gutenberg</span><span class="citation-popover-snippet">Project Gutenberg The Book of the Damned by Charles Fort &#124; Project Gutenberg</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_scientific_dismissal_1e0731-overview.webp" | relative_url }}" alt="Overview image for Dismissal" loading="eager" decoding="sync" fetchpriority="high">
-The modern answer is not to abandon scepticism. It is to govern it. Responsible inquiry needs a way to reject weak evidence without shaming [observation]({{ 'observation/' | relative_url }}) itself. That means separating three things that are often confused: a witness may be sincere, a report may be worth recording, and a dramatic explanation may still be unsupported. NASA’s 2023 UAP study made exactly this distinction, calling for rigorous evidence, better data acquisition, calibrated sensors, systematic reporting and reduced stigma rather than either credulous acceptance or blanket ridicule. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
+The modern answer is not to abandon scepticism. It is to govern it. Responsible inquiry needs a way to reject weak evidence without shaming [observation]({{ 'observation/' | relative_url }}) itself. That means separating three things that are often confused: a witness may be sincere, a report may be worth recording, and a dramatic explanation may still be unsupported. NASA’s 2023 UAP study made exactly this distinction, calling for rigorous evidence, better data acquisition, calibrated sensors, systematic reporting and reduced stigma rather than either credulous acceptance or blanket ridicule.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
 
 ## Fort’s attack on authority
 
 Fort’s lasting influence came from making a social criticism sound like a catalogue of marvels. He gathered reports of anomalous falls, lights, [disappearances]({{ 'disappearances/' | relative_url }}) and other odd events, then used them to accuse scientific culture of protecting its boundaries. The charge was not simply “scientists are wrong”. It was subtler: institutions may decide in advance what kinds of facts are respectable, then judge reports partly by whether they fit that prior map.
 
-That criticism has obvious dangers. A system that treats every rejected claim as suppressed truth becomes impossible to correct. Fort’s own writing often played with extravagant explanations, and later Fortean readers have had to distinguish his useful suspicion of premature certainty from the temptation to turn anomaly into belief. Anomalistics, the more disciplined heir to this impulse, is defined by the Psi Encyclopedia as taking unexplained claims seriously without committing itself to any outcome, treating anomalies as opportunities for inquiry rather than immediate belief or dismissal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/anomalistics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">Psi Encyclopedia Anomalistics – Psi Encyclopedia</span><span class="citation-popover-snippet">Psi Encyclopedia Anomalistics – Psi Encyclopedia</span></span></span>
+That criticism has obvious dangers. A system that treats every rejected claim as suppressed truth becomes impossible to correct. Fort’s own writing often played with extravagant explanations, and later Fortean readers have had to distinguish his useful suspicion of premature certainty from the temptation to turn anomaly into belief. Anomalistics, the more disciplined heir to this impulse, is defined by the Psi Encyclopedia as taking unexplained claims seriously without committing itself to any outcome, treating anomalies as opportunities for inquiry rather than immediate belief or dismissal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/anomalistics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">Psi Encyclopedia Anomalistics – Psi Encyclopedia</span><span class="citation-popover-snippet">Psi Encyclopedia Anomalistics – Psi Encyclopedia</span></span></span>
 
-The governance problem is that science must filter. Journals, laboratories, grant panels and public agencies cannot pursue every strange report with equal effort. Yet scientific ideals also include organised scepticism: the norm that claims should be open to critical scrutiny. Robert Merton’s widely cited scientific ethos included universalism, communality, disinterestedness and organised scepticism, meaning that knowledge claims should be evaluated through shared critical processes rather than protected by rank or taste. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bitss.org/education/mooc-parent-page/week-1/introduction-to-research-transparency-and-the-scientific-ethos/mertons-norms-and-the-scientific-ethos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bitss.org">[bitss.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bitss.org</span><span class="citation-popover-snippet">Open source on bitss.org.</span></span></span>
+The governance problem is that science must filter. Journals, laboratories, grant panels and public agencies cannot pursue every strange report with equal effort. Yet scientific ideals also include organised scepticism: the norm that claims should be open to critical scrutiny. Robert Merton’s widely cited scientific ethos included universalism, communality, disinterestedness and organised scepticism, meaning that knowledge claims should be evaluated through shared critical processes rather than protected by rank or taste.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bitss.org/education/mooc-parent-page/week-1/introduction-to-research-transparency-and-the-scientific-ethos/mertons-norms-and-the-scientific-ethos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bitss.org">[bitss.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bitss.org</span><span class="citation-popover-snippet">Open source on bitss.org.</span></span></span>
 
 Forteana matters here because it asks whether “organised scepticism” is actually organised, or merely social. A well-governed sceptical system asks: What exactly was observed? By whom? Under what conditions? With what instruments? What ordinary explanations have been tested? What data would change the assessment? A dismissive system jumps faster: the topic is embarrassing, the witness is not expert, the claim resembles folklore, therefore the report is not worth preserving.
 
@@ -469,7 +469,7 @@ Forteana matters here because it asks whether “organised scepticism” is actu
 
 Most anomalous reports are rejected for good reasons. They are single events, often unrepeatable, usually filtered through memory, language, local rumour and media incentives. Even credible witnesses can misjudge distance, speed, scale, sound, light, time and probability. A bright object in the sky can be a planet, aircraft, satellite, balloon, drone, military platform, weather effect, camera artefact or reflection. A report of something falling from the sky can involve storms, birds, waterspouts, prank, misidentification or later exaggeration.
 
-NASA’s UAP report is useful because it shows what responsible rejection looks like. It does not say witnesses are worthless. It says witness reports can reveal patterns, but without calibrated sensor data they cannot provide conclusive evidence or support repeatable analysis. It also notes that UAP analysis is hampered by poor sensor calibration, lack of multiple measurements, missing sensor metadata and lack of baseline data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
+NASA’s UAP report is useful because it shows what responsible rejection looks like. It does not say witnesses are worthless. It says witness reports can reveal patterns, but without calibrated sensor data they cannot provide conclusive evidence or support repeatable analysis. It also notes that UAP analysis is hampered by poor sensor calibration, lack of multiple measurements, missing sensor metadata and lack of baseline data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
 
 That principle applies across Forteana. Weak evidence is not weak because it is strange. It is weak because it is hard to test. The key failure modes are familiar:
 
@@ -486,7 +486,7 @@ This is why “awkward observation” and “extraordinary explanation” must b
 
 ## The meteorite lesson
 
-The history of meteorites is the classic Fortean warning against overconfident dismissal. In the eighteenth century, reports of stones falling from the sky sounded absurd to many learned observers. Ron Westrum’s study of meteorites as scientific anomalies argues that scientists judged alleged anomalous events by both prior plausibility and the credibility of reports, and that recognition of meteorites required better ways of evaluating reports, a theory to explain them and highly credible eyewitness testimony. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/030631277800800403" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Open source on sagepub.com.</span></span></span>
+The history of meteorites is the classic Fortean warning against overconfident dismissal. In the eighteenth century, reports of stones falling from the sky sounded absurd to many learned observers. Ron Westrum’s study of meteorites as scientific anomalies argues that scientists judged alleged anomalous events by both prior plausibility and the credibility of reports, and that recognition of meteorites required better ways of evaluating reports, a theory to explain them and highly credible eyewitness testimony.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/030631277800800403" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Open source on sagepub.com.</span></span></span>
 
 The lesson is not that every ridiculed claim will become tomorrow’s science. Most will not. The lesson is that institutions can confuse “I do not yet have a mechanism” with “the observation cannot be real”. Before meteorites were accepted, testimony from ordinary observers could be treated as folklore or superstition. Once specimens, witnessed falls and explanatory theory aligned, the same class of report became scientifically tractable.
 
@@ -494,7 +494,7 @@ That shift shows what Forteana can contribute without becoming anti-science. It 
 
 ## Semmelweis and the risk of hindsight
 
-Ignaz Semmelweis is often used as a simple morality tale: genius discovers handwashing, arrogant doctors reject it. The real case is more useful and more uncomfortable. A 2020 article in the *British Journal for the History of Science* argues that one major objection to Semmelweis’s evidence was methodological: critics said that the fall in maternal mortality after chlorine hand disinfection did not by itself prove causation, because mortality from childbed fever fluctuated. The article also notes that Friedrich Wieger’s 1849 account reported a fall from more than 7 per cent in 1840–1846 to 1.27 per cent in 1848, the first full year of the intervention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/british-journal-for-the-history-of-science/article/why-semmelweiss-doctrine-was-rejected-evidence-from-the-first-publication-of-his-results-by-friedrich-wieger-and-an-editorial-commenting-on-the-results/3EE64C106330A92B894CB6AC2CA17C52" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Open source on cambridge.org.</span></span></span>
+Ignaz Semmelweis is often used as a simple morality tale: genius discovers handwashing, arrogant doctors reject it. The real case is more useful and more uncomfortable. A 2020 article in the *British Journal for the History of Science* argues that one major objection to Semmelweis’s evidence was methodological: critics said that the fall in maternal mortality after chlorine hand disinfection did not by itself prove causation, because mortality from childbed fever fluctuated. The article also notes that Friedrich Wieger’s 1849 account reported a fall from more than 7 per cent in 1840–1846 to 1.27 per cent in 1848, the first full year of the intervention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/british-journal-for-the-history-of-science/article/why-semmelweiss-doctrine-was-rejected-evidence-from-the-first-publication-of-his-results-by-friedrich-wieger-and-an-editorial-commenting-on-the-results/3EE64C106330A92B894CB6AC2CA17C52" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Open source on cambridge.org.</span></span></span>
 
 This matters because institutional dismissal can be both understandable and harmful. The critics were not wrong to ask for causal proof. They were wrong, in retrospect, to fail to treat the practical stakes and accumulating evidence with enough urgency. The Semmelweis case therefore supports a governance lesson rather than a slogan: when an intervention is low-cost, plausible enough, and the cost of inaction is death, the threshold for trial and surveillance should be different from the threshold for full theoretical acceptance.
 
@@ -506,11 +506,11 @@ Fortean thinking often goes wrong when it treats rejection as proof of truth. Se
 
 Unidentified anomalous phenomena are the clearest present-day example of the boundary between scepticism and dismissal. The topic has a long history of sensational claims, hoaxes, misidentifications, secrecy and cultural myth. It also contains real reporting problems: pilots and sensor operators sometimes encounter things they cannot identify, and stigma can reduce reporting.
 
-The older institutional pattern is visible in [Project Blue Book]({{ 'blue-book-75a50c/' | relative_url }}). The National Archives says the U.S. Air Force programme received 12,618 sightings from 1947 to 1969, of which 701 remained “unidentified”; its conclusions were that no investigated UFO indicated a national security threat, no evidence showed technology beyond scientific knowledge, and no evidence indicated extraterrestrial vehicles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+The older institutional pattern is visible in [Project Blue Book]({{ 'blue-book-75a50c/' | relative_url }}). The National Archives says the U.S. Air Force programme received 12,618 sightings from 1947 to 1969, of which 701 remained “unidentified”; its conclusions were that no investigated UFO indicated a national security threat, no evidence showed technology beyond scientific knowledge, and no evidence indicated extraterrestrial vehicles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
-That is a sceptical conclusion, but not the end of the governance issue. AARO’s 2024 historical review likewise found no evidence that any U.S. government investigation, academic-sponsored research or official review panel had confirmed a UAP sighting as extraterrestrial, and it stressed a direct relationship between the amount and quality of available information and the ability to resolve cases. It also noted that unresolved cases remain and that insufficient speed, altitude and size data continue to plague investigations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
+That is a sceptical conclusion, but not the end of the governance issue. AARO’s 2024 historical review likewise found no evidence that any U.S. government investigation, academic-sponsored research or official review panel had confirmed a UAP sighting as extraterrestrial, and it stressed a direct relationship between the amount and quality of available information and the ability to resolve cases. It also noted that unresolved cases remain and that insufficient speed, altitude and size data continue to plague investigations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
 
-The more constructive turn is visible in recent reporting systems. The 2022 ODNI report said UAP reporting had increased, partly because of reduced stigma, and that increased reporting created more opportunities for rigorous analysis and resolution. It also described AARO’s role in standardising collection, reporting and analysis across agencies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">Unclassified 2022 Annual Report UAP</span><span class="citation-popover-snippet">Unclassified 2022 Annual Report UAP</span></span></span> NASA’s later report went further, saying stigma almost certainly leads to data attrition and recommending transparent reporting, rigorous analysis and public engagement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
+The more constructive turn is visible in recent reporting systems. The 2022 ODNI report said UAP reporting had increased, partly because of reduced stigma, and that increased reporting created more opportunities for rigorous analysis and resolution. It also described AARO’s role in standardising collection, reporting and analysis across agencies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">Unclassified 2022 Annual Report UAP</span><span class="citation-popover-snippet">Unclassified 2022 Annual Report UAP</span></span></span> NASA’s later report went further, saying stigma almost certainly leads to data attrition and recommending transparent reporting, rigorous analysis and public engagement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
 
 This is the Fortean question in policy form: do not declare mystery solved by social embarrassment; do not declare it exotic because it is unsolved. Build systems that make reports less shameful, data more standardised, and conclusions more modest.
 
@@ -536,7 +536,7 @@ A responsible system would include:
 
 </div>
 
-Cold fusion shows why this balance matters. The 1989 claim of room-temperature fusion was extraordinary and attracted enormous attention; repeated failures to reproduce it led most scientists to reject it. A 2019 account of Google-funded work reported that a US$10 million effort found no evidence of cold fusion through three tested approaches, while still producing useful instruments and materials knowledge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://revistapesquisa.fapesp.br/en/a-test-tube-mirage/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revistapesquisa.fapesp.br">[Revista Pesquisa Fapesp]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revistapesquisa.fapesp.br</span><span class="citation-popover-title">Revista Pesquisa Fapesp A test-tube mirage: Revista Pesquisa Fapesp</span><span class="citation-popover-snippet">Revista Pesquisa Fapesp A test-tube mirage: Revista Pesquisa Fapesp</span></span></span> The correct lesson is double-edged: harsh scrutiny can prevent false breakthroughs from consuming resources, but small, transparent, well-designed tests may still be valuable when they clarify a disputed boundary.
+Cold fusion shows why this balance matters. The 1989 claim of room-temperature fusion was extraordinary and attracted enormous attention; repeated failures to reproduce it led most scientists to reject it. A 2019 account of Google-funded work reported that a US$10 million effort found no evidence of cold fusion through three tested approaches, while still producing useful instruments and materials knowledge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://revistapesquisa.fapesp.br/en/a-test-tube-mirage/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revistapesquisa.fapesp.br">[Revista Pesquisa Fapesp]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revistapesquisa.fapesp.br</span><span class="citation-popover-title">Revista Pesquisa Fapesp A test-tube mirage: Revista Pesquisa Fapesp</span><span class="citation-popover-snippet">Revista Pesquisa Fapesp A test-tube mirage: Revista Pesquisa Fapesp</span></span></span> The correct lesson is double-edged: harsh scrutiny can prevent false breakthroughs from consuming resources, but small, transparent, well-designed tests may still be valuable when they clarify a disputed boundary.
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_scientific_dismissal_1e0731-Illustration-3-dark.svg" | relative_url }}" alt="Dismissal illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_scientific_dismissal_1e0731-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_scientific_dismissal_1e0731-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -544,7 +544,7 @@ Cold fusion shows why this balance matters. The 1989 claim of room-temperature f
 
 Scepticism becomes dismissal when the social handling of a claim prevents the evidence from improving. The warning signs are not hard to recognise. Witnesses are mocked before their reports are recorded. A field becomes career-damaging regardless of method. Agencies keep poor data, then cite poor data as a reason not to investigate. Explanations are offered with more confidence than the evidence allows. Unresolved cases are quietly treated as solved, while believers treat the same uncertainty as confirmation.
 
-The opposite error is just as damaging. Forteana loses its value when it treats institutional resistance as proof that a claim is true. Many anomalies dissolve under better observation. Many strange reports are misperceptions, artefacts, rumours or frauds. NASA’s analysis of the well-known “[GoFast]({{ 'gofast/' | relative_url }})” UAP video, for example, found that numerical display data supported a less extraordinary interpretation: the object need not have been moving at extraordinary velocity, and additional data would be needed for a firmer conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
+The opposite error is just as damaging. Forteana loses its value when it treats institutional resistance as proof that a claim is true. Many anomalies dissolve under better observation. Many strange reports are misperceptions, artefacts, rumours or frauds. NASA’s analysis of the well-known “[GoFast]({{ 'gofast/' | relative_url }})” UAP video, for example, found that numerical display data supported a less extraordinary interpretation: the object need not have been moving at extraordinary velocity, and additional data would be needed for a firmer conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
 
 The durable Fortean position is therefore neither “believe the damned facts” nor “trust the authorities”. It is: protect the pathway by which awkward observations can become better evidence. In governance terms, the goal is a culture where scepticism is applied to claims, not to people; where uncertainty is recorded rather than dramatised; and where institutions are judged not by whether they accept anomalies, but by whether they create fair, transparent and proportionate ways to test them.
 
@@ -553,194 +553,194 @@ The durable Fortean position is therefore neither “believe the damned facts”
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Does Scepticism Become Dismissal?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Does Scepticism Become Dismissal?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
-        </h4>
-        <p class="fr-book-author">By Charles Fort</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
+</h4>
+<p class="fr-book-author">By Charles Fort</p>
         
-        <p class="fr-book-desc">Directly challenges institutional dismissal of anomalies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly challenges institutional dismissal of anomalies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Distinguishes healthy skepticism from dogmatism.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Distinguishes healthy skepticism from dogmatism.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Provides historical context for belief, skepticism and social judgment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Provides historical context for belief, skepticism and social judgment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Structure+of+Scientific+Revolutions+by+Thomas+S.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Structure of Scientific Revolutions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Structure+of+Scientific+Revolutions+by+Thomas+S.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Structure of Scientific Revolutions">The Structure of Scientific Revolutions</a>
-        </h4>
-        <p class="fr-book-author">By Thomas S. Kuhn</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Structure+of+Scientific+Revolutions+by+Thomas+S.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Structure of Scientific Revolutions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Structure+of+Scientific+Revolutions+by+Thomas+S.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Structure of Scientific Revolutions">The Structure of Scientific Revolutions</a>
+</h4>
+<p class="fr-book-author">By Thomas S. Kuhn</p>
         
-        <p class="fr-book-desc">Explains how scientific paradigms can resist anomalies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Structure+of+Scientific+Revolutions+by+Thomas+S.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how scientific paradigms can resist anomalies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Structure+of+Scientific+Revolutions+by+Thomas+S.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Waterspout over Tampa Bay Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5190a0deba66ed2a243d.jpg' | relative_url }}" alt="Listing image for Waterspout over Tampa Bay Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer">Waterspout over Tampa Bay Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for waterspout poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: waterspout poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Waterspout over Tampa Bay Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5190a0deba66ed2a243d.jpg' | relative_url }}" alt="Listing image for Waterspout over Tampa Bay Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer">Waterspout over Tampa Bay Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for waterspout poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: waterspout poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gustave Courbet the Waterspout O 1 Vintage Art Print Poster Wall Decor Centerpie"><img src="{{ '/assets/images/marketplace-covers/27acaee695b41e3e90cd.jpg' | relative_url }}" alt="Listing image for Gustave Courbet the Waterspout O 1 Vintage Art Print Poster Wall Decor Centerpie" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer">Gustave Courbet the Waterspout O 1 Vintage Art Print Poster Wall Decor Centerpie</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for waterspout poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: waterspout poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gustave Courbet the Waterspout O 1 Vintage Art Print Poster Wall Decor Centerpie"><img src="{{ '/assets/images/marketplace-covers/27acaee695b41e3e90cd.jpg' | relative_url }}" alt="Listing image for Gustave Courbet the Waterspout O 1 Vintage Art Print Poster Wall Decor Centerpie" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer">Gustave Courbet the Waterspout O 1 Vintage Art Print Poster Wall Decor Centerpie</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for waterspout poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: waterspout poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Waterspout in Tampa Bay Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/20413d4d9abfc0567812.jpg' | relative_url }}" alt="Listing image for Waterspout in Tampa Bay Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer">Waterspout in Tampa Bay Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for waterspout poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: waterspout poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Waterspout in Tampa Bay Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/20413d4d9abfc0567812.jpg' | relative_url }}" alt="Listing image for Waterspout in Tampa Bay Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer">Waterspout in Tampa Bay Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for waterspout poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: waterspout poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gustave Courbet Marine the Waterspout O 1 Vintage Art Print Poster Wall Decor Ro"><img src="{{ '/assets/images/marketplace-covers/1a82cf6d8318f4b7e1a7.jpg' | relative_url }}" alt="Listing image for Gustave Courbet Marine the Waterspout O 1 Vintage Art Print Poster Wall Decor Ro" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer">Gustave Courbet Marine the Waterspout O 1 Vintage Art Print Poster Wall Decor Ro</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for waterspout poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: waterspout poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gustave Courbet Marine the Waterspout O 1 Vintage Art Print Poster Wall Decor Ro"><img src="{{ '/assets/images/marketplace-covers/1a82cf6d8318f4b7e1a7.jpg' | relative_url }}" alt="Listing image for Gustave Courbet Marine the Waterspout O 1 Vintage Art Print Poster Wall Decor Ro" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer">Gustave Courbet Marine the Waterspout O 1 Vintage Art Print Poster Wall Decor Ro</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for waterspout poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: waterspout poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="dismissal-when-does-scepticism-become-dismissal-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -756,7 +756,7 @@ The durable Fortean position is therefore neither “believe the damned facts”
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -776,7 +776,7 @@ The durable Fortean position is therefore neither “believe the damned facts”
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -808,7 +808,7 @@ The durable Fortean position is therefore neither “believe the damned facts”
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -860,7 +860,7 @@ The durable Fortean position is therefore neither “believe the damned facts”
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -905,7 +905,7 @@ The durable Fortean position is therefore neither “believe the damned facts”
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -946,177 +946,177 @@ The durable Fortean position is therefore neither “believe the damned facts”
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: gutenberg.org  
    Title: Project Gutenberg The Book of the Damned by Charles Fort | Project Gutenberg  
-   Link: <a href="https://www.gutenberg.org/ebooks/22472" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/ebooks/22472</a>  
+   Link:<a href="https://www.gutenberg.org/ebooks/22472" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/ebooks/22472</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Science...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Science...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: bitss.org  
-   Link: <a href="https://www.bitss.org/education/mooc-parent-page/week-1/introduction-to-research-transparency-and-the-scientific-ethos/mertons-norms-and-the-scientific-ethos/" target="_blank" rel="noopener noreferrer nofollow">https://www.bitss.org/education/mooc-parent-page/week-1/introduction-to-research-transparency-and-the-scientific-ethos/mertons-norms-and-the-scientific-ethos/</a>  
+   Link:<a href="https://www.bitss.org/education/mooc-parent-page/week-1/introduction-to-research-transparency-and-the-scientific-ethos/mertons-norms-and-the-scientific-ethos/" target="_blank" rel="noopener noreferrer nofollow">https://www.bitss.org/education/mooc-parent-page/week-1/introduction-to-research-transparency-and-the-scientific-ethos/mertons-norms-and-the-scientific-ethos/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/journals/british-journal-for-the-history-of-science/article/why-semmelweiss-doctrine-was-rejected-evidence-from-the-first-publication-of-his-results-by-friedrich-wieger-and-an-editorial-commenting-on-the-results/3EE64C106330A92B894CB6AC2CA17C52" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/british-journal-for-the-history-of-science/article/why-semmelweiss-doctrine-was-rejected-evidence-from-the-first-publication-of-his-results-by-friedrich-wieger-and-an-editorial-commenting-on-the-results/3EE64C106330A92B894CB6AC2CA17C52</a>  
+   Link:<a href="https://www.cambridge.org/core/journals/british-journal-for-the-history-of-science/article/why-semmelweiss-doctrine-was-rejected-evidence-from-the-first-publication-of-his-results-by-friedrich-wieger-and-an-editorial-commenting-on-the-results/3EE64C106330A92B894CB6AC2CA17C52" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/british-journal-for-the-history-of-science/article/why-semmelweiss-doctrine-was-rejected-evidence-from-the-first-publication-of-his-results-by-friedrich-wieger-and-an-editorial-commenting-on-the-results/3EE64C106330A92B894CB6AC2CA17C52</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: dni.gov  
    Title: Unclassified 2022 Annual Report UAP  
-   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf</a>  
+   Link:<a href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: revistapesquisa.fapesp.br  
    Title: Revista Pesquisa Fapesp A test-tube mirage: Revista Pesquisa Fapesp  
-   Link: <a href="https://revistapesquisa.fapesp.br/en/a-test-tube-mirage/" target="_blank" rel="noopener noreferrer nofollow">https://revistapesquisa.fapesp.br/en/a-test-tube-mirage/</a>  
+   Link:<a href="https://revistapesquisa.fapesp.br/en/a-test-tube-mirage/" target="_blank" rel="noopener noreferrer nofollow">https://revistapesquisa.fapesp.br/en/a-test-tube-mirage/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
+   Link:<a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: resolve.cambridge.org  
    Title: are scientists materialistic monists  
-   Link: <a href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/14259900287AECBEE8098108E538CD04/S0140525X00054959a.pdf/are-scientists-materialistic-monists.pdf" target="_blank" rel="noopener noreferrer nofollow">https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/14259900287AECBEE8098108E538CD04/S0140525X00054959a.pdf/are-scientists-materialistic-monists.pdf</a>  
+   Link:<a href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/14259900287AECBEE8098108E538CD04/S0140525X00054959a.pdf/are-scientists-materialistic-monists.pdf" target="_blank" rel="noopener noreferrer nofollow">https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/14259900287AECBEE8098108E538CD04/S0140525X00054959a.pdf/are-scientists-materialistic-monists.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aaro.mil  
    Title: UNCLASSIFIED FY23 Consolidated Annual Report on UAP Oct 25 2023 1236  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: psi-encyclopedia.spr.ac.uk  
    Title: Psi Encyclopedia Anomalistics – Psi Encyclopedia  
-   Link: <a href="https://psi-encyclopedia.spr.ac.uk/articles/anomalistics/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/articles/anomalistics/</a>  
+   Link:<a href="https://psi-encyclopedia.spr.ac.uk/articles/anomalistics/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/articles/anomalistics/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/030631277800800403" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/030631277800800403</a>  
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/030631277800800403" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/030631277800800403</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: The Book of the Damned  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Book_of_the_Damned" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Book_of_the_Damned</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Book_of_the_Damned" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Book_of_the_Damned</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Anomalistics" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anomalistics</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Anomalistics" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anomalistics</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Cold fusion  
-   Link: <a href="https://en.wikipedia.org/wiki/Cold_fusion" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cold_fusion</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cold_fusion" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cold_fusion</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Ignaz Semmelweis  
-   Link: <a href="https://en.wikipedia.org/wiki/Ignaz_Semmelweis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ignaz_Semmelweis</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ignaz_Semmelweis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ignaz_Semmelweis</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/1468795X211000247" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1468795X211000247</a>  
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/1468795X211000247" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1468795X211000247</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/abs/10.3102/0013189x14545513" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.3102/0013189x14545513</a>  
+   Link:<a href="https://journals.sagepub.com/doi/abs/10.3102/0013189x14545513" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.3102/0013189x14545513</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/[psychology" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/[psychology</a>  
+   Link:<a href="https://www.frontiersin.org/journals/[psychology" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/[psychology</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: abebooks.co.uk  
    Title: The Book of the Damned  
-   Link: <a href="https://www.abebooks.co.uk/9781502315977/Book-Damned-Fort-Charles-1502315971/plp" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/9781502315977/Book-Damned-Fort-Charles-1502315971/plp</a>  
+   Link:<a href="https://www.abebooks.co.uk/9781502315977/Book-Damned-Fort-Charles-1502315971/plp" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/9781502315977/Book-Damned-Fort-Charles-1502315971/plp</a>  
 
 ### Additional References
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: Is There Extraterrestrial Life? — NASA Releases New UFO Report  
-   Link: <a href="https://www.youtube.com/watch?v=i0M7AhxPk9w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i0M7AhxPk9w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Replay! NASA&#x27;s Release of the Unidentified Anomalous Phenomena Report...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=i0M7AhxPk9w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i0M7AhxPk9w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Replay! NASA&#x27;s Release of the Unidentified Anomalous Phenomena Report...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: Replay! NASA's Release of the Unidentified Anomalous Phenomena Report  
-   Link: <a href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nuBMnluJfs0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study Report...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nuBMnluJfs0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study Report...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: govinfo.gov  
-   Link: <a href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm</a>  
+   Link:<a href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: The Book of the Damned (1/2) By Charles Fort. FULL Audiobook  
-   Link: <a href="https://www.youtube.com/watch?v=ZDUcA3h5p9M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZDUcA3h5p9M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rise of Conspiracies: How They Took Root in Our Culture...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZDUcA3h5p9M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZDUcA3h5p9M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Rise of Conspiracies: How They Took Root in Our Culture...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: Unidentified Anomalous Phenomena Independent Study Report  
-   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Book of the Damned (1/2) By Charles Fort. FULL Audiobook...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Book of the Damned (1/2) By Charles Fort. FULL Audiobook...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/342672282_Why_Semmelweis%27s_doctrine_was_rejected_evidence_from_the_first_publication_of_his_results_by_Friedrich_Wieger_and_an_editorial_commenting_on_the_results" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342672282_Why_Semmelweis%27s_doctrine_was_rejected_evidence_from_the_first_publication_of_his_results_by_Friedrich_Wieger_and_an_editorial_commenting_on_the_results</a>  
+   Link:<a href="https://www.researchgate.net/publication/342672282_Why_Semmelweis%27s_doctrine_was_rejected_evidence_from_the_first_publication_of_his_results_by_Friedrich_Wieger_and_an_editorial_commenting_on_the_results" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342672282_Why_Semmelweis%27s_doctrine_was_rejected_evidence_from_the_first_publication_of_his_results_by_Friedrich_Wieger_and_an_editorial_commenting_on_the_results</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/400348279_Science_in_a_Stigmatized_Field_Challenges_and_Opportunities_in_the_Emerging_Research_Domain_of_UAP" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400348279_Science_in_a_Stigmatized_Field_Challenges_and_Opportunities_in_the_Emerging_Research_Domain_of_UAP</a>  
+   Link:<a href="https://www.researchgate.net/publication/400348279_Science_in_a_Stigmatized_Field_Challenges_and_Opportunities_in_the_Emerging_Research_Domain_of_UAP" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400348279_Science_in_a_Stigmatized_Field_Challenges_and_Opportunities_in_the_Emerging_Research_Domain_of_UAP</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/10NewsQLD/posts/a-declassified-united-states-intelligence-report-has-revealed-a-spike-in-the-num/6078466018840054/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10NewsQLD/posts/a-declassified-united-states-intelligence-report-has-revealed-a-spike-in-the-num/6078466018840054/</a>  
+   Link:<a href="https://www.facebook.com/10NewsQLD/posts/a-declassified-united-states-intelligence-report-has-revealed-a-spike-in-the-num/6078466018840054/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10NewsQLD/posts/a-declassified-united-states-intelligence-report-has-revealed-a-spike-in-the-num/6078466018840054/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: j-psp.com  
-   Link: <a href="https://www.j-psp.com/article/cudos-to-the-teachers-using-mertons-norms-of-scientific-practice-to-guide-lessons-in-critical-14977" target="_blank" rel="noopener noreferrer nofollow">https://www.j-psp.com/article/cudos-to-the-teachers-using-mertons-norms-of-scientific-practice-to-guide-lessons-in-critical-14977</a>  
+   Link:<a href="https://www.j-psp.com/article/cudos-to-the-teachers-using-mertons-norms-of-scientific-practice-to-guide-lessons-in-critical-14977" target="_blank" rel="noopener noreferrer nofollow">https://www.j-psp.com/article/cudos-to-the-teachers-using-mertons-norms-of-scientific-practice-to-guide-lessons-in-critical-14977</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: cantab.net  
-   Link: <a href="https://www.cantab.net/users/michael.behrend/ebooks/MoreThings/pages/Chapter_01.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cantab.net/users/michael.behrend/ebooks/MoreThings/pages/Chapter_01.html</a>  
+   Link:<a href="https://www.cantab.net/users/michael.behrend/ebooks/MoreThings/pages/Chapter_01.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cantab.net/users/michael.behrend/ebooks/MoreThings/pages/Chapter_01.html</a>  

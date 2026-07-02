@@ -280,7 +280,7 @@ image: /assets/images/forteana_50bdc8_witness_testimony_re_99a07b_honest_but_wro
 
 ## Introduction
 
-A witness can be completely honest and still be mistaken. This is one of the most important ideas in evaluating strange-event reports. In Fortean investigations, debates often become polarised between those who assume that a sincere witness must be describing an extraordinary event and those who dismiss unusual accounts simply because memory is imperfect. Research on eyewitness memory supports neither position. Human memory is remarkably useful but it is not a video recording. It is a reconstructive process that can be shaped by attention, stress, later conversations and repeated retelling. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4131297/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">An Examination of the Causes and Solutions to Eyewitness Errorby RA Wise · 2014 · Cited by 68 — Researchers have been studying eyewitn...</span></span></span>
+A witness can be completely honest and still be mistaken. This is one of the most important ideas in evaluating strange-event reports. In Fortean investigations, debates often become polarised between those who assume that a sincere witness must be describing an extraordinary event and those who dismiss unusual accounts simply because memory is imperfect. Research on eyewitness memory supports neither position. Human memory is remarkably useful but it is not a video recording. It is a reconstructive process that can be shaped by attention, stress, later conversations and repeated retelling.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4131297/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">An Examination of the Causes and Solutions to Eyewitness Errorby RA Wise · 2014 · Cited by 68 — Researchers have been studying eyewitn...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_witness_testimony_re_99a07b_honest_but_wrong_714afd-Illustration-1-dark.svg" | relative_url }}" alt="Sincerity illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_witness_testimony_re_99a07b_honest_but_wrong_714afd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_witness_testimony_re_99a07b_honest_but_wrong_714afd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -290,7 +290,7 @@ This distinction matters because many reports of unexplained lights, mysterious 
 
 The first question in evaluating a strange-event report is not whether the witness is lying. It is whether the witness's memory accurately represents the original event.
 
-Psychological research consistently shows that memory is reconstructed whenever it is recalled rather than simply replayed. Each act of remembering can strengthen some details, weaken others and sometimes incorporate new information gathered after the event. This is not deception. It is a normal feature of human cognition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4131297/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">An Examination of the Causes and Solutions to Eyewitness Errorby RA Wise · 2014 · Cited by 68 — Researchers have been studying eyewitn...</span></span></span>
+Psychological research consistently shows that memory is reconstructed whenever it is recalled rather than simply replayed. Each act of remembering can strengthen some details, weaken others and sometimes incorporate new information gathered after the event. This is not deception. It is a normal feature of human cognition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4131297/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">An Examination of the Causes and Solutions to Eyewitness Errorby RA Wise · 2014 · Cited by 68 — Researchers have been studying eyewitn...</span></span></span>
 
 This explains why apparently trustworthy witnesses may sincerely disagree about the same incident. Two people standing together can notice different features because their attention was directed differently. One may remember movement, another colour, another sound. As time passes, these partial memories may become more coherent stories, even if some reconstructed details were never actually perceived.
 
@@ -302,7 +302,7 @@ Unusual experiences frequently occur under conditions that are already unfavoura
 
 ### Stress narrows attention
 
-Stress does not simply erase memory. Instead, it often concentrates attention on what seems most immediately important while reducing memory for surrounding details. Reviews of eyewitness research show that high emotional arousal can improve memory for certain central features while impairing memory for peripheral information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/1454896/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Emotional stress and eyewitness memory: a critical reviewby SA Christianson · 1992 · Cited by 2030 — The eyewitness literature ofte...</span></span></span>
+Stress does not simply erase memory. Instead, it often concentrates attention on what seems most immediately important while reducing memory for surrounding details. Reviews of eyewitness research show that high emotional arousal can improve memory for certain central features while impairing memory for peripheral information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/1454896/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Emotional stress and eyewitness memory: a critical reviewby SA Christianson · 1992 · Cited by 2030 — The eyewitness literature ofte...</span></span></span>
 
 In a Fortean encounter this might mean that a witness vividly remembers an intensely bright light but cannot accurately estimate its size, distance or direction. Someone frightened by an unexpected figure may remember their emotional reaction far more clearly than the object's precise appearance.
 
@@ -323,7 +323,7 @@ Consequently, witnesses may honestly report, "I saw a large animal standing upri
 
 Memory remains vulnerable after the [experience]({{ 'experience/' | relative_url }}) itself has ended.
 
-Studies of the misinformation effect demonstrate that exposure to misleading questions, conversations or later descriptions can alter what witnesses subsequently remember. Importantly, people often become confident in these altered memories because the reconstructed version feels just as real as the original recollection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/254899688_Misinformation_Effects_and_the_Suggestibility_of_Eyewitness_Memory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">254899688 Misinformation Effects and the Suggestibility of Eyewitness Memory</span><span class="citation-popover-snippet">ResearchGate(PDF) Misinformation Effects and the Suggestibility of...3 Jun 2015 — In the misinformation paradigm, exposure to misleading...</span></span></span>
+Studies of the misinformation effect demonstrate that exposure to misleading questions, conversations or later descriptions can alter what witnesses subsequently remember. Importantly, people often become confident in these altered memories because the reconstructed version feels just as real as the original recollection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/254899688_Misinformation_Effects_and_the_Suggestibility_of_Eyewitness_Memory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">254899688 Misinformation Effects and the Suggestibility of Eyewitness Memory</span><span class="citation-popover-snippet">ResearchGate(PDF) Misinformation Effects and the Suggestibility of...3 Jun 2015 — In the misinformation paradigm, exposure to misleading...</span></span></span>
 
 For strange-event reports, contamination can occur through:
 
@@ -347,7 +347,7 @@ Appeals to authority are common in Fortean discussions. Reports often emphasise 
 
 Expertise usually improves performance only within familiar conditions. A pilot is trained to identify aircraft, not necessarily unusual atmospheric optics viewed under unexpected circumstances. A police officer may be highly observant during investigations yet still experience the same attentional narrowing and reconstructive memory processes found across the wider population.
 
-Research on eyewitness testimony repeatedly shows that confidence and accuracy are related only imperfectly. A confident witness may be correct, but confidence alone cannot verify that a memory accurately reflects the original perception. Confidence itself can increase after repeated retelling or positive feedback from others. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/rwe/10.1007/978-3-030-93789-8_36-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Eyewitness Memory &#124; Springer Nature Link13 Dec 2022 —... accuracy relationship and the influence of fake news on memory. The con...</span></span></span>
+Research on eyewitness testimony repeatedly shows that confidence and accuracy are related only imperfectly. A confident witness may be correct, but confidence alone cannot verify that a memory accurately reflects the original perception. Confidence itself can increase after repeated retelling or positive feedback from others.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/rwe/10.1007/978-3-030-93789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Eyewitness Memory &#124; Springer Nature Link13 Dec 2022 —... accuracy relationship and the influence of fake news on memory. The con...</span></span></span>
 
 For Fortean investigators, the practical implication is straightforward: the witness's reputation should not substitute for examining the conditions under which the observation occurred.
 
@@ -400,200 +400,200 @@ Investigators therefore look for factors that strengthen or weaken a report inde
 
 These criteria acknowledge both the value and the limitations of eyewitness evidence. They neither dismiss witnesses as unreliable nor elevate personal sincerity into proof.
 
-Within [Forteana]({{ 'forteana/' | relative_url }}), this balanced approach allows unusual experiences to be taken seriously while recognising what decades of psychological research has repeatedly demonstrated: honest people can remember extraordinary experiences inaccurately because memory is a dynamic reconstruction rather than a flawless recording of reality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.666724/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">We argue that acute stress, often experienced by ...Read more</span><span class="citation-popover-snippet">FrontiersThe Dynamic and Fragile Nature of Eyewitness Memory ...by AN Wulff · 2021 · Cited by 24 — The present review will discuss two su...</span></span></span>
+Within [Forteana]({{ 'forteana/' | relative_url }}), this balanced approach allows unusual experiences to be taken seriously while recognising what decades of psychological research has repeatedly demonstrated: honest people can remember extraordinary experiences inaccurately because memory is a dynamic reconstruction rather than a flawless recording of reality.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.666724/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">We argue that acute stress, often experienced by ...Read more</span><span class="citation-popover-snippet">FrontiersThe Dynamic and Fragile Nature of Eyewitness Memory ...by AN Wulff · 2021 · Cited by 24 — The present review will discuss two su...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_witness_testimony_re_99a07b_honest_but_wrong_714afd-Illustration-3-dark.svg" | relative_url }}" alt="Sincerity illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_witness_testimony_re_99a07b_honest_but_wrong_714afd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_witness_testimony_re_99a07b_honest_but_wrong_714afd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can a Truthful Witness Still Be Mistaken?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can a Truthful Witness Still Be Mistaken?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Eyewitness Testimony on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WgcsAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Eyewitness Testimony" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Eyewitness Testimony">Eyewitness Testimony</a>
-        </h4>
-        <p class="fr-book-author">By Elizabeth F. Loftus, James M. Doyle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Eyewitness Testimony on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WgcsAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Eyewitness Testimony" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Eyewitness Testimony">Eyewitness Testimony</a>
+</h4>
+<p class="fr-book-author">By Elizabeth F. Loftus, James M. Doyle</p>
         
-        <p class="fr-book-desc">Directly addresses sincere but mistaken recollection.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses sincere but mistaken recollection.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
+</h4>
+<p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
         
-        <p class="fr-book-desc">Demonstrates perceptual errors despite honest observation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates perceptual errors despite honest observation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Covers cognitive biases affecting witness judgments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers cognitive biases affecting witness judgments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explains why confidence and accuracy diverge.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why confidence and accuracy diverge.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Eyewitness+Testimony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Eyewitness Testimony</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Eyewitness+Testimony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Eyewitness Testimony</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Commemorative/Reprint Newspapers, Pages Missing, As Seen, Historical Interest"><img src="{{ '/assets/images/marketplace-covers/72439b21efa56ec743e6.jpg' | relative_url }}" alt="Listing image for Commemorative/Reprint Newspapers, Pages Missing, As Seen, Historical Interest" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer">Commemorative/Reprint Newspapers, Pages Missing, As Seen, Historical Interest</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage newspaper reprint">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage newspaper reprint</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Commemorative/Reprint Newspapers, Pages Missing, As Seen, Historical Interest"><img src="{{ '/assets/images/marketplace-covers/72439b21efa56ec743e6.jpg' | relative_url }}" alt="Listing image for Commemorative/Reprint Newspapers, Pages Missing, As Seen, Historical Interest" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer">Commemorative/Reprint Newspapers, Pages Missing, As Seen, Historical Interest</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage newspaper reprint">Search<span data-ebay-domain-label>eBay.co.uk</span>: vintage newspaper reprint</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Box Set Of Historical Headlines Reprinted Newspapers - Historical Events"><img src="{{ '/assets/images/marketplace-covers/d86a0cd68eb44f7b9e5e.jpg' | relative_url }}" alt="Listing image for Vintage Box Set Of Historical Headlines Reprinted Newspapers - Historical Events" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer">Vintage Box Set Of Historical Headlines Reprinted Newspapers - Historical Events</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage newspaper reprint">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage newspaper reprint</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Box Set Of Historical Headlines Reprinted Newspapers - Historical Events"><img src="{{ '/assets/images/marketplace-covers/d86a0cd68eb44f7b9e5e.jpg' | relative_url }}" alt="Listing image for Vintage Box Set Of Historical Headlines Reprinted Newspapers - Historical Events" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer">Vintage Box Set Of Historical Headlines Reprinted Newspapers - Historical Events</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage newspaper reprint">Search<span data-ebay-domain-label>eBay.co.uk</span>: vintage newspaper reprint</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for REPRINT - The Daily Telegraph - Tuesday August 7 1945"><img src="{{ '/assets/images/marketplace-covers/aad8667f319e362a378c.jpg' | relative_url }}" alt="Listing image for REPRINT - The Daily Telegraph - Tuesday August 7 1945" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer">REPRINT - The Daily Telegraph - Tuesday August 7 1945</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage newspaper reprint">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage newspaper reprint</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for REPRINT - The Daily Telegraph - Tuesday August"><img src="{{ '/assets/images/marketplace-covers/aad8667f319e362a378c.jpg' | relative_url }}" alt="Listing image for REPRINT - The Daily Telegraph - Tuesday August" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer">REPRINT - The Daily Telegraph - Tuesday August</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage newspaper reprint">Search<span data-ebay-domain-label>eBay.co.uk</span>: vintage newspaper reprint</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1960s Historical Headline Bundle X 3 Job lot REPRINT Newspapers 1966 63 69 birt"><img src="{{ '/assets/images/marketplace-covers/571fab5f369cce21c9d6.jpg' | relative_url }}" alt="Listing image for 1960s Historical Headline Bundle X 3 Job lot REPRINT Newspapers 1966 63 69 birt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer">1960s Historical Headline Bundle X 3 Job lot REPRINT Newspapers 1966 63 69 birt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage newspaper reprint">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage newspaper reprint</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1960s Historical Headline Bundle X 3 Job lot REPRINT Newspapers 1966 63 69 birt"><img src="{{ '/assets/images/marketplace-covers/571fab5f369cce21c9d6.jpg' | relative_url }}" alt="Listing image for 1960s Historical Headline Bundle X 3 Job lot REPRINT Newspapers 1966 63 69 birt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer">1960s Historical Headline Bundle X 3 Job lot REPRINT Newspapers 1966 63 69 birt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage newspaper reprint">Search<span data-ebay-domain-label>eBay.co.uk</span>: vintage newspaper reprint</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+newspaper+reprint&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage newspaper reprint" data-ebay-reference="sincerity-can-a-truthful-witness-still-be-mistaken-forteana-vintage-newspaper-reprint" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -609,7 +609,7 @@ Within [Forteana]({{ 'forteana/' | relative_url }}), this balanced approach allo
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -629,7 +629,7 @@ Within [Forteana]({{ 'forteana/' | relative_url }}), this balanced approach allo
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -661,7 +661,7 @@ Within [Forteana]({{ 'forteana/' | relative_url }}), this balanced approach allo
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -713,7 +713,7 @@ Within [Forteana]({{ 'forteana/' | relative_url }}), this balanced approach allo
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -758,7 +758,7 @@ Within [Forteana]({{ 'forteana/' | relative_url }}), this balanced approach allo
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -799,113 +799,113 @@ Within [Forteana]({{ 'forteana/' | relative_url }}), this balanced approach allo
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4131297/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4131297/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An Examination of the Causes and Solutions to Eyewitness Errorby RA Wise · 2014 · Cited by 68 — Researchers have been studying eyewitn...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4131297/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4131297/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An Examination of the Causes and Solutions to Eyewitness Errorby RA Wise · 2014 · Cited by 68 — Researchers have been studying eyewitn...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11680610/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11680610/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>cognitive abilities reduce eyewitness susceptibility to the...by M Brassil · 2024 · Cited by 12 — The fact that memories can be distorte...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11680610/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11680610/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cognitive abilities reduce eyewitness susceptibility to the...by M Brassil · 2024 · Cited by 12 — The fact that memories can be distorte...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8024237/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8024237/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by C Marr · 2020 · Cited by 60 —... misinformation effects, memory specificity, relation to repressed memories).... Of guns and gees...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8024237/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8024237/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by C Marr · 2020 · Cited by 60 —... misinformation effects, memory specificity, relation to repressed memories).... Of guns and gees...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
    Title: 254899688 Misinformation Effects and the Suggestibility of Eyewitness Memory  
-   Link: <a href="https://www.researchgate.net/publication/254899688_Misinformation_Effects_and_the_Suggestibility_of_Eyewitness_Memory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/254899688_Misinformation_Effects_and_the_Suggestibility_of_Eyewitness_Memory</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Misinformation Effects and the Suggestibility of...3 Jun 2015 — In the misinformation paradigm, exposure to misleading...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/254899688_Misinformation_Effects_and_the_Suggestibility_of_Eyewitness_Memory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/254899688_Misinformation_Effects_and_the_Suggestibility_of_Eyewitness_Memory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Misinformation Effects and the Suggestibility of...3 Jun 2015 — In the misinformation paradigm, exposure to misleading...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/rwe/10.1007/978-3-030-93789-8_36-1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/rwe/10.1007/978-3-030-93789-8_36-1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness Memory | Springer Nature Link13 Dec 2022 —... accuracy relationship and the influence of fake news on memory. The con...</p></details>
+   Link:<a href="https://link.springer.com/rwe/10.1007/978-3-030-93789" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/rwe/10.1007/978-3-030-93789</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness Memory | Springer Nature Link13 Dec 2022 —... accuracy relationship and the influence of fake news on memory. The con...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
    Title: 355670645 The Reliability of Eyewitness Testimony  
-   Link: <a href="https://www.researchgate.net/publication/355670645_The_Reliability_of_Eyewitness_Testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/355670645_The_Reliability_of_Eyewitness_Testimony</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Reliability of Eyewitness Testimony2 May 2026 — This narrow focus can impair memory for peripheral details, leaving people vuln...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/355670645_The_Reliability_of_Eyewitness_Testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/355670645_The_Reliability_of_Eyewitness_Testimony</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Reliability of Eyewitness Testimony2 May 2026 — This narrow focus can impair memory for peripheral details, leaving people vuln...</p></details>
    Published: May 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/374666920_Emotional_Stress_and_Eyewitness_Memory_A_Critical_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374666920_Emotional_Stress_and_Eyewitness_Memory_A_Critical_Review</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Emotional Stress and Eyewitness Memory: A Critical ReviewThe eyewitness literature often claims that emotional stress leads to an impairm...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/374666920_Emotional_Stress_and_Eyewitness_Memory_A_Critical_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374666920_Emotional_Stress_and_Eyewitness_Memory_A_Critical_Review</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Emotional Stress and Eyewitness Memory: A Critical ReviewThe eyewitness literature often claims that emotional stress leads to an impairm...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/[psychology" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/[psychology</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersThe Dynamic and Fragile Nature of Eyewitness Memory...by AN Wulff · 2021 · Cited by 24 — The present review will discuss two su...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/[psychology" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/[psychology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersThe Dynamic and Fragile Nature of Eyewitness Memory...by AN Wulff · 2021 · Cited by 24 — The present review will discuss two su...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/1454896/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/1454896/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Emotional stress and eyewitness memory: a critical reviewby SA Christianson · 1992 · Cited by 2030 — The eyewitness literature ofte...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/1454896/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/1454896/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Emotional stress and eyewitness memory: a critical reviewby SA Christianson · 1992 · Cited by 2030 — The eyewitness literature ofte...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioral Account of the Misinformation Effect - PMCby DM Challies · 2011 · Cited by 34 — This research has focused on both basic (e.g...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioral Account of the Misinformation Effect - PMCby DM Challies · 2011 · Cited by 34 — This research has focused on both basic (e.g...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation effect | Social Sciences and HumanitiesThe misinformation effect refers to the phenomenon where post-event information can...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation effect | Social Sciences and HumanitiesThe misinformation effect refers to the phenomenon where post-event information can...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/the-misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/the-misinformation-effect</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Misinformation EffectThe misinformation effect happens when our memory for past events is altered after exposure to misleading inform...</p></details>
+   Link:<a href="https://thedecisionlab.com/reference-guide/psychology/the-misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/the-misinformation-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Misinformation EffectThe misinformation effect happens when our memory for past events is altered after exposure to misleading inform...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sk.sagepub.com  
-   Link: <a href="https://sk.sagepub.com/hnbk/edvol/download/psychology/chpt/memory-eyewitness-testimony.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sk.sagepub.com/hnbk/edvol/download/psychology/chpt/memory-eyewitness-testimony.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sagepub.com21st Century Psychology: A Reference HandbookPartly in response to this finding, some researchers have argued that the misinfo...</p></details>
+   Link:<a href="https://sk.sagepub.com/hnbk/edvol/download/psychology/chpt/memory-eyewitness-testimony.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sk.sagepub.com/hnbk/edvol/download/psychology/chpt/memory-eyewitness-testimony.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sagepub.com21st Century Psychology: A Reference HandbookPartly in response to this finding, some researchers have argued that the misinfo...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: snaprevise.co.uk  
    Title: Factors affecting the accuracy of eye-witness testimony  
-   Link: <a href="https://snaprevise.co.uk/summary-sheets/a-level-pyschology/memory/factors-affecting-the-accuracy-of-eye-witness-testimony" target="_blank" rel="noopener noreferrer nofollow">https://snaprevise.co.uk/summary-sheets/a-level-pyschology/memory/factors-affecting-the-accuracy-of-eye-witness-testimony</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>eye-witness testimony can become distorted as they combine misinformation from other witnesses with their own memory. Gabbert et al.(2003...</p></details>
+   Link:<a href="https://snaprevise.co.uk/summary-sheets/a-level-pyschology/memory/factors-affecting-the-accuracy-of-eye-witness-testimony" target="_blank" rel="noopener noreferrer nofollow">https://snaprevise.co.uk/summary-sheets/a-level-pyschology/memory/factors-affecting-the-accuracy-of-eye-witness-testimony</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>eye-witness testimony can become distorted as they combine misinformation from other witnesses with their own memory. Gabbert et al.(2003...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: quizlet.com  
-   Link: <a href="https://quizlet.com/gb/510279392/factors-affecting-the-accuracy-of-eyewitness-testimony-memory-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/gb/510279392/factors-affecting-the-accuracy-of-eyewitness-testimony-memory-flash-cards/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This proposes that anxiety and the accuracy...Read more...</p></details>
+   Link:<a href="https://quizlet.com/gb/510279392/factors-affecting-the-accuracy-of-eyewitness-testimony-memory-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/gb/510279392/factors-affecting-the-accuracy-of-eyewitness-testimony-memory-flash-cards/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This proposes that anxiety and the accuracy...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: guide.fariaedu.com  
-   Link: <a href="https://guide.fariaedu.com/psychology-teacher-articles/cognitive-approach-1/reliability-of-cognitive-processes/the-reliability-of-cognitive-processes-additional-information-on-loftus-and-palmer-1974" target="_blank" rel="noopener noreferrer nofollow">https://guide.fariaedu.com/psychology-teacher-articles/cognitive-approach-1/reliability-of-cognitive-processes/the-reliability-of-cognitive-processes-additional-information-on-loftus-and-palmer-1974</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Loftus and J. C. Palmer in 1974. Their aim...Read more...</p></details>
+   Link:<a href="https://guide.fariaedu.com/psychology-teacher-articles/cognitive-approach-1/reliability-of-cognitive-processes/the-reliability-of-cognitive-processes-additional-information-on-loftus-and-palmer-1974" target="_blank" rel="noopener noreferrer nofollow">https://guide.fariaedu.com/psychology-teacher-articles/cognitive-approach-1/reliability-of-cognitive-processes/the-reliability-of-cognitive-processes-additional-information-on-loftus-and-palmer-1974</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Loftus and J. C. Palmer in 1974. Their aim...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: psychstory.co.uk  
-   Link: <a href="https://www.psychstory.co.uk/memory/eye-witness-testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.psychstory.co.uk/memory/eye-witness-testimony</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>factors affecting the accuracy of eye witness testimonyThis study demonstrated how suggestion and misinformation can create false memorie...</p></details>
+   Link:<a href="https://www.psychstory.co.uk/memory/eye-witness-testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.psychstory.co.uk/memory/eye-witness-testimony</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>factors affecting the accuracy of eye witness testimonyThis study demonstrated how suggestion and misinformation can create false memorie...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: digitalcommons.nl.edu  
-   Link: <a href="https://digitalcommons.nl.edu/cgi/viewcontent.cgi?article=1781&amp;context=diss" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.nl.edu/cgi/viewcontent.cgi?article=1781&amp;context=diss</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of Type of Recall on Memory Accuracy in an...by K McCroy · 2023 · Cited by 2 — This idea was a game changer in our understanding...</p></details>
+   Link:<a href="https://digitalcommons.nl.edu/cgi/viewcontent.cgi?article=1781&amp;context=diss" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.nl.edu/cgi/viewcontent.cgi?article=1781&amp;context=diss</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of Type of Recall on Memory Accuracy in an...by K McCroy · 2023 · Cited by 2 — This idea was a game changer in our understanding...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: diva-portal.org  
-   Link: <a href="https://www.diva-portal.org/smash/get/diva2%3A1745578/FULLTEXT01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.diva-portal.org/smash/get/diva2%3A1745578/FULLTEXT01.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Retrieval effort and accuracy in eyewitness testimonyby PU Gustafsson · 2023 — This involves studies showing that people&#x27;s memories can b...</p></details>
+   Link:<a href="https://www.diva-portal.org/smash/get/diva2%3A1745578/FULLTEXT01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.diva-portal.org/smash/get/diva2%3A1745578/FULLTEXT01.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Retrieval effort and accuracy in eyewitness testimonyby PU Gustafsson · 2023 — This involves studies showing that people&#x27;s memories can b...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: bpspsychub.onlinelibrary.wiley.com  
-   Link: <a href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/lcrp.70020" target="_blank" rel="noopener noreferrer nofollow">https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/lcrp.70020</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>history of an idea: The misinformation effect - Loftus24 Dec 2025 — All this helped to cement the psychological studies on eyewitness mem...</p></details>
+   Link:<a href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/lcrp.70020" target="_blank" rel="noopener noreferrer nofollow">https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/lcrp.70020</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>history of an idea: The misinformation effect - Loftus24 Dec 2025 — All this helped to cement the psychological studies on eyewitness mem...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: onlinelibrary.wiley.com  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/9781394259281.ch6" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/9781394259281.ch6</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A., &amp; Loftus, E. F. (2013). Misinformation can influence memory for recently experienced, highly stressful events.Read more...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/9781394259281.ch6" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/9781394259281.ch6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A., &amp; Loftus, E. F. (2013). Misinformation can influence memory for recently experienced, highly stressful events.Read more...</p></details>

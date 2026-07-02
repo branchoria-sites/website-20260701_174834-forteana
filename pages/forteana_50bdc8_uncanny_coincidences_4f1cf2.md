@@ -451,17 +451,17 @@ Some coincidences feel impossible because the mind experiences them as small plo
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_uncanny_coincidences_4f1cf2-overview.webp" | relative_url }}" alt="Overview image for Coincidences" loading="eager" decoding="sync" fetchpriority="high">
-The best explanation is usually not that the event was mathematically impossible. It is that probability, selective attention, memory, social storytelling and personal significance have converged. Statisticians Persi Diaconis and Frederick Mosteller define coincidence as a surprising concurrence of events, perceived as meaningfully related, with no apparent causal connection; they argue that many such cases can be understood through hidden causes, [psychology]({{ 'psychology/' | relative_url }}), multiple possible endpoints and the “law of truly large numbers”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stat.berkeley.edu/~aldous/157/Papers/diaconis_mosteller.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stat.berkeley.edu">[Department of Statistics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stat.berkeley.edu</span><span class="citation-popover-snippet">Department of Statistics</span></span></span>
+The best explanation is usually not that the event was mathematically impossible. It is that probability, selective attention, memory, social storytelling and personal significance have converged. Statisticians Persi Diaconis and Frederick Mosteller define coincidence as a surprising concurrence of events, perceived as meaningfully related, with no apparent causal connection; they argue that many such cases can be understood through hidden causes, [psychology]({{ 'psychology/' | relative_url }}), multiple possible endpoints and the “law of truly large numbers”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stat.berkeley.edu/~aldous/157/Papers/diaconis_mosteller.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stat.berkeley.edu">[Department of Statistics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stat.berkeley.edu</span><span class="citation-popover-snippet">Department of Statistics</span></span></span>
 
 ## What makes a coincidence uncanny?
 
 A plain rare event is not always a coincidence. A meteorite falling in a field is unlikely, but it becomes uncanny in the Fortean sense when it seems to answer, mirror or repeat something else: a name, a date, a dream, a warning, a family story. The emotional charge comes from relation, not rarity alone.
 
-That is why coincidences often have a compact narrative shape. “I had not thought about her for years, then she called.” “I learnt a word in the morning and saw it twice before dinner.” “Two strangers met and discovered the same birthday, street name and family connection.” These are not merely events; they are events with a felt hinge between them. Diaconis and Mosteller stress that the observer’s psychology enters the definition itself, because coincidence depends on what seems surprising, meaningful and causally unexplained to someone noticing it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stat.berkeley.edu/~aldous/157/Papers/diaconis_mosteller.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stat.berkeley.edu">[Department of Statistics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stat.berkeley.edu</span><span class="citation-popover-snippet">Department of Statistics</span></span></span>
+That is why coincidences often have a compact narrative shape. “I had not thought about her for years, then she called.” “I learnt a word in the morning and saw it twice before dinner.” “Two strangers met and discovered the same birthday, street name and family connection.” These are not merely events; they are events with a felt hinge between them. Diaconis and Mosteller stress that the observer’s psychology enters the definition itself, because coincidence depends on what seems surprising, meaningful and causally unexplained to someone noticing it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stat.berkeley.edu/~aldous/157/Papers/diaconis_mosteller.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stat.berkeley.edu">[Department of Statistics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stat.berkeley.edu</span><span class="citation-popover-snippet">Department of Statistics</span></span></span>
 
 Fortean coincidence stories also tend to resist clean classification. A sceptical reader may see memory bias. A believer may see [synchronicity]({{ 'synchronicity/' | relative_url }}). A statistician may see a large search space. A folklorist may see a story becoming memorable because it is easy to repeat. The same incident can travel through all four frames without changing its basic facts.
 
-[Charles Fort]({{ 'charles-fort/' | relative_url }})’s relevance is not that he solved such cases, but that he treated awkward reports as culturally revealing. Fort’s wider project was to collect “damned” or excluded facts: odd reports that seemed to have been dismissed because they did not fit respectable categories. Later commentary on Fort has emphasised that his work often mattered less as proof of anomalies than as a challenge to overconfident explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publicdomainreview.org/essay/charles-fort-and-the-book-of-the-damned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publicdomainreview.org">[The Public Domain Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publicdomainreview.org</span><span class="citation-popover-title">charles fort and the book of the damned</span><span class="citation-popover-snippet">charles fort and the book of the damned</span></span></span>
+[Charles Fort]({{ 'charles-fort/' | relative_url }})’s relevance is not that he solved such cases, but that he treated awkward reports as culturally revealing. Fort’s wider project was to collect “damned” or excluded facts: odd reports that seemed to have been dismissed because they did not fit respectable categories. Later commentary on Fort has emphasised that his work often mattered less as proof of anomalies than as a challenge to overconfident explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publicdomainreview.org/essay/charles-fort-and-the-book-of-the-damned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publicdomainreview.org">[The Public Domain Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publicdomainreview.org</span><span class="citation-popover-title">charles fort and the book of the damned</span><span class="citation-popover-snippet">charles fort and the book of the damned</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_uncanny_coincidences_4f1cf2-Illustration-1-dark.svg" | relative_url }}" alt="Coincidences illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_uncanny_coincidences_4f1cf2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_uncanny_coincidences_4f1cf2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -469,9 +469,9 @@ Fortean coincidence stories also tend to resist clean classification. A sceptica
 
 The simplest reason coincidences feel impossible is that people usually estimate the wrong probability. They ask, “What were the odds of this exact thing happening to me today?” after the event has happened. But the real probability question is usually wider: across all the people, days, names, memories, dreams, journeys, searches, messages, overheard words and near-matches available, what are the odds that something would later be shaped into a striking story?
 
-Diaconis and Mosteller’s classic paper makes this point with unusual clarity. Once obvious causes are set aside, they identify several forces that generate many everyday coincidences: hidden causes, memory and perception, the tendency to count near-matches as matches, and the accumulation of enormous numbers of events and interactions over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stat.berkeley.edu/~aldous/157/Papers/diaconis_mosteller.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stat.berkeley.edu">[Department of Statistics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stat.berkeley.edu</span><span class="citation-popover-snippet">Department of Statistics</span></span></span>
+Diaconis and Mosteller’s classic paper makes this point with unusual clarity. Once obvious causes are set aside, they identify several forces that generate many everyday coincidences: hidden causes, memory and perception, the tendency to count near-matches as matches, and the accumulation of enormous numbers of events and interactions over time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stat.berkeley.edu/~aldous/157/Papers/diaconis_mosteller.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stat.berkeley.edu">[Department of Statistics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stat.berkeley.edu</span><span class="citation-popover-snippet">Department of Statistics</span></span></span>
 
-The birthday problem is the cleanest demonstration. Many people feel that a shared birthday in a small group is surprising because they imagine one person trying to match one chosen date. But the real question is whether any pair in the group matches. In a group of 23 people, the chance of at least two sharing a birthday is already about one half; in a group of 100 it is close to certain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://significancemagazine.com/the-birthday-problem-lessons-in-probability-from-the-magazine-archive/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: significancemagazine.com">[Significance magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">significancemagazine.com</span><span class="citation-popover-title">Significance magazine The birthday problem: lessons in probability from</span><span class="citation-popover-snippet">Significance magazine The birthday problem: lessons in probability from</span></span></span>
+The birthday problem is the cleanest demonstration. Many people feel that a shared birthday in a small group is surprising because they imagine one person trying to match one chosen date. But the real question is whether any pair in the group matches. In a group of 23 people, the chance of at least two sharing a birthday is already about one half; in a group of 100 it is close to certain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://significancemagazine.com/the-birthday-problem-lessons-in-probability-from-the-magazine-archive/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: significancemagazine.com">[Significance magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">significancemagazine.com</span><span class="citation-popover-title">Significance magazine The birthday problem: lessons in probability from</span><span class="citation-popover-snippet">Significance magazine The birthday problem: lessons in probability from</span></span></span>
 
 That lesson transfers to Fortean coincidence stories. A person does not have one possible coincidence waiting to happen. They have thousands. Any pair of names, places, numbers, dates, illnesses, dreams, news items or chance meetings can later become the “one” coincidence that is remembered. The more categories are allowed, the more likely a striking overlap becomes.
 
@@ -482,7 +482,7 @@ This is why a coincidence can be genuinely rare in its final form and still not 
 
 ## Selective attention turns chance into a pattern
 
-Many uncanny coincidences begin when attention changes. The [frequency illusion]({{ 'frequency-illusion/' | relative_url }}), also called the Baader-Meinhof phenomenon, describes the experience of noticing something for the first time and then seeming to encounter it everywhere. Linguist Arnold Zwicky popularised the term “frequency illusion” and linked it to selective attention and confirmation bias: first the mind starts filtering for the thing, then it treats each new sighting as confirmation that something unusual is happening. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Frequency_illusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Frequency illusion</span><span class="citation-popover-snippet">Frequency illusion</span></span></span>
+Many uncanny coincidences begin when attention changes. The [frequency illusion]({{ 'frequency-illusion/' | relative_url }}), also called the Baader-Meinhof phenomenon, describes the experience of noticing something for the first time and then seeming to encounter it everywhere. Linguist Arnold Zwicky popularised the term “frequency illusion” and linked it to selective attention and confirmation bias: first the mind starts filtering for the thing, then it treats each new sighting as confirmation that something unusual is happening.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Frequency_illusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Frequency illusion</span><span class="citation-popover-snippet">Frequency illusion</span></span></span>
 
 The effect is familiar. Someone considers buying a particular car and suddenly sees that model on every road. A newly learnt word appears to jump out from books, podcasts and conversations. A person hears about an obscure historical group and then spots references to it repeatedly. The world may not have changed much; the filter has.
 
@@ -496,7 +496,7 @@ Selective attention does not make the experience fake. The car really is on the 
 
 Coincidence stories are rarely recorded like laboratory data. They are remembered, compressed and retold. That gives them force, but it also makes them vulnerable to distortion. The striking match survives; the vague non-match disappears. The dream that seemed prophetic is remembered; the many dreams that led nowhere are not. The day a friend called after being thought of becomes a story; the hundred unreturned thoughts do not.
 
-Diaconis and Mosteller explicitly include memory and perception among the main psychological sources of perceived coincidence. Their point is not that people are lying, but that ordinary mental processes can make the surprising cases much more available than the background rate of uneventful cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stat.berkeley.edu/~aldous/157/Papers/diaconis_mosteller.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stat.berkeley.edu">[Department of Statistics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stat.berkeley.edu</span><span class="citation-popover-snippet">Department of Statistics</span></span></span>
+Diaconis and Mosteller explicitly include memory and perception among the main psychological sources of perceived coincidence. Their point is not that people are lying, but that ordinary mental processes can make the surprising cases much more available than the background rate of uneventful cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stat.berkeley.edu/~aldous/157/Papers/diaconis_mosteller.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stat.berkeley.edu">[Department of Statistics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stat.berkeley.edu</span><span class="citation-popover-snippet">Department of Statistics</span></span></span>
 
 Storytelling sharpens this effect. A coincidence that is messy in real time becomes cleaner in the telling. Dates are rounded, vague impressions become stronger, near-matches become matches, and irrelevant details are removed. The result is often more memorable and more meaningful than the original event felt as it unfolded.
 
@@ -507,13 +507,13 @@ This is one reason older coincidence anecdotes are hard to assess. Many are not 
 
 ## When meaning outruns evidence
 
-The deepest dispute is not whether coincidences happen. They do. The dispute is what they mean. Carl Jung’s concept of synchronicity treated some coincidences as meaningful connections without a normal causal chain. Modern summaries of Jung’s idea describe synchronicity as an “acausal connecting principle” linking internal psychological events with external events through meaningful coincidence rather than direct cause. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://iaap.org/jung-analytical-psychology/short-articles-on-analytical-psychology/synchronicity-an-acausal-connecting-principle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iaap.org">[IAAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iaap.org</span><span class="citation-popover-snippet">Open source on iaap.org.</span></span></span>
+The deepest dispute is not whether coincidences happen. They do. The dispute is what they mean. Carl Jung’s concept of synchronicity treated some coincidences as meaningful connections without a normal causal chain. Modern summaries of Jung’s idea describe synchronicity as an “acausal connecting principle” linking internal psychological events with external events through meaningful coincidence rather than direct cause.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://iaap.org/jung-analytical-psychology/short-articles-on-analytical-psychology/synchronicity-an-acausal-connecting-principle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iaap.org">[IAAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iaap.org</span><span class="citation-popover-snippet">Open source on iaap.org.</span></span></span>
 
 That idea remains influential because it names a real experience: the feeling that an event has arrived with personal significance. A coincidence can comfort someone in grief, prompt a decision, or make life feel briefly patterned rather than random. Even a sceptical account should not flatten that human dimension. A coincidence can be psychologically meaningful without being evidence of a hidden external force.
 
-Recent research also suggests that the tendency to experience meaningful coincidences is not just a fringe belief. A 2024 PLOS ONE paper found associations between experiencing meaningful coincidences and real-life creativity, including creative activities and achievements across three studies. The authors suggest that a propensity to perceive meaningful coincidences may be linked with creative potential, though association does not prove that one causes the other. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0300121" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Open source on plos.org.</span></span></span>
+Recent research also suggests that the tendency to experience meaningful coincidences is not just a fringe belief. A 2024 PLOS ONE paper found associations between experiencing meaningful coincidences and real-life creativity, including creative activities and achievements across three studies. The authors suggest that a propensity to perceive meaningful coincidences may be linked with creative potential, though association does not prove that one causes the other.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0300121" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Open source on plos.org.</span></span></span>
 
-Another 2024 study using daily diary data found that positive affect predicted the next day’s experience of meaningful coincidences. In plain terms, mood may influence how readily people notice and interpret patterns in daily life. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/02699931.2024.2349280" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Open source on tandfonline.com.</span></span></span>
+Another 2024 study using daily diary data found that positive affect predicted the next day’s experience of meaningful coincidences. In plain terms, mood may influence how readily people notice and interpret patterns in daily life.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/02699931.2024.2349280" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Open source on tandfonline.com.</span></span></span>
 
 The caution is that meaning can outrun evidence. A coincidence may be emotionally important and still not support a paranormal conclusion. It may be a useful prompt for reflection, but a poor basis for diagnosis, accusation, financial risk or a life-changing claim about fate. Fortean reading works best when it preserves both truths: the experience can matter, and the explanation may still be chance plus mind.
 
@@ -547,194 +547,194 @@ The strongest lesson is not that all coincidences are meaningless. It is that me
 The “impossible” feeling, then, is part of the evidence, but not the whole evidence. It tells us that the event has struck the human pattern-making system with unusual force. Forteana keeps that feeling in view while asking the harder question: whether the pattern belongs to the world, the mind, the story, or some mixture of all three.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Do Some Coincidences Feel Impossible?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Do Some Coincidences Feel Impossible?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explores belief formation around uncanny experiences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores belief formation around uncanny experiences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Provides tools for evaluating extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides tools for evaluating extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Explores why remarkable stories and beliefs persist across generations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Explores why remarkable stories and beliefs persist across generations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Drunkard%27s+Walk+Leonard+Mlodinow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Drunkard&#x27;s Walk on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8509813-M.jpg" alt="Cover for The Drunkard&#x27;s Walk" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Drunkard%27s+Walk+Leonard+Mlodinow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drunkard&#x27;s Walk">The Drunkard&#x27;s Walk</a>
-        </h4>
-        <p class="fr-book-author">By Leonard Mlodinow</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Drunkard%27s+Walk+Leonard+Mlodinow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Drunkard&#x27;s Walk on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8509813-M.jpg" alt="Cover for The Drunkard&#x27;s Walk" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Drunkard%27s+Walk+Leonard+Mlodinow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drunkard&#x27;s Walk">The Drunkard&#x27;s Walk</a>
+</h4>
+<p class="fr-book-author">By Leonard Mlodinow</p>
         
-        <p class="fr-book-desc">First published 2008. Subjects: Probabilities, Chance, Random variables, Mathematics, Nonfiction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Drunkard%27s+Walk+Leonard+Mlodinow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2008. Subjects: Probabilities, Chance, Random variables, Mathematics, Nonfiction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Drunkard%27s+Walk+Leonard+Mlodinow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Paranormal Pals: L&#x27;il Monster - Thi Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/da46a4fa8d8b40fb6c62.jpg' | relative_url }}" alt="Listing image for Paranormal Pals: L&#x27;il Monster - Thi Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer">Paranormal Pals: L&#x27;il Monster - Thi Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Paranormal Pals: L&#x27;il Monster - Thi Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/da46a4fa8d8b40fb6c62.jpg' | relative_url }}" alt="Listing image for Paranormal Pals: L&#x27;il Monster - Thi Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer">Paranormal Pals: L&#x27;il Monster - Thi Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: paranormal art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PARANORMAL SNACKTIVITY - GHOST HALL Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/cb82bc876458c0948562.jpg' | relative_url }}" alt="Listing image for PARANORMAL SNACKTIVITY - GHOST HALL Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer">PARANORMAL SNACKTIVITY - GHOST HALL Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PARANORMAL SNACKTIVITY - GHOST HALL Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/cb82bc876458c0948562.jpg' | relative_url }}" alt="Listing image for PARANORMAL SNACKTIVITY - GHOST HALL Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer">PARANORMAL SNACKTIVITY - GHOST HALL Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: paranormal art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Home Wall Art Print - Vintage Spiritual Paranormal - OUIJA BOARD PRINT -A4,A3,A2"><img src="{{ '/assets/images/marketplace-covers/d774124c198e7e2efe0e.jpg' | relative_url }}" alt="Listing image for Home Wall Art Print - Vintage Spiritual Paranormal - OUIJA BOARD PRINT -A4,A3,A2" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer">Home Wall Art Print - Vintage Spiritual Paranormal - OUIJA BOARD PRINT -A4,A3,A2</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Home Wall Art Print - Vintage Spiritual Paranormal - OUIJA BOARD PRINT -A4,A3,A2"><img src="{{ '/assets/images/marketplace-covers/d774124c198e7e2efe0e.jpg' | relative_url }}" alt="Listing image for Home Wall Art Print - Vintage Spiritual Paranormal - OUIJA BOARD PRINT -A4,A3,A2" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer">Home Wall Art Print - Vintage Spiritual Paranormal - OUIJA BOARD PRINT -A4,A3,A2</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: paranormal art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for National Paranormal Day Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/55ae121a3349eaf72d81.jpg' | relative_url }}" alt="Listing image for National Paranormal Day Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer">National Paranormal Day Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for National Paranormal Day Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/55ae121a3349eaf72d81.jpg' | relative_url }}" alt="Listing image for National Paranormal Day Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer">National Paranormal Day Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: paranormal art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="coincidences-why-do-some-coincidences-feel-impossible-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -750,7 +750,7 @@ The “impossible” feeling, then, is part of the evidence, but not the whole e
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -770,7 +770,7 @@ The “impossible” feeling, then, is part of the evidence, but not the whole e
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -802,7 +802,7 @@ The “impossible” feeling, then, is part of the evidence, but not the whole e
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -854,7 +854,7 @@ The “impossible” feeling, then, is part of the evidence, but not the whole e
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -899,7 +899,7 @@ The “impossible” feeling, then, is part of the evidence, but not the whole e
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -940,182 +940,182 @@ The “impossible” feeling, then, is part of the evidence, but not the whole e
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: stat.berkeley.edu  
    Title: Department of Statistics  
-   Link: <a href="https://www.stat.berkeley.edu/~aldous/157/Papers/diaconis_mosteller.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.stat.berkeley.edu/~aldous/157/Papers/diaconis_mosteller.pdf</a>  
+   Link:<a href="https://www.stat.berkeley.edu/~aldous/157/Papers/diaconis_mosteller.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.stat.berkeley.edu/~aldous/157/Papers/diaconis_mosteller.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Frequency illusion  
-   Link: <a href="https://en.wikipedia.org/wiki/Frequency_illusion" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Frequency_illusion</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Frequency_illusion" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Frequency_illusion</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: iaap.org  
-   Link: <a href="https://iaap.org/jung-analytical-psychology/short-articles-on-analytical-psychology/synchronicity-an-acausal-connecting-principle/" target="_blank" rel="noopener noreferrer nofollow">https://iaap.org/jung-analytical-psychology/short-articles-on-analytical-psychology/synchronicity-an-acausal-connecting-principle/</a>  
+   Link:<a href="https://iaap.org/jung-analytical-psychology/short-articles-on-analytical-psychology/synchronicity-an-acausal-connecting-principle/" target="_blank" rel="noopener noreferrer nofollow">https://iaap.org/jung-analytical-psychology/short-articles-on-analytical-psychology/synchronicity-an-acausal-connecting-principle/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: journals.plos.org  
-   Link: <a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0300121" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0300121</a>  
+   Link:<a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0300121" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0300121</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Apophenia" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Apophenia</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Apophenia" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Apophenia</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Law of truly large numbers  
-   Link: <a href="https://en.wikipedia.org/wiki/Law_of_truly_large_numbers" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Law_of_truly_large_numbers</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Law_of_truly_large_numbers" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Law_of_truly_large_numbers</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Charles Fort  
-   Link: <a href="https://en.wikipedia.org/wiki/Charles_Fort" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Charles_Fort</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Charles_Fort" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Charles_Fort</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Confirmation bias  
-   Link: <a href="https://en.wikipedia.org/wiki/Confirmation_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Confirmation_bias</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Confirmation_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Confirmation_bias</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Birthday problem  
-   Link: <a href="https://en.wikipedia.org/wiki/Birthday_problem" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Birthday_problem</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Birthday_problem" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Birthday_problem</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Synchronicity" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Synchronicity</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Synchronicity" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Synchronicity</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: [The Book](&#123;&#123; 'the-book/' | relative_url &#125;&#125;) of the Damned  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Book_of_the_Damned" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Book_of_the_Damned</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Book_of_the_Damned" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Book_of_the_Damned</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Wild Talents (book)  
-   Link: <a href="https://en.wikipedia.org/wiki/Wild_Talents_%28book%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wild_Talents_%28book%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Wild_Talents_%28book%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wild_Talents_%28book%29</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Every Coincidences Explained by Science, Psychology & Math  
-   Link: <a href="https://www.youtube.com/watch?v=F8ldNbevxik" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F8ldNbevxik</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Synchronicity - The Hidden Meaning of Coincidences...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=F8ldNbevxik" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F8ldNbevxik</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Synchronicity - The Hidden Meaning of Coincidences...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=QwIQa3bVqRY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QwIQa3bVqRY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Math, Magic, Illusion of Coincidence | Hidden Patterns Behind Probability &amp; Human Perception| Uplatz...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QwIQa3bVqRY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QwIQa3bVqRY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Math, Magic, Illusion of Coincidence | Hidden Patterns Behind Probability &amp; Human Perception| Uplatz...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: publicdomainreview.org  
    Title: charles fort and the book of the damned  
-   Link: <a href="https://publicdomainreview.org/essay/charles-fort-and-the-book-of-the-damned/" target="_blank" rel="noopener noreferrer nofollow">https://publicdomainreview.org/essay/charles-fort-and-the-book-of-the-damned/</a>  
+   Link:<a href="https://publicdomainreview.org/essay/charles-fort-and-the-book-of-the-damned/" target="_blank" rel="noopener noreferrer nofollow">https://publicdomainreview.org/essay/charles-fort-and-the-book-of-the-damned/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: significancemagazine.com  
    Title: Significance magazine The birthday problem: lessons in probability from  
-   Link: <a href="https://significancemagazine.com/the-birthday-problem-lessons-in-probability-from-the-magazine-archive/" target="_blank" rel="noopener noreferrer nofollow">https://significancemagazine.com/the-birthday-problem-lessons-in-probability-from-the-magazine-archive/</a>  
+   Link:<a href="https://significancemagazine.com/the-birthday-problem-lessons-in-probability-from-the-magazine-archive/" target="_blank" rel="noopener noreferrer nofollow">https://significancemagazine.com/the-birthday-problem-lessons-in-probability-from-the-magazine-archive/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/02699931.2024.2349280" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/02699931.2024.2349280</a>  
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/02699931.2024.2349280" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/02699931.2024.2349280</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: medium.com  
    Title: The Birthday Problem  
-   Link: <a href="https://medium.com/i-math/the-birthday-problem-307f31a9ac6f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/i-math/the-birthday-problem-307f31a9ac6f</a>  
+   Link:<a href="https://medium.com/i-math/the-birthday-problem-307f31a9ac6f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/i-math/the-birthday-problem-307f31a9ac6f</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cocosci.princeton.edu  
-   Link: <a href="https://cocosci.princeton.edu/tom/papers/random.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cocosci.princeton.edu/tom/papers/random.pdf</a>  
+   Link:<a href="https://cocosci.princeton.edu/tom/papers/random.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cocosci.princeton.edu/tom/papers/random.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: psychologytoday.com  
-   Link: <a href="https://www.psychologytoday.com/us/basics/synchronicity" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/basics/synchronicity</a>  
+   Link:<a href="https://www.psychologytoday.com/us/basics/synchronicity" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/basics/synchronicity</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: stat.berkeley.edu  
    Title: coincidence chapter  
-   Link: <a href="https://www.stat.berkeley.edu/~aldous/150/Lectures/coincidence_chapter.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.stat.berkeley.edu/~aldous/150/Lectures/coincidence_chapter.pdf</a>  
+   Link:<a href="https://www.stat.berkeley.edu/~aldous/150/Lectures/coincidence_chapter.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.stat.berkeley.edu/~aldous/150/Lectures/coincidence_chapter.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: archive.org  
    Title: Fort New Lands Lo Wild Talents  
-   Link: <a href="https://archive.org/details/FortNewLandsLoWildTalents" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/FortNewLandsLoWildTalents</a>  
+   Link:<a href="https://archive.org/details/FortNewLandsLoWildTalents" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/FortNewLandsLoWildTalents</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1314920/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1314920/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1314920/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1314920/full</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: journals.us.edu.pl  
-   Link: <a href="https://journals.us.edu.pl/index.php/FOLIA/article/view/4590/5007" target="_blank" rel="noopener noreferrer nofollow">https://journals.us.edu.pl/index.php/FOLIA/article/view/4590/5007</a>  
+   Link:<a href="https://journals.us.edu.pl/index.php/FOLIA/article/view/4590/5007" target="_blank" rel="noopener noreferrer nofollow">https://journals.us.edu.pl/index.php/FOLIA/article/view/4590/5007</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/01621459.1989.10478847" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/01621459.1989.10478847</a>  
+   Link:<a href="https://www.tandfonline.com/doi/abs/10.1080/01621459.1989.10478847" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/01621459.1989.10478847</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/pdf/10.1080/02699931.2024.2349280" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/pdf/10.1080/02699931.2024.2349280</a>  
+   Link:<a href="https://www.tandfonline.com/doi/pdf/10.1080/02699931.2024.2349280" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/pdf/10.1080/02699931.2024.2349280</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: therahive.com  
    Title: the frequency illusion  
-   Link: <a href="https://www.therahive.com/blog/the-frequency-illusion" target="_blank" rel="noopener noreferrer nofollow">https://www.therahive.com/blog/the-frequency-illusion</a>  
+   Link:<a href="https://www.therahive.com/blog/the-frequency-illusion" target="_blank" rel="noopener noreferrer nofollow">https://www.therahive.com/blog/the-frequency-illusion</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: simplypsychology.org  
    Title: confirmation bias  
-   Link: <a href="https://www.simplypsychology.org/confirmation-bias.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/confirmation-bias.html</a>  
+   Link:<a href="https://www.simplypsychology.org/confirmation-bias.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/confirmation-bias.html</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: googology.fandom.com  
    Title: Law of Truly Large Numbers  
-   Link: <a href="https://googology.fandom.com/wiki/Law_of_Truly_Large_Numbers" target="_blank" rel="noopener noreferrer nofollow">https://googology.fandom.com/wiki/Law_of_Truly_Large_Numbers</a>  
+   Link:<a href="https://googology.fandom.com/wiki/Law_of_Truly_Large_Numbers" target="_blank" rel="noopener noreferrer nofollow">https://googology.fandom.com/wiki/Law_of_Truly_Large_Numbers</a>  
 
 ### Additional References
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=WfueiqjVkPA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WfueiqjVkPA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Every Coincidences Explained by Science, Psychology &amp; Math...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WfueiqjVkPA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WfueiqjVkPA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Every Coincidences Explained by Science, Psychology &amp; Math...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: The Mathematics of Coincidence  
-   Link: <a href="https://www.youtube.com/watch?v=RBG_T-KUvj0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RBG_T-KUvj0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Probability and Outrageous Events: David J. Hand on The Law of Truly Large Numbers...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=RBG_T-KUvj0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RBG_T-KUvj0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Probability and Outrageous Events: David J. Hand on The Law of Truly Large Numbers...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: richardwiseman.com  
-   Link: <a href="https://richardwiseman.com/resources/The_Luck_Factor.pdf" target="_blank" rel="noopener noreferrer nofollow">https://richardwiseman.com/resources/The_Luck_Factor.pdf</a>  
+   Link:<a href="https://richardwiseman.com/resources/The_Luck_Factor.pdf" target="_blank" rel="noopener noreferrer nofollow">https://richardwiseman.com/resources/The_Luck_Factor.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: cantab.net  
-   Link: <a href="https://www.cantab.net/users/michael.behrend/ebooks/MoreThings/pages/Chapter_01.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cantab.net/users/michael.behrend/ebooks/MoreThings/pages/Chapter_01.html</a>  
+   Link:<a href="https://www.cantab.net/users/michael.behrend/ebooks/MoreThings/pages/Chapter_01.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cantab.net/users/michael.behrend/ebooks/MoreThings/pages/Chapter_01.html</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/303104146_The_Experience_of_Coincidence_An_Integrated_Psychological_and_Neurocognitive_Perspective" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/303104146_The_Experience_of_Coincidence_An_Integrated_Psychological_and_Neurocognitive_Perspective</a>  
+   Link:<a href="https://www.researchgate.net/publication/303104146_The_Experience_of_Coincidence_An_Integrated_Psychological_and_Neurocognitive_Perspective" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/303104146_The_Experience_of_Coincidence_An_Integrated_Psychological_and_Neurocognitive_Perspective</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: psychologytoday.com  
-   Link: <a href="https://www.psychologytoday.com/gb/basics/apophenia" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/basics/apophenia</a>  
+   Link:<a href="https://www.psychologytoday.com/gb/basics/apophenia" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/basics/apophenia</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/h2g2da42/posts/10160105500349468/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/h2g2da42/posts/10160105500349468/</a>  
+   Link:<a href="https://www.facebook.com/groups/h2g2da42/posts/10160105500349468/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/h2g2da42/posts/10160105500349468/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2744997828852476/posts/5915622445123316/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2744997828852476/posts/5915622445123316/</a>  
+   Link:<a href="https://www.facebook.com/groups/2744997828852476/posts/5915622445123316/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2744997828852476/posts/5915622445123316/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/264275179_Coincidences_are_more_likely_than_you_think_The_birthday_paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/264275179_Coincidences_are_more_likely_than_you_think_The_birthday_paradox</a>  
+   Link:<a href="https://www.researchgate.net/publication/264275179_Coincidences_are_more_likely_than_you_think_The_birthday_paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/264275179_Coincidences_are_more_likely_than_you_think_The_birthday_paradox</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/sunday.roast.media/posts/do-you-believe-in-coincidence-some-people-say-its-all-about-probabilities-others/322310983071672/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sunday.roast.media/posts/do-you-believe-in-coincidence-some-people-say-its-all-about-probabilities-others/322310983071672/</a>  
+   Link:<a href="https://www.facebook.com/sunday.roast.media/posts/do-you-believe-in-coincidence-some-people-say-its-all-about-probabilities-others/322310983071672/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sunday.roast.media/posts/do-you-believe-in-coincidence-some-people-say-its-all-about-probabilities-others/322310983071672/</a>  

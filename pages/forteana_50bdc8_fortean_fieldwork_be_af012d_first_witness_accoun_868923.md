@@ -280,7 +280,7 @@ image: /assets/images/forteana_50bdc8_fortean_fieldwork_be_af012d_first_witness_
 
 ## Introduction
 
-The earliest version of a strange report is often the most valuable piece of evidence a Fortean investigator will ever obtain. Before rumours spread, witnesses compare memories, or [newspapers]({{ 'newspapers/' | relative_url }}) and social media supply ready-made explanations, there is usually a brief period when observations are closest to what the witness actually experienced. That [first account]({{ 'first-account/' | relative_url }}) is rarely perfect, but it is typically less contaminated by later interpretation than any version recorded days or weeks afterwards. Research on eyewitness memory consistently shows that recall can be altered by later conversations, leading questions and media coverage, making prompt documentation one of the strongest safeguards available to investigators. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/lcrp.70020" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bpspsychub.onlinelibrary.wiley.com">[BPS PsychHub+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bpspsychub.onlinelibrary.wiley.com</span><span class="citation-popover-title">BPS Psych Hub The history of an idea: The misinformation effect</span><span class="citation-popover-snippet">BPS PsychHubThe history of an idea: The misinformation effect - Loftus24 Dec 2025 — Misinformation effects in eyewitness memory: The pres...</span></span></span>
+The earliest version of a strange report is often the most valuable piece of evidence a Fortean investigator will ever obtain. Before rumours spread, witnesses compare memories, or [newspapers]({{ 'newspapers/' | relative_url }}) and social media supply ready-made explanations, there is usually a brief period when observations are closest to what the witness actually experienced. That [first account]({{ 'first-account/' | relative_url }}) is rarely perfect, but it is typically less contaminated by later interpretation than any version recorded days or weeks afterwards. Research on eyewitness memory consistently shows that recall can be altered by later conversations, leading questions and media coverage, making prompt documentation one of the strongest safeguards available to investigators.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/lcrp.70020" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bpspsychub.onlinelibrary.wiley.com">[BPS PsychHub+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bpspsychub.onlinelibrary.wiley.com</span><span class="citation-popover-title">BPS Psych Hub The history of an idea: The misinformation effect</span><span class="citation-popover-snippet">BPS PsychHubThe history of an idea: The misinformation effect - Loftus24 Dec 2025 — Misinformation effects in eyewitness memory: The pres...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_fortean_fieldwork_be_af012d_first_witness_accoun_868923-Illustration-1-dark.svg" | relative_url }}" alt="First Accounts illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_fortean_fieldwork_be_af012d_first_witness_accoun_868923-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_fortean_fieldwork_be_af012d_first_witness_accoun_868923-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -314,13 +314,13 @@ For Fortean investigations, preserving the distinction between observation and e
 
 ## How Retelling Changes Details
 
-Human memory is reconstructive rather than photographic. Each act of remembering involves rebuilding an event rather than replaying a perfect recording. Decades of psychological research, particularly work associated with Elizabeth Loftus and subsequent researchers, has demonstrated the "misinformation effect": exposure to inaccurate post-event information can become incorporated into sincere recollections. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/lcrp.70020" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bpspsychub.onlinelibrary.wiley.com">[BPS PsychHub+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bpspsychub.onlinelibrary.wiley.com</span><span class="citation-popover-title">BPS Psych Hub The history of an idea: The misinformation effect</span><span class="citation-popover-snippet">BPS PsychHubThe history of an idea: The misinformation effect - Loftus24 Dec 2025 — Misinformation effects in eyewitness memory: The pres...</span></span></span>
+Human memory is reconstructive rather than photographic. Each act of remembering involves rebuilding an event rather than replaying a perfect recording. Decades of psychological research, particularly work associated with Elizabeth Loftus and subsequent researchers, has demonstrated the "misinformation effect": exposure to inaccurate post-event information can become incorporated into sincere recollections.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/lcrp.70020" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bpspsychub.onlinelibrary.wiley.com">[BPS PsychHub+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bpspsychub.onlinelibrary.wiley.com</span><span class="citation-popover-title">BPS Psych Hub The history of an idea: The misinformation effect</span><span class="citation-popover-snippet">BPS PsychHubThe history of an idea: The misinformation effect - Loftus24 Dec 2025 — Misinformation effects in eyewitness memory: The pres...</span></span></span>
 
 Several common processes are especially relevant to Fortean reports.
 
-**Witness discussion.** Two people who experienced the same event often exchange details afterwards. Over time they may unknowingly adopt each other's memories until both accounts become unusually similar. Agreement reached after discussion should not automatically be treated as independent corroboration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/1068316X.2026.2637901" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineNews as a form of post-event information: the effect of...by Z Crittenden · 2026 — Decades of research into the m...</span></span></span>
+**Witness discussion.** Two people who experienced the same event often exchange details afterwards. Over time they may unknowingly adopt each other's memories until both accounts become unusually similar. Agreement reached after discussion should not automatically be treated as independent corroboration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/1068316X.2026.2637901" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineNews as a form of post-event information: the effect of...by Z Crittenden · 2026 — Decades of research into the m...</span></span></span>
 
-**Media influence.** Newspaper articles, television reports and online discussions frequently introduce descriptions that witnesses later repeat. Experimental research shows that even news coverage containing misleading information can alter later recall. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/1068316X.2026.2637901" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineNews as a form of post-event information: the effect of...by Z Crittenden · 2026 — Decades of research into the m...</span></span></span>
+**Media influence.** Newspaper articles, television reports and online discussions frequently introduce descriptions that witnesses later repeat. Experimental research shows that even news coverage containing misleading information can alter later recall.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/1068316X.2026.2637901" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineNews as a form of post-event information: the effect of...by Z Crittenden · 2026 — Decades of research into the m...</span></span></span>
 
 **Repeated storytelling.** Every retelling encourages a witness to organise the event into a coherent narrative. Missing details become filled in, uncertain timings become precise, and tentative impressions gradually harden into confident statements.
 
@@ -365,7 +365,7 @@ Useful priorities include:
 * **Environmental conditions.** Lighting, [weather]({{ 'weather/' | relative_url }}), background noise and visibility often become harder to reconstruct later.
 * **Independent accounts.** Interview witnesses separately whenever practical before they compare memories.
 
-Open-ended questions generally produce more reliable information than leading ones. "Tell me everything you remember" encourages observation. Questions such as "Did the creature have glowing eyes?" introduce details that may later become incorporated into memory. Research underpinning the cognitive interview method similarly favours non-leading recall over suggestive questioning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cognitive_interview" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cognitive interview</span><span class="citation-popover-snippet">Cognitive interview</span></span></span>
+Open-ended questions generally produce more reliable information than leading ones. "Tell me everything you remember" encourages observation. Questions such as "Did the creature have glowing eyes?" introduce details that may later become incorporated into memory. Research underpinning the cognitive interview method similarly favours non-leading recall over suggestive questioning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cognitive_interview" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cognitive interview</span><span class="citation-popover-snippet">Cognitive interview</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/buhMdC7MO0U" title="Scott Fraser: The problem with eyewitness testimony" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=buhMdC7MO0U" target="_blank" rel="noopener noreferrer">Scott Fraser: The problem with eyewitness testimony</a></p><p class="youtube-embed-meta">Channel: TED &middot; Views: 246.2K &middot; Uploaded: September 2012 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=buhMdC7MO0U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=buhMdC7MO0U">Open on YouTube</a></p></div></div></div>
@@ -404,7 +404,7 @@ This approach also reduces confirmation bias. Rather than collecting reports tha
 <img src="{{ "/assets/images/forteana_50bdc8_fortean_fieldwork_be_af012d_first_witness_accoun_868923-Illustration-3-dark.svg" | relative_url }}" alt="First Accounts illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_fortean_fieldwork_be_af012d_first_witness_accoun_868923-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_fortean_fieldwork_be_af012d_first_witness_accoun_868923-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why First Accounts Remain the Strongest Evidence
 
-Early witness reports are not infallible. People can misperceive events, estimate distances poorly and forget details even within minutes. Nevertheless, the earliest available account usually provides the closest approximation to what the witness originally experienced before memory becomes mixed with conversation, publicity or folklore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2BPS PsychHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A Behavioral Account of the Misinformation Effect - PMCby DM Challies · 2011 · Cited by 34 — The paradigmatic misinformation study (Lo...</span></span></span>
+Early witness reports are not infallible. People can misperceive events, estimate distances poorly and forget details even within minutes. Nevertheless, the earliest available account usually provides the closest approximation to what the witness originally experienced before memory becomes mixed with conversation, publicity or folklore.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2BPS PsychHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A Behavioral Account of the Misinformation Effect - PMCby DM Challies · 2011 · Cited by 34 — The paradigmatic misinformation study (Lo...</span></span></span>
 
 For Fortean fieldwork, the practical lesson is straightforward: preserve first-hand observations immediately, document uncertainty instead of smoothing it away, and treat later embellishments as part of the case's history rather than part of the original evidence. By distinguishing the first strange report from the legend that may later grow around it, investigators retain the best chance of understanding what actually happened.
 
@@ -413,194 +413,194 @@ For Fortean fieldwork, the practical lesson is straightforward: preserve first-h
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the First Strange Report Matters Most. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the First Strange Report Matters Most. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Encourages documenting evidence before drawing conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages documenting evidence before drawing conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Eyewitness Testimony on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WgcsAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Eyewitness Testimony" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Eyewitness Testimony">Eyewitness Testimony</a>
-        </h4>
-        <p class="fr-book-author">By Elizabeth F. Loftus, James M. Doyle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Eyewitness Testimony on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WgcsAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Eyewitness Testimony" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Eyewitness Testimony">Eyewitness Testimony</a>
+</h4>
+<p class="fr-book-author">By Elizabeth F. Loftus, James M. Doyle</p>
         
-        <p class="fr-book-desc">Directly addresses how first accounts differ from later recollections.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses how first accounts differ from later recollections.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explains cognitive influences on recollection and belief.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains cognitive influences on recollection and belief.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Demonstrates the value of preserving primary witness testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates the value of preserving primary witness testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Eyewitness+Testimony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Eyewitness Testimony</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Eyewitness+Testimony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Eyewitness Testimony</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=field+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="field notebook" data-ebay-reference="first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NEW KombatUK A6 All Weather Military Army Waterproof Notebook Notepad 50 Page"><img src="{{ '/assets/images/marketplace-covers/49a1cc7be5e7aea9b30a.jpg' | relative_url }}" alt="Listing image for NEW KombatUK A6 All Weather Military Army Waterproof Notebook Notepad 50 Page" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=field+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="field notebook" data-ebay-reference="first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook" target="_blank" rel="sponsored noopener noreferrer">NEW KombatUK A6 All Weather Military Army Waterproof Notebook Notepad 50 Page</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=field+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="field notebook" data-ebay-reference="first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for field notebook">Search <span data-ebay-domain-label>eBay.co.uk</span>: field notebook</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=field+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="field notebook" data-ebay-reference="first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=field+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="field notebook" data-ebay-reference="first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NEW KombatUK A6 All Weather Military Army Waterproof Notebook Notepad 50 Page"><img src="{{ '/assets/images/marketplace-covers/49a1cc7be5e7aea9b30a.jpg' | relative_url }}" alt="Listing image for NEW KombatUK A6 All Weather Military Army Waterproof Notebook Notepad 50 Page" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=field+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="field notebook" data-ebay-reference="first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook" target="_blank" rel="sponsored noopener noreferrer">NEW KombatUK A6 All Weather Military Army Waterproof Notebook Notepad 50 Page</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=field+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="field notebook" data-ebay-reference="first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for field notebook">Search<span data-ebay-domain-label>eBay.co.uk</span>: field notebook</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=field+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="field notebook" data-ebay-reference="first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=field+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="field notebook" data-ebay-reference="first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Field Notes Style Mini Pocket Notebooks Blank Unlined Small Notepads 3.5&quot;x 5&quot;"><img src="{{ '/assets/images/marketplace-covers/8e9d3bda232ff6d85405.jpg' | relative_url }}" alt="Listing image for Field Notes Style Mini Pocket Notebooks Blank Unlined Small Notepads 3.5&quot;x 5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=field+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="field notebook" data-ebay-reference="first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook" target="_blank" rel="sponsored noopener noreferrer">Field Notes Style Mini Pocket Notebooks Blank Unlined Small Notepads 3.5&quot;x 5&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=field+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="field notebook" data-ebay-reference="first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for field notebook">Search <span data-ebay-domain-label>eBay.co.uk</span>: field notebook</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=field+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="field notebook" data-ebay-reference="first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=field+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="field notebook" data-ebay-reference="first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Field Notes Style Mini Pocket Notebooks Blank Unlined Small Notepads 3.5&quot;x 5&quot;"><img src="{{ '/assets/images/marketplace-covers/8e9d3bda232ff6d85405.jpg' | relative_url }}" alt="Listing image for Field Notes Style Mini Pocket Notebooks Blank Unlined Small Notepads 3.5&quot;x 5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=field+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="field notebook" data-ebay-reference="first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook" target="_blank" rel="sponsored noopener noreferrer">Field Notes Style Mini Pocket Notebooks Blank Unlined Small Notepads 3.5&quot;x 5&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=field+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="field notebook" data-ebay-reference="first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for field notebook">Search<span data-ebay-domain-label>eBay.co.uk</span>: field notebook</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=field+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="field notebook" data-ebay-reference="first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=field+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="field notebook" data-ebay-reference="first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Waterproof Notebook Notepad A6 A5 A4 Pocket Military Army Cadet Outdoor Orders"><img src="{{ '/assets/images/marketplace-covers/0e373585f6c48735cdc4.jpg' | relative_url }}" alt="Listing image for Waterproof Notebook Notepad A6 A5 A4 Pocket Military Army Cadet Outdoor Orders" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=field+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="field notebook" data-ebay-reference="first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook" target="_blank" rel="sponsored noopener noreferrer">Waterproof Notebook Notepad A6 A5 A4 Pocket Military Army Cadet Outdoor Orders</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=field+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="field notebook" data-ebay-reference="first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for field notebook">Search <span data-ebay-domain-label>eBay.co.uk</span>: field notebook</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=field+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="field notebook" data-ebay-reference="first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=field+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="field notebook" data-ebay-reference="first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Waterproof Notebook Notepad A6 A5 A4 Pocket Military Army Cadet Outdoor Orders"><img src="{{ '/assets/images/marketplace-covers/0e373585f6c48735cdc4.jpg' | relative_url }}" alt="Listing image for Waterproof Notebook Notepad A6 A5 A4 Pocket Military Army Cadet Outdoor Orders" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=field+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="field notebook" data-ebay-reference="first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook" target="_blank" rel="sponsored noopener noreferrer">Waterproof Notebook Notepad A6 A5 A4 Pocket Military Army Cadet Outdoor Orders</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=field+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="field notebook" data-ebay-reference="first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for field notebook">Search<span data-ebay-domain-label>eBay.co.uk</span>: field notebook</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=field+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="field notebook" data-ebay-reference="first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=field+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="field notebook" data-ebay-reference="first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Military Field Notebook Case - Modestone Waterproof Notepad 76x130mm"><img src="{{ '/assets/images/marketplace-covers/154b12e2e0bc7b76ace0.jpg' | relative_url }}" alt="Listing image for Military Field Notebook Case - Modestone Waterproof Notepad 76x130mm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=field+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="field notebook" data-ebay-reference="first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook" target="_blank" rel="sponsored noopener noreferrer">Military Field Notebook Case - Modestone Waterproof Notepad 76x130mm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=field+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="field notebook" data-ebay-reference="first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for field notebook">Search <span data-ebay-domain-label>eBay.co.uk</span>: field notebook</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=field+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="field notebook" data-ebay-reference="first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=field+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="field notebook" data-ebay-reference="first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=field+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="field notebook" data-ebay-reference="first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Military Field Notebook Case - Modestone Waterproof Notepad 76x130mm"><img src="{{ '/assets/images/marketplace-covers/154b12e2e0bc7b76ace0.jpg' | relative_url }}" alt="Listing image for Military Field Notebook Case - Modestone Waterproof Notepad 76x130mm" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=field+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="field notebook" data-ebay-reference="first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook" target="_blank" rel="sponsored noopener noreferrer">Military Field Notebook Case - Modestone Waterproof Notepad 76x130mm</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=field+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="field notebook" data-ebay-reference="first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for field notebook">Search<span data-ebay-domain-label>eBay.co.uk</span>: field notebook</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=field+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="field notebook" data-ebay-reference="first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=field+notebook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="field notebook" data-ebay-reference="first-accounts-why-the-first-strange-report-matters-most-forteana-field-notebook" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -616,7 +616,7 @@ For Fortean fieldwork, the practical lesson is straightforward: preserve first-h
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -636,7 +636,7 @@ For Fortean fieldwork, the practical lesson is straightforward: preserve first-h
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -668,7 +668,7 @@ For Fortean fieldwork, the practical lesson is straightforward: preserve first-h
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -720,7 +720,7 @@ For Fortean fieldwork, the practical lesson is straightforward: preserve first-h
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -765,7 +765,7 @@ For Fortean fieldwork, the practical lesson is straightforward: preserve first-h
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -806,87 +806,87 @@ For Fortean fieldwork, the practical lesson is straightforward: preserve first-h
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Cognitive interview  
-   Link: <a href="https://en.wikipedia.org/wiki/Cognitive_interview" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cognitive_interview</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cognitive_interview" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cognitive_interview</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Misinformation effect  
-   Link: <a href="https://en.wikipedia.org/wiki/Misinformation_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Misinformation_effect</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation effectThe misinformation effect occurs when a person&#x27;s recall of episodic memories becomes less accurate because of pos...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Misinformation_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Misinformation_effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation effectThe misinformation effect occurs when a person&#x27;s recall of episodic memories becomes less accurate because of pos...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: bpspsychub.onlinelibrary.wiley.com  
    Title: BPS Psych Hub The history of an idea: The misinformation effect  
-   Link: <a href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/lcrp.70020" target="_blank" rel="noopener noreferrer nofollow">https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/lcrp.70020</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BPS PsychHubThe history of an idea: The misinformation effect - Loftus24 Dec 2025 — Misinformation effects in eyewitness memory: The pres...</p></details>
+   Link:<a href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/lcrp.70020" target="_blank" rel="noopener noreferrer nofollow">https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/lcrp.70020</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BPS PsychHubThe history of an idea: The misinformation effect - Loftus24 Dec 2025 — Misinformation effects in eyewitness memory: The pres...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Behavioral Account of the Misinformation Effect - PMCby DM Challies · 2011 · Cited by 34 — The paradigmatic misinformation study (Lo...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Behavioral Account of the Misinformation Effect - PMCby DM Challies · 2011 · Cited by 34 — The paradigmatic misinformation study (Lo...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/1068316X.2026.2637901" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/1068316X.2026.2637901</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineNews as a form of post-event information: the effect of...by Z Crittenden · 2026 — Decades of research into the m...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/1068316X.2026.2637901" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/1068316X.2026.2637901</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineNews as a form of post-event information: the effect of...by Z Crittenden · 2026 — Decades of research into the m...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
    Title: eyewitness memory  
-   Link: <a href="https://www.researchgate.net/profile/Cara_Laney/publication/229515052_Eyewitness_memory/links/09e41500f137a4fb9d000000/Eyewitness-memory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Cara_Laney/publication/229515052_Eyewitness_memory/links/09e41500f137a4fb9d000000/Eyewitness-memory.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>loftusIn an early study of the misinformation effect, Loftus and Palmer (1974) showed subjects a film depicting a car accident. Some subj...</p></details>
+   Link:<a href="https://www.researchgate.net/profile/Cara_Laney/publication/229515052_Eyewitness_memory/links/09e41500f137a4fb9d000000/Eyewitness-memory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Cara_Laney/publication/229515052_Eyewitness_memory/links/09e41500f137a4fb9d000000/Eyewitness-memory.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>loftusIn an early study of the misinformation effect, Loftus and Palmer (1974) showed subjects a film depicting a car accident. Some subj...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: eprints.whiterose.ac.uk  
-   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/175787/3/Eyewitness%20Testimony%2C%20Misinformation%20Effect%20and%20Reasonable%20Doubt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/175787/3/Eyewitness%20Testimony%2C%20Misinformation%20Effect%20and%20Reasonable%20Doubt.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Testimony, Misinformation Effect and...by C Bennett · 2021 · Cited by 2 — Sometimes we can have memories suggested to us about events th...</p></details>
+   Link:<a href="https://eprints.whiterose.ac.uk/id/eprint/175787/3/Eyewitness%20Testimony%2C%20Misinformation%20Effect%20and%20Reasonable%20Doubt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/175787/3/Eyewitness%20Testimony%2C%20Misinformation%20Effect%20and%20Reasonable%20Doubt.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Testimony, Misinformation Effect and...by C Bennett · 2021 · Cited by 2 — Sometimes we can have memories suggested to us about events th...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pure.port.ac.uk  
-   Link: <a href="https://pure.port.ac.uk/ws/portalfiles/portal/28888258/Double_misinformation_paper_14.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.port.ac.uk/ws/portalfiles/portal/28888258/Double_misinformation_paper_14.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation: Effects on eyewitness rememberingby H Blank · Cited by 16 — The misinformation effect (Loftus, Miller &amp; Burns, 1978) is a...</p></details>
+   Link:<a href="https://pure.port.ac.uk/ws/portalfiles/portal/28888258/Double_misinformation_paper_14.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.port.ac.uk/ws/portalfiles/portal/28888258/Double_misinformation_paper_14.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation: Effects on eyewitness rememberingby H Blank · Cited by 16 — The misinformation effect (Loftus, Miller &amp; Burns, 1978) is a...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: personal.kent.edu  
    Title: Zaragoza chapter 4 Garry Hayne  
-   Link: <a href="https://www.personal.kent.edu/~mzaragoz/publications/Zaragoza%20chapter%204%20Garry%20Hayne.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.personal.kent.edu/~mzaragoz/publications/Zaragoza%20chapter%204%20Garry%20Hayne.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects and the Suggestibility of Eyewitness...by MS Zaragoza · Cited by 227 — From her earliest writings, Loftus was a strong proponent...</p></details>
+   Link:<a href="https://www.personal.kent.edu/~mzaragoz/publications/Zaragoza%20chapter%204%20Garry%20Hayne.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.personal.kent.edu/~mzaragoz/publications/Zaragoza%20chapter%204%20Garry%20Hayne.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effects and the Suggestibility of Eyewitness...by MS Zaragoza · Cited by 227 — From her earliest writings, Loftus was a strong proponent...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: faculty.washington.edu  
    Title: Elizabeth F. Loftus Read more  
-   Link: <a href="https://faculty.washington.edu/eloftus/Articles/hoff.htm" target="_blank" rel="noopener noreferrer nofollow">https://faculty.washington.edu/eloftus/Articles/hoff.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UW Faculty Web ServerMisinformation and Memory The Creation of New Memoriesby EF Loftus · Cited by 24 — &quot;Misinformation and Memory, The C...</p></details>
+   Link:<a href="https://faculty.washington.edu/eloftus/Articles/hoff.htm" target="_blank" rel="noopener noreferrer nofollow">https://faculty.washington.edu/eloftus/Articles/hoff.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UW Faculty Web ServerMisinformation and Memory The Creation of New Memoriesby EF Loftus · Cited by 24 — &quot;Misinformation and Memory, The C...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: How reliable is your memory? | Elizabeth Loftus  
-   Link: <a href="https://www.youtube.com/watch?v=PB2OegI6wvI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PB2OegI6wvI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EYE WITNESS TESTIMONY - Loftus &amp; Palmer (1974) Car Crash Experiment...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PB2OegI6wvI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PB2OegI6wvI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EYE WITNESS TESTIMONY - Loftus &amp; Palmer (1974) Car Crash Experiment...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Scott Fraser: The problem with eyewitness testimony  
-   Link: <a href="https://www.youtube.com/watch?v=buhMdC7MO0U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=buhMdC7MO0U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How reliable is your memory? | Elizabeth Loftus...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=buhMdC7MO0U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=buhMdC7MO0U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How reliable is your memory? | Elizabeth Loftus...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=m6aY9Wr-xjI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m6aY9Wr-xjI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scott Fraser: The problem with eyewitness testimony...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=m6aY9Wr-xjI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m6aY9Wr-xjI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scott Fraser: The problem with eyewitness testimony...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: EYE WITNESS TESTIMONY  
-   Link: <a href="https://www.youtube.com/watch?v=-tbwrUYqytQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-tbwrUYqytQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Folklore of Mythology...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-tbwrUYqytQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-tbwrUYqytQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Folklore of Mythology...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: The Folklore of Mythology  
-   Link: <a href="https://www.youtube.com/watch?v=XM7WVajUokE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XM7WVajUokE</a>  
+   Link:<a href="https://www.youtube.com/watch?v=XM7WVajUokE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XM7WVajUokE</a>  

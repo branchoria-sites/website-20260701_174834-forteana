@@ -278,7 +278,7 @@ Many Fortean accounts begin with a person describing something they genuinely be
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_skepticism_without_d_bca821_witness_sincerity_me_9f0c73-Illustration-1-dark.svg" | relative_url }}" alt="Witnesses illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_skepticism_without_d_bca821_witness_sincerity_me_9f0c73-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_skepticism_without_d_bca821_witness_sincerity_me_9f0c73-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research on eyewitness testimony has repeatedly shown that memory is reconstructive rather than a perfect recording. People can recall real experiences inaccurately without intending to mislead, and confidence alone is not a reliable guide to accuracy. These findings matter far beyond criminal courts. They offer a practical framework for reading unusual reports with empathy and intellectual caution rather than either belief or ridicule. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4183265/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Neuroscience of Memory: Implications for the Courtroomby JW Lacy · 2013 · Cited by 263 — Findings from basic psychological researc...</span></span></span>
+Research on eyewitness testimony has repeatedly shown that memory is reconstructive rather than a perfect recording. People can recall real experiences inaccurately without intending to mislead, and confidence alone is not a reliable guide to accuracy. These findings matter far beyond criminal courts. They offer a practical framework for reading unusual reports with empathy and intellectual caution rather than either belief or ridicule.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4183265/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Neuroscience of Memory: Implications for the Courtroomby JW Lacy · 2013 · Cited by 263 — Findings from basic psychological researc...</span></span></span>
 
 ## Why sincerity is not proof
 
@@ -299,7 +299,7 @@ Instead, investigators benefit from separating three distinct possibilities:
 
 Only the first possibility concerns honesty. The other two involve perception and interpretation rather than character.
 
-Modern research on eyewitness evidence reinforces this distinction. Scientific reviews consistently find that many ordinary influences—including distance, lighting, stress, viewing angle and the passage of time—affect what people later remember without implying deception. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/18891/chapter/2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies+2National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesIdentifying the Culprit: Assessing Eyewitness Identification...Throughout this report, the term identification denotes...</span></span></span>
+Modern research on eyewitness evidence reinforces this distinction. Scientific reviews consistently find that many ordinary influences—including distance, lighting, stress, viewing angle and the passage of time—affect what people later remember without implying deception.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/18891/chapter/2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies+2National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesIdentifying the Culprit: Assessing Eyewitness Identification...Throughout this report, the term identification denotes...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/m6aY9Wr-xjI" title="Psychology - Eyewitness Testimony" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=m6aY9Wr-xjI" target="_blank" rel="noopener noreferrer">Psychology - Eyewitness Testimony</a></p><p class="youtube-embed-meta">Channel: Cognito &middot; Views: 2.6K &middot; Uploaded: March 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=m6aY9Wr-xjI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=m6aY9Wr-xjI">Open on YouTube</a></p></div></div></div>
@@ -316,7 +316,7 @@ Many unusual experiences occur under poor viewing conditions: distant lights, da
 
 This does not mean witnesses invent experiences. It means that perception itself already contains interpretation before memory even begins. Later certainty may reflect the brain settling on one explanation rather than preserving uncertainty.
 
-Research reviewed by the National Academies identifies limited viewing time, poor illumination, stress and distance as important influences on later eyewitness accuracy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/18891/chapter/2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesIdentifying the Culprit: Assessing Eyewitness Identification...Throughout this report, the term identification denotes...</span></span></span>
+Research reviewed by the National Academies identifies limited viewing time, poor illumination, stress and distance as important influences on later eyewitness accuracy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/18891/chapter/2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesIdentifying the Culprit: Assessing Eyewitness Identification...Throughout this report, the term identification denotes...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_skepticism_without_d_bca821_witness_sincerity_me_9f0c73-Illustration-2-dark.svg" | relative_url }}" alt="Witnesses illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_skepticism_without_d_bca821_witness_sincerity_me_9f0c73-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_skepticism_without_d_bca821_witness_sincerity_me_9f0c73-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -324,7 +324,7 @@ Research reviewed by the National Academies identifies limited viewing time, poo
 
 Witnesses rarely remain isolated after an unusual event. They discuss it with friends, compare stories, read newspaper articles, revisit the location or encounter online explanations. Each encounter creates opportunities for new information to become incorporated into recollection.
 
-Laboratory research on the misinformation effect has demonstrated that misleading post-event information can alter later memories while leaving people genuinely convinced they remember the modified version. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A Behavioral Account of the Misinformation Effect - PMCby DM Challies · 2011 · Cited by 34 — This research has focused on both basic (...</span></span></span>
+Laboratory research on the misinformation effect has demonstrated that misleading post-event information can alter later memories while leaving people genuinely convinced they remember the modified version.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A Behavioral Account of the Misinformation Effect - PMCby DM Challies · 2011 · Cited by 34 — This research has focused on both basic (...</span></span></span>
 
 For Fortean cases, this means investigators should distinguish between:
 
@@ -342,7 +342,7 @@ The earliest documentation often preserves valuable uncertainty that later [rete
 
 People often assume that confident witnesses must possess accurate memories. Decades of research show that the relationship is far more complicated.
 
-Confidence can increase after social reinforcement, repeated retelling or confirming feedback even when memory itself has not become more accurate. Consequently, an emotionally compelling narrative delivered years later should not automatically outweigh a hesitant contemporary account made soon after the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://judicature.duke.edu/articles/a-clearer-view-the-impact-of-the-national-academy-of-sciences-report-on-eyewitness-identification/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: judicature.duke.edu">[Judicature+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">judicature.duke.edu</span><span class="citation-popover-snippet">A Clearer View: The Impact of the National Academy of...Overconfidence may be the most pernicious problem with eyewitness test...</span></span></span>
+Confidence can increase after social reinforcement, repeated retelling or confirming feedback even when memory itself has not become more accurate. Consequently, an emotionally compelling narrative delivered years later should not automatically outweigh a hesitant contemporary account made soon after the event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://judicature.duke.edu/articles/a-clearer-view-the-impact-of-the-national-academy-of-sciences-report-on-eyewitness-identification/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: judicature.duke.edu">[Judicature+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">judicature.duke.edu</span><span class="citation-popover-snippet">A Clearer View: The Impact of the National Academy of...Overconfidence may be the most pernicious problem with eyewitness test...</span></span></span>
 
 ## Respectful questions that preserve testimony
 
@@ -366,7 +366,7 @@ Instead of asking, "Do you think it was paranormal?", an investigator might ask:
 
 These questions preserve the witness's experience while reducing opportunities to unintentionally reshape it.
 
-Research on investigative interviewing has shown that carefully structured approaches such as the Cognitive Interview can improve the amount of accurate information recalled without relying on leading questions. Equally important is avoiding suggestive questioning that pressures witnesses towards a particular explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.college.police.uk/s3fs-public/2020-11/Initial_Accounts_REA.pdf?v=1606213205" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.college.police.uk">[assets.college.police.uk+2Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.college.police.uk</span><span class="citation-popover-snippet">It uses different retrieval techniques to prompt the...Read more...</span></span></span>
+Research on investigative interviewing has shown that carefully structured approaches such as the Cognitive Interview can improve the amount of accurate information recalled without relying on leading questions. Equally important is avoiding suggestive questioning that pressures witnesses towards a particular explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.college.police.uk/s3fs-public/2020-11/Initial_Accounts_REA.pdf?v=1606213205" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.college.police.uk">[assets.college.police.uk+2Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.college.police.uk</span><span class="citation-popover-snippet">It uses different retrieval techniques to prompt the...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_skepticism_without_d_bca821_witness_sincerity_me_9f0c73-Illustration-3-dark.svg" | relative_url }}" alt="Witnesses illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_skepticism_without_d_bca821_witness_sincerity_me_9f0c73-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_skepticism_without_d_bca821_witness_sincerity_me_9f0c73-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -385,194 +385,194 @@ That distinction allows sincere witnesses to be treated with dignity while keepi
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can a Sincere Witness Still Be Wrong?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can a Sincere Witness Still Be Wrong?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
+</h4>
+<p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
         
-        <p class="fr-book-desc">Demonstrates limits of perception and memory.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates limits of perception and memory.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explains honest self-deception and sincere error.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains honest self-deception and sincere error.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports balanced evaluation of testimony and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports balanced evaluation of testimony and evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Shows recurring patterns of collective belief.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Shows recurring patterns of collective belief.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3pcs Neurology &amp; Psychology Wall Art Canvas Unframed/Framed"><img src="{{ '/assets/images/marketplace-covers/c0faa0441e457a78b4cb.jpg' | relative_url }}" alt="Listing image for 3pcs Neurology &amp; Psychology Wall Art Canvas Unframed/Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer">3pcs Neurology &amp; Psychology Wall Art Canvas Unframed/Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: psychology wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3pcs Neurology &amp; Psychology Wall Art Canvas Unframed/Framed"><img src="{{ '/assets/images/marketplace-covers/c0faa0441e457a78b4cb.jpg' | relative_url }}" alt="Listing image for 3pcs Neurology &amp; Psychology Wall Art Canvas Unframed/Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer">3pcs Neurology &amp; Psychology Wall Art Canvas Unframed/Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: psychology wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Parts Of Brain Psychology Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9d55718535d3f8dac09e.jpg' | relative_url }}" alt="Listing image for Parts Of Brain Psychology Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Parts Of Brain Psychology Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: psychology wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Parts Of Brain Psychology Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9d55718535d3f8dac09e.jpg' | relative_url }}" alt="Listing image for Parts Of Brain Psychology Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Parts Of Brain Psychology Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: psychology wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/917838c5c8dbbd984648.jpg' | relative_url }}" alt="Listing image for Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: psychology wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/917838c5c8dbbd984648.jpg' | relative_url }}" alt="Listing image for Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: psychology wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Psychology symbol Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ed441eae68b77d8d8b77.jpg' | relative_url }}" alt="Listing image for Psychology symbol Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Psychology symbol Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: psychology wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Psychology symbol Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ed441eae68b77d8d8b77.jpg' | relative_url }}" alt="Listing image for Psychology symbol Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Psychology symbol Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: psychology wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="witnesses-967c81-can-a-sincere-witness-still-be-wrong-forteana-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -588,7 +588,7 @@ That distinction allows sincere witnesses to be treated with dignity while keepi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -608,7 +608,7 @@ That distinction allows sincere witnesses to be treated with dignity while keepi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -640,7 +640,7 @@ That distinction allows sincere witnesses to be treated with dignity while keepi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -692,7 +692,7 @@ That distinction allows sincere witnesses to be treated with dignity while keepi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -737,7 +737,7 @@ That distinction allows sincere witnesses to be treated with dignity while keepi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -778,219 +778,219 @@ That distinction allows sincere witnesses to be treated with dignity while keepi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4183265/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4183265/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Neuroscience of Memory: Implications for the Courtroomby JW Lacy · 2013 · Cited by 263 — Findings from basic psychological researc...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4183265/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4183265/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Neuroscience of Memory: Implications for the Courtroomby JW Lacy · 2013 · Cited by 263 — Findings from basic psychological researc...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe fallibility of memory in judicial processes  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4409058/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4409058/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>fallibility of memory in judicial processes - PMC - NIHby ML Howe · 2015 · Cited by 228 — In this review, we focus on what we now know ab...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4409058/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4409058/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fallibility of memory in judicial processes - PMC - NIHby ML Howe · 2015 · Cited by 228 — In this review, we focus on what we now know ab...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: onlinelibrary.wiley.com  
    Title: Online Library Eyewitness testimony  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1002/acp.3542" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1002/acp.3542</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryEyewitness testimony - Loftus - 201912 Mar 2019 — Using a somewhat conservative coding scheme, they reported that abo...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/10.1002/acp.3542" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1002/acp.3542</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryEyewitness testimony - Loftus - 201912 Mar 2019 — Using a somewhat conservative coding scheme, they reported that abo...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCFalse memories in forensic [psychology](&#123;&#123; 'psychology/' | relative_url &#125;&#125;): do cognition  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11141885/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11141885/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by N Pérez-Mata · 2024 · Cited by 3 — In the present study, we review the contribution of cognitive research to the formation of false...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11141885/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11141885/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by N Pérez-Mata · 2024 · Cited by 3 — In the present study, we review the contribution of cognitive research to the formation of false...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12408934/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12408934/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>New Insights on Expert Opinion About Eyewitness Memory...by TM Seale-Carlisle · 2024 · Cited by 31 — That is, at least 80% of experts...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12408934/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12408934/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Insights on Expert Opinion About Eyewitness Memory...by TM Seale-Carlisle · 2024 · Cited by 31 — That is, at least 80% of experts...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: assets.college.police.uk  
-   Link: <a href="https://assets.college.police.uk/s3fs-public/2020-11/Initial_Accounts_REA.pdf?v=1606213205" target="_blank" rel="noopener noreferrer nofollow">https://assets.college.police.uk/s3fs-public/2020-11/Initial_Accounts_REA.pdf?v=1606213205</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It uses different retrieval techniques to prompt the...Read more...</p></details>
+   Link:<a href="https://assets.college.police.uk/s3fs-public/2020-11/Initial_Accounts_REA.pdf?v=1606213205" target="_blank" rel="noopener noreferrer nofollow">https://assets.college.police.uk/s3fs-public/2020-11/Initial_Accounts_REA.pdf?v=1606213205</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It uses different retrieval techniques to prompt the...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCFrom criminal interrogations to investigative interviews  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10315488/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10315488/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>false confession, and eyewitness memory, among other things. Table 10... The time in between a case of &#x27;wrongful&#x27; and &#x27;rightful&#x27; convict...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10315488/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10315488/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>false confession, and eyewitness memory, among other things. Table 10... The time in between a case of &#x27;wrongful&#x27; and &#x27;rightful&#x27; convict...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: bpspsychub.onlinelibrary.wiley.com  
-   Link: <a href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/lcrp.70020" target="_blank" rel="noopener noreferrer nofollow">https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/lcrp.70020</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>history of an idea: The misinformation effect - Loftus24 Dec 2025 — Once it was established that memory could be contaminated by misinfor...</p></details>
+   Link:<a href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/lcrp.70020" target="_blank" rel="noopener noreferrer nofollow">https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/lcrp.70020</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>history of an idea: The misinformation effect - Loftus24 Dec 2025 — Once it was established that memory could be contaminated by misinfor...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=m6aY9Wr-xjI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m6aY9Wr-xjI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>I Trusted My Memory Until This Happened...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=m6aY9Wr-xjI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m6aY9Wr-xjI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I Trusted My Memory Until This Happened...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/read/18891/chapter/2" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/18891/chapter/2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National AcademiesIdentifying the Culprit: Assessing Eyewitness Identification...Throughout this report, the term identification denotes...</p></details>
+   Link:<a href="https://www.nationalacademies.org/read/18891/chapter/2" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/18891/chapter/2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National AcademiesIdentifying the Culprit: Assessing Eyewitness Identification...Throughout this report, the term identification denotes...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/read/18891/chapter/6" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/18891/chapter/6</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter: 4 Basic Research on Vision and MemoryAccurate eyewitness identification requires that a witness to a crime correctly sense, perc...</p></details>
+   Link:<a href="https://www.nationalacademies.org/read/18891/chapter/6" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/18891/chapter/6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter: 4 Basic Research on Vision and MemoryAccurate eyewitness identification requires that a witness to a crime correctly sense, perc...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Behavioral Account of the Misinformation Effect - PMCby DM Challies · 2011 · Cited by 34 — This research has focused on both basic (...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Behavioral Account of the Misinformation Effect - PMCby DM Challies · 2011 · Cited by 34 — This research has focused on both basic (...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: judicature.duke.edu  
-   Link: <a href="https://judicature.duke.edu/articles/a-clearer-view-the-impact-of-the-national-academy-of-sciences-report-on-eyewitness-identification/" target="_blank" rel="noopener noreferrer nofollow">https://judicature.duke.edu/articles/a-clearer-view-the-impact-of-the-national-academy-of-sciences-report-on-eyewitness-identification/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Clearer View: The Impact of the National Academy of...Overconfidence may be the most pernicious problem with eyewitness test...</p></details>
+   Link:<a href="https://judicature.duke.edu/articles/a-clearer-view-the-impact-of-the-national-academy-of-sciences-report-on-eyewitness-identification/" target="_blank" rel="noopener noreferrer nofollow">https://judicature.duke.edu/articles/a-clearer-view-the-impact-of-the-national-academy-of-sciences-report-on-eyewitness-identification/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Clearer View: The Impact of the National Academy of...Overconfidence may be the most pernicious problem with eyewitness test...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: simplypsychology.org  
-   Link: <a href="https://www.simplypsychology.org/cognitive-interview.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/cognitive-interview.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Interview Techniqueby S McLeod · Cited by 1 — The findings suggested that the cognitive interview is more effective than the st...</p></details>
+   Link:<a href="https://www.simplypsychology.org/cognitive-interview.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/cognitive-interview.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Interview Techniqueby S McLeod · Cited by 1 — The findings suggested that the cognitive interview is more effective than the st...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7937609/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7937609/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by GH Gudjonsson · 2021 · Cited by 93 — This review shows that there is now a solid scientific evidence base for the “expert” evaluati...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7937609/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7937609/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by GH Gudjonsson · 2021 · Cited by 93 — This review shows that there is now a solid scientific evidence base for the “expert” evaluati...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9225765/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9225765/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>use and impact of repeated questions in diagnostic child...by E Macleod · 2021 · Cited by 3 — We recommend that interviewers avoid the u...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9225765/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9225765/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>use and impact of repeated questions in diagnostic child...by E Macleod · 2021 · Cited by 3 — We recommend that interviewers avoid the u...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9225701/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9225701/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>impact of recall timing on the preservation of eyewitness...by C Chevroulet · 2021 · Cited by 13 — As a witness&#x27; memory of the event fad...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9225701/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9225701/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>impact of recall timing on the preservation of eyewitness...by C Chevroulet · 2021 · Cited by 13 — As a witness&#x27; memory of the event fad...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9451081/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9451081/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by PU Gustafsson · 2022 · Cited by 23 — The major goal of the current study was to examine how time and repetition might influence the...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9451081/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9451081/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by PU Gustafsson · 2022 · Cited by 23 — The major goal of the current study was to examine how time and repetition might influence the...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8508426/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8508426/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>witness testimony: Juror knowledge, false memory...by RK Helm · 2021 · Cited by 33 — This article examines lay beliefs relating to memor...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8508426/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8508426/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>witness testimony: Juror knowledge, false memory...by RK Helm · 2021 · Cited by 33 — This article examines lay beliefs relating to memor...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ncbi.nlm.nih.gov  
-   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK621592/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK621592/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Guide on Eyewitness Identification - NCBIThese variables—together with an understanding of how vision and memory work—provide a foundatio...</p></details>
+   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK621592/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK621592/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Guide on Eyewitness Identification - NCBIThese variables—together with an understanding of how vision and memory work—provide a foundatio...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: govand Sketch-Reinstatement-of-Context Retrieval Cues  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12937890/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12937890/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by CJ Dando · 2026 — Indeed, Sketch-RC has been found to improve recall accuracy and the total of correct event information by witness...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12937890/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12937890/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by CJ Dando · 2026 — Indeed, Sketch-RC has been found to improve recall accuracy and the total of correct event information by witness...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: psychstory.co.uk  
    Title: the cognitive interview  
-   Link: <a href="https://www.psychstory.co.uk/memory/the-cognitive-interview" target="_blank" rel="noopener noreferrer nofollow">https://www.psychstory.co.uk/memory/the-cognitive-interview</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MEMORY23 Feb 2026 — REPORT EVERYTHING: Witnesses are prompted to recall and report all event details, regardless of perceived importance...</p></details>
+   Link:<a href="https://www.psychstory.co.uk/memory/the-cognitive-interview" target="_blank" rel="noopener noreferrer nofollow">https://www.psychstory.co.uk/memory/the-cognitive-interview</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MEMORY23 Feb 2026 — REPORT EVERYTHING: Witnesses are prompted to recall and report all event details, regardless of perceived importance...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: nationalacademies.org  
    Title: using science to improve eyewitness testimony  
-   Link: <a href="https://www.nationalacademies.org/news/using-science-to-improve-eyewitness-testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/news/using-science-to-improve-eyewitness-testimony</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>24 Jan 2020 — Five years after a landmark National Academies report on eyewitness identification, a lead author reflects on its impact.Re...</p></details>
+   Link:<a href="https://www.nationalacademies.org/news/using-science-to-improve-eyewitness-testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/news/using-science-to-improve-eyewitness-testimony</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>24 Jan 2020 — Five years after a landmark National Academies report on eyewitness identification, a lead author reflects on its impact.Re...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/read/18891/chapter/8" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/18891/chapter/8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying the Culprit: Assessing Eyewitness Identification...Evidence indicates that self-reported confidence at the time of trial is...</p></details>
+   Link:<a href="https://www.nationalacademies.org/read/18891/chapter/8" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/18891/chapter/8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying the Culprit: Assessing Eyewitness Identification...Evidence indicates that self-reported confidence at the time of trial is...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/news/report-urges-caution-in-handling-and-relying-upon-eyewitness-identifications-in-criminal-cases-recommends-best-practices-for-law-enforcement-and-courts" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/news/report-urges-caution-in-handling-and-relying-upon-eyewitness-identifications-in-criminal-cases-recommends-best-practices-for-law-enforcement-and-courts</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Report Urges Caution in Handling and Relying Upon...Oct 2, 2014 — Evidence indicates that an eyewitness&#x27;s level of confidence in their i...</p></details>
+   Link:<a href="https://www.nationalacademies.org/news/report-urges-caution-in-handling-and-relying-upon-eyewitness-identifications-in-criminal-cases-recommends-best-practices-for-law-enforcement-and-courts" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/news/report-urges-caution-in-handling-and-relying-upon-eyewitness-identifications-in-criminal-cases-recommends-best-practices-for-law-enforcement-and-courts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report Urges Caution in Handling and Relying Upon...Oct 2, 2014 — Evidence indicates that an eyewitness&#x27;s level of confidence in their i...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: savemyexams.com  
    Title: Cognitive Interview  
-   Link: <a href="https://www.savemyexams.com/a-level/psychology/aqa/17/revision-notes/2-memory/2-4-eye-witness-testimony/improving-the-accuracy-of-eyewitness-testimony-cognitive-interview/" target="_blank" rel="noopener noreferrer nofollow">https://www.savemyexams.com/a-level/psychology/aqa/17/revision-notes/2-memory/2-4-eye-witness-testimony/improving-the-accuracy-of-eyewitness-testimony-cognitive-interview/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Level Psychology Revision Notes24 Jul 2024 — The CI has four components: Mental reinstatement of original context, The purpose of this...</p></details>
+   Link:<a href="https://www.savemyexams.com/a-level/psychology/aqa/17/revision-notes/2-memory/2-4-eye-witness-testimony/improving-the-accuracy-of-eyewitness-testimony-cognitive-interview/" target="_blank" rel="noopener noreferrer nofollow">https://www.savemyexams.com/a-level/psychology/aqa/17/revision-notes/2-memory/2-4-eye-witness-testimony/improving-the-accuracy-of-eyewitness-testimony-cognitive-interview/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Level Psychology Revision Notes24 Jul 2024 — The CI has four components: Mental reinstatement of original context, The purpose of this...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: senecalearning.com  
-   Link: <a href="https://senecalearning.com/en-GB/revision-notes/a-level/psychology/aqa/2-1-18-cognitive-interview" target="_blank" rel="noopener noreferrer nofollow">https://senecalearning.com/en-GB/revision-notes/a-level/psychology/aqa/2-1-18-cognitive-interview</a>  
+   Link:<a href="https://senecalearning.com/en-GB/revision-notes/a-level/psychology/aqa/2-1-18-cognitive-interview" target="_blank" rel="noopener noreferrer nofollow">https://senecalearning.com/en-GB/revision-notes/a-level/psychology/aqa/2-1-18-cognitive-interview</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/rwe/10.1007/978-3-030-93789-8_36-1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/rwe/10.1007/978-3-030-93789-8_36-1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Memory | Springer Nature Link13 Dec 2022 — The constraints of eyewitness memory necessitate improved practices in the legal system, great...</p></details>
+   Link:<a href="https://link.springer.com/rwe/10.1007/978-3-030-93789" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/rwe/10.1007/978-3-030-93789</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Memory | Springer Nature Link13 Dec 2022 — The constraints of eyewitness memory necessitate improved practices in the legal system, great...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: evidencebasedjustice.exeter.ac.uk  
-   Link: <a href="https://evidencebasedjustice.exeter.ac.uk/miscarriages-of-justice-registry/the-issues/eyewitness-id/" target="_blank" rel="noopener noreferrer nofollow">https://evidencebasedjustice.exeter.ac.uk/miscarriages-of-justice-registry/the-issues/eyewitness-id/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence - Evidenced Based Justice LabWitness testimony may be inaccurate because a witness is lying, or because a witness has a false me...</p></details>
+   Link:<a href="https://evidencebasedjustice.exeter.ac.uk/miscarriages-of-justice-registry/the-issues/eyewitness-id/" target="_blank" rel="noopener noreferrer nofollow">https://evidencebasedjustice.exeter.ac.uk/miscarriages-of-justice-registry/the-issues/eyewitness-id/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence - Evidenced Based Justice LabWitness testimony may be inaccurate because a witness is lying, or because a witness has a false me...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: tutor2u.net  
    Title: cognitive interview  
-   Link: <a href="https://www.tutor2u.net/psychology/reference/cognitive-interview?srsltid=AfmBOorziAvNdqKBmes-1U2xBQjXvo-NmbizPWqIggMfAsxinZVwAO4V" target="_blank" rel="noopener noreferrer nofollow">https://www.tutor2u.net/psychology/reference/cognitive-interview?srsltid=AfmBOorziAvNdqKBmes-1U2xBQjXvo-NmbizPWqIggMfAsxinZVwAO4V</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reference Library | Psychology22 Mar 2021 — A new questioning methodology - the cognitive interview - to achieve more detailed and accura...</p></details>
+   Link:<a href="https://www.tutor2u.net/psychology/reference/cognitive-interview?srsltid=AfmBOorziAvNdqKBmes-1U2xBQjXvo-NmbizPWqIggMfAsxinZVwAO4V" target="_blank" rel="noopener noreferrer nofollow">https://www.tutor2u.net/psychology/reference/cognitive-interview?srsltid=AfmBOorziAvNdqKBmes-1U2xBQjXvo-NmbizPWqIggMfAsxinZVwAO4V</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reference Library | Psychology22 Mar 2021 — A new questioning methodology - the cognitive interview - to achieve more detailed and accura...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: TH E COGNITIVE INTERVIEW  
-   Link: <a href="https://www.youtube.com/watch?v=q5m5GlFNSLI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q5m5GlFNSLI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE COGNITIVE INTERVIEW - Geiselman (1984) &amp; Fisher...... witness testimony. The Cognitive Interview has four distinct retrieval techniq...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=q5m5GlFNSLI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q5m5GlFNSLI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE COGNITIVE INTERVIEW - Geiselman (1984) &amp; Fisher...... witness testimony. The Cognitive Interview has four distinct retrieval techniq...</p></details>
 
 ### Additional References
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: nacdl.org  
-   Link: <a href="https://www.nacdl.org/Content/EyewitnessIDReformResources" target="_blank" rel="noopener noreferrer nofollow">https://www.nacdl.org/Content/EyewitnessIDReformResources</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness ID ResourcesEyewitness ID Resources. Reports and other resources on eyewitness identification. December 16, 2022. Login to Sav...</p></details>
+   Link:<a href="https://www.nacdl.org/Content/EyewitnessIDReformResources" target="_blank" rel="noopener noreferrer nofollow">https://www.nacdl.org/Content/EyewitnessIDReformResources</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness ID ResourcesEyewitness ID Resources. Reports and other resources on eyewitness identification. December 16, 2022. Login to Sav...</p></details>
    Published: December 16, 2022  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: innocenceproject.org  
-   Link: <a href="https://innocenceproject.org/news/national-academy-of-sciences-issues-landmark-report-on-memory-and-eyewitness-identification/" target="_blank" rel="noopener noreferrer nofollow">https://innocenceproject.org/news/national-academy-of-sciences-issues-landmark-report-on-memory-and-eyewitness-identification/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Academy of Sciences Issues Landmark Report on...2 Oct 2014 — The National Academy of Sciences issued a landmark report evaluati...</p></details>
+   Link:<a href="https://innocenceproject.org/news/national-academy-of-sciences-issues-landmark-report-on-memory-and-eyewitness-identification/" target="_blank" rel="noopener noreferrer nofollow">https://innocenceproject.org/news/national-academy-of-sciences-issues-landmark-report-on-memory-and-eyewitness-identification/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Academy of Sciences Issues Landmark Report on...2 Oct 2014 — The National Academy of Sciences issued a landmark report evaluati...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: impact.ref.ac.uk  
-   Link: <a href="https://impact.ref.ac.uk/casestudies/CaseStudy.aspx?Id=43922" target="_blank" rel="noopener noreferrer nofollow">https://impact.ref.ac.uk/casestudies/CaseStudy.aspx?Id=43922</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>interviewing, eyewitness identification and...The training includes discussion of the impact of inaccurate identifications on wrongful c...</p></details>
+   Link:<a href="https://impact.ref.ac.uk/casestudies/CaseStudy.aspx?Id=43922" target="_blank" rel="noopener noreferrer nofollow">https://impact.ref.ac.uk/casestudies/CaseStudy.aspx?Id=43922</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>interviewing, eyewitness identification and...The training includes discussion of the impact of inaccurate identifications on wrongful c...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: sru.soc.surrey.ac.uk  
-   Link: <a href="https://sru.soc.surrey.ac.uk/SRU50.html" target="_blank" rel="noopener noreferrer nofollow">https://sru.soc.surrey.ac.uk/SRU50.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Interviewing as a Research TechniqueCognitive interviewing (CI) is established as a valid and reliable practical tool for forensic and he...</p></details>
+   Link:<a href="https://sru.soc.surrey.ac.uk/SRU50.html" target="_blank" rel="noopener noreferrer nofollow">https://sru.soc.surrey.ac.uk/SRU50.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Interviewing as a Research TechniqueCognitive interviewing (CI) is established as a valid and reliable practical tool for forensic and he...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: criminallegalnews.org  
-   Link: <a href="https://www.criminallegalnews.org/news/2025/oct/15/malleable-mind-courtroom-why-confident-eyewitnesses-often-provide-least-reliable-evidence/" target="_blank" rel="noopener noreferrer nofollow">https://www.criminallegalnews.org/news/2025/oct/15/malleable-mind-courtroom-why-confident-eyewitnesses-often-provide-least-reliable-evidence/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Confident Eyewitnesses Often Provide the Least...15 Oct 2025 — Meanwhile, judges admit eyewitness testimony under standards that ass...</p></details>
+   Link:<a href="https://www.criminallegalnews.org/news/2025/oct/15/malleable-mind-courtroom-why-confident-eyewitnesses-often-provide-least-reliable-evidence/" target="_blank" rel="noopener noreferrer nofollow">https://www.criminallegalnews.org/news/2025/oct/15/malleable-mind-courtroom-why-confident-eyewitnesses-often-provide-least-reliable-evidence/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Confident Eyewitnesses Often Provide the Least...15 Oct 2025 — Meanwhile, judges admit eyewitness testimony under standards that ass...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: psych.utah.edu  
-   Link: <a href="https://psych.utah.edu/_resources/documents/people/committee-docs/fall-2025/2024%20-%20Moore%20et%20al%202024%20Eyewitness%20Confidence%20Does%20Not%20Necessarily%20Indicate%20Accuracy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://psych.utah.edu/_resources/documents/people/committee-docs/fall-2025/2024%20-%20Moore%20et%20al%202024%20Eyewitness%20Confidence%20Does%20Not%20Necessarily%20Indicate%20Accuracy.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Confidence Does Not Necessarily Indicate...by KN Moore · 2024 · Cited by 15 — Generally, laboratory studies find adult eyewitnesses have...</p></details>
+   Link:<a href="https://psych.utah.edu/_resources/documents/people/committee-docs/fall-2025/2024%20-%20Moore%20et%20al%202024%20Eyewitness%20Confidence%20Does%20Not%20Necessarily%20Indicate%20Accuracy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://psych.utah.edu/_resources/documents/people/committee-docs/fall-2025/2024%20-%20Moore%20et%20al%202024%20Eyewitness%20Confidence%20Does%20Not%20Necessarily%20Indicate%20Accuracy.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Confidence Does Not Necessarily Indicate...by KN Moore · 2024 · Cited by 15 — Generally, laboratory studies find adult eyewitnesses have...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: law.virginia.edu  
-   Link: <a href="https://www.law.virginia.edu/news/202205/common-law-psychology-eyewitness-memory" target="_blank" rel="noopener noreferrer nofollow">https://www.law.virginia.edu/news/202205/common-law-psychology-eyewitness-memory</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Loftus, one of the nation&#x27;s leading experts on memory, discusses her work and how it transformed the justice system.Read more...</p></details>
+   Link:<a href="https://www.law.virginia.edu/news/202205/common-law-psychology-eyewitness-memory" target="_blank" rel="noopener noreferrer nofollow">https://www.law.virginia.edu/news/202205/common-law-psychology-eyewitness-memory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Loftus, one of the nation&#x27;s leading experts on memory, discusses her work and how it transformed the justice system.Read more...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Yq6u_4xtVh0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Yq6u_4xtVh0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Common Law S4 E8: The Psychology of Eyewitness MemoryPsychologist Elizabeth F. Loftus, a leading expert on memory, discusses how her rese...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Yq6u_4xtVh0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Yq6u_4xtVh0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Common Law S4 E8: The Psychology of Eyewitness MemoryPsychologist Elizabeth F. Loftus, a leading expert on memory, discusses how her rese...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/09658211.2025.2551222" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/09658211.2025.2551222</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness suspect identification: six claims regarding the...by DS Lindsay · 2025 · Cited by 5 — We reached agreement on six important...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/09658211.2025.2551222" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/09658211.2025.2551222</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness suspect identification: six claims regarding the...by DS Lindsay · 2025 · Cited by 5 — We reached agreement on six important...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: nobaproject.com  
-   Link: <a href="https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases" target="_blank" rel="noopener noreferrer nofollow">https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>But for items that they had discussed, their accuracy dropped markedly...Read more...</p></details>
+   Link:<a href="https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases" target="_blank" rel="noopener noreferrer nofollow">https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>But for items that they had discussed, their accuracy dropped markedly...Read more...</p></details>

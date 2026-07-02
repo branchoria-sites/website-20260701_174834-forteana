@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /forteana-50bdc8-parapsychology-bound/
 description: Focused pages that expand on Parapsychology.
-date: '2026-07-01'
+date: '2026'
 layout: default
 parent_basename: forteana_50bdc8_parapsychology_bound_d30a61
 parent_title: Parapsychology
@@ -16,7 +16,7 @@ parent_permalink: /parapsychology/
 
 # Explore Topics in Parapsychology
 
-The following pages expand on the main **[Parapsychology]({{ '/parapsychology/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Parapsychology]({{ '/parapsychology/' | relative_url }})** page and cover its key branches in.
 
 - [Apparitions]({{ '/apparitions/' | relative_url }})
 - [Ganzfeld Tests]({{ '/ganzfeld-tests/' | relative_url }})

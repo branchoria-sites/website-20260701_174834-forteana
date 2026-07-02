@@ -451,7 +451,7 @@ Misidentification is one of the main ways ordinary events become Fortean mysteri
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_misidentification_bi_3761ff-overview.webp" | relative_url }}" alt="Overview image for Mistakes" loading="eager" decoding="sync" fetchpriority="high">
-This does not mean witnesses are foolish or dishonest. It means human perception works under limits. Bad light, distance, surprise, emotion and incomplete context can make familiar things look impossible. Official UAP investigations, eyewitness research and long-running monster [folklore]({{ 'folklore/' | relative_url }}) all point to the same mechanism: many reports begin as sincere observations of real things, then change as people describe, repeat, label and connect them to existing stories. [Project Blue Book]({{ 'blue-book-75a50c/' | relative_url }}) files and later UAP work repeatedly identify balloons, aircraft, astronomical objects, birds, drones, satellites and weather effects among reports first experienced as anomalous. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prologue.blogs.archives.gov">[Pieces of History+2AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prologue.blogs.archives.gov</span><span class="citation-popover-title">saucers over washington the history of project blue book</span><span class="citation-popover-snippet">Pieces of HistorySaucers Over Washington: the History of Project Blue Book19 Dec 2019 — Upon further inspection, the majority of these re...</span></span></span>
+This does not mean witnesses are foolish or dishonest. It means human perception works under limits. Bad light, distance, surprise, emotion and incomplete context can make familiar things look impossible. Official UAP investigations, eyewitness research and long-running monster [folklore]({{ 'folklore/' | relative_url }}) all point to the same mechanism: many reports begin as sincere observations of real things, then change as people describe, repeat, label and connect them to existing stories. [Project Blue Book]({{ 'blue-book-75a50c/' | relative_url }}) files and later UAP work repeatedly identify balloons, aircraft, astronomical objects, birds, drones, satellites and weather effects among reports first experienced as anomalous.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prologue.blogs.archives.gov">[Pieces of History+2AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prologue.blogs.archives.gov</span><span class="citation-popover-title">saucers over washington the history of project blue book</span><span class="citation-popover-snippet">Pieces of HistorySaucers Over Washington: the History of Project Blue Book19 Dec 2019 — Upon further inspection, the majority of these re...</span></span></span>
 
 ## Why misidentification matters in Forteana
 
@@ -459,7 +459,7 @@ Forteana lives in the space between [observation]({{ 'observation/' | relative_u
 
 That distinction is important. A hoax begins with deception. A hallucination begins with an experience not anchored to an external object. Misidentification often begins with a real stimulus: Venus, a satellite train, a weather balloon, an owl, a crane, a fox, a cloud formation, a meteor, a drone, an aircraft light, or a reflection. The witness is not inventing the event; they are trying to classify it under poor conditions.
 
-The UAP field provides the clearest modern evidence because many reports are collected by institutions. The US National Archives’ account of Project Blue Book notes that most investigated reports were eventually found to be misidentified objects such as weather balloons or aircraft, even while Cold War officials still treated reports seriously because of possible defence implications. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prologue.blogs.archives.gov">[Pieces of History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prologue.blogs.archives.gov</span><span class="citation-popover-title">saucers over washington the history of project blue book</span><span class="citation-popover-snippet">Pieces of HistorySaucers Over Washington: the History of Project Blue Book19 Dec 2019 — Upon further inspection, the majority of these re...</span></span></span> AARO’s official case imagery page shows the same process in miniature: several puzzling videos are assessed with high confidence as balloons after analysts compare shape, movement and wind behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryAARO bases its assessment on the object&#x27;s strong morphological consistency with other resolved imagery depicting balloons...</span></span></span>
+The UAP field provides the clearest modern evidence because many reports are collected by institutions. The US National Archives’ account of Project Blue Book notes that most investigated reports were eventually found to be misidentified objects such as weather balloons or aircraft, even while Cold War officials still treated reports seriously because of possible defence implications.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prologue.blogs.archives.gov">[Pieces of History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prologue.blogs.archives.gov</span><span class="citation-popover-title">saucers over washington the history of project blue book</span><span class="citation-popover-snippet">Pieces of HistorySaucers Over Washington: the History of Project Blue Book19 Dec 2019 — Upon further inspection, the majority of these re...</span></span></span> AARO’s official case imagery page shows the same process in miniature: several puzzling videos are assessed with high confidence as balloons after analysts compare shape, movement and wind behaviour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryAARO bases its assessment on the object&#x27;s strong morphological consistency with other resolved imagery depicting balloons...</span></span></span>
 
 That mechanism also applies outside UFO cases. In cryptid and haunting stories, the “object” may be an animal, a shadow, a sound, a building effect, or a remembered glimpse. The birth of mystery is often not the sighting alone, but the moment a witness or community gives the sighting a name.
 
@@ -469,7 +469,7 @@ That mechanism also applies outside UFO cases. In cryptid and haunting stories, 
 
 A strange report often begins with a sensory problem. The witness sees something briefly, at night, through rain, across a field, from a moving car, under stress, or against a bright sky. Those conditions strip away the cues people normally use to identify size, speed, distance and shape.
 
-Research on eyewitness identification shows how sharply accuracy can fall as distance increases and light worsens. One study using live targets found that, even without facial masking, target-present identification accuracy fell from.69 at 5 metres to.34 at 12.5 metres and.17 at 20 metres across all participants; under some combinations of distance, lighting and masking, performance approached chance level. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://centaur.reading.ac.uk/118712/1/The%20masked%20villain%20%20the%20effects%20of%20facial%20masking%20%20distance%20%20lighting%20%20and%20eyewitness%20age%20on%20eyewitness%20identification%20accuracy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centaur.reading.ac.uk">[CentAUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centaur.reading.ac.uk</span><span class="citation-popover-title">We investigated their combined effect on.Read more</span><span class="citation-popover-snippet">the effects of facial masking, distance, lighting, and eyewitness...August 25, 2023 — by TJ Nyman · 2023 · Cited by 11 — Distance...</span><span class="citation-popover-meta">Published: August 25, 2023</span></span></span> Another review of eyewitness failure describes misidentification as a problem of both perception and memory: people may misperceive what they saw, then later remember that interpretation rather than the raw visual information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5544328/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWhy eyewitnesses fail</span><span class="citation-popover-snippet">PMCWhy eyewitnesses fail</span></span></span>
+Research on eyewitness identification shows how sharply accuracy can fall as distance increases and light worsens. One study using live targets found that, even without facial masking, target-present identification accuracy fell from.69 at 5 metres to.34 at 12.5 metres and.17 at 20 metres across all participants; under some combinations of distance, lighting and masking, performance approached chance level.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://centaur.reading.ac.uk/118712/1/The%20masked%20villain%20%20the%20effects%20of%20facial%20masking%20%20distance%20%20lighting%20%20and%20eyewitness%20age%20on%20eyewitness%20identification%20accuracy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centaur.reading.ac.uk">[CentAUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centaur.reading.ac.uk</span><span class="citation-popover-title">We investigated their combined effect on.Read more</span><span class="citation-popover-snippet">the effects of facial masking, distance, lighting, and eyewitness...August 25, 2023 — by TJ Nyman · 2023 · Cited by 11 — Distance...</span><span class="citation-popover-meta">Published: August 25, 2023</span></span></span> Another review of eyewitness failure describes misidentification as a problem of both perception and memory: people may misperceive what they saw, then later remember that interpretation rather than the raw visual information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5544328/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWhy eyewitnesses fail</span><span class="citation-popover-snippet">PMCWhy eyewitnesses fail</span></span></span>
 
 Fortean reports add an extra difficulty: the witness is often not identifying a face but classifying an unfamiliar, moving or partly hidden object. A hovering light gives few cues to distance. A large bird seen in headlights may seem much larger than it is. A meteor may look nearby because the sky offers no scale. A balloon drifting with the wind may appear to manoeuvre if the observer is also moving.
 
@@ -484,15 +484,15 @@ This is why many investigations depend on context rather than confidence. A witn
 
 The most common misidentified things in Fortean reports are not exotic. They are everyday objects seen under unusual viewing conditions or in unexpected places.
 
-In aerial cases, recurring candidates include balloons, aircraft, drones, satellites, planets, meteors, flares, contrails and unusual clouds. NASA’s UAP independent study report stresses that many sightings lack the high-quality data needed for firm analysis, and frames the problem as one of better observation: calibrated sensors, metadata, context and transparent methods. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportUnidentified Anomalous Phenomena (UAP) are one of our planet&#x27;s greatest mysteries. Observations...</span></span></span> AARO’s more recent official examples show how mundane objects can look strange when recorded at poor resolution or without obvious scale, especially balloons drifting in wind. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryAARO bases its assessment on the object&#x27;s strong morphological consistency with other resolved imagery depicting balloons...</span></span></span>
+In aerial cases, recurring candidates include balloons, aircraft, drones, satellites, planets, meteors, flares, contrails and unusual clouds. NASA’s UAP independent study report stresses that many sightings lack the high-quality data needed for firm analysis, and frames the problem as one of better observation: calibrated sensors, metadata, context and transparent methods.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportUnidentified Anomalous Phenomena (UAP) are one of our planet&#x27;s greatest mysteries. Observations...</span></span></span> AARO’s more recent official examples show how mundane objects can look strange when recorded at poor resolution or without obvious scale, especially balloons drifting in wind.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryAARO bases its assessment on the object&#x27;s strong morphological consistency with other resolved imagery depicting balloons...</span></span></span>
 
-Astronomy produces especially durable mistakes. Venus is a classic example because it can appear extremely bright in twilight and seem to hover rather than move. Popular astronomy sources repeatedly note that Venus, Jupiter, meteors, the Moon, the International Space Station and satellite passes can all be reported as UFOs when observers lack sky context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/14884-jupiter-venus-mistaken-ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space+2Discover Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Jupiter and Venus &#x27;Could Be Mistaken for UFOs</span><span class="citation-popover-snippet">Jupiter and Venus &#x27;Could Be Mistaken for UFOs</span></span></span> Recent satellite constellations have added a new form of misidentification: a 2024 case study reconstructed a 2022 incident in which multiple commercial pilots reported UAP over the Pacific, and concluded that a recently launched [Starlink satellite]({{ 'starlink-trains/' | relative_url }}) train could account for the observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+Astronomy produces especially durable mistakes. Venus is a classic example because it can appear extremely bright in twilight and seem to hover rather than move. Popular astronomy sources repeatedly note that Venus, Jupiter, meteors, the Moon, the International Space Station and satellite passes can all be reported as UFOs when observers lack sky context.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/14884-jupiter-venus-mistaken-ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space+2Discover Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Jupiter and Venus &#x27;Could Be Mistaken for UFOs</span><span class="citation-popover-snippet">Jupiter and Venus &#x27;Could Be Mistaken for UFOs</span></span></span> Recent satellite constellations have added a new form of misidentification: a 2024 case study reconstructed a 2022 incident in which multiple commercial pilots reported UAP over the Pacific, and concluded that a recently launched [Starlink satellite]({{ 'starlink-trains/' | relative_url }}) train could account for the observations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
-Weather has its own catalogue of false mysteries. Lenticular clouds are a useful example because they can look startlingly artificial: smooth, lens-shaped, sometimes stacked, and often stationary-looking because they form in standing waves of air near mountains. The Met Office describes unusual cloud forms such as arcus clouds through ordinary atmospheric processes, while meteorological explainers note that lenticular clouds are often mistaken for UFOs because of their distinctive oval shape. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Open source on metoffice.gov.uk.</span></span></span>
+Weather has its own catalogue of false mysteries. Lenticular clouds are a useful example because they can look startlingly artificial: smooth, lens-shaped, sometimes stacked, and often stationary-looking because they form in standing waves of air near mountains. The Met Office describes unusual cloud forms such as arcus clouds through ordinary atmospheric processes, while meteorological explainers note that lenticular clouds are often mistaken for UFOs because of their distinctive oval shape.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Open source on metoffice.gov.uk.</span></span></span>
 
 Animal misidentification works differently. Here the witness usually sees a living body but assigns it to the wrong category because of size, posture, eyeshine, movement or unfamiliarity. A deer glimpsed side-on may seem oddly tall; an owl’s eyes may glow in a torch beam; a heron or crane can look startlingly prehistoric when it unfolds its wings near a road. In these cases, the mystery is intensified by behaviour: the animal moves, reacts and disappears, giving the sighting the drama of an encounter.
 
-The Mothman legend shows how this can work. Reports from Point Pleasant, West Virginia, in 1966 and 1967 described a large winged figure with alarming eyes. Later sceptical explanations have proposed sandhill cranes, herons or owls, with particular attention to the size of large birds and the effect of eyeshine at night. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mothman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span> The point is not that every Mothman report is thereby solved in a single stroke, but that the legend’s core visual elements — wings, height, red or glowing eyes, sudden appearance, night roads — are exactly the kind of features that can arise when an unfamiliar bird is seen under frightening conditions.
+The Mothman legend shows how this can work. Reports from Point Pleasant, West Virginia, in 1966 and 1967 described a large winged figure with alarming eyes. Later sceptical explanations have proposed sandhill cranes, herons or owls, with particular attention to the size of large birds and the effect of eyeshine at night.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mothman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span> The point is not that every Mothman report is thereby solved in a single stroke, but that the legend’s core visual elements — wings, height, red or glowing eyes, sudden appearance, night roads — are exactly the kind of features that can arise when an unfamiliar bird is seen under frightening conditions.
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_misidentification_bi_3761ff-Illustration-2-dark.svg" | relative_url }}" alt="Mistakes illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_misidentification_bi_3761ff-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_misidentification_bi_3761ff-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -506,7 +506,7 @@ Second comes naming. A label changes the event. “A light” becomes a UFO. “
 
 Third comes accumulation. Local newspapers, online forums, podcasts, books and museum displays gather separate reports into a pattern. This can be useful when it preserves dates, locations and witness statements. It can also distort, because weak reports may borrow strength from stronger ones. A cluster of sightings may look like corroboration even when several witnesses are independently misidentifying the same common stimulus.
 
-Fourth comes reinterpretation. Later events are folded back into the story. In the Mothman case, the 1967 Silver Bridge collapse became inseparable from the legend for many readers, even though a bridge disaster is not evidence that a winged creature existed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mothman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span> This is a common Fortean transformation: an odd sighting becomes an omen after something tragic or memorable happens nearby.
+Fourth comes reinterpretation. Later events are folded back into the story. In the Mothman case, the 1967 Silver Bridge collapse became inseparable from the legend for many readers, even though a bridge disaster is not evidence that a winged creature existed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mothman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span> This is a common Fortean transformation: an odd sighting becomes an omen after something tragic or memorable happens nearby.
 
 Finally comes identity. Communities may adopt the mystery even if they do not literally believe every claim. The legend becomes part of local character, tourism, humour and storytelling. At that stage, debunking the original misidentification may no longer dissolve the mystery, because the story has acquired meanings beyond the first sighting.
 
@@ -517,7 +517,7 @@ Finally comes identity. Communities may adopt the mystery even if they do not li
 
 Misidentification often disappoints people because the proposed explanation seems smaller than the experience. “It was Venus” may sound absurd to someone who remembers a vast, hovering light. “It was an owl” may feel insulting to someone who felt watched by something monstrous. “It was a balloon” may seem too flimsy for a video that appeared uncanny.
 
-The mismatch is real. The explanation is not trying to match the emotional size of the event; it is trying to match the physical evidence. A balloon can look eerie when filmed without scale. A planet can seem to follow a car because the observer’s own movement changes the foreground while the bright object remains fixed in the sky. A satellite train can look coordinated and artificial because it is coordinated and artificial, just not in the alien sense. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+The mismatch is real. The explanation is not trying to match the emotional size of the event; it is trying to match the physical evidence. A balloon can look eerie when filmed without scale. A planet can seem to follow a car because the observer’s own movement changes the foreground while the bright object remains fixed in the sky. A satellite train can look coordinated and artificial because it is coordinated and artificial, just not in the alien sense.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 This is why careful scepticism should not mock the witness. A dismissive explanation can harden belief, especially when the witness knows they saw something real. Better investigation separates three questions:
 
@@ -530,7 +530,7 @@ This is why careful scepticism should not mock the witness. A dismissive explana
 
 </div>
 
-This approach leaves room for uncertainty without inflating it. Some reports remain unresolved because the data are poor, not because the object must be extraordinary. NASA’s UAP report makes this point in scientific terms: the difficulty is often a lack of high-quality, standardised observations, not a shortage of stories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportUnidentified Anomalous Phenomena (UAP) are one of our planet&#x27;s greatest mysteries. Observations...</span></span></span>
+This approach leaves room for uncertainty without inflating it. Some reports remain unresolved because the data are poor, not because the object must be extraordinary. NASA’s UAP report makes this point in scientific terms: the difficulty is often a lack of high-quality, standardised observations, not a shortage of stories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportUnidentified Anomalous Phenomena (UAP) are one of our planet&#x27;s greatest mysteries. Observations...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_misidentification_bi_3761ff-Illustration-3-dark.svg" | relative_url }}" alt="Mistakes illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_misidentification_bi_3761ff-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_misidentification_bi_3761ff-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -538,7 +538,7 @@ This approach leaves room for uncertainty without inflating it. Some reports rem
 
 Misidentification is not only a debunking tool. It is also a guide to better evidence. Each solved mistake teaches investigators what information matters.
 
-For aerial reports, useful details include time, exact location, viewing direction, elevation angle, weather, wind, aircraft traffic, satellite passes, astronomical objects, camera metadata and whether the observer was moving. AARO’s balloon assessments rely on exactly this kind of comparison: shape, drift, wind direction and behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryAARO bases its assessment on the object&#x27;s strong morphological consistency with other resolved imagery depicting balloons...</span></span></span> The [Starlink]({{ 'starlink/' | relative_url }}) pilot case shows the value of reconstructing a sighting with orbital data and aircraft position data rather than relying on witness description alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+For aerial reports, useful details include time, exact location, viewing direction, elevation angle, weather, wind, aircraft traffic, satellite passes, astronomical objects, camera metadata and whether the observer was moving. AARO’s balloon assessments rely on exactly this kind of comparison: shape, drift, wind direction and behaviour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryAARO bases its assessment on the object&#x27;s strong morphological consistency with other resolved imagery depicting balloons...</span></span></span> The [Starlink]({{ 'starlink/' | relative_url }}) pilot case shows the value of reconstructing a sighting with orbital data and aircraft position data rather than relying on witness description alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 For animal reports, the key questions are different: distance, lighting, habitat, gait, tracks, calls, known local species, escapee records, body proportions and whether eyeshine was involved. A credible “large cat” or “unknown creature” report becomes much stronger if it includes scale markers, physical traces, repeat observations by independent witnesses, or clear images that preserve context. Without those, even a vivid sighting can remain vulnerable to ordinary explanations.
 
@@ -557,194 +557,194 @@ Many famous mysteries shrink under investigation. A UFO becomes Venus, a monster
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Ordinary Things Look Impossible. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Ordinary Things Look Impossible. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explains how perception and reasoning can turn ordinary events into extraordinary beliefs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how perception and reasoning can turn ordinary events into extraordinary beliefs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explores why sincere people maintain mistaken interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores why sincere people maintain mistaken interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides contrast between investigated cases and unexplained reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides contrast between investigated cases and unexplained reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Places strange claims within the wider history of collective belief.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Places strange claims within the wider history of collective belief.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gustave Courbet the Waterspout O 1 Vintage Art Print Poster Wall Decor Centerpie"><img src="{{ '/assets/images/marketplace-covers/27acaee695b41e3e90cd.jpg' | relative_url }}" alt="Listing image for Gustave Courbet the Waterspout O 1 Vintage Art Print Poster Wall Decor Centerpie" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer">Gustave Courbet the Waterspout O 1 Vintage Art Print Poster Wall Decor Centerpie</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for waterspout poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: waterspout poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gustave Courbet the Waterspout O 1 Vintage Art Print Poster Wall Decor Centerpie"><img src="{{ '/assets/images/marketplace-covers/27acaee695b41e3e90cd.jpg' | relative_url }}" alt="Listing image for Gustave Courbet the Waterspout O 1 Vintage Art Print Poster Wall Decor Centerpie" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer">Gustave Courbet the Waterspout O 1 Vintage Art Print Poster Wall Decor Centerpie</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for waterspout poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: waterspout poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Waterspout over Tampa Bay Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5190a0deba66ed2a243d.jpg' | relative_url }}" alt="Listing image for Waterspout over Tampa Bay Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer">Waterspout over Tampa Bay Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for waterspout poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: waterspout poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Waterspout over Tampa Bay Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5190a0deba66ed2a243d.jpg' | relative_url }}" alt="Listing image for Waterspout over Tampa Bay Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer">Waterspout over Tampa Bay Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for waterspout poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: waterspout poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Waterspout Through the Cliffs 3D Re Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/34c452a24263585705b6.jpg' | relative_url }}" alt="Listing image for Waterspout Through the Cliffs 3D Re Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer">Waterspout Through the Cliffs 3D Re Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for waterspout poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: waterspout poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Waterspout Through the Cliffs 3D Re Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/34c452a24263585705b6.jpg' | relative_url }}" alt="Listing image for Waterspout Through the Cliffs 3D Re Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer">Waterspout Through the Cliffs 3D Re Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for waterspout poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: waterspout poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Waterspout in Tampa Bay Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/20413d4d9abfc0567812.jpg' | relative_url }}" alt="Listing image for Waterspout in Tampa Bay Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer">Waterspout in Tampa Bay Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for waterspout poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: waterspout poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Waterspout in Tampa Bay Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/20413d4d9abfc0567812.jpg' | relative_url }}" alt="Listing image for Waterspout in Tampa Bay Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer">Waterspout in Tampa Bay Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for waterspout poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: waterspout poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="mistakes-when-ordinary-things-look-impossible-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -760,7 +760,7 @@ Many famous mysteries shrink under investigation. A UFO becomes Venus, a monster
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -780,7 +780,7 @@ Many famous mysteries shrink under investigation. A UFO becomes Venus, a monster
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -812,7 +812,7 @@ Many famous mysteries shrink under investigation. A UFO becomes Venus, a monster
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -864,7 +864,7 @@ Many famous mysteries shrink under investigation. A UFO becomes Venus, a monster
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -909,7 +909,7 @@ Many famous mysteries shrink under investigation. A UFO becomes Venus, a monster
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -950,179 +950,179 @@ Many famous mysteries shrink under investigation. A UFO becomes Venus, a monster
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: prologue.blogs.archives.gov  
    Title: saucers over washington the history of project blue book  
-   Link: <a href="https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pieces of HistorySaucers Over Washington: the History of Project Blue Book19 Dec 2019 — Upon further inspection, the majority of these re...</p></details>
+   Link:<a href="https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pieces of HistorySaucers Over Washington: the History of Project Blue Book19 Dec 2019 — Upon further inspection, the majority of these re...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryAARO bases its assessment on the object&#x27;s strong morphological consistency with other resolved imagery depicting balloons...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryAARO bases its assessment on the object&#x27;s strong morphological consistency with other resolved imagery depicting balloons...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportUnidentified Anomalous Phenomena (UAP) are one of our planet&#x27;s greatest mysteries. Observations...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportUnidentified Anomalous Phenomena (UAP) are one of our planet&#x27;s greatest mysteries. Observations...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCWhy eyewitnesses fail  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5544328/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5544328/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5544328/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5544328/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: space.com  
    Title: Jupiter and Venus 'Could Be Mistaken for UFOs'  
-   Link: <a href="https://www.space.com/14884-jupiter-venus-mistaken-ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/14884-jupiter-venus-mistaken-ufos.html</a>  
+   Link:<a href="https://www.space.com/14884-jupiter-venus-mistaken-ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/14884-jupiter-venus-mistaken-ufos.html</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
+   Link:<a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Mothman" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mothman</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Mothman" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mothman</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Identification studies of UFOs  
-   Link: <a href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identification_studies_of_UFOs</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identification_studies_of_UFOs</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Investigation of [UFO reports](&#123;&#123; 'ufo-reports/' | relative_url &#125;&#125;) by the United States government  
-   Link: <a href="https://en.wikipedia.org/wiki/Investigation_of_UFO_reports_by_the_United_States_government" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Investigation_of_UFO_reports_by_the_United_States_government</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Investigation_of_UFO_reports_by_the_United_States_government" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Investigation_of_UFO_reports_by_the_United_States_government</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Unidentified flying object  
-   Link: <a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
-   Link: <a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: List of [cryptids](&#123;&#123; 'cryptids/' | relative_url &#125;&#125;)  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_cryptids" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_cryptids</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_cryptids" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_cryptids</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Jersey Devil  
-   Link: <a href="https://en.wikipedia.org/wiki/Jersey_Devil" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jersey_Devil</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Jersey_Devil" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jersey_Devil</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: forums.forteana.org  
-   Link: <a href="https://forums.forteana.org/index.php?threads%2Fnational-folklore-survey-2025-one-in-five-english-people-have-never-shared-their-fortean-experiences.72340%2F=" target="_blank" rel="noopener noreferrer nofollow">https://forums.forteana.org/index.php?threads%2Fnational-folklore-survey-2025-one-in-five-english-people-have-never-shared-their-fortean-experiences.72340%2F=</a>  
+   Link:<a href="https://forums.forteana.org/index.php?threads%2Fnational-folklore-survey-2025-one-in-five-english-people-have-never-shared-their-fortean-experiences.72340%2F=" target="_blank" rel="noopener noreferrer nofollow">https://forums.forteana.org/index.php?threads%2Fnational-folklore-survey-2025-one-in-five-english-people-have-never-shared-their-fortean-experiences.72340%2F=</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ahyz9LmxRis" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ahyz9LmxRis</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ahyz9LmxRis" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ahyz9LmxRis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.youtube.com/watch?v=jjinS2lZAsY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jjinS2lZAsY</a>  
+   Link:<a href="https://www.youtube.com/watch?v=jjinS2lZAsY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jjinS2lZAsY</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: centaur.reading.ac.uk  
    Title: We investigated their combined effect on.Read more  
-   Link: <a href="https://centaur.reading.ac.uk/118712/1/The%20masked%20villain%20%20the%20effects%20of%20facial%20masking%20%20distance%20%20lighting%20%20and%20eyewitness%20age%20on%20eyewitness%20identification%20accuracy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centaur.reading.ac.uk/118712/1/The%20masked%20villain%20%20the%20effects%20of%20facial%20masking%20%20distance%20%20lighting%20%20and%20eyewitness%20age%20on%20eyewitness%20identification%20accuracy.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the effects of facial masking, distance, lighting, and eyewitness...August 25, 2023 — by TJ Nyman · 2023 · Cited by 11 — Distance...</p></details>
+   Link:<a href="https://centaur.reading.ac.uk/118712/1/The%20masked%20villain%20%20the%20effects%20of%20facial%20masking%20%20distance%20%20lighting%20%20and%20eyewitness%20age%20on%20eyewitness%20identification%20accuracy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centaur.reading.ac.uk/118712/1/The%20masked%20villain%20%20the%20effects%20of%20facial%20masking%20%20distance%20%20lighting%20%20and%20eyewitness%20age%20on%20eyewitness%20identification%20accuracy.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the effects of facial masking, distance, lighting, and eyewitness...August 25, 2023 — by TJ Nyman · 2023 · Cited by 11 — Distance...</p></details>
    Published: August 25, 2023  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: discovermagazine.com  
    Title: ufo no its venus 2345  
-   Link: <a href="https://www.discovermagazine.com/ufo-no-its-venus-2345" target="_blank" rel="noopener noreferrer nofollow">https://www.discovermagazine.com/ufo-no-its-venus-2345</a>  
+   Link:<a href="https://www.discovermagazine.com/ufo-no-its-venus-2345" target="_blank" rel="noopener noreferrer nofollow">https://www.discovermagazine.com/ufo-no-its-venus-2345</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: cryptozoologycryptids.fandom.com  
-   Link: <a href="https://cryptozoologycryptids.fandom.com/wiki/Mothman" target="_blank" rel="noopener noreferrer nofollow">https://cryptozoologycryptids.fandom.com/wiki/Mothman</a>  
+   Link:<a href="https://cryptozoologycryptids.fandom.com/wiki/Mothman" target="_blank" rel="noopener noreferrer nofollow">https://cryptozoologycryptids.fandom.com/wiki/Mothman</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/18253819/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/18253819/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/18253819/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/18253819/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: airandspace.si.edu  
-   Link: <a href="https://airandspace.si.edu/learn/programs/soar-together/ufos" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/learn/programs/soar-together/ufos</a>  
+   Link:<a href="https://airandspace.si.edu/learn/programs/soar-together/ufos" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/learn/programs/soar-together/ufos</a>  
 
 ### Additional References
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: Debunking Earth's Most Infamous UFO Sightings  
-   Link: <a href="https://www.youtube.com/watch?v=MHcKriIdbp8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MHcKriIdbp8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Neil deGrasse Tyson On Human Origins, Space, Aliens, Evolution, [Bigfoot](&amp;#123;&amp;#123; &#x27;bigfoot/&#x27; | relative_url &amp;#125;&amp;#125;) &amp; Truth About Moon Landing...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=MHcKriIdbp8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MHcKriIdbp8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Neil deGrasse Tyson On Human Origins, Space, Aliens, Evolution, [Bigfoot](&amp;#123;&amp;#123; &#x27;bigfoot/&#x27; | relative_url &amp;#125;&amp;#125;) &amp; Truth About Moon Landing...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100040013-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100040013-4.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100040013-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100040013-4.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/342378804_Witnessing_an_Unfamiliar_Person_The_Effects_of_Distance_Lighting_Age_Line-up_Type_and_Line-up_Position_on_Eyewitness_Accuracy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342378804_Witnessing_an_Unfamiliar_Person_The_Effects_of_Distance_Lighting_Age_Line-up_Type_and_Line-up_Position_on_Eyewitness_Accuracy</a>  
+   Link:<a href="https://www.researchgate.net/publication/342378804_Witnessing_an_Unfamiliar_Person_The_Effects_of_Distance_Lighting_Age_Line-up_Type_and_Line-up_Position_on_Eyewitness_Accuracy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342378804_Witnessing_an_Unfamiliar_Person_The_Effects_of_Distance_Lighting_Age_Line-up_Type_and_Line-up_Position_on_Eyewitness_Accuracy</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/read/18891/chapter/6" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/18891/chapter/6</a>  
+   Link:<a href="https://www.nationalacademies.org/read/18891/chapter/6" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/18891/chapter/6</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/UNBC/posts/critically-examining-cryptidsa-fourth-year-first-nations-studies-class-spent-the/1288540426641980/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UNBC/posts/critically-examining-cryptidsa-fourth-year-first-nations-studies-class-spent-the/1288540426641980/</a>  
+   Link:<a href="https://www.facebook.com/UNBC/posts/critically-examining-cryptidsa-fourth-year-first-nations-studies-class-spent-the/1288540426641980/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UNBC/posts/critically-examining-cryptidsa-fourth-year-first-nations-studies-class-spent-the/1288540426641980/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: geotoys.com  
-   Link: <a href="https://geotoys.com/blogs/geotoys-blog/cryptids-across-continents-global-legends-of-mystery-and-myth?srsltid=AfmBOopAA7mOOX9uNTmvUX_8mQY7fQgBTUHD1An5u80__FOgWMN7QVWa" target="_blank" rel="noopener noreferrer nofollow">https://geotoys.com/blogs/geotoys-blog/cryptids-across-continents-global-legends-of-mystery-and-myth?srsltid=AfmBOopAA7mOOX9uNTmvUX_8mQY7fQgBTUHD1An5u80__FOgWMN7QVWa</a>  
+   Link:<a href="https://geotoys.com/blogs/geotoys-blog/cryptids-across-continents-global-legends-of-mystery-and-myth?srsltid=AfmBOopAA7mOOX9uNTmvUX_8mQY7fQgBTUHD1An5u80__FOgWMN7QVWa" target="_blank" rel="noopener noreferrer nofollow">https://geotoys.com/blogs/geotoys-blog/cryptids-across-continents-global-legends-of-mystery-and-myth?srsltid=AfmBOopAA7mOOX9uNTmvUX_8mQY7fQgBTUHD1An5u80__FOgWMN7QVWa</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/281886105961506/posts/1759354754881293/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/281886105961506/posts/1759354754881293/</a>  
+   Link:<a href="https://www.facebook.com/groups/281886105961506/posts/1759354754881293/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/281886105961506/posts/1759354754881293/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/speculative-encounters/the-paranormal-forteana-strange-events-everyday-people-observe-bfd1b5b95381" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/speculative-encounters/the-paranormal-forteana-strange-events-everyday-people-observe-bfd1b5b95381</a>  
+   Link:<a href="https://medium.com/speculative-encounters/the-paranormal-forteana-strange-events-everyday-people-observe-bfd1b5b95381" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/speculative-encounters/the-paranormal-forteana-strange-events-everyday-people-observe-bfd1b5b95381</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/ProjectBlueBookSpecialReport14/pbbsr14_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/ProjectBlueBookSpecialReport14/pbbsr14_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/ProjectBlueBookSpecialReport14/pbbsr14_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/ProjectBlueBookSpecialReport14/pbbsr14_djvu.txt</a>  

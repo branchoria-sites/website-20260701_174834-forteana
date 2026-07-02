@@ -300,7 +300,7 @@ A weeping statue claim normally contains several distinct assertions that should
 
 </div>
 
-These claims require different kinds of evidence. Establishing that a liquid is human blood, for example, does not establish how it reached the statue. Likewise, showing that no obvious hidden reservoir exists inside a statue does not exclude external application or more subtle physical mechanisms. Investigators therefore need evidence about both the material and the circumstances under which it appeared. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Weeping_statue" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Weeping statue</span><span class="citation-popover-snippet">Weeping statue</span></span></span>
+These claims require different kinds of evidence. Establishing that a liquid is human blood, for example, does not establish how it reached the statue. Likewise, showing that no obvious hidden reservoir exists inside a statue does not exclude external application or more subtle physical mechanisms. Investigators therefore need evidence about both the material and the circumstances under which it appeared.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Weeping_statue" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Weeping statue</span><span class="citation-popover-snippet">Weeping statue</span></span></span>
 
 ## Why timing and access matter for testing
 
@@ -322,7 +322,7 @@ Instead, many famous reports follow the opposite sequence. The liquid is first n
 
 </div>
 
-Because these events often occur in active places of worship, preserving a pristine forensic scene can conflict with devotional practice. The very behaviour inspired by belief may unintentionally reduce the quality of later evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2000/dec/09/weekend7.weekend1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianThe crying game8 Dec 2000 — When villagers at Civitavecchia witnessed tears of blood falling down the face of a souvenir Mado...</span></span></span>
+Because these events often occur in active places of worship, preserving a pristine forensic scene can conflict with devotional practice. The very behaviour inspired by belief may unintentionally reduce the quality of later evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2000/dec/09/weekend7.weekend1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianThe crying game8 Dec 2000 — When villagers at Civitavecchia witnessed tears of blood falling down the face of a souvenir Mado...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DD_0m7YHqk4" title="Joe Nickell - Why Investigate the Paranormal | For Good Reason" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DD_0m7YHqk4" target="_blank" rel="noopener noreferrer">Joe Nickell - Why Investigate the Paranormal | For Good Reason</a></p><p class="youtube-embed-meta">Channel: JamesRandiFoundation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DD_0m7YHqk4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DD_0m7YHqk4">Open on YouTube</a></p></div></div></div>
@@ -352,7 +352,7 @@ These methods are powerful, but they cannot directly answer whether an unexplain
 
 The reported weeping Madonna at Civitavecchia, Italy, illustrates both the strengths and limitations of physical investigation.
 
-In 1995 a small plaster statue was reported to have wept tears of blood before numerous witnesses, attracting intense public attention. Authorities arranged scientific examinations. Radiological imaging reportedly found no concealed mechanical devices, while laboratory testing identified the liquid as human blood of male origin. Investigators requested DNA samples from members of the owner's household for comparison, but these were not provided. The absence of a complete forensic chain meant that the source of the blood could not be conclusively established. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://civitavecchia.portmobility.it/en/madonna-civitavecchia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: civitavecchia.portmobility.it">[Port Mobility Civitavecchia+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">civitavecchia.portmobility.it</span><span class="citation-popover-title">Port Mobility Civitavecchia The Madonna of Civitavecchia</span><span class="citation-popover-snippet">Port Mobility CivitavecchiaThe Madonna of CivitavecchiaSeptember 16, 2015 — the Madonnina, in fact, began suddenly to weep blod in his ha...</span><span class="citation-popover-meta">Published: September 16, 2015</span></span></span>
+In 1995 a small plaster statue was reported to have wept tears of blood before numerous witnesses, attracting intense public attention. Authorities arranged scientific examinations. Radiological imaging reportedly found no concealed mechanical devices, while laboratory testing identified the liquid as human blood of male origin. Investigators requested DNA samples from members of the owner's household for comparison, but these were not provided. The absence of a complete forensic chain meant that the source of the blood could not be conclusively established.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://civitavecchia.portmobility.it/en/madonna-civitavecchia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: civitavecchia.portmobility.it">[Port Mobility Civitavecchia+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">civitavecchia.portmobility.it</span><span class="citation-popover-title">Port Mobility Civitavecchia The Madonna of Civitavecchia</span><span class="citation-popover-snippet">Port Mobility CivitavecchiaThe Madonna of CivitavecchiaSeptember 16, 2015 — the Madonnina, in fact, began suddenly to weep blod in his ha...</span><span class="citation-popover-meta">Published: September 16, 2015</span></span></span>
 
 The case demonstrates an important distinction. Finding genuine blood answers only one question. It does not determine whether the blood appeared naturally, was deliberately applied, or resulted from another process. Once early opportunities for controlled [observation]({{ 'observation/' | relative_url }}) passed, later debate centred largely on interpretation rather than new physical evidence.
 
@@ -362,7 +362,7 @@ Claims of weeping statues are examined against several ordinary physical explana
 
 **Condensation.** Temperature differences between materials can produce droplets that appear in predictable locations, especially around smoother or cooler surfaces such as painted eyes.
 
-**Capillary action.** Porous plaster, stone or ceramic can draw moisture through microscopic channels. Small defects in glaze or paint may cause liquid to emerge at apparently significant points. Chemist Luigi Garlaschelli has argued that some reported cases can be reproduced using these principles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Weeping_statue" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Weeping statue</span><span class="citation-popover-snippet">Weeping statue</span></span></span>
+**Capillary action.** Porous plaster, stone or ceramic can draw moisture through microscopic channels. Small defects in glaze or paint may cause liquid to emerge at apparently significant points. Chemist Luigi Garlaschelli has argued that some reported cases can be reproduced using these principles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Weeping_statue" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Weeping statue</span><span class="citation-popover-snippet">Weeping statue</span></span></span>
 
 **Material degradation.** Ageing varnishes, adhesives or restoration materials may release oils or coloured fluids under changing environmental conditions.
 
@@ -377,7 +377,7 @@ These explanations are not assumptions that every case is mundane. Rather, they 
 
 Some reported weeping statues have later been shown to involve deliberate human intervention.
 
-Investigations have uncovered examples in which blood, paint or other substances were applied to religious images. In several cases, forensic testing linked biological material to specific individuals or identified ordinary substances such as scented olive oil rather than unexplained fluids. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Weeping_statue" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Weeping statue</span><span class="citation-popover-snippet">Weeping statue</span></span></span>
+Investigations have uncovered examples in which blood, paint or other substances were applied to religious images. In several cases, forensic testing linked biological material to specific individuals or identified ordinary substances such as scented olive oil rather than unexplained fluids.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Weeping_statue" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Weeping statue</span><span class="citation-popover-snippet">Weeping statue</span></span></span>
 
 Intentional fraud is not the only concern. Even sincere believers can unintentionally complicate an investigation:
 
@@ -400,7 +400,7 @@ These factors mean that weak evidence does not necessarily imply deception, but 
 
 Contrary to popular assumptions, many church authorities treat reported weeping statues with considerable scepticism.
 
-Within the Roman Catholic tradition, local bishops commonly order investigations precisely because false claims can damage public trust and encourage superstition. Numerous reported cases have not been recognised as supernatural, while others remain officially unresolved even after years of attention. The existence of pilgrims or widespread belief is not treated as proof in itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Weeping_statue" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Weeping statue</span><span class="citation-popover-snippet">Weeping statue</span></span></span>
+Within the Roman Catholic tradition, local bishops commonly order investigations precisely because false claims can damage public trust and encourage superstition. Numerous reported cases have not been recognised as supernatural, while others remain officially unresolved even after years of attention. The existence of pilgrims or widespread belief is not treated as proof in itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Weeping_statue" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Weeping statue</span><span class="citation-popover-snippet">Weeping statue</span></span></span>
 
 This cautious approach reflects an awareness that dramatic physical claims require correspondingly strong evidence, particularly when public devotion and media attention create strong incentives for premature conclusions.
 
@@ -417,194 +417,194 @@ The recurring lesson from reported weeping statues is that extraordinary physica
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Should Count as Evidence for a Weeping Statue?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Should Count as Evidence for a Weeping Statue?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Provides methods for assessing physical miracle evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides methods for assessing physical miracle evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explains how extraordinary physical claims gain acceptance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how extraordinary physical claims gain acceptance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Miracles+C.+S.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Miracles on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9184514-M.jpg" alt="Cover for Miracles" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Miracles+C.+S.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Miracles">Miracles</a>
-        </h4>
-        <p class="fr-book-author">By C. S. Lewis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Miracles+C.+S.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Miracles on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9184514-M.jpg" alt="Cover for Miracles" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Miracles+C.+S.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Miracles">Miracles</a>
+</h4>
+<p class="fr-book-author">By C. S. Lewis</p>
         
-        <p class="fr-book-desc">First published 1947. Subjects: Miracles, Nonfiction, Religion &amp; Spirituality, Christianity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Miracles+C.+S.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1947. Subjects: Miracles, Nonfiction, Religion &amp; Spirituality, Christianity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Miracles+C.+S.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Case+for+Miracles+Lee+Strobel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Case for Miracles on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8588091-M.jpg" alt="Cover for The Case for Miracles" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Case+for+Miracles+Lee+Strobel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Case for Miracles">The Case for Miracles</a>
-        </h4>
-        <p class="fr-book-author">By Lee Strobel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Case+for+Miracles+Lee+Strobel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Case for Miracles on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8588091-M.jpg" alt="Cover for The Case for Miracles" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Case+for+Miracles+Lee+Strobel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Case for Miracles">The Case for Miracles</a>
+</h4>
+<p class="fr-book-author">By Lee Strobel</p>
         
-        <p class="fr-book-desc">First published 2018. Subjects: Miracles, Supernatural.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Case+for+Miracles+Lee+Strobel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2018. Subjects: Miracles, Supernatural.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Case+for+Miracles+Lee+Strobel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Miracles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Miracles</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Miracles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Miracles</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Religious Wall Art Mirror Jesus Cross . 12 Inch X 14 Inch Unique Item"><img src="{{ '/assets/images/marketplace-covers/2478ad386990eccea3e0.jpg' | relative_url }}" alt="Listing image for Religious Wall Art Mirror Jesus Cross . 12 Inch X 14 Inch Unique Item" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art" target="_blank" rel="sponsored noopener noreferrer">Religious Wall Art Mirror Jesus Cross . 12 Inch X 14 Inch Unique Item</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for religious wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: religious wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Religious Wall Art Mirror Jesus Cross . 12 Inch X 14 Inch Unique Item"><img src="{{ '/assets/images/marketplace-covers/2478ad386990eccea3e0.jpg' | relative_url }}" alt="Listing image for Religious Wall Art Mirror Jesus Cross . 12 Inch X 14 Inch Unique Item" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art" target="_blank" rel="sponsored noopener noreferrer">Religious Wall Art Mirror Jesus Cross . 12 Inch X 14 Inch Unique Item</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for religious wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: religious wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Christian Bible Verse Poster Wall Art Religious Quote Christianity Home Decor"><img src="{{ '/assets/images/marketplace-covers/69eb4c6bae82bf6e6e35.jpg' | relative_url }}" alt="Listing image for Christian Bible Verse Poster Wall Art Religious Quote Christianity Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art" target="_blank" rel="sponsored noopener noreferrer">Christian Bible Verse Poster Wall Art Religious Quote Christianity Home Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for religious wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: religious wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Christian Bible Verse Poster Wall Art Religious Quote Christianity Home Decor"><img src="{{ '/assets/images/marketplace-covers/69eb4c6bae82bf6e6e35.jpg' | relative_url }}" alt="Listing image for Christian Bible Verse Poster Wall Art Religious Quote Christianity Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art" target="_blank" rel="sponsored noopener noreferrer">Christian Bible Verse Poster Wall Art Religious Quote Christianity Home Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for religious wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: religious wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jesus Religious Canvas Picture Print Wall Art"><img src="{{ '/assets/images/marketplace-covers/323dc74a048251cb931a.jpg' | relative_url }}" alt="Listing image for Jesus Religious Canvas Picture Print Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art" target="_blank" rel="sponsored noopener noreferrer">Jesus Religious Canvas Picture Print Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for religious wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: religious wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jesus Religious Canvas Picture Print Wall Art"><img src="{{ '/assets/images/marketplace-covers/323dc74a048251cb931a.jpg' | relative_url }}" alt="Listing image for Jesus Religious Canvas Picture Print Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art" target="_blank" rel="sponsored noopener noreferrer">Jesus Religious Canvas Picture Print Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for religious wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: religious wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Light of the World Print Religious Jesus Christian Wall Art Framed"><img src="{{ '/assets/images/marketplace-covers/40b1d557c5f65fa82f1b.jpg' | relative_url }}" alt="Listing image for The Light of the World Print Religious Jesus Christian Wall Art Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art" target="_blank" rel="sponsored noopener noreferrer">The Light of the World Print Religious Jesus Christian Wall Art Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for religious wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: religious wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Light of the World Print Religious Jesus Christian Wall Art Framed"><img src="{{ '/assets/images/marketplace-covers/40b1d557c5f65fa82f1b.jpg' | relative_url }}" alt="Listing image for The Light of the World Print Religious Jesus Christian Wall Art Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art" target="_blank" rel="sponsored noopener noreferrer">The Light of the World Print Religious Jesus Christian Wall Art Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for religious wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: religious wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=religious+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="religious wall art" data-ebay-reference="weeping-statues-what-should-count-as-evidence-for-a-weeping-statue-forteana-religious-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -620,7 +620,7 @@ The recurring lesson from reported weeping statues is that extraordinary physica
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -640,7 +640,7 @@ The recurring lesson from reported weeping statues is that extraordinary physica
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -672,7 +672,7 @@ The recurring lesson from reported weeping statues is that extraordinary physica
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -724,7 +724,7 @@ The recurring lesson from reported weeping statues is that extraordinary physica
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -769,7 +769,7 @@ The recurring lesson from reported weeping statues is that extraordinary physica
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -810,82 +810,82 @@ The recurring lesson from reported weeping statues is that extraordinary physica
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Weeping statue  
-   Link: <a href="https://en.wikipedia.org/wiki/Weeping_statue" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Weeping_statue</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Weeping_statue" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Weeping_statue</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/theguardian/2000/dec/09/weekend7.weekend1" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/theguardian/2000/dec/09/weekend7.weekend1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianThe crying game8 Dec 2000 — When villagers at Civitavecchia witnessed tears of blood falling down the face of a souvenir Mado...</p></details>
+   Link:<a href="https://www.theguardian.com/theguardian/2000/dec/09/weekend7.weekend1" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/theguardian/2000/dec/09/weekend7.weekend1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianThe crying game8 Dec 2000 — When villagers at Civitavecchia witnessed tears of blood falling down the face of a souvenir Mado...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: civitavecchia.portmobility.it  
    Title: Port Mobility Civitavecchia The Madonna of Civitavecchia  
-   Link: <a href="https://civitavecchia.portmobility.it/en/madonna-civitavecchia" target="_blank" rel="noopener noreferrer nofollow">https://civitavecchia.portmobility.it/en/madonna-civitavecchia</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Port Mobility CivitavecchiaThe Madonna of CivitavecchiaSeptember 16, 2015 — the Madonnina, in fact, began suddenly to weep blod in his ha...</p></details>
+   Link:<a href="https://civitavecchia.portmobility.it/en/madonna-civitavecchia" target="_blank" rel="noopener noreferrer nofollow">https://civitavecchia.portmobility.it/en/madonna-civitavecchia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Port Mobility CivitavecchiaThe Madonna of CivitavecchiaSeptember 16, 2015 — the Madonnina, in fact, began suddenly to weep blod in his ha...</p></details>
    Published: September 16, 2015  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2025/feb/14/italian-mystic-may-face-trial-after-dna-match-with-bleeding-virgin-mary-statue" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/feb/14/italian-mystic-may-face-trial-after-dna-match-with-bleeding-virgin-mary-statue</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cardia, who had attracted numerous pilgrims to Trevignano Romano near Rome, had been accused of fraud by the Roman Catholic Church, which...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2025/feb/14/italian-mystic-may-face-trial-after-dna-match-with-bleeding-virgin-mary-statue" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/feb/14/italian-mystic-may-face-trial-after-dna-match-with-bleeding-virgin-mary-statue</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cardia, who had attracted numerous pilgrims to Trevignano Romano near Rome, had been accused of fraud by the Roman Catholic Church, which...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ewtnnews.com  
-   Link: <a href="https://www.ewtnnews.com/world/europe/padre-pio-statue-appears-to-weep-blood-in-italian-parish" target="_blank" rel="noopener noreferrer nofollow">https://www.ewtnnews.com/world/europe/padre-pio-statue-appears-to-weep-blood-in-italian-parish</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The parish priest believes the phenomenon to be real, but the Church must...Read more...</p></details>
+   Link:<a href="https://www.ewtnnews.com/world/europe/padre-pio-statue-appears-to-weep-blood-in-italian-parish" target="_blank" rel="noopener noreferrer nofollow">https://www.ewtnnews.com/world/europe/padre-pio-statue-appears-to-weep-blood-in-italian-parish</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The parish priest believes the phenomenon to be real, but the Church must...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SignoftheCrossMedia/posts/a-statue-of-padre-pio-in-italy-has-allegedly-shed-a-tear-of-blood-the-parish-pri/1328488459480433/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SignoftheCrossMedia/posts/a-statue-of-padre-pio-in-italy-has-allegedly-shed-a-tear-of-blood-the-parish-pri/1328488459480433/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The parish priest believes the phenomenon to be real, but the Church must investigate...</p></details>
+   Link:<a href="https://www.facebook.com/SignoftheCrossMedia/posts/a-statue-of-padre-pio-in-italy-has-allegedly-shed-a-tear-of-blood-the-parish-pri/1328488459480433/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SignoftheCrossMedia/posts/a-statue-of-padre-pio-in-italy-has-allegedly-shed-a-tear-of-blood-the-parish-pri/1328488459480433/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The parish priest believes the phenomenon to be real, but the Church must investigate...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: mg.co.za  
    Title: 2000 12 15 are the madonnas tears of blood for real  
-   Link: <a href="https://mg.co.za/article/2000-12-15-are-the-madonnas-tears-of-blood-for-real/" target="_blank" rel="noopener noreferrer nofollow">https://mg.co.za/article/2000-12-15-are-the-madonnas-tears-of-blood-for-real/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Are the Madonna&#x27;s tears of blood for real?15 Dec 2000 — When villagers at Civitavecchia witnessed tears of blood falling down the face of...</p></details>
+   Link:<a href="https://mg.co.za/article/2000-12-15-are-the-madonnas-tears-of-blood-for-real/" target="_blank" rel="noopener noreferrer nofollow">https://mg.co.za/article/2000-12-15-are-the-madonnas-tears-of-blood-for-real/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Are the Madonna&#x27;s tears of blood for real?15 Dec 2000 — When villagers at Civitavecchia witnessed tears of blood falling down the face of...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BlessedVirginMotherMary/posts/a-statue-of-the-virgin-mary-began-to-weep-blooddoctors-couldnt-explain-the-liqui/1168272808666763/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BlessedVirginMotherMary/posts/a-statue-of-the-virgin-mary-began-to-weep-blooddoctors-couldnt-explain-the-liqui/1168272808666763/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>rule out natural causes such as condensation, leaks, or human...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/BlessedVirginMotherMary/posts/a-statue-of-the-virgin-mary-began-to-weep-blooddoctors-couldnt-explain-the-liqui/1168272808666763/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BlessedVirginMotherMary/posts/a-statue-of-the-virgin-mary-began-to-weep-blooddoctors-couldnt-explain-the-liqui/1168272808666763/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rule out natural causes such as condensation, leaks, or human...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: miraclesjar.com  
    Title: madonna civitavecchia dna match hoax  
-   Link: <a href="https://miraclesjar.com/claims/madonna-civitavecchia-dna-match-hoax" target="_blank" rel="noopener noreferrer nofollow">https://miraclesjar.com/claims/madonna-civitavecchia-dna-match-hoax</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Weeping Madonna of Civitavecchia: Blood Matched to a...22 Jun 2026 — An Italian statue of the Virgin Mary reported to weep blood in...</p></details>
+   Link:<a href="https://miraclesjar.com/claims/madonna-civitavecchia-dna-match-hoax" target="_blank" rel="noopener noreferrer nofollow">https://miraclesjar.com/claims/madonna-civitavecchia-dna-match-hoax</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Weeping Madonna of Civitavecchia: Blood Matched to a...22 Jun 2026 — An Italian statue of the Virgin Mary reported to weep blood in...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Scientists Tested the Tears of Our Lady of Guadalupe — An Impossible Discovery  
-   Link: <a href="https://www.youtube.com/watch?v=e7HO9k266Aw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=e7HO9k266Aw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weeping Statues and Icons | Greek Orthodoxy Fact vs Fiction...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=e7HO9k266Aw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=e7HO9k266Aw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weeping Statues and Icons | Greek Orthodoxy Fact vs Fiction...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Our Lady of Sorrows: Seven Sorrows, Akita & the Tears of Mary  
-   Link: <a href="https://www.youtube.com/watch?v=rfiiPje113s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rfiiPje113s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Joe Nickell - Why Investigate the Paranormal | For Good Reason...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rfiiPje113s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rfiiPje113s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Joe Nickell - Why Investigate the Paranormal | For Good Reason...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Weeping Statues and Icons | Greek Orthodoxy Fact vs Fiction  
-   Link: <a href="https://www.youtube.com/watch?v=LcX2juasHjc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LcX2juasHjc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Statues of Mary Are Weeping Around the World - WHY?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LcX2juasHjc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LcX2juasHjc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Statues of Mary Are Weeping Around the World - WHY?...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Statues of Mary Are Weeping Around the World  
-   Link: <a href="https://www.youtube.com/watch?v=sl5xSMhUYkE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sl5xSMhUYkE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Our Lady of Sorrows: Seven Sorrows, Akita &amp; the Tears of Mary...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sl5xSMhUYkE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sl5xSMhUYkE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Our Lady of Sorrows: Seven Sorrows, Akita &amp; the Tears of Mary...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Joe Nickell  
-   Link: <a href="https://www.youtube.com/watch?v=DD_0m7YHqk4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DD_0m7YHqk4</a>  
+   Link:<a href="https://www.youtube.com/watch?v=DD_0m7YHqk4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DD_0m7YHqk4</a>  

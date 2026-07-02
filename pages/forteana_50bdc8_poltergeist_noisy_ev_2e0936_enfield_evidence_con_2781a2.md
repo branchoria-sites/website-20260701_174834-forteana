@@ -280,17 +280,17 @@ image: /assets/images/forteana_50bdc8_poltergeist_noisy_ev_2e0936_enfield_eviden
 
 ## Introduction
 
-The Enfield Poltergeist remains one of the most disputed cases in modern [Forteana]({{ 'forteana/' | relative_url }}) because it combines an unusually rich body of evidence with equally strong reasons to question that evidence. Between 1977 and 1979, investigators, neighbours, police officers, journalists and researchers all reported unusual events at a council house in north London. Hundreds of hours of audio recordings, photographs, witness statements and investigator notes survive. Yet the same archive also contains admitted [hoaxes]({{ 'hoaxes/' | relative_url }}), contradictory testimony, media influence and disagreements among the investigators themselves. Rather than settling the case, the abundance of material has made it harder to interpret. Supporters argue that a small core of incidents remains unexplained despite exposed trickery. Critics respond that once the investigation became contaminated by deception, publicity and expectation, separating genuine events from staged ones became almost impossible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Enfield_poltergeist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Enfield poltergeist</span><span class="citation-popover-snippet">Enfield poltergeist</span></span></span>
+The Enfield Poltergeist remains one of the most disputed cases in modern [Forteana]({{ 'forteana/' | relative_url }}) because it combines an unusually rich body of evidence with equally strong reasons to question that evidence. Between 1977 and 1979, investigators, neighbours, police officers, journalists and researchers all reported unusual events at a council house in north London. Hundreds of hours of audio recordings, photographs, witness statements and investigator notes survive. Yet the same archive also contains admitted [hoaxes]({{ 'hoaxes/' | relative_url }}), contradictory testimony, media influence and disagreements among the investigators themselves. Rather than settling the case, the abundance of material has made it harder to interpret. Supporters argue that a small core of incidents remains unexplained despite exposed trickery. Critics respond that once the investigation became contaminated by deception, publicity and expectation, separating genuine events from staged ones became almost impossible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Enfield_poltergeist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Enfield poltergeist</span><span class="citation-popover-snippet">Enfield poltergeist</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_poltergeist_noisy_ev_2e0936_enfield_evidence_con_2781a2-Illustration-1-dark.svg" | relative_url }}" alt="Enfield illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_poltergeist_noisy_ev_2e0936_enfield_evidence_con_2781a2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_poltergeist_noisy_ev_2e0936_enfield_evidence_con_2781a2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Witnesses, recordings and press attention
 
-Unlike many alleged hauntings, Enfield was documented almost continuously for months rather than days. The case attracted investigators from the Society for Psychical Research (SPR), especially Maurice Grosse and Guy Lyon Playfair, who spent long periods inside the Hodgson family home. Grosse accumulated hundreds of hours of tape recordings, while Playfair later published a detailed narrative based on interviews, observations and field notes. These records remain one of the largest surviving collections for any alleged poltergeist case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Maurice_Grosse" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Maurice Grosse</span><span class="citation-popover-snippet">Maurice Grosse</span></span></span>
+Unlike many alleged hauntings, Enfield was documented almost continuously for months rather than days. The case attracted investigators from the Society for Psychical Research (SPR), especially Maurice Grosse and Guy Lyon Playfair, who spent long periods inside the Hodgson family home. Grosse accumulated hundreds of hours of tape recordings, while Playfair later published a detailed narrative based on interviews, observations and field notes. These records remain one of the largest surviving collections for any alleged poltergeist case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Maurice_Grosse" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Maurice Grosse</span><span class="citation-popover-snippet">Maurice Grosse</span></span></span>
 
-The witness list was also unusually broad. Besides the Hodgson family, neighbours described hearing unexplained knocks, police officers reported seeing furniture move, photographers captured dramatic images, and journalists regularly visited the house. To believers, this diversity suggests the events cannot be dismissed as a simple family fabrication. To sceptics, however, the growing audience changed the social environment around the case. Every new visitor introduced additional expectations, interpretations and opportunities for misunderstanding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Enfield_poltergeist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Enfield poltergeist</span><span class="citation-popover-snippet">Enfield poltergeist</span></span></span>
+The witness list was also unusually broad. Besides the Hodgson family, neighbours described hearing unexplained knocks, police officers reported seeing furniture move, photographers captured dramatic images, and journalists regularly visited the house. To believers, this diversity suggests the events cannot be dismissed as a simple family fabrication. To sceptics, however, the growing audience changed the social environment around the case. Every new visitor introduced additional expectations, interpretations and opportunities for misunderstanding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Enfield_poltergeist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Enfield poltergeist</span><span class="citation-popover-snippet">Enfield poltergeist</span></span></span>
 
-Media attention became part of the evidence rather than merely reporting it. As [newspapers]({{ 'newspapers/' | relative_url }}), television crews and curiosity seekers arrived, the children at the centre of the case became aware that their behaviour was being watched and recorded. Investigators therefore faced a classic observational problem: attempts to document the phenomenon also altered the circumstances in which it occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Enfield_poltergeist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Enfield poltergeist</span><span class="citation-popover-snippet">Enfield poltergeist</span></span></span>
+Media attention became part of the evidence rather than merely reporting it. As [newspapers]({{ 'newspapers/' | relative_url }}), television crews and curiosity seekers arrived, the children at the centre of the case became aware that their behaviour was being watched and recorded. Investigators therefore faced a classic observational problem: attempts to document the phenomenon also altered the circumstances in which it occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Enfield_poltergeist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Enfield poltergeist</span><span class="citation-popover-snippet">Enfield poltergeist</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sls6pszMGfk" title="The Enfield Poltergeist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sls6pszMGfk" target="_blank" rel="noopener noreferrer">The Enfield Poltergeist</a></p><p class="youtube-embed-meta">Channel: 210015allan</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sls6pszMGfk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sls6pszMGfk">Open on YouTube</a></p></div></div></div>
@@ -299,16 +299,16 @@ Media attention became part of the evidence rather than merely reporting it. As 
 
 The greatest source of evidential contamination is that trickery was not merely alleged—it was directly observed on multiple occasions.
 
-Janet Hodgson, around whom much of the reported activity centred, was filmed bending spoons, attempting to bend an iron bar and engaging in other deceptive behaviour. Maurice Grosse himself reportedly witnessed her using a broom handle to create noises and hiding equipment during parts of the investigation. Janet and her sister Margaret also admitted to journalists that they had faked some incidents, although they later withdrew those admissions after discussions with the investigators. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Enfield_poltergeist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Enfield poltergeist</span><span class="citation-popover-snippet">Enfield poltergeist</span></span></span>
+Janet Hodgson, around whom much of the reported activity centred, was filmed bending spoons, attempting to bend an iron bar and engaging in other deceptive behaviour. Maurice Grosse himself reportedly witnessed her using a broom handle to create noises and hiding equipment during parts of the investigation. Janet and her sister Margaret also admitted to journalists that they had faked some incidents, although they later withdrew those admissions after discussions with the investigators.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Enfield_poltergeist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Enfield poltergeist</span><span class="citation-popover-snippet">Enfield poltergeist</span></span></span>
 
 These admissions created two competing interpretations.
 
 * **Supporters' view:** the girls occasionally staged phenomena because genuine activity had become less frequent or because they enjoyed the attention, but this did not explain every reported incident.
-* **Sceptics' view:** once deliberate deception had been demonstrated, all subsequent claims required a much higher standard of proof that the investigation never achieved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/guy-lyon-playfair/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">Psi Encyclopedia Guy Lyon Playfair</span><span class="citation-popover-snippet">Psi EncyclopediaGuy Lyon Playfair - Psi Encyclopedia30 Mar 2021 — He argued that trickery explained only a small part of the Enfield even...</span></span></span>
+* **Sceptics' view:** once deliberate deception had been demonstrated, all subsequent claims required a much higher standard of proof that the investigation never achieved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/guy-lyon-playfair/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">Psi Encyclopedia Guy Lyon Playfair</span><span class="citation-popover-snippet">Psi EncyclopediaGuy Lyon Playfair - Psi Encyclopedia30 Mar 2021 — He argued that trickery explained only a small part of the Enfield even...</span></span></span>
 
-Photographic evidence illustrates the disagreement particularly well. Images that believers described as showing Janet levitating above her bed have been interpreted by critics as photographs of an athletic child jumping from the mattress. The same photographs therefore function as evidence for opposite conclusions depending on assumptions about the surrounding circumstances. Joe Nickell and other sceptical investigators argued that the images resemble ordinary gymnastics rather than unexplained suspension in mid-air. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Enfield_poltergeist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Enfield poltergeist</span><span class="citation-popover-snippet">Enfield poltergeist</span></span></span>
+Photographic evidence illustrates the disagreement particularly well. Images that believers described as showing Janet levitating above her bed have been interpreted by critics as photographs of an athletic child jumping from the mattress. The same photographs therefore function as evidence for opposite conclusions depending on assumptions about the surrounding circumstances. Joe Nickell and other sceptical investigators argued that the images resemble ordinary gymnastics rather than unexplained suspension in mid-air.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Enfield_poltergeist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Enfield poltergeist</span><span class="citation-popover-snippet">Enfield poltergeist</span></span></span>
 
-The famous "Bill" voice, supposedly produced by the spirit of a deceased former resident, also remains contentious. Investigators regarded the harsh, elderly-sounding speech as one of the strongest pieces of evidence, while critics argued that the sounds could be produced using the false vocal cords or ventriloquial techniques. Later broadcasts uncovered historical information linking the name and biography to a real former occupant, but this did not resolve whether the voice itself had a paranormal origin or whether ordinary means could account for it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Enfield_poltergeist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Enfield poltergeist</span><span class="citation-popover-snippet">Enfield poltergeist</span></span></span>
+The famous "Bill" voice, supposedly produced by the spirit of a deceased former resident, also remains contentious. Investigators regarded the harsh, elderly-sounding speech as one of the strongest pieces of evidence, while critics argued that the sounds could be produced using the false vocal cords or ventriloquial techniques. Later broadcasts uncovered historical information linking the name and biography to a real former occupant, but this did not resolve whether the voice itself had a paranormal origin or whether ordinary means could account for it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Enfield_poltergeist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Enfield poltergeist</span><span class="citation-popover-snippet">Enfield poltergeist</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_poltergeist_noisy_ev_2e0936_enfield_evidence_con_2781a2-Illustration-2-dark.svg" | relative_url }}" alt="Enfield illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_poltergeist_noisy_ev_2e0936_enfield_evidence_con_2781a2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_poltergeist_noisy_ev_2e0936_enfield_evidence_con_2781a2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -316,11 +316,11 @@ The famous "Bill" voice, supposedly produced by the spirit of a deceased former 
 
 One reason Enfield remains controversial is that disagreement emerged within psychical research itself rather than only between believers and sceptics.
 
-Guy Lyon Playfair consistently argued that some fraud had occurred but maintained that trickery could not explain the entire sequence of events. His position was nuanced rather than absolute: he accepted exaggeration and deception while insisting that a residue of apparently genuine phenomena remained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/guy-lyon-playfair/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">Psi Encyclopedia Guy Lyon Playfair</span><span class="citation-popover-snippet">Psi EncyclopediaGuy Lyon Playfair - Psi Encyclopedia30 Mar 2021 — He argued that trickery explained only a small part of the Enfield even...</span></span></span>
+Guy Lyon Playfair consistently argued that some fraud had occurred but maintained that trickery could not explain the entire sequence of events. His position was nuanced rather than absolute: he accepted exaggeration and deception while insisting that a residue of apparently genuine phenomena remained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/guy-lyon-playfair/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">Psi Encyclopedia Guy Lyon Playfair</span><span class="citation-popover-snippet">Psi EncyclopediaGuy Lyon Playfair - Psi Encyclopedia30 Mar 2021 — He argued that trickery explained only a small part of the Enfield even...</span></span></span>
 
-Other researchers associated with the Society for Psychical Research were much less convinced. Anita Gregory regarded several episodes as suspicious and believed the girls had staged incidents, particularly when journalists were present. John Beloff also concluded that ordinary deception, including ventriloquism, provided a better explanation for many of the reported events. These disagreements meant that even investigators working within broadly sympathetic organisations failed to reach consensus. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Enfield_poltergeist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Enfield poltergeist</span><span class="citation-popover-snippet">Enfield poltergeist</span></span></span>
+Other researchers associated with the Society for Psychical Research were much less convinced. Anita Gregory regarded several episodes as suspicious and believed the girls had staged incidents, particularly when journalists were present. John Beloff also concluded that ordinary deception, including ventriloquism, provided a better explanation for many of the reported events. These disagreements meant that even investigators working within broadly sympathetic organisations failed to reach consensus.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Enfield_poltergeist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Enfield poltergeist</span><span class="citation-popover-snippet">Enfield poltergeist</span></span></span>
 
-Outside psychical research, sceptical investigators such as Joe Nickell argued that the investigation repeatedly accepted weak evidence, overlooked simple explanations and underestimated children's ability to improvise convincing tricks. Nickell also criticised interpretations of technical incidents, including tape-recorder malfunctions that some investigators considered paranormal but which he argued were consistent with known mechanical problems in older recording equipment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Enfield_poltergeist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Enfield poltergeist</span><span class="citation-popover-snippet">Enfield poltergeist</span></span></span>
+Outside psychical research, sceptical investigators such as Joe Nickell argued that the investigation repeatedly accepted weak evidence, overlooked simple explanations and underestimated children's ability to improvise convincing tricks. Nickell also criticised interpretations of technical incidents, including tape-recorder malfunctions that some investigators considered paranormal but which he argued were consistent with known mechanical problems in older recording equipment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Enfield_poltergeist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Enfield poltergeist</span><span class="citation-popover-snippet">Enfield poltergeist</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rkhWohPGBXw" title="The TRUE Haunting of The Enfield Poltergeist (FULL PARANORMAL HORROR DOCUMENTARY)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rkhWohPGBXw" target="_blank" rel="noopener noreferrer">The TRUE Haunting of The Enfield Poltergeist (FULL PARANORMAL HORROR DOCUMENTARY)</a></p><p class="youtube-embed-meta">Channel: The Tape Library</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rkhWohPGBXw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rkhWohPGBXw">Open on YouTube</a></p></div></div></div>
@@ -335,7 +335,7 @@ Several forms of contamination accumulated simultaneously:
 * **Confirmed deception:** exposed trickery forced every subsequent claim to be assessed under increased suspicion.
 * **Mixed-quality documentation:** eyewitness testimony, photographs, tape recordings and personal recollections varied greatly in reliability.
 * **Confirmation bias:** believers and sceptics often interpreted the same recordings or photographs through different assumptions.
-* **Narrative development:** as the case became internationally famous, later [retellings]({{ 'retellings/' | relative_url }}) increasingly selected dramatic episodes while omitting contradictory details. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Enfield_poltergeist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Enfield poltergeist</span><span class="citation-popover-snippet">Enfield poltergeist</span></span></span>
+* **Narrative development:** as the case became internationally famous, later [retellings]({{ 'retellings/' | relative_url }}) increasingly selected dramatic episodes while omitting contradictory details.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Enfield_poltergeist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Enfield poltergeist</span><span class="citation-popover-snippet">Enfield poltergeist</span></span></span>
 
 This mixture makes statistical or cumulative reasoning difficult. Instead of independent pieces of evidence reinforcing one another, many items derive from the same contaminated environment. A dramatic photograph, for example, may depend on testimony from witnesses already known to have participated in some deception. Likewise, audio recordings gain or lose credibility depending on assumptions about who was present, where microphones were placed and whether observers had continuous sight of the participants.
 
@@ -345,7 +345,7 @@ This mixture makes statistical or cumulative reasoning difficult. Instead of ind
 
 Enfield has endured not because it offers decisive proof either for or against paranormal activity, but because it vividly illustrates the problems of investigating spontaneous, emotionally charged events in uncontrolled settings.
 
-Believers point to the number of witnesses, the duration of the investigation and incidents they believe cannot be explained by admitted pranks alone. Critics counter that the combination of media attention, exposed fakery, investigator commitment and inconsistent controls permanently compromised the evidential record. Both sides therefore draw on the same archive while reaching different conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/guy-lyon-playfair/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">Psi Encyclopedia Guy Lyon Playfair</span><span class="citation-popover-snippet">Psi EncyclopediaGuy Lyon Playfair - Psi Encyclopedia30 Mar 2021 — He argued that trickery explained only a small part of the Enfield even...</span></span></span>
+Believers point to the number of witnesses, the duration of the investigation and incidents they believe cannot be explained by admitted pranks alone. Critics counter that the combination of media attention, exposed fakery, investigator commitment and inconsistent controls permanently compromised the evidential record. Both sides therefore draw on the same archive while reaching different conclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/guy-lyon-playfair/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">Psi Encyclopedia Guy Lyon Playfair</span><span class="citation-popover-snippet">Psi EncyclopediaGuy Lyon Playfair - Psi Encyclopedia30 Mar 2021 — He argued that trickery explained only a small part of the Enfield even...</span></span></span>
 
 Within the broader study of poltergeist claims, Enfield serves as a cautionary example of evidence contamination. It shows that accumulating more recordings, photographs and testimony does not necessarily clarify an extraordinary claim. When [observation]({{ 'observation/' | relative_url }}), publicity and deception become intertwined, each new piece of evidence may increase uncertainty as much as it increases the size of the archive.
 
@@ -354,194 +354,194 @@ Within the broader study of poltergeist claims, Enfield serves as a cautionary e
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Enfield Is Still So Disputed. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Enfield Is Still So Disputed. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports critical evaluation of extraordinary evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports critical evaluation of extraordinary evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+house+is+haunted+Guy+Lyon+Playfair&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This house is haunted on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8492545-M.jpg" alt="Cover for This house is haunted" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+house+is+haunted+Guy+Lyon+Playfair&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This house is haunted">This house is haunted</a>
-        </h4>
-        <p class="fr-book-author">By Guy Lyon Playfair</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+house+is+haunted+Guy+Lyon+Playfair&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This house is haunted on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8492545-M.jpg" alt="Cover for This house is haunted" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+house+is+haunted+Guy+Lyon+Playfair&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This house is haunted">This house is haunted</a>
+</h4>
+<p class="fr-book-author">By Guy Lyon Playfair</p>
         
-        <p class="fr-book-desc">First published 1980. Subjects: Poltergeists, History, Case studies, London (england), description and travel, London (england), history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+house+is+haunted+Guy+Lyon+Playfair&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1980. Subjects: Poltergeists, History, Case studies, London (england), description and travel, London (england), history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+house+is+haunted+Guy+Lyon+Playfair&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Paranormality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12284173-M.jpg" alt="Cover for Paranormality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Paranormality">Paranormality</a>
-        </h4>
-        <p class="fr-book-author">By Richard Wiseman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Paranormality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12284173-M.jpg" alt="Cover for Paranormality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Paranormality">Paranormality</a>
+</h4>
+<p class="fr-book-author">By Richard Wiseman</p>
         
-        <p class="fr-book-desc">First published 2011. Subjects: Parapsychology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011. Subjects: Parapsychology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Poltergeist+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Poltergeist on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/667270-M.jpg" alt="Cover for Poltergeist" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Poltergeist+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Poltergeist">Poltergeist</a>
-        </h4>
-        <p class="fr-book-author">By Colin Wilson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Poltergeist+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Poltergeist on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/667270-M.jpg" alt="Cover for Poltergeist" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Poltergeist+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Poltergeist">Poltergeist</a>
+</h4>
+<p class="fr-book-author">By Colin Wilson</p>
         
-        <p class="fr-book-desc">First published 1981. Subjects: Haunted houses, Poltergeists, Ghosts, Case studies, Occultism.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Poltergeist+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1981. Subjects: Haunted houses, Poltergeists, Ghosts, Case studies, Occultism.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Poltergeist+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+house+is+haunted&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This house is haunted</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Paranormality&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Paranormality</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+house+is+haunted&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This house is haunted</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Paranormality&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Paranormality</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster -book -books" data-ebay-reference="enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Classic Horror Movie Posters Film Poster 125 Titles HD Borderless Printing"><img src="{{ '/assets/images/marketplace-covers/6897575dc8405021a3d6.jpg' | relative_url }}" alt="Listing image for Classic Horror Movie Posters Film Poster 125 Titles HD Borderless Printing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster -book -books" data-ebay-reference="enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Classic Horror Movie Posters Film Poster 125 Titles HD Borderless Printing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster -book -books" data-ebay-reference="enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster -book -books" data-ebay-reference="enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster -book -books" data-ebay-reference="enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Classic Horror Movie Posters Film Poster 125 Titles HD Borderless Printing"><img src="{{ '/assets/images/marketplace-covers/6897575dc8405021a3d6.jpg' | relative_url }}" alt="Listing image for Classic Horror Movie Posters Film Poster 125 Titles HD Borderless Printing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster -book -books" data-ebay-reference="enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Classic Horror Movie Posters Film Poster 125 Titles HD Borderless Printing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster -book -books" data-ebay-reference="enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: paranormal poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster -book -books" data-ebay-reference="enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster -book -books" data-ebay-reference="enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for National Paranormal Day Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/55ae121a3349eaf72d81.jpg' | relative_url }}" alt="Listing image for National Paranormal Day Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster -book -books" data-ebay-reference="enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">National Paranormal Day Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster -book -books" data-ebay-reference="enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster -book -books" data-ebay-reference="enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster -book -books" data-ebay-reference="enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for National Paranormal Day Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/55ae121a3349eaf72d81.jpg' | relative_url }}" alt="Listing image for National Paranormal Day Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster -book -books" data-ebay-reference="enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">National Paranormal Day Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster -book -books" data-ebay-reference="enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: paranormal poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster -book -books" data-ebay-reference="enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster -book -books" data-ebay-reference="enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Paranormal Pals: L&#x27;il Monster - Thi Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/da46a4fa8d8b40fb6c62.jpg' | relative_url }}" alt="Listing image for Paranormal Pals: L&#x27;il Monster - Thi Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster -book -books" data-ebay-reference="enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Paranormal Pals: L&#x27;il Monster - Thi Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster -book -books" data-ebay-reference="enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster -book -books" data-ebay-reference="enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster -book -books" data-ebay-reference="enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Paranormal Pals: L&#x27;il Monster - Thi Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/da46a4fa8d8b40fb6c62.jpg' | relative_url }}" alt="Listing image for Paranormal Pals: L&#x27;il Monster - Thi Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster -book -books" data-ebay-reference="enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Paranormal Pals: L&#x27;il Monster - Thi Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster -book -books" data-ebay-reference="enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: paranormal poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster -book -books" data-ebay-reference="enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster -book -books" data-ebay-reference="enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Minimalist Ghost Trap Poster - Paranormal-Inspired Wall Art Print Gift Decor"><img src="{{ '/assets/images/marketplace-covers/d75f042b15766aa0acd7.jpg' | relative_url }}" alt="Listing image for Minimalist Ghost Trap Poster - Paranormal-Inspired Wall Art Print Gift Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster -book -books" data-ebay-reference="enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Minimalist Ghost Trap Poster - Paranormal-Inspired Wall Art Print Gift Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster -book -books" data-ebay-reference="enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster -book -books" data-ebay-reference="enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster -book -books" data-ebay-reference="enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster -book -books" data-ebay-reference="enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Minimalist Ghost Trap Poster - Paranormal-Inspired Wall Art Print Gift Decor"><img src="{{ '/assets/images/marketplace-covers/d75f042b15766aa0acd7.jpg' | relative_url }}" alt="Listing image for Minimalist Ghost Trap Poster - Paranormal-Inspired Wall Art Print Gift Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster -book -books" data-ebay-reference="enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Minimalist Ghost Trap Poster - Paranormal-Inspired Wall Art Print Gift Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster -book -books" data-ebay-reference="enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: paranormal poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster -book -books" data-ebay-reference="enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster -book -books" data-ebay-reference="enfield-why-enfield-is-still-so-disputed-forteana-paranormal-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -557,7 +557,7 @@ Within the broader study of poltergeist claims, Enfield serves as a cautionary e
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -577,7 +577,7 @@ Within the broader study of poltergeist claims, Enfield serves as a cautionary e
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -609,7 +609,7 @@ Within the broader study of poltergeist claims, Enfield serves as a cautionary e
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -661,7 +661,7 @@ Within the broader study of poltergeist claims, Enfield serves as a cautionary e
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -706,7 +706,7 @@ Within the broader study of poltergeist claims, Enfield serves as a cautionary e
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -747,131 +747,131 @@ Within the broader study of poltergeist claims, Enfield serves as a cautionary e
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Enfield poltergeist  
-   Link: <a href="https://en.wikipedia.org/wiki/Enfield_poltergeist" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Enfield_poltergeist</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Enfield_poltergeist" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Enfield_poltergeist</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Maurice Grosse  
-   Link: <a href="https://en.wikipedia.org/wiki/Maurice_Grosse" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Maurice_Grosse</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Maurice_Grosse" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Maurice_Grosse</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Guy Lyon Playfair  
-   Link: <a href="https://en.wikipedia.org/wiki/Guy_Lyon_Playfair" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Guy_Lyon_Playfair</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Guy_Lyon_Playfair" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Guy_Lyon_Playfair</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Enfield, London  
-   Link: <a href="https://en.wikipedia.org/wiki/Enfield%2C_London" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Enfield%2C_London</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enfield, LondonEnfield is a large town in north London, England, 10.1 miles (16.3 km) north of Charing Cross. It had a population of 1...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Enfield%2C_London" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Enfield%2C_London</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enfield, LondonEnfield is a large town in north London, England, 10.1 miles (16.3 km) north of Charing Cross. It had a population of 1...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=rkhWohPGBXw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rkhWohPGBXw</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Enfield Poltergeist...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rkhWohPGBXw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rkhWohPGBXw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Enfield Poltergeist...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: The Enfield Poltergeist  
-   Link: <a href="https://www.youtube.com/watch?v=sls6pszMGfk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sls6pszMGfk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>[Ghosts](&amp;#123;&amp;#123; &#x27;ghosts/&#x27; | relative_url &amp;#125;&amp;#125;) - Maurice Grosse - Enfield Poltergeist Beginning...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sls6pszMGfk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sls6pszMGfk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Ghosts](&amp;#123;&amp;#123; &#x27;ghosts/&#x27; | relative_url &amp;#125;&amp;#125;) - Maurice Grosse - Enfield Poltergeist Beginning...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: theguardian.com  
    Title: the enfield poltergeist a skeptic speaks  
-   Link: <a href="https://www.theguardian.com/science/2015/may/01/the-enfield-poltergeist-a-skeptic-speaks" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2015/may/01/the-enfield-poltergeist-a-skeptic-speaks</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Enfield &#x27;Poltergeist&#x27;: a sceptic speaks | Science1 May 2015 — The fact that the two lead investigators, Guy Lyon Playfair and Maurice...</p></details>
+   Link:<a href="https://www.theguardian.com/science/2015/may/01/the-enfield-poltergeist-a-skeptic-speaks" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2015/may/01/the-enfield-poltergeist-a-skeptic-speaks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Enfield &#x27;Poltergeist&#x27;: a sceptic speaks | Science1 May 2015 — The fact that the two lead investigators, Guy Lyon Playfair and Maurice...</p></details>
    Published: May 2015  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: psi-encyclopedia.spr.ac.uk  
    Title: Psi Encyclopedia Guy Lyon Playfair  
-   Link: <a href="https://psi-encyclopedia.spr.ac.uk/articles/guy-lyon-playfair/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/articles/guy-lyon-playfair/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Psi EncyclopediaGuy Lyon Playfair - Psi Encyclopedia30 Mar 2021 — He argued that trickery explained only a small part of the Enfield even...</p></details>
+   Link:<a href="https://psi-encyclopedia.spr.ac.uk/articles/guy-lyon-playfair/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/articles/guy-lyon-playfair/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psi EncyclopediaGuy Lyon Playfair - Psi Encyclopedia30 Mar 2021 — He argued that trickery explained only a small part of the Enfield even...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: journalofscientificexploration.org  
-   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/1613" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/1613</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Enfield Poltergeist Tapes: One of the Most Disturbing...16 Dec 2019 — The most peculiar source is the collection of the hundreds of...</p></details>
+   Link:<a href="https://journalofscientificexploration.org/index.php/jse/article/view/1613" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/1613</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Enfield Poltergeist Tapes: One of the Most Disturbing...16 Dec 2019 — The most peculiar source is the collection of the hundreds of...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
    Title: The Enfield Poltergeist  
-   Link: <a href="https://www.facebook.com/JackTheRipperOfficialTour/posts/the-enfield-poltergeist-part-3-maurice-grosse-and-guy-playfair-maurice-grosse-an/1335522361271543/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/JackTheRipperOfficialTour/posts/the-enfield-poltergeist-part-3-maurice-grosse-and-guy-playfair-maurice-grosse-an/1335522361271543/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Part 3. Maurice Grosse and Guy...Many investigators visited the Hodgson home, and most claim that the Enfield haunting was an elaborate...</p></details>
+   Link:<a href="https://www.facebook.com/JackTheRipperOfficialTour/posts/the-enfield-poltergeist-part-3-maurice-grosse-and-guy-playfair-maurice-grosse-an/1335522361271543/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/JackTheRipperOfficialTour/posts/the-enfield-poltergeist-part-3-maurice-grosse-and-guy-playfair-maurice-grosse-an/1335522361271543/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Part 3. Maurice Grosse and Guy...Many investigators visited the Hodgson home, and most claim that the Enfield haunting was an elaborate...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: horrorbound.net  
    Title: The Enfield Poltergeist  
-   Link: <a href="https://www.horrorbound.net/blog/2021/2/24/the-enfield-poltergeist-real-or-not" target="_blank" rel="noopener noreferrer nofollow">https://www.horrorbound.net/blog/2021/2/24/the-enfield-poltergeist-real-or-not</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Real or Not?30 Mar 2021 — Maurice Gross and Guy Lyon Playfair also reported whistling and barking noises coming from Janet. Playfair wrot...</p></details>
+   Link:<a href="https://www.horrorbound.net/blog/2021/2/24/the-enfield-poltergeist-real-or-not" target="_blank" rel="noopener noreferrer nofollow">https://www.horrorbound.net/blog/2021/2/24/the-enfield-poltergeist-real-or-not</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Real or Not?30 Mar 2021 — Maurice Gross and Guy Lyon Playfair also reported whistling and barking noises coming from Janet. Playfair wrot...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: scaredycatskeptic.co.uk  
-   Link: <a href="https://scaredycatskeptic.co.uk/scaredy-cat-skeptichaunting-of-enfield-real-poltergeist/" target="_blank" rel="noopener noreferrer nofollow">https://scaredycatskeptic.co.uk/scaredy-cat-skeptichaunting-of-enfield-real-poltergeist/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Enfield Haunting has such a wide reach that even Hollywood picked it up.Read more...</p></details>
+   Link:<a href="https://scaredycatskeptic.co.uk/scaredy-cat-skeptichaunting-of-enfield-real-poltergeist/" target="_blank" rel="noopener noreferrer nofollow">https://scaredycatskeptic.co.uk/scaredy-cat-skeptichaunting-of-enfield-real-poltergeist/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Enfield Haunting has such a wide reach that even Hollywood picked it up.Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: brainly.com  
-   Link: <a href="https://brainly.com/question/51130322" target="_blank" rel="noopener noreferrer nofollow">https://brainly.com/question/51130322</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
+   Link:<a href="https://brainly.com/question/51130322" target="_blank" rel="noopener noreferrer nofollow">https://brainly.com/question/51130322</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Paranormal/comments/14vvsk7/enfield_poltergeist_thoughts/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Paranormal/comments/14vvsk7/enfield_poltergeist_thoughts/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enfield poltergeist thoughts: r/ParanormalThe documentation on this case compiled by Grosse and Guy Lyon Playfair is probably amongst th...</p></details>
+   Link:<a href="https://www.reddit.com/r/Paranormal/comments/14vvsk7/enfield_poltergeist_thoughts/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Paranormal/comments/14vvsk7/enfield_poltergeist_thoughts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enfield poltergeist thoughts: r/ParanormalThe documentation on this case compiled by Grosse and Guy Lyon Playfair is probably amongst th...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: hauntedhosts.com  
-   Link: <a href="https://hauntedhosts.com/library/famous-hauntings/enfield-poltergeist-deep-dive/" target="_blank" rel="noopener noreferrer nofollow">https://hauntedhosts.com/library/famous-hauntings/enfield-poltergeist-deep-dive/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Enfield Poltergeist: Britain&#x27;s Most Famous HauntingMaurice Grosse and Guy Lyon Playfair maintained that while some incidents were cle...</p></details>
+   Link:<a href="https://hauntedhosts.com/library/famous-hauntings/enfield-poltergeist-deep-dive/" target="_blank" rel="noopener noreferrer nofollow">https://hauntedhosts.com/library/famous-hauntings/enfield-poltergeist-deep-dive/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Enfield Poltergeist: Britain&#x27;s Most Famous HauntingMaurice Grosse and Guy Lyon Playfair maintained that while some incidents were cle...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: goodreads.com  
-   Link: <a href="https://www.goodreads.com/book/show/1147616.This_House_Is_Haunted" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/book/show/1147616.This_House_Is_Haunted</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This House Is Haunted by Guy Lyon PlayfairAn illustrated, true account of the family who witnessed the Enfield poltergeist and other exam...</p></details>
+   Link:<a href="https://www.goodreads.com/book/show/1147616.This_House_Is_Haunted" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/book/show/1147616.This_House_Is_Haunted</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This House Is Haunted by Guy Lyon PlayfairAn illustrated, true account of the family who witnessed the Enfield poltergeist and other exam...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=qwksUCuTkOc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qwksUCuTkOc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Haunted or Hoax? The Enfield Poltergeist StoryEnfield Poltergeist: Fact, Controversy, and Hoax Claims The Enfield Poltergeist refers to a...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qwksUCuTkOc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qwksUCuTkOc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Haunted or Hoax? The Enfield Poltergeist StoryEnfield Poltergeist: Fact, Controversy, and Hoax Claims The Enfield Poltergeist refers to a...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=UPiJ6XB6OMw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UPiJ6XB6OMw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enfield Poltergeist investigation deception hoax evidence Top 5 Times Ed &amp; Lorraine Warren Got Exposed For Lying Top 5 Scary Videos...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UPiJ6XB6OMw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UPiJ6XB6OMw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enfield Poltergeist investigation deception hoax evidence Top 5 Times Ed &amp; Lorraine Warren Got Exposed For Lying Top 5 Scary Videos...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: jerryrothwell.com  
    Title: sounds and stories conjuring the enfield poltergeist  
-   Link: <a href="https://jerryrothwell.com/2023/10/26/sounds-and-stories-conjuring-the-enfield-poltergeist/" target="_blank" rel="noopener noreferrer nofollow">https://jerryrothwell.com/2023/10/26/sounds-and-stories-conjuring-the-enfield-poltergeist/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sounds and Stories: conjuring &#x27;The Enfield Poltergeist&#x27;26 Oct 2023 — Maurice&#x27;s recordings at the house in Green Street are a combination...</p></details>
+   Link:<a href="https://jerryrothwell.com/2023/10/26/sounds-and-stories-conjuring-the-enfield-poltergeist/" target="_blank" rel="noopener noreferrer nofollow">https://jerryrothwell.com/2023/10/26/sounds-and-stories-conjuring-the-enfield-poltergeist/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sounds and Stories: conjuring &#x27;The Enfield Poltergeist&#x27;26 Oct 2023 — Maurice&#x27;s recordings at the house in Green Street are a combination...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: thejournal.ie  
    Title: enfield haunting poltergeist 2096336 May2015  
-   Link: <a href="https://www.thejournal.ie/enfield-haunting-poltergeist-2096336-May2015/" target="_blank" rel="noopener noreferrer nofollow">https://www.thejournal.ie/enfield-haunting-poltergeist-2096336-May2015/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The strange case of the teenage sisters and the Enfield...16 May 2015 — The series looks at what happened when Society for Psychical Res...</p></details>
+   Link:<a href="https://www.thejournal.ie/enfield-haunting-poltergeist-2096336-May2015/" target="_blank" rel="noopener noreferrer nofollow">https://www.thejournal.ie/enfield-haunting-poltergeist-2096336-May2015/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The strange case of the teenage sisters and the Enfield...16 May 2015 — The series looks at what happened when Society for Psychical Res...</p></details>
    Published: May 2015  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: triablogue.blogspot.com  
    Title: the enfield poltergeist tapes made more  
-   Link: <a href="https://triablogue.blogspot.com/2018/07/the-enfield-poltergeist-tapes-made-more.html" target="_blank" rel="noopener noreferrer nofollow">https://triablogue.blogspot.com/2018/07/the-enfield-poltergeist-tapes-made-more.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AccessibleJul 12, 2018 — The tapes wouldn&#x27;t exist if Maurice Grosse and Guy Playfair hadn&#x27;t gotten involved in the Enfield case and done...</p></details>
+   Link:<a href="https://triablogue.blogspot.com/2018/07/the-enfield-poltergeist-tapes-made-more.html" target="_blank" rel="noopener noreferrer nofollow">https://triablogue.blogspot.com/2018/07/the-enfield-poltergeist-tapes-made-more.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AccessibleJul 12, 2018 — The tapes wouldn&#x27;t exist if Maurice Grosse and Guy Playfair hadn&#x27;t gotten involved in the Enfield case and done...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: historyvshollywood.com  
    Title: conjuring 2 enfield poltergeist  
-   Link: <a href="https://www.historyvshollywood.com/reelfaces/conjuring-2-enfield-poltergeist/" target="_blank" rel="noopener noreferrer nofollow">https://www.historyvshollywood.com/reelfaces/conjuring-2-enfield-poltergeist/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Conjuring 2 vs the True Story of the Enfield Poltergeist10 Feb 2016 — The Conjuring 2 true story reveals that according to the mother...</p></details>
+   Link:<a href="https://www.historyvshollywood.com/reelfaces/conjuring-2-enfield-poltergeist/" target="_blank" rel="noopener noreferrer nofollow">https://www.historyvshollywood.com/reelfaces/conjuring-2-enfield-poltergeist/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Conjuring 2 vs the True Story of the Enfield Poltergeist10 Feb 2016 — The Conjuring 2 true story reveals that according to the mother...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: open.spotify.com  
-   Link: <a href="https://open.spotify.com/episode/30ZO0Swtkz8Bv79BQg5Ogd" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/30ZO0Swtkz8Bv79BQg5Ogd</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>spotify.comS06-E03 - The Enfield Poltergeist Part 25 Oct 2024 — This chapter explores some of the most famous and controversial moments i...</p></details>
+   Link:<a href="https://open.spotify.com/episode/30ZO0Swtkz8Bv79BQg5Ogd" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/30ZO0Swtkz8Bv79BQg5Ogd</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>spotify.comS06-E03 - The Enfield Poltergeist Part 25 Oct 2024 — This chapter explores some of the most famous and controversial moments i...</p></details>

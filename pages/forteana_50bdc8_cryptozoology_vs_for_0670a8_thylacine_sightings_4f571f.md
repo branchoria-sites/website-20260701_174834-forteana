@@ -282,11 +282,11 @@ Within the broader overlap between cryptozoology and [Forteana]({{ 'forteana/' |
 
 ## The official extinction problem
 
-The last confirmed wild thylacine was captured in 1933 and died in Hobart Zoo in September 1936. Although the species was not formally declared extinct until decades later, conservation authorities and the International Union for Conservation of Nature (IUCN) regard the available evidence as showing that no verified population survived into modern times. The IUCN notes that numerous reports have continued since 1936 but that none has produced conclusive proof. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iucnredlist.org/species/pdf/9332383" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iucnredlist.org">[IUCN Red List+2cites.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iucnredlist.org</span><span class="citation-popover-snippet">IUCN Red ListThylacinus cynocephalus, ThylacineListed as Extinct. The last confirmed record of a wild individual is from 1933; it was cap...</span></span></span>
+The last confirmed wild thylacine was captured in 1933 and died in Hobart Zoo in September 1936. Although the species was not formally declared extinct until decades later, conservation authorities and the International Union for Conservation of Nature (IUCN) regard the available evidence as showing that no verified population survived into modern times. The IUCN notes that numerous reports have continued since 1936 but that none has produced conclusive proof.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iucnredlist.org/species/pdf/9332383" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iucnredlist.org">[IUCN Red List+2cites.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iucnredlist.org</span><span class="citation-popover-snippet">IUCN Red ListThylacinus cynocephalus, ThylacineListed as Extinct. The last confirmed record of a wild individual is from 1933; it was cap...</span></span></span>
 
 This distinction is important. Official extinction is not based on the absence of rumours but on the failure of repeated investigations to obtain verifiable evidence despite many opportunities. Governments, wildlife agencies and independent researchers have repeatedly examined reports, installed camera traps and reviewed witness statements without recovering an authenticated specimen.
 
-At the same time, extinction is rarely a precise moment. Statistical models that combine confirmed records with unconfirmed sightings have suggested the species may have survived in remote parts of Tasmania for several years after the last captive animal died. One widely discussed analysis estimated the most probable extinction date around 1940, while acknowledging considerable uncertainty. Other modelling exercises, using different assumptions about witness reliability, have proposed survival into later decades, but these conclusions depend heavily on how much weight is assigned to unverified reports rather than new physical discoveries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://conbio.onlinelibrary.wiley.com/doi/abs/10.1111/cobi.13037" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: conbio.onlinelibrary.wiley.com">[conbio.onlinelibrary.wiley.com+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">conbio.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Estimating the extinction date of the thylacine with mixed...by CJ Carlson · 2018 · Cited by 20 — Although the last captive individual d...</span></span></span>
+At the same time, extinction is rarely a precise moment. Statistical models that combine confirmed records with unconfirmed sightings have suggested the species may have survived in remote parts of Tasmania for several years after the last captive animal died. One widely discussed analysis estimated the most probable extinction date around 1940, while acknowledging considerable uncertainty. Other modelling exercises, using different assumptions about witness reliability, have proposed survival into later decades, but these conclusions depend heavily on how much weight is assigned to unverified reports rather than new physical discoveries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://conbio.onlinelibrary.wiley.com/doi/abs/10.1111/cobi.13037" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: conbio.onlinelibrary.wiley.com">[conbio.onlinelibrary.wiley.com+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">conbio.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Estimating the extinction date of the thylacine with mixed...by CJ Carlson · 2018 · Cited by 20 — Although the last captive individual d...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iTyM_2GRVVY" title="Why I Believe The Tasmanian Tiger Is Still Alive..." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iTyM_2GRVVY" target="_blank" rel="noopener noreferrer">Why I Believe The Tasmanian Tiger Is Still Alive...</a></p><p class="youtube-embed-meta">Channel: Forrest Galante</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iTyM_2GRVVY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iTyM_2GRVVY">Open on YouTube</a></p></div></div></div>
@@ -308,7 +308,7 @@ Most post-1936 reports share striking similarities. Witnesses typically describe
 
 These recurring descriptions explain why many witnesses remain convinced they saw something unusual rather than simply misidentifying common wildlife.
 
-Large areas of western and south-western Tasmania are mountainous, densely forested and sparsely inhabited. From a cryptozoological perspective, such landscapes appear capable of concealing elusive animals for extended periods. Searchers frequently argue that modern maps underestimate how little of this terrain is regularly visited on foot. Journalistic accounts of long-running searches note that even experienced wildlife biologists acknowledge the landscape's remoteness while still judging long-term survival to be extremely unlikely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/magazine/2018/07/02/the-obsessive-search-for-the-tasmanian-tiger" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker The Obsessive Search for the Tasmanian Tiger</span><span class="citation-popover-snippet">Thought to be extinct since the 1930s following widespread hunting and habitat destruction, numerous sightings have been reported and uno...</span></span></span>
+Large areas of western and south-western Tasmania are mountainous, densely forested and sparsely inhabited. From a cryptozoological perspective, such landscapes appear capable of concealing elusive animals for extended periods. Searchers frequently argue that modern maps underestimate how little of this terrain is regularly visited on foot. Journalistic accounts of long-running searches note that even experienced wildlife biologists acknowledge the landscape's remoteness while still judging long-term survival to be extremely unlikely.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/magazine/2018/07/02/the-obsessive-search-for-the-tasmanian-tiger" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker The Obsessive Search for the Tasmanian Tiger</span><span class="citation-popover-snippet">Thought to be extinct since the 1930s following widespread hunting and habitat destruction, numerous sightings have been reported and uno...</span></span></span>
 
 However, suitable habitat alone is not enough. Habitat can explain why occasional encounters might be difficult, but it cannot explain the continued absence of a breeding population's cumulative ecological footprint.
 
@@ -359,7 +359,7 @@ A viable breeding population would be expected eventually to leave multiple inde
 
 Despite repeated searches and continuing public interest, none of these evidence types has produced an authenticated modern thylacine.
 
-Claims occasionally surface involving photographs, alleged DNA samples or carcasses, but these have not survived independent scientific scrutiny. Several widely publicised images have proved too indistinct for identification, while purported genetic evidence has either lacked proper provenance, failed replication or has not been published in a form allowing independent verification. Government investigations and academic researchers therefore continue to regard the evidential record as insufficient. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/tasmanian-tiger-sightings-investigated/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News+2cites.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">tasmanian tiger sightings investigated</span><span class="citation-popover-snippet">CBS NewsScientists investigate Tasmanian tiger sightingsMar 31, 2017 — Since then, no conclusive evidence has emerged to suggest that Tas...</span></span></span>
+Claims occasionally surface involving photographs, alleged DNA samples or carcasses, but these have not survived independent scientific scrutiny. Several widely publicised images have proved too indistinct for identification, while purported genetic evidence has either lacked proper provenance, failed replication or has not been published in a form allowing independent verification. Government investigations and academic researchers therefore continue to regard the evidential record as insufficient.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/tasmanian-tiger-sightings-investigated/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News+2cites.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">tasmanian tiger sightings investigated</span><span class="citation-popover-snippet">CBS NewsScientists investigate Tasmanian tiger sightingsMar 31, 2017 — Since then, no conclusive evidence has emerged to suggest that Tas...</span></span></span>
 
 This evidential gap grows more significant with time. A hidden predator can evade observation, but sustaining an undiscovered breeding population for many decades without producing authenticated remains or genetic material becomes progressively less plausible.
 
@@ -371,7 +371,7 @@ The persistence of thylacine sightings reflects more than unresolved zoology. Th
 
 This symbolic role helps explain why new reports attract attention even when previous investigations have proved inconclusive. Every credible witness appears to reopen the possibility that the official story is incomplete. Advances in trail cameras, environmental DNA sampling and automated wildlife monitoring also encourage the belief that improved technology could eventually settle the question.
 
-Yet these same technologies strengthen the sceptical position as well. Camera-trap networks now document elusive mammals across the world with increasing efficiency, and environmental DNA has become capable of detecting species from tiny traces left in water or soil. The longer these methods fail to identify a living thylacine despite intensive use in suitable habitat, the higher the evidential standard becomes for accepting future claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.australiangeographic.com.au/nature-wildlife/2024/01/is-the-truth-still-out-there/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australiangeographic.com.au">[Australian Geographic+2CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australiangeographic.com.au</span><span class="citation-popover-title">is the truth still out there</span><span class="citation-popover-snippet">Australian GeographicIs the truth still out there?16 Jan 2024 — A detailed analysis of more than 1200 sightings suggests the Tasmanian ti...</span></span></span>
+Yet these same technologies strengthen the sceptical position as well. Camera-trap networks now document elusive mammals across the world with increasing efficiency, and environmental DNA has become capable of detecting species from tiny traces left in water or soil. The longer these methods fail to identify a living thylacine despite intensive use in suitable habitat, the higher the evidential standard becomes for accepting future claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.australiangeographic.com.au/nature-wildlife/2024/01/is-the-truth-still-out-there/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australiangeographic.com.au">[Australian Geographic+2CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australiangeographic.com.au</span><span class="citation-popover-title">is the truth still out there</span><span class="citation-popover-snippet">Australian GeographicIs the truth still out there?16 Jan 2024 — A detailed analysis of more than 1200 sightings suggests the Tasmanian ti...</span></span></span>
 
 For cryptozoology, the thylacine remains an unusually disciplined case study. It demonstrates that eyewitness reports can persist for generations after an official extinction, while also illustrating why biology ultimately demands physical evidence. Within Forteana, the story survives as an enduring cultural mystery; within cryptozoology, it remains an unresolved hypothesis that continues to be tested against an increasingly demanding body of ecological evidence.
 
@@ -380,194 +380,194 @@ For cryptozoology, the thylacine remains an unusually disciplined case study. It
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Do Thylacine Sightings Persist?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Do Thylacine Sightings Persist?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+world+of+Lore+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The world of Lore on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14362649-M.jpg" alt="Cover for The world of Lore" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+world+of+Lore+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world of Lore">The world of Lore</a>
-        </h4>
-        <p class="fr-book-author">By Aaron Mahnke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+world+of+Lore+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The world of Lore on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14362649-M.jpg" alt="Cover for The world of Lore" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+world+of+Lore+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world of Lore">The world of Lore</a>
+</h4>
+<p class="fr-book-author">By Aaron Mahnke</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Ghosts, Haunted places.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+world+of+Lore+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Ghosts, Haunted places.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+world+of+Lore+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunting Monsters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10220347-M.jpg" alt="Cover for Hunting Monsters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunting Monsters">Hunting Monsters</a>
-        </h4>
-        <p class="fr-book-author">By Darren Naish</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunting Monsters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10220347-M.jpg" alt="Cover for Hunting Monsters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunting Monsters">Hunting Monsters</a>
+</h4>
+<p class="fr-book-author">By Darren Naish</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Monsters, Zoology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Monsters, Zoology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tasmanian+Tiger+David+Owen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tasmanian Tiger on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/567486-M.jpg" alt="Cover for Tasmanian Tiger" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tasmanian+Tiger+David+Owen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tasmanian Tiger">Tasmanian Tiger</a>
-        </h4>
-        <p class="fr-book-author">By David Owen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tasmanian+Tiger+David+Owen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tasmanian Tiger on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/567486-M.jpg" alt="Cover for Tasmanian Tiger" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Tasmanian+Tiger+David+Owen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tasmanian Tiger">Tasmanian Tiger</a>
+</h4>
+<p class="fr-book-author">By David Owen</p>
         
-        <p class="fr-book-desc">First published 2004. Subjects: Thylacine, Extinct mammals, Rare mammals, Zoology, australia, tasmania, Extinct animals.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tasmanian+Tiger+David+Owen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2004. Subjects: Thylacine, Extinct mammals, Rare mammals, Zoology, australia, tasmania, Extinct animals.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Tasmanian+Tiger+David+Owen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science">Abominable Science</a>
-        </h4>
-        <p class="fr-book-author">By Donald R. Prothero, Daniel Loxton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science">Abominable Science</a>
+</h4>
+<p class="fr-book-author">By Donald R. Prothero, Daniel Loxton</p>
         
-        <p class="fr-book-desc">First published 2012. Subjects: Animals, mythical.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2012. Subjects: Animals, mythical.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+world+of+Lore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The world of Lore</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunting+Monsters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunting Monsters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tasmanian+Tiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tasmanian Tiger</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+world+of+Lore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The world of Lore</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunting+Monsters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunting Monsters</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tasmanian+Tiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tasmanian Tiger</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thylacine-why-do-thylacine-sightings-persist-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="thylacine-why-do-thylacine-sightings-persist-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd"><img src="{{ '/assets/images/marketplace-covers/7b9530e3e70391be5ab3.jpg' | relative_url }}" alt="Listing image for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thylacine-why-do-thylacine-sightings-persist-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="thylacine-why-do-thylacine-sightings-persist-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer">Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thylacine-why-do-thylacine-sightings-persist-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="thylacine-why-do-thylacine-sightings-persist-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thylacine-why-do-thylacine-sightings-persist-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="thylacine-why-do-thylacine-sightings-persist-forteana-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thylacine-why-do-thylacine-sightings-persist-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="thylacine-why-do-thylacine-sightings-persist-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd"><img src="{{ '/assets/images/marketplace-covers/7b9530e3e70391be5ab3.jpg' | relative_url }}" alt="Listing image for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thylacine-why-do-thylacine-sightings-persist-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="thylacine-why-do-thylacine-sightings-persist-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer">Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thylacine-why-do-thylacine-sightings-persist-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="thylacine-why-do-thylacine-sightings-persist-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thylacine-why-do-thylacine-sightings-persist-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="thylacine-why-do-thylacine-sightings-persist-forteana-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thylacine-why-do-thylacine-sightings-persist-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="thylacine-why-do-thylacine-sightings-persist-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster"><img src="{{ '/assets/images/marketplace-covers/fe6eac85e0cbd3115c4c.jpg' | relative_url }}" alt="Listing image for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thylacine-why-do-thylacine-sightings-persist-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="thylacine-why-do-thylacine-sightings-persist-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer">PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thylacine-why-do-thylacine-sightings-persist-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="thylacine-why-do-thylacine-sightings-persist-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thylacine-why-do-thylacine-sightings-persist-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="thylacine-why-do-thylacine-sightings-persist-forteana-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thylacine-why-do-thylacine-sightings-persist-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="thylacine-why-do-thylacine-sightings-persist-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster"><img src="{{ '/assets/images/marketplace-covers/fe6eac85e0cbd3115c4c.jpg' | relative_url }}" alt="Listing image for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thylacine-why-do-thylacine-sightings-persist-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="thylacine-why-do-thylacine-sightings-persist-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer">PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thylacine-why-do-thylacine-sightings-persist-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="thylacine-why-do-thylacine-sightings-persist-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thylacine-why-do-thylacine-sightings-persist-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="thylacine-why-do-thylacine-sightings-persist-forteana-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thylacine-why-do-thylacine-sightings-persist-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="thylacine-why-do-thylacine-sightings-persist-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Snellen Eye Chart Optician Glasses Test Science Poster | A5-A1 | Wall Poster"><img src="{{ '/assets/images/marketplace-covers/44585abe482a25573224.jpg' | relative_url }}" alt="Listing image for Snellen Eye Chart Optician Glasses Test Science Poster | A5-A1 | Wall Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thylacine-why-do-thylacine-sightings-persist-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="thylacine-why-do-thylacine-sightings-persist-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer">Snellen Eye Chart Optician Glasses Test Science Poster | A5-A1 | Wall Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thylacine-why-do-thylacine-sightings-persist-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="thylacine-why-do-thylacine-sightings-persist-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thylacine-why-do-thylacine-sightings-persist-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="thylacine-why-do-thylacine-sightings-persist-forteana-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thylacine-why-do-thylacine-sightings-persist-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="thylacine-why-do-thylacine-sightings-persist-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Snellen Eye Chart Optician Glasses Test Science Poster | A5-A1 | Wall Poster"><img src="{{ '/assets/images/marketplace-covers/44585abe482a25573224.jpg' | relative_url }}" alt="Listing image for Snellen Eye Chart Optician Glasses Test Science Poster | A5-A1 | Wall Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thylacine-why-do-thylacine-sightings-persist-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="thylacine-why-do-thylacine-sightings-persist-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer">Snellen Eye Chart Optician Glasses Test Science Poster | A5-A1 | Wall Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thylacine-why-do-thylacine-sightings-persist-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="thylacine-why-do-thylacine-sightings-persist-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thylacine-why-do-thylacine-sightings-persist-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="thylacine-why-do-thylacine-sightings-persist-forteana-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thylacine-why-do-thylacine-sightings-persist-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="thylacine-why-do-thylacine-sightings-persist-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart"><img src="{{ '/assets/images/marketplace-covers/2d540458477f76b2be20.jpg' | relative_url }}" alt="Listing image for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thylacine-why-do-thylacine-sightings-persist-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="thylacine-why-do-thylacine-sightings-persist-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer">Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thylacine-why-do-thylacine-sightings-persist-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="thylacine-why-do-thylacine-sightings-persist-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thylacine-why-do-thylacine-sightings-persist-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="thylacine-why-do-thylacine-sightings-persist-forteana-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thylacine-why-do-thylacine-sightings-persist-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="thylacine-why-do-thylacine-sightings-persist-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thylacine-why-do-thylacine-sightings-persist-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="thylacine-why-do-thylacine-sightings-persist-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart"><img src="{{ '/assets/images/marketplace-covers/2d540458477f76b2be20.jpg' | relative_url }}" alt="Listing image for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thylacine-why-do-thylacine-sightings-persist-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="thylacine-why-do-thylacine-sightings-persist-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer">Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thylacine-why-do-thylacine-sightings-persist-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="thylacine-why-do-thylacine-sightings-persist-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thylacine-why-do-thylacine-sightings-persist-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="thylacine-why-do-thylacine-sightings-persist-forteana-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thylacine-why-do-thylacine-sightings-persist-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="thylacine-why-do-thylacine-sightings-persist-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -583,7 +583,7 @@ For cryptozoology, the thylacine remains an unusually disciplined case study. It
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -603,7 +603,7 @@ For cryptozoology, the thylacine remains an unusually disciplined case study. It
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -635,7 +635,7 @@ For cryptozoology, the thylacine remains an unusually disciplined case study. It
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -687,7 +687,7 @@ For cryptozoology, the thylacine remains an unusually disciplined case study. It
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -732,7 +732,7 @@ For cryptozoology, the thylacine remains an unusually disciplined case study. It
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -773,112 +773,112 @@ For cryptozoology, the thylacine remains an unusually disciplined case study. It
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cites.org  
-   Link: <a href="https://cites.org/sites/default/files/eng/cop/16/prop/E-CoP16-Prop-05.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cites.org/sites/default/files/eng/cop/16/prop/E-CoP16-Prop-05.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CoP16 Prop. 5 – p. 1 Original languageThe last thylacine specimen was captured in 1933 and died in Hobart Zoo in 1936. Since then no conc...</p></details>
+   Link:<a href="https://cites.org/sites/default/files/eng/cop/16/prop/E-CoP16-Prop-05.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cites.org/sites/default/files/eng/cop/16/prop/E-CoP16-Prop-05.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CoP16 Prop. 5 – p. 1 Original languageThe last thylacine specimen was captured in 1933 and died in Hobart Zoo in 1936. Since then no conc...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: conbio.onlinelibrary.wiley.com  
-   Link: <a href="https://conbio.onlinelibrary.wiley.com/doi/abs/10.1111/cobi.13037" target="_blank" rel="noopener noreferrer nofollow">https://conbio.onlinelibrary.wiley.com/doi/abs/10.1111/cobi.13037</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Estimating the extinction date of the thylacine with mixed...by CJ Carlson · 2018 · Cited by 20 — Although the last captive individual d...</p></details>
+   Link:<a href="https://conbio.onlinelibrary.wiley.com/doi/abs/10.1111/cobi.13037" target="_blank" rel="noopener noreferrer nofollow">https://conbio.onlinelibrary.wiley.com/doi/abs/10.1111/cobi.13037</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Estimating the extinction date of the thylacine with mixed...by CJ Carlson · 2018 · Cited by 20 — Although the last captive individual d...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/282588917_A_retrospective_assessment_of_20_th_century_thylacine_populations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/282588917_A_retrospective_assessment_of_20_th_century_thylacine_populations</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A retrospective assessment of 20 th century thylacine...Thylacines are believed to have gone extinct on the Australian mainl...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/282588917_A_retrospective_assessment_of_20_th_century_thylacine_populations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/282588917_A_retrospective_assessment_of_20_th_century_thylacine_populations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A retrospective assessment of 20 th century thylacine...Thylacines are believed to have gone extinct on the Australian mainl...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/345082151_Estimating_The_Extinction_Date_Of_The_Thylacine_Accounting_For_Unconfirmed_Sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/345082151_Estimating_The_Extinction_Date_Of_The_Thylacine_Accounting_For_Unconfirmed_Sightings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Estimating The Extinction Date Of The Thylacine...15 Jan 2026 — Although the last captive thylacine died in 1936, our model sugges...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/345082151_Estimating_The_Extinction_Date_Of_The_Thylacine_Accounting_For_Unconfirmed_Sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/345082151_Estimating_The_Extinction_Date_Of_The_Thylacine_Accounting_For_Unconfirmed_Sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Estimating The Extinction Date Of The Thylacine...15 Jan 2026 — Although the last captive thylacine died in 1936, our model sugges...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: iucnredlist.org  
-   Link: <a href="https://www.iucnredlist.org/species/pdf/9332383" target="_blank" rel="noopener noreferrer nofollow">https://www.iucnredlist.org/species/pdf/9332383</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IUCN Red ListThylacinus cynocephalus, ThylacineListed as Extinct. The last confirmed record of a wild individual is from 1933; it was cap...</p></details>
+   Link:<a href="https://www.iucnredlist.org/species/pdf/9332383" target="_blank" rel="noopener noreferrer nofollow">https://www.iucnredlist.org/species/pdf/9332383</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IUCN Red ListThylacinus cynocephalus, ThylacineListed as Extinct. The last confirmed record of a wild individual is from 1933; it was cap...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cbsnews.com  
    Title: tasmanian tiger sightings investigated  
-   Link: <a href="https://www.cbsnews.com/news/tasmanian-tiger-sightings-investigated/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/tasmanian-tiger-sightings-investigated/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsScientists investigate Tasmanian tiger sightingsMar 31, 2017 — Since then, no conclusive evidence has emerged to suggest that Tas...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/tasmanian-tiger-sightings-investigated/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/tasmanian-tiger-sightings-investigated/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsScientists investigate Tasmanian tiger sightingsMar 31, 2017 — Since then, no conclusive evidence has emerged to suggest that Tas...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: newyorker.com  
    Title: The New Yorker The Obsessive Search for the Tasmanian Tiger  
-   Link: <a href="https://www.newyorker.com/magazine/2018/07/02/the-obsessive-search-for-the-tasmanian-tiger" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2018/07/02/the-obsessive-search-for-the-tasmanian-tiger</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Thought to be extinct since the 1930s following widespread hunting and habitat destruction, numerous sightings have been reported and uno...</p></details>
+   Link:<a href="https://www.newyorker.com/magazine/2018/07/02/the-obsessive-search-for-the-tasmanian-tiger" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2018/07/02/the-obsessive-search-for-the-tasmanian-tiger</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thought to be extinct since the 1930s following widespread hunting and habitat destruction, numerous sightings have been reported and uno...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: australiangeographic.com.au  
    Title: is the truth still out there  
-   Link: <a href="https://www.australiangeographic.com.au/nature-wildlife/2024/01/is-the-truth-still-out-there/" target="_blank" rel="noopener noreferrer nofollow">https://www.australiangeographic.com.au/nature-wildlife/2024/01/is-the-truth-still-out-there/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Australian GeographicIs the truth still out there?16 Jan 2024 — A detailed analysis of more than 1200 sightings suggests the Tasmanian ti...</p></details>
+   Link:<a href="https://www.australiangeographic.com.au/nature-wildlife/2024/01/is-the-truth-still-out-there/" target="_blank" rel="noopener noreferrer nofollow">https://www.australiangeographic.com.au/nature-wildlife/2024/01/is-the-truth-still-out-there/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australian GeographicIs the truth still out there?16 Jan 2024 — A detailed analysis of more than 1200 sightings suggests the Tasmanian ti...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Thylacine" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Thylacine</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ThylacineSince extinction there have been numerous searches and reported sightings of live animals, none of which have been confirmed...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Thylacine" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Thylacine</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ThylacineSince extinction there have been numerous searches and reported sightings of live animals, none of which have been confirmed...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: colossal.com  
    Title: Thylacine | Tasmanian Wolf  
-   Link: <a href="https://colossal.com/thylacine/" target="_blank" rel="noopener noreferrer nofollow">https://colossal.com/thylacine/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Colossal BiosciencesOn September 7th, 1936, only two months after the species was granted a protected status, Benjamin, the last known th...</p></details>
+   Link:<a href="https://colossal.com/thylacine/" target="_blank" rel="noopener noreferrer nofollow">https://colossal.com/thylacine/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Colossal BiosciencesOn September 7th, 1936, only two months after the species was granted a protected status, Benjamin, the last known th...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/wildlenschronicleswlc/posts/breaking-trail-camera-captures-living-thylacine-in-remote-tasmania-extinction-re/122128265463137078/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wildlenschronicleswlc/posts/breaking-trail-camera-captures-living-thylacine-in-remote-tasmania-extinction-re/122128265463137078/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BREAKING 🚨: Trail Camera Captures LIVING Thylacine...We are 97.3% confident this is a genuine Thylacinus cynocephalus.&quot; Location: Classi...</p></details>
+   Link:<a href="https://www.facebook.com/wildlenschronicleswlc/posts/breaking-trail-camera-captures-living-thylacine-in-remote-tasmania-extinction-re/122128265463137078/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wildlenschronicleswlc/posts/breaking-trail-camera-captures-living-thylacine-in-remote-tasmania-extinction-re/122128265463137078/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BREAKING 🚨: Trail Camera Captures LIVING Thylacine...We are 97.3% confident this is a genuine Thylacinus cynocephalus.&quot; Location: Classi...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ThylacineScience/comments/reso4h/out_of_all_the_places_where_do_think_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ThylacineScience/comments/reso4h/out_of_all_the_places_where_do_think_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Out of all the places where do think the Thylacine could still...TIL that the thylacine or Tasmanian tiger, was hunted to extinction aft...</p></details>
+   Link:<a href="https://www.reddit.com/r/ThylacineScience/comments/reso4h/out_of_all_the_places_where_do_think_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ThylacineScience/comments/reso4h/out_of_all_the_places_where_do_think_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Out of all the places where do think the Thylacine could still...TIL that the thylacine or Tasmanian tiger, was hunted to extinction aft...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: news5cleveland.com  
-   Link: <a href="https://www.news5cleveland.com/news/world/people-are-reporting-sightings-of-the-tasmanian-tiger-thought-to-be-extinct" target="_blank" rel="noopener noreferrer nofollow">https://www.news5cleveland.com/news/world/people-are-reporting-sightings-of-the-tasmanian-tiger-thought-to-be-extinct</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reported sightings of Tasmanian tiger, thought to be extinctThe Tasmanian tiger, a large striped carnivore, is believed to have gone exti...</p></details>
+   Link:<a href="https://www.news5cleveland.com/news/world/people-are-reporting-sightings-of-the-tasmanian-tiger-thought-to-be-extinct" target="_blank" rel="noopener noreferrer nofollow">https://www.news5cleveland.com/news/world/people-are-reporting-sightings-of-the-tasmanian-tiger-thought-to-be-extinct</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reported sightings of Tasmanian tiger, thought to be extinctThe Tasmanian tiger, a large striped carnivore, is believed to have gone exti...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: museumsvictoria.com.au  
-   Link: <a href="https://museumsvictoria.com.au/article/secrets-from-beyond-extinction-the-tasmanian-tiger/" target="_blank" rel="noopener noreferrer nofollow">https://museumsvictoria.com.au/article/secrets-from-beyond-extinction-the-tasmanian-tiger/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Secrets from beyond extinction: the Tasmanian tiger | ArticleAs the animal became rarer, museums everywhere clambered to have a thylacine...</p></details>
+   Link:<a href="https://museumsvictoria.com.au/article/secrets-from-beyond-extinction-the-tasmanian-tiger/" target="_blank" rel="noopener noreferrer nofollow">https://museumsvictoria.com.au/article/secrets-from-beyond-extinction-the-tasmanian-tiger/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Secrets from beyond extinction: the Tasmanian tiger | ArticleAs the animal became rarer, museums everywhere clambered to have a thylacine...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: digital-classroom.nma.gov.au  
-   Link: <a href="https://digital-classroom.nma.gov.au/videos/1936-extinction-thylacine" target="_blank" rel="noopener noreferrer nofollow">https://digital-classroom.nma.gov.au/videos/1936-extinction-thylacine</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nma.gov.au1936: Extinction of the thylacine | Australia&#x27;s Defining...A short film on the history of the thylacine and how they became ex...</p></details>
+   Link:<a href="https://digital-classroom.nma.gov.au/videos/1936-extinction-thylacine" target="_blank" rel="noopener noreferrer nofollow">https://digital-classroom.nma.gov.au/videos/1936-extinction-thylacine</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nma.gov.au1936: Extinction of the thylacine | Australia&#x27;s Defining...A short film on the history of the thylacine and how they became ex...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: the extinct thylacine at london zoo in the 1920sofficial protection of the speci  
-   Link: <a href="https://www.facebook.com/officialzsl/posts/the-extinct-thylacine-at-london-zoo-in-the-1920sofficial-protection-of-the-speci/837276245112980/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/officialzsl/posts/the-extinct-thylacine-at-london-zoo-in-the-1920sofficial-protection-of-the-speci/837276245112980/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The extinct thylacine at London Zoo in the 1920s. Official...Despite efforts to save them, the last known thylacine died in captivity in...</p></details>
+   Link:<a href="https://www.facebook.com/officialzsl/posts/the-extinct-thylacine-at-london-zoo-in-the-1920sofficial-protection-of-the-speci/837276245112980/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/officialzsl/posts/the-extinct-thylacine-at-london-zoo-in-the-1920sofficial-protection-of-the-speci/837276245112980/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The extinct thylacine at London Zoo in the 1920s. Official...Despite efforts to save them, the last known thylacine died in captivity in...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=nMwR2UQKVuw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nMwR2UQKVuw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wildlife Expert Reviews Top 6 Tasmanian Tiger SightingsWildlife Expert Forrest Galante reviews the top 6 most famous extinct thylacine, o...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nMwR2UQKVuw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nMwR2UQKVuw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wildlife Expert Reviews Top 6 Tasmanian Tiger SightingsWildlife Expert Forrest Galante reviews the top 6 most famous extinct thylacine, o...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: theguardian.com  
    Title: tasmanian tiger may have survived into the 00s new analysis suggests  
-   Link: <a href="https://www.theguardian.com/australia-news/2023/mar/27/tasmanian-tiger-may-have-survived-into-the-00s-new-analysis-suggests" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/australia-news/2023/mar/27/tasmanian-tiger-may-have-survived-into-the-00s-new-analysis-suggests</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tasmanian tiger may have survived into the 2000s, new...27 Mar 2023 — Last known thylacine died in 1936 but new research suggesting the...</p></details>
+   Link:<a href="https://www.theguardian.com/australia-news/2023/mar/27/tasmanian-tiger-may-have-survived-into-the-00s-new-analysis-suggests" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/australia-news/2023/mar/27/tasmanian-tiger-may-have-survived-into-the-00s-new-analysis-suggests</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tasmanian tiger may have survived into the 2000s, new...27 Mar 2023 — Last known thylacine died in 1936 but new research suggesting the...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: abc.net.au  
    Title: tas thylacine research finds species may have existed into 1980s  
-   Link: <a href="https://www.abc.net.au/news/2023-03-27/tas-thylacine-research-finds-species-may-have-existed-into-1980s/102148484" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2023-03-27/tas-thylacine-research-finds-species-may-have-existed-into-1980s/102148484</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thylacines may have survived later than scientists thought...26 Mar 2023 — New research suggests Tasmanian tigers could have lived much...</p></details>
+   Link:<a href="https://www.abc.net.au/news/2023-03-27/tas-thylacine-research-finds-species-may-have-existed-into-1980s/102148484" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2023-03-27/tas-thylacine-research-finds-species-may-have-existed-into-1980s/102148484</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thylacines may have survived later than scientists thought...26 Mar 2023 — New research suggests Tasmanian tigers could have lived much...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: news.mongabay.com  
    Title: study suggests tasmanian tiger survived into the 21st century  
-   Link: <a href="https://news.mongabay.com/2021/02/study-suggests-tasmanian-tiger-survived-into-the-21st-century/" target="_blank" rel="noopener noreferrer nofollow">https://news.mongabay.com/2021/02/study-suggests-tasmanian-tiger-survived-into-the-21st-century/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>suggests the Tasmanian tiger survived into the 21st...Feb 4, 2021 — More than 1,200 records of sightings and physical evidence from 1910...</p></details>
+   Link:<a href="https://news.mongabay.com/2021/02/study-suggests-tasmanian-tiger-survived-into-the-21st-century/" target="_blank" rel="noopener noreferrer nofollow">https://news.mongabay.com/2021/02/study-suggests-tasmanian-tiger-survived-into-the-21st-century/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>suggests the Tasmanian tiger survived into the 21st...Feb 4, 2021 — More than 1,200 records of sightings and physical evidence from 1910...</p></details>

@@ -284,7 +284,7 @@ Few coincidence stories are as familiar as this: you suddenly think about an old
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_uncanny_coincidences_4f1cf2_thought_phone_call_01ef53-Illustration-1-dark.svg" | relative_url }}" alt="Phone Call illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_uncanny_coincidences_4f1cf2_thought_phone_call_01ef53-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_uncanny_coincidences_4f1cf2_thought_phone_call_01ef53-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The central question is therefore not whether these experiences happen—they plainly do—but how they should be interpreted. Statistical reasoning, [psychology]({{ 'psychology/' | relative_url }}) and social behaviour all point to hidden background rates, sometimes called hidden baselines. Unless those baselines are counted, an apparently extraordinary coincidence can seem far more improbable than it really is. At the same time, the persistence of such reports has encouraged experimental research into so-called "telephone telepathy", making this one of the few everyday coincidence claims that has been formally investigated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stat.berkeley.edu/~aldous/157/Papers/diaconis_mosteller.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stat.berkeley.edu">[Department of Statistics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stat.berkeley.edu</span><span class="citation-popover-snippet">Department of StatisticsMethods for Studying CoincidencesJuly 24, 2007 — by P DlACONlS · 1989 · Cited by 428 — This article illustrates b...</span><span class="citation-popover-meta">Published: July 24, 2007</span></span></span>
+The central question is therefore not whether these experiences happen—they plainly do—but how they should be interpreted. Statistical reasoning, [psychology]({{ 'psychology/' | relative_url }}) and social behaviour all point to hidden background rates, sometimes called hidden baselines. Unless those baselines are counted, an apparently extraordinary coincidence can seem far more improbable than it really is. At the same time, the persistence of such reports has encouraged experimental research into so-called "telephone telepathy", making this one of the few everyday coincidence claims that has been formally investigated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stat.berkeley.edu/~aldous/157/Papers/diaconis_mosteller.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stat.berkeley.edu">[Department of Statistics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stat.berkeley.edu</span><span class="citation-popover-snippet">Department of StatisticsMethods for Studying CoincidencesJuly 24, 2007 — by P DlACONlS · 1989 · Cited by 428 — This article illustrates b...</span><span class="citation-popover-meta">Published: July 24, 2007</span></span></span>
 
 ## The memorable hit pattern
 
@@ -303,7 +303,7 @@ This imbalance creates a classic selection effect:
 
 </div>
 
-Psychologists studying coincidences have long argued that selective attention and selective memory are among the strongest normal explanations for apparently extraordinary correspondences. The coincidence is genuine, but the remembered sample is not representative of everything that happened. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.koestler-parapsychology.psy.ed.ac.uk/Documents/EJPv8_Watt.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koestler-parapsychology.psy.ed.ac.uk">[koestler-parapsychology.psy.ed.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koestler-parapsychology.psy.ed.ac.uk</span><span class="citation-popover-title">After a brief discussion of hidden causes.Read more</span><span class="citation-popover-snippet">Psychology and Coincidencesby CA Watt · Cited by 26 — Abstract: The paper presents a selective review of research suggesting possible nor...</span></span></span>
+Psychologists studying coincidences have long argued that selective attention and selective memory are among the strongest normal explanations for apparently extraordinary correspondences. The coincidence is genuine, but the remembered sample is not representative of everything that happened.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.koestler-parapsychology.psy.ed.ac.uk/Documents/EJPv8_Watt.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koestler-parapsychology.psy.ed.ac.uk">[koestler-parapsychology.psy.ed.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koestler-parapsychology.psy.ed.ac.uk</span><span class="citation-popover-title">After a brief discussion of hidden causes.Read more</span><span class="citation-popover-snippet">Psychology and Coincidencesby CA Watt · Cited by 26 — Abstract: The paper presents a selective review of research suggesting possible nor...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/a65mIFzspWM" title="Joint Attention &amp; Telephone Telepathy | Dr. Rupert Sheldrake" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=a65mIFzspWM" target="_blank" rel="noopener noreferrer">Joint Attention &amp; Telephone Telepathy | Dr. Rupert Sheldrake</a></p><p class="youtube-embed-meta">Channel: Simulation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=a65mIFzspWM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=a65mIFzspWM">Open on YouTube</a></p></div></div></div>
@@ -314,9 +314,9 @@ The idea of a hidden baseline is simple but surprisingly powerful. Imagine someo
 
 Most of these thoughts will lead nowhere. However, even if only a tiny fraction are later followed by contact, the successful cases accumulate over months and years.
 
-This is an example of what statisticians Persi Diaconis and Frederick Mosteller describe when discussing coincidences. Rather than asking, "What were the odds of this exact friend calling after I thought of them?", the more appropriate question becomes, "Across all the people I think about, all the days in my life and all the communications I receive, how often should I expect at least one striking match?" Once the number of opportunities is recognised, apparently astonishing events become much less mathematically surprising. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stat.berkeley.edu/~aldous/157/Papers/diaconis_mosteller.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stat.berkeley.edu">[Department of Statistics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stat.berkeley.edu</span><span class="citation-popover-snippet">Department of StatisticsMethods for Studying CoincidencesJuly 24, 2007 — by P DlACONlS · 1989 · Cited by 428 — This article illustrates b...</span><span class="citation-popover-meta">Published: July 24, 2007</span></span></span>
+This is an example of what statisticians Persi Diaconis and Frederick Mosteller describe when discussing coincidences. Rather than asking, "What were the odds of this exact friend calling after I thought of them?", the more appropriate question becomes, "Across all the people I think about, all the days in my life and all the communications I receive, how often should I expect at least one striking match?" Once the number of opportunities is recognised, apparently astonishing events become much less mathematically surprising.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stat.berkeley.edu/~aldous/157/Papers/diaconis_mosteller.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stat.berkeley.edu">[Department of Statistics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stat.berkeley.edu</span><span class="citation-popover-snippet">Department of StatisticsMethods for Studying CoincidencesJuly 24, 2007 — by P DlACONlS · 1989 · Cited by 428 — This article illustrates b...</span><span class="citation-popover-meta">Published: July 24, 2007</span></span></span>
 
-The same reasoning underlies the so-called law of truly large numbers: with enough opportunities, events that seem individually improbable become practically inevitable somewhere in the stream of everyday life. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://imstat.org/2015/02/16/hand-writing-the-improbability-principle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imstat.org">[imstat.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imstat.org</span><span class="citation-popover-title">hand writing the improbability principle</span><span class="citation-popover-snippet">Hand writing: The Improbability Principle16 Feb 2015 — The improbability principle has it: highly improbable events are commonplace. In m...</span></span></span>
+The same reasoning underlies the so-called law of truly large numbers: with enough opportunities, events that seem individually improbable become practically inevitable somewhere in the stream of everyday life.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://imstat.org/2015/02/16/hand-writing-the-improbability-principle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imstat.org">[imstat.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imstat.org</span><span class="citation-popover-title">hand writing the improbability principle</span><span class="citation-popover-snippet">Hand writing: The Improbability Principle16 Feb 2015 — The improbability principle has it: highly improbable events are commonplace. In m...</span></span></span>
 
 ## Friendship routines as hidden causes
 
@@ -338,7 +338,7 @@ Friends frequently share routines that make communication cluster around particu
 
 Suppose two friends usually speak every few weeks. One begins thinking about the other because they have not talked recently. Independently, the other person notices the same interval and decides to call. The coincidence feels uncanny because neither person consciously recognised the shared routine that influenced both thoughts.
 
-Diaconis and Mosteller identify such unnoticed common causes as one of the principal mechanisms behind many reported coincidences. The apparent mystery may arise not from paranormal communication but from ordinary causal connections that remain hidden from the participants themselves. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stat.berkeley.edu/~aldous/157/Papers/diaconis_mosteller.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stat.berkeley.edu">[Department of Statistics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stat.berkeley.edu</span><span class="citation-popover-snippet">Department of StatisticsMethods for Studying CoincidencesJuly 24, 2007 — by P DlACONlS · 1989 · Cited by 428 — This article illustrates b...</span><span class="citation-popover-meta">Published: July 24, 2007</span></span></span>
+Diaconis and Mosteller identify such unnoticed common causes as one of the principal mechanisms behind many reported coincidences. The apparent mystery may arise not from paranormal communication but from ordinary causal connections that remain hidden from the participants themselves.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stat.berkeley.edu/~aldous/157/Papers/diaconis_mosteller.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stat.berkeley.edu">[Department of Statistics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stat.berkeley.edu</span><span class="citation-popover-snippet">Department of StatisticsMethods for Studying CoincidencesJuly 24, 2007 — by P DlACONlS · 1989 · Cited by 428 — This article illustrates b...</span><span class="citation-popover-meta">Published: July 24, 2007</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_uncanny_coincidences_4f1cf2_thought_phone_call_01ef53-Illustration-2-dark.svg" | relative_url }}" alt="Phone Call illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_uncanny_coincidences_4f1cf2_thought_phone_call_01ef53-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_uncanny_coincidences_4f1cf2_thought_phone_call_01ef53-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -361,11 +361,11 @@ These characteristics make phone-call coincidences especially memorable even whe
 
 Unlike many coincidence stories, thought-before-call claims have inspired controlled experiments.
 
-Biologist Rupert Sheldrake conducted studies in which participants attempted to identify which of several familiar people was calling before answering the telephone. His published studies reported hit rates above chance, and he has argued that these findings support a genuine telepathic effect. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sheldrake.org/research/telepathy/experimental-tests-for-telephone-telepathy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sheldrake.org">[sheldrake.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sheldrake.org</span><span class="citation-popover-snippet">Experimental Tests For Telephone Telepathy - Rupert Sheldrakeby R Sheldrake · 2003 · Cited by 76 — If telephone telepathy exists, then wh...</span></span></span>
+Biologist Rupert Sheldrake conducted studies in which participants attempted to identify which of several familiar people was calling before answering the telephone. His published studies reported hit rates above chance, and he has argued that these findings support a genuine telepathic effect.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sheldrake.org/research/telepathy/experimental-tests-for-telephone-telepathy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sheldrake.org">[sheldrake.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sheldrake.org</span><span class="citation-popover-snippet">Experimental Tests For Telephone Telepathy - Rupert Sheldrakeby R Sheldrake · 2003 · Cited by 76 — If telephone telepathy exists, then wh...</span></span></span>
 
-However, these experiments have remained highly controversial. Critics have questioned aspects of the methodology, statistical treatment and experimental controls, while sceptical researchers have argued that the evidence has not demonstrated a reliable paranormal phenomenon. More recent preregistered replication attempts have reported performance close to chance rather than above it, illustrating that the issue remains disputed rather than settled. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/science/2006/sep/06/uknews1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianTelepathy work dismissed as fantasy &#124; Science5 Sept 2006 — Dr Sheldrake asked volunteers, who claimed they had had experience...</span></span></span>
+However, these experiments have remained highly controversial. Critics have questioned aspects of the methodology, statistical treatment and experimental controls, while sceptical researchers have argued that the evidence has not demonstrated a reliable paranormal phenomenon. More recent preregistered replication attempts have reported performance close to chance rather than above it, illustrating that the issue remains disputed rather than settled.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/science/2006/sep/06/uknews1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianTelepathy work dismissed as fantasy &#124; Science5 Sept 2006 — Dr Sheldrake asked volunteers, who claimed they had had experience...</span></span></span>
 
-Within mainstream psychology and statistics, the prevailing interpretation continues to favour ordinary mechanisms such as expectation, selective memory, hidden social patterns and background probability over telepathy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.koestler-parapsychology.psy.ed.ac.uk/Documents/EJPv8_Watt.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koestler-parapsychology.psy.ed.ac.uk">[koestler-parapsychology.psy.ed.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koestler-parapsychology.psy.ed.ac.uk</span><span class="citation-popover-title">After a brief discussion of hidden causes.Read more</span><span class="citation-popover-snippet">Psychology and Coincidencesby CA Watt · Cited by 26 — Abstract: The paper presents a selective review of research suggesting possible nor...</span></span></span>
+Within mainstream psychology and statistics, the prevailing interpretation continues to favour ordinary mechanisms such as expectation, selective memory, hidden social patterns and background probability over telepathy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.koestler-parapsychology.psy.ed.ac.uk/Documents/EJPv8_Watt.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koestler-parapsychology.psy.ed.ac.uk">[koestler-parapsychology.psy.ed.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koestler-parapsychology.psy.ed.ac.uk</span><span class="citation-popover-title">After a brief discussion of hidden causes.Read more</span><span class="citation-popover-snippet">Psychology and Coincidencesby CA Watt · Cited by 26 — Abstract: The paper presents a selective review of research suggesting possible nor...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WfueiqjVkPA" title="Probability and Outrageous Events: David J. Hand on The Law of Truly Large Numbers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WfueiqjVkPA" target="_blank" rel="noopener noreferrer">Probability and Outrageous Events: David J. Hand on The Law of Truly Large Numbers</a></p><p class="youtube-embed-meta">Channel: Samuel Devis</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WfueiqjVkPA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WfueiqjVkPA">Open on YouTube</a></p></div></div></div>
@@ -382,194 +382,194 @@ That shift in perspective changes the question from "How could this impossible t
 <img src="{{ "/assets/images/forteana_50bdc8_uncanny_coincidences_4f1cf2_thought_phone_call_01ef53-Illustration-3-dark.svg" | relative_url }}" alt="Phone Call illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_uncanny_coincidences_4f1cf2_thought_phone_call_01ef53-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_uncanny_coincidences_4f1cf2_thought_phone_call_01ef53-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When a Thought Is Followed by a Call. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When a Thought Is Followed by a Call. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Discusses how coincidence stories become paranormal evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses how coincidence stories become paranormal evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Applies skeptical reasoning to extraordinary experiences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Applies skeptical reasoning to extraordinary experiences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Drunkard%27s+Walk+Leonard+Mlodinow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Drunkard&#x27;s Walk on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8509813-M.jpg" alt="Cover for The Drunkard&#x27;s Walk" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Drunkard%27s+Walk+Leonard+Mlodinow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drunkard&#x27;s Walk">The Drunkard&#x27;s Walk</a>
-        </h4>
-        <p class="fr-book-author">By Leonard Mlodinow</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Drunkard%27s+Walk+Leonard+Mlodinow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Drunkard&#x27;s Walk on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8509813-M.jpg" alt="Cover for The Drunkard&#x27;s Walk" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Drunkard%27s+Walk+Leonard+Mlodinow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drunkard&#x27;s Walk">The Drunkard&#x27;s Walk</a>
+</h4>
+<p class="fr-book-author">By Leonard Mlodinow</p>
         
-        <p class="fr-book-desc">First published 2008. Subjects: Probabilities, Chance, Random variables, Mathematics, Nonfiction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Drunkard%27s+Walk+Leonard+Mlodinow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2008. Subjects: Probabilities, Chance, Random variables, Mathematics, Nonfiction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Drunkard%27s+Walk+Leonard+Mlodinow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Improbability+Principle+David+J.+Hand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Improbability Principle on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13851833-M.jpg" alt="Cover for The Improbability Principle" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Improbability+Principle+David+J.+Hand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Improbability Principle">The Improbability Principle</a>
-        </h4>
-        <p class="fr-book-author">By David J. Hand</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Improbability+Principle+David+J.+Hand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Improbability Principle on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13851833-M.jpg" alt="Cover for The Improbability Principle" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Improbability+Principle+David+J.+Hand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Improbability Principle">The Improbability Principle</a>
+</h4>
+<p class="fr-book-author">By David J. Hand</p>
         
-        <p class="fr-book-desc">First published 2014. Subjects: Probabilities, Mathematics, popular works, Coincidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Improbability+Principle+David+J.+Hand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2014. Subjects: Probabilities, Mathematics, popular works, Coincidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Improbability+Principle+David+J.+Hand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Drunkard%27s+Walk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Drunkard&#x27;s Walk</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Drunkard%27s+Walk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Drunkard&#x27;s Walk</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster" data-ebay-reference="phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Paranormal Activity signed movie poster print"><img src="{{ '/assets/images/marketplace-covers/ad2fe2b2162b8be661dd.jpg' | relative_url }}" alt="Listing image for Paranormal Activity signed movie poster print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster" data-ebay-reference="phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster" target="_blank" rel="sponsored noopener noreferrer">Paranormal Activity signed movie poster print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster" data-ebay-reference="phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster" data-ebay-reference="phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster" data-ebay-reference="phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Paranormal Activity signed movie poster print"><img src="{{ '/assets/images/marketplace-covers/ad2fe2b2162b8be661dd.jpg' | relative_url }}" alt="Listing image for Paranormal Activity signed movie poster print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster" data-ebay-reference="phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster" target="_blank" rel="sponsored noopener noreferrer">Paranormal Activity signed movie poster print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster" data-ebay-reference="phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: paranormal poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster" data-ebay-reference="phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster" data-ebay-reference="phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cinema Poster: PARANORMAL ACTIVITY GHOST DIMENSION 2015 (One Sheet) Chris Murray"><img src="{{ '/assets/images/marketplace-covers/0c08a467090231f74815.jpg' | relative_url }}" alt="Listing image for Cinema Poster: PARANORMAL ACTIVITY GHOST DIMENSION 2015 (One Sheet) Chris Murray" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster" data-ebay-reference="phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster" target="_blank" rel="sponsored noopener noreferrer">Cinema Poster: PARANORMAL ACTIVITY GHOST DIMENSION 2015 (One Sheet) Chris Murray</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster" data-ebay-reference="phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster" data-ebay-reference="phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster" data-ebay-reference="phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cinema Poster: PARANORMAL ACTIVITY GHOST DIMENSION 2015 (One Sheet) Chris Murray"><img src="{{ '/assets/images/marketplace-covers/0c08a467090231f74815.jpg' | relative_url }}" alt="Listing image for Cinema Poster: PARANORMAL ACTIVITY GHOST DIMENSION 2015 (One Sheet) Chris Murray" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster" data-ebay-reference="phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster" target="_blank" rel="sponsored noopener noreferrer">Cinema Poster: PARANORMAL ACTIVITY GHOST DIMENSION 2015 (One Sheet) Chris Murray</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster" data-ebay-reference="phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: paranormal poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster" data-ebay-reference="phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster" data-ebay-reference="phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cinema Poster: PARANORMAL ACTIVITY 2009 (Quad) Micah Sloat Katie Featherston"><img src="{{ '/assets/images/marketplace-covers/d4188919fd2db2ba5a50.jpg' | relative_url }}" alt="Listing image for Cinema Poster: PARANORMAL ACTIVITY 2009 (Quad) Micah Sloat Katie Featherston" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster" data-ebay-reference="phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster" target="_blank" rel="sponsored noopener noreferrer">Cinema Poster: PARANORMAL ACTIVITY 2009 (Quad) Micah Sloat Katie Featherston</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster" data-ebay-reference="phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster" data-ebay-reference="phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster" data-ebay-reference="phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cinema Poster: PARANORMAL ACTIVITY 2009 (Quad) Micah Sloat Katie Featherston"><img src="{{ '/assets/images/marketplace-covers/d4188919fd2db2ba5a50.jpg' | relative_url }}" alt="Listing image for Cinema Poster: PARANORMAL ACTIVITY 2009 (Quad) Micah Sloat Katie Featherston" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster" data-ebay-reference="phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster" target="_blank" rel="sponsored noopener noreferrer">Cinema Poster: PARANORMAL ACTIVITY 2009 (Quad) Micah Sloat Katie Featherston</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster" data-ebay-reference="phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: paranormal poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster" data-ebay-reference="phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster" data-ebay-reference="phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Minimalist Ghost Trap Poster - Paranormal-Inspired Wall Art Print Gift Decor"><img src="{{ '/assets/images/marketplace-covers/d75f042b15766aa0acd7.jpg' | relative_url }}" alt="Listing image for Minimalist Ghost Trap Poster - Paranormal-Inspired Wall Art Print Gift Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster" data-ebay-reference="phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster" target="_blank" rel="sponsored noopener noreferrer">Minimalist Ghost Trap Poster - Paranormal-Inspired Wall Art Print Gift Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster" data-ebay-reference="phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster" data-ebay-reference="phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster" data-ebay-reference="phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster" data-ebay-reference="phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Minimalist Ghost Trap Poster - Paranormal-Inspired Wall Art Print Gift Decor"><img src="{{ '/assets/images/marketplace-covers/d75f042b15766aa0acd7.jpg' | relative_url }}" alt="Listing image for Minimalist Ghost Trap Poster - Paranormal-Inspired Wall Art Print Gift Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster" data-ebay-reference="phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster" target="_blank" rel="sponsored noopener noreferrer">Minimalist Ghost Trap Poster - Paranormal-Inspired Wall Art Print Gift Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster" data-ebay-reference="phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: paranormal poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster" data-ebay-reference="phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal poster" data-ebay-reference="phone-call-when-a-thought-is-followed-by-a-call-forteana-paranormal-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -585,7 +585,7 @@ That shift in perspective changes the question from "How could this impossible t
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -605,7 +605,7 @@ That shift in perspective changes the question from "How could this impossible t
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -637,7 +637,7 @@ That shift in perspective changes the question from "How could this impossible t
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -689,7 +689,7 @@ That shift in perspective changes the question from "How could this impossible t
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -734,7 +734,7 @@ That shift in perspective changes the question from "How could this impossible t
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -775,146 +775,146 @@ That shift in perspective changes the question from "How could this impossible t
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: koestler-[parapsychology](&#123;&#123; 'parapsychology/' | relative_url &#125;&#125;). psy.ed.ac.uk  
    Title: After a brief discussion of hidden causes.Read more  
-   Link: <a href="https://www.koestler-parapsychology.psy.ed.ac.uk/Documents/EJPv8_Watt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.koestler-parapsychology.psy.ed.ac.uk/Documents/EJPv8_Watt.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology and Coincidencesby CA Watt · Cited by 26 — Abstract: The paper presents a selective review of research suggesting possible nor...</p></details>
+   Link:<a href="https://www.koestler-parapsychology.psy.ed.ac.uk/Documents/EJPv8_Watt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.koestler-parapsychology.psy.ed.ac.uk/Documents/EJPv8_Watt.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology and Coincidencesby CA Watt · Cited by 26 — Abstract: The paper presents a selective review of research suggesting possible nor...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: imstat.org  
    Title: hand writing the improbability principle  
-   Link: <a href="https://imstat.org/2015/02/16/hand-writing-the-improbability-principle/" target="_blank" rel="noopener noreferrer nofollow">https://imstat.org/2015/02/16/hand-writing-the-improbability-principle/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hand writing: The Improbability Principle16 Feb 2015 — The improbability principle has it: highly improbable events are commonplace. In m...</p></details>
+   Link:<a href="https://imstat.org/2015/02/16/hand-writing-the-improbability-principle/" target="_blank" rel="noopener noreferrer nofollow">https://imstat.org/2015/02/16/hand-writing-the-improbability-principle/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hand writing: The Improbability Principle16 Feb 2015 — The improbability principle has it: highly improbable events are commonplace. In m...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sheldrake.org  
-   Link: <a href="https://www.sheldrake.org/research/telepathy/experimental-tests-for-telephone-telepathy" target="_blank" rel="noopener noreferrer nofollow">https://www.sheldrake.org/research/telepathy/experimental-tests-for-telephone-telepathy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Experimental Tests For Telephone Telepathy - Rupert Sheldrakeby R Sheldrake · 2003 · Cited by 76 — If telephone telepathy exists, then wh...</p></details>
+   Link:<a href="https://www.sheldrake.org/research/telepathy/experimental-tests-for-telephone-telepathy" target="_blank" rel="noopener noreferrer nofollow">https://www.sheldrake.org/research/telepathy/experimental-tests-for-telephone-telepathy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Experimental Tests For Telephone Telepathy - Rupert Sheldrakeby R Sheldrake · 2003 · Cited by 76 — If telephone telepathy exists, then wh...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) Who is calling?  
-   Link: <a href="https://www.researchgate.net/publication/393221728_Who_is_calling_An_Independent_Replication_of_a_Telephone_Telepathy_Test" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/393221728_Who_is_calling_An_Independent_Replication_of_a_Telephone_Telepathy_Test</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An Independent Replication of...19 May 2026 — We present the results of a new preregistered experiment aimed at testing telephone telepa...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/393221728_Who_is_calling_An_Independent_Replication_of_a_Telephone_Telepathy_Test" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/393221728_Who_is_calling_An_Independent_Replication_of_a_Telephone_Telepathy_Test</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An Independent Replication of...19 May 2026 — We present the results of a new preregistered experiment aimed at testing telephone telepa...</p></details>
    Published: May 2026  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/373415532_Who%27s_calling_Evaluating_the_accuracy_of_guessing_who_is_on_the_phone" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/373415532_Who%27s_calling_Evaluating_the_accuracy_of_guessing_who_is_on_the_phone</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Who&#x27;s calling? Evaluating the accuracy of guessing who is...When the telephone rang, the subject had to guess which of the p...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/373415532_Who%27s_calling_Evaluating_the_accuracy_of_guessing_who_is_on_the_phone" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/373415532_Who%27s_calling_Evaluating_the_accuracy_of_guessing_who_is_on_the_phone</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Who&#x27;s calling? Evaluating the accuracy of guessing who is...When the telephone rang, the subject had to guess which of the p...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sheldrake.org  
    Title: Telepathy cuts down on phone bills  
-   Link: <a href="https://www.sheldrake.org/reactions/telepathy-cuts-down-on-phone-bills" target="_blank" rel="noopener noreferrer nofollow">https://www.sheldrake.org/reactions/telepathy-cuts-down-on-phone-bills</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rupert SheldrakeRupert Sheldrake came under closest questioning about the rigour and security of his experiments, which seemed to show a...</p></details>
+   Link:<a href="https://www.sheldrake.org/reactions/telepathy-cuts-down-on-phone-bills" target="_blank" rel="noopener noreferrer nofollow">https://www.sheldrake.org/reactions/telepathy-cuts-down-on-phone-bills</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rupert SheldrakeRupert Sheldrake came under closest questioning about the rigour and security of his experiments, which seemed to show a...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sheldrake.org  
-   Link: <a href="https://www.sheldrake.org/research/animal-powers/commentary-on-wiseman-smith-and-milton" target="_blank" rel="noopener noreferrer nofollow">https://www.sheldrake.org/research/animal-powers/commentary-on-wiseman-smith-and-milton</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Commentary on Wiseman, Smith and Milton - Rupert Sheldrakeby R Sheldrake — An experimental test of the &quot;psychic pet&quot; phenomenon&#x27; by Richa...</p></details>
+   Link:<a href="https://www.sheldrake.org/research/animal-powers/commentary-on-wiseman-smith-and-milton" target="_blank" rel="noopener noreferrer nofollow">https://www.sheldrake.org/research/animal-powers/commentary-on-wiseman-smith-and-milton</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Commentary on Wiseman, Smith and Milton - Rupert Sheldrakeby R Sheldrake — An experimental test of the &quot;psychic pet&quot; phenomenon&#x27; by Richa...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sheldrake.org  
    Title: Proof Telephone Telepathy IS Real  
-   Link: <a href="https://www.sheldrake.org/essays/proof-telephone-telepathy-is-real" target="_blank" rel="noopener noreferrer nofollow">https://www.sheldrake.org/essays/proof-telephone-telepathy-is-real</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rupert SheldrakeIn this DailyMail article from Jan 4, 2026 Rupert argues that telephone telepathy is a real phenomenon, citing his own st...</p></details>
+   Link:<a href="https://www.sheldrake.org/essays/proof-telephone-telepathy-is-real" target="_blank" rel="noopener noreferrer nofollow">https://www.sheldrake.org/essays/proof-telephone-telepathy-is-real</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rupert SheldrakeIn this DailyMail article from Jan 4, 2026 Rupert argues that telephone telepathy is a real phenomenon, citing his own st...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sheldrake.org  
    Title: testing for telepathy in connection with e mails  
-   Link: <a href="https://www.sheldrake.org/research/telepathy/testing-for-telepathy-in-connection-with-e-mails" target="_blank" rel="noopener noreferrer nofollow">https://www.sheldrake.org/research/telepathy/testing-for-telepathy-in-connection-with-e-mails</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Testing for Telepathy in Connection with E-mailsby R Sheldrake · 2005 · Cited by 56 — In our experiments on telephone telepathy, hit rate...</p></details>
+   Link:<a href="https://www.sheldrake.org/research/telepathy/testing-for-telepathy-in-connection-with-e-mails" target="_blank" rel="noopener noreferrer nofollow">https://www.sheldrake.org/research/telepathy/testing-for-telepathy-in-connection-with-e-mails</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Testing for Telepathy in Connection with E-mailsby R Sheldrake · 2005 · Cited by 56 — In our experiments on telephone telepathy, hit rate...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sheldrake.org  
-   Link: <a href="https://www.sheldrake.org/reactions/theories-of-telepathy-and-afterlife-cause-uproar-at-top-science-forum" target="_blank" rel="noopener noreferrer nofollow">https://www.sheldrake.org/reactions/theories-of-telepathy-and-afterlife-cause-uproar-at-top-science-forum</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rom Rupert Sheldrake, an independent biologist who is funded by Trinity College, Cambridge, that claims to have found...Read more...</p></details>
+   Link:<a href="https://www.sheldrake.org/reactions/theories-of-telepathy-and-afterlife-cause-uproar-at-top-science-forum" target="_blank" rel="noopener noreferrer nofollow">https://www.sheldrake.org/reactions/theories-of-telepathy-and-afterlife-cause-uproar-at-top-science-forum</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rom Rupert Sheldrake, an independent biologist who is funded by Trinity College, Cambridge, that claims to have found...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sheldrake.org  
-   Link: <a href="https://www.sheldrake.org/videos/telephone-telepathy-with-the-nolan-sisters" target="_blank" rel="noopener noreferrer nofollow">https://www.sheldrake.org/videos/telephone-telepathy-with-the-nolan-sisters</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Telephone Telepathy with the Nolan SistersThis experiment with telephone telepathy was filmed for Channel 5 TV and aired in Britain in 20...</p></details>
+   Link:<a href="https://www.sheldrake.org/videos/telephone-telepathy-with-the-nolan-sisters" target="_blank" rel="noopener noreferrer nofollow">https://www.sheldrake.org/videos/telephone-telepathy-with-the-nolan-sisters</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Telephone Telepathy with the Nolan SistersThis experiment with telephone telepathy was filmed for Channel 5 TV and aired in Britain in 20...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/252380718_Experimental_Tests_for_Telephone_Telepathy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/252380718_Experimental_Tests_for_Telephone_Telepathy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Experimental Tests for Telephone TelepathyThe possibility of observing telepathic capabilities in real life is one of the main fiel...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/252380718_Experimental_Tests_for_Telephone_Telepathy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/252380718_Experimental_Tests_for_Telephone_Telepathy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Experimental Tests for Telephone TelepathyThe possibility of observing telepathic capabilities in real life is one of the main fiel...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: stat.berkeley.edu  
-   Link: <a href="https://www.stat.berkeley.edu/~aldous/157/Papers/diaconis_mosteller.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.stat.berkeley.edu/~aldous/157/Papers/diaconis_mosteller.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of StatisticsMethods for Studying CoincidencesJuly 24, 2007 — by P DlACONlS · 1989 · Cited by 428 — This article illustrates b...</p></details>
+   Link:<a href="https://www.stat.berkeley.edu/~aldous/157/Papers/diaconis_mosteller.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.stat.berkeley.edu/~aldous/157/Papers/diaconis_mosteller.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of StatisticsMethods for Studying CoincidencesJuly 24, 2007 — by P DlACONlS · 1989 · Cited by 428 — This article illustrates b...</p></details>
    Published: July 24, 2007  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: stat.berkeley.edu  
-   Link: <a href="https://www.stat.berkeley.edu/~aldous/150/Lectures/coincidence_chapter.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.stat.berkeley.edu/~aldous/150/Lectures/coincidence_chapter.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of StatisticsCoincidences, near misses and one-in-a-million chancesOur “gazillions” explanation6, which they call the law of t...</p></details>
+   Link:<a href="https://www.stat.berkeley.edu/~aldous/150/Lectures/coincidence_chapter.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.stat.berkeley.edu/~aldous/150/Lectures/coincidence_chapter.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of StatisticsCoincidences, near misses and one-in-a-million chancesOur “gazillions” explanation6, which they call the law of t...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/science/2006/sep/06/uknews1" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2006/sep/06/uknews1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianTelepathy work dismissed as fantasy | Science5 Sept 2006 — Dr Sheldrake asked volunteers, who claimed they had had experience...</p></details>
+   Link:<a href="https://www.theguardian.com/science/2006/sep/06/uknews1" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2006/sep/06/uknews1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianTelepathy work dismissed as fantasy | Science5 Sept 2006 — Dr Sheldrake asked volunteers, who claimed they had had experience...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Law of truly large numbers  
-   Link: <a href="https://en.wikipedia.org/wiki/Law_of_truly_large_numbers" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Law_of_truly_large_numbers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Law of truly large numbersThe law of truly large numbers is the [observation](&amp;#123;&amp;#123; &#x27;observation/&#x27; | relative_url &amp;#125;&amp;#125;) in statistics that any highly unlikely result is likely to...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Law_of_truly_large_numbers" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Law_of_truly_large_numbers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Law of truly large numbersThe law of truly large numbers is the [observation](&amp;#123;&amp;#123; &#x27;observation/&#x27; | relative_url &amp;#125;&amp;#125;) in statistics that any highly unlikely result is likely to...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40paulaustinmurphy2000/analysing-rupert-sheldrakes-tests-on-the-paranormal-93f09b580635" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40paulaustinmurphy2000/analysing-rupert-sheldrakes-tests-on-the-paranormal-93f09b580635</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysing Rupert Sheldrake&#x27;s Tests on the ParanormalSheldrake concludes that “[i]n a total of 450 dream telepathy trials, the overall res...</p></details>
+   Link:<a href="https://medium.com/%40paulaustinmurphy2000/analysing-rupert-sheldrakes-tests-on-the-paranormal-93f09b580635" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40paulaustinmurphy2000/analysing-rupert-sheldrakes-tests-on-the-paranormal-93f09b580635</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analysing Rupert Sheldrake&#x27;s Tests on the ParanormalSheldrake concludes that “[i]n a total of 450 dream telepathy trials, the overall res...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/AskStatistics/comments/1b0332n/law_of_truly_large_numbers_and_gamblers_fallacy_i/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskStatistics/comments/1b0332n/law_of_truly_large_numbers_and_gamblers_fallacy_i/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Law of truly large numbers and gambler&#x27;s fallacyI&#x27;ve learned that if you are tossing a coin and wanting to bet on getting a tail, but ins...</p></details>
+   Link:<a href="https://www.reddit.com/r/AskStatistics/comments/1b0332n/law_of_truly_large_numbers_and_gamblers_fallacy_i/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskStatistics/comments/1b0332n/law_of_truly_large_numbers_and_gamblers_fallacy_i/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Law of truly large numbers and gambler&#x27;s fallacyI&#x27;ve learned that if you are tossing a coin and wanting to bet on getting a tail, but ins...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: mathworld.wolfram.com  
-   Link: <a href="https://mathworld.wolfram.com/LawofTrulyLargeNumbers.html" target="_blank" rel="noopener noreferrer nofollow">https://mathworld.wolfram.com/LawofTrulyLargeNumbers.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Truly Large Numbers -- from Wolfram MathWorldLaw of Truly Large Numbers: With a large enough sample, any outrageous thing is likely to...</p></details>
+   Link:<a href="https://mathworld.wolfram.com/LawofTrulyLargeNumbers.html" target="_blank" rel="noopener noreferrer nofollow">https://mathworld.wolfram.com/LawofTrulyLargeNumbers.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Truly Large Numbers -- from Wolfram MathWorldLaw of Truly Large Numbers: With a large enough sample, any outrageous thing is likely to...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: journals.lub.lu.se  
-   Link: <a href="https://journals.lub.lu.se/jaex/article/view/25934" target="_blank" rel="noopener noreferrer nofollow">https://journals.lub.lu.se/jaex/article/view/25934</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Meta-Analysis. Authors. Rupert Sheldrake... An independent replication of a telephone telepathy test. Journal of...Read more...</p></details>
+   Link:<a href="https://journals.lub.lu.se/jaex/article/view/25934" target="_blank" rel="noopener noreferrer nofollow">https://journals.lub.lu.se/jaex/article/view/25934</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Meta-Analysis. Authors. Rupert Sheldrake... An independent replication of a telephone telepathy test. Journal of...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=a65mIFzspWM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a65mIFzspWM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Joint Attention &amp; Telephone Telepathy | Dr. Rupert SheldrakeDr. Rupert Sheldrake is a Biologist and 16x Author/Co-Author best known for h...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=a65mIFzspWM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a65mIFzspWM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Joint Attention &amp; Telephone Telepathy | Dr. Rupert SheldrakeDr. Rupert Sheldrake is a Biologist and 16x Author/Co-Author best known for h...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=DkrLJhBC3X4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DkrLJhBC3X4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Richard Wiseman&#x27;s Failed Debunking of Animal TelepathyHe replicated Rupert Sheldrake&#x27;s results with Jaytee, a dog that knew when his owne...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DkrLJhBC3X4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DkrLJhBC3X4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Richard Wiseman&#x27;s Failed Debunking of Animal TelepathyHe replicated Rupert Sheldrake&#x27;s results with Jaytee, a dog that knew when his owne...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: lablit.com  
    Title: the science of coincidence or the law of truly large numbers  
-   Link: <a href="https://lablit.com/the-science-of-coincidence-or-the-law-of-truly-large-numbers/" target="_blank" rel="noopener noreferrer nofollow">https://lablit.com/the-science-of-coincidence-or-the-law-of-truly-large-numbers/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The science of coincidence(or the Law of Truly Large...29 Nov 2020 — “With a large enough sample, any outrageous thing is likely to happ...</p></details>
+   Link:<a href="https://lablit.com/the-science-of-coincidence-or-the-law-of-truly-large-numbers/" target="_blank" rel="noopener noreferrer nofollow">https://lablit.com/the-science-of-coincidence-or-the-law-of-truly-large-numbers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The science of coincidence(or the Law of Truly Large...29 Nov 2020 — “With a large enough sample, any outrageous thing is likely to happ...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: skepticalinquirer.org  
    Title: the telepathy tapes a dangerous cornucopia of pseudoscience  
-   Link: <a href="https://skepticalinquirer.org/exclusive/the-telepathy-tapes-a-dangerous-cornucopia-of-pseudoscience/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/exclusive/the-telepathy-tapes-a-dangerous-cornucopia-of-pseudoscience/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Telepathy Tapes: A Dangerous Cornucopia of...6 Jan 2025 — The Telepathy Tapes is a veritable cornucopia of pseudoscientific beliefs...</p></details>
+   Link:<a href="https://skepticalinquirer.org/exclusive/the-telepathy-tapes-a-dangerous-cornucopia-of-pseudoscience/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/exclusive/the-telepathy-tapes-a-dangerous-cornucopia-of-pseudoscience/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Telepathy Tapes: A Dangerous Cornucopia of...6 Jan 2025 — The Telepathy Tapes is a veritable cornucopia of pseudoscientific beliefs...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: uniklinik-freiburg.de  
    Title: Universitätsklinikum Freiburg Do You Know Who is Calling?  
-   Link: <a href="https://www.uniklinik-freiburg.de/fileadmin/mediapool/07_kliniken/psy_psychosomatik/telephone_experiments_Open_psycholgy_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.uniklinik-freiburg.de/fileadmin/mediapool/07_kliniken/psy_psychosomatik/telephone_experiments_Open_psycholgy_2009.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Experiments on Anomalous...by S Schmidt · 2009 · Cited by 25 — Abstract: Many people report that they know in advance who is on the phon...</p></details>
+   Link:<a href="https://www.uniklinik-freiburg.de/fileadmin/mediapool/07_kliniken/psy_psychosomatik/telephone_experiments_Open_psycholgy_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.uniklinik-freiburg.de/fileadmin/mediapool/07_kliniken/psy_psychosomatik/telephone_experiments_Open_psycholgy_2009.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Experiments on Anomalous...by S Schmidt · 2009 · Cited by 25 — Abstract: Many people report that they know in advance who is on the phon...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/o4v2v1/richard_wisemans_failed_attempt_to_debunk_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/o4v2v1/richard_wisemans_failed_attempt_to_debunk_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>good example of biased skeptics or &quot;debunkers&quot; can be disingenuous to...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/o4v2v1/richard_wisemans_failed_attempt_to_debunk_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/o4v2v1/richard_wisemans_failed_attempt_to_debunk_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>good example of biased skeptics or &quot;debunkers&quot; can be disingenuous to...</p></details>

@@ -284,7 +284,7 @@ image: /assets/images/forteana_50bdc8_ghost_reports_memory_fdf4a4_poltergeist_di
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_ghost_reports_memory_fdf4a4_poltergeist_disturba_d33fe3-Illustration-1-dark.svg" | relative_url }}" alt="Poltergeist signs illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_ghost_reports_memory_fdf4a4_poltergeist_disturba_d33fe3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_ghost_reports_memory_fdf4a4_poltergeist_disturba_d33fe3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Over more than a century of investigation, researchers have noticed recurring patterns without reaching a single accepted explanation. Some investigators have argued that episodes cluster around periods of family conflict or psychological stress, while sceptics point to [hoaxes]({{ 'hoaxes/' | relative_url }}), perceptual error, structural problems in buildings and selective memory. The most productive investigations therefore focus less on asking whether a disturbance is "real" or "supernatural" and more on separating observable events from interpretation, identifying who witnessed what, and testing [ordinary explanations]({{ 'ordinary-causes/' | relative_url }}) before considering more unusual ones. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/psychological-aspects-poltergeist-cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-snippet">Psi EncyclopediaPsychological Aspects of Poltergeist Cases - Psi Encyclopedia24 May 2019 — William Roll&#x27;s surveys found many cases associ...</span><span class="citation-popover-meta">Published: May 2019</span></span></span>
+Over more than a century of investigation, researchers have noticed recurring patterns without reaching a single accepted explanation. Some investigators have argued that episodes cluster around periods of family conflict or psychological stress, while sceptics point to [hoaxes]({{ 'hoaxes/' | relative_url }}), perceptual error, structural problems in buildings and selective memory. The most productive investigations therefore focus less on asking whether a disturbance is "real" or "supernatural" and more on separating observable events from interpretation, identifying who witnessed what, and testing [ordinary explanations]({{ 'ordinary-causes/' | relative_url }}) before considering more unusual ones.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/psychological-aspects-poltergeist-cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-snippet">Psi EncyclopediaPsychological Aspects of Poltergeist Cases - Psi Encyclopedia24 May 2019 — William Roll&#x27;s surveys found many cases associ...</span><span class="citation-popover-meta">Published: May 2019</span></span></span>
 
 ## What makes a disturbance report different?
 
@@ -303,7 +303,7 @@ Unlike a conventional haunting account centred on a ghostly figure or sensed pre
 
 The emphasis on physical effects means investigators can ask questions that are less useful in apparition cases. Was anyone in the room? Could the object have been moved naturally? Did anyone photograph or measure the scene? Were there building defects, plumbing problems or electrical faults? Did the activity stop after repairs or after household circumstances changed?
 
-Another frequently discussed feature is the apparent concentration of activity around a particular individual rather than a particular room. Parapsychologist William G. Roll argued that many reported cases involved one family member—often an adolescent—during periods of emotional upheaval or domestic tension. Although this [observation]({{ 'observation/' | relative_url }}) has become influential within parapsychological literature, it remains a descriptive pattern rather than a demonstrated causal relationship. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/psychological-aspects-poltergeist-cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-snippet">Psi EncyclopediaPsychological Aspects of Poltergeist Cases - Psi Encyclopedia24 May 2019 — William Roll&#x27;s surveys found many cases associ...</span><span class="citation-popover-meta">Published: May 2019</span></span></span>
+Another frequently discussed feature is the apparent concentration of activity around a particular individual rather than a particular room. Parapsychologist William G. Roll argued that many reported cases involved one family member—often an adolescent—during periods of emotional upheaval or domestic tension. Although this [observation]({{ 'observation/' | relative_url }}) has become influential within parapsychological literature, it remains a descriptive pattern rather than a demonstrated causal relationship.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/psychological-aspects-poltergeist-cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-snippet">Psi EncyclopediaPsychological Aspects of Poltergeist Cases - Psi Encyclopedia24 May 2019 — William Roll&#x27;s surveys found many cases associ...</span><span class="citation-popover-meta">Published: May 2019</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BVAhvpkEskU" title="Richard Wiseman on Lessons from Dale Carnegie, Mentalism, The Psychology of the Paranormal, and More" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BVAhvpkEskU" target="_blank" rel="noopener noreferrer">Richard Wiseman on Lessons from Dale Carnegie, Mentalism, The Psychology of the Paranormal, and More</a></p><p class="youtube-embed-meta">Channel: Tim Ferriss</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BVAhvpkEskU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BVAhvpkEskU">Open on YouTube</a></p></div></div></div>
@@ -325,7 +325,7 @@ Investigators generally give greater weight to reports that include:
 
 </div>
 
-Equally important is identifying who did **not** witness an event. Many famous cases include episodes seen by only one person, later retold to others. As stories spread through a household, expectations can influence what people notice and remember, particularly during stressful periods. Memory research consistently shows that sincere witnesses may unintentionally reshape recollections through discussion, repeated retelling and exposure to leading questions rather than deliberate deception. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4679162/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWhat Do People Believe About Memory?</span><span class="citation-popover-snippet">Implications for the...by SJ Lynn · 2015 · Cited by 53 — We examine the evidence concerning what people believe about memory. We focus o...</span></span></span>
+Equally important is identifying who did **not** witness an event. Many famous cases include episodes seen by only one person, later retold to others. As stories spread through a household, expectations can influence what people notice and remember, particularly during stressful periods. Memory research consistently shows that sincere witnesses may unintentionally reshape recollections through discussion, repeated retelling and exposure to leading questions rather than deliberate deception.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4679162/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWhat Do People Believe About Memory?</span><span class="citation-popover-snippet">Implications for the...by SJ Lynn · 2015 · Cited by 53 — We examine the evidence concerning what people believe about memory. We focus o...</span></span></span>
 
 This is one reason why experienced investigators often construct detailed chronologies instead of relying on dramatic summaries. A timeline can reveal whether reports increased after media attention, whether multiple witnesses actually observed the same event, or whether apparently related incidents occurred under very different circumstances.
 
@@ -341,13 +341,13 @@ This pattern has generated several competing interpretations.
 
 A conventional psychological interpretation does not argue that stress physically moves objects. Instead, it proposes that stressful environments increase vigilance, emotional arousal and the tendency to interpret ambiguous events as connected. Ordinary household noises become more noticeable, memories become organised into a meaningful narrative, and isolated incidents may gradually be interpreted as part of a single unfolding phenomenon.
 
-Stress can also influence attention and memory. People under prolonged pressure are more likely to focus on threatening or unusual events while overlooking uneventful periods, making patterns appear stronger than they may objectively be. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.apa.org/pubs/journals/features/pne-pne0000102.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-title">Based on the available data, we</span><span class="citation-popover-snippet">American Psychological AssociationThe Effects of Stress on Prospective Memoryby M Piefke · Cited by 50 — In this review, available behavi...</span></span></span>
+Stress can also influence attention and memory. People under prolonged pressure are more likely to focus on threatening or unusual events while overlooking uneventful periods, making patterns appear stronger than they may objectively be.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.apa.org/pubs/journals/features/pne-pne0000102.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-title">Based on the available data, we</span><span class="citation-popover-snippet">American Psychological AssociationThe Effects of Stress on Prospective Memoryby M Piefke · Cited by 50 — In this review, available behavi...</span></span></span>
 
 ### Stress within parapsychological theories
 
 Some parapsychological researchers have suggested a different possibility: that emotional strain might somehow contribute to genuine physical disturbances through mechanisms not recognised by mainstream science. Roll's influential model proposed that unresolved emotional tension surrounding a particular individual might be associated with recurrent spontaneous psychokinesis, sometimes abbreviated to RSPK.
 
-Despite its historical importance within psychical research, this hypothesis has not been experimentally confirmed. Modern reviews generally describe it as speculative because reported outbreaks are unpredictable and have not produced repeatable laboratory evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/psychological-aspects-poltergeist-cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-snippet">Psi EncyclopediaPsychological Aspects of Poltergeist Cases - Psi Encyclopedia24 May 2019 — William Roll&#x27;s surveys found many cases associ...</span><span class="citation-popover-meta">Published: May 2019</span></span></span>
+Despite its historical importance within psychical research, this hypothesis has not been experimentally confirmed. Modern reviews generally describe it as speculative because reported outbreaks are unpredictable and have not produced repeatable laboratory evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/psychological-aspects-poltergeist-cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-snippet">Psi EncyclopediaPsychological Aspects of Poltergeist Cases - Psi Encyclopedia24 May 2019 — William Roll&#x27;s surveys found many cases associ...</span><span class="citation-popover-meta">Published: May 2019</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/i8mjM3PB_Tk" title="Paranormal activity: science or fiction? - with Chris French" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=i8mjM3PB_Tk" target="_blank" rel="noopener noreferrer">Paranormal activity: science or fiction? - with Chris French</a></p><p class="youtube-embed-meta">Channel: The Royal Institution &middot; Views: 63.9K &middot; Uploaded: June 2024 &middot; Length: 57 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=i8mjM3PB_Tk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=i8mjM3PB_Tk">Open on YouTube</a></p></div></div></div>
@@ -358,9 +358,9 @@ Poltergeist investigations have repeatedly shown that extraordinary claims requi
 
 Several categories deserve systematic testing before attributing events to unknown causes.
 
-**Deliberate fabrication.** A number of famous cases have eventually included admissions of trickery or convincing demonstrations that some incidents were staged. This does not necessarily explain every reported event in a case, but it greatly complicates claims that an entire episode reflects an unexplained phenomenon. Magicians and investigators familiar with deception have shown how apparently impossible events can sometimes be produced using ordinary means. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://richardwiseman.wordpress.com/research/research-papers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: richardwiseman.wordpress.com">[Richard Wiseman]</a><span class="citation-popover" role="note"><span class="citation-popover-source">richardwiseman.wordpress.com</span><span class="citation-popover-title">Richard Wiseman Academic papers &amp; books</span><span class="citation-popover-snippet">Richard WisemanAcademic papers &amp; books - Richard Wiseman - WordPress.comNovember 23, 2019 — Failure to detect such fraud can lead to seri...</span><span class="citation-popover-meta">Published: November 23, 2019</span></span></span>
+**Deliberate fabrication.** A number of famous cases have eventually included admissions of trickery or convincing demonstrations that some incidents were staged. This does not necessarily explain every reported event in a case, but it greatly complicates claims that an entire episode reflects an unexplained phenomenon. Magicians and investigators familiar with deception have shown how apparently impossible events can sometimes be produced using ordinary means.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://richardwiseman.wordpress.com/research/research-papers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: richardwiseman.wordpress.com">[Richard Wiseman]</a><span class="citation-popover" role="note"><span class="citation-popover-source">richardwiseman.wordpress.com</span><span class="citation-popover-title">Richard Wiseman Academic papers &amp; books</span><span class="citation-popover-snippet">Richard WisemanAcademic papers &amp; books - Richard Wiseman - WordPress.comNovember 23, 2019 — Failure to detect such fraud can lead to seri...</span><span class="citation-popover-meta">Published: November 23, 2019</span></span></span>
 
-**Building and environmental factors.** [Old houses]({{ 'old-houses/' | relative_url }}) naturally produce knocks as materials expand and contract. Loose plumbing, vibration from traffic, faulty wiring, chimney drafts and unstable shelving can create events that initially appear mysterious. Environmental explanations rarely account for every report, but they frequently explain individual incidents that witnesses had grouped into a larger narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Poltergeist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+**Building and environmental factors.** [Old houses]({{ 'old-houses/' | relative_url }}) naturally produce knocks as materials expand and contract. Loose plumbing, vibration from traffic, faulty wiring, chimney drafts and unstable shelving can create events that initially appear mysterious. Environmental explanations rarely account for every report, but they frequently explain individual incidents that witnesses had grouped into a larger narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Poltergeist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 **Misinterpretation of ambiguous events.** Once a household begins expecting further disturbances, unrelated occurrences may become incorporated into the same story. An object accidentally knocked from a shelf, an appliance malfunction or a loud bang from heating pipes can be retrospectively linked to previous incidents.
 
@@ -374,7 +374,7 @@ The reported disturbances in a council house in [Enfield]({{ 'enfield/' | relati
 
 Supporters argued that the sheer number of witnesses, investigators and reported incidents made the case difficult to dismiss outright. Critics noted that some central participants admitted to faking particular events, while investigators documented occasions where trickery appeared to occur. Different members of the same research organisations reached different conclusions after examining much of the same material.
 
-Rather than resolving the question, the Enfield case demonstrates why investigators distinguish between the credibility of individual incidents and the credibility of an entire narrative. A single genuine observation does not validate every claim, while evidence of occasional deception does not automatically explain every reported event. Each episode requires separate evaluation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Enfield_poltergeist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Enfield poltergeist</span><span class="citation-popover-snippet">Enfield poltergeist</span></span></span>
+Rather than resolving the question, the Enfield case demonstrates why investigators distinguish between the credibility of individual incidents and the credibility of an entire narrative. A single genuine observation does not validate every claim, while evidence of occasional deception does not automatically explain every reported event. Each episode requires separate evaluation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Enfield_poltergeist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Enfield poltergeist</span><span class="citation-popover-snippet">Enfield poltergeist</span></span></span>
 
 ## Why poltergeists remain a distinctive Fortean topic
 
@@ -389,194 +389,194 @@ For that reason, careful investigators typically document three parallel histori
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Knocks and Moving Objects Become Poltergeists. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Knocks and Moving Objects Become Poltergeists. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Promotes evidence-based evaluation of extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Promotes evidence-based evaluation of extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+Hunters+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost Hunters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/872311-M.jpg" alt="Cover for Ghost Hunters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghost+Hunters+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost Hunters">Ghost Hunters</a>
-        </h4>
-        <p class="fr-book-author">By Deborah Blum</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+Hunters+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost Hunters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/872311-M.jpg" alt="Cover for Ghost Hunters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghost+Hunters+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost Hunters">Ghost Hunters</a>
+</h4>
+<p class="fr-book-author">By Deborah Blum</p>
         
-        <p class="fr-book-desc">First published 2006. Subjects: Spiritualism, History, Ghosts, Parapsychology, New York Times reviewed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghost+Hunters+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2006. Subjects: Spiritualism, History, Ghosts, Parapsychology, New York Times reviewed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghost+Hunters+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Poltergeist+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Poltergeist on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/667270-M.jpg" alt="Cover for Poltergeist" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Poltergeist+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Poltergeist">Poltergeist</a>
-        </h4>
-        <p class="fr-book-author">By Colin Wilson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Poltergeist+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Poltergeist on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/667270-M.jpg" alt="Cover for Poltergeist" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Poltergeist+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Poltergeist">Poltergeist</a>
+</h4>
+<p class="fr-book-author">By Colin Wilson</p>
         
-        <p class="fr-book-desc">First published 1981. Subjects: Haunted houses, Poltergeists, Ghosts, Case studies, Occultism.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Poltergeist+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1981. Subjects: Haunted houses, Poltergeists, Ghosts, Case studies, Occultism.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Poltergeist+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Paranormality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12284173-M.jpg" alt="Cover for Paranormality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Paranormality">Paranormality</a>
-        </h4>
-        <p class="fr-book-author">By Richard Wiseman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Paranormality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12284173-M.jpg" alt="Cover for Paranormality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Paranormality">Paranormality</a>
+</h4>
+<p class="fr-book-author">By Richard Wiseman</p>
         
-        <p class="fr-book-desc">First published 2011. Subjects: Parapsychology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011. Subjects: Parapsychology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+Hunters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost Hunters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Poltergeist&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Poltergeist</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+Hunters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost Hunters</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Poltergeist&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Poltergeist</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Poster Ghost in the Shell 420mm x 594mm (size A2)"><img src="{{ '/assets/images/marketplace-covers/ed5a1be57c89939f869e.jpg' | relative_url }}" alt="Listing image for Poster Ghost in the Shell 420mm x 594mm (size A2)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer">Poster Ghost in the Shell 420mm x 594mm (size A2)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ghost poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Poster Ghost in the Shell 420mm x 594mm (size A2)"><img src="{{ '/assets/images/marketplace-covers/ed5a1be57c89939f869e.jpg' | relative_url }}" alt="Listing image for Poster Ghost in the Shell 420mm x 594mm (size A2)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer">Poster Ghost in the Shell 420mm x 594mm (size A2)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ghost - live band music show 2022 TOUR promotional tour concert gig poster"><img src="{{ '/assets/images/marketplace-covers/75e6bc036c3aa8306735.jpg' | relative_url }}" alt="Listing image for Ghost - live band music show 2022 TOUR promotional tour concert gig poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer">Ghost - live band music show 2022 TOUR promotional tour concert gig poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ghost poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ghost - live band music show 2022 TOUR promotional tour concert gig poster"><img src="{{ '/assets/images/marketplace-covers/75e6bc036c3aa8306735.jpg' | relative_url }}" alt="Listing image for Ghost - live band music show 2022 TOUR promotional tour concert gig poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer">Ghost - live band music show 2022 TOUR promotional tour concert gig poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for GHOST WORLD - SCARLETT JOHANSSON / BUSCEMI / HIGH SCHOOL - ORIGINAL MOVIE POSTER"><img src="{{ '/assets/images/marketplace-covers/713afac198ea9ae2ac19.jpg' | relative_url }}" alt="Listing image for GHOST WORLD - SCARLETT JOHANSSON / BUSCEMI / HIGH SCHOOL - ORIGINAL MOVIE POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer">GHOST WORLD - SCARLETT JOHANSSON / BUSCEMI / HIGH SCHOOL - ORIGINAL MOVIE POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ghost poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for GHOST WORLD - SCARLETT JOHANSSON / BUSCEMI / HIGH SCHOOL - ORIGINAL MOVIE POSTER"><img src="{{ '/assets/images/marketplace-covers/713afac198ea9ae2ac19.jpg' | relative_url }}" alt="Listing image for GHOST WORLD - SCARLETT JOHANSSON / BUSCEMI / HIGH SCHOOL - ORIGINAL MOVIE POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer">GHOST WORLD - SCARLETT JOHANSSON / BUSCEMI / HIGH SCHOOL - ORIGINAL MOVIE POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ghost - live band music show 2025 UK TOUR promotional tour concert gig poster"><img src="{{ '/assets/images/marketplace-covers/17472db92673842b8db9.jpg' | relative_url }}" alt="Listing image for Ghost - live band music show 2025 UK TOUR promotional tour concert gig poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer">Ghost - live band music show 2025 UK TOUR promotional tour concert gig poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ghost poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ghost - live band music show 2025 UK TOUR promotional tour concert gig poster"><img src="{{ '/assets/images/marketplace-covers/17472db92673842b8db9.jpg' | relative_url }}" alt="Listing image for Ghost - live band music show 2025 UK TOUR promotional tour concert gig poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer">Ghost - live band music show 2025 UK TOUR promotional tour concert gig poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster" data-ebay-reference="poltergeist-signs-when-knocks-and-moving-objects-become-poltergeists-forteana-ghost-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -592,7 +592,7 @@ For that reason, careful investigators typically document three parallel histori
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -612,7 +612,7 @@ For that reason, careful investigators typically document three parallel histori
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -644,7 +644,7 @@ For that reason, careful investigators typically document three parallel histori
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -696,7 +696,7 @@ For that reason, careful investigators typically document three parallel histori
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -741,7 +741,7 @@ For that reason, careful investigators typically document three parallel histori
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -782,125 +782,125 @@ For that reason, careful investigators typically document three parallel histori
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: psi-encyclopedia.spr.ac.uk  
-   Link: <a href="https://psi-encyclopedia.spr.ac.uk/articles/psychological-aspects-poltergeist-cases/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/articles/psychological-aspects-poltergeist-cases/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Psi EncyclopediaPsychological Aspects of Poltergeist Cases - Psi Encyclopedia24 May 2019 — William Roll&#x27;s surveys found many cases associ...</p></details>
+   Link:<a href="https://psi-encyclopedia.spr.ac.uk/articles/psychological-aspects-poltergeist-cases/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/articles/psychological-aspects-poltergeist-cases/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psi EncyclopediaPsychological Aspects of Poltergeist Cases - Psi Encyclopedia24 May 2019 — William Roll&#x27;s surveys found many cases associ...</p></details>
    Published: May 2019  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCWhat Do People Believe About Memory?  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4679162/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4679162/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Implications for the...by SJ Lynn · 2015 · Cited by 53 — We examine the evidence concerning what people believe about memory. We focus o...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4679162/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4679162/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Implications for the...by SJ Lynn · 2015 · Cited by 53 — We examine the evidence concerning what people believe about memory. We focus o...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Poltergeist" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Poltergeist</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Poltergeist" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Poltergeist</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Enfield poltergeist  
-   Link: <a href="https://en.wikipedia.org/wiki/Enfield_poltergeist" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Enfield_poltergeist</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Enfield_poltergeist" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Enfield_poltergeist</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: richardwiseman.com  
    Title: Richard Wiseman An investigation into alleged 'hauntings'  
-   Link: <a href="https://www.richardwiseman.com/resources/BJP-hauntings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.richardwiseman.com/resources/BJP-hauntings.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Phantoms, frauds, or fantasies?...</p></details>
+   Link:<a href="https://www.richardwiseman.com/resources/BJP-hauntings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.richardwiseman.com/resources/BJP-hauntings.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phantoms, frauds, or fantasies?...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: apa.org  
    Title: Based on the available data, we  
-   Link: <a href="https://www.apa.org/pubs/journals/features/pne-pne0000102.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/pubs/journals/features/pne-pne0000102.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationThe Effects of Stress on Prospective Memoryby M Piefke · Cited by 50 — In this review, available behavi...</p></details>
+   Link:<a href="https://www.apa.org/pubs/journals/features/pne-pne0000102.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/pubs/journals/features/pne-pne0000102.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationThe Effects of Stress on Prospective Memoryby M Piefke · Cited by 50 — In this review, available behavi...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: richardwiseman.wordpress.com  
    Title: Richard Wiseman Academic papers & books  
-   Link: <a href="https://richardwiseman.wordpress.com/research/research-papers/" target="_blank" rel="noopener noreferrer nofollow">https://richardwiseman.wordpress.com/research/research-papers/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Richard WisemanAcademic papers &amp; books - Richard Wiseman - WordPress.comNovember 23, 2019 — Failure to detect such fraud can lead to seri...</p></details>
+   Link:<a href="https://richardwiseman.wordpress.com/research/research-papers/" target="_blank" rel="noopener noreferrer nofollow">https://richardwiseman.wordpress.com/research/research-papers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Richard WisemanAcademic papers &amp; books - Richard Wiseman - WordPress.comNovember 23, 2019 — Failure to detect such fraud can lead to seri...</p></details>
    Published: November 23, 2019  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: acampbell.org.uk  
-   Link: <a href="https://www.acampbell.org.uk/bookreviews/r/wiseman.html" target="_blank" rel="noopener noreferrer nofollow">https://www.acampbell.org.uk/bookreviews/r/wiseman.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Paranormality, by Richard Wiseman21 Mar 2011 — In this book he examines various kinds of alleged paranormality and concludes, as one woul...</p></details>
+   Link:<a href="https://www.acampbell.org.uk/bookreviews/r/wiseman.html" target="_blank" rel="noopener noreferrer nofollow">https://www.acampbell.org.uk/bookreviews/r/wiseman.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paranormality, by Richard Wiseman21 Mar 2011 — In this book he examines various kinds of alleged paranormality and concludes, as one woul...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/scientific-contributions/Richard-Wiseman-2163512760" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/scientific-contributions/Richard-Wiseman-2163512760</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>sociated with experiencing the seemingly impossible has a similar effect.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/scientific-contributions/Richard-Wiseman-2163512760" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/scientific-contributions/Richard-Wiseman-2163512760</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sociated with experiencing the seemingly impossible has a similar effect.Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=BVAhvpkEskU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BVAhvpkEskU</a>  
+   Link:<a href="https://www.youtube.com/watch?v=BVAhvpkEskU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BVAhvpkEskU</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9216229/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9216229/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by J Houran · 2022 · Cited by 17 — To clarify, poltergeist disturbances are clusters of anomalous subjective (S) experiences (e.g., ap...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9216229/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9216229/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by J Houran · 2022 · Cited by 17 — To clarify, poltergeist disturbances are clusters of anomalous subjective (S) experiences (e.g., ap...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: fringereview.co.uk  
    Title: richard wiseman psychobabble  
-   Link: <a href="https://fringereview.co.uk/review/edinburgh-fringe/2012/richard-wiseman-psychobabble/" target="_blank" rel="noopener noreferrer nofollow">https://fringereview.co.uk/review/edinburgh-fringe/2012/richard-wiseman-psychobabble/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Richard Wiseman – Psychobabble7 Aug 2012 — Richard Wiseman is a magician turned psychologist whose reputation is founded on his research...</p></details>
+   Link:<a href="https://fringereview.co.uk/review/edinburgh-fringe/2012/richard-wiseman-psychobabble/" target="_blank" rel="noopener noreferrer nofollow">https://fringereview.co.uk/review/edinburgh-fringe/2012/richard-wiseman-psychobabble/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Richard Wiseman – Psychobabble7 Aug 2012 — Richard Wiseman is a magician turned psychologist whose reputation is founded on his research...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: panmacmillan.com  
-   Link: <a href="https://www.panmacmillan.com/authors/richard-wiseman/5184" target="_blank" rel="noopener noreferrer nofollow">https://www.panmacmillan.com/authors/richard-wiseman/5184</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Richard WisemanRichard Wiseman is Britain&#x27;s only professor for the Public Understanding of Psychology and has an international reputation...</p></details>
+   Link:<a href="https://www.panmacmillan.com/authors/richard-wiseman/5184" target="_blank" rel="noopener noreferrer nofollow">https://www.panmacmillan.com/authors/richard-wiseman/5184</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Richard WisemanRichard Wiseman is Britain&#x27;s only professor for the Public Understanding of Psychology and has an international reputation...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/232548687_Memory_span_a_review_of_the_literature" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232548687_Memory_span_a_review_of_the_literature</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Memory span: a review of the literatureMemory span: a review of the literature. American Psychological Association. Psychological Bulleti...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/232548687_Memory_span_a_review_of_the_literature" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232548687_Memory_span_a_review_of_the_literature</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Memory span: a review of the literatureMemory span: a review of the literature. American Psychological Association. Psychological Bulleti...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/poltergeist-ghostlore" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/social-sciences-and-humanities/poltergeist-ghostlore</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Poltergeist (ghostlore) | Social Sciences and HumanitiesA poltergeist is said to be a disruptive spirit that makes its presence known thr...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/poltergeist-ghostlore" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/social-sciences-and-humanities/poltergeist-ghostlore</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Poltergeist (ghostlore) | Social Sciences and HumanitiesA poltergeist is said to be a disruptive spirit that makes its presence known thr...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/281886105961506/posts/2042029663280466/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/281886105961506/posts/2042029663280466/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Poltergeist activity and its explanationsPoltergeist activity refers to unexplained disturbances attributed to supernatural forces or psy...</p></details>
+   Link:<a href="https://www.facebook.com/groups/281886105961506/posts/2042029663280466/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/281886105961506/posts/2042029663280466/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Poltergeist activity and its explanationsPoltergeist activity refers to unexplained disturbances attributed to supernatural forces or psy...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: psychnet.wustl.edu  
-   Link: <a href="https://psychnet.wustl.edu/memory/publications/" target="_blank" rel="noopener noreferrer nofollow">https://psychnet.wustl.edu/memory/publications/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Memory LabAmerican Psychological Association Press. Relativity of remembering: Why the laws of memory vanished. Annual Review of Psycho...</p></details>
+   Link:<a href="https://psychnet.wustl.edu/memory/publications/" target="_blank" rel="noopener noreferrer nofollow">https://psychnet.wustl.edu/memory/publications/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Memory LabAmerican Psychological Association Press. Relativity of remembering: Why the laws of memory vanished. Annual Review of Psycho...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchprofiles.herts.ac.uk  
-   Link: <a href="https://researchprofiles.herts.ac.uk/en/persons/richard-wiseman/" target="_blank" rel="noopener noreferrer nofollow">https://researchprofiles.herts.ac.uk/en/persons/richard-wiseman/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WisemanI am interested in several areas of applied social psychology, including the psychology of self-help, luck, deception, magic, humo...</p></details>
+   Link:<a href="https://researchprofiles.herts.ac.uk/en/persons/richard-wiseman/" target="_blank" rel="noopener noreferrer nofollow">https://researchprofiles.herts.ac.uk/en/persons/richard-wiseman/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WisemanI am interested in several areas of applied social psychology, including the psychology of self-help, luck, deception, magic, humo...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: walshmedicalmedia.com  
-   Link: <a href="https://www.walshmedicalmedia.com/open-access/exploring-paranormal-activity-insights-from-science-and-psychology-136498.html" target="_blank" rel="noopener noreferrer nofollow">https://www.walshmedicalmedia.com/open-access/exploring-paranormal-activity-insights-from-science-and-psychology-136498.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>eption, memory and decision-making, showing that human [experience](&amp;#123;&amp;#123; &#x27;experience/&#x27; | relative_url &amp;#125;&amp;#125;) is shaped not...</p></details>
+   Link:<a href="https://www.walshmedicalmedia.com/open-access/exploring-paranormal-activity-insights-from-science-and-psychology-136498.html" target="_blank" rel="noopener noreferrer nofollow">https://www.walshmedicalmedia.com/open-access/exploring-paranormal-activity-insights-from-science-and-psychology-136498.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>eption, memory and decision-making, showing that human [experience](&amp;#123;&amp;#123; &#x27;experience/&#x27; | relative_url &amp;#125;&amp;#125;) is shaped not...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/1307179/Poltergeist_Phenomena_A_Primer_on_Parapsychological_Research_and_Perspectives" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/1307179/Poltergeist_Phenomena_A_Primer_on_Parapsychological_Research_and_Perspectives</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>psychological research and perspectives relating to phenomena traditionally...</p></details>
+   Link:<a href="https://www.academia.edu/1307179/Poltergeist_Phenomena_A_Primer_on_Parapsychological_Research_and_Perspectives" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/1307179/Poltergeist_Phenomena_A_Primer_on_Parapsychological_Research_and_Perspectives</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>psychological research and perspectives relating to phenomena traditionally...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: kspope.com  
-   Link: <a href="https://kspope.com/memory/memory.php" target="_blank" rel="noopener noreferrer nofollow">https://kspope.com/memory/memory.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to believe illusory memories of abuse with great conviction, suffer from an...</p></details>
+   Link:<a href="https://kspope.com/memory/memory.php" target="_blank" rel="noopener noreferrer nofollow">https://kspope.com/memory/memory.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to believe illusory memories of abuse with great conviction, suffer from an...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: med.virginia.edu  
    Title: UVA School of Medicine POLTERGEIST AGENTS  
-   Link: <a href="https://med.virginia.edu/perceptual-studies/wp-content/uploads/sites/360/2015/11/Alvarado-martinez-Taboas-EJP-Poltergeist-Agents-1981.pdf" target="_blank" rel="noopener noreferrer nofollow">https://med.virginia.edu/perceptual-studies/wp-content/uploads/sites/360/2015/11/Alvarado-martinez-Taboas-EJP-Poltergeist-Agents-1981.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AGENTS: - Alfonso Martinez TaboasRecently Roll (1977, 1978) has proposed that the central nervous system (CNS) is a mediator in poltergei...</p></details>
+   Link:<a href="https://med.virginia.edu/perceptual-studies/wp-content/uploads/sites/360/2015/11/Alvarado-martinez-Taboas-EJP-Poltergeist-Agents-1981.pdf" target="_blank" rel="noopener noreferrer nofollow">https://med.virginia.edu/perceptual-studies/wp-content/uploads/sites/360/2015/11/Alvarado-martinez-Taboas-EJP-Poltergeist-Agents-1981.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AGENTS: - Alfonso Martinez TaboasRecently Roll (1977, 1978) has proposed that the central nervous system (CNS) is a mediator in poltergei...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/profile/James-Houran/publication/383623299_CONFRONTING_THE_ELUSIVE_FORCE_A_PHENOMENOLOGICAL_ANALYSIS_OF_A_20th_CENTURY_POLTERGEIST/links/66def1ec64f7bf7b19a2db04/CONFRONTING-THE-ELUSIVE-FORCE-A-PHENOMENOLOGICAL-ANALYSIS-OF-A-20th-CENTURY-POLTERGEIST.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/James-Houran/publication/383623299_CONFRONTING_THE_ELUSIVE_FORCE_A_PHENOMENOLOGICAL_ANALYSIS_OF_A_20th_CENTURY_POLTERGEIST/links/66def1ec64f7bf7b19a2db04/CONFRONTING-THE-ELUSIVE-FORCE-A-PHENOMENOLOGICAL-ANALYSIS-OF-A-20th-CENTURY-POLTERGEIST.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>menon involving people with heightened somatic–sensory...</p></details>
+   Link:<a href="https://www.researchgate.net/profile/James-Houran/publication/383623299_CONFRONTING_THE_ELUSIVE_FORCE_A_PHENOMENOLOGICAL_ANALYSIS_OF_A_20th_CENTURY_POLTERGEIST/links/66def1ec64f7bf7b19a2db04/CONFRONTING-THE-ELUSIVE-FORCE-A-PHENOMENOLOGICAL-ANALYSIS-OF-A-20th-CENTURY-POLTERGEIST.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/James-Houran/publication/383623299_CONFRONTING_THE_ELUSIVE_FORCE_A_PHENOMENOLOGICAL_ANALYSIS_OF_A_20th_CENTURY_POLTERGEIST/links/66def1ec64f7bf7b19a2db04/CONFRONTING-THE-ELUSIVE-FORCE-A-PHENOMENOLOGICAL-ANALYSIS-OF-A-20th-CENTURY-POLTERGEIST.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>menon involving people with heightened somatic–sensory...</p></details>

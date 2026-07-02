@@ -280,24 +280,24 @@ image: /assets/images/forteana_50bdc8_unexplained_hum_repo_c3e069_taos_hum_unres
 
 ## Introduction
 
-The Taos Hum became the defining modern example of an unexplained low-frequency sound because it combined three unusual features: a consistent group of sincere witnesses, an unusually serious scientific investigation, and a complete failure to identify a single external cause. Beginning in the early 1990s, a small proportion of residents around Taos, New Mexico, reported hearing a persistent low, pulsing sound often compared to a distant diesel engine or idling lorry. Although the reports attracted the attention of engineers, acousticians, government laboratories and members of the US Congress, investigators could neither verify one shared acoustic source nor dismiss the experiences as imaginary. That unresolved gap between testimony and measurement is why the Taos Hum remains one of the best-known cases in Fortean discussions of unexplained environmental phenomena. Acoustical Society of America+2icben.ethz.ch <span class="citation-link-wrap"><a class="citation-inline-link" href="https://acousticalsociety.org/wp-content/uploads/2018/02/v5n3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acousticalsociety.org">[acousticalsociety.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acousticalsociety.org</span><span class="citation-popover-snippet">Acoustical Society of AmericaThe mystery of the Taos hum16 Apr 2017 — In 1993, they got the attention of the New Mexico congressional del...</span></span></span>
+The Taos Hum became the defining modern example of an unexplained low-frequency sound because it combined three unusual features: a consistent group of sincere witnesses, an unusually serious scientific investigation, and a complete failure to identify a single external cause. Beginning in the early 1990s, a small proportion of residents around Taos, New Mexico, reported hearing a persistent low, pulsing sound often compared to a distant diesel engine or idling lorry. Although the reports attracted the attention of engineers, acousticians, government laboratories and members of the US Congress, investigators could neither verify one shared acoustic source nor dismiss the experiences as imaginary. That unresolved gap between testimony and measurement is why the Taos Hum remains one of the best-known cases in Fortean discussions of unexplained environmental phenomena. Acoustical Society of America+2icben.ethz.ch<span class="citation-link-wrap"><a class="citation-inline-link" href="https://acousticalsociety.org/wp-content/uploads/2018/02/v5n3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acousticalsociety.org">[acousticalsociety.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acousticalsociety.org</span><span class="citation-popover-snippet">Acoustical Society of AmericaThe mystery of the Taos hum16 Apr 2017 — In 1993, they got the attention of the New Mexico congressional del...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_unexplained_hum_repo_c3e069_taos_hum_unresolved_b0ef0b-Illustration-1-dark.svg" | relative_url }}" alt="Taos Hum illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_unexplained_hum_repo_c3e069_taos_hum_unresolved_b0ef0b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_unexplained_hum_repo_c3e069_taos_hum_unresolved_b0ef0b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What residents reported in Taos
 
-The people who heard the Hum did not describe it as a dramatic or mysterious noise. Instead, most accounts focused on its persistence. Witnesses commonly compared it to an idling engine, distant industrial machinery or a low electrical drone that seemed impossible to locate. Many said it was more noticeable indoors than outside, particularly at night when background sounds were minimal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/archives/la-xpm-1993-07-18-me-14295-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">la xpm 1993 07 18 me 14295 story</span><span class="citation-popover-snippet">Grams hears it: a constant, irritating hum that deprives her of sleep and depletes her energy. Steven Walters hears it: a low...</span></span></span>
+The people who heard the Hum did not describe it as a dramatic or mysterious noise. Instead, most accounts focused on its persistence. Witnesses commonly compared it to an idling engine, distant industrial machinery or a low electrical drone that seemed impossible to locate. Many said it was more noticeable indoors than outside, particularly at night when background sounds were minimal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/archives/la-xpm-1993-07-18-me-14295-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">la xpm 1993 07 18 me 14295 story</span><span class="citation-popover-snippet">Grams hears it: a constant, irritating hum that deprives her of sleep and depletes her energy. Steven Walters hears it: a low...</span></span></span>
 
-Just as striking was who did **not** hear it. Only a small fraction of local residents reported the phenomenon. During the investigation, surveys suggested that around two percent of respondents identified themselves as hearers, although the exact sound they described varied in pitch and character. This selective perception immediately complicated the investigation because investigators could not assume that everyone in the same location was experiencing the same physical stimulus. Acoustical Society of America+2icben.ethz.ch <span class="citation-link-wrap"><a class="citation-inline-link" href="https://acousticalsociety.org/wp-content/uploads/2018/02/v5n3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acousticalsociety.org">[acousticalsociety.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acousticalsociety.org</span><span class="citation-popover-snippet">Acoustical Society of AmericaThe mystery of the Taos hum16 Apr 2017 — In 1993, they got the attention of the New Mexico congressional del...</span></span></span>
+Just as striking was who did **not** hear it. Only a small fraction of local residents reported the phenomenon. During the investigation, surveys suggested that around two percent of respondents identified themselves as hearers, although the exact sound they described varied in pitch and character. This selective perception immediately complicated the investigation because investigators could not assume that everyone in the same location was experiencing the same physical stimulus. Acoustical Society of America+2icben.ethz.ch<span class="citation-link-wrap"><a class="citation-inline-link" href="https://acousticalsociety.org/wp-content/uploads/2018/02/v5n3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acousticalsociety.org">[acousticalsociety.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acousticalsociety.org</span><span class="citation-popover-snippet">Acoustical Society of AmericaThe mystery of the Taos hum16 Apr 2017 — In 1993, they got the attention of the New Mexico congressional del...</span></span></span>
 
-For those affected, however, the [experience]({{ 'experience/' | relative_url }}) was real and often distressing. Many described disrupted sleep, difficulty concentrating and increasing anxiety as they searched unsuccessfully for the source. Some repeatedly checked appliances, drove through surrounding areas or left town temporarily to see whether the sound followed them. These practical efforts convinced many witnesses that they were responding to something genuine rather than imagining it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/archives/la-xpm-1993-07-18-me-14295-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times+2Thrillist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">la xpm 1993 07 18 me 14295 story</span><span class="citation-popover-snippet">Grams hears it: a constant, irritating hum that deprives her of sleep and depletes her energy. Steven Walters hears it: a low...</span></span></span>
+For those affected, however, the [experience]({{ 'experience/' | relative_url }}) was real and often distressing. Many described disrupted sleep, difficulty concentrating and increasing anxiety as they searched unsuccessfully for the source. Some repeatedly checked appliances, drove through surrounding areas or left town temporarily to see whether the sound followed them. These practical efforts convinced many witnesses that they were responding to something genuine rather than imagining it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/archives/la-xpm-1993-07-18-me-14295-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times+2Thrillist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">la xpm 1993 07 18 me 14295 story</span><span class="citation-popover-snippet">Grams hears it: a constant, irritating hum that deprives her of sleep and depletes her energy. Steven Walters hears it: a low...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/R2vls-LjDYQ" title="Unsolved Mysteries: The Mystery of the Taos Hum: Unexplained Low-Frequency Phenomenon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=R2vls-LjDYQ" target="_blank" rel="noopener noreferrer">Unsolved Mysteries: The Mystery of the Taos Hum: Unexplained Low-Frequency Phenomenon</a></p><p class="youtube-embed-meta">Channel: One Of Us</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=R2vls-LjDYQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=R2vls-LjDYQ">Open on YouTube</a></p></div></div></div>
 
 ## What investigators looked for
 
-Public attention eventually prompted New Mexico's congressional delegation to request a formal investigation in 1993. The study brought together specialists from the University of New Mexico, Los Alamos National Laboratory, Sandia National Laboratories and Phillips Air Force Laboratory, combining expertise in acoustics, engineering and environmental measurement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://acousticalsociety.org/wp-content/uploads/2018/02/v5n3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acousticalsociety.org">[Acoustical Society of America+2legendsofamerica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acousticalsociety.org</span><span class="citation-popover-snippet">Acoustical Society of AmericaThe mystery of the Taos hum16 Apr 2017 — In 1993, they got the attention of the New Mexico congressional del...</span></span></span>
+Public attention eventually prompted New Mexico's congressional delegation to request a formal investigation in 1993. The study brought together specialists from the University of New Mexico, Los Alamos National Laboratory, Sandia National Laboratories and Phillips Air Force Laboratory, combining expertise in acoustics, engineering and environmental measurement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://acousticalsociety.org/wp-content/uploads/2018/02/v5n3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acousticalsociety.org">[Acoustical Society of America+2legendsofamerica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acousticalsociety.org</span><span class="citation-popover-snippet">Acoustical Society of AmericaThe mystery of the Taos hum16 Apr 2017 — In 1993, they got the attention of the New Mexico congressional del...</span></span></span>
 
 Rather than beginning with extraordinary explanations, investigators first examined ordinary environmental possibilities. They searched for:
 
@@ -314,9 +314,9 @@ Rather than beginning with extraordinary explanations, investigators first exami
 
 </div>
 
-Researchers also interviewed hearers extensively, looking for common characteristics that might distinguish them from other residents. The survey examined age, hearing history, descriptions of the sound and where it was perceived. Acoustical Society of America+2icben.ethz.ch <span class="citation-link-wrap"><a class="citation-inline-link" href="https://acousticalsociety.org/wp-content/uploads/2018/02/v5n3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acousticalsociety.org">[acousticalsociety.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acousticalsociety.org</span><span class="citation-popover-snippet">Acoustical Society of AmericaThe mystery of the Taos hum16 Apr 2017 — In 1993, they got the attention of the New Mexico congressional del...</span></span></span>
+Researchers also interviewed hearers extensively, looking for common characteristics that might distinguish them from other residents. The survey examined age, hearing history, descriptions of the sound and where it was perceived. Acoustical Society of America+2icben.ethz.ch<span class="citation-link-wrap"><a class="citation-inline-link" href="https://acousticalsociety.org/wp-content/uploads/2018/02/v5n3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acousticalsociety.org">[acousticalsociety.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acousticalsociety.org</span><span class="citation-popover-snippet">Acoustical Society of AmericaThe mystery of the Taos hum16 Apr 2017 — In 1993, they got the attention of the New Mexico congressional del...</span></span></span>
 
-Despite extensive field measurements, investigators failed to identify any single sound that matched the reports. Microphones and other instruments did not consistently detect an environmental signal corresponding to what witnesses described. Equally important, different hearers often described somewhat different frequencies and sensations, making it difficult to define exactly what the investigation should be measuring. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://acousticalsociety.org/wp-content/uploads/2018/02/v5n3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acousticalsociety.org">[Acoustical Society of America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acousticalsociety.org</span><span class="citation-popover-snippet">Acoustical Society of AmericaThe mystery of the Taos hum16 Apr 2017 — In 1993, they got the attention of the New Mexico congressional del...</span></span></span>
+Despite extensive field measurements, investigators failed to identify any single sound that matched the reports. Microphones and other instruments did not consistently detect an environmental signal corresponding to what witnesses described. Equally important, different hearers often described somewhat different frequencies and sensations, making it difficult to define exactly what the investigation should be measuring.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://acousticalsociety.org/wp-content/uploads/2018/02/v5n3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acousticalsociety.org">[Acoustical Society of America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acousticalsociety.org</span><span class="citation-popover-snippet">Acoustical Society of AmericaThe mystery of the Taos hum16 Apr 2017 — In 1993, they got the attention of the New Mexico congressional del...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_unexplained_hum_repo_c3e069_taos_hum_unresolved_b0ef0b-Illustration-2-dark.svg" | relative_url }}" alt="Taos Hum illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_unexplained_hum_repo_c3e069_taos_hum_unresolved_b0ef0b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_unexplained_hum_repo_c3e069_taos_hum_unresolved_b0ef0b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -326,13 +326,13 @@ The Taos investigation is often misunderstood as having "failed" because scienti
 
 Several factors contributed to this impasse.
 
-**The reports were internally consistent but externally difficult to verify.** Witnesses often agreed about the Hum's persistence and annoyance, yet differed in its precise pitch, loudness and location. That suggested either multiple contributing causes or individual differences in perception rather than one easily measurable noise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://icben.ethz.ch/2008/PDFs/Cowan.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icben.ethz.ch">[icben.ethz.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icben.ethz.ch</span><span class="citation-popover-title">The author of this paper was the lead</span><span class="citation-popover-snippet">The results of hum studies in the United Statesby JP Cowan · Cited by 4 — The two largest funded hum studies in the United States were in...</span></span></span>
+**The reports were internally consistent but externally difficult to verify.** Witnesses often agreed about the Hum's persistence and annoyance, yet differed in its precise pitch, loudness and location. That suggested either multiple contributing causes or individual differences in perception rather than one easily measurable noise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://icben.ethz.ch/2008/PDFs/Cowan.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icben.ethz.ch">[icben.ethz.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icben.ethz.ch</span><span class="citation-popover-title">The author of this paper was the lead</span><span class="citation-popover-snippet">The results of hum studies in the United Statesby JP Cowan · Cited by 4 — The two largest funded hum studies in the United States were in...</span></span></span>
 
-**No instrument consistently detected the reported sound.** Environmental monitoring failed to reveal a persistent low-frequency signal that matched the witnesses' experiences. Without a reproducible physical measurement, investigators could not confidently identify a source or test proposed mechanisms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://acousticalsociety.org/wp-content/uploads/2018/02/v5n3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acousticalsociety.org">[Acoustical Society of America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acousticalsociety.org</span><span class="citation-popover-snippet">Acoustical Society of AmericaThe mystery of the Taos hum16 Apr 2017 — In 1993, they got the attention of the New Mexico congressional del...</span></span></span>
+**No instrument consistently detected the reported sound.** Environmental monitoring failed to reveal a persistent low-frequency signal that matched the witnesses' experiences. Without a reproducible physical measurement, investigators could not confidently identify a source or test proposed mechanisms.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://acousticalsociety.org/wp-content/uploads/2018/02/v5n3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acousticalsociety.org">[Acoustical Society of America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acousticalsociety.org</span><span class="citation-popover-snippet">Acoustical Society of AmericaThe mystery of the Taos hum16 Apr 2017 — In 1993, they got the attention of the New Mexico congressional del...</span></span></span>
 
-**Human hearing itself became part of the investigation.** Researchers considered whether unusually sensitive hearing, low-frequency tinnitus, otoacoustic emissions (sounds generated within the inner ear) or interactions between subtle environmental sounds and individual hearing could explain why only certain people were affected. None of these possibilities fully accounted for every report, but neither could they be ruled out. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span>
+**Human hearing itself became part of the investigation.** Researchers considered whether unusually sensitive hearing, low-frequency tinnitus, otoacoustic emissions (sounds generated within the inner ear) or interactions between subtle environmental sounds and individual hearing could explain why only certain people were affected. None of these possibilities fully accounted for every report, but neither could they be ruled out.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span>
 
-**Ordinary sources remained plausible without being demonstrable.** Low-frequency environmental noise can travel long distances, interact with buildings and produce standing-wave effects that make localisation extremely difficult. Even if an ordinary source existed, proving that it matched every report proved impossible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://icben.ethz.ch/2008/PDFs/Cowan.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icben.ethz.ch">[icben.ethz.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icben.ethz.ch</span><span class="citation-popover-title">The author of this paper was the lead</span><span class="citation-popover-snippet">The results of hum studies in the United Statesby JP Cowan · Cited by 4 — The two largest funded hum studies in the United States were in...</span></span></span>
+**Ordinary sources remained plausible without being demonstrable.** Low-frequency environmental noise can travel long distances, interact with buildings and produce standing-wave effects that make localisation extremely difficult. Even if an ordinary source existed, proving that it matched every report proved impossible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://icben.ethz.ch/2008/PDFs/Cowan.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icben.ethz.ch">[icben.ethz.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icben.ethz.ch</span><span class="citation-popover-title">The author of this paper was the lead</span><span class="citation-popover-snippet">The results of hum studies in the United Statesby JP Cowan · Cited by 4 — The two largest funded hum studies in the United States were in...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eyIuD3yD3No" title="Mystery of The Taos Hum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eyIuD3yD3No" target="_blank" rel="noopener noreferrer">Mystery of The Taos Hum</a></p><p class="youtube-embed-meta">Channel: Arihant Online Academy</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eyIuD3yD3No" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eyIuD3yD3No">Open on YouTube</a></p></div></div></div>
@@ -344,202 +344,202 @@ Several factors contributed to this impasse.
 
 The importance of the Taos Hum lies less in the mystery itself than in how investigators handled it. The case demonstrated that unusual reports can receive serious scientific attention without leading either to confirmation or outright [dismissal]({{ 'dismissal/' | relative_url }}).
 
-For Fortean researchers, Taos became a model because it resisted the two simplest narratives. Investigators did not uncover evidence for secret military technology, exotic geophysical phenomena or paranormal forces. At the same time, they also did not conclude that witnesses had fabricated their experiences. Instead, the official outcome was essentially one of uncertainty: genuine reports existed, careful measurements were made, but the available evidence did not support a single shared explanation. Acoustical Society of America+2icben.ethz.ch <span class="citation-link-wrap"><a class="citation-inline-link" href="https://acousticalsociety.org/wp-content/uploads/2018/02/v5n3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acousticalsociety.org">[acousticalsociety.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acousticalsociety.org</span><span class="citation-popover-snippet">Acoustical Society of AmericaThe mystery of the Taos hum16 Apr 2017 — In 1993, they got the attention of the New Mexico congressional del...</span></span></span>
+For Fortean researchers, Taos became a model because it resisted the two simplest narratives. Investigators did not uncover evidence for secret military technology, exotic geophysical phenomena or paranormal forces. At the same time, they also did not conclude that witnesses had fabricated their experiences. Instead, the official outcome was essentially one of uncertainty: genuine reports existed, careful measurements were made, but the available evidence did not support a single shared explanation. Acoustical Society of America+2icben.ethz.ch<span class="citation-link-wrap"><a class="citation-inline-link" href="https://acousticalsociety.org/wp-content/uploads/2018/02/v5n3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acousticalsociety.org">[acousticalsociety.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acousticalsociety.org</span><span class="citation-popover-snippet">Acoustical Society of AmericaThe mystery of the Taos hum16 Apr 2017 — In 1993, they got the attention of the New Mexico congressional del...</span></span></span>
 
-This distinction shaped later investigations of other hum reports. Rather than assuming every case has one universal cause, researchers increasingly recognised that "the Hum" may describe several different phenomena that produce similar experiences, including environmental low-frequency noise, individual auditory physiology and psychological responses to persistent, difficult-to-locate sounds. The Taos case therefore remains influential not because it solved the mystery, but because it illustrated how a well-documented anomaly can persist when credible testimony and physical evidence refuse to align. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://icben.ethz.ch/2008/PDFs/Cowan.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icben.ethz.ch">[icben.ethz.ch+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icben.ethz.ch</span><span class="citation-popover-title">The author of this paper was the lead</span><span class="citation-popover-snippet">The results of hum studies in the United Statesby JP Cowan · Cited by 4 — The two largest funded hum studies in the United States were in...</span></span></span>
+This distinction shaped later investigations of other hum reports. Rather than assuming every case has one universal cause, researchers increasingly recognised that "the Hum" may describe several different phenomena that produce similar experiences, including environmental low-frequency noise, individual auditory physiology and psychological responses to persistent, difficult-to-locate sounds. The Taos case therefore remains influential not because it solved the mystery, but because it illustrated how a well-documented anomaly can persist when credible testimony and physical evidence refuse to align.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://icben.ethz.ch/2008/PDFs/Cowan.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icben.ethz.ch">[icben.ethz.ch+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icben.ethz.ch</span><span class="citation-popover-title">The author of this paper was the lead</span><span class="citation-popover-snippet">The results of hum studies in the United Statesby JP Cowan · Cited by 4 — The two largest funded hum studies in the United States were in...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_unexplained_hum_repo_c3e069_taos_hum_unresolved_b0ef0b-Illustration-3-dark.svg" | relative_url }}" alt="Taos Hum illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_unexplained_hum_repo_c3e069_taos_hum_unresolved_b0ef0b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_unexplained_hum_repo_c3e069_taos_hum_unresolved_b0ef0b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Did the Taos Hum Stay Unsolved?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Did the Taos Hum Stay Unsolved?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Helps explain perception and belief around unexplained sounds.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain perception and belief around unexplained sounds.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unexplained+Phenomena+by+Roy+Bainton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Book of Unexplained Phenomena on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YHCeBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mammoth Book of Unexplained Phenomena" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unexplained+Phenomena+by+Roy+Bainton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of Unexplained Phenomena">The Mammoth Book of Unexplained Phenomena</a>
-        </h4>
-        <p class="fr-book-author">By Roy Bainton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unexplained+Phenomena+by+Roy+Bainton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Book of Unexplained Phenomena on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YHCeBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mammoth Book of Unexplained Phenomena" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unexplained+Phenomena+by+Roy+Bainton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of Unexplained Phenomena">The Mammoth Book of Unexplained Phenomena</a>
+</h4>
+<p class="fr-book-author">By Roy Bainton</p>
         
-        <p class="fr-book-desc">Provides comparable unexplained case studies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unexplained+Phenomena+by+Roy+Bainton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides comparable unexplained case studies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unexplained+Phenomena+by+Roy+Bainton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Hum%3A+A+History+of+the+Mysterious+Sounds+Heard+Around+the+World+David+Deming&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hum: A History of the Mysterious Sounds Heard Around the World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hum%3A+A+History+of+the+Mysterious+Sounds+Heard+Around+the+World+David+Deming&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hum: A History of the Mysterious Sounds Heard Around the World">The Hum: A History of the Mysterious Sounds Heard Around the...</a>
-        </h4>
-        <p class="fr-book-author">By David Deming</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Hum%3A+A+History+of+the+Mysterious+Sounds+Heard+Around+the+World+David+Deming&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hum: A History of the Mysterious Sounds Heard Around the World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hum%3A+A+History+of+the+Mysterious+Sounds+Heard+Around+the+World+David+Deming&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hum: A History of the Mysterious Sounds Heard Around the World">The Hum: A History of the Mysterious Sounds Heard Around the...</a>
+</h4>
+<p class="fr-book-author">By David Deming</p>
         
-        <p class="fr-book-desc">Discusses the Taos Hum as a defining case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hum%3A+A+History+of+the+Mysterious+Sounds+Heard+Around+the+World+David+Deming&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses the Taos Hum as a defining case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hum%3A+A+History+of+the+Mysterious+Sounds+Heard+Around+the+World+David+Deming&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Unexplained%3A+An+Illustrated+Guide+to+the+World%27s+Natural+and+Paranormal+Mysteries+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Unexplained: An Illustrated Guide to the World&#x27;s Natural and Paranormal Mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Unexplained%3A+An+Illustrated+Guide+to+the+World%27s+Natural+and+Paranormal+Mysteries+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Unexplained: An Illustrated Guide to the World&#x27;s Natural and Paranormal Mysteries">The Unexplained: An Illustrated Guide to the World&#x27;s Natural...</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Unexplained%3A+An+Illustrated+Guide+to+the+World%27s+Natural+and+Paranormal+Mysteries+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Unexplained: An Illustrated Guide to the World&#x27;s Natural and Paranormal Mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Unexplained%3A+An+Illustrated+Guide+to+the+World%27s+Natural+and+Paranormal+Mysteries+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Unexplained: An Illustrated Guide to the World&#x27;s Natural and Paranormal Mysteries">The Unexplained: An Illustrated Guide to the World&#x27;s Natural...</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Provides wider context for unresolved anomalies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Unexplained%3A+An+Illustrated+Guide+to+the+World%27s+Natural+and+Paranormal+Mysteries+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides wider context for unresolved anomalies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Unexplained%3A+An+Illustrated+Guide+to+the+World%27s+Natural+and+Paranormal+Mysteries+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unexplained+Phenomena&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mammoth Book of Unexplained Phenomena</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hum%3A+A+History+of+the+Mysterious+Sounds+Heard+Around+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hum: A History of the Mysterious Sounds Heard Around the World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unexplained+Phenomena&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mammoth Book of Unexplained Phenomena</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hum%3A+A+History+of+the+Mysterious+Sounds+Heard+Around+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hum: A History of the Mysterious Sounds Heard Around the World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag"><img src="{{ '/assets/images/marketplace-covers/423dfe011ecd80a392ff.jpg' | relative_url }}" alt="Listing image for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag"><img src="{{ '/assets/images/marketplace-covers/423dfe011ecd80a392ff.jpg' | relative_url }}" alt="Listing image for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="taos-hum-why-did-the-taos-hum-stay-unsolved-forteana-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -555,7 +555,7 @@ This distinction shaped later investigations of other hum reports. Rather than a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -575,7 +575,7 @@ This distinction shaped later investigations of other hum reports. Rather than a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -607,7 +607,7 @@ This distinction shaped later investigations of other hum reports. Rather than a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -659,7 +659,7 @@ This distinction shaped later investigations of other hum reports. Rather than a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -704,7 +704,7 @@ This distinction shaped later investigations of other hum reports. Rather than a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -745,123 +745,123 @@ This distinction shaped later investigations of other hum reports. Rather than a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: icben.ethz.ch  
    Title: The author of this paper was the lead  
-   Link: <a href="https://icben.ethz.ch/2008/PDFs/Cowan.pdf" target="_blank" rel="noopener noreferrer nofollow">https://icben.ethz.ch/2008/PDFs/Cowan.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The results of hum studies in the United Statesby JP Cowan · Cited by 4 — The two largest funded hum studies in the United States were in...</p></details>
+   Link:<a href="https://icben.ethz.ch/2008/PDFs/Cowan.pdf" target="_blank" rel="noopener noreferrer nofollow">https://icben.ethz.ch/2008/PDFs/Cowan.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The results of hum studies in the United Statesby JP Cowan · Cited by 4 — The two largest funded hum studies in the United States were in...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: thrillist.com  
    Title: taos hum mystery  
-   Link: <a href="https://www.thrillist.com/travel/nation/taos-hum-mystery" target="_blank" rel="noopener noreferrer nofollow">https://www.thrillist.com/travel/nation/taos-hum-mystery</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the Mystery of the Taos Hum29 Jun 2023 — Since the early 1990s, a mysterious humming sound has been plaguing the residents...</p></details>
+   Link:<a href="https://www.thrillist.com/travel/nation/taos-hum-mystery" target="_blank" rel="noopener noreferrer nofollow">https://www.thrillist.com/travel/nation/taos-hum-mystery</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the Mystery of the Taos Hum29 Jun 2023 — Since the early 1990s, a mysterious humming sound has been plaguing the residents...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: legendsofamerica.com  
-   Link: <a href="https://www.legendsofamerica.com/nm-taoshum/" target="_blank" rel="noopener noreferrer nofollow">https://www.legendsofamerica.com/nm-taoshum/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mountain Song of Taos, New Mexico – or, The Taos HumSome of the facilities involved in the investigation included the University of N...</p></details>
+   Link:<a href="https://www.legendsofamerica.com/nm-taoshum/" target="_blank" rel="noopener noreferrer nofollow">https://www.legendsofamerica.com/nm-taoshum/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Mountain Song of Taos, New Mexico – or, The Taos HumSome of the facilities involved in the investigation included the University of N...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: The Hum  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Hum</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Hum</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: taos.org  
    Title: , New Mexico  
-   Link: <a href="https://taos.org/" target="_blank" rel="noopener noreferrer nofollow">https://taos.org/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Taos, New Mexico - Visit Taos and Discover New MexicoEnjoy Taos&#x27; many art galleries, museums, world-class music scene and thriving local...</p></details>
+   Link:<a href="https://taos.org/" target="_blank" rel="noopener noreferrer nofollow">https://taos.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taos, New Mexico - Visit Taos and Discover New MexicoEnjoy Taos&#x27; many art galleries, museums, world-class music scene and thriving local...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Taos, New Mexico  
-   Link: <a href="https://en.wikipedia.org/wiki/Taos%2C_New_Mexico" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Taos%2C_New_Mexico</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Taos, New MexicoTaos (/taʊs/) is a town in Taos County, in the north-central region of New Mexico. Situated between the Rio Grande Gor...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Taos%2C_New_Mexico" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Taos%2C_New_Mexico</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taos, New MexicoTaos (/taʊs/) is a town in Taos County, in the north-central region of New Mexico. Situated between the Rio Grande Gor...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Mystery of The Taos Hum  
-   Link: <a href="https://www.youtube.com/watch?v=eyIuD3yD3No" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eyIuD3yD3No</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Taos Hum | The Dark Record | Ep. 36...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=eyIuD3yD3No" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eyIuD3yD3No</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Taos Hum | The Dark Record | Ep. 36...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: The Taos Hum | The Dark Record | Ep. 36  
-   Link: <a href="https://www.youtube.com/watch?v=6WwjFHaMX68" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6WwjFHaMX68</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mystery of the Taos Hum: Unexplained Low-Frequency Phenomenon...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6WwjFHaMX68" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6WwjFHaMX68</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Mystery of the Taos Hum: Unexplained Low-Frequency Phenomenon...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: acousticalsociety.org  
-   Link: <a href="https://acousticalsociety.org/wp-content/uploads/2018/02/v5n3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://acousticalsociety.org/wp-content/uploads/2018/02/v5n3.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Acoustical Society of AmericaThe mystery of the Taos hum16 Apr 2017 — In 1993, they got the attention of the New Mexico congressional del...</p></details>
+   Link:<a href="https://acousticalsociety.org/wp-content/uploads/2018/02/v5n3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://acousticalsociety.org/wp-content/uploads/2018/02/v5n3.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Acoustical Society of AmericaThe mystery of the Taos hum16 Apr 2017 — In 1993, they got the attention of the New Mexico congressional del...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: latimes.com  
    Title: la xpm 1993 07 18 me 14295 story  
-   Link: <a href="https://www.latimes.com/archives/la-xpm-1993-07-18-me-14295-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/archives/la-xpm-1993-07-18-me-14295-story.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Grams hears it: a constant, irritating hum that deprives her of sleep and depletes her energy. Steven Walters hears it: a low...</p></details>
+   Link:<a href="https://www.latimes.com/archives/la-xpm-1993-07-18-me-14295-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/archives/la-xpm-1993-07-18-me-14295-story.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Grams hears it: a constant, irritating hum that deprives her of sleep and depletes her energy. Steven Walters hears it: a low...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: vw.com  
-   Link: <a href="https://www.vw.com/en/models/taos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.vw.com/en/models/taos.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2026 VW Taos: Our 5-seat Compact SUVConquer the road with the 2026 Volkswagen Taos, our small SUV that&#x27;s powerful, comfortable, and anyth...</p></details>
+   Link:<a href="https://www.vw.com/en/models/taos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.vw.com/en/models/taos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2026 VW Taos: Our 5-seat Compact SUVConquer the road with the 2026 Volkswagen Taos, our small SUV that&#x27;s powerful, comfortable, and anyth...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: iflscience.com  
-   Link: <a href="https://www.iflscience.com/the-taos-hum-had-residents-in-new-mexico-convinced-they-could-hear-something-69672" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/the-taos-hum-had-residents-in-new-mexico-convinced-they-could-hear-something-69672</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Taos Hum Had Residents In New Mexico Convinced...5 Jul 2023 — Residents began reporting an unsettling noise that nobody could quite...</p></details>
+   Link:<a href="https://www.iflscience.com/the-taos-hum-had-residents-in-new-mexico-convinced-they-could-hear-something-69672" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/the-taos-hum-had-residents-in-new-mexico-convinced-they-could-hear-something-69672</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Taos Hum Had Residents In New Mexico Convinced...5 Jul 2023 — Residents began reporting an unsettling noise that nobody could quite...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sciencing.com  
    Title: unusual humming noise new mexico baffles scientists  
-   Link: <a href="https://www.sciencing.com/1837369/unusual-humming-noise-new-mexico-baffles-scientists/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencing.com/1837369/unusual-humming-noise-new-mexico-baffles-scientists/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why The Taos Hum Continues To Baffle ScientistsApr 24, 2025 — The phenomenon first gained media attention in 1993 when the New Mexico con...</p></details>
+   Link:<a href="https://www.sciencing.com/1837369/unusual-humming-noise-new-mexico-baffles-scientists/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencing.com/1837369/unusual-humming-noise-new-mexico-baffles-scientists/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why The Taos Hum Continues To Baffle ScientistsApr 24, 2025 — The phenomenon first gained media attention in 1993 when the New Mexico con...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: discoveryuk.com  
    Title: Unlike other natural and man-made noises, this odd  
-   Link: <a href="https://www.discoveryuk.com/mysteries/the-taos-hum-new-mexicos-unexplained-acoustic-phenomenon/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/the-taos-hum-new-mexicos-unexplained-acoustic-phenomenon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Taos Hum: New Mexico&#x27;s Unexplained Acoustic...14 Dec 2023 — In the early 1990s, a group of Taos residents reported hearing an incess...</p></details>
+   Link:<a href="https://www.discoveryuk.com/mysteries/the-taos-hum-new-mexicos-unexplained-acoustic-phenomenon/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/the-taos-hum-new-mexicos-unexplained-acoustic-phenomenon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Taos Hum: New Mexico&#x27;s Unexplained Acoustic...14 Dec 2023 — In the early 1990s, a group of Taos residents reported hearing an incess...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: csmonitor.com  
    Title: Mysterious hum The hunt for a source  
-   Link: <a href="https://www.csmonitor.com/Science/2013/0727/Mysterious-hum-The-hunt-for-a-source" target="_blank" rel="noopener noreferrer nofollow">https://www.csmonitor.com/Science/2013/0727/Mysterious-hum-The-hunt-for-a-source</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious hum: The hunt for a source27 Jul 2013 — In the 1970s, about 800 people in the coastal city reported hearing a steady thrumming...</p></details>
+   Link:<a href="https://www.csmonitor.com/Science/2013/0727/Mysterious-hum-The-hunt-for-a-source" target="_blank" rel="noopener noreferrer nofollow">https://www.csmonitor.com/Science/2013/0727/Mysterious-hum-The-hunt-for-a-source</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious hum: The hunt for a source27 Jul 2013 — In the 1970s, about 800 people in the coastal city reported hearing a steady thrumming...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: qsl.net  
-   Link: <a href="https://www.qsl.net/w5www/taoshum.html" target="_blank" rel="noopener noreferrer nofollow">https://www.qsl.net/w5www/taoshum.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Taos HumAccording to the August 23, 1993 &quot; Taos Hum Investigation: Informal Report&quot;, most hearers initially experienced the hum with...</p></details>
+   Link:<a href="https://www.qsl.net/w5www/taoshum.html" target="_blank" rel="noopener noreferrer nofollow">https://www.qsl.net/w5www/taoshum.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Taos HumAccording to the August 23, 1993 &quot; Taos Hum Investigation: Informal Report&quot;, most hearers initially experienced the hum with...</p></details>
    Published: August 23, 1993  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: victoriagunn.com  
    Title: wonders of taos the taos hum  
-   Link: <a href="https://victoriagunn.com/blog/wonders-of-taos-the-taos-hum" target="_blank" rel="noopener noreferrer nofollow">https://victoriagunn.com/blog/wonders-of-taos-the-taos-hum</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taos Hum Mystery in Taos, NM | Wonders of TaosIn 1993, a team of scientists from Los Alamos National Laboratory, the University of New Me...</p></details>
+   Link:<a href="https://victoriagunn.com/blog/wonders-of-taos-the-taos-hum" target="_blank" rel="noopener noreferrer nofollow">https://victoriagunn.com/blog/wonders-of-taos-the-taos-hum</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taos Hum Mystery in Taos, NM | Wonders of TaosIn 1993, a team of scientists from Los Alamos National Laboratory, the University of New Me...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
    Title: What makes it so strange is  
-   Link: <a href="https://www.facebook.com/100080640641387/posts/the-low-frequency-sound-thousands-of-people-claim-to-hear-in-new-mexicosince-the/880512534646760/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100080640641387/posts/the-low-frequency-sound-thousands-of-people-claim-to-hear-in-new-mexicosince-the/880512534646760/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Low-Frequency Sound Thousands of People Claim...5 Dec 2025 — The &quot;Taos Hum&quot; is a mysterious low-frequency sound reported by resident...</p></details>
+   Link:<a href="https://www.facebook.com/100080640641387/posts/the-low-frequency-sound-thousands-of-people-claim-to-hear-in-new-mexicosince-the/880512534646760/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100080640641387/posts/the-low-frequency-sound-thousands-of-people-claim-to-hear-in-new-mexicosince-the/880512534646760/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Low-Frequency Sound Thousands of People Claim...5 Dec 2025 — The &quot;Taos Hum&quot; is a mysterious low-frequency sound reported by resident...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: washingtonpost.com  
-   Link: <a href="https://www.washingtonpost.com/archive/opinions/1993/07/03/whats-that-hum/9047e3cf-388a-400e-a100-373e21b0d328/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/archive/opinions/1993/07/03/whats-that-hum/9047e3cf-388a-400e-a100-373e21b0d328/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Opinion | WHAT&#x27;S THAT HUM?2 Jul 1993 — How much did the investigation by two Department of Energy laboratories -- the Air Force and the U...</p></details>
+   Link:<a href="https://www.washingtonpost.com/archive/opinions/1993/07/03/whats-that-hum/9047e3cf-388a-400e-a100-373e21b0d328/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/archive/opinions/1993/07/03/whats-that-hum/9047e3cf-388a-400e-a100-373e21b0d328/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Opinion | WHAT&#x27;S THAT HUM?2 Jul 1993 — How much did the investigation by two Department of Energy laboratories -- the Air Force and the U...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ftUO9cGkTEY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ftUO9cGkTEY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Taos Hum: Unraveling New Mexico&#x27;s Mysterious Sound...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ftUO9cGkTEY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ftUO9cGkTEY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Taos Hum: Unraveling New Mexico&#x27;s Mysterious Sound...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: The Mystery of the Taos Hum: Unexplained Low-Frequency Phenomenon  
-   Link: <a href="https://www.youtube.com/watch?v=R2vls-LjDYQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=R2vls-LjDYQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Taos Hum Mystery | Why Only Some People Hear This Unexplained Sound in New Mexico...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=R2vls-LjDYQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=R2vls-LjDYQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Taos Hum Mystery | Why Only Some People Hear This Unexplained Sound in New Mexico...</p></details>

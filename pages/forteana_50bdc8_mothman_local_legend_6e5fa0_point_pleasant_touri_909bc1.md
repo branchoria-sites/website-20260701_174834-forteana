@@ -274,7 +274,7 @@ image: /assets/images/forteana_50bdc8_mothman_local_legend_6e5fa0_point_pleasant
 
 ## Introduction
 
-Point Pleasant, West Virginia, has done something unusual with the Mothman legend: rather than trying to distance itself from a disputed paranormal story, it has embraced it as part of the town's identity. Today, Mothman functions as a cultural mascot, tourism brand and community symbol at the same time. Visitors arrive not because the mystery has been solved, but because it remains unresolved. The town has built attractions around that uncertainty while generally presenting the legend with humour, local pride and historical context rather than insisting that visitors accept a supernatural explanation. This transformation has made Point Pleasant one of the best-known "cryptid towns" in the United States and illustrates how Fortean [folklore]({{ 'folklore/' | relative_url }}) can become a durable form of place-making and heritage tourism. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklife.si.edu">[Smithsonian Folklife Center+2JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklife.si.edu</span><span class="citation-popover-title">Its eyes are glowing red</span><span class="citation-popover-snippet">Smithsonian Folklife CenterAn Ode to a Hometown Creature: Mothman of Point Pleasant...Jun 6, 2021 — A large mothlike figure, flying abov...</span></span></span>
+Point Pleasant, West Virginia, has done something unusual with the Mothman legend: rather than trying to distance itself from a disputed paranormal story, it has embraced it as part of the town's identity. Today, Mothman functions as a cultural mascot, tourism brand and community symbol at the same time. Visitors arrive not because the mystery has been solved, but because it remains unresolved. The town has built attractions around that uncertainty while generally presenting the legend with humour, local pride and historical context rather than insisting that visitors accept a supernatural explanation. This transformation has made Point Pleasant one of the best-known "cryptid towns" in the United States and illustrates how Fortean [folklore]({{ 'folklore/' | relative_url }}) can become a durable form of place-making and heritage tourism.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklife.si.edu">[Smithsonian Folklife Center+2JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklife.si.edu</span><span class="citation-popover-title">Its eyes are glowing red</span><span class="citation-popover-snippet">Smithsonian Folklife CenterAn Ode to a Hometown Creature: Mothman of Point Pleasant...Jun 6, 2021 — A large mothlike figure, flying abov...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_mothman_local_legend_6e5fa0_point_pleasant_touri_909bc1-Illustration-1-dark.svg" | relative_url }}" alt="Tourism illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_mothman_local_legend_6e5fa0_point_pleasant_touri_909bc1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_mothman_local_legend_6e5fa0_point_pleasant_touri_909bc1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,20 +282,20 @@ Point Pleasant, West Virginia, has done something unusual with the Mothman legen
 
 The most recognisable symbol of modern Mothman tourism is the polished stainless-steel statue that stands on Main Street in Point Pleasant. Unveiled in 2003 and created by artist Bob Roach, the sculpture deliberately presents an athletic, comic-book-inspired version of the creature rather than attempting to reproduce the inconsistent descriptions given by witnesses in 1966. Its exaggerated wings, glowing eyes and muscular form have become the image most visitors associate with Mothman, even though it differs markedly from many original sighting reports.
 
-The statue performs an important cultural function. It provides a friendly and photographable icon that allows families, paranormal enthusiasts and curious travellers to participate in the legend without requiring belief in it. For many visitors, posing with the statue has become a ritual comparable to photographing famous roadside attractions elsewhere in America. The legend is therefore encountered first as public art and civic branding before it is encountered as an unsolved mystery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklife.si.edu">[Smithsonian Folklife Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklife.si.edu</span><span class="citation-popover-title">Its eyes are glowing red</span><span class="citation-popover-snippet">Smithsonian Folklife CenterAn Ode to a Hometown Creature: Mothman of Point Pleasant...Jun 6, 2021 — A large mothlike figure, flying abov...</span></span></span>
+The statue performs an important cultural function. It provides a friendly and photographable icon that allows families, paranormal enthusiasts and curious travellers to participate in the legend without requiring belief in it. For many visitors, posing with the statue has become a ritual comparable to photographing famous roadside attractions elsewhere in America. The legend is therefore encountered first as public art and civic branding before it is encountered as an unsolved mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklife.si.edu">[Smithsonian Folklife Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklife.si.edu</span><span class="citation-popover-title">Its eyes are glowing red</span><span class="citation-popover-snippet">Smithsonian Folklife CenterAn Ode to a Hometown Creature: Mothman of Point Pleasant...Jun 6, 2021 — A large mothlike figure, flying abov...</span></span></span>
 
-Nearby, the Mothman Museum reinforces this public image by presenting eyewitness accounts, newspaper coverage, memorabilia and artefacts connected with both the sightings and later popular culture. Rather than functioning as a conventional natural history museum, it occupies a space between local history, folklore and paranormal interpretation. Visitors encounter original reporting, displays related to the 1966–67 events, material from *The Mothman Prophecies*, and an extensive retail component that reflects the commercial success of the legend. The museum's continued operation and year-round opening underline that Mothman tourism is no longer limited to annual events but supports regular visitation throughout the year. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mothmanmuseum.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mothmanmuseum.com">[mothmanmuseum.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mothmanmuseum.com</span><span class="citation-popover-snippet">Mothman MuseumStop by and visit our museum and retail shop which is located in the heart of Point Pleasant, WV. We are open 7 days a week...</span></span></span>
+Nearby, the Mothman Museum reinforces this public image by presenting eyewitness accounts, newspaper coverage, memorabilia and artefacts connected with both the sightings and later popular culture. Rather than functioning as a conventional natural history museum, it occupies a space between local history, folklore and paranormal interpretation. Visitors encounter original reporting, displays related to the 1966–67 events, material from *The Mothman Prophecies*, and an extensive retail component that reflects the commercial success of the legend. The museum's continued operation and year-round opening underline that Mothman tourism is no longer limited to annual events but supports regular visitation throughout the year.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mothmanmuseum.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mothmanmuseum.com">[mothmanmuseum.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mothmanmuseum.com</span><span class="citation-popover-snippet">Mothman MuseumStop by and visit our museum and retail shop which is located in the heart of Point Pleasant, WV. We are open 7 days a week...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ua7NdY531Q8" title="World&#x27;s ONLY Mothman Museum! NOW is the Best Time to Visit Point Pleasant&#x27;s Best Attraction!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ua7NdY531Q8" target="_blank" rel="noopener noreferrer">World&#x27;s ONLY Mothman Museum! NOW is the Best Time to Visit Point Pleasant&#x27;s Best Attraction!</a></p><p class="youtube-embed-meta">Channel: Cashew Paul</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ua7NdY531Q8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ua7NdY531Q8">Open on YouTube</a></p></div></div></div>
 
 ## Festivals, tours and the visitor economy
 
-The annual Mothman Festival, first held in 2002, transformed the legend from a niche paranormal interest into one of Point Pleasant's defining public celebrations. Scheduled each September near the anniversary of the original sightings, it combines guest lectures, vendors, costume competitions, live entertainment, food stalls and community events with a distinctly playful atmosphere. Organisers describe it as a celebration of the local legend rather than an attempt to prove its reality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mothmanfestival.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mothmanfestival.com">[MOTHMAN FESTIVAL®]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mothmanfestival.com</span><span class="citation-popover-title">MOTHMAN FESTIVAL®MOTHMAN FESTIVAL®</span><span class="citation-popover-snippet">MOTHMAN FESTIVAL®Mothman Festival is an annual event held every third weekend in September that commemorates the 1966 Point Pleasant, Wes...</span></span></span>
+The annual Mothman Festival, first held in 2002, transformed the legend from a niche paranormal interest into one of Point Pleasant's defining public celebrations. Scheduled each September near the anniversary of the original sightings, it combines guest lectures, vendors, costume competitions, live entertainment, food stalls and community events with a distinctly playful atmosphere. Organisers describe it as a celebration of the local legend rather than an attempt to prove its reality.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mothmanfestival.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mothmanfestival.com">[MOTHMAN FESTIVAL®]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mothmanfestival.com</span><span class="citation-popover-title">MOTHMAN FESTIVAL®MOTHMAN FESTIVAL®</span><span class="citation-popover-snippet">MOTHMAN FESTIVAL®Mothman Festival is an annual event held every third weekend in September that commemorates the 1966 Point Pleasant, Wes...</span></span></span>
 
-Attendance has grown dramatically over the years. Recent festivals have attracted well over 10,000 visitors, with reported attendance exceeding 15,000 in 2023—far larger than the town's permanent population. This seasonal influx fills hotels across the surrounding region, increases restaurant and retail trade and has become one of the area's most important tourism events. Local officials and organisers consistently describe the festival as a significant contributor to the regional economy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mothman_Festival" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2West Virginia Public Broadcasting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mothman Festival</span><span class="citation-popover-snippet">Mothman Festival</span></span></span>
+Attendance has grown dramatically over the years. Recent festivals have attracted well over 10,000 visitors, with reported attendance exceeding 15,000 in 2023—far larger than the town's permanent population. This seasonal influx fills hotels across the surrounding region, increases restaurant and retail trade and has become one of the area's most important tourism events. Local officials and organisers consistently describe the festival as a significant contributor to the regional economy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mothman_Festival" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2West Virginia Public Broadcasting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mothman Festival</span><span class="citation-popover-snippet">Mothman Festival</span></span></span>
 
-The festival also broadens the appeal of the legend beyond paranormal enthusiasts. Visitors include horror fans, folklore researchers, photographers, families, cosplay communities and travellers interested in unusual Americana. Guided visits to the former [TNT area]({{ 'tnt-area/' | relative_url }}), historical talks and local heritage attractions place the cryptid narrative alongside genuine regional history, allowing multiple audiences to engage with Point Pleasant for different reasons. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wvpublic.org/story/arts-culture/mothman-festival-celebrates-w-va-legend-packs-international-paranormal-punch/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wvpublic.org">[West Virginia Public Broadcasting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wvpublic.org</span><span class="citation-popover-title">West Virginia Public Broadcasting Mothman Festival Celebrates W.Va</span><span class="citation-popover-snippet">Legend, Packs...Sep 19, 2024 — Bellamy says the Mothman legend has fueled an economic boom in Point Pleasant, making it the most filmed...</span></span></span>
+The festival also broadens the appeal of the legend beyond paranormal enthusiasts. Visitors include horror fans, folklore researchers, photographers, families, cosplay communities and travellers interested in unusual Americana. Guided visits to the former [TNT area]({{ 'tnt-area/' | relative_url }}), historical talks and local heritage attractions place the cryptid narrative alongside genuine regional history, allowing multiple audiences to engage with Point Pleasant for different reasons.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wvpublic.org/story/arts-culture/mothman-festival-celebrates-w-va-legend-packs-international-paranormal-punch/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wvpublic.org">[West Virginia Public Broadcasting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wvpublic.org</span><span class="citation-popover-title">West Virginia Public Broadcasting Mothman Festival Celebrates W.Va</span><span class="citation-popover-snippet">Legend, Packs...Sep 19, 2024 — Bellamy says the Mothman legend has fueled an economic boom in Point Pleasant, making it the most filmed...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_mothman_local_legend_6e5fa0_point_pleasant_touri_909bc1-Illustration-2-dark.svg" | relative_url }}" alt="Tourism illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_mothman_local_legend_6e5fa0_point_pleasant_touri_909bc1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_mothman_local_legend_6e5fa0_point_pleasant_touri_909bc1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -314,9 +314,9 @@ This strategy has several advantages:
 
 </div>
 
-Because the attractions emphasise [experience]({{ 'experience/' | relative_url }}) rather than proof, disagreement over what witnesses actually saw does little to diminish tourism. Indeed, the continuing uncertainty helps sustain interest by encouraging repeated discussion and reinterpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklife.si.edu">[Smithsonian Folklife Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklife.si.edu</span><span class="citation-popover-title">Its eyes are glowing red</span><span class="citation-popover-snippet">Smithsonian Folklife CenterAn Ode to a Hometown Creature: Mothman of Point Pleasant...Jun 6, 2021 — A large mothlike figure, flying abov...</span></span></span>
+Because the attractions emphasise [experience]({{ 'experience/' | relative_url }}) rather than proof, disagreement over what witnesses actually saw does little to diminish tourism. Indeed, the continuing uncertainty helps sustain interest by encouraging repeated discussion and reinterpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklife.si.edu">[Smithsonian Folklife Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklife.si.edu</span><span class="citation-popover-title">Its eyes are glowing red</span><span class="citation-popover-snippet">Smithsonian Folklife CenterAn Ode to a Hometown Creature: Mothman of Point Pleasant...Jun 6, 2021 — A large mothlike figure, flying abov...</span></span></span>
 
-Commercial branding has expanded accordingly. Mothman appears on shop signs, restaurants, souvenirs, murals, clothing, craft products and seasonal promotions. The creature has become shorthand for Point Pleasant itself, much as other towns identify with historic figures or regional landmarks. This commercial use has gradually detached Mothman from its original role as an ominous figure associated with fear and transformed it into a recognisable civic mascot. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/the-awl/the-mothman-economy-6b0f3925061d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">The Mothman Economy &#124; by The AwlThere was a new stage by the river in Point Pleasant, built mostly for a small summer music festiva...</span></span></span>
+Commercial branding has expanded accordingly. Mothman appears on shop signs, restaurants, souvenirs, murals, clothing, craft products and seasonal promotions. The creature has become shorthand for Point Pleasant itself, much as other towns identify with historic figures or regional landmarks. This commercial use has gradually detached Mothman from its original role as an ominous figure associated with fear and transformed it into a recognisable civic mascot.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/the-awl/the-mothman-economy-6b0f3925061d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">The Mothman Economy &#124; by The AwlThere was a new stage by the river in Point Pleasant, built mostly for a small summer music festiva...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BPYP64n0KHg" title="Mothman Festival 2025 Was So Weird and Fun!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BPYP64n0KHg" target="_blank" rel="noopener noreferrer">Mothman Festival 2025 Was So Weird and Fun!</a></p><p class="youtube-embed-meta">Channel: Hannah Dreaming</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BPYP64n0KHg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BPYP64n0KHg">Open on YouTube</a></p></div></div></div>
@@ -328,204 +328,204 @@ Commercial branding has expanded accordingly. Mothman appears on shop signs, res
 
 Many folklore traditions fade when the original witnesses disappear. Point Pleasant has largely avoided that pattern because the community continually renews the legend through institutions rather than relying solely on oral tradition.
 
-Each generation of visitors encounters the story through visible public landmarks, museum displays, annual festivals and local businesses. Media coverage of these attractions introduces new audiences, while documentaries, books and films encourage further tourism. The result is a self-reinforcing cycle in which tourism supports preservation, and preservation generates more tourism. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Mothman_of_Point_Pleasant" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Mothman of Point Pleasant</span><span class="citation-popover-snippet">The Mothman of Point Pleasant</span></span></span>
+Each generation of visitors encounters the story through visible public landmarks, museum displays, annual festivals and local businesses. Media coverage of these attractions introduces new audiences, while documentaries, books and films encourage further tourism. The result is a self-reinforcing cycle in which tourism supports preservation, and preservation generates more tourism.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Mothman_of_Point_Pleasant" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Mothman of Point Pleasant</span><span class="citation-popover-snippet">The Mothman of Point Pleasant</span></span></span>
 
-Importantly, local promotion has also shifted the emotional tone of Mothman. In the late 1960s the creature was widely portrayed as frightening and, after the Silver [Bridge collapse]({{ 'bridge-collapse/' | relative_url }}), sometimes as a harbinger of disaster. Contemporary Point Pleasant generally presents Mothman with humour, affection and civic pride. Plush toys, humorous artwork and family-friendly events coexist with more serious historical discussion of the original sightings and the bridge tragedy, allowing the town to acknowledge its past without remaining defined by it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklife.si.edu">[Smithsonian Folklife Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklife.si.edu</span><span class="citation-popover-title">Its eyes are glowing red</span><span class="citation-popover-snippet">Smithsonian Folklife CenterAn Ode to a Hometown Creature: Mothman of Point Pleasant...Jun 6, 2021 — A large mothlike figure, flying abov...</span></span></span>
+Importantly, local promotion has also shifted the emotional tone of Mothman. In the late 1960s the creature was widely portrayed as frightening and, after the Silver [Bridge collapse]({{ 'bridge-collapse/' | relative_url }}), sometimes as a harbinger of disaster. Contemporary Point Pleasant generally presents Mothman with humour, affection and civic pride. Plush toys, humorous artwork and family-friendly events coexist with more serious historical discussion of the original sightings and the bridge tragedy, allowing the town to acknowledge its past without remaining defined by it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklife.si.edu">[Smithsonian Folklife Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklife.si.edu</span><span class="citation-popover-title">Its eyes are glowing red</span><span class="citation-popover-snippet">Smithsonian Folklife CenterAn Ode to a Hometown Creature: Mothman of Point Pleasant...Jun 6, 2021 — A large mothlike figure, flying abov...</span></span></span>
 
-For students of [Forteana]({{ 'forteana/' | relative_url }}), this evolution is almost as significant as the original reports. The enduring importance of Mothman lies not only in eyewitness testimony but also in the way a community transformed an unresolved anomaly into a lasting element of local identity. Whether visitors believe in an unknown creature, favour conventional explanations or simply enjoy unusual folklore, Point Pleasant demonstrates that the social life of a legend can become more enduring than the event that inspired it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/26233743" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">Point Pleasant, West virginiaby RJ KRUSE · 2015 · Cited by 11 — In addition to promoting heritage tourism, Point Pleasant markets it...</span></span></span>
+For students of [Forteana]({{ 'forteana/' | relative_url }}), this evolution is almost as significant as the original reports. The enduring importance of Mothman lies not only in eyewitness testimony but also in the way a community transformed an unresolved anomaly into a lasting element of local identity. Whether visitors believe in an unknown creature, favour conventional explanations or simply enjoy unusual folklore, Point Pleasant demonstrates that the social life of a legend can become more enduring than the event that inspired it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/26233743" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">Point Pleasant, West virginiaby RJ KRUSE · 2015 · Cited by 11 — In addition to promoting heritage tourism, Point Pleasant markets it...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_mothman_local_legend_6e5fa0_point_pleasant_touri_909bc1-Illustration-3-dark.svg" | relative_url }}" alt="Tourism illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_mothman_local_legend_6e5fa0_point_pleasant_touri_909bc1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_mothman_local_legend_6e5fa0_point_pleasant_touri_909bc1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Point Pleasant Made Mothman a Mascot. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Point Pleasant Made Mothman a Mascot. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mothman+prophecies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mothman prophecies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/15088088-M.jpg" alt="Cover for The Mothman prophecies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mothman+prophecies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mothman prophecies">The Mothman prophecies</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mothman+prophecies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mothman prophecies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/15088088-M.jpg" alt="Cover for The Mothman prophecies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mothman+prophecies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mothman prophecies">The Mothman prophecies</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Provides the original narrative behind the tourist destination.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mothman+prophecies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the original narrative behind the tourist destination.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mothman+prophecies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mothman+Jeff+Wamsley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mothman on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1719986-M.jpg" alt="Cover for Mothman" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mothman+Jeff+Wamsley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mothman">Mothman</a>
-        </h4>
-        <p class="fr-book-author">By Jeff Wamsley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mothman+Jeff+Wamsley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mothman on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1719986-M.jpg" alt="Cover for Mothman" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mothman+Jeff+Wamsley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mothman">Mothman</a>
+</h4>
+<p class="fr-book-author">By Jeff Wamsley</p>
         
-        <p class="fr-book-desc">First published 2005.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mothman+Jeff+Wamsley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2005.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mothman+Jeff+Wamsley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Mothman%3A+Behind+the+Red+Eyes+Jeff+Wamsley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mothman: Behind the Red Eyes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mothman%3A+Behind+the+Red+Eyes+Jeff+Wamsley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mothman: Behind the Red Eyes">Mothman: Behind the Red Eyes</a>
-        </h4>
-        <p class="fr-book-author">By Jeff Wamsley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Mothman%3A+Behind+the+Red+Eyes+Jeff+Wamsley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mothman: Behind the Red Eyes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mothman%3A+Behind+the+Red+Eyes+Jeff+Wamsley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mothman: Behind the Red Eyes">Mothman: Behind the Red Eyes</a>
+</h4>
+<p class="fr-book-author">By Jeff Wamsley</p>
         
-        <p class="fr-book-desc">Strongest companion for visitors interested in the town and its attractions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mothman%3A+Behind+the+Red+Eyes+Jeff+Wamsley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strongest companion for visitors interested in the town and its attractions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mothman%3A+Behind+the+Red+Eyes+Jeff+Wamsley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Unexplained%3A+An+Illustrated+Guide+to+the+World%27s+Natural+and+Paranormal+Mysteries+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Unexplained: An Illustrated Guide to the World&#x27;s Natural and Paranormal Mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Unexplained%3A+An+Illustrated+Guide+to+the+World%27s+Natural+and+Paranormal+Mysteries+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Unexplained: An Illustrated Guide to the World&#x27;s Natural and Paranormal Mysteries">The Unexplained: An Illustrated Guide to the World&#x27;s Natural...</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Unexplained%3A+An+Illustrated+Guide+to+the+World%27s+Natural+and+Paranormal+Mysteries+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Unexplained: An Illustrated Guide to the World&#x27;s Natural and Paranormal Mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Unexplained%3A+An+Illustrated+Guide+to+the+World%27s+Natural+and+Paranormal+Mysteries+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Unexplained: An Illustrated Guide to the World&#x27;s Natural and Paranormal Mysteries">The Unexplained: An Illustrated Guide to the World&#x27;s Natural...</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Places Point Pleasant within global Fortean culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Unexplained%3A+An+Illustrated+Guide+to+the+World%27s+Natural+and+Paranormal+Mysteries+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places Point Pleasant within global Fortean culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Unexplained%3A+An+Illustrated+Guide+to+the+World%27s+Natural+and+Paranormal+Mysteries+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mothman+prophecies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mothman prophecies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mothman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mothman</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mothman%3A+Behind+the+Red+Eyes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mothman: Behind the Red Eyes</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mothman+prophecies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mothman prophecies</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mothman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mothman</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mothman%3A+Behind+the+Red+Eyes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mothman: Behind the Red Eyes</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New Cartoon Mothman Moth Man badge tie pin badge metal Enamel black white"><img src="{{ '/assets/images/marketplace-covers/34373527e356113f08ef.jpg' | relative_url }}" alt="Listing image for New Cartoon Mothman Moth Man badge tie pin badge metal Enamel black white" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">New Cartoon Mothman Moth Man badge tie pin badge metal Enamel black white</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mothman enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Mothman enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New Cartoon Mothman Moth Man badge tie pin badge metal Enamel black white"><img src="{{ '/assets/images/marketplace-covers/34373527e356113f08ef.jpg' | relative_url }}" alt="Listing image for New Cartoon Mothman Moth Man badge tie pin badge metal Enamel black white" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">New Cartoon Mothman Moth Man badge tie pin badge metal Enamel black white</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mothman enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Mothman enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mothman for President - Cryptid Enamel Pin - Fun Gift - New &amp; In Stock!"><img src="{{ '/assets/images/marketplace-covers/8ea630391d022c377129.jpg' | relative_url }}" alt="Listing image for Mothman for President - Cryptid Enamel Pin - Fun Gift - New &amp; In Stock!" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Mothman for President - Cryptid Enamel Pin - Fun Gift - New &amp; In Stock!</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mothman enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Mothman enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mothman for President - Cryptid Enamel Pin - Fun Gift - New &amp; In Stock!"><img src="{{ '/assets/images/marketplace-covers/8ea630391d022c377129.jpg' | relative_url }}" alt="Listing image for Mothman for President - Cryptid Enamel Pin - Fun Gift - New &amp; In Stock!" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Mothman for President - Cryptid Enamel Pin - Fun Gift - New &amp; In Stock!</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mothman enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Mothman enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cute Mothman Enamel Pin Gold Cryptid Gothic Luna Moth Horror Pin Badge Gift"><img src="{{ '/assets/images/marketplace-covers/ce39211fe9989f39f1aa.jpg' | relative_url }}" alt="Listing image for Cute Mothman Enamel Pin Gold Cryptid Gothic Luna Moth Horror Pin Badge Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Cute Mothman Enamel Pin Gold Cryptid Gothic Luna Moth Horror Pin Badge Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mothman enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Mothman enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cute Mothman Enamel Pin Gold Cryptid Gothic Luna Moth Horror Pin Badge Gift"><img src="{{ '/assets/images/marketplace-covers/ce39211fe9989f39f1aa.jpg' | relative_url }}" alt="Listing image for Cute Mothman Enamel Pin Gold Cryptid Gothic Luna Moth Horror Pin Badge Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Cute Mothman Enamel Pin Gold Cryptid Gothic Luna Moth Horror Pin Badge Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mothman enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Mothman enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Glow In The Dark Mothman Metal &amp; Enamel Pin Badge Horror Moth New"><img src="{{ '/assets/images/marketplace-covers/58571b93fa7f2e8edd3f.jpg' | relative_url }}" alt="Listing image for Glow In The Dark Mothman Metal &amp; Enamel Pin Badge Horror Moth New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Glow In The Dark Mothman Metal &amp; Enamel Pin Badge Horror Moth New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mothman enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Mothman enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Glow In The Dark Mothman Metal &amp; Enamel Pin Badge Horror Moth New"><img src="{{ '/assets/images/marketplace-covers/58571b93fa7f2e8edd3f.jpg' | relative_url }}" alt="Listing image for Glow In The Dark Mothman Metal &amp; Enamel Pin Badge Horror Moth New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Glow In The Dark Mothman Metal &amp; Enamel Pin Badge Horror Moth New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mothman enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Mothman enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="tourism-how-point-pleasant-made-mothman-a-mascot-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -541,7 +541,7 @@ For students of [Forteana]({{ 'forteana/' | relative_url }}), this evolution is 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -561,7 +561,7 @@ For students of [Forteana]({{ 'forteana/' | relative_url }}), this evolution is 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -593,7 +593,7 @@ For students of [Forteana]({{ 'forteana/' | relative_url }}), this evolution is 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -645,7 +645,7 @@ For students of [Forteana]({{ 'forteana/' | relative_url }}), this evolution is 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -690,7 +690,7 @@ For students of [Forteana]({{ 'forteana/' | relative_url }}), this evolution is 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -731,133 +731,133 @@ For students of [Forteana]({{ 'forteana/' | relative_url }}), this evolution is 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/26233743" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/26233743</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Point Pleasant, West virginiaby RJ KRUSE · 2015 · Cited by 11 — In addition to promoting heritage tourism, Point Pleasant markets it...</p></details>
+   Link:<a href="https://www.jstor.org/stable/26233743" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/26233743</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Point Pleasant, West virginiaby RJ KRUSE · 2015 · Cited by 11 — In addition to promoting heritage tourism, Point Pleasant markets it...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Cryptid town  
-   Link: <a href="https://en.wikipedia.org/wiki/Cryptid_town" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cryptid_town</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cryptid_town" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cryptid_town</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Mothman" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mothman</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Mothman" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mothman</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: mothmanmuseum.com  
-   Link: <a href="https://www.mothmanmuseum.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.mothmanmuseum.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mothman MuseumStop by and visit our museum and retail shop which is located in the heart of Point Pleasant, WV. We are open 7 days a week...</p></details>
+   Link:<a href="https://www.mothmanmuseum.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.mothmanmuseum.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mothman MuseumStop by and visit our museum and retail shop which is located in the heart of Point Pleasant, WV. We are open 7 days a week...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Mothman Festival  
-   Link: <a href="https://en.wikipedia.org/wiki/Mothman_Festival" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mothman_Festival</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Mothman_Festival" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mothman_Festival</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/the-awl/the-mothman-economy-6b0f3925061d" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-awl/the-mothman-economy-6b0f3925061d</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mothman Economy | by The AwlThere was a new stage by the river in Point Pleasant, built mostly for a small summer music festiva...</p></details>
+   Link:<a href="https://medium.com/the-awl/the-mothman-economy-6b0f3925061d" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-awl/the-mothman-economy-6b0f3925061d</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Mothman Economy | by The AwlThere was a new stage by the river in Point Pleasant, built mostly for a small summer music festiva...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: The Mothman of Point Pleasant  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Mothman_of_Point_Pleasant" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Mothman_of_Point_Pleasant</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Mothman_of_Point_Pleasant" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Mothman_of_Point_Pleasant</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: Visiting the Mothman Museum and Big Foot | Travel Vlog  
-   Link: <a href="https://www.youtube.com/watch?v=sS9YAQJzx7s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sS9YAQJzx7s</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mothman Festival 2025 Was So Weird and Fun...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sS9YAQJzx7s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sS9YAQJzx7s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mothman Festival 2025 Was So Weird and Fun...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=BPYP64n0KHg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BPYP64n0KHg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>World&#x27;s ONLY Mothman Museum! NOW is the Best Time to Visit Point Pleasant&#x27;s Best Attraction...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BPYP64n0KHg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BPYP64n0KHg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World&#x27;s ONLY Mothman Museum! NOW is the Best Time to Visit Point Pleasant&#x27;s Best Attraction...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: folklife.si.edu  
    Title: Its eyes are glowing red  
-   Link: <a href="https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia" target="_blank" rel="noopener noreferrer nofollow">https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian Folklife CenterAn Ode to a Hometown Creature: Mothman of Point Pleasant...Jun 6, 2021 — A large mothlike figure, flying abov...</p></details>
+   Link:<a href="https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia" target="_blank" rel="noopener noreferrer nofollow">https://folklife.si.edu/magazine/mothman-point-pleasant-west-virginia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian Folklife CenterAn Ode to a Hometown Creature: Mothman of Point Pleasant...Jun 6, 2021 — A large mothlike figure, flying abov...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: mothmanfestival.com  
    Title: MOTHMAN FESTIVAL®MOTHMAN FESTIVAL®  
-   Link: <a href="https://www.mothmanfestival.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.mothmanfestival.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MOTHMAN FESTIVAL®Mothman Festival is an annual event held every third weekend in September that commemorates the 1966 Point Pleasant, Wes...</p></details>
+   Link:<a href="https://www.mothmanfestival.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.mothmanfestival.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MOTHMAN FESTIVAL®Mothman Festival is an annual event held every third weekend in September that commemorates the 1966 Point Pleasant, Wes...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: wvpublic.org  
    Title: West Virginia Public Broadcasting Mothman Festival Celebrates W.Va  
-   Link: <a href="https://wvpublic.org/story/arts-culture/mothman-festival-celebrates-w-va-legend-packs-international-paranormal-punch/" target="_blank" rel="noopener noreferrer nofollow">https://wvpublic.org/story/arts-culture/mothman-festival-celebrates-w-va-legend-packs-international-paranormal-punch/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Legend, Packs...Sep 19, 2024 — Bellamy says the Mothman legend has fueled an economic boom in Point Pleasant, making it the most filmed...</p></details>
+   Link:<a href="https://wvpublic.org/story/arts-culture/mothman-festival-celebrates-w-va-legend-packs-international-paranormal-punch/" target="_blank" rel="noopener noreferrer nofollow">https://wvpublic.org/story/arts-culture/mothman-festival-celebrates-w-va-legend-packs-international-paranormal-punch/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Legend, Packs...Sep 19, 2024 — Bellamy says the Mothman legend has fueled an economic boom in Point Pleasant, making it the most filmed...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: woub.org  
    Title: mothman festival attracts thousands to point pleasant  
-   Link: <a href="https://woub.org/2015/09/21/mothman-festival-attracts-thousands-to-point-pleasant/" target="_blank" rel="noopener noreferrer nofollow">https://woub.org/2015/09/21/mothman-festival-attracts-thousands-to-point-pleasant/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WOUB Public MediaMothman Festival Attracts Thousands To Point PleasantSep 21, 2015 — Jeff Wamsley, the curator of the World&#x27;s Only Mothma...</p></details>
+   Link:<a href="https://woub.org/2015/09/21/mothman-festival-attracts-thousands-to-point-pleasant/" target="_blank" rel="noopener noreferrer nofollow">https://woub.org/2015/09/21/mothman-festival-attracts-thousands-to-point-pleasant/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WOUB Public MediaMothman Festival Attracts Thousands To Point PleasantSep 21, 2015 — Jeff Wamsley, the curator of the World&#x27;s Only Mothma...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: worktaps.com  
    Title: mothman festival 2025  
-   Link: <a href="https://www.worktaps.com/mothman-festival-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.worktaps.com/mothman-festival-2025/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Don&#x27;t Miss Mothman Festival 2025 Dates &amp; Info!Nov 21, 2025 — This annual influx of tourism, propelled by the gathering, provides a vital...</p></details>
+   Link:<a href="https://www.worktaps.com/mothman-festival-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.worktaps.com/mothman-festival-2025/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Don&#x27;t Miss Mothman Festival 2025 Dates &amp; Info!Nov 21, 2025 — This annual influx of tourism, propelled by the gathering, provides a vital...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: blueridgetales.com  
-   Link: <a href="https://blueridgetales.com/point-pleasant-mothman-how-a-legend-built-a-tourism-boom/" target="_blank" rel="noopener noreferrer nofollow">https://blueridgetales.com/point-pleasant-mothman-how-a-legend-built-a-tourism-boom/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hotels fill up, restaurants do record business, and even gas stations cash in on the influx of out-of-...Read more...</p></details>
+   Link:<a href="https://blueridgetales.com/point-pleasant-mothman-how-a-legend-built-a-tourism-boom/" target="_blank" rel="noopener noreferrer nofollow">https://blueridgetales.com/point-pleasant-mothman-how-a-legend-built-a-tourism-boom/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hotels fill up, restaurants do record business, and even gas stations cash in on the influx of out-of-...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: thestatefiles.com  
-   Link: <a href="https://thestatefiles.com/mothman-the-haunting-of-point-pleasant/" target="_blank" rel="noopener noreferrer nofollow">https://thestatefiles.com/mothman-the-haunting-of-point-pleasant/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mothman: The Haunting of Point Pleasant - The State FilesThe economic impact on the town (population &lt; 5,000) has been profound...</p></details>
+   Link:<a href="https://thestatefiles.com/mothman-the-haunting-of-point-pleasant/" target="_blank" rel="noopener noreferrer nofollow">https://thestatefiles.com/mothman-the-haunting-of-point-pleasant/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mothman: The Haunting of Point Pleasant - The State FilesThe economic impact on the town (population &lt; 5,000) has been profound...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: wchstv.com  
    Title: point pleasant still seeing mothman tourism despite cancelling festival  
-   Link: <a href="https://wchstv.com/news/local/point-pleasant-still-seeing-mothman-tourism-despite-cancelling-festival" target="_blank" rel="noopener noreferrer nofollow">https://wchstv.com/news/local/point-pleasant-still-seeing-mothman-tourism-despite-cancelling-festival</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Point Pleasant still seeing Mothman tourism despite...Jun 29, 2020 — &quot;It&#x27;s going to hurt. It&#x27;ll take a bite out of the economy. It&#x27;ll ta...</p></details>
+   Link:<a href="https://wchstv.com/news/local/point-pleasant-still-seeing-mothman-tourism-despite-cancelling-festival" target="_blank" rel="noopener noreferrer nofollow">https://wchstv.com/news/local/point-pleasant-still-seeing-mothman-tourism-despite-cancelling-festival</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Point Pleasant still seeing Mothman tourism despite...Jun 29, 2020 — &quot;It&#x27;s going to hurt. It&#x27;ll take a bite out of the economy. It&#x27;ll ta...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: tripadvisor.com  
-   Link: <a href="https://www.tripadvisor.com/Attraction_Review-g59426-d621279-Reviews-or270-Mothman_Museum-Point_Pleasant_West_Virginia.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attraction_Review-g59426-d621279-Reviews-or270-Mothman_Museum-Point_Pleasant_West_Virginia.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The museum has nicely arranged displays and is very informative. There is a short video to watch.Read more...</p></details>
+   Link:<a href="https://www.tripadvisor.com/Attraction_Review-g59426-d621279-Reviews-or270-Mothman_Museum-Point_Pleasant_West_Virginia.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attraction_Review-g59426-d621279-Reviews-or270-Mothman_Museum-Point_Pleasant_West_Virginia.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The museum has nicely arranged displays and is very informative. There is a short video to watch.Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
    Title: npr famous last week and vice famous this week  
-   Link: <a href="https://www.facebook.com/mothmanfestival/posts/npr-famous-last-week-and-vice-famous-this-week/1225985079557810/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mothmanfestival/posts/npr-famous-last-week-and-vice-famous-this-week/1225985079557810/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>economic boom to the community. 2023 Mothman Festival summons economic boom for Point Pleasant. Vicki McSwain Lawson and 3.4K others. 3.4...</p></details>
+   Link:<a href="https://www.facebook.com/mothmanfestival/posts/npr-famous-last-week-and-vice-famous-this-week/1225985079557810/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mothmanfestival/posts/npr-famous-last-week-and-vice-famous-this-week/1225985079557810/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>economic boom to the community. 2023 Mothman Festival summons economic boom for Point Pleasant. Vicki McSwain Lawson and 3.4K others. 3.4...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: wvnews.com  
    Title: article 2bb5cdee 786c 11ef bafe a73730c35182  
-   Link: <a href="https://www.wvnews.com/news/wvnews/the-mothman-festival-makes-big-return-in-point-pleasant-on-saturday-with-more-events-set/article_2bb5cdee-786c-11ef-bafe-a73730c35182.html" target="_blank" rel="noopener noreferrer nofollow">https://www.wvnews.com/news/wvnews/the-mothman-festival-makes-big-return-in-point-pleasant-on-saturday-with-more-events-set/article_2bb5cdee-786c-11ef-bafe-a73730c35182.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mothman Festival makes big return in Point Pleasant...Sep 21, 2024 — USDA official highlights rural investment and economic growth d...</p></details>
+   Link:<a href="https://www.wvnews.com/news/wvnews/the-mothman-festival-makes-big-return-in-point-pleasant-on-saturday-with-more-events-set/article_2bb5cdee-786c-11ef-bafe-a73730c35182.html" target="_blank" rel="noopener noreferrer nofollow">https://www.wvnews.com/news/wvnews/the-mothman-festival-makes-big-return-in-point-pleasant-on-saturday-with-more-events-set/article_2bb5cdee-786c-11ef-bafe-a73730c35182.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Mothman Festival makes big return in Point Pleasant...Sep 21, 2024 — USDA official highlights rural investment and economic growth d...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: lemon8-app.com  
-   Link: <a href="https://www.lemon8-app.com/%40chasingsunsets23/7482536516401562155?region=us" target="_blank" rel="noopener noreferrer nofollow">https://www.lemon8-app.com/%40chasingsunsets23/7482536516401562155?region=us</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of visitors eager to learn more about this captivating...Read more...</p></details>
+   Link:<a href="https://www.lemon8-app.com/%40chasingsunsets23/7482536516401562155?region=us" target="_blank" rel="noopener noreferrer nofollow">https://www.lemon8-app.com/%40chasingsunsets23/7482536516401562155?region=us</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of visitors eager to learn more about this captivating...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: wonderfulmuseums.com  
-   Link: <a href="https://www.wonderfulmuseums.com/museum/mothman-museum-west-virginia/" target="_blank" rel="noopener noreferrer nofollow">https://www.wonderfulmuseums.com/museum/mothman-museum-west-virginia/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mothman Museum West Virginia: Deep Dive into the...Nov 4, 2025 — This influx of tourism provides a significant boost to the local econom...</p></details>
+   Link:<a href="https://www.wonderfulmuseums.com/museum/mothman-museum-west-virginia/" target="_blank" rel="noopener noreferrer nofollow">https://www.wonderfulmuseums.com/museum/mothman-museum-west-virginia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mothman Museum West Virginia: Deep Dive into the...Nov 4, 2025 — This influx of tourism provides a significant boost to the local econom...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: goodreads.com  
-   Link: <a href="https://goodreads.com/book/show/32881.Visitors_From_Space_The_Astonishing_True_Story_Of_The_Mothman_Prophecies" target="_blank" rel="noopener noreferrer nofollow">https://goodreads.com/book/show/32881.Visitors_From_Space_The_Astonishing_True_Story_Of_The_Mothman_Prophecies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Astonishing True Story Of The Mothman Prophecies by...Its subject matter mostly concerns events in Point Pleasant, WV, during &#x27;66/7...</p></details>
+   Link:<a href="https://goodreads.com/book/show/32881.Visitors_From_Space_The_Astonishing_True_Story_Of_The_Mothman_Prophecies" target="_blank" rel="noopener noreferrer nofollow">https://goodreads.com/book/show/32881.Visitors_From_Space_The_Astonishing_True_Story_Of_The_Mothman_Prophecies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Astonishing True Story Of The Mothman Prophecies by...Its subject matter mostly concerns events in Point Pleasant, WV, during &#x27;66/7...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: cliffsnotes.com  
    Title: study notes  
-   Link: <a href="https://www.cliffsnotes.com/study-notes/24374870" target="_blank" rel="noopener noreferrer nofollow">https://www.cliffsnotes.com/study-notes/24374870</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mothman print (pdf)Mar 5, 2025 — The Mothman Festival and related events have brought substantial economic benefits to the local communit...</p></details>
+   Link:<a href="https://www.cliffsnotes.com/study-notes/24374870" target="_blank" rel="noopener noreferrer nofollow">https://www.cliffsnotes.com/study-notes/24374870</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mothman print (pdf)Mar 5, 2025 — The Mothman Festival and related events have brought substantial economic benefits to the local communit...</p></details>

@@ -278,13 +278,13 @@ Among the most persistent explanations for alleged sea-serpent carcasses is not 
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_cryptids_natural_his_3c2db5_basking_shark_sea_se_8bd431-Illustration-1-dark.svg" | relative_url }}" alt="Among The Most Persistent Explanations For Alleged Sea Serpent... illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_cryptids_natural_his_3c2db5_basking_shark_sea_se_8bd431-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_cryptids_natural_his_3c2db5_basking_shark_sea_se_8bd431-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The mechanism matters because it demonstrates how natural decay can systematically alter an animal's appearance. A large basking shark can lose exactly those features that identify it as a shark while leaving behind a silhouette that resembles the long-necked marine reptiles familiar from popular culture. Although not every mysterious carcass has been conclusively identified this way, the "pseudo-plesiosaur" produced by basking shark decomposition has become one of the strongest natural explanations for many celebrated sea-monster claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Zuiyo-maru_carcass" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Zuiyo-maru carcass</span><span class="citation-popover-snippet">Zuiyo-maru carcass</span></span></span>
+The mechanism matters because it demonstrates how natural decay can systematically alter an animal's appearance. A large basking shark can lose exactly those features that identify it as a shark while leaving behind a silhouette that resembles the long-necked marine reptiles familiar from popular culture. Although not every mysterious carcass has been conclusively identified this way, the "pseudo-plesiosaur" produced by basking shark decomposition has become one of the strongest natural explanations for many celebrated sea-monster claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Zuiyo-maru_carcass" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Zuiyo-maru carcass</span><span class="citation-popover-snippet">Zuiyo-maru carcass</span></span></span>
 
 ## How decay changes a basking shark silhouette
 
 A freshly dead basking shark looks unmistakably like a shark. The transformation begins because its anatomy does not decay evenly.
 
-The first structures to break down are usually the lower jaw, the soft tissues supporting the enormous filter-feeding mouth, the gill arches, and much of the tissue around the head. The dorsal fin and the upper and lower lobes of the tail are also vulnerable to decomposition and scavengers. What remains is supported by tougher connective tissues and the unusually robust vertebral column of this cartilaginous fish. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Zuiyo-maru_carcass" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Zuiyo-maru carcass</span><span class="citation-popover-snippet">Zuiyo-maru carcass</span></span></span>
+The first structures to break down are usually the lower jaw, the soft tissues supporting the enormous filter-feeding mouth, the gill arches, and much of the tissue around the head. The dorsal fin and the upper and lower lobes of the tail are also vulnerable to decomposition and scavengers. What remains is supported by tougher connective tissues and the unusually robust vertebral column of this cartilaginous fish.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Zuiyo-maru_carcass" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Zuiyo-maru carcass</span><span class="citation-popover-snippet">Zuiyo-maru carcass</span></span></span>
 
 The result is a body with several misleading features:
 
@@ -295,7 +295,7 @@ The result is a body with several misleading features:
 * The exposed vertebral column gives the impression of a long, flexible neck.
 * The surviving paired pectoral and pelvic fins resemble four paddle-like limbs.
 * Loss of the shark's distinctive tail fin leaves a long tapering tail.
-* Missing gill structures remove one of the clearest clues that the animal was a shark. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Zuiyo-maru_carcass" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Zuiyo-maru carcass</span><span class="citation-popover-snippet">Zuiyo-maru carcass</span></span></span>
+* Missing gill structures remove one of the clearest clues that the animal was a shark.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Zuiyo-maru_carcass" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Zuiyo-maru carcass</span><span class="citation-popover-snippet">Zuiyo-maru carcass</span></span></span>
 
 </div>
 
@@ -308,7 +308,7 @@ To someone unfamiliar with shark decomposition, the remaining body can appear su
 
 Not every shark produces this effect. Basking sharks are unusually well suited to creating deceptive carcasses because of their size and anatomy.
 
-Adults commonly reach seven to eight metres in length and possess enormous mouths adapted for filter feeding. Unlike most sharks, the tissues around these jaws are relatively delicate once decomposition begins. Their skeleton is made largely of cartilage, but parts of the skull and vertebral column remain sufficiently durable to preserve an elongated framework after softer tissues disappear. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Basking_shark" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Basking shark</span><span class="citation-popover-snippet">Basking shark</span></span></span>
+Adults commonly reach seven to eight metres in length and possess enormous mouths adapted for filter feeding. Unlike most sharks, the tissues around these jaws are relatively delicate once decomposition begins. Their skeleton is made largely of cartilage, but parts of the skull and vertebral column remain sufficiently durable to preserve an elongated framework after softer tissues disappear.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Basking_shark" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Basking shark</span><span class="citation-popover-snippet">Basking shark</span></span></span>
 
 The species also inhabits temperate coastal waters where strandings and floating carcasses are more likely to be encountered by fishermen and beachgoers. Before legal protections were introduced in many regions, basking sharks were far more numerous in some northern waters, increasing the chances that decomposing specimens would occasionally be found.
 
@@ -316,11 +316,11 @@ The species also inhabits temperate coastal waters where strandings and floating
 
 The best-known example is the **Zuiyō Maru** carcass recovered by a Japanese fishing vessel off New Zealand in 1977. Crew members photographed an approximately ten-metre decomposing animal with what appeared to be a long neck, four fins and a tail. The images spread internationally and prompted speculation that the remains belonged to a surviving plesiosaur or unknown sea monster.
 
-The physical specimen itself was discarded because of its condition, but tissue samples and photographs survived. Amino acid analyses and anatomical comparisons led most marine biologists to conclude that the carcass was almost certainly a decomposing basking shark. Later reviews found that the recorded body proportions matched a large basking shark far better than any known plesiosaur, and photographs even revealed remnants of a dorsal fin that had initially been overlooked. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Zuiyo-maru_carcass" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Zuiyo-maru carcass</span><span class="citation-popover-snippet">Zuiyo-maru carcass</span></span></span>
+The physical specimen itself was discarded because of its condition, but tissue samples and photographs survived. Amino acid analyses and anatomical comparisons led most marine biologists to conclude that the carcass was almost certainly a decomposing basking shark. Later reviews found that the recorded body proportions matched a large basking shark far better than any known plesiosaur, and photographs even revealed remnants of a dorsal fin that had initially been overlooked.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Zuiyo-maru_carcass" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Zuiyo-maru carcass</span><span class="citation-popover-snippet">Zuiyo-maru carcass</span></span></span>
 
-An earlier example is the **Stronsay Beast**, which washed ashore in Scotland in 1808. Contemporary observers described a remarkably long neck and unusual body proportions, fuelling nineteenth-century sea-serpent debates. Modern anatomical studies, including examination of surviving vertebrae, strongly support identification as a decomposed basking shark rather than an unknown marine reptile. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Cryptozoology/comments/1i7m1q4/comparisons_with_a_basking_shark_and_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">comparisons with a basking shark and the Zuiyo-Maru</span><span class="citation-popover-snippet">comparisons with a basking shark and the Zuiyo-Maru...January 22, 2025 — Basking shark carcasses seem almost tailor-made to inspir...</span><span class="citation-popover-meta">Published: January 22, 2025</span></span></span>
+An earlier example is the **Stronsay Beast**, which washed ashore in Scotland in 1808. Contemporary observers described a remarkably long neck and unusual body proportions, fuelling nineteenth-century sea-serpent debates. Modern anatomical studies, including examination of surviving vertebrae, strongly support identification as a decomposed basking shark rather than an unknown marine reptile.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Cryptozoology/comments/1i7m1q4/comparisons_with_a_basking_shark_and_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">comparisons with a basking shark and the Zuiyo-Maru</span><span class="citation-popover-snippet">comparisons with a basking shark and the Zuiyo-Maru...January 22, 2025 — Basking shark carcasses seem almost tailor-made to inspir...</span><span class="citation-popover-meta">Published: January 22, 2025</span></span></span>
 
-The same explanation has also been proposed for several Canadian "Cadborosaurus" carcasses. Although individual cases differ and some remain disputed because the original material has been lost, decomposed basking sharks repeatedly provide a closer anatomical match than hypothetical marine reptiles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tetzoo.com/blog/2020/11/16/cadborosaurus-carcass-review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tetzoo.com">[Tetrapod Zoology+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tetzoo.com</span><span class="citation-popover-title">cadborosaurus carcass review</span><span class="citation-popover-snippet">Tetrapod ZoologyThe Case of the Cadborosaurus Carcass: a Review17 Nov 2020 — At right: Basking shark decomposition and the creation of a...</span></span></span>
+The same explanation has also been proposed for several Canadian "Cadborosaurus" carcasses. Although individual cases differ and some remain disputed because the original material has been lost, decomposed basking sharks repeatedly provide a closer anatomical match than hypothetical marine reptiles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tetzoo.com/blog/2020/11/16/cadborosaurus-carcass-review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tetzoo.com">[Tetrapod Zoology+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tetzoo.com</span><span class="citation-popover-title">cadborosaurus carcass review</span><span class="citation-popover-snippet">Tetrapod ZoologyThe Case of the Cadborosaurus Carcass: a Review17 Nov 2020 — At right: Basking shark decomposition and the creation of a...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_cryptids_natural_his_3c2db5_basking_shark_sea_se_8bd431-Illustration-2-dark.svg" | relative_url }}" alt="Among The Most Persistent Explanations For Alleged Sea Serpent... illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_cryptids_natural_his_3c2db5_basking_shark_sea_se_8bd431-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_cryptids_natural_his_3c2db5_basking_shark_sea_se_8bd431-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -328,7 +328,7 @@ The same explanation has also been proposed for several Canadian "Cadborosaurus"
 
 Many famous sea-serpent carcasses remain controversial for a simple reason: the evidence disappeared.
 
-Rotting marine animals are unpleasant to handle, difficult to preserve and often discarded quickly. Before modern DNA methods became routine, investigators frequently retained only a few photographs or small tissue samples. Sometimes even those samples were lost. As a result, later researchers must reconstruct events from measurements, witness testimony and ageing photographs rather than examining the entire specimen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Zuiyo-maru_carcass" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Zuiyo-maru carcass</span><span class="citation-popover-snippet">Zuiyo-maru carcass</span></span></span>
+Rotting marine animals are unpleasant to handle, difficult to preserve and often discarded quickly. Before modern DNA methods became routine, investigators frequently retained only a few photographs or small tissue samples. Sometimes even those samples were lost. As a result, later researchers must reconstruct events from measurements, witness testimony and ageing photographs rather than examining the entire specimen.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Zuiyo-maru_carcass" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Zuiyo-maru carcass</span><span class="citation-popover-snippet">Zuiyo-maru carcass</span></span></span>
 
 This creates an evidential gap that is familiar throughout Forteana. Supporters of extraordinary explanations can argue that scientists never examined the complete animal, while sceptics point out that the surviving evidence fits known biological processes remarkably well. The absence of the original specimen prevents either side from performing new analyses that might settle the matter conclusively.
 
@@ -338,7 +338,7 @@ This creates an evidential gap that is familiar throughout Forteana. Supporters 
 
 Photographs are valuable but limited.
 
-They can preserve proportions, visible fins, vertebral outlines and surface textures that allow later anatomical comparison. In the Zuiyō Maru case, reanalysis of photographs helped identify features consistent with a shark rather than a marine reptile. Combined with biochemical evidence from preserved tissue, the images became much stronger evidence than eyewitness descriptions alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Zuiyo-maru_carcass" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Zuiyo-maru carcass</span><span class="citation-popover-snippet">Zuiyo-maru carcass</span></span></span>
+They can preserve proportions, visible fins, vertebral outlines and surface textures that allow later anatomical comparison. In the Zuiyō Maru case, reanalysis of photographs helped identify features consistent with a shark rather than a marine reptile. Combined with biochemical evidence from preserved tissue, the images became much stronger evidence than eyewitness descriptions alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Zuiyo-maru_carcass" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Zuiyo-maru carcass</span><span class="citation-popover-snippet">Zuiyo-maru carcass</span></span></span>
 
 However, photographs also have significant limitations.
 
@@ -369,194 +369,194 @@ This mechanism also explains why sea-serpent debates often persist for decades. 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When a Shark Becomes a Sea Monster. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When a Shark Becomes a Sea Monster. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cryptozoology A To Z on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/427879-M.jpg" alt="Cover for Cryptozoology A To Z" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cryptozoology A To Z">Cryptozoology A To Z</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cryptozoology A To Z on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/427879-M.jpg" alt="Cover for Cryptozoology A To Z" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cryptozoology A To Z">Cryptozoology A To Z</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Includes classic sea serpent cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes classic sea serpent cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+search+for+the+giant+squid+Richard+Ellis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The search for the giant squid on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/782552-M.jpg" alt="Cover for The search for the giant squid" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+search+for+the+giant+squid+Richard+Ellis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The search for the giant squid">The search for the giant squid</a>
-        </h4>
-        <p class="fr-book-author">By Richard Ellis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+search+for+the+giant+squid+Richard+Ellis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The search for the giant squid on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/782552-M.jpg" alt="Cover for The search for the giant squid" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+search+for+the+giant+squid+Richard+Ellis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The search for the giant squid">The search for the giant squid</a>
+</h4>
+<p class="fr-book-author">By Richard Ellis</p>
         
-        <p class="fr-book-desc">First published 1998. Subjects: Giant squids, Science, Marine biology, New York Times reviewed, Squids.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+search+for+the+giant+squid+Richard+Ellis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1998. Subjects: Giant squids, Science, Marine biology, New York Times reviewed, Squids.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+search+for+the+giant+squid+Richard+Ellis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunting Monsters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10220347-M.jpg" alt="Cover for Hunting Monsters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunting Monsters">Hunting Monsters</a>
-        </h4>
-        <p class="fr-book-author">By Darren Naish</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunting Monsters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10220347-M.jpg" alt="Cover for Hunting Monsters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunting Monsters">Hunting Monsters</a>
+</h4>
+<p class="fr-book-author">By Darren Naish</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Monsters, Zoology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Monsters, Zoology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science">Abominable Science</a>
-        </h4>
-        <p class="fr-book-author">By Donald R. Prothero, Daniel Loxton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science">Abominable Science</a>
+</h4>
+<p class="fr-book-author">By Donald R. Prothero, Daniel Loxton</p>
         
-        <p class="fr-book-desc">First published 2012. Subjects: Animals, mythical.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2012. Subjects: Animals, mythical.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cryptozoology A To Z</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+search+for+the+giant+squid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The search for the giant squid</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunting+Monsters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunting Monsters</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cryptozoology A To Z</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+search+for+the+giant+squid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The search for the giant squid</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunting+Monsters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunting Monsters</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bigfoot 5pc Cryptid Sticker Pack"><img src="{{ '/assets/images/marketplace-covers/36868e3cf1421494782b.jpg' | relative_url }}" alt="Listing image for Bigfoot 5pc Cryptid Sticker Pack" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker" target="_blank" rel="sponsored noopener noreferrer">Bigfoot 5pc Cryptid Sticker Pack</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bigfoot 5pc Cryptid Sticker Pack"><img src="{{ '/assets/images/marketplace-covers/36868e3cf1421494782b.jpg' | relative_url }}" alt="Listing image for Bigfoot 5pc Cryptid Sticker Pack" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker" target="_blank" rel="sponsored noopener noreferrer">Bigfoot 5pc Cryptid Sticker Pack</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CRYPTID SASQUATCH DECAL, LAPTOP, INSTRUMENT CASE DECAL 14 x 14cm"><img src="{{ '/assets/images/marketplace-covers/2c0dc986d2debfa2242e.jpg' | relative_url }}" alt="Listing image for CRYPTID SASQUATCH DECAL, LAPTOP, INSTRUMENT CASE DECAL 14 x 14cm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker" target="_blank" rel="sponsored noopener noreferrer">CRYPTID SASQUATCH DECAL, LAPTOP, INSTRUMENT CASE DECAL 14 x 14cm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CRYPTID SASQUATCH DECAL, LAPTOP, INSTRUMENT CASE DECAL 14 x 14cm"><img src="{{ '/assets/images/marketplace-covers/2c0dc986d2debfa2242e.jpg' | relative_url }}" alt="Listing image for CRYPTID SASQUATCH DECAL, LAPTOP, INSTRUMENT CASE DECAL 14 x 14cm" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker" target="_blank" rel="sponsored noopener noreferrer">CRYPTID SASQUATCH DECAL, LAPTOP, INSTRUMENT CASE DECAL 14 x 14cm</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vinyl Sticker Decal Cryptid Horror Tentacles"><img src="{{ '/assets/images/marketplace-covers/c69d069fc0534c9b4647.jpg' | relative_url }}" alt="Listing image for Vinyl Sticker Decal Cryptid Horror Tentacles" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker" target="_blank" rel="sponsored noopener noreferrer">Vinyl Sticker Decal Cryptid Horror Tentacles</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vinyl Sticker Decal Cryptid Horror Tentacles"><img src="{{ '/assets/images/marketplace-covers/c69d069fc0534c9b4647.jpg' | relative_url }}" alt="Listing image for Vinyl Sticker Decal Cryptid Horror Tentacles" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker" target="_blank" rel="sponsored noopener noreferrer">Vinyl Sticker Decal Cryptid Horror Tentacles</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cryptid Sticker Set “I’m Fine” Bigfoot Mothman Cute Monster Sticker Set"><img src="{{ '/assets/images/marketplace-covers/cdc46dc14b305f11f71a.jpg' | relative_url }}" alt="Listing image for Cryptid Sticker Set “I’m Fine” Bigfoot Mothman Cute Monster Sticker Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker" target="_blank" rel="sponsored noopener noreferrer">Cryptid Sticker Set “I’m Fine” Bigfoot Mothman Cute Monster Sticker Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cryptid Sticker Set “I’m Fine” Bigfoot Mothman Cute Monster Sticker Set"><img src="{{ '/assets/images/marketplace-covers/cdc46dc14b305f11f71a.jpg' | relative_url }}" alt="Listing image for Cryptid Sticker Set “I’m Fine” Bigfoot Mothman Cute Monster Sticker Set" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker" target="_blank" rel="sponsored noopener noreferrer">Cryptid Sticker Set “I’m Fine” Bigfoot Mothman Cute Monster Sticker Set</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid sticker" data-ebay-reference="among-the-most-persistent-explanations-when-a-shark-becomes-a-sea-monster-forteana-cryptid-sticker" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -572,7 +572,7 @@ This mechanism also explains why sea-serpent debates often persist for decades. 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -592,7 +592,7 @@ This mechanism also explains why sea-serpent debates often persist for decades. 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -624,7 +624,7 @@ This mechanism also explains why sea-serpent debates often persist for decades. 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -676,7 +676,7 @@ This mechanism also explains why sea-serpent debates often persist for decades. 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -721,7 +721,7 @@ This mechanism also explains why sea-serpent debates often persist for decades. 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -762,99 +762,99 @@ This mechanism also explains why sea-serpent debates often persist for decades. 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Zuiyo-maru carcass  
-   Link: <a href="https://en.wikipedia.org/wiki/Zuiyo-maru_carcass" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Zuiyo-maru_carcass</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Zuiyo-maru_carcass" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Zuiyo-maru_carcass</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Basking shark  
-   Link: <a href="https://en.wikipedia.org/wiki/Basking_shark" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Basking_shark</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Basking_shark" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Basking_shark</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
    Title: comparisons with a basking shark and the Zuiyo-Maru  
-   Link: <a href="https://www.reddit.com/r/Cryptozoology/comments/1i7m1q4/comparisons_with_a_basking_shark_and_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Cryptozoology/comments/1i7m1q4/comparisons_with_a_basking_shark_and_the/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>comparisons with a basking shark and the Zuiyo-Maru...January 22, 2025 — Basking shark carcasses seem almost tailor-made to inspir...</p></details>
+   Link:<a href="https://www.reddit.com/r/Cryptozoology/comments/1i7m1q4/comparisons_with_a_basking_shark_and_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Cryptozoology/comments/1i7m1q4/comparisons_with_a_basking_shark_and_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>comparisons with a basking shark and the Zuiyo-Maru...January 22, 2025 — Basking shark carcasses seem almost tailor-made to inspir...</p></details>
    Published: January 22, 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Globster" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Globster</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Globster" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Globster</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Cadborosaurus" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cadborosaurus</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cadborosaurus" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cadborosaurus</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: The Stronsay Beast  
-   Link: <a href="https://www.youtube.com/watch?v=S_JAslRpY_o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S_JAslRpY_o</a>  
+   Link:<a href="https://www.youtube.com/watch?v=S_JAslRpY_o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S_JAslRpY_o</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: tetzoo.com  
    Title: cadborosaurus carcass review  
-   Link: <a href="https://tetzoo.com/blog/2020/11/16/cadborosaurus-carcass-review" target="_blank" rel="noopener noreferrer nofollow">https://tetzoo.com/blog/2020/11/16/cadborosaurus-carcass-review</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tetrapod ZoologyThe Case of the Cadborosaurus Carcass: a Review17 Nov 2020 — At right: Basking shark decomposition and the creation of a...</p></details>
+   Link:<a href="https://tetzoo.com/blog/2020/11/16/cadborosaurus-carcass-review" target="_blank" rel="noopener noreferrer nofollow">https://tetzoo.com/blog/2020/11/16/cadborosaurus-carcass-review</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tetrapod ZoologyThe Case of the Cadborosaurus Carcass: a Review17 Nov 2020 — At right: Basking shark decomposition and the creation of a...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1002571683091379/posts/7710637085618105/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1002571683091379/posts/7710637085618105/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Other postsThis was a favorite example of a misidentified actual sea monster by Scott Mardis, founder of the Zombie Plesiosaur Society. I...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1002571683091379/posts/7710637085618105/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1002571683091379/posts/7710637085618105/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Other postsThis was a favorite example of a misidentified actual sea monster by Scott Mardis, founder of the Zombie Plesiosaur Society. I...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: boingboing.net  
    Title: a 1977 trawler hauled up a carcass that japan took for a sea monster  
-   Link: <a href="https://boingboing.net/2026/06/12/a-1977-trawler-hauled-up-a-carcass-that-japan-took-for-a-sea-monster.html" target="_blank" rel="noopener noreferrer nofollow">https://boingboing.net/2026/06/12/a-1977-trawler-hauled-up-a-carcass-that-japan-took-for-a-sea-monster.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Zuiyo-maru carcass and Japan&#x27;s plesiosaur craze12 Jun 2026 — In April 1977 the Japanese trawler Zuiyō Maru, fishing east of Christchu...</p></details>
+   Link:<a href="https://boingboing.net/2026/06/12/a-1977-trawler-hauled-up-a-carcass-that-japan-took-for-a-sea-monster.html" target="_blank" rel="noopener noreferrer nofollow">https://boingboing.net/2026/06/12/a-1977-trawler-hauled-up-a-carcass-that-japan-took-for-a-sea-monster.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Zuiyo-maru carcass and Japan&#x27;s plesiosaur craze12 Jun 2026 — In April 1977 the Japanese trawler Zuiyō Maru, fishing east of Christchu...</p></details>
    Published: April 1977  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/7697710/Zuiyo_Maru_Carcass_Review_Part_2" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/7697710/Zuiyo_Maru_Carcass_Review_Part_2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>onster with a dorsal fin that was not a dead, mutilated basking...</p></details>
+   Link:<a href="https://www.academia.edu/7697710/Zuiyo_Maru_Carcass_Review_Part_2" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/7697710/Zuiyo_Maru_Carcass_Review_Part_2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>onster with a dorsal fin that was not a dead, mutilated basking...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: theguardian.com  
    Title: The Guardian Shark or sea monster?  
-   Link: <a href="https://www.theguardian.com/environment/2026/may/07/basking-shark-sea-monster-canada-marine-mystery-90-years-on" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/environment/2026/may/07/basking-shark-sea-monster-canada-marine-mystery-90-years-on</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Canadian marine mystery that still intrigues experts 90 years onNearly 90 years after a strange 3-meter-long carcass was pulled from...</p></details>
+   Link:<a href="https://www.theguardian.com/environment/2026/may/07/basking-shark-sea-monster-canada-marine-mystery-90-years-on" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/environment/2026/may/07/basking-shark-sea-monster-canada-marine-mystery-90-years-on</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Canadian marine mystery that still intrigues experts 90 years onNearly 90 years after a strange 3-meter-long carcass was pulled from...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cryptidz.fandom.com  
    Title: Zuiyo Maru Creature  
-   Link: <a href="https://cryptidz.fandom.com/wiki/Zuiyo-Maru_Creature" target="_blank" rel="noopener noreferrer nofollow">https://cryptidz.fandom.com/wiki/Zuiyo-Maru_Creature</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>fandom.comZuiyo-Maru Creature - Cryptid Wiki - FandomThe Zuiyo-maru carcass is a hoax that was believed to be the corpse of a sea monster...</p></details>
+   Link:<a href="https://cryptidz.fandom.com/wiki/Zuiyo-Maru_Creature" target="_blank" rel="noopener noreferrer nofollow">https://cryptidz.fandom.com/wiki/Zuiyo-Maru_Creature</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fandom.comZuiyo-Maru Creature - Cryptid Wiki - FandomThe Zuiyo-maru carcass is a hoax that was believed to be the corpse of a sea monster...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: kryptos.fandom.com  
    Title: Zuiyō maru creature  
-   Link: <a href="https://kryptos.fandom.com/wiki/Zuiy%C5%8D-maru_creature" target="_blank" rel="noopener noreferrer nofollow">https://kryptos.fandom.com/wiki/Zuiy%C5%8D-maru_creature</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>fandom.comZuiyō-maru creature - Cryptid Wikia - Fandom... decomposition definitively identified it as a basking shark carcass.... ↑ Kuba...</p></details>
+   Link:<a href="https://kryptos.fandom.com/wiki/Zuiy%C5%8D-maru_creature" target="_blank" rel="noopener noreferrer nofollow">https://kryptos.fandom.com/wiki/Zuiy%C5%8D-maru_creature</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fandom.comZuiyō-maru creature - Cryptid Wikia - Fandom... decomposition definitively identified it as a basking shark carcass.... ↑ Kuba...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Did the Japanese Trawler REALLY Catch a Plesiosaur?  
-   Link: <a href="https://www.youtube.com/watch?v=sDKZgc1Hez8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sDKZgc1Hez8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 10 Most Mysterious Sea Monster Carcasses Ever Found...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sDKZgc1Hez8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sDKZgc1Hez8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 10 Most Mysterious Sea Monster Carcasses Ever Found...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: 3 More Sea Monster Carcasses and Their Explanations  
-   Link: <a href="https://www.youtube.com/watch?v=kTikeTomelY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kTikeTomelY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Did the Japanese Trawler REALLY Catch a Plesiosaur?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kTikeTomelY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kTikeTomelY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Did the Japanese Trawler REALLY Catch a Plesiosaur?...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: 4 Sea Monster Carcasses and their Explanations  
-   Link: <a href="https://www.youtube.com/watch?v=D3rK1ROP_3U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=D3rK1ROP_3U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 More Sea Monster Carcasses and Their Explanations...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=D3rK1ROP_3U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=D3rK1ROP_3U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 More Sea Monster Carcasses and Their Explanations...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: The 10 Most Mysterious Sea Monster Carcasses Ever Found  
-   Link: <a href="https://www.youtube.com/watch?v=Cp354QByt8M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Cp354QByt8M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Stronsay Beast...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Cp354QByt8M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Cp354QByt8M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Stronsay Beast...</p></details>

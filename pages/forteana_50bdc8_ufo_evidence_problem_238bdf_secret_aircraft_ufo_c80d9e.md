@@ -280,7 +280,7 @@ image: /assets/images/forteana_50bdc8_ufo_evidence_problem_238bdf_secret_aircraf
 
 ## Introduction
 
-Secret military aircraft provide one of the clearest historical examples of how genuine government secrecy can create enduring UFO mysteries without requiring an extraterrestrial explanation. During the Cold War, reconnaissance aircraft such as the U-2 and Lockheed A-12 OXCART routinely flew at altitudes and speeds unfamiliar to both the public and many professional aviators. Witnesses accurately reported seeing unusual objects, yet officials often could not explain what they had observed without revealing classified programmes. The result was a peculiar evidential trap: authentic sightings of real but secret technology became part of the UFO record, while official silence encouraged speculation that ranged far beyond the available evidence. Declassified documents now allow historians to reconstruct this process in considerable detail, making it one of the strongest examples of how secrecy itself can distort the interpretation of unexplained aerial phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP80B01676R004000110001-7.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA+2sgp.fas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">U-2S, UFOS, AND OPERATION BLUE BOOKto the letter writers the true cause of the UFO sightings. U-2 and later. OXCART flights accounted...</span></span></span>
+Secret military aircraft provide one of the clearest historical examples of how genuine government secrecy can create enduring UFO mysteries without requiring an extraterrestrial explanation. During the Cold War, reconnaissance aircraft such as the U-2 and Lockheed A-12 OXCART routinely flew at altitudes and speeds unfamiliar to both the public and many professional aviators. Witnesses accurately reported seeing unusual objects, yet officials often could not explain what they had observed without revealing classified programmes. The result was a peculiar evidential trap: authentic sightings of real but secret technology became part of the UFO record, while official silence encouraged speculation that ranged far beyond the available evidence. Declassified documents now allow historians to reconstruct this process in considerable detail, making it one of the strongest examples of how secrecy itself can distort the interpretation of unexplained aerial phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP80B01676R004000110001-7.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA+2sgp.fas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">U-2S, UFOS, AND OPERATION BLUE BOOKto the letter writers the true cause of the UFO sightings. U-2 and later. OXCART flights accounted...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_ufo_evidence_problem_238bdf_secret_aircraft_ufo_c80d9e-Illustration-1-dark.svg" | relative_url }}" alt="Secret Tests illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_ufo_evidence_problem_238bdf_secret_aircraft_ufo_c80d9e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_ufo_evidence_problem_238bdf_secret_aircraft_ufo_c80d9e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -300,9 +300,9 @@ This created several observational effects that naturally appeared mysterious:
 
 </div>
 
-The CIA's official history notes that many reports occurred during evening flights when airline crews travelling west saw the U-2 still reflecting sunlight above the Earth's shadow. To witnesses unfamiliar with the optical geometry involved, the aircraft appeared as a brilliant object performing inexplicable feats. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP80B01676R004000110001-7.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">U-2S, UFOS, AND OPERATION BLUE BOOKto the letter writers the true cause of the UFO sightings. U-2 and later. OXCART flights accounted...</span></span></span>
+The CIA's official history notes that many reports occurred during evening flights when airline crews travelling west saw the U-2 still reflecting sunlight above the Earth's shadow. To witnesses unfamiliar with the optical geometry involved, the aircraft appeared as a brilliant object performing inexplicable feats.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP80B01676R004000110001-7.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">U-2S, UFOS, AND OPERATION BLUE BOOKto the letter writers the true cause of the UFO sightings. U-2 and later. OXCART flights accounted...</span></span></span>
 
-The later Lockheed A-12 OXCART, developed as the successor to the U-2, added further confusion. Flying faster and higher than almost any publicly acknowledged aircraft, it introduced flight characteristics that again exceeded normal expectations. Because the entire programme remained deeply classified, even experienced observers had no obvious frame of reference for what they were seeing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archive The Secret History of the U-2</span><span class="citation-popover-snippet">National Security ArchiveThe Secret History of the U-2 - and Area 5115 Aug 2013 — CIA history reveals newly declassified material on U-2...</span></span></span>
+The later Lockheed A-12 OXCART, developed as the successor to the U-2, added further confusion. Flying faster and higher than almost any publicly acknowledged aircraft, it introduced flight characteristics that again exceeded normal expectations. Because the entire programme remained deeply classified, even experienced observers had no obvious frame of reference for what they were seeing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archive The Secret History of the U-2</span><span class="citation-popover-snippet">National Security ArchiveThe Secret History of the U-2 - and Area 5115 Aug 2013 — CIA history reveals newly declassified material on U-2...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jjinS2lZAsY" title="Project Blue Book" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jjinS2lZAsY" target="_blank" rel="noopener noreferrer">Project Blue Book</a></p><p class="youtube-embed-meta">Channel: Daily Dose Documentary &middot; Views: 397 &middot; Uploaded: October 2021 &middot; Length: 3 minutes 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jjinS2lZAsY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jjinS2lZAsY">Open on YouTube</a></p></div></div></div>
@@ -311,7 +311,7 @@ The later Lockheed A-12 OXCART, developed as the successor to the U-2, added fur
 
 The most revealing aspect of the historical record is not that secret aircraft generated [UFO reports]({{ 'ufo-reports/' | relative_url }}), but that investigators often knew—or strongly suspected—the real explanation while being unable to say so publicly.
 
-[Project Blue Book]({{ 'blue-book-75a50c/' | relative_url }}) investigators regularly compared reported sightings against classified flight schedules through secure channels. When timings matched U-2 or OXCART operations, investigators could internally resolve many cases. However, security restrictions prevented them from informing witnesses that they had observed a classified reconnaissance aircraft. Instead, responses were often vague, incomplete or attributed to less sensitive explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.navy.mil">[Naval History and Heritage Command]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.navy.mil</span><span class="citation-popover-title">From Gregory W.Read more</span><span class="citation-popover-snippet">Naval History and Heritage CommandU-2s, UFOs, and Operation Blue Book24 Jan 2024 — U-2 and later OXCART flights accounted for more than o...</span></span></span>
+[Project Blue Book]({{ 'blue-book-75a50c/' | relative_url }}) investigators regularly compared reported sightings against classified flight schedules through secure channels. When timings matched U-2 or OXCART operations, investigators could internally resolve many cases. However, security restrictions prevented them from informing witnesses that they had observed a classified reconnaissance aircraft. Instead, responses were often vague, incomplete or attributed to less sensitive explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.navy.mil">[Naval History and Heritage Command]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.navy.mil</span><span class="citation-popover-title">From Gregory W.Read more</span><span class="citation-popover-snippet">Naval History and Heritage CommandU-2s, UFOs, and Operation Blue Book24 Jan 2024 — U-2 and later OXCART flights accounted for more than o...</span></span></span>
 
 This produced several unintended consequences:
 
@@ -333,11 +333,11 @@ This distinction is important in Fortean studies because it separates documented
 <img src="{{ "/assets/images/forteana_50bdc8_ufo_evidence_problem_238bdf_secret_aircraft_ufo_c80d9e-Illustration-2-dark.svg" | relative_url }}" alt="Secret Tests illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_ufo_evidence_problem_238bdf_secret_aircraft_ufo_c80d9e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_ufo_evidence_problem_238bdf_secret_aircraft_ufo_c80d9e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The CIA's "half of all UFO reports" claim
 
-One frequently quoted statement deserves careful treatment. A CIA historical review concluded that U-2 and later OXCART flights "accounted for more than one-half of all UFO reports during the late 1950s and most of the 1960s." The statement has been widely repeated in media coverage following the publication of declassified documents. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP80B01676R004000110001-7.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">U-2S, UFOS, AND OPERATION BLUE BOOKto the letter writers the true cause of the UFO sightings. U-2 and later. OXCART flights accounted...</span></span></span>
+One frequently quoted statement deserves careful treatment. A CIA historical review concluded that U-2 and later OXCART flights "accounted for more than one-half of all UFO reports during the late 1950s and most of the 1960s." The statement has been widely repeated in media coverage following the publication of declassified documents.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP80B01676R004000110001-7.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">U-2S, UFOS, AND OPERATION BLUE BOOKto the letter writers the true cause of the UFO sightings. U-2 and later. OXCART flights accounted...</span></span></span>
 
 However, historians caution against reading this figure too broadly.
 
-The estimate refers to reports generated during particular periods in which these aircraft were actively flying, not to every UFO report across all decades or countries. Furthermore, not every unexplained sighting involved secret aircraft, and the CIA's estimate itself has been questioned by some researchers who argue that the available reporting data do not support such a precise proportion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/28256-ufo-sightings-cia-u2-aircraft.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">28256 ufo sightings cia u2 aircraft</span><span class="citation-popover-snippet">CIA About UFOs of the 1950s and &#x27;60s: &#x27;It Was Us&#x27;Jan 14, 2015 — The CIA tweet has sparked its own UFO flap: Several analysts dispute...</span></span></span>
+The estimate refers to reports generated during particular periods in which these aircraft were actively flying, not to every UFO report across all decades or countries. Furthermore, not every unexplained sighting involved secret aircraft, and the CIA's estimate itself has been questioned by some researchers who argue that the available reporting data do not support such a precise proportion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/28256-ufo-sightings-cia-u2-aircraft.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">28256 ufo sightings cia u2 aircraft</span><span class="citation-popover-snippet">CIA About UFOs of the 1950s and &#x27;60s: &#x27;It Was Us&#x27;Jan 14, 2015 — The CIA tweet has sparked its own UFO flap: Several analysts dispute...</span></span></span>
 
 The historical significance therefore lies less in the exact percentage than in the demonstrated mechanism: classified aviation programmes unquestionably generated substantial numbers of sincere UFO reports.
 
@@ -348,7 +348,7 @@ The historical significance therefore lies less in the exact percentage than in 
 
 The later public fascination with Area 51 illustrates how classified aviation can acquire an almost supernatural reputation.
 
-For decades, the Nevada test facility was officially unacknowledged while hosting development of the U-2, A-12 OXCART and later advanced aircraft. Because local residents occasionally observed unfamiliar aircraft performing unusual manoeuvres without official explanation, rumours naturally accumulated around the site. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/stories/story/ask-molly-what-really-went-on-at-area-51/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA+2National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">ask molly what really went on at area 51</span><span class="citation-popover-snippet">Ask Molly: What really went on at Area 51?1 Jul 2022 — Area 51 (also known as “Groom Lake,” “Paradise Ranch,” and several other names)...</span></span></span>
+For decades, the Nevada test facility was officially unacknowledged while hosting development of the U-2, A-12 OXCART and later advanced aircraft. Because local residents occasionally observed unfamiliar aircraft performing unusual manoeuvres without official explanation, rumours naturally accumulated around the site.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/stories/story/ask-molly-what-really-went-on-at-area-51/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA+2National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">ask molly what really went on at area 51</span><span class="citation-popover-snippet">Ask Molly: What really went on at Area 51?1 Jul 2022 — Area 51 (also known as “Groom Lake,” “Paradise Ranch,” and several other names)...</span></span></span>
 
 Once secrecy becomes established, every subsequent unexplained [observation]({{ 'observation/' | relative_url }}) is interpreted within that existing framework. New aircraft tests reinforce old rumours, while the inability to discuss classified programmes publicly encourages increasingly elaborate alternative explanations.
 
@@ -380,194 +380,194 @@ The U-2 and OXCART histories show that honest witnesses can observe genuinely re
 Instead, these Cold War episodes illustrate a recurring evidential pattern: extraordinary claims often emerge where real events intersect with limited observation and restricted information. For investigators of UFO reports, that history is less a solution to every mystery than a reminder that the strongest explanations must account for both what people truly saw and what they could not reasonably have known at the time.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Spy Planes Became UFOs. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Spy Planes Became UFOs. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Explains how secret aviation programs influenced UFO stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how secret aviation programs influenced UFO stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Places classified aircraft alongside other official cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places classified aircraft alongside other official cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports evidence-based assessment of extraordinary sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports evidence-based assessment of extraordinary sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Provides insider context on secret aircraft development.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides insider context on secret aircraft development.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="secret-tests-when-spy-planes-became-ufos-forteana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -583,7 +583,7 @@ Instead, these Cold War episodes illustrate a recurring evidential pattern: extr
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -603,7 +603,7 @@ Instead, these Cold War episodes illustrate a recurring evidential pattern: extr
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -635,7 +635,7 @@ Instead, these Cold War episodes illustrate a recurring evidential pattern: extr
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -687,7 +687,7 @@ Instead, these Cold War episodes illustrate a recurring evidential pattern: extr
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -732,7 +732,7 @@ Instead, these Cold War episodes illustrate a recurring evidential pattern: extr
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -773,154 +773,154 @@ Instead, these Cold War episodes illustrate a recurring evidential pattern: extr
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP80B01676R004000110001-7.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP80B01676R004000110001-7.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>U-2S, UFOS, AND OPERATION BLUE BOOKto the letter writers the true cause of the UFO sightings. U-2 and later. OXCART flights accounted...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP80B01676R004000110001-7.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP80B01676R004000110001-7.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U-2S, UFOS, AND OPERATION BLUE BOOKto the letter writers the true cause of the UFO sightings. U-2 and later. OXCART flights accounted...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/library/ciaufo.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA&#x27;s Role in the Study of UFOs, 1947-90This study traces CIA interest and involvement in the UFO controversy from the late 1940s to 1990...</p></details>
+   Link:<a href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/library/ciaufo.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CIA&#x27;s Role in the Study of UFOs, 1947-90This study traces CIA interest and involvement in the UFO controversy from the late 1940s to 1990...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cia.gov  
    Title: ask molly what really went on at area 51  
-   Link: <a href="https://www.cia.gov/stories/story/ask-molly-what-really-went-on-at-area-51/" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/stories/story/ask-molly-what-really-went-on-at-area-51/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ask Molly: What really went on at Area 51?1 Jul 2022 — Area 51 (also known as “Groom Lake,” “Paradise Ranch,” and several other names)...</p></details>
+   Link:<a href="https://www.cia.gov/stories/story/ask-molly-what-really-went-on-at-area-51/" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/stories/story/ask-molly-what-really-went-on-at-area-51/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ask Molly: What really went on at Area 51?1 Jul 2022 — Area 51 (also known as “Groom Lake,” “Paradise Ranch,” and several other names)...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cia.gov  
    Title: cia rdp80b01676r004000110001 7  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp80b01676r004000110001-7" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp80b01676r004000110001-7</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>U-2S, UFOS, AND OPERATION BLUE BOOKU-2 and later OXCART flights accounted for more than one-half of all UFO reports during the late 1950s...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp80b01676r004000110001-7" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp80b01676r004000110001-7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U-2S, UFOS, AND OPERATION BLUE BOOKU-2 and later OXCART flights accounted for more than one-half of all UFO reports during the late 1950s...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: space.com  
    Title: 28256 ufo sightings cia u2 aircraft  
-   Link: <a href="https://www.space.com/28256-ufo-sightings-cia-u2-aircraft.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/28256-ufo-sightings-cia-u2-aircraft.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA About UFOs of the 1950s and &#x27;60s: &#x27;It Was Us&#x27;Jan 14, 2015 — The CIA tweet has sparked its own UFO flap: Several analysts dispute...</p></details>
+   Link:<a href="https://www.space.com/28256-ufo-sightings-cia-u2-aircraft.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/28256-ufo-sightings-cia-u2-aircraft.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CIA About UFOs of the 1950s and &#x27;60s: &#x27;It Was Us&#x27;Jan 14, 2015 — The CIA tweet has sparked its own UFO flap: Several analysts dispute...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-003-THE_CENTRAL_INTELLIGENCE_AGENCY_AND_OVERHEAD_RECONNAISSANCE-THE_U-2_AND_OXCART_PROGRAMS_1954-1974.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-003-THE_CENTRAL_INTELLIGENCE_AGENCY_AND_OVERHEAD_RECONNAISSANCE-THE_U-2_AND_OXCART_PROGRAMS_1954-1974.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>intelligence agency andThis request led some CIA personnel to suspect that Nationalist China had learned about Project OXCART, the succes...</p></details>
+   Link:<a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-003-THE_CENTRAL_INTELLIGENCE_AGENCY_AND_OVERHEAD_RECONNAISSANCE-THE_U-2_AND_OXCART_PROGRAMS_1954-1974.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-003-THE_CENTRAL_INTELLIGENCE_AGENCY_AND_OVERHEAD_RECONNAISSANCE-THE_U-2_AND_OXCART_PROGRAMS_1954-1974.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>intelligence agency andThis request led some CIA personnel to suspect that Nationalist China had learned about Project OXCART, the succes...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.youtube.com/watch?v=jjinS2lZAsY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jjinS2lZAsY</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>3 The Secrets of Area 51 What the Government Doesn&#x27;t Want You to Know...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jjinS2lZAsY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jjinS2lZAsY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 The Secrets of Area 51 What the Government Doesn&#x27;t Want You to Know...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nsarchive2.gwu.edu  
    Title: National Security Archive The Secret History of the U-2  
-   Link: <a href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Security ArchiveThe Secret History of the U-2 - and Area 5115 Aug 2013 — CIA history reveals newly declassified material on U-2...</p></details>
+   Link:<a href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Security ArchiveThe Secret History of the U-2 - and Area 5115 Aug 2013 — CIA history reveals newly declassified material on U-2...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: history.navy.mil  
    Title: From Gregory W.Read more  
-   Link: <a href="https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Naval History and Heritage CommandU-2s, UFOs, and Operation Blue Book24 Jan 2024 — U-2 and later OXCART flights accounted for more than o...</p></details>
+   Link:<a href="https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Naval History and Heritage CommandU-2s, UFOs, and Operation Blue Book24 Jan 2024 — U-2 and later OXCART flights accounted for more than o...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: theguardian.com  
    Title: area 51 cia ufos aliens nevada  
-   Link: <a href="https://www.theguardian.com/world/2013/aug/16/area-51-cia-ufos-aliens-nevada" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2013/aug/16/area-51-cia-ufos-aliens-nevada</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Area 51&#x27;s existence confirmed by CIA as hotbed for...16 Aug 2013 — &quot;U-2 and later Oxcart flights accounted for more than one-half of all...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2013/aug/16/area-51-cia-ufos-aliens-nevada" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2013/aug/16/area-51-cia-ufos-aliens-nevada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Area 51&#x27;s existence confirmed by CIA as hotbed for...16 Aug 2013 — &quot;U-2 and later Oxcart flights accounted for more than one-half of all...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/US/area-51-revealed-cia-spy-plane-documents/story?id=19977635" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/US/area-51-revealed-cia-spy-plane-documents/story?id=19977635</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Area 51 Revealed in CIA Spy Plane Documents16 Aug 2013 — &quot;U-2 and later OXCART flights accounted for more than one-half of all UFO report...</p></details>
+   Link:<a href="https://abcnews.com/US/area-51-revealed-cia-spy-plane-documents/story?id=19977635" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/US/area-51-revealed-cia-spy-plane-documents/story?id=19977635</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Area 51 Revealed in CIA Spy Plane Documents16 Aug 2013 — &quot;U-2 and later OXCART flights accounted for more than one-half of all UFO report...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nsarchive.gwu.edu  
    Title: area 51 file secret aircraft soviet migs  
-   Link: <a href="https://nsarchive.gwu.edu/briefing-book/intelligence/2013-10-29/area-51-file-secret-aircraft-soviet-migs" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive.gwu.edu/briefing-book/intelligence/2013-10-29/area-51-file-secret-aircraft-soviet-migs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Area 51 File: Secret Aircraft and Soviet MiGs29 Oct 2013 — [1] For some enthusiasts Area 51 was a clandestine site for UFOs and extraterr...</p></details>
+   Link:<a href="https://nsarchive.gwu.edu/briefing-book/intelligence/2013-10-29/area-51-file-secret-aircraft-soviet-migs" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive.gwu.edu/briefing-book/intelligence/2013-10-29/area-51-file-secret-aircraft-soviet-migs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Area 51 File: Secret Aircraft and Soviet MiGs29 Oct 2013 — [1] For some enthusiasts Area 51 was a clandestine site for UFOs and extraterr...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>, the Air Force program for the investigation of UFOS. From 1947 to 1969, a total of 12, 618 sightings were reported to Project BLUE BOOK...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>, the Air Force program for the investigation of UFOS. From 1947 to 1969, a total of 12, 618 sightings were reported to Project BLUE BOOK...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: history.navy.mil  
-   Link: <a href="https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/u2s-ufos-and-operation-blue-book.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/u2s-ufos-and-operation-blue-book.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>navy.milU-2s, UFOs, and Operation Blue Book... UFO sightings. U-2 and later OXCART flights accounted for more than one-half of all UFO re...</p></details>
+   Link:<a href="https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/u2s-ufos-and-operation-blue-book.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/u2s-ufos-and-operation-blue-book.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>navy.milU-2s, UFOs, and Operation Blue Book... UFO sightings. U-2 and later OXCART flights accounted for more than one-half of all UFO re...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookBy the time Project Blue Book ended, it had collected 12,618 UFO reports, and concluded that most of them were miside...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookBy the time Project Blue Book ended, it had collected 12,618 UFO reports, and concluded that most of them were miside...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Area 51  
-   Link: <a href="https://en.wikipedia.org/wiki/Area_51" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Area_51</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Area 51The CIA publicly acknowledged the base&#x27;s existence on 25 June 2013, through a Freedom of Information Act (FOIA) request filed i...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Area_51" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Area_51</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Area 51The CIA publicly acknowledged the base&#x27;s existence on 25 June 2013, through a Freedom of Information Act (FOIA) request filed i...</p></details>
    Published: June 2013  
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: esd.whs.mil  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue BookThe United States Air Force has the responsibility under the Department of Defense for the investigation of unidentified flying...</p></details>
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue BookThe United States Air Force has the responsibility under the Department of Defense for the investigation of unidentified flying...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: theaviationgeekclub.com  
    Title: project blue book story ufo sightings used cover high altitude u 2 flights  
-   Link: <a href="https://theaviationgeekclub.com/project-blue-book-story-ufo-sightings-used-cover-high-altitude-u-2-flights/" target="_blank" rel="noopener noreferrer nofollow">https://theaviationgeekclub.com/project-blue-book-story-ufo-sightings-used-cover-high-altitude-u-2-flights/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PROJECT BLUE BOOK AND THE STORY OF HOW UFO...Project Blue Book. In the mid-1950s USAF and CIA used UFO sightings to cover very high alti...</p></details>
+   Link:<a href="https://theaviationgeekclub.com/project-blue-book-story-ufo-sightings-used-cover-high-altitude-u-2-flights/" target="_blank" rel="noopener noreferrer nofollow">https://theaviationgeekclub.com/project-blue-book-story-ufo-sightings-used-cover-high-altitude-u-2-flights/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PROJECT BLUE BOOK AND THE STORY OF HOW UFO...Project Blue Book. In the mid-1950s USAF and CIA used UFO sightings to cover very high alti...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The U-2 arid OXCARTProgr~ms;.. Intelligence Systems Panel and the. Developing the U-2 the U-2· Project...</p></details>
+   Link:<a href="https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The U-2 arid OXCARTProgr~ms;.. Intelligence Systems Panel and the. Developing the U-2 the U-2· Project...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: avi-loeb.medium.com  
    Title: uap disclosure 3 is most intriguing release thus far e4643013245b  
-   Link: <a href="https://avi-loeb.medium.com/uap-disclosure-3-is-most-intriguing-release-thus-far-e4643013245b" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/uap-disclosure-3-is-most-intriguing-release-thus-far-e4643013245b</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Disclosure #3 is the Most Intriguing Release Thus Far!The CIA&#x27;s own internal history admits that secret U-2 and OXCART spy-plane flights...</p></details>
+   Link:<a href="https://avi-loeb.medium.com/uap-disclosure-3-is-most-intriguing-release-thus-far-e4643013245b" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/uap-disclosure-3-is-most-intriguing-release-thus-far-e4643013245b</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disclosure #3 is the Most Intriguing Release Thus Far!The CIA&#x27;s own internal history admits that secret U-2 and OXCART spy-plane flights...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: universetoday.com  
    Title: the cia cheekily blames itself for 1950s ufo sightings  
-   Link: <a href="https://www.universetoday.com/articles/the-cia-cheekily-blames-itself-for-1950s-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/the-cia-cheekily-blames-itself-for-1950s-ufo-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>31 Dec 2014 — High-altitude testing of the U-2 soon led to an unexpected side effect -- a tremendous increase in reports of unidentified...</p></details>
+   Link:<a href="https://www.universetoday.com/articles/the-cia-cheekily-blames-itself-for-1950s-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/the-cia-cheekily-blames-itself-for-1950s-ufo-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>31 Dec 2014 — High-altitude testing of the U-2 soon led to an unexpected side effect -- a tremendous increase in reports of unidentified...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: leonarddavid.com  
    Title: cia claim ufos in 1950s1960s it was us or was it  
-   Link: <a href="https://www.leonarddavid.com/cia-claim-ufos-in-1950s1960s-it-was-us-or-was-it/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/cia-claim-ufos-in-1950s1960s-it-was-us-or-was-it/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA Claim – UFOs in 1950s/1960s: &#x27;It Was Us&#x27; … Or Was It?My new updated story on a controversial claim by the U.S. Central Intelligence A...</p></details>
+   Link:<a href="https://www.leonarddavid.com/cia-claim-ufos-in-1950s1960s-it-was-us-or-was-it/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/cia-claim-ufos-in-1950s1960s-it-was-us-or-was-it/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CIA Claim – UFOs in 1950s/1960s: &#x27;It Was Us&#x27; … Or Was It?My new updated story on a controversial claim by the U.S. Central Intelligence A...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: airandspaceforces.com  
    Title: declassified cia document released on u 2 oxcart  
-   Link: <a href="https://www.airandspaceforces.com/declassified-cia-document-released-on-u-2-oxcart/" target="_blank" rel="noopener noreferrer nofollow">https://www.airandspaceforces.com/declassified-cia-document-released-on-u-2-oxcart/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Declassified CIA Document Released on U-2, Oxcart19 Aug 2013 — George Washington University&#x27;s National Security Archive last week release...</p></details>
+   Link:<a href="https://www.airandspaceforces.com/declassified-cia-document-released-on-u-2-oxcart/" target="_blank" rel="noopener noreferrer nofollow">https://www.airandspaceforces.com/declassified-cia-document-released-on-u-2-oxcart/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Declassified CIA Document Released on U-2, Oxcart19 Aug 2013 — George Washington University&#x27;s National Security Archive last week release...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: defenseone.com  
    Title: area 51 has been hiding u 2 spy planes not ufos  
-   Link: <a href="https://www.defenseone.com/technology/2013/08/area-51-has-been-hiding-u-2-spy-planes-not-ufos/68951/" target="_blank" rel="noopener noreferrer nofollow">https://www.defenseone.com/technology/2013/08/area-51-has-been-hiding-u-2-spy-planes-not-ufos/68951/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Area 51 Has Been Hiding U-2 Spy Planes, Not UFOs19 Aug 2013 — By checking flight records, the Air Force found that “U-2 and later OXCART...</p></details>
+   Link:<a href="https://www.defenseone.com/technology/2013/08/area-51-has-been-hiding-u-2-spy-planes-not-ufos/68951/" target="_blank" rel="noopener noreferrer nofollow">https://www.defenseone.com/technology/2013/08/area-51-has-been-hiding-u-2-spy-planes-not-ufos/68951/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Area 51 Has Been Hiding U-2 Spy Planes, Not UFOs19 Aug 2013 — By checking flight records, the Air Force found that “U-2 and later OXCART...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: vault.fbi.gov  
    Title: Project Blue Book (UFO)  
-   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book (UFO)Project Blue Book Originally Project Blue Book was the Air Force name for a project that investigated UFO reports between...</p></details>
+   Link:<a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book (UFO)Project Blue Book Originally Project Blue Book was the Air Force name for a project that investigated UFO reports between...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: nsa.gov  
    Title: usaf fact sheet 95 03  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Bookby UF Sheet · Cited by 3 — The project, headquartered at Wright-Patterson Air...</p></details>
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Bookby UF Sheet · Cited by 3 — The project, headquartered at Wright-Patterson Air...</p></details>

@@ -280,7 +280,7 @@ Carl Jung's idea of **synchronicity** gives one of the best-known philosophical 
 <img src="{{ "/assets/images/forteana_50bdc8_uncanny_coincidences_4f1cf2_jung_synchronicity_c_c476fc-Illustration-1-dark.svg" | relative_url }}" alt="Synchronicity illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_uncanny_coincidences_4f1cf2_jung_synchronicity_c_c476fc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_uncanny_coincidences_4f1cf2_jung_synchronicity_c_c476fc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What synchronicity claims
 
-Jung introduced synchronicity gradually during the 1930s before presenting his fullest account in his 1952 essay *Synchronicity: An Acausal Connecting Principle*. He described synchronicity as the simultaneous occurrence of an inner psychological state and an external event that appear connected by meaning despite lacking an identifiable causal relationship. In his view, meaning itself could sometimes form a genuine pattern alongside physical causation rather than being merely a subjective interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://iaap.org/jung-analytical-psychology/short-articles-on-analytical-psychology/synchronicity-an-acausal-connecting-principle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iaap.org">[IAAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iaap.org</span><span class="citation-popover-snippet">Synchronicity: An Acausal Connecting PrincipleSynchronicity was defined by Jung as an acausal connecting principle, whereby internal...</span></span></span>
+Jung introduced synchronicity gradually during the 1930s before presenting his fullest account in his 1952 essay *Synchronicity: An Acausal Connecting Principle*. He described synchronicity as the simultaneous occurrence of an inner psychological state and an external event that appear connected by meaning despite lacking an identifiable causal relationship. In his view, meaning itself could sometimes form a genuine pattern alongside physical causation rather than being merely a subjective interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://iaap.org/jung-analytical-psychology/short-articles-on-analytical-psychology/synchronicity-an-acausal-connecting-principle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iaap.org">[IAAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iaap.org</span><span class="citation-popover-snippet">Synchronicity: An Acausal Connecting PrincipleSynchronicity was defined by Jung as an acausal connecting principle, whereby internal...</span></span></span>
 
 This is an important distinction. A synchronistic event is not simply:
 
@@ -295,7 +295,7 @@ This is an important distinction. A synchronistic event is not simply:
 
 Instead, Jung proposed that certain experiences unite two separate events through symbolic resonance. The connection is recognised psychologically rather than established through physical mechanisms.
 
-One of Jung's most famous examples occurred during psychotherapy. A patient described dreaming of a golden scarab when, according to Jung's account, a rose chafer beetle struck the consulting-room window at that moment. Jung regarded the timing as psychologically transformative because it broke through the patient's rigid scepticism. The importance lay not in the insect itself but in the symbolic convergence between dream and reality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Synchronicity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+One of Jung's most famous examples occurred during psychotherapy. A patient described dreaming of a golden scarab when, according to Jung's account, a rose chafer beetle struck the consulting-room window at that moment. Jung regarded the timing as psychologically transformative because it broke through the patient's rigid scepticism. The importance lay not in the insect itself but in the symbolic convergence between dream and reality.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Synchronicity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 For Jung, synchronicity therefore concerned **meaningful coincidence**, not simply improbable coincidence.
 
@@ -319,7 +319,7 @@ Examples frequently reported include:
 
 These experiences often occur during periods of grief, major life transitions, illness or identity change. In such moments people naturally search for coherence, and coincidences may feel less like isolated accidents than like narrative turning points.
 
-Jung believed that synchronistic experiences frequently emerged during periods when unconscious psychological material was becoming conscious. He connected this process with his broader theory of archetypes and the collective unconscious, suggesting that symbolic patterns could appear simultaneously in both inner experience and external events. Whether or not one accepts this theory, it explains why synchronicity has been especially influential in psychotherapy, religious studies and discussions of spiritual experience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://iaap.org/jung-analytical-psychology/short-articles-on-analytical-psychology/synchronicity-an-acausal-connecting-principle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iaap.org">[IAAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iaap.org</span><span class="citation-popover-snippet">Synchronicity: An Acausal Connecting PrincipleSynchronicity was defined by Jung as an acausal connecting principle, whereby internal...</span></span></span>
+Jung believed that synchronistic experiences frequently emerged during periods when unconscious psychological material was becoming conscious. He connected this process with his broader theory of archetypes and the collective unconscious, suggesting that symbolic patterns could appear simultaneously in both inner experience and external events. Whether or not one accepts this theory, it explains why synchronicity has been especially influential in psychotherapy, religious studies and discussions of spiritual experience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://iaap.org/jung-analytical-psychology/short-articles-on-analytical-psychology/synchronicity-an-acausal-connecting-principle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iaap.org">[IAAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iaap.org</span><span class="citation-popover-snippet">Synchronicity: An Acausal Connecting PrincipleSynchronicity was defined by Jung as an acausal connecting principle, whereby internal...</span></span></span>
 
 Unlike deterministic beliefs that every event has been pre-planned, synchronicity preserves an element of unpredictability. The coincidence is meaningful precisely because it appears unexpectedly and cannot be manufactured at will.
 
@@ -328,13 +328,13 @@ Unlike deterministic beliefs that every event has been pre-planned, synchronicit
 
 ## Jung's collaboration with Wolfgang Pauli
 
-One reason synchronicity attracted lasting attention is that Jung explored it alongside the Nobel Prize-winning physicist Wolfgang Pauli. Their long correspondence examined whether modern physics and depth [psychology]({{ 'psychology/' | relative_url }}) might eventually converge on a broader understanding of reality in which causality was not the only organising principle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://philpapers.org/rec/JUNTIO-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">Phil Papers C</span><span class="citation-popover-snippet">G. JUNG, The Interpretation of Nature and the Psycheby CG JUNG · 1955 · Cited by 707 — The Interpretation of Nature and the Psyche: Synch...</span></span></span>
+One reason synchronicity attracted lasting attention is that Jung explored it alongside the Nobel Prize-winning physicist Wolfgang Pauli. Their long correspondence examined whether modern physics and depth [psychology]({{ 'psychology/' | relative_url }}) might eventually converge on a broader understanding of reality in which causality was not the only organising principle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://philpapers.org/rec/JUNTIO-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">Phil Papers C</span><span class="citation-popover-snippet">G. JUNG, The Interpretation of Nature and the Psycheby CG JUNG · 1955 · Cited by 707 — The Interpretation of Nature and the Psyche: Synch...</span></span></span>
 
 This collaboration is often misunderstood.
 
 Pauli did not demonstrate synchronicity scientifically, nor did quantum mechanics prove Jung's theory. Instead, both men were interested in philosophical questions about whether mind and matter might share deeper forms of order that existing scientific concepts had not yet explained.
 
-Later popular writing frequently invoked quantum physics to justify synchronicity, but mainstream physicists generally regard these extensions as speculative rather than established science. The historical collaboration remains intellectually interesting without providing empirical confirmation of Jung's central claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://metanexus.net/wolfgang-pauli-carl-jung-and-acausal-connecting-principle-case-study-transdisciplinarity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metanexus.net">[Metanexus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metanexus.net</span><span class="citation-popover-snippet">Wolfgang Pauli, Carl Jung, and the Acausal Connecting...Jung&#x27;s theory of synchronicity posited that certain events-often called...</span></span></span>
+Later popular writing frequently invoked quantum physics to justify synchronicity, but mainstream physicists generally regard these extensions as speculative rather than established science. The historical collaboration remains intellectually interesting without providing empirical confirmation of Jung's central claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://metanexus.net/wolfgang-pauli-carl-jung-and-acausal-connecting-principle-case-study-transdisciplinarity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metanexus.net">[Metanexus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metanexus.net</span><span class="citation-popover-snippet">Wolfgang Pauli, Carl Jung, and the Acausal Connecting...Jung&#x27;s theory of synchronicity posited that certain events-often called...</span></span></span>
 
 ## Where meaning outruns evidence
 
@@ -351,7 +351,7 @@ This creates an important distinction:
 
 Jung largely concentrated on the first question while suggesting—without conclusively demonstrating—that the second might also be true.
 
-Modern psychology generally accepts that coincidences can have genuine therapeutic or emotional importance without requiring supernatural explanations. A meaningful experience may influence behaviour, memory or recovery regardless of how the coincidence arose. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Synchronicity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+Modern psychology generally accepts that coincidences can have genuine therapeutic or emotional importance without requiring supernatural explanations. A meaningful experience may influence behaviour, memory or recovery regardless of how the coincidence arose.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Synchronicity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_uncanny_coincidences_4f1cf2_jung_synchronicity_c_c476fc-Illustration-2-dark.svg" | relative_url }}" alt="Synchronicity illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_uncanny_coincidences_4f1cf2_jung_synchronicity_c_c476fc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_uncanny_coincidences_4f1cf2_jung_synchronicity_c_c476fc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -359,7 +359,7 @@ Modern psychology generally accepts that coincidences can have genuine therapeut
 
 The central scientific difficulty is that synchronicity lacks a reliable method of testing.
 
-If meaningful coincidences occur unpredictably, depend upon subjective interpretation and cannot be reproduced under controlled conditions, they are difficult to evaluate using conventional scientific methods. Critics therefore argue that synchronicity functions more as a philosophical or interpretive framework than as a testable theory of nature. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Synchronicity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+If meaningful coincidences occur unpredictably, depend upon subjective interpretation and cannot be reproduced under controlled conditions, they are difficult to evaluate using conventional scientific methods. Critics therefore argue that synchronicity functions more as a philosophical or interpretive framework than as a testable theory of nature.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Synchronicity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 Researchers also point to several well-established cognitive processes that make meaningful coincidences more likely to be noticed:
 
@@ -375,7 +375,7 @@ Researchers also point to several well-established cognitive processes that make
 
 These mechanisms do not necessarily explain every individual experience, but they reduce the need to invoke an unknown acausal principle. Statistical reasoning likewise shows that in lives containing millions of perceptions and interactions, highly unusual combinations are expected to occur occasionally.
 
-Consequently, mainstream psychology and scientific scepticism generally interpret synchronicity as an interesting description of subjective experience rather than evidence for paranormal forces or hidden laws of the universe. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Synchronicity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+Consequently, mainstream psychology and scientific scepticism generally interpret synchronicity as an interesting description of subjective experience rather than evidence for paranormal forces or hidden laws of the universe.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Synchronicity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Z1O7EiAdhgU" title="Carl Jung’s Synchronicity Explained: How the Universe Communicates With You" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Z1O7EiAdhgU" target="_blank" rel="noopener noreferrer">Carl Jung’s Synchronicity Explained: How the Universe Communicates With You</a></p><p class="youtube-embed-meta">Channel: Futureproof Orbit</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Z1O7EiAdhgU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Z1O7EiAdhgU">Open on YouTube</a></p></div></div></div>
@@ -406,194 +406,194 @@ That unresolved tension—between personal significance and objective demonstrat
 <img src="{{ "/assets/images/forteana_50bdc8_uncanny_coincidences_4f1cf2_jung_synchronicity_c_c476fc-Illustration-3-dark.svg" | relative_url }}" alt="Synchronicity illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_uncanny_coincidences_4f1cf2_jung_synchronicity_c_c476fc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_uncanny_coincidences_4f1cf2_jung_synchronicity_c_c476fc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can a Coincidence Be Meaningful but Not Proof?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can a Coincidence Be Meaningful but Not Proof?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Balances subjective meaning with critical thinking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Balances subjective meaning with critical thinking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
-        </h4>
-        <p class="fr-book-author">By Charles Fort</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
+</h4>
+<p class="fr-book-author">By Charles Fort</p>
         
-        <p class="fr-book-desc">Provides historical context for anomalous interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context for anomalous interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Man+and+His+Symbols+Carl+Gustav+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Man and His Symbols on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6534585-M.jpg" alt="Cover for Man and His Symbols" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Man+and+His+Symbols+Carl+Gustav+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Man and His Symbols">Man and His Symbols</a>
-        </h4>
-        <p class="fr-book-author">By Carl Gustav Jung</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Man+and+His+Symbols+Carl+Gustav+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Man and His Symbols on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6534585-M.jpg" alt="Cover for Man and His Symbols" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Man+and+His+Symbols+Carl+Gustav+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Man and His Symbols">Man and His Symbols</a>
+</h4>
+<p class="fr-book-author">By Carl Gustav Jung</p>
         
-        <p class="fr-book-desc">First published 1964. Subjects: Symbolism (Psychology), Psychanalyse, Rêves, Simbolismo (Psicología), Psicoanálisis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Man+and+His+Symbols+Carl+Gustav+Jung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1964. Subjects: Symbolism (Psychology), Psychanalyse, Rêves, Simbolismo (Psicología), Psicoanálisis.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Man+and+His+Symbols+Carl+Gustav+Jung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Synchronicity+-+An+Acausal+Connecting+Principle+Carl+Gustav+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Synchronicity - An Acausal Connecting Principle on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Synchronicity+-+An+Acausal+Connecting+Principle+Carl+Gustav+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Synchronicity - An Acausal Connecting Principle">Synchronicity - An Acausal Connecting Principle</a>
-        </h4>
-        <p class="fr-book-author">By Carl Gustav Jung, R. F. C. Hull</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Synchronicity+-+An+Acausal+Connecting+Principle+Carl+Gustav+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Synchronicity - An Acausal Connecting Principle on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Synchronicity+-+An+Acausal+Connecting+Principle+Carl+Gustav+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Synchronicity - An Acausal Connecting Principle">Synchronicity - An Acausal Connecting Principle</a>
+</h4>
+<p class="fr-book-author">By Carl Gustav Jung, R. F. C. Hull</p>
         
-        <p class="fr-book-desc">First published 2012. Subjects: Coincidence, Causation, Occultism, Parapsychology, Extrasensory perception.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Synchronicity+-+An+Acausal+Connecting+Principle+Carl+Gustav+Jung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2012. Subjects: Coincidence, Causation, Occultism, Parapsychology, Extrasensory perception.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Synchronicity+-+An+Acausal+Connecting+Principle+Carl+Gustav+Jung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Man+and+His+Symbols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Man and His Symbols</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Man+and+His+Symbols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Man and His Symbols</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PARANORMAL SNACKTIVITY - GHOST HALL Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/cb82bc876458c0948562.jpg' | relative_url }}" alt="Listing image for PARANORMAL SNACKTIVITY - GHOST HALL Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer">PARANORMAL SNACKTIVITY - GHOST HALL Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PARANORMAL SNACKTIVITY - GHOST HALL Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/cb82bc876458c0948562.jpg' | relative_url }}" alt="Listing image for PARANORMAL SNACKTIVITY - GHOST HALL Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer">PARANORMAL SNACKTIVITY - GHOST HALL Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: paranormal art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Home Wall Art Print - Vintage Spiritual Paranormal - OUIJA BOARD PRINT -A4,A3,A2"><img src="{{ '/assets/images/marketplace-covers/d774124c198e7e2efe0e.jpg' | relative_url }}" alt="Listing image for Home Wall Art Print - Vintage Spiritual Paranormal - OUIJA BOARD PRINT -A4,A3,A2" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer">Home Wall Art Print - Vintage Spiritual Paranormal - OUIJA BOARD PRINT -A4,A3,A2</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Home Wall Art Print - Vintage Spiritual Paranormal - OUIJA BOARD PRINT -A4,A3,A2"><img src="{{ '/assets/images/marketplace-covers/d774124c198e7e2efe0e.jpg' | relative_url }}" alt="Listing image for Home Wall Art Print - Vintage Spiritual Paranormal - OUIJA BOARD PRINT -A4,A3,A2" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer">Home Wall Art Print - Vintage Spiritual Paranormal - OUIJA BOARD PRINT -A4,A3,A2</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: paranormal art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Twin Paranormal Merch Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e81c3be635c0399faf40.jpg' | relative_url }}" alt="Listing image for Twin Paranormal Merch Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer">Twin Paranormal Merch Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Twin Paranormal Merch Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e81c3be635c0399faf40.jpg' | relative_url }}" alt="Listing image for Twin Paranormal Merch Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer">Twin Paranormal Merch Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: paranormal art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for National Paranormal Day Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/55ae121a3349eaf72d81.jpg' | relative_url }}" alt="Listing image for National Paranormal Day Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer">National Paranormal Day Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for National Paranormal Day Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/55ae121a3349eaf72d81.jpg' | relative_url }}" alt="Listing image for National Paranormal Day Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer">National Paranormal Day Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: paranormal art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="synchronicity-can-a-coincidence-be-meaningful-but-not-proof-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -609,7 +609,7 @@ That unresolved tension—between personal significance and objective demonstrat
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -629,7 +629,7 @@ That unresolved tension—between personal significance and objective demonstrat
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -661,7 +661,7 @@ That unresolved tension—between personal significance and objective demonstrat
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -713,7 +713,7 @@ That unresolved tension—between personal significance and objective demonstrat
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -758,7 +758,7 @@ That unresolved tension—between personal significance and objective demonstrat
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -799,104 +799,104 @@ That unresolved tension—between personal significance and objective demonstrat
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: iaap.org  
-   Link: <a href="https://iaap.org/jung-analytical-psychology/short-articles-on-analytical-psychology/synchronicity-an-acausal-connecting-principle/" target="_blank" rel="noopener noreferrer nofollow">https://iaap.org/jung-analytical-psychology/short-articles-on-analytical-psychology/synchronicity-an-acausal-connecting-principle/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Synchronicity: An Acausal Connecting PrincipleSynchronicity was defined by Jung as an acausal connecting principle, whereby internal...</p></details>
+   Link:<a href="https://iaap.org/jung-analytical-psychology/short-articles-on-analytical-psychology/synchronicity-an-acausal-connecting-principle/" target="_blank" rel="noopener noreferrer nofollow">https://iaap.org/jung-analytical-psychology/short-articles-on-analytical-psychology/synchronicity-an-acausal-connecting-principle/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Synchronicity: An Acausal Connecting PrincipleSynchronicity was defined by Jung as an acausal connecting principle, whereby internal...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: philpapers.org  
    Title: Phil Papers C  
-   Link: <a href="https://philpapers.org/rec/JUNTIO-6" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/JUNTIO-6</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>G. JUNG, The Interpretation of Nature and the Psycheby CG JUNG · 1955 · Cited by 707 — The Interpretation of Nature and the Psyche: Synch...</p></details>
+   Link:<a href="https://philpapers.org/rec/JUNTIO-6" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/JUNTIO-6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>G. JUNG, The Interpretation of Nature and the Psycheby CG JUNG · 1955 · Cited by 707 — The Interpretation of Nature and the Psyche: Synch...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Synchronicity" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Synchronicity</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Synchronicity" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Synchronicity</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Analytical psychology  
-   Link: <a href="https://en.wikipedia.org/wiki/Analytical_psychology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Analytical_psychology</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Analytical_psychology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Analytical_psychology</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: metanexus.net  
-   Link: <a href="https://metanexus.net/wolfgang-pauli-carl-jung-and-acausal-connecting-principle-case-study-transdisciplinarity/" target="_blank" rel="noopener noreferrer nofollow">https://metanexus.net/wolfgang-pauli-carl-jung-and-acausal-connecting-principle-case-study-transdisciplinarity/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wolfgang Pauli, Carl Jung, and the Acausal Connecting...Jung&#x27;s theory of synchronicity posited that certain events-often called...</p></details>
+   Link:<a href="https://metanexus.net/wolfgang-pauli-carl-jung-and-acausal-connecting-principle-case-study-transdisciplinarity/" target="_blank" rel="noopener noreferrer nofollow">https://metanexus.net/wolfgang-pauli-carl-jung-and-acausal-connecting-principle-case-study-transdisciplinarity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wolfgang Pauli, Carl Jung, and the Acausal Connecting...Jung&#x27;s theory of synchronicity posited that certain events-often called...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: jung-group.com  
-   Link: <a href="https://www.jung-group.com/en-ASIA/" target="_blank" rel="noopener noreferrer nofollow">https://www.jung-group.com/en-ASIA/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>JUNG - Switches and systemsLight, shading, air conditioning, energy, security, door communication and multimedia – JUNG systems provide t...</p></details>
+   Link:<a href="https://www.jung-group.com/en-ASIA/" target="_blank" rel="noopener noreferrer nofollow">https://www.jung-group.com/en-ASIA/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>JUNG - Switches and systemsLight, shading, air conditioning, energy, security, door communication and multimedia – JUNG systems provide t...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: encyclopedia.pub  
-   Link: <a href="https://encyclopedia.pub/entry/57678" target="_blank" rel="noopener noreferrer nofollow">https://encyclopedia.pub/entry/57678</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Synchronicity | Encyclopedia MDPI9 Jan 2025 — Jung developed the theory of synchronicity as a hypothetical noncausal principle serving as...</p></details>
+   Link:<a href="https://encyclopedia.pub/entry/57678" target="_blank" rel="noopener noreferrer nofollow">https://encyclopedia.pub/entry/57678</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Synchronicity | Encyclopedia MDPI9 Jan 2025 — Jung developed the theory of synchronicity as a hypothetical noncausal principle serving as...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: books.google.com  
-   Link: <a href="https://books.google.com/books/about/Synchronicity.html?id=4pSiCPS0q2MC" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Synchronicity.html?id=4pSiCPS0q2MC</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>google.comSynchronicity: An Acausal Connecting Principle - C. G. JungApr 15, 2013 — To Jung, synchonicity is a meaningful coincidence in...</p></details>
+   Link:<a href="https://books.google.com/books/about/Synchronicity.html?id=4pSiCPS0q2MC" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Synchronicity.html?id=4pSiCPS0q2MC</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>google.comSynchronicity: An Acausal Connecting Principle - C. G. JungApr 15, 2013 — To Jung, synchonicity is a meaningful coincidence in...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: drdavidhamilton.com  
-   Link: <a href="https://drdavidhamilton.com/synchronicity/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidhamilton.com/synchronicity/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>David R Hamilton PHD29 May 2025 — A synchronicity is a &#x27;meaningful coincidence&#x27; – when two seemingly related things (incidences) happen a...</p></details>
+   Link:<a href="https://drdavidhamilton.com/synchronicity/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidhamilton.com/synchronicity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David R Hamilton PHD29 May 2025 — A synchronicity is a &#x27;meaningful coincidence&#x27; – when two seemingly related things (incidences) happen a...</p></details>
    Published: May 2025  
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/799987083411428/posts/6710202279056516/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/799987083411428/posts/6710202279056516/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jung&#x27;s theory of synchronicity and meaningful coincidencesThe concept of synchronicity, as introduced by Carl Jung, refers to the occurre...</p></details>
+   Link:<a href="https://www.facebook.com/groups/799987083411428/posts/6710202279056516/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/799987083411428/posts/6710202279056516/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jung&#x27;s theory of synchronicity and meaningful coincidencesThe concept of synchronicity, as introduced by Carl Jung, refers to the occurre...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/history/synchronicity-concept" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/history/synchronicity-concept</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Synchronicity (concept) | History | Research StartersJung believed that the concept of synchronicity was proof of his theory of the colle...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/history/synchronicity-concept" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/history/synchronicity-concept</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Synchronicity (concept) | History | Research StartersJung believed that the concept of synchronicity was proof of his theory of the colle...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AishaYousafOfficial/posts/synchronicity-meaningful-coincidences-that-feel-too-precise-to-be-random-whats-f/1408071020675939/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AishaYousafOfficial/posts/synchronicity-meaningful-coincidences-that-feel-too-precise-to-be-random-whats-f/1408071020675939/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rl Jung, which holds that events are &quot;meaningful coincidences&quot; if they...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/AishaYousafOfficial/posts/synchronicity-meaningful-coincidences-that-feel-too-precise-to-be-random-whats-f/1408071020675939/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AishaYousafOfficial/posts/synchronicity-meaningful-coincidences-that-feel-too-precise-to-be-random-whats-f/1408071020675939/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rl Jung, which holds that events are &quot;meaningful coincidences&quot; if they...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/illumination/was-that-a-coincidence-or-something-more-profound-carl-jung-and-the-theory-of-synchronicity-fdf1cf58ed95" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/illumination/was-that-a-coincidence-or-something-more-profound-carl-jung-and-the-theory-of-synchronicity-fdf1cf58ed95</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>fers to the meaningful coincidences that occur in our lives.Read more...</p></details>
+   Link:<a href="https://medium.com/illumination/was-that-a-coincidence-or-something-more-profound-carl-jung-and-the-theory-of-synchronicity-fdf1cf58ed95" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/illumination/was-that-a-coincidence-or-something-more-profound-carl-jung-and-the-theory-of-synchronicity-fdf1cf58ed95</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fers to the meaningful coincidences that occur in our lives.Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
    Title: Research Gate Reflections on C  
-   Link: <a href="https://www.researchgate.net/publication/229828885_Reflections_on_C_G_Jung%27S_Concept_of_Synchronicity" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/229828885_Reflections_on_C_G_Jung%27S_Concept_of_Synchronicity</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>G. Jung&#x27;S Concept of SynchronicityHe defined synchronicity as an &quot;acausal connecting principle&quot; involving &quot;the simultaneous occurrence of...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/229828885_Reflections_on_C_G_Jung%27S_Concept_of_Synchronicity" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/229828885_Reflections_on_C_G_Jung%27S_Concept_of_Synchronicity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>G. Jung&#x27;S Concept of SynchronicityHe defined synchronicity as an &quot;acausal connecting principle&quot; involving &quot;the simultaneous occurrence of...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: fr.scribd.com  
    Title: Carl Jung and Synchronicity  
-   Link: <a href="https://fr.scribd.com/document/61165687/Carl-Jung-and-Synchronicity" target="_blank" rel="noopener noreferrer nofollow">https://fr.scribd.com/document/61165687/Carl-Jung-and-Synchronicity</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>scribd.comJung&#x27;s Synchronicity: A Guide | PDFHe believed these meaningful coincidences showed evidence of archetypes and the collective u...</p></details>
+   Link:<a href="https://fr.scribd.com/document/61165687/Carl-Jung-and-Synchronicity" target="_blank" rel="noopener noreferrer nofollow">https://fr.scribd.com/document/61165687/Carl-Jung-and-Synchronicity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>scribd.comJung&#x27;s Synchronicity: A Guide | PDFHe believed these meaningful coincidences showed evidence of archetypes and the collective u...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Carl Jung's Synchronicity Explained: How the Universe Communicates With You  
-   Link: <a href="https://www.youtube.com/watch?v=Z1O7EiAdhgU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Z1O7EiAdhgU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Synchronicity — Why Meaningful Coincidences Intensify During Transformation (Jung + Alchemy)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Z1O7EiAdhgU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Z1O7EiAdhgU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Synchronicity — Why Meaningful Coincidences Intensify During Transformation (Jung + Alchemy)...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: thisjungianlife.com  
-   Link: <a href="https://thisjungianlife.com/jungandsynchronicity/" target="_blank" rel="noopener noreferrer nofollow">https://thisjungianlife.com/jungandsynchronicity/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jung&#x27;s Concept of Synchronicity14 Aug 2018 — Carl Jung taught us that synchronicity refers to meaningful coincidences, defying rational e...</p></details>
+   Link:<a href="https://thisjungianlife.com/jungandsynchronicity/" target="_blank" rel="noopener noreferrer nofollow">https://thisjungianlife.com/jungandsynchronicity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jung&#x27;s Concept of Synchronicity14 Aug 2018 — Carl Jung taught us that synchronicity refers to meaningful coincidences, defying rational e...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/commentisfree/2011/jul/04/carl-jung-synchronicity" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/commentisfree/2011/jul/04/carl-jung-synchronicity</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Carl Jung, part 6: Synchronicity | Mark Vernon4 Jul 2011 — However, both agreed that evidence won&#x27;t resolve the difference because meanin...</p></details>
+   Link:<a href="https://www.theguardian.com/commentisfree/2011/jul/04/carl-jung-synchronicity" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/commentisfree/2011/jul/04/carl-jung-synchronicity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Carl Jung, part 6: Synchronicity | Mark Vernon4 Jul 2011 — However, both agreed that evidence won&#x27;t resolve the difference because meanin...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Jung's Theory That Proves Coincidences Don't Exist  
-   Link: <a href="https://www.youtube.com/watch?v=ErV6ODXfZ_U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ErV6ODXfZ_U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Carl Jung&#x27;s Synchronicity Explained: How the Universe Communicates With You...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ErV6ODXfZ_U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ErV6ODXfZ_U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Carl Jung&#x27;s Synchronicity Explained: How the Universe Communicates With You...</p></details>

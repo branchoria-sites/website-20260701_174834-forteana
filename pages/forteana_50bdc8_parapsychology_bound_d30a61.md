@@ -447,7 +447,7 @@ image: /assets/images/forteana_50bdc8_parapsychology_bound_d30a61-overview-socia
 
 ## Introduction
 
-Parapsychology fits inside Forteana as a narrower, more rule-bound attempt to study alleged psychic phenomena: telepathy, clairvoyance, precognition, psychokinesis, [remote viewing]({{ 'remote-viewing/' | relative_url }}), apparitional experiences and related claims. Forteana keeps many anomalous reports in view, often across folklore, journalism, science, hoaxing and cultural memory. Parapsychology asks a more specific question: can information, influence or experience occur through means not currently recognised by ordinary psychology, biology or physics? That narrower focus matters because it creates a boundary problem. Parapsychology shares Forteana’s interest in reports that sit awkwardly outside accepted explanation, but it also tries to govern those reports through experiments, controls, journals, professional associations and statistical arguments. The dispute is therefore not only whether “psi” exists. It is also about who gets to set [evidence standards]({{ 'evidence-standard/' | relative_url }}) for anomalies, what counts as replication, and when a strange report should remain a Fortean curiosity rather than become a scientific claim. The Society for Psychical Research describes itself as the first organisation devoted to scholarly investigation of experiences challenging contemporary scientific models, while the Parapsychological Association defines its field around the study of psi experiences such as telepathy, clairvoyance, psychokinesis, psychic healing and precognition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spr.ac.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spr.ac.uk">[spr.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spr.ac.uk</span><span class="citation-popover-snippet">Society for Psychical ResearchFounded in 1882, the SPR was the first organisation to conduct scholarly research into human experiences th...</span></span></span>
+Parapsychology fits inside Forteana as a narrower, more rule-bound attempt to study alleged psychic phenomena: telepathy, clairvoyance, precognition, psychokinesis, [remote viewing]({{ 'remote-viewing/' | relative_url }}), apparitional experiences and related claims. Forteana keeps many anomalous reports in view, often across folklore, journalism, science, hoaxing and cultural memory. Parapsychology asks a more specific question: can information, influence or experience occur through means not currently recognised by ordinary psychology, biology or physics? That narrower focus matters because it creates a boundary problem. Parapsychology shares Forteana’s interest in reports that sit awkwardly outside accepted explanation, but it also tries to govern those reports through experiments, controls, journals, professional associations and statistical arguments. The dispute is therefore not only whether “psi” exists. It is also about who gets to set [evidence standards]({{ 'evidence-standard/' | relative_url }}) for anomalies, what counts as replication, and when a strange report should remain a Fortean curiosity rather than become a scientific claim. The Society for Psychical Research describes itself as the first organisation devoted to scholarly investigation of experiences challenging contemporary scientific models, while the Parapsychological Association defines its field around the study of psi experiences such as telepathy, clairvoyance, psychokinesis, psychic healing and precognition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spr.ac.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spr.ac.uk">[spr.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spr.ac.uk</span><span class="citation-popover-snippet">Society for Psychical ResearchFounded in 1882, the SPR was the first organisation to conduct scholarly research into human experiences th...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_parapsychology_bound_d30a61-overview.webp" | relative_url }}" alt="Overview image for Parapsychology" loading="eager" decoding="sync" fetchpriority="high">
@@ -455,11 +455,11 @@ Parapsychology fits inside Forteana as a narrower, more rule-bound attempt to st
 
 Parapsychology and [Forteana]({{ 'forteana/' | relative_url }}) meet at the point where people report experiences that feel evidential but do not fit ordinary categories. A person dreams of a death before hearing the news; a medium appears to know private details; a subject in a laboratory seems to identify a hidden target; a “remote viewer” sketches a distant location; a poltergeist case includes moving objects, frightened witnesses and confused local authorities. These are recognisably Fortean because they are reported as real-world anomalies. They are recognisably parapsychological when the claim is narrowed to mind, perception, intention or survival after death.
 
-That overlap is older than the modern word “Forteana”. The Society for Psychical Research, founded in 1882, investigated mediumship, [apparitions]({{ 'apparitions/' | relative_url }}), telepathy and other extraordinary claims using committees, reports and journals rather than leaving them solely to séance culture or newspaper marvels. Cambridge University Library’s description of the SPR archive notes that the society initially focused on investigating, exposing and reproducing fake psychic effects, while also creating administrative and methodological systems for paranormal investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lib.cam.ac.uk/collections/departments/archives-modern-and-medieval-manuscripts-and-university-archives-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lib.cam.ac.uk">[lib.cam.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lib.cam.ac.uk</span><span class="citation-popover-snippet">Open source on cam.ac.uk.</span></span></span>
+That overlap is older than the modern word “Forteana”. The Society for Psychical Research, founded in 1882, investigated mediumship, [apparitions]({{ 'apparitions/' | relative_url }}), telepathy and other extraordinary claims using committees, reports and journals rather than leaving them solely to séance culture or newspaper marvels. Cambridge University Library’s description of the SPR archive notes that the society initially focused on investigating, exposing and reproducing fake psychic effects, while also creating administrative and methodological systems for paranormal investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lib.cam.ac.uk/collections/departments/archives-modern-and-medieval-manuscripts-and-university-archives-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lib.cam.ac.uk">[lib.cam.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lib.cam.ac.uk</span><span class="citation-popover-snippet">Open source on cam.ac.uk.</span></span></span>
 
-[Charles Fort]({{ 'charles-fort/' | relative_url }})’s own writing also crossed into psychical territory. His final book, *Wild Talents*, collected reports of apparent human powers, poltergeist-like disturbances, dowsing, telekinesis and other claims that later readers would recognise as close to parapsychology. But Fort’s method differed from laboratory parapsychology. He piled up anomalies to unsettle confident explanation; he did not usually try to reduce them to a testable psychic mechanism. That difference is the first boundary: Forteana often preserves the strangeness of a report, while parapsychology tries to decide whether a narrower psychic hypothesis can survive controlled examination. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sacred-texts.com/fort/wild/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-title">Internet Sacred Text Archive Wild Talents Index</span><span class="citation-popover-snippet">Internet Sacred Text Archive Wild Talents Index</span></span></span>
+[Charles Fort]({{ 'charles-fort/' | relative_url }})’s own writing also crossed into psychical territory. His final book, *Wild Talents*, collected reports of apparent human powers, poltergeist-like disturbances, dowsing, telekinesis and other claims that later readers would recognise as close to parapsychology. But Fort’s method differed from laboratory parapsychology. He piled up anomalies to unsettle confident explanation; he did not usually try to reduce them to a testable psychic mechanism. That difference is the first boundary: Forteana often preserves the strangeness of a report, while parapsychology tries to decide whether a narrower psychic hypothesis can survive controlled examination.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sacred-texts.com/fort/wild/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-title">Internet Sacred Text Archive Wild Talents Index</span><span class="citation-popover-snippet">Internet Sacred Text Archive Wild Talents Index</span></span></span>
 
-The distinction is useful because it prevents two common [mistakes]({{ 'mistakes/' | relative_url }}). The first is to treat every Fortean story about ghosts, [coincidences]({{ 'coincidences/' | relative_url }}) or mysterious forces as if it were a formal parapsychology claim. The second is to treat laboratory parapsychology as if it were merely a more technical version of ghost hunting. In practice, parapsychology has developed its own institutions, vocabulary and disputes: “psi” as a broad label, “ESP” for alleged information transfer without normal senses, “psychokinesis” for alleged mind-matter influence, and experimental formats such as card guessing, ganzfeld telepathy tests and remote viewing protocols. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://parapsychological.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parapsychological.org">[parapsychological.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parapsychological.org</span><span class="citation-popover-snippet">Parapsychological Association – A professional organization...The Parapsychological Association is an international professional organiz...</span></span></span>
+The distinction is useful because it prevents two common [mistakes]({{ 'mistakes/' | relative_url }}). The first is to treat every Fortean story about ghosts, [coincidences]({{ 'coincidences/' | relative_url }}) or mysterious forces as if it were a formal parapsychology claim. The second is to treat laboratory parapsychology as if it were merely a more technical version of ghost hunting. In practice, parapsychology has developed its own institutions, vocabulary and disputes: “psi” as a broad label, “ESP” for alleged information transfer without normal senses, “psychokinesis” for alleged mind-matter influence, and experimental formats such as card guessing, ganzfeld telepathy tests and remote viewing protocols.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://parapsychological.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parapsychological.org">[parapsychological.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parapsychological.org</span><span class="citation-popover-snippet">Parapsychological Association – A professional organization...The Parapsychological Association is an international professional organiz...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_parapsychology_bound_d30a61-Illustration-1-dark.svg" | relative_url }}" alt="Parapsychology illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_parapsychology_bound_d30a61-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_parapsychology_bound_d30a61-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -467,9 +467,9 @@ The distinction is useful because it prevents two common [mistakes]({{ 'mistakes
 
 Forteana can tolerate unresolved cases. Parapsychology cannot do so as easily, because it presents some claims as experimentally investigable. Once a claim is put into a laboratory or a government-funded programme, it must meet standards about blinding, randomisation, sensory leakage, selective reporting, fraud prevention and replication. The governance question is therefore central: how do investigators stop an anomalous result from being produced by chance, cueing, poor controls, experimenter expectancy, data selection or ordinary human error?
 
-The early SPR shows the double role that has followed parapsychology ever since. It was not simply a believers’ club, because exposure of fraud and methodological testing were part of its remit. But it was also not a conventional sceptical organisation, because many members took seriously the possibility that some claims might be genuine. That mixed posture made it institutionally unusual: open to anomalies, but formally concerned with records, testimony, controls and publication. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lib.cam.ac.uk/collections/departments/archives-modern-and-medieval-manuscripts-and-university-archives-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lib.cam.ac.uk">[lib.cam.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lib.cam.ac.uk</span><span class="citation-popover-snippet">Open source on cam.ac.uk.</span></span></span>
+The early SPR shows the double role that has followed parapsychology ever since. It was not simply a believers’ club, because exposure of fraud and methodological testing were part of its remit. But it was also not a conventional sceptical organisation, because many members took seriously the possibility that some claims might be genuine. That mixed posture made it institutionally unusual: open to anomalies, but formally concerned with records, testimony, controls and publication.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lib.cam.ac.uk/collections/departments/archives-modern-and-medieval-manuscripts-and-university-archives-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lib.cam.ac.uk">[lib.cam.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lib.cam.ac.uk</span><span class="citation-popover-snippet">Open source on cam.ac.uk.</span></span></span>
 
-Modern parapsychology’s governance structure is visible in its professional organisations and journals. The Parapsychological Association, founded in 1957 and affiliated with the American Association for the Advancement of Science since 1969, presents itself as an international organisation for scientists and scholars studying psi experiences. The SPR continues to publish the *Journal of the Society for Psychical Research*, a serial that began in 1884 and is still listed as active by the University of Pennsylvania’s Online Books Page. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://parapsychological.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parapsychological.org">[parapsychological.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parapsychological.org</span><span class="citation-popover-snippet">Parapsychological Association – A professional organization...The Parapsychological Association is an international professional organiz...</span></span></span>
+Modern parapsychology’s governance structure is visible in its professional organisations and journals. The Parapsychological Association, founded in 1957 and affiliated with the American Association for the Advancement of Science since 1969, presents itself as an international organisation for scientists and scholars studying psi experiences. The SPR continues to publish the *Journal of the Society for Psychical Research*, a serial that began in 1884 and is still listed as active by the University of Pennsylvania’s Online Books Page.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://parapsychological.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parapsychological.org">[parapsychological.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parapsychological.org</span><span class="citation-popover-snippet">Parapsychological Association – A professional organization...The Parapsychological Association is an international professional organiz...</span></span></span>
 
 Yet formal institutions do not settle the evidence question. They only define where the argument can happen. A Fortean magazine or archive may preserve a strange case because it is culturally persistent or unresolved. A parapsychology paper must answer a harder question: does the result exceed chance under conditions strong enough to rule out normal information transfer, bias and error? That is why parapsychology has often become a test case for demarcation: not simply “science versus superstition”, but the harder issue of what happens when a marginal field adopts scientific-looking procedures yet remains rejected by most mainstream scientists.
 
@@ -480,9 +480,9 @@ Yet formal institutions do not settle the evidence question. They only define wh
 
 The clearest boundary between Forteana and parapsychology is the kind of evidence each can use. Forteana is comfortable with case files: old newspaper reports, witness testimony, local legends, police notes, odd coincidences and recurring motifs. These can be valuable for historical and cultural analysis even when they do not prove the claimed phenomenon. Parapsychology may use cases too, but its strongest bid for scientific recognition has usually come from experiments and meta-analyses.
 
-The ganzfeld debate shows the problem. In a typical ganzfeld telepathy experiment, a “receiver” is placed in mild sensory homogenisation and later chooses which of several images or clips was the target allegedly being sent by another person. Advocates have argued that aggregated results show above-chance scoring. Critics have replied that early studies had weaknesses involving randomisation, documentation, sensory leakage, target handling and selective interpretation. The Psi Encyclopedia’s account of ganzfeld meta-analysis notes that Ray Hyman began evaluating 42 ganzfeld studies in the early 1980s because they were thought to represent relatively sophisticated parapsychological research, but his critique focused heavily on methodological flaws. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/meta-analysis-parapsychology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">Psi Encyclopedia Meta-Analysis in Parapsychology</span><span class="citation-popover-snippet">Psi Encyclopedia Meta-Analysis in Parapsychology</span></span></span>
+The ganzfeld debate shows the problem. In a typical ganzfeld telepathy experiment, a “receiver” is placed in mild sensory homogenisation and later chooses which of several images or clips was the target allegedly being sent by another person. Advocates have argued that aggregated results show above-chance scoring. Critics have replied that early studies had weaknesses involving randomisation, documentation, sensory leakage, target handling and selective interpretation. The Psi Encyclopedia’s account of ganzfeld meta-analysis notes that Ray Hyman began evaluating 42 ganzfeld studies in the early 1980s because they were thought to represent relatively sophisticated parapsychological research, but his critique focused heavily on methodological flaws.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/meta-analysis-parapsychology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">Psi Encyclopedia Meta-Analysis in Parapsychology</span><span class="citation-popover-snippet">Psi Encyclopedia Meta-Analysis in Parapsychology</span></span></span>
 
-This dispute did not end with one side simply winning. Parapsychologists refined procedures, critics refined objections, and meta-analyses became part of the argument. A later free-response meta-analysis by Lance Storm and colleagues reported statistically significant hit rates across studies from 1992 to 2008, while sceptical responses argued that meta-analysis cannot substitute for independently repeatable, well-controlled effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aiprinc.org/documents/para-ac02_Storm_et_al_2010a_Meta_Analysis.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiprinc.org">[aiprinc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiprinc.org</span><span class="citation-popover-title">para ac02 Storm et al 2010a Meta Analysis</span><span class="citation-popover-snippet">para ac02 Storm et al 2010a Meta Analysis</span></span></span>
+This dispute did not end with one side simply winning. Parapsychologists refined procedures, critics refined objections, and meta-analyses became part of the argument. A later free-response meta-analysis by Lance Storm and colleagues reported statistically significant hit rates across studies from 1992 to 2008, while sceptical responses argued that meta-analysis cannot substitute for independently repeatable, well-controlled effects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aiprinc.org/documents/para-ac02_Storm_et_al_2010a_Meta_Analysis.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiprinc.org">[aiprinc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiprinc.org</span><span class="citation-popover-title">para ac02 Storm et al 2010a Meta Analysis</span><span class="citation-popover-snippet">para ac02 Storm et al 2010a Meta Analysis</span></span></span>
 
 That is the governance lesson: in contested anomaly research, “statistically significant” is not the same as “accepted as real”. A result must also survive questions about the prior plausibility of the claim, the severity of the test, undisclosed flexibility in analysis, publication bias, laboratory independence and whether the effect can be used predictably. For Forteana, a stubborn case may remain interesting because it resists closure. For parapsychology, resistance to closure is not enough; the field needs results that can be repeated under conditions agreed in advance.
 
@@ -490,11 +490,11 @@ That is the governance lesson: in contested anomaly research, “statistically s
 
 Remote viewing is a useful concrete example because it moved parapsychology from private curiosity into government evaluation. During the Cold War, US intelligence and defence agencies funded research into whether people could describe distant targets without ordinary sensory access. The programme later became widely associated with the name Stargate. It is Fortean in flavour because it involves hidden knowledge, spies, secret archives and extraordinary claims; it is parapsychological in method because the core claim concerns anomalous information acquisition under controlled or semi-controlled conditions.
 
-The 1995 American Institutes for Research evaluation, prepared after CIA involvement, framed the central questions in unusually clear governance terms: Was there a statistically significant effect? Could any observed effect be attributed to a paranormal phenomenon? What mechanisms or boundary conditions might explain it? What use, if any, did it have for intelligence operations? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB438/docs/doc_57.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-snippet">Open source on gwu.edu.</span></span></span>
+The 1995 American Institutes for Research evaluation, prepared after CIA involvement, framed the central questions in unusually clear governance terms: Was there a statistically significant effect? Could any observed effect be attributed to a paranormal phenomenon? What mechanisms or boundary conditions might explain it? What use, if any, did it have for intelligence operations?<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB438/docs/doc_57.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-snippet">Open source on gwu.edu.</span></span></span>
 
-The review became famous because its two expert reviewers diverged. Statistician Jessica Utts argued that the laboratory evidence showed a statistically significant anomaly; psychologist Ray Hyman argued that concluding paranormal functioning existed was premature and that independent replication and stronger controls were still needed. The CIA’s own released material records that the reviewers were chosen to represent more favourable and more sceptical interpretations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">Open source on cia.gov.</span></span></span>
+The review became famous because its two expert reviewers diverged. Statistician Jessica Utts argued that the laboratory evidence showed a statistically significant anomaly; psychologist Ray Hyman argued that concluding paranormal functioning existed was premature and that independent replication and stronger controls were still needed. The CIA’s own released material records that the reviewers were chosen to represent more favourable and more sceptical interpretations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">Open source on cia.gov.</span></span></span>
 
-For boundary-setting, the operational conclusion mattered as much as the statistical debate. The programme did not produce intelligence judged reliable enough for practical use, and it was terminated. That outcome shows why parapsychology’s place in Forteana is not only about belief. Once a claimed ability is proposed for policy, intelligence, policing, medicine or public decision-making, the evidence threshold rises sharply. An intriguing anomaly may justify historical study, but a state programme needs dependable performance, error rates, accountability and clear value over ordinary methods. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB438/docs/doc_57.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-snippet">Open source on gwu.edu.</span></span></span>
+For boundary-setting, the operational conclusion mattered as much as the statistical debate. The programme did not produce intelligence judged reliable enough for practical use, and it was terminated. That outcome shows why parapsychology’s place in Forteana is not only about belief. Once a claimed ability is proposed for policy, intelligence, policing, medicine or public decision-making, the evidence threshold rises sharply. An intriguing anomaly may justify historical study, but a state programme needs dependable performance, error rates, accountability and clear value over ordinary methods.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB438/docs/doc_57.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-snippet">Open source on gwu.edu.</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_parapsychology_bound_d30a61-Illustration-2-dark.svg" | relative_url }}" alt="Parapsychology illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_parapsychology_bound_d30a61-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_parapsychology_bound_d30a61-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -502,7 +502,7 @@ For boundary-setting, the operational conclusion mattered as much as the statist
 
 A further boundary runs between parapsychology and anomalistic [psychology]({{ 'psychology/' | relative_url }}). Parapsychology asks whether psi effects exist. Anomalistic psychology asks why people have experiences and beliefs that they interpret as paranormal, without assuming that paranormal forces are real. This is not a trivial difference in tone; it changes the research question.
 
-The American Psychological Association’s discussion of paranormal belief describes anomalistic psychology as an effort to test non-paranormal explanations, usually psychological ones, for reports such as ghosts, Ouija experiences and ESP. Chris French’s work in the field has focused on how memory, expectation, sleep paralysis, coincidence, perceptual ambiguity and belief shape extraordinary experiences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.apa.org/news/podcasts/speaking-of-psychology/paranormal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">Open source on apa.org.</span></span></span>
+The American Psychological Association’s discussion of paranormal belief describes anomalistic psychology as an effort to test non-paranormal explanations, usually psychological ones, for reports such as ghosts, Ouija experiences and ESP. Chris French’s work in the field has focused on how memory, expectation, sleep paralysis, coincidence, perceptual ambiguity and belief shape extraordinary experiences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.apa.org/news/podcasts/speaking-of-psychology/paranormal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">Open source on apa.org.</span></span></span>
 
 This matters for Forteana because many Fortean cases are not solved by asking whether a witness is honest. A person can be sincere and still misperceive, misremember, confabulate, be primed by local legend, experience sleep-related hallucinations, or interpret coincidence as meaningful design. A case can therefore be psychologically real without being paranormally real.
 
@@ -527,9 +527,9 @@ That framework keeps the Fortean openness to anomalous testimony while preventin
 
 The boundary remains contested because parapsychology occupies an uncomfortable middle position. It is too experimental to be treated as mere folklore, but too disputed to be accepted as normal science. It has journals, societies, statistical literatures and research traditions, yet its claimed effects remain controversial, small, difficult to reproduce and lacking an agreed mechanism.
 
-Mainstream reviews have often been negative. The National Research Council’s 1988 chapter on paranormal phenomena in *Enhancing Human Performance* reviewed parapsychological claims in the context of human performance techniques, while later debates over remote viewing and ganzfeld experiments repeatedly returned to the same issues: controls, replication, interpretation and whether statistical anomalies justify paranormal conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/1025/chapter/13" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">Open source on nationalacademies.org.</span></span></span>
+Mainstream reviews have often been negative. The National Research Council’s 1988 chapter on paranormal phenomena in *Enhancing Human Performance* reviewed parapsychological claims in the context of human performance techniques, while later debates over remote viewing and ganzfeld experiments repeatedly returned to the same issues: controls, replication, interpretation and whether statistical anomalies justify paranormal conclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/1025/chapter/13" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">Open source on nationalacademies.org.</span></span></span>
 
-Parapsychologists counter that the field has often adopted stricter procedures precisely because of criticism: tighter blinding, automated randomisation, pre-specified analyses, meta-analysis and, more recently, interest in preregistration and registered reports. The broader replication crisis in psychology has made this argument more complicated. Some parapsychology advocates note that mainstream psychology itself has struggled with questionable research practices, publication bias and failed replications; critics reply that psi claims have a higher burden because they challenge well-supported background knowledge. A Royal Society Open Science article on improving research value explicitly discusses transparency measures such as preregistration and registered reports in relation to psychological science and parapsychology, including replication work on Bem’s 2011 precognition experiment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://royalsocietypublishing.org/rsos/article/10/2/191375/91837/Raising-the-value-of-research-studies-in" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsocietypublishing.org">[Royal Society Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsocietypublishing.org</span><span class="citation-popover-snippet">Open source on royalsocietypublishing.org.</span></span></span>
+Parapsychologists counter that the field has often adopted stricter procedures precisely because of criticism: tighter blinding, automated randomisation, pre-specified analyses, meta-analysis and, more recently, interest in preregistration and registered reports. The broader replication crisis in psychology has made this argument more complicated. Some parapsychology advocates note that mainstream psychology itself has struggled with questionable research practices, publication bias and failed replications; critics reply that psi claims have a higher burden because they challenge well-supported background knowledge. A Royal Society Open Science article on improving research value explicitly discusses transparency measures such as preregistration and registered reports in relation to psychological science and parapsychology, including replication work on Bem’s 2011 precognition experiment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://royalsocietypublishing.org/rsos/article/10/2/191375/91837/Raising-the-value-of-research-studies-in" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsocietypublishing.org">[Royal Society Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsocietypublishing.org</span><span class="citation-popover-snippet">Open source on royalsocietypublishing.org.</span></span></span>
 
 The most durable dispute is therefore not simply “believers versus sceptics”. It is about evidential governance under high uncertainty. Parapsychologists often argue that repeated small statistical effects deserve continued study. Sceptics often argue that small effects in flexible, controversial research domains are exactly where bias, leakage and selective reporting can masquerade as discovery. Forteana sits around this dispute as the broader cultural container: it preserves the cases, arguments and failures of closure that keep the question alive.
 
@@ -554,194 +554,194 @@ That is why the boundary remains productive. Parapsychology gives Forteana its m
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Where Does Parapsychology Fit in Forteana?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Where Does Parapsychology Fit in Forteana?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Balances extraordinary claims with scientific skepticism.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Balances extraordinary claims with scientific skepticism.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Explores why remarkable stories and beliefs persist across generations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Explores why remarkable stories and beliefs persist across generations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
-        </h4>
-        <p class="fr-book-author">By Charles Fort</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
+</h4>
+<p class="fr-book-author">By Charles Fort</p>
         
-        <p class="fr-book-desc">Shows the broader anomalous tradition surrounding parapsychology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows the broader anomalous tradition surrounding parapsychology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+conscious+universe+Dean+I.+Radin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The conscious universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/48758-M.jpg" alt="Cover for The conscious universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+conscious+universe+Dean+I.+Radin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The conscious universe">The conscious universe</a>
-        </h4>
-        <p class="fr-book-author">By Dean I. Radin, Radin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+conscious+universe+Dean+I.+Radin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The conscious universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/48758-M.jpg" alt="Cover for The conscious universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+conscious+universe+Dean+I.+Radin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The conscious universe">The conscious universe</a>
+</h4>
+<p class="fr-book-author">By Dean I. Radin, Radin</p>
         
-        <p class="fr-book-desc">First published 1997. Subjects: Parapsychology, Case studies, Cas, Études de, Paranormale verschijnselen, Parapsychologie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+conscious+universe+Dean+I.+Radin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1997. Subjects: Parapsychology, Case studies, Cas, Études de, Paranormale verschijnselen, Parapsychologie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+conscious+universe+Dean+I.+Radin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for National Paranormal Day Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/55ae121a3349eaf72d81.jpg' | relative_url }}" alt="Listing image for National Paranormal Day Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer">National Paranormal Day Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for National Paranormal Day Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/55ae121a3349eaf72d81.jpg' | relative_url }}" alt="Listing image for National Paranormal Day Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer">National Paranormal Day Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: paranormal art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Minimalist Ghost Trap Poster - Paranormal-Inspired Wall Art Print Gift Decor"><img src="{{ '/assets/images/marketplace-covers/d75f042b15766aa0acd7.jpg' | relative_url }}" alt="Listing image for Minimalist Ghost Trap Poster - Paranormal-Inspired Wall Art Print Gift Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer">Minimalist Ghost Trap Poster - Paranormal-Inspired Wall Art Print Gift Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Minimalist Ghost Trap Poster - Paranormal-Inspired Wall Art Print Gift Decor"><img src="{{ '/assets/images/marketplace-covers/d75f042b15766aa0acd7.jpg' | relative_url }}" alt="Listing image for Minimalist Ghost Trap Poster - Paranormal-Inspired Wall Art Print Gift Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer">Minimalist Ghost Trap Poster - Paranormal-Inspired Wall Art Print Gift Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: paranormal art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Paranormal Pals: L&#x27;il Monster - Thi Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/da46a4fa8d8b40fb6c62.jpg' | relative_url }}" alt="Listing image for Paranormal Pals: L&#x27;il Monster - Thi Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer">Paranormal Pals: L&#x27;il Monster - Thi Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Paranormal Pals: L&#x27;il Monster - Thi Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/da46a4fa8d8b40fb6c62.jpg' | relative_url }}" alt="Listing image for Paranormal Pals: L&#x27;il Monster - Thi Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer">Paranormal Pals: L&#x27;il Monster - Thi Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: paranormal art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Home Wall Art Print - Vintage Spiritual Paranormal - OUIJA BOARD PRINT -A4,A3,A2"><img src="{{ '/assets/images/marketplace-covers/d774124c198e7e2efe0e.jpg' | relative_url }}" alt="Listing image for Home Wall Art Print - Vintage Spiritual Paranormal - OUIJA BOARD PRINT -A4,A3,A2" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer">Home Wall Art Print - Vintage Spiritual Paranormal - OUIJA BOARD PRINT -A4,A3,A2</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Home Wall Art Print - Vintage Spiritual Paranormal - OUIJA BOARD PRINT -A4,A3,A2"><img src="{{ '/assets/images/marketplace-covers/d774124c198e7e2efe0e.jpg' | relative_url }}" alt="Listing image for Home Wall Art Print - Vintage Spiritual Paranormal - OUIJA BOARD PRINT -A4,A3,A2" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer">Home Wall Art Print - Vintage Spiritual Paranormal - OUIJA BOARD PRINT -A4,A3,A2</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: paranormal art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal art print" data-ebay-reference="parapsychology-where-does-parapsychology-fit-in-forteana-forteana-paranormal-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -757,7 +757,7 @@ That is why the boundary remains productive. Parapsychology gives Forteana its m
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -777,7 +777,7 @@ That is why the boundary remains productive. Parapsychology gives Forteana its m
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -809,7 +809,7 @@ That is why the boundary remains productive. Parapsychology gives Forteana its m
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -861,7 +861,7 @@ That is why the boundary remains productive. Parapsychology gives Forteana its m
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -906,7 +906,7 @@ That is why the boundary remains productive. Parapsychology gives Forteana its m
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -947,283 +947,283 @@ That is why the boundary remains productive. Parapsychology gives Forteana its m
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: spr.ac.uk  
-   Link: <a href="https://www.spr.ac.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.spr.ac.uk/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Society for Psychical ResearchFounded in 1882, the SPR was the first organisation to conduct scholarly research into human experiences th...</p></details>
+   Link:<a href="https://www.spr.ac.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.spr.ac.uk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Society for Psychical ResearchFounded in 1882, the SPR was the first organisation to conduct scholarly research into human experiences th...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: parapsychological.org  
-   Link: <a href="https://parapsychological.org/" target="_blank" rel="noopener noreferrer nofollow">https://parapsychological.org/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Parapsychological Association – A professional organization...The Parapsychological Association is an international professional organiz...</p></details>
+   Link:<a href="https://parapsychological.org/" target="_blank" rel="noopener noreferrer nofollow">https://parapsychological.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Parapsychological Association – A professional organization...The Parapsychological Association is an international professional organiz...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: lib.cam.ac.uk  
-   Link: <a href="https://www.lib.cam.ac.uk/collections/departments/archives-modern-and-medieval-manuscripts-and-university-archives-0" target="_blank" rel="noopener noreferrer nofollow">https://www.lib.cam.ac.uk/collections/departments/archives-modern-and-medieval-manuscripts-and-university-archives-0</a>  
+   Link:<a href="https://www.lib.cam.ac.uk/collections/departments/archives-modern-and-medieval-manuscripts-and-university-archives-0" target="_blank" rel="noopener noreferrer nofollow">https://www.lib.cam.ac.uk/collections/departments/archives-modern-and-medieval-manuscripts-and-university-archives-0</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: aiprinc.org  
    Title: para ac02 Storm et al 2010a Meta Analysis  
-   Link: <a href="https://www.aiprinc.org/documents/para-ac02_Storm_et_al_2010a_Meta_Analysis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aiprinc.org/documents/para-ac02_Storm_et_al_2010a_Meta_Analysis.pdf</a>  
+   Link:<a href="https://www.aiprinc.org/documents/para-ac02_Storm_et_al_2010a_Meta_Analysis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aiprinc.org/documents/para-ac02_Storm_et_al_2010a_Meta_Analysis.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180006-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180006-4.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180006-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180006-4.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: spr.ac.uk  
-   Link: <a href="https://www.spr.ac.uk/report-an-experience" target="_blank" rel="noopener noreferrer nofollow">https://www.spr.ac.uk/report-an-experience</a>  
+   Link:<a href="https://www.spr.ac.uk/report-an-experience" target="_blank" rel="noopener noreferrer nofollow">https://www.spr.ac.uk/report-an-experience</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00792R000100130004-9.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00792R000100130004-9.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00792R000100130004-9.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00792R000100130004-9.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R003200120001-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R003200120001-3.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R003200120001-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R003200120001-3.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002200420001-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002200420001-1.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002200420001-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002200420001-1.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/details/anomalisticpsych0000zusn" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/anomalisticpsych0000zusn</a>  
+   Link:<a href="https://archive.org/details/anomalisticpsych0000zusn" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/anomalisticpsych0000zusn</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: archive.org  
    Title: Fort New Lands Lo Wild Talents  
-   Link: <a href="https://archive.org/details/FortNewLandsLoWildTalents" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/FortNewLandsLoWildTalents</a>  
+   Link:<a href="https://archive.org/details/FortNewLandsLoWildTalents" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/FortNewLandsLoWildTalents</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/books/spectres-of-the-self/ghosthunting-in-the-society-for-psychical-research/3DAF6F5C23FABF2507A5093A3E13FB4D" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/spectres-of-the-self/ghosthunting-in-the-society-for-psychical-research/3DAF6F5C23FABF2507A5093A3E13FB4D</a>  
+   Link:<a href="https://www.cambridge.org/core/books/spectres-of-the-self/ghosthunting-in-the-society-for-psychical-research/3DAF6F5C23FABF2507A5093A3E13FB4D" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/spectres-of-the-self/ghosthunting-in-the-society-for-psychical-research/3DAF6F5C23FABF2507A5093A3E13FB4D</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/anomaly-called-psi-recent-research-and-criticism/481597608B2A829E0E0B77CD750A947E" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/anomaly-called-psi-recent-research-and-criticism/481597608B2A829E0E0B77CD750A947E</a>  
+   Link:<a href="https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/anomaly-called-psi-recent-research-and-criticism/481597608B2A829E0E0B77CD750A947E" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/anomaly-called-psi-recent-research-and-criticism/481597608B2A829E0E0B77CD750A947E</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sacred-texts.com  
    Title: Internet Sacred Text Archive Wild Talents Index  
-   Link: <a href="https://sacred-texts.com/fort/wild/index.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/fort/wild/index.htm</a>  
+   Link:<a href="https://sacred-texts.com/fort/wild/index.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/fort/wild/index.htm</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: psi-encyclopedia.spr.ac.uk  
    Title: Psi Encyclopedia Meta-Analysis in Parapsychology  
-   Link: <a href="https://psi-encyclopedia.spr.ac.uk/articles/meta-analysis-parapsychology/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/articles/meta-analysis-parapsychology/</a>  
+   Link:<a href="https://psi-encyclopedia.spr.ac.uk/articles/meta-analysis-parapsychology/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/articles/meta-analysis-parapsychology/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Parapsychology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Parapsychology</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Parapsychology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Parapsychology</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nsarchive2.gwu.edu  
-   Link: <a href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB438/docs/doc_57.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive2.gwu.edu/NSAEBB/NSAEBB438/docs/doc_57.pdf</a>  
+   Link:<a href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB438/docs/doc_57.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive2.gwu.edu/NSAEBB/NSAEBB438/docs/doc_57.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Remote viewing  
-   Link: <a href="https://en.wikipedia.org/wiki/Remote_viewing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Remote_viewing</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Remote_viewing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Remote_viewing</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: apa.org  
-   Link: <a href="https://www.apa.org/news/podcasts/speaking-of-psychology/paranormal" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/news/podcasts/speaking-of-psychology/paranormal</a>  
+   Link:<a href="https://www.apa.org/news/podcasts/speaking-of-psychology/paranormal" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/news/podcasts/speaking-of-psychology/paranormal</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: sydneysymposium.unsw.edu.au  
-   Link: <a href="https://sydneysymposium.unsw.edu.au/2024/chapters/FrenchSSSP2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sydneysymposium.unsw.edu.au/2024/chapters/FrenchSSSP2024.pdf</a>  
+   Link:<a href="https://sydneysymposium.unsw.edu.au/2024/chapters/FrenchSSSP2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sydneysymposium.unsw.edu.au/2024/chapters/FrenchSSSP2024.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/read/1025/chapter/13" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/1025/chapter/13</a>  
+   Link:<a href="https://www.nationalacademies.org/read/1025/chapter/13" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/1025/chapter/13</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: royalsocietypublishing.org  
-   Link: <a href="https://royalsocietypublishing.org/rsos/article/10/2/191375/91837/Raising-the-value-of-research-studies-in" target="_blank" rel="noopener noreferrer nofollow">https://royalsocietypublishing.org/rsos/article/10/2/191375/91837/Raising-the-value-of-research-studies-in</a>  
+   Link:<a href="https://royalsocietypublishing.org/rsos/article/10/2/191375/91837/Raising-the-value-of-research-studies-in" target="_blank" rel="noopener noreferrer nofollow">https://royalsocietypublishing.org/rsos/article/10/2/191375/91837/Raising-the-value-of-research-studies-in</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: skepsis.nl  
-   Link: <a href="https://skepsis.nl/stargate/" target="_blank" rel="noopener noreferrer nofollow">https://skepsis.nl/stargate/</a>  
+   Link:<a href="https://skepsis.nl/stargate/" target="_blank" rel="noopener noreferrer nofollow">https://skepsis.nl/stargate/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: dokumen.pub  
    Title: anomalistic psychology  
-   Link: <a href="https://dokumen.pub/download/anomalistic-psychology.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/anomalistic-psychology.html</a>  
+   Link:<a href="https://dokumen.pub/download/anomalistic-psychology.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/anomalistic-psychology.html</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: bol.com  
    Title: Anomalistic Psychology | Christopher C. French | Boeken  
-   Link: <a href="https://www.bol.com/nl/nl/p/anomalistic-psychology/1001004010610266/" target="_blank" rel="noopener noreferrer nofollow">https://www.bol.com/nl/nl/p/anomalistic-psychology/1001004010610266/</a>  
+   Link:<a href="https://www.bol.com/nl/nl/p/anomalistic-psychology/1001004010610266/" target="_blank" rel="noopener noreferrer nofollow">https://www.bol.com/nl/nl/p/anomalistic-psychology/1001004010610266/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: bol.com  
    Title: wild talents  
-   Link: <a href="https://www.bol.com/be/nl/p/wild-talents/9300000161299947/" target="_blank" rel="noopener noreferrer nofollow">https://www.bol.com/be/nl/p/wild-talents/9300000161299947/</a>  
+   Link:<a href="https://www.bol.com/be/nl/p/wild-talents/9300000161299947/" target="_blank" rel="noopener noreferrer nofollow">https://www.bol.com/be/nl/p/wild-talents/9300000161299947/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: Wikipedia  
    Title: Society for Psychical Research  
-   Link: <a href="https://en.wikipedia.org/wiki/Society_for_Psychical_Research" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Society_for_Psychical_Research</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Society_for_Psychical_Research" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Society_for_Psychical_Research</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: Wikipedia  
    Title: Charles Fort  
-   Link: <a href="https://en.wikipedia.org/wiki/Charles_Fort" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Charles_Fort</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Charles_Fort" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Charles_Fort</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: Wikipedia  
    Title: Replication crisis  
-   Link: <a href="https://en.wikipedia.org/wiki/Replication_crisis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Replication_crisis</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Replication_crisis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Replication_crisis</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: Wikipedia  
    Title: Anomalistic psychology  
-   Link: <a href="https://en.wikipedia.org/wiki/Anomalistic_psychology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anomalistic_psychology</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Anomalistic_psychology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anomalistic_psychology</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: scribd.com  
    Title: Anomalistic Psychology  
-   Link: <a href="https://www.scribd.com/document/661216515/Anomalistic-Psychology-Exploring-Paranormal-Belief-and-Experience-Red-Globe-Press-2013" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/661216515/Anomalistic-Psychology-Exploring-Paranormal-Belief-and-Experience-Red-Globe-Press-2013</a>  
+   Link:<a href="https://www.scribd.com/document/661216515/Anomalistic-Psychology-Exploring-Paranormal-Belief-and-Experience-Red-Globe-Press-2013" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/661216515/Anomalistic-Psychology-Exploring-Paranormal-Belief-and-Experience-Red-Globe-Press-2013</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: psi-encyclopedia.spr.ac.uk  
    Title: spr.ac.uk Rhine Research Center  
-   Link: <a href="https://psi-encyclopedia.spr.ac.uk/articles/rhine-research-center/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/articles/rhine-research-center/</a>  
+   Link:<a href="https://psi-encyclopedia.spr.ac.uk/articles/rhine-research-center/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/articles/rhine-research-center/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: psi-encyclopedia.spr.ac.uk  
    Title: spr.ac.uk Forteana  
-   Link: <a href="https://psi-encyclopedia.spr.ac.uk/articles/forteana/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/articles/forteana/</a>  
+   Link:<a href="https://psi-encyclopedia.spr.ac.uk/articles/forteana/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/articles/forteana/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: psi-encyclopedia.spr.ac.uk  
    Title: spr.ac.uk Anomalistics  
-   Link: <a href="https://psi-encyclopedia.spr.ac.uk/articles/anomalistics/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/articles/anomalistics/</a>  
+   Link:<a href="https://psi-encyclopedia.spr.ac.uk/articles/anomalistics/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/articles/anomalistics/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: psi-encyclopedia.spr.ac.uk  
    Title: spr.ac.uk Psychology and Parapsychology  
-   Link: <a href="https://psi-encyclopedia.spr.ac.uk/articles/psychology-and-parapsychology/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/articles/psychology-and-parapsychology/</a>  
+   Link:<a href="https://psi-encyclopedia.spr.ac.uk/articles/psychology-and-parapsychology/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/articles/psychology-and-parapsychology/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/84781893/Introduction_Single_case_studies_in_anomalistics" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/84781893/Introduction_Single_case_studies_in_anomalistics</a>  
+   Link:<a href="https://www.academia.edu/84781893/Introduction_Single_case_studies_in_anomalistics" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/84781893/Introduction_Single_case_studies_in_anomalistics</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: amazon.co.uk  
    Title: Wild Talents  
-   Link: <a href="https://www.amazon.co.uk/Wild-Talents-Charles-Fort/dp/1258772752?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Wild-Talents-Charles-Fort/dp/1258772752?tag=searcht-20</a>  
+   Link:<a href="https://www.amazon.co.uk/Wild-Talents-Charles-Fort/dp/1258772752?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Wild-Talents-Charles-Fort/dp/1258772752?tag=searcht-20</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: replicationindex.com  
    Title: replication crisis  
-   Link: <a href="https://replicationindex.com/category/replication-crisis/" target="_blank" rel="noopener noreferrer nofollow">https://replicationindex.com/category/replication-crisis/</a>  
+   Link:<a href="https://replicationindex.com/category/replication-crisis/" target="_blank" rel="noopener noreferrer nofollow">https://replicationindex.com/category/replication-crisis/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/psychology/parapsychology" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/psychology/parapsychology</a>  
+   Link:<a href="https://www.ebsco.com/research-starters/psychology/parapsychology" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/psychology/parapsychology</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: ics.uci.edu  
-   Link: <a href="https://www.ics.uci.edu/~jutts/may.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ics.uci.edu/~jutts/may.pdf</a>  
+   Link:<a href="https://www.ics.uci.edu/~jutts/may.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ics.uci.edu/~jutts/may.pdf</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: journals.lub.lu.se  
-   Link: <a href="https://journals.lub.lu.se/jaex/article/view/26222" target="_blank" rel="noopener noreferrer nofollow">https://journals.lub.lu.se/jaex/article/view/26222</a>  
+   Link:<a href="https://journals.lub.lu.se/jaex/article/view/26222" target="_blank" rel="noopener noreferrer nofollow">https://journals.lub.lu.se/jaex/article/view/26222</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: ianjameskidd.weebly.com  
    Title: charles fort  
-   Link: <a href="https://ianjameskidd.weebly.com/charles-fort.html" target="_blank" rel="noopener noreferrer nofollow">https://ianjameskidd.weebly.com/charles-fort.html</a>  
+   Link:<a href="https://ianjameskidd.weebly.com/charles-fort.html" target="_blank" rel="noopener noreferrer nofollow">https://ianjameskidd.weebly.com/charles-fort.html</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: psychologytoday.com  
-   Link: <a href="https://www.psychologytoday.com/us/basics/parapsychology" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/basics/parapsychology</a>  
+   Link:<a href="https://www.psychologytoday.com/us/basics/parapsychology" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/basics/parapsychology</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: library.umbc.edu  
-   Link: <a href="https://library.umbc.edu/specialcollections/garrett/parapsychology/" target="_blank" rel="noopener noreferrer nofollow">https://library.umbc.edu/specialcollections/garrett/parapsychology/</a>  
+   Link:<a href="https://library.umbc.edu/specialcollections/garrett/parapsychology/" target="_blank" rel="noopener noreferrer nofollow">https://library.umbc.edu/specialcollections/garrett/parapsychology/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: flex.flinders.edu.au  
    Title: flinders.edu.au Toby Prike  
-   Link: <a href="https://flex.flinders.edu.au/file/0bf209ba-b27c-4c98-ac61-d5a116809450/1/ThesisPrike2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://flex.flinders.edu.au/file/0bf209ba-b27c-4c98-ac61-d5a116809450/1/ThesisPrike2018.pdf</a>  
+   Link:<a href="https://flex.flinders.edu.au/file/0bf209ba-b27c-4c98-ac61-d5a116809450/1/ThesisPrike2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://flex.flinders.edu.au/file/0bf209ba-b27c-4c98-ac61-d5a116809450/1/ThesisPrike2018.pdf</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: dictionary.apa.org  
-   Link: <a href="https://dictionary.apa.org/parapsychology" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.apa.org/parapsychology</a>  
+   Link:<a href="https://dictionary.apa.org/parapsychology" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.apa.org/parapsychology</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: wikidoc.org  
-   Link: <a href="https://www.wikidoc.org/index.php/Paranormal" target="_blank" rel="noopener noreferrer nofollow">https://www.wikidoc.org/index.php/Paranormal</a>  
+   Link:<a href="https://www.wikidoc.org/index.php/Paranormal" target="_blank" rel="noopener noreferrer nofollow">https://www.wikidoc.org/index.php/Paranormal</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: opensciences.org  
    Title: the society for psychical research  
-   Link: <a href="https://opensciences.org/organizations/the-society-for-psychical-research" target="_blank" rel="noopener noreferrer nofollow">https://opensciences.org/organizations/the-society-for-psychical-research</a>  
+   Link:<a href="https://opensciences.org/organizations/the-society-for-psychical-research" target="_blank" rel="noopener noreferrer nofollow">https://opensciences.org/organizations/the-society-for-psychical-research</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: ouci.dntb.gov.ua  
-   Link: <a href="https://ouci.dntb.gov.ua/en/works/lxnvK6G7/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/lxnvK6G7/</a>  
+   Link:<a href="https://ouci.dntb.gov.ua/en/works/lxnvK6G7/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/lxnvK6G7/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/24580020" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/24580020</a>  
+   Link:<a href="https://www.jstor.org/stable/24580020" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/24580020</a>  
 
 ### Additional References
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: youtube.com  
    Title: Spiritual Implications of Parapsychology with Charles Tart  
-   Link: <a href="https://www.youtube.com/watch?v=ZGqW6QSagTA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZGqW6QSagTA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Parapsychology Society for Psychical Research anomaly evidence Scientific evidence for the existence of the Third Eye. Pineal gland. Extr...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZGqW6QSagTA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZGqW6QSagTA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Parapsychology Society for Psychical Research anomaly evidence Scientific evidence for the existence of the Third Eye. Pineal gland. Extr...</p></details>
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: youtube.com  
    Title: Spooks and spoofs: psychologists and psychical research in the inter-war years  
-   Link: <a href="https://www.youtube.com/watch?v=ci3vUQKLV7E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ci3vUQKLV7E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Importance of Studying Anomalous Human Experiences: An Appraisal of Parapsychology...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ci3vUQKLV7E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ci3vUQKLV7E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Importance of Studying Anomalous Human Experiences: An Appraisal of Parapsychology...</p></details>
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: youtube.com  
    Title: The History of Parapsychology and Psychical Research with Nancy L. Zingrone  
-   Link: <a href="https://www.youtube.com/watch?v=g6Qeb61Z7To" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=g6Qeb61Z7To</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spooks and spoofs: psychologists and psychical research in the inter-war years...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=g6Qeb61Z7To" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=g6Qeb61Z7To</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spooks and spoofs: psychologists and psychical research in the inter-war years...</p></details>
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Z9UC2xKaKK4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Z9UC2xKaKK4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spiritual Implications of Parapsychology with Charles Tart...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Z9UC2xKaKK4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Z9UC2xKaKK4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spiritual Implications of Parapsychology with Charles Tart...</p></details>
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: youtube.com  
    Title: Parapsychology and UFO Experiences: Lessons for Physics | Claude Swanson  
-   Link: <a href="https://www.youtube.com/watch?v=EUzTDWmDZRQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EUzTDWmDZRQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The History of Parapsychology and Psychical Research with Nancy L. Zingrone...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=EUzTDWmDZRQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EUzTDWmDZRQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The History of Parapsychology and Psychical Research with Nancy L. Zingrone...</p></details>
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: youtu.be  
    Title: Scientific anomalies. Parapsychology in the USSR  
-   Link: <a href="https://youtu.be/uvAywZXL-Cw" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/uvAywZXL-Cw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Importance of Studying Anomalous Human Experiences: An Appraisal of Parapsychology The Mute Parrot...</p></details>
+   Link:<a href="https://youtu.be/uvAywZXL-Cw" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/uvAywZXL-Cw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Importance of Studying Anomalous Human Experiences: An Appraisal of Parapsychology The Mute Parrot...</p></details>
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/95285973/The_Star_Gate_Operational_Remote_Viewing_Program_A_Human_Intelligence_HUMINT_Collection_Platform" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/95285973/The_Star_Gate_Operational_Remote_Viewing_Program_A_Human_Intelligence_HUMINT_Collection_Platform</a>  
+   Link:<a href="https://www.academia.edu/95285973/The_Star_Gate_Operational_Remote_Viewing_Program_A_Human_Intelligence_HUMINT_Collection_Platform" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/95285973/The_Star_Gate_Operational_Remote_Viewing_Program_A_Human_Intelligence_HUMINT_Collection_Platform</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/375219516_Epistemological_and_conceptual_problems_in_the_scientific_study_of_anomalous_experience" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/375219516_Epistemological_and_conceptual_problems_in_the_scientific_study_of_anomalous_experience</a>  
+   Link:<a href="https://www.researchgate.net/publication/375219516_Epistemological_and_conceptual_problems_in_the_scientific_study_of_anomalous_experience" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/375219516_Epistemological_and_conceptual_problems_in_the_scientific_study_of_anomalous_experience</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/403178755_The_Star_Gate_Archives_Reports_of_the_United_States_Government_Sponsored_Psi_Program_1972-1995_Volume_4_Operational_Remote_Viewing_Memorandums_and_Reports" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403178755_The_Star_Gate_Archives_Reports_of_the_United_States_Government_Sponsored_Psi_Program_1972-1995_Volume_4_Operational_Remote_Viewing_Memorandums_and_Reports</a>  
+   Link:<a href="https://www.researchgate.net/publication/403178755_The_Star_Gate_Archives_Reports_of_the_United_States_Government_Sponsored_Psi_Program_1972-1995_Volume_4_Operational_Remote_Viewing_Memorandums_and_Reports" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403178755_The_Star_Gate_Archives_Reports_of_the_United_States_Government_Sponsored_Psi_Program_1972-1995_Volume_4_Operational_Remote_Viewing_Memorandums_and_Reports</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/psychologyonline/posts/today-in-the-history-of-psychology-27th-june-1921-robert-baker-was-born-a-pionee/1435255821978385/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/psychologyonline/posts/today-in-the-history-of-psychology-27th-june-1921-robert-baker-was-born-a-pionee/1435255821978385/</a>  
+   Link:<a href="https://www.facebook.com/psychologyonline/posts/today-in-the-history-of-psychology-27th-june-1921-robert-baker-was-born-a-pionee/1435255821978385/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/psychologyonline/posts/today-in-the-history-of-psychology-27th-june-1921-robert-baker-was-born-a-pionee/1435255821978385/</a>  

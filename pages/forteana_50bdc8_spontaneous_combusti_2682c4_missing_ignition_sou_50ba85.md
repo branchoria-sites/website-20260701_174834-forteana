@@ -280,7 +280,7 @@ image: /assets/images/forteana_50bdc8_spontaneous_combusti_2682c4_missing_igniti
 
 ## Introduction
 
-One of the strongest arguments used in support of spontaneous human [combustion]({{ 'combustion/' | relative_url }}) is deceptively simple: investigators never found the thing that started the fire. If no match, cigarette, candle or ember remains, some writers conclude that no ordinary ignition existed. Fire investigators, however, approach the problem differently. The earliest stage of a fire is often the least well preserved because the origin is exactly where burning is most intense. A missing ignition source is therefore a genuine evidential problem, but not, by itself, evidence that a fire began without an external flame. Modern forensic reviews of unusual burn deaths consistently distinguish between an **unidentified ignition source** and **no ignition source**, arguing that these are not equivalent conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22269823/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Spontaneous human combustion in the light of the 21st...by V Koljonen · 2012 · Cited by 12 — &quot;spontaneous human combustion&quot; refers...</span></span></span>
+One of the strongest arguments used in support of spontaneous human [combustion]({{ 'combustion/' | relative_url }}) is deceptively simple: investigators never found the thing that started the fire. If no match, cigarette, candle or ember remains, some writers conclude that no ordinary ignition existed. Fire investigators, however, approach the problem differently. The earliest stage of a fire is often the least well preserved because the origin is exactly where burning is most intense. A missing ignition source is therefore a genuine evidential problem, but not, by itself, evidence that a fire began without an external flame. Modern forensic reviews of unusual burn deaths consistently distinguish between an **unidentified ignition source** and **no ignition source**, arguing that these are not equivalent conclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22269823/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Spontaneous human combustion in the light of the 21st...by V Koljonen · 2012 · Cited by 12 — &quot;spontaneous human combustion&quot; refers...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_spontaneous_combusti_2682c4_missing_ignition_sou_50ba85-Illustration-1-dark.svg" | relative_url }}" alt="Missing Spark illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_spontaneous_combusti_2682c4_missing_ignition_sou_50ba85-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_spontaneous_combusti_2682c4_missing_ignition_sou_50ba85-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -295,7 +295,7 @@ Several features of unusual burn deaths make this especially important:
 * Fire suppression, rescue attempts and scene disturbance can destroy delicate evidence.
 * Heat, collapsing furniture and falling debris can move or obscure the original ignition point.
 
-Consequently, investigators often reconstruct the probable origin from burn patterns, witness testimony, smoking habits, electrical appliances and the surrounding environment rather than expecting to recover the original spark itself. This reconstruction is standard fire-investigation practice and does not require the physical ignition object to survive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Spontaneous_human_combustion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Spontaneous human combustion</span><span class="citation-popover-snippet">Spontaneous human combustion</span></span></span>
+Consequently, investigators often reconstruct the probable origin from burn patterns, witness testimony, smoking habits, electrical appliances and the surrounding environment rather than expecting to recover the original spark itself. This reconstruction is standard fire-investigation practice and does not require the physical ignition object to survive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Spontaneous_human_combustion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Spontaneous human combustion</span><span class="citation-popover-snippet">Spontaneous human combustion</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pTDKkOy2KcA" title="What started the Palisades fire?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pTDKkOy2KcA" target="_blank" rel="noopener noreferrer">What started the Palisades fire?</a></p><p class="youtube-embed-meta">Channel: Howtown</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pTDKkOy2KcA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pTDKkOy2KcA">Open on YouTube</a></p></div></div></div>
@@ -304,9 +304,9 @@ Consequently, investigators often reconstruct the probable origin from burn patt
 
 Many famous cases associated with spontaneous human combustion share a notable feature: plausible ignition sources were present even when none could later be definitively identified.
 
-**Smoking materials.** Cigarettes are repeatedly considered the most likely accidental ignition source in historical cases involving elderly or sleeping victims. A cigarette dropped onto loose clothing, blankets or upholstered furniture can smoulder before developing into open flame, especially if the victim is incapacitated. By the time investigators arrive, the cigarette itself has long disappeared. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Spontaneous_human_combustion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Spontaneous human combustion</span><span class="citation-popover-snippet">Spontaneous human combustion</span></span></span>
+**Smoking materials.** Cigarettes are repeatedly considered the most likely accidental ignition source in historical cases involving elderly or sleeping victims. A cigarette dropped onto loose clothing, blankets or upholstered furniture can smoulder before developing into open flame, especially if the victim is incapacitated. By the time investigators arrive, the cigarette itself has long disappeared.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Spontaneous_human_combustion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Spontaneous human combustion</span><span class="citation-popover-snippet">Spontaneous human combustion</span></span></span>
 
-**Fireplaces and open hearths.** Older reports frequently involve homes heated by coal fires, wood-burning stoves or open fireplaces. Escaping embers may ignite clothing without leaving an obvious trace once the body and nearby furnishings have burned. In discussing alleged spontaneous combustion cases, forensic literature has repeatedly noted the recurring proximity of fireplaces or chimneys. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Wick_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Wick effect</span><span class="citation-popover-snippet">Wick effect</span></span></span>
+**Fireplaces and open hearths.** Older reports frequently involve homes heated by coal fires, wood-burning stoves or open fireplaces. Escaping embers may ignite clothing without leaving an obvious trace once the body and nearby furnishings have burned. In discussing alleged spontaneous combustion cases, forensic literature has repeatedly noted the recurring proximity of fireplaces or chimneys.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Wick_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Wick effect</span><span class="citation-popover-snippet">Wick effect</span></span></span>
 
 **Candles, oil lamps and matches.** Before electric lighting became universal, naked flames were common in homes. Historical accounts often mention candles or lamps somewhere within the room even if no direct causal link could later be established. Because these objects themselves burn, investigators may have little physical evidence remaining.
 
@@ -318,9 +318,9 @@ Many famous cases associated with spontaneous human combustion share a notable f
 
 The death of [Mary Reeser]({{ 'mary-reeser/' | relative_url }}) remains the best-known illustration of how an apparently missing ignition source can evolve into a paranormal narrative.
 
-When Reeser was found in 1951, much of her body and the chair in which she had been sitting had been consumed, while much of the apartment remained comparatively intact. Investigators ruled out accelerants and lightning, but they could not identify the precise object that initiated the fire. This uncertainty became central to later claims of spontaneous combustion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Death_of_Mary_Reeser" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Death of Mary Reeser</span><span class="citation-popover-snippet">Death of Mary Reeser</span></span></span>
+When Reeser was found in 1951, much of her body and the chair in which she had been sitting had been consumed, while much of the apartment remained comparatively intact. Investigators ruled out accelerants and lightning, but they could not identify the precise object that initiated the fire. This uncertainty became central to later claims of spontaneous combustion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Death_of_Mary_Reeser" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Death of Mary Reeser</span><span class="citation-popover-snippet">Death of Mary Reeser</span></span></span>
 
-Yet contemporaneous investigation never concluded that there had been no ignition source. Instead, investigators considered Reeser's known smoking habit and the possibility that a dropped cigarette ignited her highly flammable clothing before the slow "[wick effect]({{ 'wick-effect/' | relative_url }})" sustained the fire. By the time the body was discovered many hours later, any cigarette would almost certainly have been completely consumed. The missing cigarette therefore became consistent with the proposed reconstruction rather than evidence against it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Spontaneous_human_combustion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Spontaneous human combustion</span><span class="citation-popover-snippet">Spontaneous human combustion</span></span></span>
+Yet contemporaneous investigation never concluded that there had been no ignition source. Instead, investigators considered Reeser's known smoking habit and the possibility that a dropped cigarette ignited her highly flammable clothing before the slow "[wick effect]({{ 'wick-effect/' | relative_url }})" sustained the fire. By the time the body was discovered many hours later, any cigarette would almost certainly have been completely consumed. The missing cigarette therefore became consistent with the proposed reconstruction rather than evidence against it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Spontaneous_human_combustion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Spontaneous human combustion</span><span class="citation-popover-snippet">Spontaneous human combustion</span></span></span>
 
 ## Why investigators rarely expect to recover the first flame
 
@@ -338,7 +338,7 @@ Several reasons explain why certainty is frequently impossible:
 
 </div>
 
-As a result, coroners and fire investigators commonly describe the ignition as **undetermined** or **most probably** caused by a particular source rather than claiming absolute certainty. This cautious language reflects evidential limits rather than endorsement of paranormal explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22269823/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Spontaneous human combustion in the light of the 21st...by V Koljonen · 2012 · Cited by 12 — &quot;spontaneous human combustion&quot; refers...</span></span></span>
+As a result, coroners and fire investigators commonly describe the ignition as **undetermined** or **most probably** caused by a particular source rather than claiming absolute certainty. This cautious language reflects evidential limits rather than endorsement of paranormal explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22269823/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Spontaneous human combustion in the light of the 21st...by V Koljonen · 2012 · Cited by 12 — &quot;spontaneous human combustion&quot; refers...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PcSVaQeBl0M" title="Launch of Fire Investigations by BRE and FIUK – Workplace Fire Demonstration &amp; Investigation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PcSVaQeBl0M" target="_blank" rel="noopener noreferrer">Launch of Fire Investigations by BRE and FIUK – Workplace Fire Demonstration &amp; Investigation</a></p><p class="youtube-embed-meta">Channel: BRE_Group</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PcSVaQeBl0M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PcSVaQeBl0M">Open on YouTube</a></p></div></div></div>
@@ -347,7 +347,7 @@ As a result, coroners and fire investigators commonly describe the ignition as *
 
 The logical leap in many spontaneous human combustion accounts occurs when a missing ignition source is transformed into proof that no ignition source existed.
 
-Investigators such as Joe Nickell and John Fischer, after reviewing numerous historical cases, argued that published [retellings]({{ 'retellings/' | relative_url }}) often omitted mundane details including smoking, candles, fireplaces or lamps that were documented in original records. As these ordinary details disappeared from later versions, the cases appeared increasingly inexplicable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Spontaneous_human_combustion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Spontaneous human combustion</span><span class="citation-popover-snippet">Spontaneous human combustion</span></span></span>
+Investigators such as Joe Nickell and John Fischer, after reviewing numerous historical cases, argued that published [retellings]({{ 'retellings/' | relative_url }}) often omitted mundane details including smoking, candles, fireplaces or lamps that were documented in original records. As these ordinary details disappeared from later versions, the cases appeared increasingly inexplicable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Spontaneous_human_combustion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Spontaneous human combustion</span><span class="citation-popover-snippet">Spontaneous human combustion</span></span></span>
 
 This pattern reflects a common evidential problem in historical mysteries. The less complete the surviving documentation, the easier it becomes for uncertainty to be interpreted as positive evidence for extraordinary causes. In unusual burn deaths, the destruction caused by the fire itself naturally enlarges those evidential gaps.
 
@@ -358,200 +358,200 @@ This pattern reflects a common evidential problem in historical mysteries. The l
 
 The absence of an identifiable ignition source is one of the most intriguing features of classic spontaneous human combustion claims, but it is also one of the weakest foundations for concluding that combustion began internally.
 
-Modern forensic understanding of the wick effect addresses how a body can continue burning for many hours after ignition, not how ignition begins. In a minority of cases, the precise initiating flame genuinely cannot be identified. That reflects the destructive nature of fire and the limitations of post-event reconstruction rather than evidence that no ordinary ignition ever occurred. The "missing spark" therefore remains an unresolved detail in some individual investigations, but it is not regarded by forensic science as positive evidence for spontaneous human combustion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Wick_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Wick effect</span><span class="citation-popover-snippet">Wick effect</span></span></span>
+Modern forensic understanding of the wick effect addresses how a body can continue burning for many hours after ignition, not how ignition begins. In a minority of cases, the precise initiating flame genuinely cannot be identified. That reflects the destructive nature of fire and the limitations of post-event reconstruction rather than evidence that no ordinary ignition ever occurred. The "missing spark" therefore remains an unresolved detail in some individual investigations, but it is not regarded by forensic science as positive evidence for spontaneous human combustion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Wick_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Wick effect</span><span class="citation-popover-snippet">Wick effect</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_spontaneous_combusti_2682c4_missing_ignition_sou_50ba85-Illustration-3-dark.svg" | relative_url }}" alt="Missing Spark illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_spontaneous_combusti_2682c4_missing_ignition_sou_50ba85-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_spontaneous_combusti_2682c4_missing_ignition_sou_50ba85-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Where Did the First Flame Go?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Where Did the First Flame Go?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Shows why missing evidence is not evidence of the paranormal.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows why missing evidence is not evidence of the paranormal.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explains reasoning errors around mysterious events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains reasoning errors around mysterious events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Forensic+fire+scene+reconstruction+David+J.+Icove&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Forensic fire scene reconstruction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1111609-M.jpg" alt="Cover for Forensic fire scene reconstruction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Forensic+fire+scene+reconstruction+David+J.+Icove&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forensic fire scene reconstruction">Forensic fire scene reconstruction</a>
-        </h4>
-        <p class="fr-book-author">By David J. Icove, John D. De Haan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Forensic+fire+scene+reconstruction+David+J.+Icove&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Forensic fire scene reconstruction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1111609-M.jpg" alt="Cover for Forensic fire scene reconstruction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Forensic+fire+scene+reconstruction+David+J.+Icove&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forensic fire scene reconstruction">Forensic fire scene reconstruction</a>
+</h4>
+<p class="fr-book-author">By David J. Icove, John D. De Haan</p>
         
-        <p class="fr-book-desc">First published 2008. Subjects: Fire investigation, Arson investigation, Police &amp; security services, Technology, Technology &amp; Industrial...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Forensic+fire+scene+reconstruction+David+J.+Icove&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2008. Subjects: Fire investigation, Arson investigation, Police &amp; security services, Technology, Technology &amp; Industrial...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Forensic+fire+scene+reconstruction+David+J.+Icove&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Spontaneous+human+combustion+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Spontaneous human combustion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1346249-M.jpg" alt="Cover for Spontaneous human combustion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Spontaneous+human+combustion+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spontaneous human combustion">Spontaneous human combustion</a>
-        </h4>
-        <p class="fr-book-author">By Jenny Randles, Peter Hough</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Spontaneous+human+combustion+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Spontaneous human combustion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1346249-M.jpg" alt="Cover for Spontaneous human combustion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Spontaneous+human+combustion+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spontaneous human combustion">Spontaneous human combustion</a>
+</h4>
+<p class="fr-book-author">By Jenny Randles, Peter Hough</p>
         
-        <p class="fr-book-desc">First published 2007. Subjects: Spontaneous human Combustion, Spontaneous Combustion, History, BODY, MIND &amp; SPIRIT, Unexplained Phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Spontaneous+human+combustion+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2007. Subjects: Spontaneous human Combustion, Spontaneous Combustion, History, BODY, MIND &amp; SPIRIT, Unexplained Phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Spontaneous+human+combustion+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Forensic+fire+scene+reconstruction&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Forensic fire scene reconstruction</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Forensic+fire+scene+reconstruction&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Forensic fire scene reconstruction</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1c4d78cf65d0439dd374.jpg' | relative_url }}" alt="Listing image for Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missing persons poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: missing persons poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1c4d78cf65d0439dd374.jpg' | relative_url }}" alt="Listing image for Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missing persons poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: missing persons poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1961 MISSING PERSONS RETAIL STORE LITHO POSTER - UK Design USA Printing 28x54”"><img src="{{ '/assets/images/marketplace-covers/253e2b7699229a0416af.jpg' | relative_url }}" alt="Listing image for 1961 MISSING PERSONS RETAIL STORE LITHO POSTER - UK Design USA Printing 28x54”" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">1961 MISSING PERSONS RETAIL STORE LITHO POSTER - UK Design USA Printing 28x54”</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missing persons poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: missing persons poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1961 MISSING PERSONS RETAIL STORE LITHO POSTER - UK Design USA Printing 28x54”"><img src="{{ '/assets/images/marketplace-covers/253e2b7699229a0416af.jpg' | relative_url }}" alt="Listing image for 1961 MISSING PERSONS RETAIL STORE LITHO POSTER - UK Design USA Printing 28x54”" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">1961 MISSING PERSONS RETAIL STORE LITHO POSTER - UK Design USA Printing 28x54”</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missing persons poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: missing persons poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/064f13354b9b88e64041.jpg' | relative_url }}" alt="Listing image for Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missing persons poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: missing persons poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/064f13354b9b88e64041.jpg' | relative_url }}" alt="Listing image for Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missing persons poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: missing persons poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MISSING PERSONS BAND PROMO POSTER 11 X 17 - FREE SHIPPING"><img src="{{ '/assets/images/marketplace-covers/0fa6bae2bd549815b494.jpg' | relative_url }}" alt="Listing image for MISSING PERSONS BAND PROMO POSTER 11 X 17 - FREE SHIPPING" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">MISSING PERSONS BAND PROMO POSTER 11 X 17 - FREE SHIPPING</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missing persons poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: missing persons poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MISSING PERSONS BAND PROMO POSTER 11 X 17 - FREE SHIPPING"><img src="{{ '/assets/images/marketplace-covers/0fa6bae2bd549815b494.jpg' | relative_url }}" alt="Listing image for MISSING PERSONS BAND PROMO POSTER 11 X 17 - FREE SHIPPING" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">MISSING PERSONS BAND PROMO POSTER 11 X 17 - FREE SHIPPING</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missing persons poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: missing persons poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="missing-spark-where-did-the-first-flame-go-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -567,7 +567,7 @@ Modern forensic understanding of the wick effect addresses how a body can contin
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -587,7 +587,7 @@ Modern forensic understanding of the wick effect addresses how a body can contin
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -619,7 +619,7 @@ Modern forensic understanding of the wick effect addresses how a body can contin
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -671,7 +671,7 @@ Modern forensic understanding of the wick effect addresses how a body can contin
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -716,7 +716,7 @@ Modern forensic understanding of the wick effect addresses how a body can contin
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -757,91 +757,91 @@ Modern forensic understanding of the wick effect addresses how a body can contin
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Spontaneous human combustion  
-   Link: <a href="https://en.wikipedia.org/wiki/Spontaneous_human_combustion" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Spontaneous_human_combustion</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Spontaneous_human_combustion" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Spontaneous_human_combustion</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Wick effect  
-   Link: <a href="https://en.wikipedia.org/wiki/Wick_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wick_effect</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Wick_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wick_effect</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Death of Mary Reeser  
-   Link: <a href="https://en.wikipedia.org/wiki/Death_of_Mary_Reeser" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Death_of_Mary_Reeser</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Death_of_Mary_Reeser" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Death_of_Mary_Reeser</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/22269823/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22269823/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spontaneous human combustion in the light of the 21st...by V Koljonen · 2012 · Cited by 12 — &quot;spontaneous human combustion&quot; refers...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/22269823/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22269823/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spontaneous human combustion in the light of the 21st...by V Koljonen · 2012 · Cited by 12 — &quot;spontaneous human combustion&quot; refers...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: northeastjournal.org  
    Title: Spontaneous Combustion?  
-   Link: <a href="https://northeastjournal.org/spontaneous-combustion-the-curious-case-of-mary-reeser/" target="_blank" rel="noopener noreferrer nofollow">https://northeastjournal.org/spontaneous-combustion-the-curious-case-of-mary-reeser/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Curious Case of Mary...30 Sept 2025 — They agreed with her son: Mary had died due to the “wick effect” of an external heat source do...</p></details>
+   Link:<a href="https://northeastjournal.org/spontaneous-combustion-the-curious-case-of-mary-reeser/" target="_blank" rel="noopener noreferrer nofollow">https://northeastjournal.org/spontaneous-combustion-the-curious-case-of-mary-reeser/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Curious Case of Mary...30 Sept 2025 — They agreed with her son: Mary had died due to the “wick effect” of an external heat source do...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: crazyalchemist.com  
    Title: Spontaneous Human Combustion  
-   Link: <a href="https://www.crazyalchemist.com/nature-science/spontaneous-human-combustion/" target="_blank" rel="noopener noreferrer nofollow">https://www.crazyalchemist.com/nature-science/spontaneous-human-combustion/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Crazy AlchemistSpontaneous Human Combustion: baffling cases for 3 centuries. The wick effect explains most, but why do some still defy sc...</p></details>
+   Link:<a href="https://www.crazyalchemist.com/nature-science/spontaneous-human-combustion/" target="_blank" rel="noopener noreferrer nofollow">https://www.crazyalchemist.com/nature-science/spontaneous-human-combustion/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Crazy AlchemistSpontaneous Human Combustion: baffling cases for 3 centuries. The wick effect explains most, but why do some still defy sc...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/230703694_Solving_the_mystery_of_spontaneous_human_combustion" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/230703694_Solving_the_mystery_of_spontaneous_human_combustion</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Solving the mystery of spontaneous human combustionThis publication has been largely overlooked ever since, though it was the first demon...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/230703694_Solving_the_mystery_of_spontaneous_human_combustion" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/230703694_Solving_the_mystery_of_spontaneous_human_combustion</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Solving the mystery of spontaneous human combustionThis publication has been largely overlooked ever since, though it was the first demon...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/472840106573967/posts/2275409012983725/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/472840106573967/posts/2275409012983725/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spontaneous human combustion mysteriesForensic experts suggested that Thomas may have died from a heart attack before falling into a fire...</p></details>
+   Link:<a href="https://www.facebook.com/groups/472840106573967/posts/2275409012983725/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/472840106573967/posts/2275409012983725/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spontaneous human combustion mysteriesForensic experts suggested that Thomas may have died from a heart attack before falling into a fire...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/mystery/comments/1lbkxik/spontaneous_human_combustion_the_bizarre_case_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/mystery/comments/1lbkxik/spontaneous_human_combustion_the_bizarre_case_of/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Bizarre Case of Mary Reeser: r/mysteryOne theory: she fell asleep smoking and her flammable nightgown ignited a “wick effect,” turni...</p></details>
+   Link:<a href="https://www.reddit.com/r/mystery/comments/1lbkxik/spontaneous_human_combustion_the_bizarre_case_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/mystery/comments/1lbkxik/spontaneous_human_combustion_the_bizarre_case_of/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Bizarre Case of Mary Reeser: r/mysteryOne theory: she fell asleep smoking and her flammable nightgown ignited a “wick effect,” turni...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: popularmechanics.com  
    Title: Popular Mechanics A Woman Burned to Ashes in Her Chair  
-   Link: <a href="https://www.popularmechanics.com/science/a71141494/mary-reeser-spontaneous-combustion/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/science/a71141494/mary-reeser-spontaneous-combustion/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Was the Rest of Her Apartment Untouched by the Flames?In July 1951, 67-year-old Mary Reeser was found burned to ashes in her apartmen...</p></details>
+   Link:<a href="https://www.popularmechanics.com/science/a71141494/mary-reeser-spontaneous-combustion/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/science/a71141494/mary-reeser-spontaneous-combustion/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Was the Rest of Her Apartment Untouched by the Flames?In July 1951, 67-year-old Mary Reeser was found burned to ashes in her apartmen...</p></details>
    Published: July 1951  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=8RQS8mIf6Y8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8RQS8mIf6Y8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Launch of Fire Investigations by BRE and FIUK – Workplace Fire Demonstration &amp; Investigation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8RQS8mIf6Y8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8RQS8mIf6Y8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Launch of Fire Investigations by BRE and FIUK – Workplace Fire Demonstration &amp; Investigation...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=PcSVaQeBl0M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PcSVaQeBl0M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Spontaneous Human Combustion Of Mary Reeser...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PcSVaQeBl0M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PcSVaQeBl0M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Spontaneous Human Combustion Of Mary Reeser...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40nikyoung/spontaneous-combustion-or-something-else-02114bf78a07" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40nikyoung/spontaneous-combustion-or-something-else-02114bf78a07</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>g, like a burning cigarette...</p></details>
+   Link:<a href="https://medium.com/%40nikyoung/spontaneous-combustion-or-something-else-02114bf78a07" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40nikyoung/spontaneous-combustion-or-something-else-02114bf78a07</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>g, like a burning cigarette...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: skeptoid.com  
-   Link: <a href="https://skeptoid.com/episodes/258" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/258</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spontaneous Human Combustion17 May 2011 — Spontaneous human combustion is a little different from most paranormal phenomena, in that it&#x27;s...</p></details>
+   Link:<a href="https://skeptoid.com/episodes/258" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/258</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spontaneous Human Combustion17 May 2011 — Spontaneous human combustion is a little different from most paranormal phenomena, in that it&#x27;s...</p></details>
    Published: May 2011  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: How do you prove arson?  
-   Link: <a href="https://www.youtube.com/watch?v=pTDKkOy2KcA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pTDKkOy2KcA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Unexplained Mysteries: Spontaneous Combustion &amp; The 11000 Ft Fall | Weird or What?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=pTDKkOy2KcA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pTDKkOy2KcA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 Unexplained Mysteries: Spontaneous Combustion &amp; The 11000 Ft Fall | Weird or What?...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Is Spontaneous Human Combustion Real?  
-   Link: <a href="https://www.youtube.com/watch?v=4mcU7mlPaRw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4mcU7mlPaRw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How do you prove arson?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4mcU7mlPaRw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4mcU7mlPaRw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How do you prove arson?...</p></details>

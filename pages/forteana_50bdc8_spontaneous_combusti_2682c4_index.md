@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /forteana-50bdc8-spontaneous-combusti/
 description: Focused pages that expand on Combustion.
-date: '2026-07-01'
+date: '2026'
 layout: default
 parent_basename: forteana_50bdc8_spontaneous_combusti_2682c4
 parent_title: Combustion
@@ -16,7 +16,7 @@ parent_permalink: /combustion/
 
 # Explore Topics in Combustion
 
-The following pages expand on the main **[Combustion]({{ '/combustion/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Combustion]({{ '/combustion/' | relative_url }})** page and cover its key branches in.
 
 - [Alcohol Myths]({{ '/alcohol-myths/' | relative_url }})
 - [Intact Rooms]({{ '/intact-rooms/' | relative_url }})

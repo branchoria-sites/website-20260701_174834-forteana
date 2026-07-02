@@ -274,7 +274,7 @@ image: /assets/images/forteana_50bdc8_missing_people_retel_d09daa_welden_benning
 
 ## Introduction
 
-Paula Jean Welden's disappearance is one of the best examples of how a documented missing-person case can become the centrepiece of a larger Fortean legend. On 1 December 1946, the 18-year-old Bennington College student left campus for what appeared to be an afternoon walk on Vermont's Long Trail. Multiple witnesses saw her during the journey, yet she was never seen again. The investigation exposed weaknesses in Vermont's law-enforcement system and ultimately contributed to the creation of the Vermont State Police. Decades later, however, the case acquired a second life as the most famous episode in the [folklore]({{ 'folklore/' | relative_url }}) of the "Bennington Triangle", a supposed zone of mysterious [disappearances]({{ 'disappearances/' | relative_url }}) centred on Glastenbury Mountain. Understanding the difference between the historical investigation and the later legend is essential to understanding why the case continues to occupy such an important place in Fortean writing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disappearance_of_Paula_Jean_Welden" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disappearance of Paula Jean Welden</span><span class="citation-popover-snippet">Disappearance of Paula Jean Welden</span></span></span>
+Paula Jean Welden's disappearance is one of the best examples of how a documented missing-person case can become the centrepiece of a larger Fortean legend. On 1 December 1946, the 18-year-old Bennington College student left campus for what appeared to be an afternoon walk on Vermont's Long Trail. Multiple witnesses saw her during the journey, yet she was never seen again. The investigation exposed weaknesses in Vermont's law-enforcement system and ultimately contributed to the creation of the Vermont State Police. Decades later, however, the case acquired a second life as the most famous episode in the [folklore]({{ 'folklore/' | relative_url }}) of the "Bennington Triangle", a supposed zone of mysterious [disappearances]({{ 'disappearances/' | relative_url }}) centred on Glastenbury Mountain. Understanding the difference between the historical investigation and the later legend is essential to understanding why the case continues to occupy such an important place in Fortean writing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disappearance_of_Paula_Jean_Welden" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disappearance of Paula Jean Welden</span><span class="citation-popover-snippet">Disappearance of Paula Jean Welden</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_missing_people_retel_d09daa_welden_bennington_tr_b2acf7-Illustration-1-dark.svg" | relative_url }}" alt="Bennington illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_missing_people_retel_d09daa_welden_bennington_tr_b2acf7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_missing_people_retel_d09daa_welden_bennington_tr_b2acf7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,18 +282,18 @@ Paula Jean Welden's disappearance is one of the best examples of how a documente
 
 The documented sequence of events is comparatively well established. After finishing work in the Bennington College dining hall, Welden changed clothes and left campus during the afternoon. She hitchhiked towards the Long Trail, a popular hiking route that crossed Vermont Route 9 near Woodford Hollow.
 
-Several independent witnesses placed her along this route. One motorist gave her a lift for part of the journey. Hikers later recalled speaking with her after she asked about the trail, and the final widely accepted sighting placed her continuing north along what is now Harbour Road towards the wooded section of the Long Trail. Witnesses reported that she disappeared around a bend in the road, after which nobody could account for her movements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disappearance_of_Paula_Jean_Welden" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disappearance of Paula Jean Welden</span><span class="citation-popover-snippet">Disappearance of Paula Jean Welden</span></span></span>
+Several independent witnesses placed her along this route. One motorist gave her a lift for part of the journey. Hikers later recalled speaking with her after she asked about the trail, and the final widely accepted sighting placed her continuing north along what is now Harbour Road towards the wooded section of the Long Trail. Witnesses reported that she disappeared around a bend in the road, after which nobody could account for her movements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disappearance_of_Paula_Jean_Welden" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disappearance of Paula Jean Welden</span><span class="citation-popover-snippet">Disappearance of Paula Jean Welden</span></span></span>
 
 What makes the case so enduring is not a lack of witnesses but the abrupt end of reliable evidence. There were no confirmed sightings after she entered the more isolated section of the trail, no verified belongings recovered, and no physical evidence that clearly indicated whether she became lost, suffered an accident, or encountered another person.
 
-The subsequent search was extensive for its time. Volunteers, National Guard personnel, local officials and investigators from neighbouring states searched the Long Trail, nearby roads and surrounding woodland. Despite weeks of searching and numerous reported leads, nothing conclusively established what happened to Welden. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disappearance_of_Paula_Jean_Welden" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disappearance of Paula Jean Welden</span><span class="citation-popover-snippet">Disappearance of Paula Jean Welden</span></span></span>
+The subsequent search was extensive for its time. Volunteers, National Guard personnel, local officials and investigators from neighbouring states searched the Long Trail, nearby roads and surrounding woodland. Despite weeks of searching and numerous reported leads, nothing conclusively established what happened to Welden.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disappearance_of_Paula_Jean_Welden" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disappearance of Paula Jean Welden</span><span class="citation-popover-snippet">Disappearance of Paula Jean Welden</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KXbre42zEPM" title="Lost in the Wilderness: The Unexplained Disappearance of Paula Jean Welden" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KXbre42zEPM" target="_blank" rel="noopener noreferrer">Lost in the Wilderness: The Unexplained Disappearance of Paula Jean Welden</a></p><p class="youtube-embed-meta">Channel: Uncharted Enigmas</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KXbre42zEPM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KXbre42zEPM">Open on YouTube</a></p></div></div></div>
 
 ## How the Bennington Triangle formed around the case
 
-The phrase "Bennington Triangle" did not exist when Paula Welden disappeared. It was coined decades later by Vermont author and broadcaster Joseph A. Citro, who grouped several disappearances between 1945 and 1950 into a single geographical mystery centred on Glastenbury Mountain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bennington_Triangle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bennington Triangle</span><span class="citation-popover-snippet">Bennington Triangle</span></span></span>
+The phrase "Bennington Triangle" did not exist when Paula Welden disappeared. It was coined decades later by Vermont author and broadcaster Joseph A. Citro, who grouped several disappearances between 1945 and 1950 into a single geographical mystery centred on Glastenbury Mountain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bennington_Triangle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bennington Triangle</span><span class="citation-popover-snippet">Bennington Triangle</span></span></span>
 
 Within that framework, Welden's disappearance became the defining case because it possessed several qualities that lend themselves to folklore:
 
@@ -308,7 +308,7 @@ Within that framework, Welden's disappearance became the defining case because i
 
 </div>
 
-Once these features were combined with other disappearances in the wider region, later [retellings]({{ 'retellings/' | relative_url }}) increasingly shifted attention away from the individual investigation and towards the idea that the landscape itself possessed unusual properties. Paranormal books, documentaries and internet discussions frequently describe disappearances, strange lights, unusual wildlife or unexplained phenomena as if they formed parts of a single continuing mystery, even though the cases differ greatly in circumstance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bennington_Triangle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bennington Triangle</span><span class="citation-popover-snippet">Bennington Triangle</span></span></span>
+Once these features were combined with other disappearances in the wider region, later [retellings]({{ 'retellings/' | relative_url }}) increasingly shifted attention away from the individual investigation and towards the idea that the landscape itself possessed unusual properties. Paranormal books, documentaries and internet discussions frequently describe disappearances, strange lights, unusual wildlife or unexplained phenomena as if they formed parts of a single continuing mystery, even though the cases differ greatly in circumstance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bennington_Triangle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bennington Triangle</span><span class="citation-popover-snippet">Bennington Triangle</span></span></span>
 
 From a Fortean perspective, this illustrates how a genuine historical mystery can become the anchor for a broader narrative pattern. The unanswered question of what happened to one individual is gradually reframed as evidence for an anomalous location.
 
@@ -316,11 +316,11 @@ From a Fortean perspective, this illustrates how a genuine historical mystery ca
 <img src="{{ "/assets/images/forteana_50bdc8_missing_people_retel_d09daa_welden_bennington_tr_b2acf7-Illustration-2-dark.svg" | relative_url }}" alt="Bennington illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_missing_people_retel_d09daa_welden_bennington_tr_b2acf7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_missing_people_retel_d09daa_welden_bennington_tr_b2acf7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What official records do and do not support
 
-Officially, Paula Jean Welden remains an unsolved missing-person case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Disappearance_of_Paula_Jean_Welden" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disappearance of Paula Jean Welden</span><span class="citation-popover-snippet">Disappearance of Paula Jean Welden</span></span></span>
+Officially, Paula Jean Welden remains an unsolved missing-person case.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Disappearance_of_Paula_Jean_Welden" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disappearance of Paula Jean Welden</span><span class="citation-popover-snippet">Disappearance of Paula Jean Welden</span></span></span>
 
-The historical record supports several core facts: she travelled towards the Long Trail, was observed by multiple witnesses, disappeared on 1 December 1946, and was never located despite an extensive search. Contemporary criticism of the investigation also appears well founded. Vermont lacked a statewide police force, coordination between agencies proved difficult, and the handling of the search attracted significant public criticism. Within months, the state established the Vermont State Police, with Welden's case widely recognised as a major catalyst for that reform. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disappearance_of_Paula_Jean_Welden" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disappearance of Paula Jean Welden</span><span class="citation-popover-snippet">Disappearance of Paula Jean Welden</span></span></span>
+The historical record supports several core facts: she travelled towards the Long Trail, was observed by multiple witnesses, disappeared on 1 December 1946, and was never located despite an extensive search. Contemporary criticism of the investigation also appears well founded. Vermont lacked a statewide police force, coordination between agencies proved difficult, and the handling of the search attracted significant public criticism. Within months, the state established the Vermont State Police, with Welden's case widely recognised as a major catalyst for that reform.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disappearance_of_Paula_Jean_Welden" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disappearance of Paula Jean Welden</span><span class="citation-popover-snippet">Disappearance of Paula Jean Welden</span></span></span>
 
-The official record does **not** establish that the disappearance was connected to any paranormal phenomenon or that the various disappearances later grouped into the Bennington Triangle shared a common cause. Likewise, there is no verified evidence demonstrating murder, accidental death, suicide or voluntary disappearance. Numerous theories have circulated over the decades—including becoming lost, dying from exposure, abduction or homicide—but none has been supported by conclusive evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disappearance_of_Paula_Jean_Welden" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disappearance of Paula Jean Welden</span><span class="citation-popover-snippet">Disappearance of Paula Jean Welden</span></span></span>
+The official record does **not** establish that the disappearance was connected to any paranormal phenomenon or that the various disappearances later grouped into the Bennington Triangle shared a common cause. Likewise, there is no verified evidence demonstrating murder, accidental death, suicide or voluntary disappearance. Numerous theories have circulated over the decades—including becoming lost, dying from exposure, abduction or homicide—but none has been supported by conclusive evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disappearance_of_Paula_Jean_Welden" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disappearance of Paula Jean Welden</span><span class="citation-popover-snippet">Disappearance of Paula Jean Welden</span></span></span>
 
 This distinction matters because later accounts often present the Bennington Triangle as though it were an established investigative category rather than a retrospective folklore label. The legend connects cases through geography and atmosphere, whereas official investigations treated each disappearance on its own evidence.
 
@@ -336,202 +336,202 @@ Paula Jean Welden occupies a distinctive position in Fortean literature because 
 
 For historians and investigators, it represents a significant unsolved case that exposed institutional weaknesses and influenced policing in Vermont. For Fortean writers, it provides an unresolved narrative that naturally invites pattern-seeking. The absence of a known ending allows later storytellers to connect it with regional folklore, abandoned settlements around Glastenbury Mountain and other disappearances without needing definitive evidence linking them.
 
-The case has also influenced popular culture beyond paranormal writing. Novelists and documentary makers have repeatedly drawn upon the mystery, helping preserve public awareness of Welden long after many comparable missing-person cases faded from memory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bennington_Triangle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bennington Triangle</span><span class="citation-popover-snippet">Bennington Triangle</span></span></span>
+The case has also influenced popular culture beyond paranormal writing. Novelists and documentary makers have repeatedly drawn upon the mystery, helping preserve public awareness of Welden long after many comparable missing-person cases faded from memory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bennington_Triangle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bennington Triangle</span><span class="citation-popover-snippet">Bennington Triangle</span></span></span>
 
-Seen through the lens of [Forteana]({{ 'forteana/' | relative_url }}), Paula Jean Welden's disappearance demonstrates how folklore often develops not because extraordinary evidence accumulates, but because an unresolved historical event acquires symbolic weight. The documented disappearance remains unchanged; what evolves over time is the interpretive framework surrounding it. The Bennington Triangle legend is therefore best understood not as an officially recognised mystery zone, but as a cultural narrative built around one of New England's most enduring unsolved disappearances. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disappearance_of_Paula_Jean_Welden" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disappearance of Paula Jean Welden</span><span class="citation-popover-snippet">Disappearance of Paula Jean Welden</span></span></span>
+Seen through the lens of [Forteana]({{ 'forteana/' | relative_url }}), Paula Jean Welden's disappearance demonstrates how folklore often develops not because extraordinary evidence accumulates, but because an unresolved historical event acquires symbolic weight. The documented disappearance remains unchanged; what evolves over time is the interpretive framework surrounding it. The Bennington Triangle legend is therefore best understood not as an officially recognised mystery zone, but as a cultural narrative built around one of New England's most enduring unsolved disappearances.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disappearance_of_Paula_Jean_Welden" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disappearance of Paula Jean Welden</span><span class="citation-popover-snippet">Disappearance of Paula Jean Welden</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_missing_people_retel_d09daa_welden_bennington_tr_b2acf7-Illustration-3-dark.svg" | relative_url }}" alt="Bennington illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_missing_people_retel_d09daa_welden_bennington_tr_b2acf7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_missing_people_retel_d09daa_welden_bennington_tr_b2acf7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How One Trail Case Became a Triangle. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How One Trail Case Became a Triangle. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
-        </h4>
-        <p class="fr-book-author">By Charles Fort</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
+</h4>
+<p class="fr-book-author">By Charles Fort</p>
         
-        <p class="fr-book-desc">Connects the case to the wider tradition of anomaly collecting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects the case to the wider tradition of anomaly collecting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The vanishing hitchhiker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4614126-M.jpg" alt="Cover for The vanishing hitchhiker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The vanishing hitchhiker">The vanishing hitchhiker</a>
-        </h4>
-        <p class="fr-book-author">By Jan Harold Brunvand</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The vanishing hitchhiker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4614126-M.jpg" alt="Cover for The vanishing hitchhiker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The vanishing hitchhiker">The vanishing hitchhiker</a>
+</h4>
+<p class="fr-book-author">By Jan Harold Brunvand</p>
         
-        <p class="fr-book-desc">First published 1981. Subjects: History and criticism, Legends, Urban folklore, Légendes, Folklore urbain.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1981. Subjects: History and criticism, Legends, Urban folklore, Légendes, Folklore urbain.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Vermont+Ghost+Guide+Joseph+A.+Citro&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Vermont Ghost Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/848432-M.jpg" alt="Cover for The Vermont Ghost Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Vermont+Ghost+Guide+Joseph+A.+Citro&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Vermont Ghost Guide">The Vermont Ghost Guide</a>
-        </h4>
-        <p class="fr-book-author">By Joseph A. Citro</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Vermont+Ghost+Guide+Joseph+A.+Citro&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Vermont Ghost Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/848432-M.jpg" alt="Cover for The Vermont Ghost Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Vermont+Ghost+Guide+Joseph+A.+Citro&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Vermont Ghost Guide">The Vermont Ghost Guide</a>
+</h4>
+<p class="fr-book-author">By Joseph A. Citro</p>
         
-        <p class="fr-book-desc">First published 2000. Subjects: Ghosts, Haunted places, Vermont, guidebooks, Vermont, description and travel.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Vermont+Ghost+Guide+Joseph+A.+Citro&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2000. Subjects: Ghosts, Haunted places, Vermont, guidebooks, Vermont, description and travel.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Vermont+Ghost+Guide+Joseph+A.+Citro&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+world+of+Lore+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The world of Lore on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14362649-M.jpg" alt="Cover for The world of Lore" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+world+of+Lore+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world of Lore">The world of Lore</a>
-        </h4>
-        <p class="fr-book-author">By Aaron Mahnke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+world+of+Lore+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The world of Lore on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14362649-M.jpg" alt="Cover for The world of Lore" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+world+of+Lore+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world of Lore">The world of Lore</a>
+</h4>
+<p class="fr-book-author">By Aaron Mahnke</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Ghosts, Haunted places.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+world+of+Lore+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Ghosts, Haunted places.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+world+of+Lore+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+vanishing+hitchhiker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The vanishing hitchhiker</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Vermont+Ghost+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Vermont Ghost books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+vanishing+hitchhiker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The vanishing hitchhiker</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Vermont+Ghost+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Vermont Ghost books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Fortean+Times+magazine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Fortean Times magazine" data-ebay-reference="bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fortean Times: Monster Hunters"><img src="{{ '/assets/images/marketplace-covers/72462bd2a0daf49dca55.jpg' | relative_url }}" alt="Listing image for Fortean Times: Monster Hunters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Fortean+Times+magazine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Fortean Times magazine" data-ebay-reference="bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine" target="_blank" rel="sponsored noopener noreferrer">Fortean Times: Monster Hunters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Fortean+Times+magazine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Fortean Times magazine" data-ebay-reference="bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Fortean Times magazine">Search <span data-ebay-domain-label>eBay.co.uk</span>: Fortean Times magazine</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Fortean+Times+magazine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Fortean Times magazine" data-ebay-reference="bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Fortean+Times+magazine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Fortean Times magazine" data-ebay-reference="bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fortean Times: Monster Hunters"><img src="{{ '/assets/images/marketplace-covers/72462bd2a0daf49dca55.jpg' | relative_url }}" alt="Listing image for Fortean Times: Monster Hunters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Fortean+Times+magazine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Fortean Times magazine" data-ebay-reference="bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine" target="_blank" rel="sponsored noopener noreferrer">Fortean Times: Monster Hunters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Fortean+Times+magazine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Fortean Times magazine" data-ebay-reference="bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Fortean Times magazine">Search<span data-ebay-domain-label>eBay.co.uk</span>: Fortean Times magazine</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Fortean+Times+magazine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Fortean Times magazine" data-ebay-reference="bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Fortean+Times+magazine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Fortean Times magazine" data-ebay-reference="bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fortean Times Magazine Issues from 275-458 see description for bundle prices"><img src="{{ '/assets/images/marketplace-covers/cfbdc5444e421fe9299a.jpg' | relative_url }}" alt="Listing image for Fortean Times Magazine Issues from 275-458 see description for bundle prices" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Fortean+Times+magazine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Fortean Times magazine" data-ebay-reference="bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine" target="_blank" rel="sponsored noopener noreferrer">Fortean Times Magazine Issues from 275-458 see description for bundle prices</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Fortean+Times+magazine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Fortean Times magazine" data-ebay-reference="bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Fortean Times magazine">Search <span data-ebay-domain-label>eBay.co.uk</span>: Fortean Times magazine</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Fortean+Times+magazine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Fortean Times magazine" data-ebay-reference="bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Fortean+Times+magazine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Fortean Times magazine" data-ebay-reference="bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fortean Times Magazine Issues from 275-458 see description for bundle prices"><img src="{{ '/assets/images/marketplace-covers/cfbdc5444e421fe9299a.jpg' | relative_url }}" alt="Listing image for Fortean Times Magazine Issues from 275-458 see description for bundle prices" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Fortean+Times+magazine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Fortean Times magazine" data-ebay-reference="bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine" target="_blank" rel="sponsored noopener noreferrer">Fortean Times Magazine Issues from 275-458 see description for bundle prices</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Fortean+Times+magazine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Fortean Times magazine" data-ebay-reference="bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Fortean Times magazine">Search<span data-ebay-domain-label>eBay.co.uk</span>: Fortean Times magazine</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Fortean+Times+magazine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Fortean Times magazine" data-ebay-reference="bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Fortean+Times+magazine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Fortean Times magazine" data-ebay-reference="bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fortean Times: The UFO Files"><img src="{{ '/assets/images/marketplace-covers/a313fad48c5cc4f5a50d.jpg' | relative_url }}" alt="Listing image for Fortean Times: The UFO Files" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Fortean+Times+magazine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Fortean Times magazine" data-ebay-reference="bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine" target="_blank" rel="sponsored noopener noreferrer">Fortean Times: The UFO Files</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Fortean+Times+magazine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Fortean Times magazine" data-ebay-reference="bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Fortean Times magazine">Search <span data-ebay-domain-label>eBay.co.uk</span>: Fortean Times magazine</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Fortean+Times+magazine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Fortean Times magazine" data-ebay-reference="bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Fortean+Times+magazine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Fortean Times magazine" data-ebay-reference="bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fortean Times: The UFO Files"><img src="{{ '/assets/images/marketplace-covers/a313fad48c5cc4f5a50d.jpg' | relative_url }}" alt="Listing image for Fortean Times: The UFO Files" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Fortean+Times+magazine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Fortean Times magazine" data-ebay-reference="bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine" target="_blank" rel="sponsored noopener noreferrer">Fortean Times: The UFO Files</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Fortean+Times+magazine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Fortean Times magazine" data-ebay-reference="bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Fortean Times magazine">Search<span data-ebay-domain-label>eBay.co.uk</span>: Fortean Times magazine</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Fortean+Times+magazine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Fortean Times magazine" data-ebay-reference="bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Fortean+Times+magazine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Fortean Times magazine" data-ebay-reference="bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fortean Times magazine Festival Of Fire FT376 February 2019 New &amp; Sealed"><img src="{{ '/assets/images/marketplace-covers/1e342332570b06604df1.jpg' | relative_url }}" alt="Listing image for Fortean Times magazine Festival Of Fire FT376 February 2019 New &amp; Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Fortean+Times+magazine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Fortean Times magazine" data-ebay-reference="bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine" target="_blank" rel="sponsored noopener noreferrer">Fortean Times magazine Festival Of Fire FT376 February 2019 New &amp; Sealed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Fortean+Times+magazine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Fortean Times magazine" data-ebay-reference="bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Fortean Times magazine">Search <span data-ebay-domain-label>eBay.co.uk</span>: Fortean Times magazine</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Fortean+Times+magazine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Fortean Times magazine" data-ebay-reference="bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Fortean+Times+magazine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Fortean Times magazine" data-ebay-reference="bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Fortean+Times+magazine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Fortean Times magazine" data-ebay-reference="bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fortean Times magazine Festival Of Fire FT376 February 2019 New &amp; Sealed"><img src="{{ '/assets/images/marketplace-covers/1e342332570b06604df1.jpg' | relative_url }}" alt="Listing image for Fortean Times magazine Festival Of Fire FT376 February 2019 New &amp; Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Fortean+Times+magazine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Fortean Times magazine" data-ebay-reference="bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine" target="_blank" rel="sponsored noopener noreferrer">Fortean Times magazine Festival Of Fire FT376 February 2019 New &amp; Sealed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Fortean+Times+magazine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Fortean Times magazine" data-ebay-reference="bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Fortean Times magazine">Search<span data-ebay-domain-label>eBay.co.uk</span>: Fortean Times magazine</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Fortean+Times+magazine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Fortean Times magazine" data-ebay-reference="bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Fortean+Times+magazine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Fortean Times magazine" data-ebay-reference="bennington-how-one-trail-case-became-a-triangle-forteana-fortean-times-magazine" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -547,7 +547,7 @@ Seen through the lens of [Forteana]({{ 'forteana/' | relative_url }}), Paula Jea
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -567,7 +567,7 @@ Seen through the lens of [Forteana]({{ 'forteana/' | relative_url }}), Paula Jea
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -599,7 +599,7 @@ Seen through the lens of [Forteana]({{ 'forteana/' | relative_url }}), Paula Jea
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -651,7 +651,7 @@ Seen through the lens of [Forteana]({{ 'forteana/' | relative_url }}), Paula Jea
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -696,7 +696,7 @@ Seen through the lens of [Forteana]({{ 'forteana/' | relative_url }}), Paula Jea
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -737,71 +737,71 @@ Seen through the lens of [Forteana]({{ 'forteana/' | relative_url }}), Paula Jea
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Disappearance of Paula Jean Welden  
-   Link: <a href="https://en.wikipedia.org/wiki/Disappearance_of_Paula_Jean_Welden" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disappearance_of_Paula_Jean_Welden</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Disappearance_of_Paula_Jean_Welden" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disappearance_of_Paula_Jean_Welden</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Bennington Triangle  
-   Link: <a href="https://en.wikipedia.org/wiki/Bennington_Triangle" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bennington_Triangle</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Bennington_Triangle" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bennington_Triangle</a>  
 
 ### Additional References
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: historianandrew.medium.com  
-   Link: <a href="https://historianandrew.medium.com/the-disappearance-of-paula-jean-welden-the-college-student-who-vanished-in-broad-daylight-345a77741099" target="_blank" rel="noopener noreferrer nofollow">https://historianandrew.medium.com/the-disappearance-of-paula-jean-welden-the-college-student-who-vanished-in-broad-daylight-345a77741099</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Disappearance of Paula Jean Welden, the College...In 1946, a young woman disappeared in Vermont and was never seen again, establishing o...</p></details>
+   Link:<a href="https://historianandrew.medium.com/the-disappearance-of-paula-jean-welden-the-college-student-who-vanished-in-broad-daylight-345a77741099" target="_blank" rel="noopener noreferrer nofollow">https://historianandrew.medium.com/the-disappearance-of-paula-jean-welden-the-college-student-who-vanished-in-broad-daylight-345a77741099</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disappearance of Paula Jean Welden, the College...In 1946, a young woman disappeared in Vermont and was never seen again, establishing o...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: charleyproject.org  
-   Link: <a href="https://charleyproject.org/case/paula-jean-welden" target="_blank" rel="noopener noreferrer nofollow">https://charleyproject.org/case/paula-jean-welden</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Paula Jean WeldenWelden was a sophomore at Bennington College in Bennington, Vermont at the time of her disappearance. She was last seen...</p></details>
+   Link:<a href="https://charleyproject.org/case/paula-jean-welden" target="_blank" rel="noopener noreferrer nofollow">https://charleyproject.org/case/paula-jean-welden</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paula Jean WeldenWelden was a sophomore at Bennington College in Bennington, Vermont at the time of her disappearance. She was last seen...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: Lost in the Wilderness: The Unexplained Disappearance of Paula Jean Welden  
-   Link: <a href="https://www.youtube.com/watch?v=KXbre42zEPM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KXbre42zEPM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Paula Jean Welden Bennington Triangle disappearance Lost in the Wilderness: The Unexplained Disappearance of Paula Jean Welden Uncharted...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KXbre42zEPM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KXbre42zEPM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paula Jean Welden Bennington Triangle disappearance Lost in the Wilderness: The Unexplained Disappearance of Paula Jean Welden Uncharted...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/VermontHistoricalSociety/posts/on-this-day-in-vermont-history-paula-jean-welden-a-student-from-bennington-colle/1321952296612402/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VermontHistoricalSociety/posts/on-this-day-in-vermont-history-paula-jean-welden-a-student-from-bennington-colle/1321952296612402/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ege vanished in 1946 after telling her roommate that she wanted to...</p></details>
+   Link:<a href="https://www.facebook.com/VermontHistoricalSociety/posts/on-this-day-in-vermont-history-paula-jean-welden-a-student-from-bennington-colle/1321952296612402/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VermontHistoricalSociety/posts/on-this-day-in-vermont-history-paula-jean-welden-a-student-from-bennington-colle/1321952296612402/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ege vanished in 1946 after telling her roommate that she wanted to...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: newyorkalmanack.com  
    Title: 1946 disappearance of paula welden  
-   Link: <a href="https://www.newyorkalmanack.com/2022/09/1946-disappearance-of-paula-welden/" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorkalmanack.com/2022/09/1946-disappearance-of-paula-welden/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1946 Disappearance of Paula Welden on Vermont&#x27;s...16 Sept 2022 — In December 1946, 18-year-old Bennington College sophomore Paula We...</p></details>
+   Link:<a href="https://www.newyorkalmanack.com/2022/09/1946-disappearance-of-paula-welden/" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorkalmanack.com/2022/09/1946-disappearance-of-paula-welden/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1946 Disappearance of Paula Welden on Vermont&#x27;s...16 Sept 2022 — In December 1946, 18-year-old Bennington College sophomore Paula We...</p></details>
    Published: December 1946  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=2N1sD-fRHGM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2N1sD-fRHGM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lost in the Wilderness: The Unexplained Disappearance of Paula Jean Welden...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2N1sD-fRHGM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2N1sD-fRHGM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lost in the Wilderness: The Unexplained Disappearance of Paula Jean Welden...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: open.spotify.com  
-   Link: <a href="https://open.spotify.com/episode/4c4d85EJoCiyq894PMtj7w" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/4c4d85EJoCiyq894PMtj7w</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Disappearance of Paula Jean Welden - Crime at Bedtime - SpotifyIn December 1946, 18-year-old Bennington College student Paula Jean Welden...</p></details>
+   Link:<a href="https://open.spotify.com/episode/4c4d85EJoCiyq894PMtj7w" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/4c4d85EJoCiyq894PMtj7w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disappearance of Paula Jean Welden - Crime at Bedtime - SpotifyIn December 1946, 18-year-old Bennington College student Paula Jean Welden...</p></details>
    Published: December 1946  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: websleuths.com  
    Title: Vermont had no state police  
-   Link: <a href="https://websleuths.com/threads/vt-paula-jean-welden-18-glastenbury-mountain-1-dec-1946.32241/" target="_blank" rel="noopener noreferrer nofollow">https://websleuths.com/threads/vt-paula-jean-welden-18-glastenbury-mountain-1-dec-1946.32241/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Paula Jean Welden, 18, Glastenbury Mountain, 1 Dec 194616 Nov 2005 — Some reports state that Welden disappeared while taking a walk on th...</p></details>
+   Link:<a href="https://websleuths.com/threads/vt-paula-jean-welden-18-glastenbury-mountain-1-dec-1946.32241/" target="_blank" rel="noopener noreferrer nofollow">https://websleuths.com/threads/vt-paula-jean-welden-18-glastenbury-mountain-1-dec-1946.32241/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paula Jean Welden, 18, Glastenbury Mountain, 1 Dec 194616 Nov 2005 — Some reports state that Welden disappeared while taking a walk on th...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: open.spotify.com  
-   Link: <a href="https://open.spotify.com/episode/4XqhA3ltobB5z4ZftSMFXi" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/4XqhA3ltobB5z4ZftSMFXi</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Disappearance of Paula Jean Welden7 Oct 2025 — In December 1946, 18-year-old Bennington College student Paula Jean Welden set out for a s...</p></details>
+   Link:<a href="https://open.spotify.com/episode/4XqhA3ltobB5z4ZftSMFXi" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/4XqhA3ltobB5z4ZftSMFXi</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disappearance of Paula Jean Welden7 Oct 2025 — In December 1946, 18-year-old Bennington College student Paula Jean Welden set out for a s...</p></details>
    Published: December 1946  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: open.spotify.com  
-   Link: <a href="https://open.spotify.com/episode/5NkSzqwXy6OVQxW1b5UZfE" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/5NkSzqwXy6OVQxW1b5UZfE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Disappearance of Paula Jean Welden18 Mar 2022 — On 1 December 1946, she changed into jeans, white shoes, and a distinctive red...</p></details>
+   Link:<a href="https://open.spotify.com/episode/5NkSzqwXy6OVQxW1b5UZfE" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/5NkSzqwXy6OVQxW1b5UZfE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Disappearance of Paula Jean Welden18 Mar 2022 — On 1 December 1946, she changed into jeans, white shoes, and a distinctive red...</p></details>
    Published: December 1946  

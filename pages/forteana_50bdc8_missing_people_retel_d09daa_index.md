@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /forteana-50bdc8-missing-people-retel/
 description: Focused pages that expand on Disappearances.
-date: '2026-07-01'
+date: '2026'
 layout: default
 parent_basename: forteana_50bdc8_missing_people_retel_d09daa
 parent_title: Disappearances
@@ -16,7 +16,7 @@ parent_permalink: /disappearances/
 
 # Explore Topics in Disappearances
 
-The following pages expand on the main **[Disappearances]({{ '/disappearances/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Disappearances]({{ '/disappearances/' | relative_url }})** page and cover its key branches in.
 
 - [Ethics]({{ '/ethics-e7c627/' | relative_url }})
 - [Flannan Isles]({{ '/flannan-isles/' | relative_url }})

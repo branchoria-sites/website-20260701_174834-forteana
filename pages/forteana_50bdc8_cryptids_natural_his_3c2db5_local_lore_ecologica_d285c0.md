@@ -284,7 +284,7 @@ Local cryptid traditions occupy an unusual position within [Forteana]({{ 'fortea
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_cryptids_natural_his_3c2db5_local_lore_ecologica_d285c0-Illustration-1-dark.svg" | relative_url }}" alt="Local Lore illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_cryptids_natural_his_3c2db5_local_lore_ecologica_d285c0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_cryptids_natural_his_3c2db5_local_lore_ecologica_d285c0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The important question is therefore not simply whether a cryptid is "real". Instead, the evidence asks what repeated local reports are actually pointing towards. Sometimes they lead investigators to known wildlife viewed under difficult conditions. Sometimes they preserve fragments of ecological knowledge. Sometimes they become enduring symbols that organise how a community thinks about a particular place. Understanding that distinction helps explain why local cryptid traditions persist even when zoological evidence remains inconclusive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cryptozoology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+The important question is therefore not simply whether a cryptid is "real". Instead, the evidence asks what repeated local reports are actually pointing towards. Sometimes they lead investigators to known wildlife viewed under difficult conditions. Sometimes they preserve fragments of ecological knowledge. Sometimes they become enduring symbols that organise how a community thinks about a particular place. Understanding that distinction helps explain why local cryptid traditions persist even when zoological evidence remains inconclusive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cryptozoology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 ## How repeated reports create a named creature
 
@@ -301,7 +301,7 @@ This process has several consequences.
 
 </div>
 
-The Beast of Bray Road in Wisconsin illustrates this process. Initial reports of a wolf-like animal developed over decades into a named local cryptid connected with one rural road. Journalistic coverage, books and community discussion reinforced a recognisable identity even though sceptical explanations continued to favour misidentified wolves or large dogs. The locality became as important as the creature itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Beast_of_Bray_Road" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Beast of Bray Road</span><span class="citation-popover-snippet">Beast of Bray Road</span></span></span>
+The Beast of Bray Road in Wisconsin illustrates this process. Initial reports of a wolf-like animal developed over decades into a named local cryptid connected with one rural road. Journalistic coverage, books and community discussion reinforced a recognisable identity even though sceptical explanations continued to favour misidentified wolves or large dogs. The locality became as important as the creature itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Beast_of_Bray_Road" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Beast of Bray Road</span><span class="citation-popover-snippet">Beast of Bray Road</span></span></span>
 
 A similar pattern appears in numerous regional legends where a cryptid's identity depends less on unique biological evidence than on repeated local recognition. The name allows scattered experiences, rumours and stories to be treated as evidence for a single enduring population.
 
@@ -326,7 +326,7 @@ Local traditions may preserve ecological clues by recording:
 
 </div>
 
-Ethnozoology—the study of human knowledge about animals—has repeatedly shown that traditional ecological knowledge can complement scientific surveys, particularly in remote regions where formal biological sampling is limited. Local names and stories sometimes preserve observations of genuine species even when the explanation attached to them becomes embellished over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1907.03969" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+Ethnozoology—the study of human knowledge about animals—has repeatedly shown that traditional ecological knowledge can complement scientific surveys, particularly in remote regions where formal biological sampling is limited. Local names and stories sometimes preserve observations of genuine species even when the explanation attached to them becomes embellished over time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1907.03969" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 This does not mean every cryptid conceals an undiscovered animal. Instead, it suggests that recurring reports deserve careful separation into different components:
 
@@ -359,7 +359,7 @@ Several recurring cultural roles appear across local traditions.
 
 **Expressing humour and shared storytelling.** Some traditions persist because people enjoy participating in a communal legend, regardless of literal belief.
 
-The Lake Worth Monster in Texas demonstrates this cultural transformation. Following reports in 1969, the creature became woven into local identity through annual events, public storytelling and municipal promotion. Whether or not the original sightings reflected an unknown animal became less significant than the legend's role within community culture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lake_Worth_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lake Worth Monster</span><span class="citation-popover-snippet">Lake Worth Monster</span></span></span>
+The Lake Worth Monster in Texas demonstrates this cultural transformation. Following reports in 1969, the creature became woven into local identity through annual events, public storytelling and municipal promotion. Whether or not the original sightings reflected an unknown animal became less significant than the legend's role within community culture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lake_Worth_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lake Worth Monster</span><span class="citation-popover-snippet">Lake Worth Monster</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gTyOqta3YAA" title="The Beast of Bray Road and &quot;Embracing the Strange&quot; | Flyover Culture" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gTyOqta3YAA" target="_blank" rel="noopener noreferrer">The Beast of Bray Road and &quot;Embracing the Strange&quot; | Flyover Culture</a></p><p class="youtube-embed-meta">Channel: Flyover Culture</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gTyOqta3YAA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gTyOqta3YAA">Open on YouTube</a></p></div></div></div>
@@ -380,7 +380,7 @@ Several mechanisms repeatedly occur.
 
 </div>
 
-The Beast of Dean illustrates this ambiguity. Historical accounts describe a mysterious beast in the Forest of Dean, yet contemporary evidence suggests the stories developed around unusually large wild boar, animals genuinely capable of causing substantial damage to woodland and farmland. The legend therefore reflects both a real ecological presence and a folkloric enlargement of it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Beast_of_Dean" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Beast of Dean</span><span class="citation-popover-snippet">Beast of Dean</span></span></span>
+The Beast of Dean illustrates this ambiguity. Historical accounts describe a mysterious beast in the Forest of Dean, yet contemporary evidence suggests the stories developed around unusually large wild boar, animals genuinely capable of causing substantial damage to woodland and farmland. The legend therefore reflects both a real ecological presence and a folkloric enlargement of it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Beast_of_Dean" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Beast of Dean</span><span class="citation-popover-snippet">Beast of Dean</span></span></span>
 
 This pattern appears repeatedly in Fortean investigations. The biological core may be ordinary, while the cultural interpretation gradually becomes extraordinary.
 
@@ -400,201 +400,201 @@ Viewed this way, a cryptid tradition can be informative even when its zoological
 
 Local cryptid lore demonstrates that unexplained reports need not resolve into a simple choice between fact and fiction. Some traditions point towards real ecological observations filtered through difficult conditions and repeated retelling. Others become cultural animals that help communities organise place, identity and memory long after their original observations have faded.
 
-For Forteana, this is precisely where the boundary with natural history becomes most interesting. The question is not only whether an unknown creature exists, but also how repeated local observation, ecological knowledge and cultural storytelling combine to produce an enduring animal that occupies both the landscape and the imagination. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1907.03969" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+For Forteana, this is precisely where the boundary with natural history becomes most interesting. The question is not only whether an unknown creature exists, but also how repeated local observation, ecological knowledge and cultural storytelling combine to produce an enduring animal that occupies both the landscape and the imagination.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1907.03969" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/98M3Az_ku4A" title="The Crazed Hunt for the Himalayan Yeti | Monstrum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=98M3Az_ku4A" target="_blank" rel="noopener noreferrer">The Crazed Hunt for the Himalayan Yeti | Monstrum</a></p><p class="youtube-embed-meta">Channel: Storied</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=98M3Az_ku4A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=98M3Az_ku4A">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Local Lore Points to an Animal. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Local Lore Points to an Animal. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+field+guide+to+Bigfoot%2C+Yeti%2C+and+other+mystery+primates+worldwide+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The field guide to Bigfoot, Yeti, and other mystery primates worldwide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7119242-M.jpg" alt="Cover for The field guide to Bigfoot, Yeti, and other mystery primates worldwide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+field+guide+to+Bigfoot%2C+Yeti%2C+and+other+mystery+primates+worldwide+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The field guide to Bigfoot, Yeti, and other mystery primates worldwide">The field guide to Bigfoot, Yeti, and other mystery primates...</a>
-        </h4>
-        <p class="fr-book-author">By Loren Coleman, Patrick Huyghe et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+field+guide+to+Bigfoot%2C+Yeti%2C+and+other+mystery+primates+worldwide+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The field guide to Bigfoot, Yeti, and other mystery primates worldwide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7119242-M.jpg" alt="Cover for The field guide to Bigfoot, Yeti, and other mystery primates worldwide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+field+guide+to+Bigfoot%2C+Yeti%2C+and+other+mystery+primates+worldwide+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The field guide to Bigfoot, Yeti, and other mystery primates worldwide">The field guide to Bigfoot, Yeti, and other mystery primates...</a>
+</h4>
+<p class="fr-book-author">By Loren Coleman, Patrick Huyghe et al.</p>
         
-        <p class="fr-book-desc">First published 1999. Subjects: Primates, Monsters, Folklore, Sasquatch, Yeti.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+field+guide+to+Bigfoot%2C+Yeti%2C+and+other+mystery+primates+worldwide+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1999. Subjects: Primates, Monsters, Folklore, Sasquatch, Yeti.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+field+guide+to+Bigfoot%2C+Yeti%2C+and+other+mystery+primates+worldwide+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Monster+of+God+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Monster of God on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1092773-M.jpg" alt="Cover for Monster of God" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Monster+of+God+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Monster of God">Monster of God</a>
-        </h4>
-        <p class="fr-book-author">By David Quammen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Monster+of+God+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Monster of God on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1092773-M.jpg" alt="Cover for Monster of God" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Monster+of+God+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Monster of God">Monster of God</a>
+</h4>
+<p class="fr-book-author">By David Quammen</p>
         
-        <p class="fr-book-desc">First published 2002. Subjects: Ecology, Psychological aspects, Predatory animals, Dangerous animals, Endangered species.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Monster+of+God+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2002. Subjects: Ecology, Psychological aspects, Predatory animals, Dangerous animals, Endangered species.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Monster+of+God+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mysterious+America+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mysterious America on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/955770-M.jpg" alt="Cover for Mysterious America" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mysterious+America+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysterious America">Mysterious America</a>
-        </h4>
-        <p class="fr-book-author">By Loren Coleman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mysterious+America+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mysterious America on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/955770-M.jpg" alt="Cover for Mysterious America" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mysterious+America+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysterious America">Mysterious America</a>
+</h4>
+<p class="fr-book-author">By Loren Coleman</p>
         
-        <p class="fr-book-desc">First published 1983. Subjects: Miscellanea, Curiosities and wonders.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mysterious+America+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1983. Subjects: Miscellanea, Curiosities and wonders.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mysterious+America+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science">Abominable Science</a>
-        </h4>
-        <p class="fr-book-author">By Donald R. Prothero, Daniel Loxton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science">Abominable Science</a>
+</h4>
+<p class="fr-book-author">By Donald R. Prothero, Daniel Loxton</p>
         
-        <p class="fr-book-desc">First published 2012. Subjects: Animals, mythical.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2012. Subjects: Animals, mythical.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+field+to+Bigfoot%2C+Yeti%2C+and+other+mystery+primates+worldwide+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The field to Bigfoot, Yeti, and other mystery primates worldwide books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Monster+of+God&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Monster of God</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mysterious+America&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mysterious America</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+field+to+Bigfoot%2C+Yeti%2C+and+other+mystery+primates+worldwide+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The field to Bigfoot, Yeti, and other mystery primates worldwide books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Monster+of+God&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Monster of God</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mysterious+America&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mysterious America</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wendigo Cryptid Monster Travel Art Framed Wall Art Poster Canvas Print Picture"><span>eBay</span></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art" target="_blank" rel="sponsored noopener noreferrer">Wendigo Cryptid Monster Travel Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wendigo Cryptid Monster Travel Art Framed Wall Art Poster Canvas Print Picture"><span>eBay</span></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art" target="_blank" rel="sponsored noopener noreferrer">Wendigo Cryptid Monster Travel Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Werewolf Skull Wall Art Replica Life Size Cryptid Skull Horror Display"><img src="{{ '/assets/images/marketplace-covers/ffbbe1bdb1d027c4f462.jpg' | relative_url }}" alt="Listing image for Werewolf Skull Wall Art Replica Life Size Cryptid Skull Horror Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art" target="_blank" rel="sponsored noopener noreferrer">Werewolf Skull Wall Art Replica Life Size Cryptid Skull Horror Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Werewolf Skull Wall Art Replica Life Size Cryptid Skull Horror Display"><img src="{{ '/assets/images/marketplace-covers/ffbbe1bdb1d027c4f462.jpg' | relative_url }}" alt="Listing image for Werewolf Skull Wall Art Replica Life Size Cryptid Skull Horror Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art" target="_blank" rel="sponsored noopener noreferrer">Werewolf Skull Wall Art Replica Life Size Cryptid Skull Horror Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mothman 80s Vibe Cryptid Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/793b55550f4aea4a3340.jpg' | relative_url }}" alt="Listing image for Mothman 80s Vibe Cryptid Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art" target="_blank" rel="sponsored noopener noreferrer">Mothman 80s Vibe Cryptid Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mothman 80s Vibe Cryptid Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/793b55550f4aea4a3340.jpg' | relative_url }}" alt="Listing image for Mothman 80s Vibe Cryptid Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art" target="_blank" rel="sponsored noopener noreferrer">Mothman 80s Vibe Cryptid Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage ALIEN ABDUCTION Wall Art, Cryptid Sexy Sci-fi Poster, UFO Sighting Decor"><img src="{{ '/assets/images/marketplace-covers/563718fc8a241397dc67.jpg' | relative_url }}" alt="Listing image for Vintage ALIEN ABDUCTION Wall Art, Cryptid Sexy Sci-fi Poster, UFO Sighting Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage ALIEN ABDUCTION Wall Art, Cryptid Sexy Sci-fi Poster, UFO Sighting Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: cryptid wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage ALIEN ABDUCTION Wall Art, Cryptid Sexy Sci-fi Poster, UFO Sighting Decor"><img src="{{ '/assets/images/marketplace-covers/563718fc8a241397dc67.jpg' | relative_url }}" alt="Listing image for Vintage ALIEN ABDUCTION Wall Art, Cryptid Sexy Sci-fi Poster, UFO Sighting Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage ALIEN ABDUCTION Wall Art, Cryptid Sexy Sci-fi Poster, UFO Sighting Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cryptid wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: cryptid wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cryptid+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cryptid wall art" data-ebay-reference="local-lore-when-local-lore-points-to-an-animal-forteana-cryptid-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -610,7 +610,7 @@ For Forteana, this is precisely where the boundary with natural history becomes 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -630,7 +630,7 @@ For Forteana, this is precisely where the boundary with natural history becomes 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -662,7 +662,7 @@ For Forteana, this is precisely where the boundary with natural history becomes 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -714,7 +714,7 @@ For Forteana, this is precisely where the boundary with natural history becomes 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -759,7 +759,7 @@ For Forteana, this is precisely where the boundary with natural history becomes 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -800,51 +800,51 @@ For Forteana, this is precisely where the boundary with natural history becomes 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Cryptozoology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cryptozoology</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cryptozoology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cryptozoology</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1907.03969" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1907.03969</a>  
+   Link:<a href="https://arxiv.org/abs/1907.03969" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1907.03969</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Beast of Bray Road  
-   Link: <a href="https://en.wikipedia.org/wiki/Beast_of_Bray_Road" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Beast_of_Bray_Road</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Beast_of_Bray_Road" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Beast_of_Bray_Road</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Lake Worth Monster  
-   Link: <a href="https://en.wikipedia.org/wiki/Lake_Worth_Monster" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lake_Worth_Monster</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Lake_Worth_Monster" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lake_Worth_Monster</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Beast of Dean  
-   Link: <a href="https://en.wikipedia.org/wiki/Beast_of_Dean" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Beast_of_Dean</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Beast_of_Dean" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Beast_of_Dean</a>  
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: Every Real Animal Behind A Mythical Creature Explained  
-   Link: <a href="https://www.youtube.com/watch?v=RP_HSt32Wbc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RP_HSt32Wbc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Werewolves in America | A Cultural Exploration...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=RP_HSt32Wbc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RP_HSt32Wbc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Werewolves in America | A Cultural Exploration...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Werewolves in America | A Cultural Exploration  
-   Link: <a href="https://www.youtube.com/watch?v=zRUr3lUHBNw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zRUr3lUHBNw</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Uncovering Fiji&#x27;s Shark God - The Real Legend of Dakuwaqa...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zRUr3lUHBNw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zRUr3lUHBNw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Uncovering Fiji&#x27;s Shark God - The Real Legend of Dakuwaqa...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: The Crazed Hunt for the Himalayan Yeti  
-   Link: <a href="https://www.youtube.com/watch?v=98M3Az_ku4A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=98M3Az_ku4A</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Every Real Animal Behind A Mythical Creature Explained...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=98M3Az_ku4A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=98M3Az_ku4A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Every Real Animal Behind A Mythical Creature Explained...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: The Beast of Bray Road and "Embracing the Strange"  
-   Link: <a href="https://www.youtube.com/watch?v=gTyOqta3YAA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gTyOqta3YAA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Crazed Hunt for the Himalayan Yeti...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=gTyOqta3YAA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gTyOqta3YAA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Crazed Hunt for the Himalayan Yeti...</p></details>

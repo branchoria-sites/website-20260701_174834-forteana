@@ -282,9 +282,9 @@ For more than a century, psychical researchers have collected thousands of first
 
 ## Why apparitions belong to both ghost lore and psychical research
 
-Across cultures, apparitions are usually understood as the visible or otherwise perceptible presence of someone who is absent, dying or dead. In [folklore]({{ 'folklore/' | relative_url }}), they often become part of local haunting traditions or religious narratives. Psychical research narrows the question considerably: was the [experience]({{ 'experience/' | relative_url }}) merely subjective, or did it involve information that could not reasonably have been acquired through ordinary means? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/ghosts-and-apparitions-psi-research-overview/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">ghosts and apparitions psi research overview</span><span class="citation-popover-snippet">Psi EncyclopediaGhosts and Apparitions in Psi Research (Overview)17 Oct 2016 — It treats apparitions as methodologically diverse phenomen...</span></span></span>
+Across cultures, apparitions are usually understood as the visible or otherwise perceptible presence of someone who is absent, dying or dead. In [folklore]({{ 'folklore/' | relative_url }}), they often become part of local haunting traditions or religious narratives. Psychical research narrows the question considerably: was the [experience]({{ 'experience/' | relative_url }}) merely subjective, or did it involve information that could not reasonably have been acquired through ordinary means?<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/ghosts-and-apparitions-psi-research-overview/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">ghosts and apparitions psi research overview</span><span class="citation-popover-snippet">Psi EncyclopediaGhosts and Apparitions in Psi Research (Overview)17 Oct 2016 — It treats apparitions as methodologically diverse phenomen...</span></span></span>
 
-This distinction explains why early psychical researchers separated spontaneous apparitional experiences from legends about haunted places. They concentrated on witnesses who had no expectation of seeing a ghost and who reported an apparently normal-looking person before learning that the individual had died or suffered a crisis. Such reports became known as **crisis apparitions** and were considered more valuable than traditional haunting stories because they could sometimes be checked against independent timelines. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/ghosts-and-apparitions-psi-research-overview/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia+2SPR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">ghosts and apparitions psi research overview</span><span class="citation-popover-snippet">Psi EncyclopediaGhosts and Apparitions in Psi Research (Overview)17 Oct 2016 — It treats apparitions as methodologically diverse phenomen...</span></span></span>
+This distinction explains why early psychical researchers separated spontaneous apparitional experiences from legends about haunted places. They concentrated on witnesses who had no expectation of seeing a ghost and who reported an apparently normal-looking person before learning that the individual had died or suffered a crisis. Such reports became known as **crisis apparitions** and were considered more valuable than traditional haunting stories because they could sometimes be checked against independent timelines.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/ghosts-and-apparitions-psi-research-overview/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia+2SPR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">ghosts and apparitions psi research overview</span><span class="citation-popover-snippet">Psi EncyclopediaGhosts and Apparitions in Psi Research (Overview)17 Oct 2016 — It treats apparitions as methodologically diverse phenomen...</span></span></span>
 
 Researchers also distinguished between several broad categories:
 
@@ -305,7 +305,7 @@ These categories matter because each raises different evidential questions. A ha
 
 ## How testimony becomes a case file
 
-Psychical researchers recognised early that memory is unreliable, especially after dramatic events. Consequently, organisations such as the Society for Psychical Research attempted to standardise investigations rather than simply collecting ghost stories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lib.cam.ac.uk/collections/departments/archives-modern-and-medieval-manuscripts-and-university-archives-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lib.cam.ac.uk">[Cambridge University Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lib.cam.ac.uk</span><span class="citation-popover-snippet">bridge University LibrarySociety for Psychical Research &#124; Cambridge University LibraryThe six initial areas of study were Thought-Tran...</span></span></span>
+Psychical researchers recognised early that memory is unreliable, especially after dramatic events. Consequently, organisations such as the Society for Psychical Research attempted to standardise investigations rather than simply collecting ghost stories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lib.cam.ac.uk/collections/departments/archives-modern-and-medieval-manuscripts-and-university-archives-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lib.cam.ac.uk">[Cambridge University Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lib.cam.ac.uk</span><span class="citation-popover-snippet">bridge University LibrarySociety for Psychical Research &#124; Cambridge University LibraryThe six initial areas of study were Thought-Tran...</span></span></span>
 
 A stronger apparitional case typically includes several features:
 
@@ -326,9 +326,9 @@ The emphasis on documentation represented an important departure from ordinary g
 
 ### The Census of Hallucinations
 
-One of the most ambitious attempts to evaluate apparitional reports scientifically was the **Census of Hallucinations**, conducted by members of the Society for Psychical Research during the late nineteenth century. More than 17,000 people were questioned about vivid sensory experiences occurring while apparently awake. Investigators were especially interested in reports that coincided with another person's death or crisis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://iapsop.com/archive/materials/spr_proceedings/spr_proceedings_v10_1894.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iapsop.com">[IAPSOP+2JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iapsop.com</span><span class="citation-popover-title">Proceedings of the Society for Psychical Research335</span><span class="citation-popover-snippet">Collective Auditory Hallucinations. 315-317. Collective Hallucinations with different Percepts... 317,318,344,374,383. Collective Tactil...</span></span></span>
+One of the most ambitious attempts to evaluate apparitional reports scientifically was the **Census of Hallucinations**, conducted by members of the Society for Psychical Research during the late nineteenth century. More than 17,000 people were questioned about vivid sensory experiences occurring while apparently awake. Investigators were especially interested in reports that coincided with another person's death or crisis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://iapsop.com/archive/materials/spr_proceedings/spr_proceedings_v10_1894.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iapsop.com">[IAPSOP+2JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iapsop.com</span><span class="citation-popover-title">Proceedings of the Society for Psychical Research335</span><span class="citation-popover-snippet">Collective Auditory Hallucinations. 315-317. Collective Hallucinations with different Percepts... 317,318,344,374,383. Collective Tactil...</span></span></span>
 
-The researchers argued that apparent coincidences between experiences and deaths occurred more often than simple chance would predict. Critics, however, questioned the statistical assumptions, retrospective reporting and possible selection effects. Although the census became a landmark in psychical research methodology, it did not persuade the wider scientific community that apparitions demonstrated survival after death. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/10.2979/victorianstudies.61.4.02" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">Numbers, Narratives, and the Census of Hallucinationsby C Keep · 2019 · Cited by 3 — Abstract: This article examines the Society for...</span></span></span>
+The researchers argued that apparent coincidences between experiences and deaths occurred more often than simple chance would predict. Critics, however, questioned the statistical assumptions, retrospective reporting and possible selection effects. Although the census became a landmark in psychical research methodology, it did not persuade the wider scientific community that apparitions demonstrated survival after death.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/10.2979/victorianstudies.61.4.02" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">Numbers, Narratives, and the Census of Hallucinationsby C Keep · 2019 · Cited by 3 — Abstract: This article examines the Society for...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_parapsychology_bound_d30a61_apparitions_survival_52ca91-Illustration-2-dark.svg" | relative_url }}" alt="Apparitions illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_parapsychology_bound_d30a61_apparitions_survival_52ca91-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_parapsychology_bound_d30a61_apparitions_survival_52ca91-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -350,14 +350,14 @@ However, even these cases leave multiple possibilities open. Depending on one's 
 
 </div>
 
-Importantly, the survival interpretation is only one hypothesis among several. Early psychical researchers themselves frequently debated whether crisis apparitions, if genuine, pointed more naturally towards telepathy than towards surviving personalities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/364785913_Phantasms_of_the_Living" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">364785913 Phantasms of the Living</span><span class="citation-popover-snippet">Phantasms of the Living... Society for Psychical Research, was first published in 1886. It documents over 700 case studies of...</span></span></span>
+Importantly, the survival interpretation is only one hypothesis among several. Early psychical researchers themselves frequently debated whether crisis apparitions, if genuine, pointed more naturally towards telepathy than towards surviving personalities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/364785913_Phantasms_of_the_Living" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">364785913 Phantasms of the Living</span><span class="citation-popover-snippet">Phantasms of the Living... Society for Psychical Research, was first published in 1886. It documents over 700 case studies of...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/saLnYMis8JM" title="Scientific Evidence of PSI and Survival of Consciousness | Electricity of Life" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=saLnYMis8JM" target="_blank" rel="noopener noreferrer">Scientific Evidence of PSI and Survival of Consciousness | Electricity of Life</a></p><p class="youtube-embed-meta">Channel: The Thunderbolts Project</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=saLnYMis8JM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=saLnYMis8JM">Open on YouTube</a></p></div></div></div>
 
 ## Where survival claims exceed the evidence
 
-The central dispute is not whether people genuinely experience apparitions. Modern psychology accepts that vivid sensory experiences can occur in mentally healthy individuals, particularly during bereavement, fatigue, stress or altered states of consciousness. The disagreement concerns what these experiences mean. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/ghosts-and-apparitions-psi-research-overview/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">ghosts and apparitions psi research overview</span><span class="citation-popover-snippet">Psi EncyclopediaGhosts and Apparitions in Psi Research (Overview)17 Oct 2016 — It treats apparitions as methodologically diverse phenomen...</span></span></span>
+The central dispute is not whether people genuinely experience apparitions. Modern psychology accepts that vivid sensory experiences can occur in mentally healthy individuals, particularly during bereavement, fatigue, stress or altered states of consciousness. The disagreement concerns what these experiences mean.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/ghosts-and-apparitions-psi-research-overview/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">ghosts and apparitions psi research overview</span><span class="citation-popover-snippet">Psi EncyclopediaGhosts and Apparitions in Psi Research (Overview)17 Oct 2016 — It treats apparitions as methodologically diverse phenomen...</span></span></span>
 
 Several limitations prevent apparitions from becoming decisive evidence for survival after death.
 
@@ -367,7 +367,7 @@ Second, independent corroboration is uncommon. Many striking stories rely on a s
 
 Third, statistical rarity creates interpretative problems. Given the enormous number of dreams, unusual perceptions and deaths occurring worldwide, some remarkable coincidences are expected by chance alone.
 
-Finally, even apparently accurate information does not uniquely support survival. Researchers who accept the possibility of paranormal processes have long noted that telepathy, clairvoyance or unknown psychological mechanisms could theoretically explain some reports without requiring the continued existence of the deceased person. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://med.virginia.edu/perceptual-studies/wp-content/uploads/sites/360/2017/09/The-Contributions-of-Apparitions-to-the-Evidence-for-Survival_-Ian-Stevenson-1982.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: med.virginia.edu">[UVA School of Medicine+2Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">med.virginia.edu</span><span class="citation-popover-snippet">I shall review sympathetically the evidence that favors interpreting some veridical apparitions as.Read more...</span></span></span>
+Finally, even apparently accurate information does not uniquely support survival. Researchers who accept the possibility of paranormal processes have long noted that telepathy, clairvoyance or unknown psychological mechanisms could theoretically explain some reports without requiring the continued existence of the deceased person.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://med.virginia.edu/perceptual-studies/wp-content/uploads/sites/360/2017/09/The-Contributions-of-Apparitions-to-the-Evidence-for-Survival_-Ian-Stevenson-1982.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: med.virginia.edu">[UVA School of Medicine+2Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">med.virginia.edu</span><span class="citation-popover-snippet">I shall review sympathetically the evidence that favors interpreting some veridical apparitions as.Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_parapsychology_bound_d30a61_apparitions_survival_52ca91-Illustration-3-dark.svg" | relative_url }}" alt="Apparitions illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_parapsychology_bound_d30a61_apparitions_survival_52ca91-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_parapsychology_bound_d30a61_apparitions_survival_52ca91-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -375,191 +375,191 @@ Finally, even apparently accurate information does not uniquely support survival
 
 Modern research has broadened the discussion by examining experiences following bereavement without assuming that they are pathological or paranormal. Many grieving people report sensing the continued presence of a deceased loved one, hearing a familiar voice or briefly seeing the person. Such experiences are often comforting and occur in individuals with no history of psychiatric illness.
 
-From a psychological perspective, these experiences may reflect the continuing adjustment of attachment systems [after loss]({{ 'after-loss/' | relative_url }}). From a survival perspective, some investigators argue that a minority of highly detailed experiences deserve further study because they include unexpected information or shared perceptions. The same body of evidence therefore supports different interpretations depending on the explanatory framework adopted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/ghosts-and-apparitions-psi-research-overview/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">ghosts and apparitions psi research overview</span><span class="citation-popover-snippet">Psi EncyclopediaGhosts and Apparitions in Psi Research (Overview)17 Oct 2016 — It treats apparitions as methodologically diverse phenomen...</span></span></span>
+From a psychological perspective, these experiences may reflect the continuing adjustment of attachment systems [after loss]({{ 'after-loss/' | relative_url }}). From a survival perspective, some investigators argue that a minority of highly detailed experiences deserve further study because they include unexpected information or shared perceptions. The same body of evidence therefore supports different interpretations depending on the explanatory framework adopted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/ghosts-and-apparitions-psi-research-overview/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">ghosts and apparitions psi research overview</span><span class="citation-popover-snippet">Psi EncyclopediaGhosts and Apparitions in Psi Research (Overview)17 Oct 2016 — It treats apparitions as methodologically diverse phenomen...</span></span></span>
 
 ## What apparitions contribute to the wider Fortean debate
 
 Within Forteana, apparitions remain important because they occupy the boundary between subjective experience and evidential investigation. They illustrate how a familiar ghost narrative can become a structured research question once chronology, corroboration and alternative explanations are examined.
 
-More than a century of investigation has produced extensive catalogues of experiences and increasingly careful methods for evaluating testimony. It has not, however, resolved the fundamental question of survival after death. The strongest apparitional cases continue to challenge straightforward psychological explanations, while remaining insufficient to establish that consciousness survives bodily death beyond reasonable doubt. For that reason, apparitions remain among the most persistent—and most contested—subjects at the intersection of psychical research and Fortean inquiry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://med.virginia.edu/perceptual-studies/wp-content/uploads/sites/360/2017/09/The-Contributions-of-Apparitions-to-the-Evidence-for-Survival_-Ian-Stevenson-1982.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: med.virginia.edu">[UVA School of Medicine+2Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">med.virginia.edu</span><span class="citation-popover-snippet">I shall review sympathetically the evidence that favors interpreting some veridical apparitions as.Read more...</span></span></span>
+More than a century of investigation has produced extensive catalogues of experiences and increasingly careful methods for evaluating testimony. It has not, however, resolved the fundamental question of survival after death. The strongest apparitional cases continue to challenge straightforward psychological explanations, while remaining insufficient to establish that consciousness survives bodily death beyond reasonable doubt. For that reason, apparitions remain among the most persistent—and most contested—subjects at the intersection of psychical research and Fortean inquiry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://med.virginia.edu/perceptual-studies/wp-content/uploads/sites/360/2017/09/The-Contributions-of-Apparitions-to-the-Evidence-for-Survival_-Ian-Stevenson-1982.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: med.virginia.edu">[UVA School of Medicine+2Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">med.virginia.edu</span><span class="citation-popover-snippet">I shall review sympathetically the evidence that favors interpreting some veridical apparitions as.Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VD8BJBSz2Bg" title="Macro-Psychokinesis, Part Two: Apparitions, with Stephen E. Braude" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VD8BJBSz2Bg" target="_blank" rel="noopener noreferrer">Macro-Psychokinesis, Part Two: Apparitions, with Stephen E. Braude</a></p><p class="youtube-embed-meta">Channel: New Thinking Allowed with Jeffrey Mishlove</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VD8BJBSz2Bg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VD8BJBSz2Bg">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Are Apparitions Evidence or Experience?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Are Apparitions Evidence or Experience?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Varieties+of+Religious+Experience+William+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Varieties of Religious Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2415434-M.jpg" alt="Cover for The Varieties of Religious Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Varieties+of+Religious+Experience+William+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Varieties of Religious Experience">The Varieties of Religious Experience</a>
-        </h4>
-        <p class="fr-book-author">By William James, Dr. William James et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Varieties+of+Religious+Experience+William+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Varieties of Religious Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2415434-M.jpg" alt="Cover for The Varieties of Religious Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Varieties+of+Religious+Experience+William+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Varieties of Religious Experience">The Varieties of Religious Experience</a>
+</h4>
+<p class="fr-book-author">By William James, Dr. William James et al.</p>
         
-        <p class="fr-book-desc">First published 1817. Subjects: Religious Psychology, Religion, Conversion, Experience (Religion), Philosophy and religion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Varieties+of+Religious+Experience+William+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1817. Subjects: Religious Psychology, Religion, Conversion, Experience (Religion), Philosophy and religion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Varieties+of+Religious+Experience+William+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hallucinations+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hallucinations on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10107284-M.jpg" alt="Cover for Hallucinations" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hallucinations+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hallucinations">Hallucinations</a>
-        </h4>
-        <p class="fr-book-author">By Oliver Sacks</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Hallucinations+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hallucinations on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10107284-M.jpg" alt="Cover for Hallucinations" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Hallucinations+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hallucinations">Hallucinations</a>
+</h4>
+<p class="fr-book-author">By Oliver Sacks</p>
         
-        <p class="fr-book-desc">First published 2012. Subjects: Hallucinations, Perceptual Disorders, Hallucinations and illusions, Cognition disorders, New York Times b...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hallucinations+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2012. Subjects: Hallucinations, Perceptual Disorders, Hallucinations and illusions, Cognition disorders, New York Times b...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Hallucinations+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+conscious+universe+Dean+I.+Radin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The conscious universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/48758-M.jpg" alt="Cover for The conscious universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+conscious+universe+Dean+I.+Radin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The conscious universe">The conscious universe</a>
-        </h4>
-        <p class="fr-book-author">By Dean I. Radin, Radin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+conscious+universe+Dean+I.+Radin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The conscious universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/48758-M.jpg" alt="Cover for The conscious universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+conscious+universe+Dean+I.+Radin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The conscious universe">The conscious universe</a>
+</h4>
+<p class="fr-book-author">By Dean I. Radin, Radin</p>
         
-        <p class="fr-book-desc">First published 1997. Subjects: Parapsychology, Case studies, Cas, Études de, Paranormale verschijnselen, Parapsychologie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+conscious+universe+Dean+I.+Radin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1997. Subjects: Parapsychology, Case studies, Cas, Études de, Paranormale verschijnselen, Parapsychologie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+conscious+universe+Dean+I.+Radin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Spook+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Spook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/247995-M.jpg" alt="Cover for Spook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Spook+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spook">Spook</a>
-        </h4>
-        <p class="fr-book-author">By Mary Roach</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Spook+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Spook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/247995-M.jpg" alt="Cover for Spook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Spook+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spook">Spook</a>
+</h4>
+<p class="fr-book-author">By Mary Roach</p>
         
-        <p class="fr-book-desc">First published 2005. Subjects: Religion and science, Consciousness, Near-death experiences, Soul, Future life.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Spook+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2005. Subjects: Religion and science, Consciousness, Near-death experiences, Soul, Future life.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Spook+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Varieties+of+Religious+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Varieties of Religious Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hallucinations&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hallucinations</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+conscious+universe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The conscious universe</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Varieties+of+Religious+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Varieties of Religious Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Hallucinations&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hallucinations</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+conscious+universe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The conscious universe</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apparitions-are-apparitions-evidence-or-experience-forteana-ghost-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster -book -books" data-ebay-reference="apparitions-are-apparitions-evidence-or-experience-forteana-ghost-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ghost - live band music show 2025 UK TOUR promotional tour concert gig poster"><img src="{{ '/assets/images/marketplace-covers/17472db92673842b8db9.jpg' | relative_url }}" alt="Listing image for Ghost - live band music show 2025 UK TOUR promotional tour concert gig poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apparitions-are-apparitions-evidence-or-experience-forteana-ghost-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster -book -books" data-ebay-reference="apparitions-are-apparitions-evidence-or-experience-forteana-ghost-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Ghost - live band music show 2025 UK TOUR promotional tour concert gig poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apparitions-are-apparitions-evidence-or-experience-forteana-ghost-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster -book -books" data-ebay-reference="apparitions-are-apparitions-evidence-or-experience-forteana-ghost-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ghost poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apparitions-are-apparitions-evidence-or-experience-forteana-ghost-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster -book -books" data-ebay-reference="apparitions-are-apparitions-evidence-or-experience-forteana-ghost-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apparitions-are-apparitions-evidence-or-experience-forteana-ghost-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster -book -books" data-ebay-reference="apparitions-are-apparitions-evidence-or-experience-forteana-ghost-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ghost - live band music show 2025 UK TOUR promotional tour concert gig poster"><img src="{{ '/assets/images/marketplace-covers/17472db92673842b8db9.jpg' | relative_url }}" alt="Listing image for Ghost - live band music show 2025 UK TOUR promotional tour concert gig poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apparitions-are-apparitions-evidence-or-experience-forteana-ghost-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster -book -books" data-ebay-reference="apparitions-are-apparitions-evidence-or-experience-forteana-ghost-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Ghost - live band music show 2025 UK TOUR promotional tour concert gig poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apparitions-are-apparitions-evidence-or-experience-forteana-ghost-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster -book -books" data-ebay-reference="apparitions-are-apparitions-evidence-or-experience-forteana-ghost-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apparitions-are-apparitions-evidence-or-experience-forteana-ghost-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster -book -books" data-ebay-reference="apparitions-are-apparitions-evidence-or-experience-forteana-ghost-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apparitions-are-apparitions-evidence-or-experience-forteana-ghost-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster -book -books" data-ebay-reference="apparitions-are-apparitions-evidence-or-experience-forteana-ghost-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ghost - live band music show 2022 TOUR promotional tour concert gig poster"><img src="{{ '/assets/images/marketplace-covers/75e6bc036c3aa8306735.jpg' | relative_url }}" alt="Listing image for Ghost - live band music show 2022 TOUR promotional tour concert gig poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apparitions-are-apparitions-evidence-or-experience-forteana-ghost-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster -book -books" data-ebay-reference="apparitions-are-apparitions-evidence-or-experience-forteana-ghost-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Ghost - live band music show 2022 TOUR promotional tour concert gig poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apparitions-are-apparitions-evidence-or-experience-forteana-ghost-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster -book -books" data-ebay-reference="apparitions-are-apparitions-evidence-or-experience-forteana-ghost-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ghost poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apparitions-are-apparitions-evidence-or-experience-forteana-ghost-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster -book -books" data-ebay-reference="apparitions-are-apparitions-evidence-or-experience-forteana-ghost-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apparitions-are-apparitions-evidence-or-experience-forteana-ghost-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster -book -books" data-ebay-reference="apparitions-are-apparitions-evidence-or-experience-forteana-ghost-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ghost - live band music show 2022 TOUR promotional tour concert gig poster"><img src="{{ '/assets/images/marketplace-covers/75e6bc036c3aa8306735.jpg' | relative_url }}" alt="Listing image for Ghost - live band music show 2022 TOUR promotional tour concert gig poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apparitions-are-apparitions-evidence-or-experience-forteana-ghost-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster -book -books" data-ebay-reference="apparitions-are-apparitions-evidence-or-experience-forteana-ghost-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Ghost - live band music show 2022 TOUR promotional tour concert gig poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apparitions-are-apparitions-evidence-or-experience-forteana-ghost-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster -book -books" data-ebay-reference="apparitions-are-apparitions-evidence-or-experience-forteana-ghost-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apparitions-are-apparitions-evidence-or-experience-forteana-ghost-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster -book -books" data-ebay-reference="apparitions-are-apparitions-evidence-or-experience-forteana-ghost-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apparitions-are-apparitions-evidence-or-experience-forteana-ghost-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster -book -books" data-ebay-reference="apparitions-are-apparitions-evidence-or-experience-forteana-ghost-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ghost - live music show Nov 2019 promotional tour concert gig poster"><img src="{{ '/assets/images/marketplace-covers/e9bbab17781e4df43065.jpg' | relative_url }}" alt="Listing image for Ghost - live music show Nov 2019 promotional tour concert gig poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apparitions-are-apparitions-evidence-or-experience-forteana-ghost-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster -book -books" data-ebay-reference="apparitions-are-apparitions-evidence-or-experience-forteana-ghost-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Ghost - live music show Nov 2019 promotional tour concert gig poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apparitions-are-apparitions-evidence-or-experience-forteana-ghost-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster -book -books" data-ebay-reference="apparitions-are-apparitions-evidence-or-experience-forteana-ghost-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ghost poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apparitions-are-apparitions-evidence-or-experience-forteana-ghost-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster -book -books" data-ebay-reference="apparitions-are-apparitions-evidence-or-experience-forteana-ghost-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apparitions-are-apparitions-evidence-or-experience-forteana-ghost-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster -book -books" data-ebay-reference="apparitions-are-apparitions-evidence-or-experience-forteana-ghost-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apparitions-are-apparitions-evidence-or-experience-forteana-ghost-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster -book -books" data-ebay-reference="apparitions-are-apparitions-evidence-or-experience-forteana-ghost-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ghost - live music show Nov 2019 promotional tour concert gig poster"><img src="{{ '/assets/images/marketplace-covers/e9bbab17781e4df43065.jpg' | relative_url }}" alt="Listing image for Ghost - live music show Nov 2019 promotional tour concert gig poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apparitions-are-apparitions-evidence-or-experience-forteana-ghost-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster -book -books" data-ebay-reference="apparitions-are-apparitions-evidence-or-experience-forteana-ghost-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Ghost - live music show Nov 2019 promotional tour concert gig poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apparitions-are-apparitions-evidence-or-experience-forteana-ghost-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster -book -books" data-ebay-reference="apparitions-are-apparitions-evidence-or-experience-forteana-ghost-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apparitions-are-apparitions-evidence-or-experience-forteana-ghost-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster -book -books" data-ebay-reference="apparitions-are-apparitions-evidence-or-experience-forteana-ghost-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apparitions-are-apparitions-evidence-or-experience-forteana-ghost-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster -book -books" data-ebay-reference="apparitions-are-apparitions-evidence-or-experience-forteana-ghost-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -575,7 +575,7 @@ More than a century of investigation has produced extensive catalogues of experi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -595,7 +595,7 @@ More than a century of investigation has produced extensive catalogues of experi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -627,7 +627,7 @@ More than a century of investigation has produced extensive catalogues of experi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -679,7 +679,7 @@ More than a century of investigation has produced extensive catalogues of experi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -724,7 +724,7 @@ More than a century of investigation has produced extensive catalogues of experi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -765,125 +765,125 @@ More than a century of investigation has produced extensive catalogues of experi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: iapsop.com  
    Title: Proceedings of the Society for Psychical Research335  
-   Link: <a href="https://iapsop.com/archive/materials/spr_proceedings/spr_proceedings_v10_1894.pdf" target="_blank" rel="noopener noreferrer nofollow">https://iapsop.com/archive/materials/spr_proceedings/spr_proceedings_v10_1894.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Collective Auditory Hallucinations. 315-317. Collective Hallucinations with different Percepts... 317,318,344,374,383. Collective Tactil...</p></details>
+   Link:<a href="https://iapsop.com/archive/materials/spr_proceedings/spr_proceedings_v10_1894.pdf" target="_blank" rel="noopener noreferrer nofollow">https://iapsop.com/archive/materials/spr_proceedings/spr_proceedings_v10_1894.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Collective Auditory Hallucinations. 315-317. Collective Hallucinations with different Percepts... 317,318,344,374,383. Collective Tactil...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/10.2979/victorianstudies.61.4.02" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/10.2979/victorianstudies.61.4.02</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Numbers, Narratives, and the Census of Hallucinationsby C Keep · 2019 · Cited by 3 — Abstract: This article examines the Society for...</p></details>
+   Link:<a href="https://www.jstor.org/stable/10.2979/victorianstudies.61.4.02" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/10.2979/victorianstudies.61.4.02</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Numbers, Narratives, and the Census of Hallucinationsby C Keep · 2019 · Cited by 3 — Abstract: This article examines the Society for...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
    Title: 364785913 Phantasms of the Living  
-   Link: <a href="https://www.researchgate.net/publication/364785913_Phantasms_of_the_Living" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/364785913_Phantasms_of_the_Living</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Phantasms of the Living... Society for Psychical Research, was first published in 1886. It documents over 700 case studies of...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/364785913_Phantasms_of_the_Living" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/364785913_Phantasms_of_the_Living</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phantasms of the Living... Society for Psychical Research, was first published in 1886. It documents over 700 case studies of...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/43427578" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/43427578</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Shelton says, with commendable candour, that about psychical-research evidence he &quot;knows little and cares less.&quot; He has read (some years...</p></details>
+   Link:<a href="https://www.jstor.org/stable/43427578" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/43427578</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shelton says, with commendable candour, that about psychical-research evidence he &quot;knows little and cares less.&quot; He has read (some years...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/philosophy-and-religion/other-religious-beliefs-and-general-terms/religion-general/apparition" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/philosophy-and-religion/other-religious-beliefs-and-general-terms/religion-general/apparition</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ApparitionIn Phantasms of the Living there are 12 such cases recorded; the apparitions having appeared within 12 hours of the death. In t...</p></details>
+   Link:<a href="https://www.encyclopedia.com/philosophy-and-religion/other-religious-beliefs-and-general-terms/religion-general/apparition" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/philosophy-and-religion/other-religious-beliefs-and-general-terms/religion-general/apparition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ApparitionIn Phantasms of the Living there are 12 such cases recorded; the apparitions having appeared within 12 hours of the death. In t...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: psi-encyclopedia.spr.ac.uk  
    Title: [ghosts](&#123;&#123; 'ghosts/' | relative_url &#125;&#125;) and apparitions psi research overview  
-   Link: <a href="https://psi-encyclopedia.spr.ac.uk/articles/ghosts-and-apparitions-psi-research-overview/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/articles/ghosts-and-apparitions-psi-research-overview/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Psi EncyclopediaGhosts and Apparitions in Psi Research (Overview)17 Oct 2016 — It treats apparitions as methodologically diverse phenomen...</p></details>
+   Link:<a href="https://psi-encyclopedia.spr.ac.uk/articles/ghosts-and-apparitions-psi-research-overview/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/articles/ghosts-and-apparitions-psi-research-overview/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psi EncyclopediaGhosts and Apparitions in Psi Research (Overview)17 Oct 2016 — It treats apparitions as methodologically diverse phenomen...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: lib.cam.ac.uk  
-   Link: <a href="https://www.lib.cam.ac.uk/collections/departments/archives-modern-and-medieval-manuscripts-and-university-archives-0" target="_blank" rel="noopener noreferrer nofollow">https://www.lib.cam.ac.uk/collections/departments/archives-modern-and-medieval-manuscripts-and-university-archives-0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>bridge University LibrarySociety for Psychical Research | Cambridge University LibraryThe six initial areas of study were Thought-Tran...</p></details>
+   Link:<a href="https://www.lib.cam.ac.uk/collections/departments/archives-modern-and-medieval-manuscripts-and-university-archives-0" target="_blank" rel="noopener noreferrer nofollow">https://www.lib.cam.ac.uk/collections/departments/archives-modern-and-medieval-manuscripts-and-university-archives-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>bridge University LibrarySociety for Psychical Research | Cambridge University LibraryThe six initial areas of study were Thought-Tran...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: spr.ac.uk  
-   Link: <a href="https://www.spr.ac.uk/8-spontaneous-apparitions-and-ndes" target="_blank" rel="noopener noreferrer nofollow">https://www.spr.ac.uk/8-spontaneous-apparitions-and-ndes</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>8. Spontaneous Apparitions and NDEsThis section includes reports of ghosts and apparitions, notably those that are identifiable or that a...</p></details>
+   Link:<a href="https://www.spr.ac.uk/8-spontaneous-apparitions-and-ndes" target="_blank" rel="noopener noreferrer nofollow">https://www.spr.ac.uk/8-spontaneous-apparitions-and-ndes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>8. Spontaneous Apparitions and NDEsThis section includes reports of ghosts and apparitions, notably those that are identifiable or that a...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/0957154X14562756" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0957154X14562756</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsLéon Marillier and the veridical hallucination in late-...16 Nov 2015 — The study of veridical hallucinations goes back to...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/0957154X14562756" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0957154X14562756</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsLéon Marillier and the veridical hallucination in late-...16 Nov 2015 — The study of veridical hallucinations goes back to...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Society for Psychical Research  
-   Link: <a href="https://en.wikipedia.org/wiki/Society_for_Psychical_Research" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Society_for_Psychical_Research</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Society for Psychical ResearchOut of these, 1,684 persons reported having experienced a hallucination of an apparition. Such efforts w...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Society_for_Psychical_Research" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Society_for_Psychical_Research</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Society for Psychical ResearchOut of these, 1,684 persons reported having experienced a hallucination of an apparition. Such efforts w...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: med.virginia.edu  
-   Link: <a href="https://med.virginia.edu/perceptual-studies/wp-content/uploads/sites/360/2017/09/The-Contributions-of-Apparitions-to-the-Evidence-for-Survival_-Ian-Stevenson-1982.pdf" target="_blank" rel="noopener noreferrer nofollow">https://med.virginia.edu/perceptual-studies/wp-content/uploads/sites/360/2017/09/The-Contributions-of-Apparitions-to-the-Evidence-for-Survival_-Ian-Stevenson-1982.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I shall review sympathetically the evidence that favors interpreting some veridical apparitions as.Read more...</p></details>
+   Link:<a href="https://med.virginia.edu/perceptual-studies/wp-content/uploads/sites/360/2017/09/The-Contributions-of-Apparitions-to-the-Evidence-for-Survival_-Ian-Stevenson-1982.pdf" target="_blank" rel="noopener noreferrer nofollow">https://med.virginia.edu/perceptual-studies/wp-content/uploads/sites/360/2017/09/The-Contributions-of-Apparitions-to-the-Evidence-for-Survival_-Ian-Stevenson-1982.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I shall review sympathetically the evidence that favors interpreting some veridical apparitions as.Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: spr.ac.uk  
-   Link: <a href="https://www.spr.ac.uk/book-reviews-survival-theories-and-speculations" target="_blank" rel="noopener noreferrer nofollow">https://www.spr.ac.uk/book-reviews-survival-theories-and-speculations</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Book Reviews: Survival Theories and SpeculationsWide ranging of evidence suggestive of survival, including OBEs, apparitions and haunting...</p></details>
+   Link:<a href="https://www.spr.ac.uk/book-reviews-survival-theories-and-speculations" target="_blank" rel="noopener noreferrer nofollow">https://www.spr.ac.uk/book-reviews-survival-theories-and-speculations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Book Reviews: Survival Theories and SpeculationsWide ranging of evidence suggestive of survival, including OBEs, apparitions and haunting...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sqpn.com  
    Title: crisis apparitions  
-   Link: <a href="https://sqpn.com/2026/05/crisis-apparitions/" target="_blank" rel="noopener noreferrer nofollow">https://sqpn.com/2026/05/crisis-apparitions/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>!15 May 2026 — Jimmy Akin and Dom Bettinelli trace the full history of crisis apparition research, from the founding of the Society for P...</p></details>
+   Link:<a href="https://sqpn.com/2026/05/crisis-apparitions/" target="_blank" rel="noopener noreferrer nofollow">https://sqpn.com/2026/05/crisis-apparitions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>!15 May 2026 — Jimmy Akin and Dom Bettinelli trace the full history of crisis apparition research, from the founding of the Society for P...</p></details>
    Published: May 2026  
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2306.13832" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2306.13832</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence for Reduced Sensory Precision and Increased Reliance on Priors in Hallucination-Prone Individuals in a General Population S...</p></details>
+   Link:<a href="https://arxiv.org/abs/2306.13832" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2306.13832</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence for Reduced Sensory Precision and Increased Reliance on Priors in Hallucination-Prone Individuals in a General Population S...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aiprinc.org  
-   Link: <a href="https://www.aiprinc.org/apparitions/" target="_blank" rel="noopener noreferrer nofollow">https://www.aiprinc.org/apparitions/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apparitions, Ghosts and HauntingsA crisis apparition is where the witness supposedly sees a figure of another person (often a relative or...</p></details>
+   Link:<a href="https://www.aiprinc.org/apparitions/" target="_blank" rel="noopener noreferrer nofollow">https://www.aiprinc.org/apparitions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Apparitions, Ghosts and HauntingsA crisis apparition is where the witness supposedly sees a figure of another person (often a relative or...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: esalen.org  
-   Link: <a href="https://www.esalen.org/ctr/mediumship" target="_blank" rel="noopener noreferrer nofollow">https://www.esalen.org/ctr/mediumship</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Esalen InstituteMediumship | Scholarly Resources... cross-correspondences considered as evidence for survival. Saltmarsh distinguishes be...</p></details>
+   Link:<a href="https://www.esalen.org/ctr/mediumship" target="_blank" rel="noopener noreferrer nofollow">https://www.esalen.org/ctr/mediumship</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Esalen InstituteMediumship | Scholarly Resources... cross-correspondences considered as evidence for survival. Saltmarsh distinguishes be...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nightbringer.se  
-   Link: <a href="https://nightbringer.se/nightbringer/ghost_crisis.html" target="_blank" rel="noopener noreferrer nofollow">https://nightbringer.se/nightbringer/ghost_crisis.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Phantoms wrought by crisisQuite often, the apparition seeminly makes itself known at the very moment or within a few hours of death, as c...</p></details>
+   Link:<a href="https://nightbringer.se/nightbringer/ghost_crisis.html" target="_blank" rel="noopener noreferrer nofollow">https://nightbringer.se/nightbringer/ghost_crisis.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phantoms wrought by crisisQuite often, the apparition seeminly makes itself known at the very moment or within a few hours of death, as c...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: societyrestaurant.com  
-   Link: <a href="https://societyrestaurant.com/" target="_blank" rel="noopener noreferrer nofollow">https://societyrestaurant.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Society RestaurantA sophisticated à la carte destination at the heart of Melbourne, where no two visits need ever be the same. 80 Collins...</p></details>
+   Link:<a href="https://societyrestaurant.com/" target="_blank" rel="noopener noreferrer nofollow">https://societyrestaurant.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Society RestaurantA sophisticated à la carte destination at the heart of Melbourne, where no two visits need ever be the same. 80 Collins...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: codypolston.com  
-   Link: <a href="https://www.codypolston.com/modern-paranormal-investigation-and-ghost-hunting-the-stuff-you-may-not-know-about-ghosts-and-hauntings/" target="_blank" rel="noopener noreferrer nofollow">https://www.codypolston.com/modern-paranormal-investigation-and-ghost-hunting-the-stuff-you-may-not-know-about-ghosts-and-hauntings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Modern Paranormal Investigation and Ghost Hunting24 Jan 2024 — Information on the phenomenology of apparitional experiences comes from se...</p></details>
+   Link:<a href="https://www.codypolston.com/modern-paranormal-investigation-and-ghost-hunting-the-stuff-you-may-not-know-about-ghosts-and-hauntings/" target="_blank" rel="noopener noreferrer nofollow">https://www.codypolston.com/modern-paranormal-investigation-and-ghost-hunting-the-stuff-you-may-not-know-about-ghosts-and-hauntings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Modern Paranormal Investigation and Ghost Hunting24 Jan 2024 — Information on the phenomenology of apparitional experiences comes from se...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: branchcollective.org  
-   Link: <a href="https://branchcollective.org/?ps_articles=jill-galvan-tennysons-ghosts-the-psychical-research-case-of-the-cross-correspondences-1901-c-1936" target="_blank" rel="noopener noreferrer nofollow">https://branchcollective.org/?ps_articles=jill-galvan-tennysons-ghosts-the-psychical-research-case-of-the-cross-correspondences-1901-c-1936</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>pondences, together with their two most significant alleged spirit communications.Read more...</p></details>
+   Link:<a href="https://branchcollective.org/?ps_articles=jill-galvan-tennysons-ghosts-the-psychical-research-case-of-the-cross-correspondences-1901-c-1936" target="_blank" rel="noopener noreferrer nofollow">https://branchcollective.org/?ps_articles=jill-galvan-tennysons-ghosts-the-psychical-research-case-of-the-cross-correspondences-1901-c-1936</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>pondences, together with their two most significant alleged spirit communications.Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ore.exeter.ac.uk  
-   Link: <a href="https://ore.exeter.ac.uk/ndownloader/files/56797988" target="_blank" rel="noopener noreferrer nofollow">https://ore.exeter.ac.uk/ndownloader/files/56797988</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ased and educated leaders of the Society for Psychical Research to assess.Read more...</p></details>
+   Link:<a href="https://ore.exeter.ac.uk/ndownloader/files/56797988" target="_blank" rel="noopener noreferrer nofollow">https://ore.exeter.ac.uk/ndownloader/files/56797988</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ased and educated leaders of the Society for Psychical Research to assess.Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: kellscraft.com  
-   Link: <a href="https://www.kellscraft.com/UnknownGuest/UnknownGuestCh01.html" target="_blank" rel="noopener noreferrer nofollow">https://www.kellscraft.com/UnknownGuest/UnknownGuestCh01.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to haunted houses. We all know that the phantasms...Read more...</p></details>
+   Link:<a href="https://www.kellscraft.com/UnknownGuest/UnknownGuestCh01.html" target="_blank" rel="noopener noreferrer nofollow">https://www.kellscraft.com/UnknownGuest/UnknownGuestCh01.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to haunted houses. We all know that the phantasms...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: search.proquest.com  
-   Link: <a href="https://search.proquest.com/openview/4acccde62b7b17f0da64326c104aea75/1?cbl=51922&amp;diss=y&amp;pq-origsite=gscholar" target="_blank" rel="noopener noreferrer nofollow">https://search.proquest.com/openview/4acccde62b7b17f0da64326c104aea75/1?cbl=51922&amp;diss=y&amp;pq-origsite=gscholar</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Examination of the Methodology and Evidence...by T Hamilton · 2019 — This thesis outlines the canons of evidence developed by t...</p></details>
+   Link:<a href="https://search.proquest.com/openview/4acccde62b7b17f0da64326c104aea75/1?cbl=51922&amp;diss=y&amp;pq-origsite=gscholar" target="_blank" rel="noopener noreferrer nofollow">https://search.proquest.com/openview/4acccde62b7b17f0da64326c104aea75/1?cbl=51922&amp;diss=y&amp;pq-origsite=gscholar</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Examination of the Methodology and Evidence...by T Hamilton · 2019 — This thesis outlines the canons of evidence developed by t...</p></details>

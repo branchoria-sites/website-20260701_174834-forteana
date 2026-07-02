@@ -451,17 +451,17 @@ Hoaxes are not a side issue in Fortean history. They are one of the main ways st
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_hoaxes_fortean_histo_191d98-overview.webp" | relative_url }}" alt="Overview image for Hoaxes" loading="eager" decoding="sync" fetchpriority="high">
-The lesson is not simply that people are gullible. Forteana is full of reports that sit in awkward territory between error, folklore, fraud, misperception and unresolved evidence. Hoaxes reveal the weak points in that territory: the appeal of a good story, the prestige of a famous sponsor, the difficulty of checking images or specimens after the fact, and the way a claim can keep cultural life even after the deception is exposed. The [Cottingley]({{ 'cottingley/' | relative_url }}) fairies, the [Cardiff Giant]({{ 'cardiff-giant/' | relative_url }}), Piltdown Man, crop circles and the Loch Ness “surgeon’s photograph” show the same pattern in different forms: the false report matters because it teaches how belief, media and evidence interact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://artsandculture.google.com/story/the-cottingley-fairies-a-study-in-deception-leeds-university-library-galleries/lgVB6Ceti9WVAw?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artsandculture.google.com">[PBS+3Google Arts &amp; Culture+3Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artsandculture.google.com</span><span class="citation-popover-snippet">Google Arts &amp; CultureThe Cottingley Fairies: A Study In DeceptionIt contained photographs of fairies that Doyle concluded were real. Expe...</span></span></span>
+The lesson is not simply that people are gullible. Forteana is full of reports that sit in awkward territory between error, folklore, fraud, misperception and unresolved evidence. Hoaxes reveal the weak points in that territory: the appeal of a good story, the prestige of a famous sponsor, the difficulty of checking images or specimens after the fact, and the way a claim can keep cultural life even after the deception is exposed. The [Cottingley]({{ 'cottingley/' | relative_url }}) fairies, the [Cardiff Giant]({{ 'cardiff-giant/' | relative_url }}), Piltdown Man, crop circles and the Loch Ness “surgeon’s photograph” show the same pattern in different forms: the false report matters because it teaches how belief, media and evidence interact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://artsandculture.google.com/story/the-cottingley-fairies-a-study-in-deception-leeds-university-library-galleries/lgVB6Ceti9WVAw?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artsandculture.google.com">[PBS+3Google Arts &amp; Culture+3Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artsandculture.google.com</span><span class="citation-popover-snippet">Google Arts &amp; CultureThe Cottingley Fairies: A Study In DeceptionIt contained photographs of fairies that Doyle concluded were real. Expe...</span></span></span>
 
 ## Why Hoaxes Work
 
-A successful Fortean hoax usually does not ask the public to believe something utterly random. It attaches itself to a story people are already prepared to entertain. The Cardiff Giant appeared in 1869 America, a setting in which biblical literalism, fossil discoveries, travelling exhibitions and commercial showmanship could all meet in one “petrified man”. The object was not merely a statue; it was presented as a possible physical answer to arguments about giants, antiquity and scripture, and it was quickly monetised as an attraction. Smithsonian describes the case as one of nineteenth-century America’s most famous hoaxes, made powerful because it looked as though it might be real while remaining open enough for spectators to argue over it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/smart-news/cardiff-giant-was-just-big-hoax-180965274/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">cardiff giant was just big hoax 180965274</span><span class="citation-popover-snippet">Smithsonian MagazineThe Cardiff Giant Was Just a Big Hoax16 Oct 2017 — The story, which began on this day in 1869, was classic fake news–...</span></span></span>
+A successful Fortean hoax usually does not ask the public to believe something utterly random. It attaches itself to a story people are already prepared to entertain. The Cardiff Giant appeared in 1869 America, a setting in which biblical literalism, fossil discoveries, travelling exhibitions and commercial showmanship could all meet in one “petrified man”. The object was not merely a statue; it was presented as a possible physical answer to arguments about giants, antiquity and scripture, and it was quickly monetised as an attraction. Smithsonian describes the case as one of nineteenth-century America’s most famous hoaxes, made powerful because it looked as though it might be real while remaining open enough for spectators to argue over it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/smart-news/cardiff-giant-was-just-big-hoax-180965274/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">cardiff giant was just big hoax 180965274</span><span class="citation-popover-snippet">Smithsonian MagazineThe Cardiff Giant Was Just a Big Hoax16 Oct 2017 — The story, which began on this day in 1869, was classic fake news–...</span></span></span>
 
 That ambiguity is central. Hoaxes thrive when the claim is just concrete enough to examine but just mysterious enough to resist immediate closure. A carved gypsum giant in a tent, a fairy photograph, a dark shape in [Loch Ness]({{ 'loch-ness/' | relative_url }}), or a circle flattened overnight in a wheat field gives people an object to talk about. The hoaxer does not need everyone to believe. It is often enough for the public to wonder, for journalists to amplify the uncertainty, and for paying audiences or invested believers to keep the debate alive.
 
-The Cottingley fairies show how authority can turn a small deception into a public event. Elsie Wright and Frances Griffiths took staged fairy photographs in 1917; the images later reached Arthur Conan [Doyle]({{ 'doyle/' | relative_url }}), who used them in a 1920 *Strand Magazine* article on fairies. Leeds University Library’s exhibition material notes that Doyle presented the photographs as real and stated that experts had checked them and found they were not a hoax. The force of the case came partly from the mismatch between Doyle’s reputation as creator of Sherlock Holmes and his spiritualist enthusiasm: a famous rational detective’s author became a guarantor for an extraordinary claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://artsandculture.google.com/story/the-cottingley-fairies-a-study-in-deception-leeds-university-library-galleries/lgVB6Ceti9WVAw?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artsandculture.google.com">[Google Arts &amp; Culture]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artsandculture.google.com</span><span class="citation-popover-snippet">Google Arts &amp; CultureThe Cottingley Fairies: A Study In DeceptionIt contained photographs of fairies that Doyle concluded were real. Expe...</span></span></span>
+The Cottingley fairies show how authority can turn a small deception into a public event. Elsie Wright and Frances Griffiths took staged fairy photographs in 1917; the images later reached Arthur Conan [Doyle]({{ 'doyle/' | relative_url }}), who used them in a 1920 *Strand Magazine* article on fairies. Leeds University Library’s exhibition material notes that Doyle presented the photographs as real and stated that experts had checked them and found they were not a hoax. The force of the case came partly from the mismatch between Doyle’s reputation as creator of Sherlock Holmes and his spiritualist enthusiasm: a famous rational detective’s author became a guarantor for an extraordinary claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://artsandculture.google.com/story/the-cottingley-fairies-a-study-in-deception-leeds-university-library-galleries/lgVB6Ceti9WVAw?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artsandculture.google.com">[Google Arts &amp; Culture]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artsandculture.google.com</span><span class="citation-popover-snippet">Google Arts &amp; CultureThe Cottingley Fairies: A Study In DeceptionIt contained photographs of fairies that Doyle concluded were real. Expe...</span></span></span>
 
-The photographs also worked because the test applied to them was too narrow. Investigators looked for photographic manipulation, but the trick had happened in front of the camera: paper figures, arranged in the scene, photographed as though they were living beings. Later accounts from the University of Huddersfield and other institutional sources describe the fairies as line drawings fixed in place, with the full confession coming decades later. The case is a reminder that “no evidence of tampering” is not the same as “the event happened”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hud.ac.uk/news/2023/september/cottingley-fairies-hoax-endues-global-interest/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hud.ac.uk">[University of Huddersfield]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hud.ac.uk</span><span class="citation-popover-snippet">Open source on hud.ac.uk.</span></span></span>
+The photographs also worked because the test applied to them was too narrow. Investigators looked for photographic manipulation, but the trick had happened in front of the camera: paper figures, arranged in the scene, photographed as though they were living beings. Later accounts from the University of Huddersfield and other institutional sources describe the fairies as line drawings fixed in place, with the full confession coming decades later. The case is a reminder that “no evidence of tampering” is not the same as “the event happened”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hud.ac.uk/news/2023/september/cottingley-fairies-hoax-endues-global-interest/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hud.ac.uk">[University of Huddersfield]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hud.ac.uk</span><span class="citation-popover-snippet">Open source on hud.ac.uk.</span></span></span>
 
 Fortean hoaxes also work because they borrow the emotional charge of the wider subject. Fairies in the aftermath of the First World War, a monster in a deep Scottish loch, a “missing link” in human evolution, or strange circles in the landscape all speak to existing hopes and anxieties. They offer wonder, proof, national prestige, cosmic contact or a crack in ordinary reality. The hoax succeeds when the audience wants the world to be more marvellous, more threatening or more meaningful than the available evidence can safely support.
 
@@ -471,24 +471,24 @@ Fortean hoaxes also work because they borrow the emotional charge of the wider s
 
 False Fortean reports often spread in stages rather than all at once. First comes the apparent evidence: a body, photograph, broadcast, fossil, formation or witness account. Then comes social certification: an expert comments, a newspaper reports, a celebrity endorses, a museum displays, or a researcher declares the object worth taking seriously. Finally comes repetition. Once the claim has been retold often enough, it can survive even after the original basis has collapsed.
 
-The Cardiff Giant is a clear example of commercial repetition. After the “giant” was discovered on William Newell’s farm in Cardiff, New York, Newell charged visitors to see it. When P. T. Barnum could not buy the attraction, he had his own version made and promoted that instead. The Public Domain Review notes the irony: Barnum’s copy created a second-order hoax, with one fake being advertised against another. The story became less about whether the giant was real and more about spectacle, rivalry and the entertainment value of contested fraud. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publicdomainreview.org/collection/cardiff-giant/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publicdomainreview.org">[The Public Domain Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publicdomainreview.org</span><span class="citation-popover-title">cardiff giant</span><span class="citation-popover-snippet">cardiff giant</span></span></span>
+The Cardiff Giant is a clear example of commercial repetition. After the “giant” was discovered on William Newell’s farm in Cardiff, New York, Newell charged visitors to see it. When P. T. Barnum could not buy the attraction, he had his own version made and promoted that instead. The Public Domain Review notes the irony: Barnum’s copy created a second-order hoax, with one fake being advertised against another. The story became less about whether the giant was real and more about spectacle, rivalry and the entertainment value of contested fraud.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publicdomainreview.org/collection/cardiff-giant/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publicdomainreview.org">[The Public Domain Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publicdomainreview.org</span><span class="citation-popover-title">cardiff giant</span><span class="citation-popover-snippet">cardiff giant</span></span></span>
 
-Crop circles show a later, more participatory version of the same mechanism. Doug Bower and Dave Chorley said in 1991 that they had been making crop circles in southern England for years, using simple tools. Smithsonian’s account places their first “flying saucer nest” in Wiltshire in 1976 and stresses that they could not have foreseen how large the phenomenon would become. Once the idea existed, others copied, elaborated and aestheticised it; crop circles evolved from simple marks into complex landscape designs, while paranormal interpretations continued around them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/arts-culture/crop-circles-the-art-of-the-hoax-2524283/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">crop circles the art of the hoax 2524283</span><span class="citation-popover-snippet">crop circles the art of the hoax 2524283</span></span></span>
+Crop circles show a later, more participatory version of the same mechanism. Doug Bower and Dave Chorley said in 1991 that they had been making crop circles in southern England for years, using simple tools. Smithsonian’s account places their first “flying saucer nest” in Wiltshire in 1976 and stresses that they could not have foreseen how large the phenomenon would become. Once the idea existed, others copied, elaborated and aestheticised it; crop circles evolved from simple marks into complex landscape designs, while paranormal interpretations continued around them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/arts-culture/crop-circles-the-art-of-the-hoax-2524283/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">crop circles the art of the hoax 2524283</span><span class="citation-popover-snippet">crop circles the art of the hoax 2524283</span></span></span>
 
-The spread was helped by the way the formations appeared: overnight, in rural fields, often in areas already rich in ancient monuments, folklore and UFO associations. The Psi Encyclopedia notes sceptical observations that crop circles often appear near roads or tracks and near cultural heritage sites such as Stonehenge, Silbury Hill and chalk figures, features suggestive of human access and human meaning-making. That does not make every individual formation equally documented, but it explains why the phenomenon became a perfect Fortean object: visible, mysterious-looking, photogenic and culturally located. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/crop-circles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">Psi Encyclopedia Crop Circles</span><span class="citation-popover-snippet">Psi Encyclopedia Crop Circles</span></span></span>
+The spread was helped by the way the formations appeared: overnight, in rural fields, often in areas already rich in ancient monuments, folklore and UFO associations. The Psi Encyclopedia notes sceptical observations that crop circles often appear near roads or tracks and near cultural heritage sites such as Stonehenge, Silbury Hill and chalk figures, features suggestive of human access and human meaning-making. That does not make every individual formation equally documented, but it explains why the phenomenon became a perfect Fortean object: visible, mysterious-looking, photogenic and culturally located.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/crop-circles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">Psi Encyclopedia Crop Circles</span><span class="citation-popover-snippet">Psi Encyclopedia Crop Circles</span></span></span>
 
-The Loch Ness “surgeon’s photograph” shows the power of a single image. The 1934 photograph, associated with Colonel Robert Wilson, became one of the most famous images of the Loch Ness Monster. Later accounts identify it as a hoax involving a small model mounted on a toy submarine, with Christian Spurling said to have confessed before details were published in the 1990s. PBS’s *NOVA* summary adds an important caution: although the hoax explanation became widely accepted after the 1994 disclosure, some questions were raised about the confession’s timing and details. That is typical of Fortean debunking: even when a famous piece of evidence falls, debate may continue around the reliability of the exposure itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pbs.org/wgbh/nova/lochness/legend3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">Open source on pbs.org.</span></span></span>
+The Loch Ness “surgeon’s photograph” shows the power of a single image. The 1934 photograph, associated with Colonel Robert Wilson, became one of the most famous images of the Loch Ness Monster. Later accounts identify it as a hoax involving a small model mounted on a toy submarine, with Christian Spurling said to have confessed before details were published in the 1990s. PBS’s *NOVA* summary adds an important caution: although the hoax explanation became widely accepted after the 1994 disclosure, some questions were raised about the confession’s timing and details. That is typical of Fortean debunking: even when a famous piece of evidence falls, debate may continue around the reliability of the exposure itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pbs.org/wgbh/nova/lochness/legend3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">Open source on pbs.org.</span></span></span>
 
-A hoax can also spread because institutions are slow to correct their own investments. [Piltdown]({{ 'piltdown/' | relative_url }}) Man, announced in 1912 after Charles Dawson claimed to have found remains in Sussex, was treated for decades as a major fossil in human evolution. The Natural History Museum describes Dawson as an amateur archaeologist who claimed to have found a “missing link”; PBS notes that the hoax was exposed in 1953, when authorities at the British Natural History Museum declared key parts fake. The case belongs at the edge of Fortean history because it is not a ghost or monster story, but it shares the same pattern of anomalous prestige: a dramatic object fitted a desired narrative and held its place until better testing and comparison broke the illusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nhm.ac.uk/our-science/services/library/collections/piltdown-man.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhm.ac.uk">[Natural History Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhm.ac.uk</span><span class="citation-popover-snippet">Open source on nhm.ac.uk.</span></span></span>
+A hoax can also spread because institutions are slow to correct their own investments. [Piltdown]({{ 'piltdown/' | relative_url }}) Man, announced in 1912 after Charles Dawson claimed to have found remains in Sussex, was treated for decades as a major fossil in human evolution. The Natural History Museum describes Dawson as an amateur archaeologist who claimed to have found a “missing link”; PBS notes that the hoax was exposed in 1953, when authorities at the British Natural History Museum declared key parts fake. The case belongs at the edge of Fortean history because it is not a ghost or monster story, but it shares the same pattern of anomalous prestige: a dramatic object fitted a desired narrative and held its place until better testing and comparison broke the illusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nhm.ac.uk/our-science/services/library/collections/piltdown-man.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhm.ac.uk">[Natural History Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhm.ac.uk</span><span class="citation-popover-snippet">Open source on nhm.ac.uk.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/j7E2hriqLrw" title="The Cardiff Giant | Everything Everywhere Daily" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=j7E2hriqLrw" target="_blank" rel="noopener noreferrer">The Cardiff Giant | Everything Everywhere Daily</a></p><p class="youtube-embed-meta">Channel: Everything Everywhere (Everything Everywhere)</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=j7E2hriqLrw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=j7E2hriqLrw">Open on YouTube</a></p></div></div></div>
 
 ## The Fortean Record Is Not Purified by Exposure
 
-Debunking a hoax does not simply remove it from Forteana. Often it becomes more important after exposure because it reveals how the record was built. The Cottingley fairies are no longer valuable as evidence for fairies, but they remain valuable as evidence for spiritualist culture, photographic trust, childhood prank-making, celebrity endorsement and the difficulty of admitting error. The University of Leeds exhibition frames the affair explicitly as a “study in deception”, which is exactly why the case continues to attract serious attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://artsandculture.google.com/story/the-cottingley-fairies-a-study-in-deception-leeds-university-library-galleries/lgVB6Ceti9WVAw?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artsandculture.google.com">[Google Arts &amp; Culture]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artsandculture.google.com</span><span class="citation-popover-snippet">Google Arts &amp; CultureThe Cottingley Fairies: A Study In DeceptionIt contained photographs of fairies that Doyle concluded were real. Expe...</span></span></span>
+Debunking a hoax does not simply remove it from Forteana. Often it becomes more important after exposure because it reveals how the record was built. The Cottingley fairies are no longer valuable as evidence for fairies, but they remain valuable as evidence for spiritualist culture, photographic trust, childhood prank-making, celebrity endorsement and the difficulty of admitting error. The University of Leeds exhibition frames the affair explicitly as a “study in deception”, which is exactly why the case continues to attract serious attention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://artsandculture.google.com/story/the-cottingley-fairies-a-study-in-deception-leeds-university-library-galleries/lgVB6Ceti9WVAw?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artsandculture.google.com">[Google Arts &amp; Culture]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artsandculture.google.com</span><span class="citation-popover-snippet">Google Arts &amp; CultureThe Cottingley Fairies: A Study In DeceptionIt contained photographs of fairies that Doyle concluded were real. Expe...</span></span></span>
 
-The same is true of crop circles. If many formations are accepted as human-made, the interesting question shifts from “Did aliens make them?” to “How did art, prank, folklore, UFO belief and media attention create a modern mystery?” Smithsonian calls crop circles a lens for exploring the nature and appeal of hoaxes, especially because anomalous and paranormal settings are particularly fertile ground for deception. The false explanation becomes part of the phenomenon, not merely an error attached to it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/arts-culture/crop-circles-the-art-of-the-hoax-2524283/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">crop circles the art of the hoax 2524283</span><span class="citation-popover-snippet">crop circles the art of the hoax 2524283</span></span></span>
+The same is true of crop circles. If many formations are accepted as human-made, the interesting question shifts from “Did aliens make them?” to “How did art, prank, folklore, UFO belief and media attention create a modern mystery?” Smithsonian calls crop circles a lens for exploring the nature and appeal of hoaxes, especially because anomalous and paranormal settings are particularly fertile ground for deception. The false explanation becomes part of the phenomenon, not merely an error attached to it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/arts-culture/crop-circles-the-art-of-the-hoax-2524283/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">crop circles the art of the hoax 2524283</span><span class="citation-popover-snippet">crop circles the art of the hoax 2524283</span></span></span>
 
 This matters because Fortean collections are often accumulative. Reports are gathered from newspapers, letters, photographs, archives, local testimony and old specialist books. If one famous item is exposed, it does not automatically explain every similar report; but it does change the burden of interpretation. A known fairy-photo hoax makes later fairy photographs harder to treat innocently. A known monster-photo hoax makes similar silhouettes less persuasive. Known crop-circle teams make extraordinary explanations less necessary for new formations unless stronger independent evidence appears.
 
@@ -498,9 +498,9 @@ The danger lies in both overreaction and underreaction. Believers may minimise e
 <img src="{{ "/assets/images/forteana_50bdc8_hoaxes_fortean_histo_191d98-Illustration-2-dark.svg" | relative_url }}" alt="Hoaxes illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_hoaxes_fortean_histo_191d98-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_hoaxes_fortean_histo_191d98-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Debunking Can Settle
 
-Debunking is strongest when it can show a clear chain between the claimed anomaly and the human act that produced it. In the Cardiff Giant case, that means the carved gypsum body, its planting, its exhibition and its commercial promotion. In the Cottingley case, it means the source of the fairy figures, the staging method and the later confession. In the crop-circle case, it means named makers, demonstrated techniques and repeatable methods using boards, rope and planning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/smart-news/cardiff-giant-was-just-big-hoax-180965274/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine+2University of Huddersfield]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">cardiff giant was just big hoax 180965274</span><span class="citation-popover-snippet">Smithsonian MagazineThe Cardiff Giant Was Just a Big Hoax16 Oct 2017 — The story, which began on this day in 1869, was classic fake news–...</span></span></span>
+Debunking is strongest when it can show a clear chain between the claimed anomaly and the human act that produced it. In the Cardiff Giant case, that means the carved gypsum body, its planting, its exhibition and its commercial promotion. In the Cottingley case, it means the source of the fairy figures, the staging method and the later confession. In the crop-circle case, it means named makers, demonstrated techniques and repeatable methods using boards, rope and planning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/smart-news/cardiff-giant-was-just-big-hoax-180965274/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine+2University of Huddersfield]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">cardiff giant was just big hoax 180965274</span><span class="citation-popover-snippet">Smithsonian MagazineThe Cardiff Giant Was Just a Big Hoax16 Oct 2017 — The story, which began on this day in 1869, was classic fake news–...</span></span></span>
 
-Piltdown Man shows the strongest kind of technical debunking. The Australian Museum summarises the 1953 exposure: dating and analysis showed the jaw had been stained, the teeth filed down, and the skull and jaw were of different ages; later carbon dating placed the skull at about 600 years old. The British Geological Survey’s Earthwise account explains how fluorine testing helped determine whether the jaw and cranium were contemporaneous, because buried bones absorb fluorine from groundwater over time. Here debunking did not rest on a confession or a change of opinion; it rested on material tests that made the original interpretation impossible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://australian.museum/learn/science/human-evolution/piltdown-man-skull/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australian.museum">[The Australian Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australian.museum</span><span class="citation-popover-title">piltdown man skull</span><span class="citation-popover-snippet">piltdown man skull</span></span></span>
+Piltdown Man shows the strongest kind of technical debunking. The Australian Museum summarises the 1953 exposure: dating and analysis showed the jaw had been stained, the teeth filed down, and the skull and jaw were of different ages; later carbon dating placed the skull at about 600 years old. The British Geological Survey’s Earthwise account explains how fluorine testing helped determine whether the jaw and cranium were contemporaneous, because buried bones absorb fluorine from groundwater over time. Here debunking did not rest on a confession or a change of opinion; it rested on material tests that made the original interpretation impossible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://australian.museum/learn/science/human-evolution/piltdown-man-skull/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: australian.museum">[The Australian Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">australian.museum</span><span class="citation-popover-title">piltdown man skull</span><span class="citation-popover-snippet">piltdown man skull</span></span></span>
 
 Good debunking can settle several things:
 
@@ -522,7 +522,7 @@ What debunking cannot always settle is the entire surrounding legend. The exposu
 
 ## The Hoaxer’s Motives Matter Less Than the Afterlife
 
-Fortean hoaxes begin for many reasons. Some are commercial, like the Cardiff Giant and the Feejee Mermaid tradition of manufactured marvels. Harvard’s account of a Feejee Mermaid at the Peabody Museum describes such objects as composite creatures made from animal parts, with the Barnum-linked legend forming part of a longer museum and sideshow history. Other hoaxes begin as pranks, such as Cottingley or crop circles, and become serious because other people invest them with meaning. Some are revenge or status games, as in accounts of the Loch Ness photograph’s origins. Some, like Piltdown, appear tied to ambition, prestige and the desire to fill an intellectual gap. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.harvard.edu/gazette/story/2017/10/feejee-mermaid-offers-haunting-tale-at-harvard-museum/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.harvard.edu">[Science History Institute+3Harvard Gazette+3JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.harvard.edu</span><span class="citation-popover-title">Gazette Feejee Mermaid offers haunting image at Harvard museum</span><span class="citation-popover-snippet">Gazette Feejee Mermaid offers haunting image at Harvard museum</span></span></span>
+Fortean hoaxes begin for many reasons. Some are commercial, like the Cardiff Giant and the Feejee Mermaid tradition of manufactured marvels. Harvard’s account of a Feejee Mermaid at the Peabody Museum describes such objects as composite creatures made from animal parts, with the Barnum-linked legend forming part of a longer museum and sideshow history. Other hoaxes begin as pranks, such as Cottingley or crop circles, and become serious because other people invest them with meaning. Some are revenge or status games, as in accounts of the Loch Ness photograph’s origins. Some, like Piltdown, appear tied to ambition, prestige and the desire to fill an intellectual gap.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.harvard.edu/gazette/story/2017/10/feejee-mermaid-offers-haunting-tale-at-harvard-museum/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.harvard.edu">[Science History Institute+3Harvard Gazette+3JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.harvard.edu</span><span class="citation-popover-title">Gazette Feejee Mermaid offers haunting image at Harvard museum</span><span class="citation-popover-snippet">Gazette Feejee Mermaid offers haunting image at Harvard museum</span></span></span>
 
 Yet the hoaxer’s original motive is often less important than the hoax’s afterlife. A joke can become a sacred proof. A sideshow fake can become a cultural reference point. A forged fossil can distort textbooks. A staged photograph can shape public imagination for generations. Once a Fortean hoax enters circulation, it becomes collaborative: the maker provides the spark, but journalists, experts, believers, sceptics, collectors and later storytellers provide the oxygen.
 
@@ -533,9 +533,9 @@ This is why the history of hoaxes is not merely a rogues’ gallery. It is a map
 
 ## Why Hoaxes Remain Fortean After They Are False
 
-A false report can still belong to Fortean history because Forteana is not only about whether an event happened exactly as claimed. It is also about how anomalous claims are collected, defended, doubted and transformed. The Psi Encyclopedia’s summary of Forteana includes hoaxes alongside UFOs, cryptozoology, religious [miracles]({{ 'miracles/' | relative_url }}), crop circles, odd hums and other anomalous subjects, reflecting the fact that deception is part of the territory rather than an external contamination. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/forteana/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">Psi Encyclopedia Forteana</span><span class="citation-popover-snippet">Psi Encyclopedia Forteana</span></span></span>
+A false report can still belong to Fortean history because Forteana is not only about whether an event happened exactly as claimed. It is also about how anomalous claims are collected, defended, doubted and transformed. The Psi Encyclopedia’s summary of Forteana includes hoaxes alongside UFOs, cryptozoology, religious [miracles]({{ 'miracles/' | relative_url }}), crop circles, odd hums and other anomalous subjects, reflecting the fact that deception is part of the territory rather than an external contamination.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/forteana/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">Psi Encyclopedia Forteana</span><span class="citation-popover-snippet">Psi Encyclopedia Forteana</span></span></span>
 
-That does not mean hoaxes should be romanticised. They can waste research time, damage reputations, exploit grief or belief, distort science and make sincere witnesses easier to dismiss. Piltdown Man’s long acceptance shows how a fraud can misdirect scholarly attention. Cottingley shows how a charming story can embarrass serious inquiry. Crop circles show how hoaxing can blur into art while still trespassing, misleading and confusing evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nhm.ac.uk/our-science/services/library/collections/piltdown-man.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhm.ac.uk">[Natural History Museum+2Google Arts &amp; Culture]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhm.ac.uk</span><span class="citation-popover-snippet">Open source on nhm.ac.uk.</span></span></span>
+That does not mean hoaxes should be romanticised. They can waste research time, damage reputations, exploit grief or belief, distort science and make sincere witnesses easier to dismiss. Piltdown Man’s long acceptance shows how a fraud can misdirect scholarly attention. Cottingley shows how a charming story can embarrass serious inquiry. Crop circles show how hoaxing can blur into art while still trespassing, misleading and confusing evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nhm.ac.uk/our-science/services/library/collections/piltdown-man.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhm.ac.uk">[Natural History Museum+2Google Arts &amp; Culture]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhm.ac.uk</span><span class="citation-popover-snippet">Open source on nhm.ac.uk.</span></span></span>
 
 The best use of hoaxes in Fortean history is diagnostic. They teach readers to ask sharper questions: Who first reported the event? What exactly was examined? Was the test capable of detecting the trick actually used? Who gained money, status, revenge or amusement? Did later retellings add certainty that the first report did not have? Has the case been exposed through confession, reconstruction, technical testing or merely rival interpretation?
 
@@ -545,194 +545,194 @@ A hoax is therefore not the end of Fortean inquiry. It is one of its most useful
 <img src="{{ "/assets/images/forteana_50bdc8_hoaxes_fortean_histo_191d98-Illustration-3-dark.svg" | relative_url }}" alt="Hoaxes illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_hoaxes_fortean_histo_191d98-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_hoaxes_fortean_histo_191d98-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Hoaxes Shape the Fortean Record. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Hoaxes Shape the Fortean Record. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explains how extraordinary claims, hoaxes and misinformation should be evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how extraordinary claims, hoaxes and misinformation should be evaluated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unexplained+Phenomena+by+Roy+Bainton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Book of Unexplained Phenomena on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YHCeBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mammoth Book of Unexplained Phenomena" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unexplained+Phenomena+by+Roy+Bainton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of Unexplained Phenomena">The Mammoth Book of Unexplained Phenomena</a>
-        </h4>
-        <p class="fr-book-author">By Roy Bainton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unexplained+Phenomena+by+Roy+Bainton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Book of Unexplained Phenomena on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YHCeBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mammoth Book of Unexplained Phenomena" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unexplained+Phenomena+by+Roy+Bainton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of Unexplained Phenomena">The Mammoth Book of Unexplained Phenomena</a>
+</h4>
+<p class="fr-book-author">By Roy Bainton</p>
         
-        <p class="fr-book-desc">Places famous hoaxes alongside enduring mysteries and unexplained reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unexplained+Phenomena+by+Roy+Bainton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places famous hoaxes alongside enduring mysteries and unexplained reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unexplained+Phenomena+by+Roy+Bainton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explores belief persistence after claims are debunked.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores belief persistence after claims are debunked.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Provides historical context for mass belief, fraud and sensational stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Provides historical context for mass belief, fraud and sensational stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unexplained+Phenomena&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mammoth Book of Unexplained Phenomena</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unexplained+Phenomena&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mammoth Book of Unexplained Phenomena</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for After The Rain Fjord Sea Boat Fishing Finnmark Norway Green Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/61d368165882a17db39e.jpg' | relative_url }}" alt="Listing image for After The Rain Fjord Sea Boat Fishing Finnmark Norway Green Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">After The Rain Fjord Sea Boat Fishing Finnmark Norway Green Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for After The Rain Fjord Sea Boat Fishing Finnmark Norway Green Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/61d368165882a17db39e.jpg' | relative_url }}" alt="Listing image for After The Rain Fjord Sea Boat Fishing Finnmark Norway Green Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">After The Rain Fjord Sea Boat Fishing Finnmark Norway Green Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print Fish Man Human Rain Umbrella Weird Strange Funny Ironic Out Of Water"><img src="{{ '/assets/images/marketplace-covers/83ba5668697ac14b9dab.jpg' | relative_url }}" alt="Listing image for Art Print Fish Man Human Rain Umbrella Weird Strange Funny Ironic Out Of Water" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">Art Print Fish Man Human Rain Umbrella Weird Strange Funny Ironic Out Of Water</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Print Fish Man Human Rain Umbrella Weird Strange Funny Ironic Out Of Water"><img src="{{ '/assets/images/marketplace-covers/83ba5668697ac14b9dab.jpg' | relative_url }}" alt="Listing image for Art Print Fish Man Human Rain Umbrella Weird Strange Funny Ironic Out Of Water" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">Art Print Fish Man Human Rain Umbrella Weird Strange Funny Ironic Out Of Water</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Man Monochrome Rain Rainy Cloudy Walk Walking Behind Back Fish Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/27ff5433e18ed337d089.jpg' | relative_url }}" alt="Listing image for Man Monochrome Rain Rainy Cloudy Walk Walking Behind Back Fish Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">Man Monochrome Rain Rainy Cloudy Walk Walking Behind Back Fish Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Man Monochrome Rain Rainy Cloudy Walk Walking Behind Back Fish Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/27ff5433e18ed337d089.jpg' | relative_url }}" alt="Listing image for Man Monochrome Rain Rainy Cloudy Walk Walking Behind Back Fish Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">Man Monochrome Rain Rainy Cloudy Walk Walking Behind Back Fish Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print"><img src="{{ '/assets/images/marketplace-covers/c7769be80584af0e631f.jpg' | relative_url }}" alt="Listing image for Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print"><img src="{{ '/assets/images/marketplace-covers/c7769be80584af0e631f.jpg' | relative_url }}" alt="Listing image for Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">Fishing Rain Xiapu Black &amp; White Landscape Boat Raft Plantation Poles Fish Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fish rain art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: fish rain art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fish+rain+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fish rain art print" data-ebay-reference="hoaxes-how-hoaxes-shape-the-fortean-record-forteana-fish-rain-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -748,7 +748,7 @@ A hoax is therefore not the end of Fortean inquiry. It is one of its most useful
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -768,7 +768,7 @@ A hoax is therefore not the end of Fortean inquiry. It is one of its most useful
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -800,7 +800,7 @@ A hoax is therefore not the end of Fortean inquiry. It is one of its most useful
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -852,7 +852,7 @@ A hoax is therefore not the end of Fortean inquiry. It is one of its most useful
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -897,7 +897,7 @@ A hoax is therefore not the end of Fortean inquiry. It is one of its most useful
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -938,199 +938,199 @@ A hoax is therefore not the end of Fortean inquiry. It is one of its most useful
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: artsandculture.google.com  
-   Link: <a href="https://artsandculture.google.com/story/the-cottingley-fairies-a-study-in-deception-leeds-university-library-galleries/lgVB6Ceti9WVAw?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://artsandculture.google.com/story/the-cottingley-fairies-a-study-in-deception-leeds-university-library-galleries/lgVB6Ceti9WVAw?hl=en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google Arts &amp; CultureThe Cottingley Fairies: A Study In DeceptionIt contained photographs of fairies that Doyle concluded were real. Expe...</p></details>
+   Link:<a href="https://artsandculture.google.com/story/the-cottingley-fairies-a-study-in-deception-leeds-university-library-galleries/lgVB6Ceti9WVAw?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://artsandculture.google.com/story/the-cottingley-fairies-a-study-in-deception-leeds-university-library-galleries/lgVB6Ceti9WVAw?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google Arts &amp; CultureThe Cottingley Fairies: A Study In DeceptionIt contained photographs of fairies that Doyle concluded were real. Expe...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pbs.org  
-   Link: <a href="https://www.pbs.org/wgbh/nova/lochness/legend3.html" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/wgbh/nova/lochness/legend3.html</a>  
+   Link:<a href="https://www.pbs.org/wgbh/nova/lochness/legend3.html" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/wgbh/nova/lochness/legend3.html</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pbs.org  
-   Link: <a href="https://www.pbs.org/wgbh/aso/databank/entries/do53pi.html" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/wgbh/aso/databank/entries/do53pi.html</a>  
+   Link:<a href="https://www.pbs.org/wgbh/aso/databank/entries/do53pi.html" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/wgbh/aso/databank/entries/do53pi.html</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: australian.museum  
    Title: piltdown man skull  
-   Link: <a href="https://australian.museum/learn/science/human-evolution/piltdown-man-skull/" target="_blank" rel="noopener noreferrer nofollow">https://australian.museum/learn/science/human-evolution/piltdown-man-skull/</a>  
+   Link:<a href="https://australian.museum/learn/science/human-evolution/piltdown-man-skull/" target="_blank" rel="noopener noreferrer nofollow">https://australian.museum/learn/science/human-evolution/piltdown-man-skull/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: news.harvard.edu  
    Title: Gazette Feejee Mermaid offers haunting image at Harvard museum  
-   Link: <a href="https://news.harvard.edu/gazette/story/2017/10/feejee-mermaid-offers-haunting-tale-at-harvard-museum/" target="_blank" rel="noopener noreferrer nofollow">https://news.harvard.edu/gazette/story/2017/10/feejee-mermaid-offers-haunting-tale-at-harvard-museum/</a>  
+   Link:<a href="https://news.harvard.edu/gazette/story/2017/10/feejee-mermaid-offers-haunting-tale-at-harvard-museum/" target="_blank" rel="noopener noreferrer nofollow">https://news.harvard.edu/gazette/story/2017/10/feejee-mermaid-offers-haunting-tale-at-harvard-museum/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/1498966" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/1498966</a>  
+   Link:<a href="https://www.jstor.org/stable/1498966" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/1498966</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: forums.forteana.org  
-   Link: <a href="https://forums.forteana.org/index.php?threads%2Fthe-problems-of-evidence.71477%2F=" target="_blank" rel="noopener noreferrer nofollow">https://forums.forteana.org/index.php?threads%2Fthe-problems-of-evidence.71477%2F=</a>  
+   Link:<a href="https://forums.forteana.org/index.php?threads%2Fthe-problems-of-evidence.71477%2F=" target="_blank" rel="noopener noreferrer nofollow">https://forums.forteana.org/index.php?threads%2Fthe-problems-of-evidence.71477%2F=</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: forums.forteana.org  
-   Link: <a href="https://forums.forteana.org/index.php?threads%2Fbps-will-the-debate-about-%E2%80%98psi%E2%80%99-ever-be-settled.71128%2F=" target="_blank" rel="noopener noreferrer nofollow">https://forums.forteana.org/index.php?threads%2Fbps-will-the-debate-about-%E2%80%98psi%E2%80%99-ever-be-settled.71128%2F=</a>  
+   Link:<a href="https://forums.forteana.org/index.php?threads%2Fbps-will-the-debate-about-%E2%80%98psi%E2%80%99-ever-be-settled.71128%2F=" target="_blank" rel="noopener noreferrer nofollow">https://forums.forteana.org/index.php?threads%2Fbps-will-the-debate-about-%E2%80%98psi%E2%80%99-ever-be-settled.71128%2F=</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: forums.forteana.org  
-   Link: <a href="https://forums.forteana.org/index.php?threads%2Fcrop-circles.4665%2Fpage-24=" target="_blank" rel="noopener noreferrer nofollow">https://forums.forteana.org/index.php?threads%2Fcrop-circles.4665%2Fpage-24=</a>  
+   Link:<a href="https://forums.forteana.org/index.php?threads%2Fcrop-circles.4665%2Fpage-24=" target="_blank" rel="noopener noreferrer nofollow">https://forums.forteana.org/index.php?threads%2Fcrop-circles.4665%2Fpage-24=</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: hoaxes.org  
    Title: the feejee mermaid  
-   Link: <a href="https://hoaxes.org/archive/permalink/the_feejee_mermaid" target="_blank" rel="noopener noreferrer nofollow">https://hoaxes.org/archive/permalink/the_feejee_mermaid</a>  
+   Link:<a href="https://hoaxes.org/archive/permalink/the_feejee_mermaid" target="_blank" rel="noopener noreferrer nofollow">https://hoaxes.org/archive/permalink/the_feejee_mermaid</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: history.com  
    Title: the cardiff giant fools the nation 145 years ago  
-   Link: <a href="https://www.history.com/articles/the-cardiff-giant-fools-the-nation-145-years-ago" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/the-cardiff-giant-fools-the-nation-145-years-ago</a>  
+   Link:<a href="https://www.history.com/articles/the-cardiff-giant-fools-the-nation-145-years-ago" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/the-cardiff-giant-fools-the-nation-145-years-ago</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: folklore.ee  
-   Link: <a href="https://www.folklore.ee/FOAFtale/ftn79.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.folklore.ee/FOAFtale/ftn79.htm</a>  
+   Link:<a href="https://www.folklore.ee/FOAFtale/ftn79.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.folklore.ee/FOAFtale/ftn79.htm</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: time.com  
    Title: cottingley fairies book  
-   Link: <a href="https://time.com/4876824/cottingley-fairies-book/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/4876824/cottingley-fairies-book/</a>  
+   Link:<a href="https://time.com/4876824/cottingley-fairies-book/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/4876824/cottingley-fairies-book/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: The Cardiff Giant | Everything Everywhere Daily  
-   Link: <a href="https://www.youtube.com/watch?v=j7E2hriqLrw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j7E2hriqLrw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How the Cottingley Fairies Photographs Were Made...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=j7E2hriqLrw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j7E2hriqLrw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How the Cottingley Fairies Photographs Were Made...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: smithsonianmag.com  
    Title: cardiff giant was just big hoax 180965274  
-   Link: <a href="https://www.smithsonianmag.com/smart-news/cardiff-giant-was-just-big-hoax-180965274/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smart-news/cardiff-giant-was-just-big-hoax-180965274/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian MagazineThe Cardiff Giant Was Just a Big Hoax16 Oct 2017 — The story, which began on this day in 1869, was classic fake news–...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/smart-news/cardiff-giant-was-just-big-hoax-180965274/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smart-news/cardiff-giant-was-just-big-hoax-180965274/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian MagazineThe Cardiff Giant Was Just a Big Hoax16 Oct 2017 — The story, which began on this day in 1869, was classic fake news–...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: smithsonianmag.com  
    Title: crop circles the art of the hoax 2524283  
-   Link: <a href="https://www.smithsonianmag.com/arts-culture/crop-circles-the-art-of-the-hoax-2524283/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/arts-culture/crop-circles-the-art-of-the-hoax-2524283/</a>  
+   Link:<a href="https://www.smithsonianmag.com/arts-culture/crop-circles-the-art-of-the-hoax-2524283/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/arts-culture/crop-circles-the-art-of-the-hoax-2524283/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cnyhistory.org  
    Title: cardiff giant  
-   Link: <a href="https://www.cnyhistory.org/2014/10/cardiff-giant/" target="_blank" rel="noopener noreferrer nofollow">https://www.cnyhistory.org/2014/10/cardiff-giant/</a>  
+   Link:<a href="https://www.cnyhistory.org/2014/10/cardiff-giant/" target="_blank" rel="noopener noreferrer nofollow">https://www.cnyhistory.org/2014/10/cardiff-giant/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: hud.ac.uk  
-   Link: <a href="https://www.hud.ac.uk/news/2023/september/cottingley-fairies-hoax-endues-global-interest/" target="_blank" rel="noopener noreferrer nofollow">https://www.hud.ac.uk/news/2023/september/cottingley-fairies-hoax-endues-global-interest/</a>  
+   Link:<a href="https://www.hud.ac.uk/news/2023/september/cottingley-fairies-hoax-endues-global-interest/" target="_blank" rel="noopener noreferrer nofollow">https://www.hud.ac.uk/news/2023/september/cottingley-fairies-hoax-endues-global-interest/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: publicdomainreview.org  
    Title: cardiff giant  
-   Link: <a href="https://publicdomainreview.org/collection/cardiff-giant/" target="_blank" rel="noopener noreferrer nofollow">https://publicdomainreview.org/collection/cardiff-giant/</a>  
+   Link:<a href="https://publicdomainreview.org/collection/cardiff-giant/" target="_blank" rel="noopener noreferrer nofollow">https://publicdomainreview.org/collection/cardiff-giant/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: psi-encyclopedia.spr.ac.uk  
    Title: Psi Encyclopedia Crop Circles  
-   Link: <a href="https://psi-encyclopedia.spr.ac.uk/articles/crop-circles/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/articles/crop-circles/</a>  
+   Link:<a href="https://psi-encyclopedia.spr.ac.uk/articles/crop-circles/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/articles/crop-circles/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/artanddesign/picture/2013/oct/23/photography" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/artanddesign/picture/2013/oct/23/photography</a>  
+   Link:<a href="https://www.theguardian.com/artanddesign/picture/2013/oct/23/photography" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/artanddesign/picture/2013/oct/23/photography</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nhm.ac.uk  
-   Link: <a href="https://www.nhm.ac.uk/our-science/services/library/collections/piltdown-man.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nhm.ac.uk/our-science/services/library/collections/piltdown-man.html</a>  
+   Link:<a href="https://www.nhm.ac.uk/our-science/services/library/collections/piltdown-man.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nhm.ac.uk/our-science/services/library/collections/piltdown-man.html</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: sciencehistory.org  
    Title: the problem of piltdown man  
-   Link: <a href="https://www.sciencehistory.org/stories/magazine/the-problem-of-piltdown-man/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencehistory.org/stories/magazine/the-problem-of-piltdown-man/</a>  
+   Link:<a href="https://www.sciencehistory.org/stories/magazine/the-problem-of-piltdown-man/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencehistory.org/stories/magazine/the-problem-of-piltdown-man/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: psi-encyclopedia.spr.ac.uk  
    Title: Psi Encyclopedia Forteana  
-   Link: <a href="https://psi-encyclopedia.spr.ac.uk/articles/forteana/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/articles/forteana/</a>  
+   Link:<a href="https://psi-encyclopedia.spr.ac.uk/articles/forteana/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/articles/forteana/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: psi-encyclopedia.spr.ac.uk  
    Title: Psi Encyclopedia Miscellaneous Anomalistics  
-   Link: <a href="https://psi-encyclopedia.spr.ac.uk/category/general-topics/miscellaneous-anomalistics/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/category/general-topics/miscellaneous-anomalistics/</a>  
+   Link:<a href="https://psi-encyclopedia.spr.ac.uk/category/general-topics/miscellaneous-anomalistics/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/category/general-topics/miscellaneous-anomalistics/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
    Title: Cottingley Fairies  
-   Link: <a href="https://en.wikipedia.org/wiki/Cottingley_Fairies" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cottingley_Fairies</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cottingley_Fairies" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cottingley_Fairies</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
    Title: Cardiff Giant  
-   Link: <a href="https://en.wikipedia.org/wiki/Cardiff_Giant" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cardiff_Giant</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cardiff_Giant" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cardiff_Giant</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: Wikipedia  
    Title: Loch Ness Monster  
-   Link: <a href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Loch_Ness_Monster</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Loch_Ness_Monster</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: Wikipedia  
    Title: Piltdown Man  
-   Link: <a href="https://en.wikipedia.org/wiki/Piltdown_Man" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Piltdown_Man</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Piltdown_Man" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Piltdown_Man</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: psi-encyclopedia.spr.ac.uk  
    Title: spr.ac.uk Articles A-Z  
-   Link: <a href="https://psi-encyclopedia.spr.ac.uk/articles-a-z/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/articles-a-z/</a>  
+   Link:<a href="https://psi-encyclopedia.spr.ac.uk/articles-a-z/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/articles-a-z/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: explorethearchive.com  
    Title: famous hoaxes  
-   Link: <a href="https://explorethearchive.com/famous-hoaxes" target="_blank" rel="noopener noreferrer nofollow">https://explorethearchive.com/famous-hoaxes</a>  
+   Link:<a href="https://explorethearchive.com/famous-hoaxes" target="_blank" rel="noopener noreferrer nofollow">https://explorethearchive.com/famous-hoaxes</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: maltalibraries.overdrive.com  
-   Link: <a href="https://maltalibraries.overdrive.com/media/10316233" target="_blank" rel="noopener noreferrer nofollow">https://maltalibraries.overdrive.com/media/10316233</a>  
+   Link:<a href="https://maltalibraries.overdrive.com/media/10316233" target="_blank" rel="noopener noreferrer nofollow">https://maltalibraries.overdrive.com/media/10316233</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: archive.archaeology.org  
-   Link: <a href="https://archive.archaeology.org/online/features/hoaxes/giants.html" target="_blank" rel="noopener noreferrer nofollow">https://archive.archaeology.org/online/features/hoaxes/giants.html</a>  
+   Link:<a href="https://archive.archaeology.org/online/features/hoaxes/giants.html" target="_blank" rel="noopener noreferrer nofollow">https://archive.archaeology.org/online/features/hoaxes/giants.html</a>  
 
 ### Additional References
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/241851924_Why_the_future_is_Fortean" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/241851924_Why_the_future_is_Fortean</a>  
+   Link:<a href="https://www.researchgate.net/publication/241851924_Why_the_future_is_Fortean" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/241851924_Why_the_future_is_Fortean</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: andrew-may.com  
-   Link: <a href="https://www.andrew-may.com/blog_old.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.andrew-may.com/blog_old.htm</a>  
+   Link:<a href="https://www.andrew-may.com/blog_old.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.andrew-may.com/blog_old.htm</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/officialmidjourney/posts/418197723805131/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/officialmidjourney/posts/418197723805131/</a>  
+   Link:<a href="https://www.facebook.com/groups/officialmidjourney/posts/418197723805131/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/officialmidjourney/posts/418197723805131/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/doc/294127690/Crop-Circle" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/294127690/Crop-Circle</a>  
+   Link:<a href="https://www.scribd.com/doc/294127690/Crop-Circle" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/294127690/Crop-Circle</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1ff7yp5/crop_circles_what_are_they_and_who_made_them/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1ff7yp5/crop_circles_what_are_they_and_who_made_them/</a>  
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/1ff7yp5/crop_circles_what_are_they_and_who_made_them/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1ff7yp5/crop_circles_what_are_they_and_who_made_them/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/40968762/Fakes_Hoaxes_Counterfeits_and_Deception_in_Early_Modern_Science" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/40968762/Fakes_Hoaxes_Counterfeits_and_Deception_in_Early_Modern_Science</a>  
+   Link:<a href="https://www.academia.edu/40968762/Fakes_Hoaxes_Counterfeits_and_Deception_in_Early_Modern_Science" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/40968762/Fakes_Hoaxes_Counterfeits_and_Deception_in_Early_Modern_Science</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: tvtropes.org  
-   Link: <a href="https://tvtropes.org/pmwiki/pmwiki.php/Magazine/ForteanTimes" target="_blank" rel="noopener noreferrer nofollow">https://tvtropes.org/pmwiki/pmwiki.php/Magazine/ForteanTimes</a>  
+   Link:<a href="https://tvtropes.org/pmwiki/pmwiki.php/Magazine/ForteanTimes" target="_blank" rel="noopener noreferrer nofollow">https://tvtropes.org/pmwiki/pmwiki.php/Magazine/ForteanTimes</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/DavezillaMedia/posts/london-fortean-society-strange-central-mysteries-monsters-[ghosts" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DavezillaMedia/posts/london-fortean-society-strange-central-mysteries-monsters-[ghosts</a>  
+   Link:<a href="https://www.facebook.com/DavezillaMedia/posts/london-fortean-society-strange-central-mysteries-monsters-[ghosts" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DavezillaMedia/posts/london-fortean-society-strange-central-mysteries-monsters-[ghosts</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/todayilearned/comments/12gkdz/til_the_man_who_took_the_most_memorable_photo_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/12gkdz/til_the_man_who_took_the_most_memorable_photo_of/</a>  
+   Link:<a href="https://www.reddit.com/r/todayilearned/comments/12gkdz/til_the_man_who_took_the_most_memorable_photo_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/12gkdz/til_the_man_who_took_the_most_memorable_photo_of/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/sacredgeometryart/posts/3754189071557690/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/sacredgeometryart/posts/3754189071557690/</a>  
+   Link:<a href="https://www.facebook.com/groups/sacredgeometryart/posts/3754189071557690/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/sacredgeometryart/posts/3754189071557690/</a>  

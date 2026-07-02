@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /forteana-50bdc8-belief-doubt-suspend/
 description: Focused pages that expand on Doubt.
-date: '2026-07-01'
+date: '2026'
 layout: default
 parent_basename: forteana_50bdc8_belief_doubt_suspend_51d00d
 parent_title: Doubt
@@ -16,7 +16,7 @@ parent_permalink: /doubt/
 
 # Explore Topics in Doubt
 
-The following pages expand on the main **[Doubt]({{ '/doubt/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Doubt]({{ '/doubt/' | relative_url }})** page and cover its key branches in.
 
 - [Anomalistics]({{ '/anomalistics-c705ed/' | relative_url }})
 - [Blue Book]({{ '/blue-book-be7e27/' | relative_url }})

@@ -203,6 +203,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-07-01 17:40:35'
 parent_title: Can Strange Phenomena Be Neatly Sorted?
 parent_permalink: /taxonomies/
 parent_nav_short_title: Taxonomies
@@ -265,7 +266,6 @@ prev_link:
   permalink: /layered-cases/
   short_title: Layered Cases
   heading_title: How to File a Case Without Flattening It
-date: '2026-07-01 17:40:35 '
 header:
   og_image: /assets/images/forteana_50bdc8_fortean_taxonomies_w_7e6998_uap_data_gaps_555465-Illustration-1-social.jpg
   preview_image: /assets/images/forteana_50bdc8_fortean_taxonomies_w_7e6998_uap_data_gaps_555465-Illustration-1.webp
@@ -277,8 +277,10 @@ image: /assets/images/forteana_50bdc8_fortean_taxonomies_w_7e6998_uap_data_gaps_
 Within modern Fortean studies, unidentified anomalous phenomena (UAP) occupy an unusual position. They are not simply "mysteries in the sky"; they are also demonstrations of how easily incomplete evidence can prevent reliable identification. NASA's 2023 Independent Study did not set out to prove or disprove extraordinary explanations. Instead, it asked a more fundamental question: what quality of evidence is actually available, and what would scientists need before any confident conclusion could be reached?
 
 
+
 <img src="{{ "/assets/images/forteana_50bdc8_fortean_taxonomies_w_7e6998_uap_data_gaps_555465-Illustration-1-dark.svg" | relative_url }}" alt="UAP Data Gaps illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_fortean_taxonomies_w_7e6998_uap_data_gaps_555465-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_fortean_taxonomies_w_7e6998_uap_data_gaps_555465-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The report's central message is remarkably restrained. Many UAP remain unidentified not because they necessarily represent exotic technology, but because the original observations often lack the measurements required for scientific reconstruction. Missing calibration records, incomplete metadata, single-sensor observations and absent baseline comparisons leave investigators unable to distinguish unusual physical events from ordinary objects, atmospheric effects or sensor artefacts. That emphasis on evidence rather than speculation makes NASA's work particularly important for a Fortean taxonomy that seeks to preserve genuine uncertainty without exaggerating it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
+
+The report's central message is remarkably restrained. Many UAP remain unidentified not because they necessarily represent exotic technology, but because the original observations often lack the measurements required for scientific reconstruction. Missing calibration records, incomplete metadata, single-sensor observations and absent baseline comparisons leave investigators unable to distinguish unusual physical events from ordinary objects, atmospheric effects or sensor artefacts. That emphasis on evidence rather than speculation makes NASA's work particularly important for a Fortean taxonomy that seeks to preserve genuine uncertainty without exaggerating it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
 
 ## What Poor Records Make Impossible to Test
 
@@ -286,12 +288,13 @@ NASA repeatedly stresses that "unidentified" is not a permanent category. It oft
 
 Scientific identification normally depends upon reconstructing an [observation]({{ 'observation/' | relative_url }}) after the event. Investigators want to know where the sensor was pointed, how it was configured, what environmental conditions existed, whether other instruments recorded the same event and whether known aircraft, satellites, balloons or astronomical objects occupied the same region at the same time. If those pieces are missing, many competing explanations remain equally plausible.
 
-This distinction matters because a blurry video alone cannot reliably answer questions about distance, speed or acceleration. An object appearing to make impossible manoeuvres may instead reflect unknown viewing geometry, camera motion, autofocus changes or image-processing artefacts. Without sufficient contextual information, even experienced analysts cannot calculate basic physical quantities with confidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
+This distinction matters because a blurry video alone cannot reliably answer questions about distance, speed or acceleration. An object appearing to make impossible manoeuvres may instead reflect unknown viewing geometry, camera motion, autofocus changes or image-processing artefacts. Without sufficient contextual information, even experienced analysts cannot calculate basic physical quantities with confidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
 
 For Fortean classification, this means that "currently unidentified" should not be confused with "currently inexplicable". A case may remain unresolved simply because the available evidence is too incomplete to discriminate between ordinary and extraordinary hypotheses.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PDcI_N2aH4Q" title="NASA discusses findings from UFO study | full video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PDcI_N2aH4Q" target="_blank" rel="noopener noreferrer">NASA discusses findings from UFO study | full video</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 34.2K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PDcI_N2aH4Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PDcI_N2aH4Q">Open on YouTube</a></p></div></div></div>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nuBMnluJfs0" title="Replay! NASA&#x27;s Release of the Unidentified Anomalous Phenomena Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer">Replay! NASA&#x27;s Release of the Unidentified Anomalous Phenomena Report</a></p><p class="youtube-embed-meta">Channel: VideoFromSpace &middot; Views: 71.9K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nuBMnluJfs0">Open on YouTube</a></p></div></div></div>
 
 ## Sensors, Metadata and Baseline Measurements
 
@@ -303,20 +306,21 @@ NASA's report identifies four recurring weaknesses that limit almost every diffi
 * **Poor sensor calibration**, meaning investigators cannot fully characterise how accurately an instrument recorded the event.
 * **Lack of multiple measurements**, leaving only one perspective instead of independent confirmation.
 * **Missing sensor metadata**, including details such as observing mode, timing, location and instrument settings.
-* **Lack of baseline data**, making it difficult to compare an unusual observation with what the same sensor normally records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
+* **Lack of baseline data**, making it difficult to compare an unusual observation with what the same sensor normally records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
 
 </div>
 
 These sound like technical details, but they determine whether an observation can be analysed scientifically.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bQo08JRY0iM" title="Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer">Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)</a></p><p class="youtube-embed-meta">Channel: NASA Video &middot; Views: 358.7K &middot; Uploaded: May 2023 &middot; Length: 4 hours</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bQo08JRY0iM">Open on YouTube</a></p></div></div></div>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bR0PaotZxD0" title="NASA UFO report finds no evidence UAP have extraterrestrial origins | FULL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bR0PaotZxD0" target="_blank" rel="noopener noreferrer">NASA UFO report finds no evidence UAP have extraterrestrial origins | FULL</a></p><p class="youtube-embed-meta">Channel: Global News &middot; Views: 37.7K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bR0PaotZxD0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bR0PaotZxD0">Open on YouTube</a></p></div></div></div>
 
 ### Why calibration matters
 
 Every imaging system introduces distortions. Cameras produce lens artefacts, infrared sensors respond differently under varying temperatures, radar systems generate characteristic returns and software applies processing before images are displayed.
 
-If calibration records are unavailable, analysts cannot distinguish genuine features from instrument behaviour. NASA notes that several apparent UAP have ultimately proved to be sensor artefacts once calibration information and metadata were examined carefully. In other words, better knowledge of the instrument changed the interpretation of the observation rather than the observation itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:UAP Independent Study Team</span><span class="citation-popover-snippet">Page:UAP Independent Study Team - Final Report.pdf/1512 Nov 2023 — Indeed, several apparent UAP have been demonstrated to be se...</span></span></span>
+If calibration records are unavailable, analysts cannot distinguish genuine features from instrument behaviour. NASA notes that several apparent UAP have ultimately proved to be sensor artefacts once calibration information and metadata were examined carefully. In other words, better knowledge of the instrument changed the interpretation of the observation rather than the observation itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:UAP Independent Study Team</span><span class="citation-popover-snippet">Page:UAP Independent Study Team - Final Report.pdf/1512 Nov 2023 — Indeed, several apparent UAP have been demonstrated to be se...</span></span></span>
 
 ### Why metadata is often more valuable than another photograph
 
@@ -337,17 +341,19 @@ Metadata includes information such as:
 
 Without these details, even high-resolution imagery can become scientifically limited. Investigators cannot reconstruct geometry, estimate distances or compare observations against aircraft databases, [weather]({{ 'weather/' | relative_url }}) information or astronomical catalogues.
 
-NASA therefore treats metadata as evidence rather than administrative paperwork. Context frequently determines whether an object appears anomalous at all. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Responses to Statement of Task</span><span class="citation-popover-snippet">NASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 —... Independent Study Team Report (2023) National... UAP i...</span></span></span>
+NASA therefore treats metadata as evidence rather than administrative paperwork. Context frequently determines whether an object appears anomalous at all.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Responses to Statement of Task</span><span class="citation-popover-snippet">NASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 —... Independent Study Team Report (2023) National... UAP i...</span></span></span>
+
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_fortean_taxonomies_w_7e6998_uap_data_gaps_555465-Illustration-2-dark.svg" | relative_url }}" alt="UAP Data Gaps illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_fortean_taxonomies_w_7e6998_uap_data_gaps_555465-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_fortean_taxonomies_w_7e6998_uap_data_gaps_555465-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
 ### Why multiple sensors change the problem
 
 One optical camera records only an angular position on the sky. It does not automatically reveal range.
 
 If infrared imaging, radar, optical cameras and independent observers all detect the same event simultaneously, investigators gain the triangulation needed to estimate altitude, velocity and trajectory. Agreement across different sensor types also reduces the chance that the anomaly originates within a single instrument.
 
-NASA therefore recommends systematic collection of multimodal observations instead of relying on isolated videos or eyewitness testimony. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
+NASA therefore recommends systematic collection of multimodal observations instead of relying on isolated videos or eyewitness testimony.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
 
 ## Why Better Data Does Not Pre-solve Every Case
 
@@ -355,20 +361,21 @@ Improving data quality does not guarantee that every future UAP will receive an 
 
 Instead, better observations reduce uncertainty. Some cases that currently appear extraordinary may eventually prove to involve atmospheric optics, balloons, drones, birds, astronomical objects or sensor effects. Others may remain unidentified because the available evidence genuinely does not favour one explanation over another.
 
-Importantly, NASA does not argue that unexplained cases automatically indicate advanced technology, nor does it argue that all reports have conventional explanations. Its position is methodological: conclusions should follow from evidence rather than precede it. The study explicitly states that it found no evidence supporting an extraterrestrial origin for reported UAP, while also acknowledging that some observations remain unidentified because existing datasets are inadequate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
+Importantly, NASA does not argue that unexplained cases automatically indicate advanced technology, nor does it argue that all reports have conventional explanations. Its position is methodological: conclusions should follow from evidence rather than precede it. The study explicitly states that it found no evidence supporting an extraterrestrial origin for reported UAP, while also acknowledging that some observations remain unidentified because existing datasets are inadequate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
 
 This is an important distinction within Fortean studies. An unresolved case is not necessarily evidence for a remarkable phenomenon, but neither is it automatically evidence that witnesses were mistaken. Sometimes the most accurate classification is simply that the available information cannot support a reliable identification.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bR0PaotZxD0" title="NASA UFO report finds no evidence UAP have extraterrestrial origins | FULL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bR0PaotZxD0" target="_blank" rel="noopener noreferrer">NASA UFO report finds no evidence UAP have extraterrestrial origins | FULL</a></p><p class="youtube-embed-meta">Channel: Global News &middot; Views: 37.7K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bR0PaotZxD0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bR0PaotZxD0">Open on YouTube</a></p></div></div></div>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MUQgQlWw5b4" title="Inside NASA’s UAP Report with Commission Chair David Spergel &amp; Neil deGrasse Tyson" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MUQgQlWw5b4" target="_blank" rel="noopener noreferrer">Inside NASA’s UAP Report with Commission Chair David Spergel &amp; Neil deGrasse Tyson</a></p><p class="youtube-embed-meta">Channel: StarTalk &middot; Views: 385.2K &middot; Uploaded: August 2023 &middot; Length: 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MUQgQlWw5b4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MUQgQlWw5b4">Open on YouTube</a></p></div></div></div>
 
 ## Governance Rather Than Speculation
 
 One of the report's less discussed contributions is its emphasis on scientific governance.
 
-NASA recommends creating transparent procedures for collecting, archiving and analysing future observations rather than relying on occasional accidental recordings. Because much historical UAP information comes from military systems with restricted access, the agency argues that publicly accessible scientific datasets and standardised reporting procedures would improve reproducibility and independent review. It also highlights the importance of reducing the stigma that may discourage pilots and other observers from reporting unusual events, since incomplete reporting creates additional gaps in the evidence base. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
+NASA recommends creating transparent procedures for collecting, archiving and analysing future observations rather than relying on occasional accidental recordings. Because much historical UAP information comes from military systems with restricted access, the agency argues that publicly accessible scientific datasets and standardised reporting procedures would improve reproducibility and independent review. It also highlights the importance of reducing the stigma that may discourage pilots and other observers from reporting unusual events, since incomplete reporting creates additional gaps in the evidence base.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
 
-Parallel work by the U.S. government's All-domain Anomaly Resolution Office (AARO) similarly emphasises standardised reporting, calibrated sensors and improved data collection rather than reliance on anecdotal accounts. Although the organisations have different mandates, both identify measurement quality as the principal obstacle to reliable identification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">AARO Historical Record Report Vol 1 2024</span><span class="citation-popover-snippet">AARO_Historical_Record_Repor...6 Mar 2024 — The UAPTF helped standardize, destigmatize, and increase the volume of UAP reporting. Its...</span></span></span>
+Parallel work by the U.S. government's All-domain Anomaly Resolution Office (AARO) similarly emphasises standardised reporting, calibrated sensors and improved data collection rather than reliance on anecdotal accounts. Although the organisations have different mandates, both identify measurement quality as the principal obstacle to reliable identification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">AARO Historical Record Report Vol</span><span class="citation-popover-snippet">AARO_Historical_Record_Repor...6 Mar 2024 — The UAPTF helped standardize, destigmatize, and increase the volume of UAP reporting. Its...</span></span></span>
 
 ## A Useful Lesson for Fortean Classification
 
@@ -377,197 +384,199 @@ NASA's study ultimately shifts attention away from dramatic explanations and tow
 Within a Fortean taxonomy, "unidentified" is best understood as an evidential category rather than an ontological one. It marks the point where available observations cannot yet justify a confident identification. [Better sensors]({{ 'better-sensors/' | relative_url }}), richer metadata and repeat measurements can move some cases into familiar categories. Others may remain unresolved. The key insight is that uncertainty is not a failure of classification; it is often the most scientifically accurate description of the evidence currently available.
 
 
+
 <img src="{{ "/assets/images/forteana_50bdc8_fortean_taxonomies_w_7e6998_uap_data_gaps_555465-Illustration-3-dark.svg" | relative_url }}" alt="UAP Data Gaps illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_fortean_taxonomies_w_7e6998_uap_data_gaps_555465-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_fortean_taxonomies_w_7e6998_uap_data_gaps_555465-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
+
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Unidentified Means Not Enough Data. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Unidentified Means Not Enough Data. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how different data quality requires different investigative methods.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how different data quality requires different investigative methods.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on documented reports and evidential quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on documented reports and evidential quality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Discusses modern UAP evidence and unresolved data questions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses modern UAP evidence and unresolved data questions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Highlights the importance of evidence quality before reaching conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights the importance of evidence quality before reaching conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="{{ '/assets/images/marketplace-covers/ad50048f5e8927ed1a97.jpg' | relative_url }}" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cute Mothman Enamel Pin Gold Cryptid Gothic Luna Moth Horror Pin Badge Gift"><img src="{{ '/assets/images/marketplace-covers/ce39211fe9989f39f1aa.jpg' | relative_url }}" alt="Listing image for Cute Mothman Enamel Pin Gold Cryptid Gothic Luna Moth Horror Pin Badge Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Cute Mothman Enamel Pin Gold Cryptid Gothic Luna Moth Horror Pin Badge Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mothman enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Mothman enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-mothman-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vulcan Bomber Red Arrows Aviation Wall Art Canvas 22 x 14 inch ready to hang"><img src="{{ '/assets/images/marketplace-covers/b9902b7979d1c778c904.jpg' | relative_url }}" alt="Listing image for Vulcan Bomber Red Arrows Aviation Wall Art Canvas 22 x 14 inch ready to hang" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vulcan Bomber Red Arrows Aviation Wall Art Canvas 22 x 14 inch ready to hang</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New Cartoon Mothman Moth Man glow in the dark badge tie pin badge metal Enamel"><img src="{{ '/assets/images/marketplace-covers/28fa4a561bfc85d7635d.jpg' | relative_url }}" alt="Listing image for New Cartoon Mothman Moth Man glow in the dark badge tie pin badge metal Enamel" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">New Cartoon Mothman Moth Man glow in the dark badge tie pin badge metal Enamel</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mothman enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Mothman enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-mothman-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Silver Airplane Aeroplane Canvas Wall Art Picture Print"><img src="{{ '/assets/images/marketplace-covers/bf14f3ae1c3e0d868966.jpg' | relative_url }}" alt="Listing image for Vintage Silver Airplane Aeroplane Canvas Wall Art Picture Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage Silver Airplane Aeroplane Canvas Wall Art Picture Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Glow In The Dark Mothman Metal &amp; Enamel Pin Badge Horror Moth New"><img src="{{ '/assets/images/marketplace-covers/58571b93fa7f2e8edd3f.jpg' | relative_url }}" alt="Listing image for Glow In The Dark Mothman Metal &amp; Enamel Pin Badge Horror Moth New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Glow In The Dark Mothman Metal &amp; Enamel Pin Badge Horror Moth New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mothman enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Mothman enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-mothman-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/172b1b875ec6ecdb1d02.jpg' | relative_url }}" alt="Listing image for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New Cartoon Mothman Moth Man badge tie pin badge metal Enamel black white"><img src="{{ '/assets/images/marketplace-covers/34373527e356113f08ef.jpg' | relative_url }}" alt="Listing image for New Cartoon Mothman Moth Man badge tie pin badge metal Enamel black white" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">New Cartoon Mothman Moth Man badge tie pin badge metal Enamel black white</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mothman enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Mothman enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-mothman-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mothman+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-mothman-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mothman enamel pin" data-ebay-reference="uap-data-gaps-1722c2-when-unidentified-means-not-enough-data-forteana-mothman-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -583,7 +592,7 @@ Within a Fortean taxonomy, "unidentified" is best understood as an evidential ca
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -603,7 +612,7 @@ Within a Fortean taxonomy, "unidentified" is best understood as an evidential ca
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -635,7 +644,7 @@ Within a Fortean taxonomy, "unidentified" is best understood as an evidential ca
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -687,7 +696,7 @@ Within a Fortean taxonomy, "unidentified" is best understood as an evidential ca
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -732,7 +741,7 @@ Within a Fortean taxonomy, "unidentified" is best understood as an evidential ca
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -773,113 +782,113 @@ Within a Fortean taxonomy, "unidentified" is best understood as an evidential ca
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: en.wikisource.org  
    Title: Page:UAP Independent Study Team  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:UAP Independent Study Team - Final Report.pdf/1512 Nov 2023 — Indeed, several apparent UAP have been demonstrated to be se...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Page:UAP Independent Study Team - Final Report.pdf/1512 Nov 2023 — Indeed, several apparent UAP have been demonstrated to be se...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: en.wikisource.org  
    Title: Responses to Statement of Task  
-   Link: <a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 —... Independent Study Team Report (2023) National... UAP i...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 —... Independent Study Team Report (2023) National... UAP i...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO_Historical_Record_Repor...6 Mar 2024 — The UAPTF helped standardize, destigmatize, and increase the volume of UAP reporting. Its...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO_Historical_Record_Repor...6 Mar 2024 — The UAPTF helped standardize, destigmatize, and increase the volume of UAP reporting. Its...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeOur team of experts leads the U.S. government&#x27;s efforts to address Unidentified Anomalous Phenomena (UAP) using a rigorous scien...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeOur team of experts leads the U.S. government&#x27;s efforts to address Unidentified Anomalous Phenomena (UAP) using a rigorous scien...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>brings you the latest news, images and videos from America&#x27;s space agency, pioneering the future in space exploration, scientific discove...</p></details>
+   Link:<a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>brings you the latest news, images and videos from America&#x27;s space agency, pioneering the future in space exploration, scientific discove...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The UAP Independent Study shall report on the following questions: What types of scientific data currently collec...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The UAP Independent Study shall report on the following questions: What types of scientific data currently collec...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 8, 2026 —... no evidence that UAPs are extraterrestrial. However... Are there any data supporting the idea that UAP are evidence of...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 8, 2026 —... no evidence that UAPs are extraterrestrial. However... Are there any data supporting the idea that UAP are evidence of...</p></details>
    Published: May 8, 2026  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: en.wikisource.org  
    Title: Page:UAP Independent Study Team Final Report  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of [UAP data](&amp;#123;&amp;#123; &#x27;uap-data/&#x27; | relative_url &amp;#125;&amp;#125;) is hampered by poor sens...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of [UAP data](&amp;#123;&amp;#123; &#x27;uap-data/&#x27; | relative_url &amp;#125;&amp;#125;) is hampered by poor sens...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AstroAlexandraOfficial/posts/nasa-uap-ufo-report-released-today-offers-a-few-answers-but-doesnt-find-or-rule-/319484690604324/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AstroAlexandraOfficial/posts/nasa-uap-ufo-report-released-today-offers-a-few-answers-but-doesnt-find-or-rule-/319484690604324/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UAP (UFO) report released today offers a few...The report acknowledges that analyzing UAP data faces challenges due to sensor calib...</p></details>
+   Link:<a href="https://www.facebook.com/AstroAlexandraOfficial/posts/nasa-uap-ufo-report-released-today-offers-a-few-answers-but-doesnt-find-or-rule-/319484690604324/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AstroAlexandraOfficial/posts/nasa-uap-ufo-report-released-today-offers-a-few-answers-but-doesnt-find-or-rule-/319484690604324/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UAP (UFO) report released today offers a few...The report acknowledges that analyzing UAP data faces challenges due to sensor calib...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/EverythingScience/comments/16ithu9/nasa_ufo_report_finds_no_evidence_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/EverythingScience/comments/16ithu9/nasa_ufo_report_finds_no_evidence_of/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...NASA UAP study team finds no extraterrestrial origins of UFO sightings in 1st r...</p></details>
+   Link:<a href="https://www.reddit.com/r/EverythingScience/comments/16ithu9/nasa_ufo_report_finds_no_evidence_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/EverythingScience/comments/16ithu9/nasa_ufo_report_finds_no_evidence_of/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...NASA UAP study team finds no extraterrestrial origins of UFO sightings in 1st r...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: managingexpectations.net  
-   Link: <a href="https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html" target="_blank" rel="noopener noreferrer nofollow">https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s UAP Study: What It Did — and Did Not — Conclude...The panel said UAP analysis is hampered by “poor sensor calibration,” a lack of...</p></details>
+   Link:<a href="https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html" target="_blank" rel="noopener noreferrer nofollow">https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s UAP Study: What It Did — and Did Not — Conclude...The panel said UAP analysis is hampered by “poor sensor calibration,” a lack of...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: avi-loeb.medium.com  
-   Link: <a href="https://avi-loeb.medium.com/nasa-aaro-and-the-galileo-project-agree-on-the-need-for-a-scientific-study-of-uap-58b39c005b57" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/nasa-aaro-and-the-galileo-project-agree-on-the-need-for-a-scientific-study-of-uap-58b39c005b57</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>medium.comNASA, AARO and the Galileo Project Agree on the Need for a...NASA, AARO and the Galileo Project Agree on the Need for a Scient...</p></details>
+   Link:<a href="https://avi-loeb.medium.com/nasa-aaro-and-the-galileo-project-agree-on-the-need-for-a-scientific-study-of-uap-58b39c005b57" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/nasa-aaro-and-the-galileo-project-agree-on-the-need-for-a-scientific-study-of-uap-58b39c005b57</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>medium.comNASA, AARO and the Galileo Project Agree on the Need for a...NASA, AARO and the Galileo Project Agree on the Need for a Scient...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: primitiveproton.com  
-   Link: <a href="https://primitiveproton.com/unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://primitiveproton.com/unidentified-anomalous-phenomena-uap/</a>  
+   Link:<a href="https://primitiveproton.com/unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://primitiveproton.com/unidentified-anomalous-phenomena-uap/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</p></details>
+   Link:<a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: english.elpais.com  
-   Link: <a href="https://english.elpais.com/usa/2023-09-17/stigma-sensationalism-and-a-cell-phone-app-the-main-takeaways-from-nasas-ufo-report.html" target="_blank" rel="noopener noreferrer nofollow">https://english.elpais.com/usa/2023-09-17/stigma-sensationalism-and-a-cell-phone-app-the-main-takeaways-from-nasas-ufo-report.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>elpais.comStigma, sensationalism and a cell phone app - El Pais in English17 Sept 2023 — The NASA report was adamant about the need to ov...</p></details>
+   Link:<a href="https://english.elpais.com/usa/2023-09-17/stigma-sensationalism-and-a-cell-phone-app-the-main-takeaways-from-nasas-ufo-report.html" target="_blank" rel="noopener noreferrer nofollow">https://english.elpais.com/usa/2023-09-17/stigma-sensationalism-and-a-cell-phone-app-the-main-takeaways-from-nasas-ufo-report.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>elpais.comStigma, sensationalism and a cell phone app - El Pais in English17 Sept 2023 — The NASA report was adamant about the need to ov...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The Pentagon&#x27;s UFO office has once again stressed that it has...</p></details>
+   Link:<a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The Pentagon&#x27;s UFO office has once again stressed that it has...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: rev.com  
    Title: unidentified anomalous phenomena independent study report from nasa transcript  
-   Link: <a href="https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Report from NASA18 Sept 2023 — The NASA independent study team did not find any evidence that UAP have an extraterr...</p></details>
+   Link:<a href="https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Report from NASA18 Sept 2023 — The NASA independent study team did not find any evidence that UAP have an extraterr...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
-   Link: <a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena Independent...The team&#x27;s report was released on September 14, 2023, and did not find evidence t...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena Independent...The team&#x27;s report was released on September 14, 2023, and did not find evidence t...</p></details>
    Published: September 14, 2023  

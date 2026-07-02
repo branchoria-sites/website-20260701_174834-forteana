@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /forteana-50bdc8-ufology-vs-forteana/
 description: Focused pages that expand on UF Ology.
-date: '2026-07-01'
+date: '2026'
 layout: default
 parent_basename: forteana_50bdc8_ufology_vs_forteana_e2c263
 parent_title: UF Ology
@@ -16,7 +16,7 @@ parent_permalink: /uf-ology/
 
 # Explore Topics in UF Ology
 
-The following pages expand on the main **[UF Ology]({{ '/uf-ology/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[UF Ology]({{ '/uf-ology/' | relative_url }})** page and cover its key branches in.
 
 - [AARO Cases]({{ '/aaro-cases/' | relative_url }})
 - [Blue Book]({{ '/blue-book/' | relative_url }})

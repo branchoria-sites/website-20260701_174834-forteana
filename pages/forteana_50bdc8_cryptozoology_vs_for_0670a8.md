@@ -447,7 +447,7 @@ image: /assets/images/forteana_50bdc8_cryptozoology_vs_for_0670a8-overview-socia
 
 ## Introduction
 
-Cryptozoology is not the same as [Forteana]({{ 'forteana/' | relative_url }}), although the two often meet at the water’s edge, in the forest, or in a witness report about an animal that should not be there. Cryptozoology narrows the question to hidden, disputed, extinct, or out-of-place animals: could this creature exist as a real population, specimen, or misidentified known species? Forteana treats the same report as part of a wider anomaly culture, where the point is not only whether an animal exists, but how strange reports travel through [newspapers]({{ 'newspapers/' | relative_url }}), folklore, science, scepticism, tourism, hoaxing, and local memory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/forteana/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">Psi Encyclopedia Forteana</span><span class="citation-popover-snippet">Psi EncyclopediaForteana - Psi Encyclopedia - Society for Psychical Research23 Nov 2014 — The category, inspired by writer and researcher...</span></span></span>
+Cryptozoology is not the same as [Forteana]({{ 'forteana/' | relative_url }}), although the two often meet at the water’s edge, in the forest, or in a witness report about an animal that should not be there. Cryptozoology narrows the question to hidden, disputed, extinct, or out-of-place animals: could this creature exist as a real population, specimen, or misidentified known species? Forteana treats the same report as part of a wider anomaly culture, where the point is not only whether an animal exists, but how strange reports travel through [newspapers]({{ 'newspapers/' | relative_url }}), folklore, science, scepticism, tourism, hoaxing, and local memory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/forteana/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">Psi Encyclopedia Forteana</span><span class="citation-popover-snippet">Psi EncyclopediaForteana - Psi Encyclopedia - Society for Psychical Research23 Nov 2014 — The category, inspired by writer and researcher...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_cryptozoology_vs_for_0670a8-overview.webp" | relative_url }}" alt="Overview image for Crypto vs Forteana" loading="eager" decoding="sync" fetchpriority="high">
@@ -457,9 +457,9 @@ That difference matters because animal claims behave differently from many other
 
 The overlap is easiest to see in famous creature cases: [Bigfoot]({{ 'bigfoot/' | relative_url }}), the [Loch Ness]({{ 'loch-ness/' | relative_url }}) Monster, sea serpents, mystery cats, the yeti, surviving thylacines, and reports of animals outside their known range. These subjects appear naturally in Fortean collections because they are strange, persistent, witness-heavy, and culturally productive. They also belong to cryptozoology because they present an animal-shaped claim: not merely “something odd happened”, but “a creature may be there”.
 
-The Society for Psychical Research’s Psi Encyclopedia describes Forteana as a broad category inspired by [Charles Fort]({{ 'charles-fort/' | relative_url }}), ranging from strange falls and [cryptids]({{ 'cryptids/' | relative_url }}) to UFOs, miracles and balls of light. That breadth is precisely why cryptozoology can sit inside Forteana without being identical to it. A cryptid report is one kind of anomaly among many; Forteana is the room, not the animal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/forteana/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">Psi Encyclopedia Forteana</span><span class="citation-popover-snippet">Psi EncyclopediaForteana - Psi Encyclopedia - Society for Psychical Research23 Nov 2014 — The category, inspired by writer and researcher...</span></span></span>
+The Society for Psychical Research’s Psi Encyclopedia describes Forteana as a broad category inspired by [Charles Fort]({{ 'charles-fort/' | relative_url }}), ranging from strange falls and [cryptids]({{ 'cryptids/' | relative_url }}) to UFOs, miracles and balls of light. That breadth is precisely why cryptozoology can sit inside Forteana without being identical to it. A cryptid report is one kind of anomaly among many; Forteana is the room, not the animal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psi-encyclopedia.spr.ac.uk/articles/forteana/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">Psi Encyclopedia Forteana</span><span class="citation-popover-snippet">Psi EncyclopediaForteana - Psi Encyclopedia - Society for Psychical Research23 Nov 2014 — The category, inspired by writer and researcher...</span></span></span>
 
-Cryptozoology’s narrower identity developed around “hidden animals”. UCL’s Museums and Collections blog gives the plain working definition: cryptozoology is the study of hidden animals or “cryptids”, including animals unknown to science, supposedly extinct animals such as the thylacine, and animals beyond their normal range, such as big cats reported in parts of Britain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.ucl.ac.uk/museums/2011/11/17/why-i-like-cryptozoologists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.ucl.ac.uk">[blogs.ucl.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.ucl.ac.uk</span><span class="citation-popover-snippet">Why I like cryptozoologists – an UnConventional view17 Nov 2011 — Cryptozoology, for those who don&#x27;t know, is the study of hidden animals...</span></span></span> The Centre for Fortean Zoology, a British organisation whose name deliberately blends the traditions, describes itself as dedicated to cryptozoology: the study of unknown animals and allied disciplines. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cfz.org.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cfz.org.uk">[The Centre for Fortean Zoology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cfz.org.uk</span><span class="citation-popover-snippet">The Centre for Fortean ZoologyThe Centre for Fortean ZoologyThe Centre for Fortean Zoology (CFZ) is a professional and scientific organis...</span></span></span>
+Cryptozoology’s narrower identity developed around “hidden animals”. UCL’s Museums and Collections blog gives the plain working definition: cryptozoology is the study of hidden animals or “cryptids”, including animals unknown to science, supposedly extinct animals such as the thylacine, and animals beyond their normal range, such as big cats reported in parts of Britain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.ucl.ac.uk/museums/2011/11/17/why-i-like-cryptozoologists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.ucl.ac.uk">[blogs.ucl.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.ucl.ac.uk</span><span class="citation-popover-snippet">Why I like cryptozoologists – an UnConventional view17 Nov 2011 — Cryptozoology, for those who don&#x27;t know, is the study of hidden animals...</span></span></span> The Centre for Fortean Zoology, a British organisation whose name deliberately blends the traditions, describes itself as dedicated to cryptozoology: the study of unknown animals and allied disciplines.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cfz.org.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cfz.org.uk">[The Centre for Fortean Zoology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cfz.org.uk</span><span class="citation-popover-snippet">The Centre for Fortean ZoologyThe Centre for Fortean ZoologyThe Centre for Fortean Zoology (CFZ) is a professional and scientific organis...</span></span></span>
 
 The shared territory is therefore not a fixed list of monsters, but a style of attention. A Fortean reader asks why a creature report resists neat dismissal. A cryptozoological reader asks whether the report could point to a real animal: a new species, a remnant population, an escaped exotic, a known species in an unexpected place, or a misread encounter with ordinary wildlife.
 
@@ -469,11 +469,11 @@ The shared territory is therefore not a fixed list of monsters, but a style of a
 
 Creature reports have a built-in biological test that many Fortean subjects do not. If a large animal exists, it must eat, move, leave traces, reproduce if it is a population, and occupy a habitat that can sustain it. That does not mean the animal will be easy to find. Deep oceans, dense forests, caves, mountain ranges, war zones, and politically difficult field sites can hide animals from formal science for a long time. But the claim remains tied to physical evidence.
 
-This is where cryptozoology is both stronger and weaker than general Forteana. It is stronger because some animal mysteries can be resolved by ordinary natural history. The coelacanth is the classic example: coelacanths were thought to have vanished tens of millions of years ago until a living specimen was found in 1938, a discovery now treated as a landmark in zoology rather than as an eternal anomaly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nhm.ac.uk/discover/coelacanths-the-fish-that-outdid-the-loch-ness-monster.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhm.ac.uk">[Natural History Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhm.ac.uk</span><span class="citation-popover-title">Discover the story of this strange fish</span><span class="citation-popover-snippet">Natural History MuseumCoelacanths: The fish that &#x27;outdid&#x27; the Loch Ness MonsterCoelacanths were thought to have been extinct for 70 milli...</span></span></span> The giant squid offers another example of an elusive animal moving from sea-monster reputation into documented biology; the Smithsonian notes that the first photograph of a live giant squid in its natural habitat was taken in 2004 by Japanese researchers using a baited camera system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ocean.si.edu/ocean-life/invertebrates/giant-squid-baited-camera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ocean.si.edu">[Smithsonian Ocean]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ocean.si.edu</span><span class="citation-popover-snippet">Open source on si.edu.</span></span></span>
+This is where cryptozoology is both stronger and weaker than general Forteana. It is stronger because some animal mysteries can be resolved by ordinary natural history. The coelacanth is the classic example: coelacanths were thought to have vanished tens of millions of years ago until a living specimen was found in 1938, a discovery now treated as a landmark in zoology rather than as an eternal anomaly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nhm.ac.uk/discover/coelacanths-the-fish-that-outdid-the-loch-ness-monster.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhm.ac.uk">[Natural History Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhm.ac.uk</span><span class="citation-popover-title">Discover the story of this strange fish</span><span class="citation-popover-snippet">Natural History MuseumCoelacanths: The fish that &#x27;outdid&#x27; the Loch Ness MonsterCoelacanths were thought to have been extinct for 70 milli...</span></span></span> The giant squid offers another example of an elusive animal moving from sea-monster reputation into documented biology; the Smithsonian notes that the first photograph of a live giant squid in its natural habitat was taken in 2004 by Japanese researchers using a baited camera system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ocean.si.edu/ocean-life/invertebrates/giant-squid-baited-camera" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ocean.si.edu">[Smithsonian Ocean]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ocean.si.edu</span><span class="citation-popover-snippet">Open source on si.edu.</span></span></span>
 
 It is weaker because the evidence bar rises sharply once a claim becomes biological. A fleeting silhouette, a local name, or a sincere witness can keep a Fortean story alive, but it cannot by itself establish a breeding animal population. A hidden animal needs stronger forms of support: a body, diagnostic tissue, clear photographs or video with scale and location, repeatable environmental DNA, reliable tracks, droppings, hairs, feeding signs, or a pattern of independent observations that fits ecology rather than legend.
 
-The Loch Ness Monster shows the distinction clearly. As Forteana, Nessie is a durable cultural anomaly: a mixture of eyewitness testimony, local economy, photographic controversy, landscape, humour, hope, and myth. As cryptozoology, it becomes a testable claim about what large animals could live in Loch Ness. A 2019 environmental DNA project led by Professor Neil Gemmell collected water samples from the loch and cast doubt on the existence of a large unknown reptile or monster, while leaving eel-based explanations more plausible than plesiosaur-style claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.otago.ac.nz/news/newsroom/otago-scientist-reveals-loch-ness-monster-could-be-a-giant-eel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otago.ac.nz">[University of Otago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otago.ac.nz</span><span class="citation-popover-title">otago scientist reveals loch ness monster could be a giant eel</span><span class="citation-popover-snippet">otago scientist reveals loch ness monster could be a giant eel</span></span></span>
+The Loch Ness Monster shows the distinction clearly. As Forteana, Nessie is a durable cultural anomaly: a mixture of eyewitness testimony, local economy, photographic controversy, landscape, humour, hope, and myth. As cryptozoology, it becomes a testable claim about what large animals could live in Loch Ness. A 2019 environmental DNA project led by Professor Neil Gemmell collected water samples from the loch and cast doubt on the existence of a large unknown reptile or monster, while leaving eel-based explanations more plausible than plesiosaur-style claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.otago.ac.nz/news/newsroom/otago-scientist-reveals-loch-ness-monster-could-be-a-giant-eel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otago.ac.nz">[University of Otago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otago.ac.nz</span><span class="citation-popover-title">otago scientist reveals loch ness monster could be a giant eel</span><span class="citation-popover-snippet">otago scientist reveals loch ness monster could be a giant eel</span></span></span>
 
 The Fortean version can survive the DNA result as a study of belief, [misidentification]({{ 'mistakes/' | relative_url }}), local tradition and media life. The cryptozoological version has to absorb the biological constraint: if no convincing DNA, body, breeding evidence or ecological pathway appears, the animal claim becomes harder to sustain.
 
@@ -498,9 +498,9 @@ A useful way to separate folklore from emerging natural history is to ask what c
 
 </div>
 
-British “big cat” reports illustrate the middle ground. As Forteana, they are part of a national folklore of phantom panthers and beasts on the moor. As cryptozoology, they split into more precise questions: have non-native cats ever lived loose in Britain, and is there evidence for a self-sustaining population? The University of Southampton reported that a Canadian lynx specimen rediscovered in Bristol Museum’s stores supported the claim that a non-native big cat had prowled the British countryside in the early twentieth century. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.southampton.ac.uk/news/2013/04/exotic-big-cat.page" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: southampton.ac.uk">[University of Southampton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">southampton.ac.uk</span><span class="citation-popover-title">exotic big cat.page</span><span class="citation-popover-snippet">exotic big cat.page</span></span></span> That kind of evidence confirms that some out-of-place animal stories can be real without proving every modern sighting or a hidden breeding population.
+British “big cat” reports illustrate the middle ground. As Forteana, they are part of a national folklore of phantom panthers and beasts on the moor. As cryptozoology, they split into more precise questions: have non-native cats ever lived loose in Britain, and is there evidence for a self-sustaining population? The University of Southampton reported that a Canadian lynx specimen rediscovered in Bristol Museum’s stores supported the claim that a non-native big cat had prowled the British countryside in the early twentieth century.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.southampton.ac.uk/news/2013/04/exotic-big-cat.page" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: southampton.ac.uk">[University of Southampton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">southampton.ac.uk</span><span class="citation-popover-title">exotic big cat.page</span><span class="citation-popover-snippet">exotic big cat.page</span></span></span> That kind of evidence confirms that some out-of-place animal stories can be real without proving every modern sighting or a hidden breeding population.
 
-The thylacine, or Tasmanian tiger, shows a different tension. Tasmania’s government notes that no conclusive evidence has been found since 1936, although reported sightings have continued, often at night and in areas of suitable habitat. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nre.tas.gov.au/wildlife-management/fauna-of-tasmania/mammals/carnivorous-marsupials-and-bandicoots/tasmanian-tiger" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nre.tas.gov.au">[nre.tas.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nre.tas.gov.au</span><span class="citation-popover-title">tasmanian tiger</span><span class="citation-popover-snippet">tasmanian tiger</span></span></span> For Forteana, those sightings keep a lost animal present in public imagination. For cryptozoology, the issue is narrower and harsher: after decades, where are the bodies, roadkill, camera-trap images, fresh DNA, scats, dens or unambiguous traces?
+The thylacine, or Tasmanian tiger, shows a different tension. Tasmania’s government notes that no conclusive evidence has been found since 1936, although reported sightings have continued, often at night and in areas of suitable habitat.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nre.tas.gov.au/wildlife-management/fauna-of-tasmania/mammals/carnivorous-marsupials-and-bandicoots/tasmanian-tiger" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nre.tas.gov.au">[nre.tas.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nre.tas.gov.au</span><span class="citation-popover-title">tasmanian tiger</span><span class="citation-popover-snippet">tasmanian tiger</span></span></span> For Forteana, those sightings keep a lost animal present in public imagination. For cryptozoology, the issue is narrower and harsher: after decades, where are the bodies, roadkill, camera-trap images, fresh DNA, scats, dens or unambiguous traces?
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_cryptozoology_vs_for_0670a8-Illustration-2-dark.svg" | relative_url }}" alt="Crypto vs Forteana illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_cryptozoology_vs_for_0670a8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_cryptozoology_vs_for_0670a8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -533,7 +533,7 @@ The best approach is neither automatic belief nor automatic ridicule. A creature
 
 The first mistake is to treat every folklore creature as a failed zoological hypothesis. Some stories were never meant to be species descriptions. They may encode danger, taboo, landscape memory, humour, spiritual belief, or cautionary knowledge about real animals without mapping neatly onto taxonomy.
 
-The second mistake is to treat every strange animal report as “just folklore”. That can erase local ecological knowledge and the real history of animals that were formally recognised only after outsiders obtained specimens or reliable documentation. The lesson of the coelacanth and giant squid is not that monsters are usually real; it is that evidence quality, habitat, and patient investigation matter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nhm.ac.uk/discover/coelacanths-the-fish-that-outdid-the-loch-ness-monster.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhm.ac.uk">[Natural History Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhm.ac.uk</span><span class="citation-popover-title">Discover the story of this strange fish</span><span class="citation-popover-snippet">Natural History MuseumCoelacanths: The fish that &#x27;outdid&#x27; the Loch Ness MonsterCoelacanths were thought to have been extinct for 70 milli...</span></span></span>
+The second mistake is to treat every strange animal report as “just folklore”. That can erase local ecological knowledge and the real history of animals that were formally recognised only after outsiders obtained specimens or reliable documentation. The lesson of the coelacanth and giant squid is not that monsters are usually real; it is that evidence quality, habitat, and patient investigation matter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nhm.ac.uk/discover/coelacanths-the-fish-that-outdid-the-loch-ness-monster.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhm.ac.uk">[Natural History Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhm.ac.uk</span><span class="citation-popover-title">Discover the story of this strange fish</span><span class="citation-popover-snippet">Natural History MuseumCoelacanths: The fish that &#x27;outdid&#x27; the Loch Ness MonsterCoelacanths were thought to have been extinct for 70 milli...</span></span></span>
 
 A fair reading asks:
 
@@ -563,194 +563,194 @@ That is why the phrase “Cryptozoology Versus Forteana” should not be read as
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Is Cryptozoology the Same as Forteana?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Is Cryptozoology the Same as Forteana?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Explores why remarkable stories and beliefs persist across generations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Explores why remarkable stories and beliefs persist across generations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunting Monsters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10220347-M.jpg" alt="Cover for Hunting Monsters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunting Monsters">Hunting Monsters</a>
-        </h4>
-        <p class="fr-book-author">By Darren Naish</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunting Monsters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10220347-M.jpg" alt="Cover for Hunting Monsters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunting Monsters">Hunting Monsters</a>
+</h4>
+<p class="fr-book-author">By Darren Naish</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Monsters, Zoology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Monsters, Zoology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+world+of+Lore+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The world of Lore on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14362649-M.jpg" alt="Cover for The world of Lore" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+world+of+Lore+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world of Lore">The world of Lore</a>
-        </h4>
-        <p class="fr-book-author">By Aaron Mahnke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+world+of+Lore+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The world of Lore on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14362649-M.jpg" alt="Cover for The world of Lore" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+world+of+Lore+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world of Lore">The world of Lore</a>
+</h4>
+<p class="fr-book-author">By Aaron Mahnke</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Ghosts, Haunted places.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+world+of+Lore+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Ghosts, Haunted places.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+world+of+Lore+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mysteries of the Unexplained on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysteries of the Unexplained">Mysteries of the Unexplained</a>
-        </h4>
-        <p class="fr-book-author">By Reader&#x27;s Digest Association</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mysteries of the Unexplained on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysteries of the Unexplained">Mysteries of the Unexplained</a>
+</h4>
+<p class="fr-book-author">By Reader&#x27;s Digest Association</p>
         
-        <p class="fr-book-desc">First published 1985.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1985.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunting+Monsters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunting Monsters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+world+of+Lore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The world of Lore</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunting+Monsters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunting Monsters</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+world+of+Lore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The world of Lore</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Charles Wesley Godwin Fort Worth Texas September 20 2025 Poster"><img src="{{ '/assets/images/marketplace-covers/c6b57ec8abcffcb0235d.jpg' | relative_url }}" alt="Listing image for Charles Wesley Godwin Fort Worth Texas September 20 2025 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer">Charles Wesley Godwin Fort Worth Texas September 20 2025 Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Charles Fort poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Charles Fort poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Charles Wesley Godwin Fort Worth Texas September 20 2025 Poster"><img src="{{ '/assets/images/marketplace-covers/c6b57ec8abcffcb0235d.jpg' | relative_url }}" alt="Listing image for Charles Wesley Godwin Fort Worth Texas September 20 2025 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer">Charles Wesley Godwin Fort Worth Texas September 20 2025 Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Charles Fort poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Charles Fort poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Charles Wesley Godwin Fort Worth Texas September 20 2025 Poster"><img src="{{ '/assets/images/marketplace-covers/56569d7478de65de310d.jpg' | relative_url }}" alt="Listing image for Charles Wesley Godwin Fort Worth Texas September 20 2025 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer">Charles Wesley Godwin Fort Worth Texas September 20 2025 Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Charles Fort poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Charles Fort poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Charles Wesley Godwin Fort Worth Texas September 20 2025 Poster"><img src="{{ '/assets/images/marketplace-covers/56569d7478de65de310d.jpg' | relative_url }}" alt="Listing image for Charles Wesley Godwin Fort Worth Texas September 20 2025 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer">Charles Wesley Godwin Fort Worth Texas September 20 2025 Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Charles Fort poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Charles Fort poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fort Savage Raiders 1950 Original Columbia Western Movie Poster Charles Starrett"><img src="{{ '/assets/images/marketplace-covers/1c3213463c0985445320.jpg' | relative_url }}" alt="Listing image for Fort Savage Raiders 1950 Original Columbia Western Movie Poster Charles Starrett" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer">Fort Savage Raiders 1950 Original Columbia Western Movie Poster Charles Starrett</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Charles Fort poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Charles Fort poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fort Savage Raiders 1950 Original Columbia Western Movie Poster Charles Starrett"><img src="{{ '/assets/images/marketplace-covers/1c3213463c0985445320.jpg' | relative_url }}" alt="Listing image for Fort Savage Raiders 1950 Original Columbia Western Movie Poster Charles Starrett" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer">Fort Savage Raiders 1950 Original Columbia Western Movie Poster Charles Starrett</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Charles Fort poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Charles Fort poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cinema Poster The Solitary Of Fort Humboldt Charles Bronson - 120 X 160 CM"><img src="{{ '/assets/images/marketplace-covers/18f7cc68af86c73b2f99.jpg' | relative_url }}" alt="Listing image for Cinema Poster The Solitary Of Fort Humboldt Charles Bronson - 120 X 160 CM" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer">Cinema Poster The Solitary Of Fort Humboldt Charles Bronson - 120 X 160 CM</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Charles Fort poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Charles Fort poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cinema Poster The Solitary Of Fort Humboldt Charles Bronson - 120 X 160 CM"><img src="{{ '/assets/images/marketplace-covers/18f7cc68af86c73b2f99.jpg' | relative_url }}" alt="Listing image for Cinema Poster The Solitary Of Fort Humboldt Charles Bronson - 120 X 160 CM" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer">Cinema Poster The Solitary Of Fort Humboldt Charles Bronson - 120 X 160 CM</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Charles Fort poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Charles Fort poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Charles+Fort+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Charles Fort poster" data-ebay-reference="crypto-vs-forteana-is-cryptozoology-the-same-as-forteana-forteana-charles-fort-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -766,7 +766,7 @@ That is why the phrase “Cryptozoology Versus Forteana” should not be read as
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -786,7 +786,7 @@ That is why the phrase “Cryptozoology Versus Forteana” should not be read as
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -818,7 +818,7 @@ That is why the phrase “Cryptozoology Versus Forteana” should not be read as
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -870,7 +870,7 @@ That is why the phrase “Cryptozoology Versus Forteana” should not be read as
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -915,7 +915,7 @@ That is why the phrase “Cryptozoology Versus Forteana” should not be read as
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -956,166 +956,166 @@ That is why the phrase “Cryptozoology Versus Forteana” should not be read as
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: blogs.ucl.ac.uk  
-   Link: <a href="https://blogs.ucl.ac.uk/museums/2011/11/17/why-i-like-cryptozoologists/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.ucl.ac.uk/museums/2011/11/17/why-i-like-cryptozoologists/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why I like cryptozoologists – an UnConventional view17 Nov 2011 — Cryptozoology, for those who don&#x27;t know, is the study of hidden animals...</p></details>
+   Link:<a href="https://blogs.ucl.ac.uk/museums/2011/11/17/why-i-like-cryptozoologists/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.ucl.ac.uk/museums/2011/11/17/why-i-like-cryptozoologists/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why I like cryptozoologists – an UnConventional view17 Nov 2011 — Cryptozoology, for those who don&#x27;t know, is the study of hidden animals...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nre.tas.gov.au  
    Title: tasmanian tiger  
-   Link: <a href="https://nre.tas.gov.au/wildlife-management/fauna-of-tasmania/mammals/carnivorous-marsupials-and-bandicoots/tasmanian-tiger" target="_blank" rel="noopener noreferrer nofollow">https://nre.tas.gov.au/wildlife-management/fauna-of-tasmania/mammals/carnivorous-marsupials-and-bandicoots/tasmanian-tiger</a>  
+   Link:<a href="https://nre.tas.gov.au/wildlife-management/fauna-of-tasmania/mammals/carnivorous-marsupials-and-bandicoots/tasmanian-tiger" target="_blank" rel="noopener noreferrer nofollow">https://nre.tas.gov.au/wildlife-management/fauna-of-tasmania/mammals/carnivorous-marsupials-and-bandicoots/tasmanian-tiger</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: forums.forteana.org  
-   Link: <a href="https://forums.forteana.org/index.php?threads%2Fthe-difference-between-fortean-zoology-cryptozoology.1467%2F=" target="_blank" rel="noopener noreferrer nofollow">https://forums.forteana.org/index.php?threads%2Fthe-difference-between-fortean-zoology-cryptozoology.1467%2F=</a>  
+   Link:<a href="https://forums.forteana.org/index.php?threads%2Fthe-difference-between-fortean-zoology-cryptozoology.1467%2F=" target="_blank" rel="noopener noreferrer nofollow">https://forums.forteana.org/index.php?threads%2Fthe-difference-between-fortean-zoology-cryptozoology.1467%2F=</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: forums.forteana.org  
-   Link: <a href="https://forums.forteana.org/index.php?threads%2Fbest-cryptid-biographies.71355%2F=" target="_blank" rel="noopener noreferrer nofollow">https://forums.forteana.org/index.php?threads%2Fbest-cryptid-biographies.71355%2F=</a>  
+   Link:<a href="https://forums.forteana.org/index.php?threads%2Fbest-cryptid-biographies.71355%2F=" target="_blank" rel="noopener noreferrer nofollow">https://forums.forteana.org/index.php?threads%2Fbest-cryptid-biographies.71355%2F=</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nma.gov.au  
    Title: extinction of thylacine  
-   Link: <a href="https://www.nma.gov.au/defining-moments/resources/extinction-of-thylacine" target="_blank" rel="noopener noreferrer nofollow">https://www.nma.gov.au/defining-moments/resources/extinction-of-thylacine</a>  
+   Link:<a href="https://www.nma.gov.au/defining-moments/resources/extinction-of-thylacine" target="_blank" rel="noopener noreferrer nofollow">https://www.nma.gov.au/defining-moments/resources/extinction-of-thylacine</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: psi-encyclopedia.spr.ac.uk  
    Title: Psi Encyclopedia Forteana  
-   Link: <a href="https://psi-encyclopedia.spr.ac.uk/articles/forteana/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/articles/forteana/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Psi EncyclopediaForteana - Psi Encyclopedia - Society for Psychical Research23 Nov 2014 — The category, inspired by writer and researcher...</p></details>
+   Link:<a href="https://psi-encyclopedia.spr.ac.uk/articles/forteana/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/articles/forteana/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psi EncyclopediaForteana - Psi Encyclopedia - Society for Psychical Research23 Nov 2014 — The category, inspired by writer and researcher...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cfz.org.uk  
-   Link: <a href="https://cfz.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://cfz.org.uk/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Centre for Fortean ZoologyThe Centre for Fortean ZoologyThe Centre for Fortean Zoology (CFZ) is a professional and scientific organis...</p></details>
+   Link:<a href="https://cfz.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://cfz.org.uk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Centre for Fortean ZoologyThe Centre for Fortean ZoologyThe Centre for Fortean Zoology (CFZ) is a professional and scientific organis...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nhm.ac.uk  
    Title: Discover the story of this strange fish  
-   Link: <a href="https://www.nhm.ac.uk/discover/coelacanths-the-fish-that-outdid-the-loch-ness-monster.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nhm.ac.uk/discover/coelacanths-the-fish-that-outdid-the-loch-ness-monster.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Natural History MuseumCoelacanths: The fish that &#x27;outdid&#x27; the Loch Ness MonsterCoelacanths were thought to have been extinct for 70 milli...</p></details>
+   Link:<a href="https://www.nhm.ac.uk/discover/coelacanths-the-fish-that-outdid-the-loch-ness-monster.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nhm.ac.uk/discover/coelacanths-the-fish-that-outdid-the-loch-ness-monster.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Natural History MuseumCoelacanths: The fish that &#x27;outdid&#x27; the Loch Ness MonsterCoelacanths were thought to have been extinct for 70 milli...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ocean.si.edu  
-   Link: <a href="https://ocean.si.edu/ocean-life/fish/coelacanth" target="_blank" rel="noopener noreferrer nofollow">https://ocean.si.edu/ocean-life/fish/coelacanth</a>  
+   Link:<a href="https://ocean.si.edu/ocean-life/fish/coelacanth" target="_blank" rel="noopener noreferrer nofollow">https://ocean.si.edu/ocean-life/fish/coelacanth</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ocean.si.edu  
-   Link: <a href="https://ocean.si.edu/ocean-life/invertebrates/giant-squid-baited-camera" target="_blank" rel="noopener noreferrer nofollow">https://ocean.si.edu/ocean-life/invertebrates/giant-squid-baited-camera</a>  
+   Link:<a href="https://ocean.si.edu/ocean-life/invertebrates/giant-squid-baited-camera" target="_blank" rel="noopener noreferrer nofollow">https://ocean.si.edu/ocean-life/invertebrates/giant-squid-baited-camera</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: otago.ac.nz  
    Title: otago scientist reveals loch ness monster could be a giant eel  
-   Link: <a href="https://www.otago.ac.nz/news/newsroom/otago-scientist-reveals-loch-ness-monster-could-be-a-giant-eel" target="_blank" rel="noopener noreferrer nofollow">https://www.otago.ac.nz/news/newsroom/otago-scientist-reveals-loch-ness-monster-could-be-a-giant-eel</a>  
+   Link:<a href="https://www.otago.ac.nz/news/newsroom/otago-scientist-reveals-loch-ness-monster-could-be-a-giant-eel" target="_blank" rel="noopener noreferrer nofollow">https://www.otago.ac.nz/news/newsroom/otago-scientist-reveals-loch-ness-monster-could-be-a-giant-eel</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: southampton.ac.uk  
    Title: exotic big cat.page  
-   Link: <a href="https://www.southampton.ac.uk/news/2013/04/exotic-big-cat.page" target="_blank" rel="noopener noreferrer nofollow">https://www.southampton.ac.uk/news/2013/04/exotic-big-cat.page</a>  
+   Link:<a href="https://www.southampton.ac.uk/news/2013/04/exotic-big-cat.page" target="_blank" rel="noopener noreferrer nofollow">https://www.southampton.ac.uk/news/2013/04/exotic-big-cat.page</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: scholarworks.iu.edu  
-   Link: <a href="https://scholarworks.iu.edu/journals/index.php/cl/article/view/41746/44352" target="_blank" rel="noopener noreferrer nofollow">https://scholarworks.iu.edu/journals/index.php/cl/article/view/41746/44352</a>  
+   Link:<a href="https://scholarworks.iu.edu/journals/index.php/cl/article/view/41746/44352" target="_blank" rel="noopener noreferrer nofollow">https://scholarworks.iu.edu/journals/index.php/cl/article/view/41746/44352</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Cryptozoology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cryptozoology</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cryptozoology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cryptozoology</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Charles Fort  
-   Link: <a href="https://en.wikipedia.org/wiki/Charles_Fort" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Charles_Fort</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Charles_Fort" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Charles_Fort</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: lovecraft.fandom.com  
    Title: Charles Fort  
-   Link: <a href="https://lovecraft.fandom.com/wiki/Charles_Fort" target="_blank" rel="noopener noreferrer nofollow">https://lovecraft.fandom.com/wiki/Charles_Fort</a>  
+   Link:<a href="https://lovecraft.fandom.com/wiki/Charles_Fort" target="_blank" rel="noopener noreferrer nofollow">https://lovecraft.fandom.com/wiki/Charles_Fort</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cryptidarchives.fandom.com  
-   Link: <a href="https://cryptidarchives.fandom.com/wiki/Cryptozoology" target="_blank" rel="noopener noreferrer nofollow">https://cryptidarchives.fandom.com/wiki/Cryptozoology</a>  
+   Link:<a href="https://cryptidarchives.fandom.com/wiki/Cryptozoology" target="_blank" rel="noopener noreferrer nofollow">https://cryptidarchives.fandom.com/wiki/Cryptozoology</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ditsong.org.za  
    Title: the coelacanth  
-   Link: <a href="https://ditsong.org.za/en/the-coelacanth/" target="_blank" rel="noopener noreferrer nofollow">https://ditsong.org.za/en/the-coelacanth/</a>  
+   Link:<a href="https://ditsong.org.za/en/the-coelacanth/" target="_blank" rel="noopener noreferrer nofollow">https://ditsong.org.za/en/the-coelacanth/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: blather.net  
    Title: The Centre for Fortean Zoology: Jon Downes Interview  
-   Link: <a href="https://www.blather.net/theblather/2003/12/the_centre_for_fortean_zoology/" target="_blank" rel="noopener noreferrer nofollow">https://www.blather.net/theblather/2003/12/the_centre_for_fortean_zoology/</a>  
+   Link:<a href="https://www.blather.net/theblather/2003/12/the_centre_for_fortean_zoology/" target="_blank" rel="noopener noreferrer nofollow">https://www.blather.net/theblather/2003/12/the_centre_for_fortean_zoology/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: books.google.com  
-   Link: <a href="https://books.google.com/books/about/Cryptozoology.html?id=iWAbAQAAIAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Cryptozoology.html?id=iWAbAQAAIAAJ</a>  
+   Link:<a href="https://books.google.com/books/about/Cryptozoology.html?id=iWAbAQAAIAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Cryptozoology.html?id=iWAbAQAAIAAJ</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nhm.ac.uk  
-   Link: <a href="https://www.nhm.ac.uk/discover/a-world-of-wild-cats.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nhm.ac.uk/discover/a-world-of-wild-cats.html</a>  
+   Link:<a href="https://www.nhm.ac.uk/discover/a-world-of-wild-cats.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nhm.ac.uk/discover/a-world-of-wild-cats.html</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: journal.lib.uoguelph.ca  
-   Link: <a href="https://journal.lib.uoguelph.ca/index.php/surg/article/view/1341/2293" target="_blank" rel="noopener noreferrer nofollow">https://journal.lib.uoguelph.ca/index.php/surg/article/view/1341/2293</a>  
+   Link:<a href="https://journal.lib.uoguelph.ca/index.php/surg/article/view/1341/2293" target="_blank" rel="noopener noreferrer nofollow">https://journal.lib.uoguelph.ca/index.php/surg/article/view/1341/2293</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: discovertasmania.com.au  
-   Link: <a href="https://www.discovertasmania.com.au/experiences/stories/tasmanian-tiger/" target="_blank" rel="noopener noreferrer nofollow">https://www.discovertasmania.com.au/experiences/stories/tasmanian-tiger/</a>  
+   Link:<a href="https://www.discovertasmania.com.au/experiences/stories/tasmanian-tiger/" target="_blank" rel="noopener noreferrer nofollow">https://www.discovertasmania.com.au/experiences/stories/tasmanian-tiger/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: cejsh.icm.edu.pl  
-   Link: <a href="https://cejsh.icm.edu.pl/cejsh/element/bwmeta1.element.hdl_11089_21964/c/4.2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cejsh.icm.edu.pl/cejsh/element/bwmeta1.element.hdl_11089_21964/c/4.2.pdf</a>  
+   Link:<a href="https://cejsh.icm.edu.pl/cejsh/element/bwmeta1.element.hdl_11089_21964/c/4.2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cejsh.icm.edu.pl/cejsh/element/bwmeta1.element.hdl_11089_21964/c/4.2.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: biologyonline.com  
-   Link: <a href="https://www.biologyonline.com/articles/cryptozoology-evidence-creatures" target="_blank" rel="noopener noreferrer nofollow">https://www.biologyonline.com/articles/cryptozoology-evidence-creatures</a>  
+   Link:<a href="https://www.biologyonline.com/articles/cryptozoology-evidence-creatures" target="_blank" rel="noopener noreferrer nofollow">https://www.biologyonline.com/articles/cryptozoology-evidence-creatures</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/science/cryptozoology" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/science/cryptozoology</a>  
+   Link:<a href="https://www.ebsco.com/research-starters/science/cryptozoology" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/science/cryptozoology</a>  
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: A reflection on the Fortean: "We are property" (Charles Fort) | Pure Virtue  
-   Link: <a href="https://www.youtube.com/watch?v=Nr41Kzeu82M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Nr41Kzeu82M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>London Fortean Society: The Birth of the Hoax with Ian Keable...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Nr41Kzeu82M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Nr41Kzeu82M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>London Fortean Society: The Birth of the Hoax with Ian Keable...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: The Cryptid That Turned Out To Be Real  
-   Link: <a href="https://www.youtube.com/watch?v=Qb4zumgj_ZY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Qb4zumgj_ZY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A reflection on the Fortean: &quot;We are property&quot; (Charles Fort) | Pure Virtue...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Qb4zumgj_ZY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Qb4zumgj_ZY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A reflection on the Fortean: &quot;We are property&quot; (Charles Fort) | Pure Virtue...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: roughmaps.com  
-   Link: <a href="https://www.roughmaps.com/lifestyle/10-animals-were-considered-cryptids-being-discovered-10-are-likely-still-out-there" target="_blank" rel="noopener noreferrer nofollow">https://www.roughmaps.com/lifestyle/10-animals-were-considered-cryptids-being-discovered-10-are-likely-still-out-there</a>  
+   Link:<a href="https://www.roughmaps.com/lifestyle/10-animals-were-considered-cryptids-being-discovered-10-are-likely-still-out-there" target="_blank" rel="noopener noreferrer nofollow">https://www.roughmaps.com/lifestyle/10-animals-were-considered-cryptids-being-discovered-10-are-likely-still-out-there</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: sciencenews.org  
-   Link: <a href="https://www.sciencenews.org/article/baited-camera-snaps-first-live-giant-squid" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencenews.org/article/baited-camera-snaps-first-live-giant-squid</a>  
+   Link:<a href="https://www.sciencenews.org/article/baited-camera-snaps-first-live-giant-squid" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencenews.org/article/baited-camera-snaps-first-live-giant-squid</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: triphobo.com  
-   Link: <a href="https://www.triphobo.com/places/woolfardisworthy-england-united-kingdom/centre-for-fortean-zoology" target="_blank" rel="noopener noreferrer nofollow">https://www.triphobo.com/places/woolfardisworthy-england-united-kingdom/centre-for-fortean-zoology</a>  
+   Link:<a href="https://www.triphobo.com/places/woolfardisworthy-england-united-kingdom/centre-for-fortean-zoology" target="_blank" rel="noopener noreferrer nofollow">https://www.triphobo.com/places/woolfardisworthy-england-united-kingdom/centre-for-fortean-zoology</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/505995199549986/posts/579725135510325/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/505995199549986/posts/579725135510325/</a>  
+   Link:<a href="https://www.facebook.com/groups/505995199549986/posts/579725135510325/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/505995199549986/posts/579725135510325/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2744997828852476/posts/5915622445123316/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2744997828852476/posts/5915622445123316/</a>  
+   Link:<a href="https://www.facebook.com/groups/2744997828852476/posts/5915622445123316/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2744997828852476/posts/5915622445123316/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Cryptozoology/comments/1rtqu2n/compilations_of_fortean_times_skeptical_inquirer/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Cryptozoology/comments/1rtqu2n/compilations_of_fortean_times_skeptical_inquirer/</a>  
+   Link:<a href="https://www.reddit.com/r/Cryptozoology/comments/1rtqu2n/compilations_of_fortean_times_skeptical_inquirer/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Cryptozoology/comments/1rtqu2n/compilations_of_fortean_times_skeptical_inquirer/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/31425129128/posts/10166646037759129/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/31425129128/posts/10166646037759129/</a>  
+   Link:<a href="https://www.facebook.com/groups/31425129128/posts/10166646037759129/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/31425129128/posts/10166646037759129/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Cryptozoology/comments/1eelq8f/cryptozoology_definition/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Cryptozoology/comments/1eelq8f/cryptozoology_definition/</a>  
+   Link:<a href="https://www.reddit.com/r/Cryptozoology/comments/1eelq8f/cryptozoology_definition/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Cryptozoology/comments/1eelq8f/cryptozoology_definition/</a>  

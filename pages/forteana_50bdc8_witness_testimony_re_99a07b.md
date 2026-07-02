@@ -445,7 +445,7 @@ Witness testimony is the doorway into most of [Forteana]({{ 'forteana/' | relati
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_witness_testimony_re_99a07b-overview.webp" | relative_url }}" alt="Overview image for Witnesses" loading="eager" decoding="sync" fetchpriority="high">
-That tension is why witness accounts matter so much in strange-event reports. They should not be dismissed merely because they are human reports; many unusual natural and aerial phenomena have first been described by witnesses. But a testimony is not the event itself. It is a reconstruction of the event, filtered through perception, memory and culture. The strongest Fortean reading asks not only “did this happen?” but “what exactly was reported, when, by whom, under what conditions, and how did the story change?” Research on eyewitness memory, stress and misinformation shows why confident testimony can still be wrong, while official UAP and ball-lightning investigations show why carefully collected testimony can still be useful when handled with limits. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4183265/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[hgss.copernicus.org+3PMC+3PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Neuroscience of Memory: Implications for the Courtroomby JW Lacy · 2013 · Cited by 262 — Abducted by a UFO: Prevalence information...</span></span></span>
+That tension is why witness accounts matter so much in strange-event reports. They should not be dismissed merely because they are human reports; many unusual natural and aerial phenomena have first been described by witnesses. But a testimony is not the event itself. It is a reconstruction of the event, filtered through perception, memory and culture. The strongest Fortean reading asks not only “did this happen?” but “what exactly was reported, when, by whom, under what conditions, and how did the story change?” Research on eyewitness memory, stress and misinformation shows why confident testimony can still be wrong, while official UAP and ball-lightning investigations show why carefully collected testimony can still be useful when handled with limits.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4183265/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[hgss.copernicus.org+3PMC+3PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Neuroscience of Memory: Implications for the Courtroomby JW Lacy · 2013 · Cited by 262 — Abducted by a UFO: Prevalence information...</span></span></span>
 
 ## What witnesses actually saw
 
@@ -453,9 +453,9 @@ In Fortean cases, the first witness account is often a description made under po
 
 This is why investigators usually try to separate [observation]({{ 'observation/' | relative_url }}) from inference. “A bright light moved from west to east for ten seconds” is different from “a craft flew silently overhead”. “A dark upright shape crossed the path” is different from “a creature was watching me”. In many strong reports, the useful material is not the dramatic label but the small details: duration, direction, distance, [weather]({{ 'weather/' | relative_url }}), lighting, number of witnesses, whether witnesses spoke to one another before giving accounts, and whether any independent record exists.
 
-UAP work gives a clear example. The French official group [GEIPAN]({{ 'geipan/' | relative_url }}), created within CNES in 1977, collects and analyses reports of unidentified aerospace phenomena and publishes sighting files and conclusions while protecting witness anonymity. Its public mission is not to declare every unexplained sighting extraordinary, but to give a structured response to people’s “lived weirdness” and to improve knowledge about events that remain unexplained after investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">GeipanMission &amp; Geipan &#124; GEIPANSighting reports and investigation conclusions are published on the GEIPAN website (www.geipan.fr) while m...</span></span></span>
+UAP work gives a clear example. The French official group [GEIPAN]({{ 'geipan/' | relative_url }}), created within CNES in 1977, collects and analyses reports of unidentified aerospace phenomena and publishes sighting files and conclusions while protecting witness anonymity. Its public mission is not to declare every unexplained sighting extraordinary, but to give a structured response to people’s “lived weirdness” and to improve knowledge about events that remain unexplained after investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">GeipanMission &amp; Geipan &#124; GEIPANSighting reports and investigation conclusions are published on the GEIPAN website (www.geipan.fr) while m...</span></span></span>
 
-The older US Project Blue Book material shows the same problem in a different institutional setting. The Air Force distinguished between reports that could be identified, reports with too little information, and reports that remained unidentified despite apparently containing enough data to test ordinary explanations. That distinction matters for Forteana: a weak report is not made stronger by remaining mysterious, but a detailed report is not automatically explained away simply because most reports are mundane. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD Business Systems]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESD Business Systems Project Blue Book</span><span class="citation-popover-snippet">ESD Business Systems Project Blue Book</span></span></span>
+The older US Project Blue Book material shows the same problem in a different institutional setting. The Air Force distinguished between reports that could be identified, reports with too little information, and reports that remained unidentified despite apparently containing enough data to test ordinary explanations. That distinction matters for Forteana: a weak report is not made stronger by remaining mysterious, but a detailed report is not automatically explained away simply because most reports are mundane.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD Business Systems]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESD Business Systems Project Blue Book</span><span class="citation-popover-snippet">ESD Business Systems Project Blue Book</span></span></span>
 
 For a reader assessing a strange-event witness, the first question is therefore not “do I believe them?” but “what level of observation is actually being claimed?” A credible person can still misidentify Venus, a satellite train, an owl, a reflection, a dreamlike state or a rumour-enhanced encounter. Equally, an unusual report may deserve attention if it contains early, independent, detailed observations that remain consistent under questioning and fit no obvious known source.
 
@@ -465,13 +465,13 @@ For a reader assessing a strange-event witness, the first question is therefore 
 
 Fortean debates often get stuck on the character of the witness. Was the witness honest? Respectable? Educated? A pilot, police officer, farmer, child, scientist or soldier? These details can matter, but they do not remove the ordinary limits of perception and memory. A witness can be truthful and still mistaken.
 
-Research on eyewitness memory is blunt about this. Memory is not a stored video that can be replayed unchanged. It is reconstructed, and later information can alter what people believe they remember. Reviews of memory science note that false memories can feel vivid and sincere, especially when people repeatedly imagine, discuss or are asked about an event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4183265/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Neuroscience of Memory: Implications for the Courtroomby JW Lacy · 2013 · Cited by 262 — Abducted by a UFO: Prevalence information...</span></span></span>
+Research on eyewitness memory is blunt about this. Memory is not a stored video that can be replayed unchanged. It is reconstructed, and later information can alter what people believe they remember. Reviews of memory science note that false memories can feel vivid and sincere, especially when people repeatedly imagine, discuss or are asked about an event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4183265/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Neuroscience of Memory: Implications for the Courtroomby JW Lacy · 2013 · Cited by 262 — Abducted by a UFO: Prevalence information...</span></span></span>
 
-Stress adds another complication. Strange reports often involve fear, alarm or awe: a figure at the foot of the bed, a looming object, a sudden flash, a threatening sound, a crowd panic. A survey of eyewitness-memory experts found broad agreement that very high levels of stress impair eyewitness accuracy, even though ordinary readers often assume that frightening events are “burned into” memory more reliably. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8024237/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by C Marr · 2020 · Cited by 59 — High proportions of experts from both research fields agreed that very high levels of stress impair t...</span></span></span>
+Stress adds another complication. Strange reports often involve fear, alarm or awe: a figure at the foot of the bed, a looming object, a sudden flash, a threatening sound, a crowd panic. A survey of eyewitness-memory experts found broad agreement that very high levels of stress impair eyewitness accuracy, even though ordinary readers often assume that frightening events are “burned into” memory more reliably.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8024237/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by C Marr · 2020 · Cited by 59 — High proportions of experts from both research fields agreed that very high levels of stress impair t...</span></span></span>
 
 This does not mean every frightened witness is unreliable. It means fear changes what the report can prove. Under stress, people may focus on one salient feature, compress or stretch time, misjudge distance, lose peripheral details, or later fill gaps with the most available explanation. A ten-second sighting can feel much longer; a distant object can seem closer; a confusing shadow can become a figure once the witness has a name for it.
 
-The difference between sincerity and accuracy is especially important in reports of alien abduction, night visitors and bedroom entities. Sleep paralysis can produce vivid experiences of immobility, presence, pressure, fear and sensed intruders. Studies of people reporting alien abduction experiences have examined links with sleep paralysis and memory processes, not as an insult to witnesses but as a way to explain why an experience can feel utterly real while arising from a known human state. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/15881271/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+The difference between sincerity and accuracy is especially important in reports of alien abduction, night visitors and bedroom entities. Sleep paralysis can produce vivid experiences of immobility, presence, pressure, fear and sensed intruders. Studies of people reporting alien abduction experiences have examined links with sleep paralysis and memory processes, not as an insult to witnesses but as a way to explain why an experience can feel utterly real while arising from a known human state.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/15881271/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
 For Forteana, this is not a debunking shortcut. It is a discipline. The fair question is not “are witnesses lying?” but “which parts of the experience are direct perception, which parts are interpretation, and which parts may have formed later?”
 
@@ -482,11 +482,11 @@ For Forteana, this is not a debunking shortcut. It is a discipline. The fair que
 
 A strange-event report rarely remains fixed after the first telling. The witness talks to family, police, journalists, investigators or other witnesses. They read reports of similar cases. They learn the vocabulary of UFOs, hauntings, [cryptids]({{ 'cryptids/' | relative_url }}), curses, monsters or miracles. Over time, the account may become smoother, more dramatic and more culturally recognisable. The uncertainty of the original moment can be replaced by a story that feels clearer than the experience itself.
 
-Memory conformity is one route by which this happens. Experiments show that when people witness an event and then discuss it, one person’s account can influence another person’s memory of what happened. Recent research on online misinformation has also shown that post-event information can distort witness memory, which is directly relevant to modern Fortean cases that spread through social media before investigators can collect independent statements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10829763/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCOnline misinformation can distort witnesses&#x27; memories</span><span class="citation-popover-snippet">PMCOnline misinformation can distort witnesses&#x27; memories</span></span></span>
+Memory conformity is one route by which this happens. Experiments show that when people witness an event and then discuss it, one person’s account can influence another person’s memory of what happened. Recent research on online misinformation has also shown that post-event information can distort witness memory, which is directly relevant to modern Fortean cases that spread through social media before investigators can collect independent statements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10829763/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCOnline misinformation can distort witnesses&#x27; memories</span><span class="citation-popover-snippet">PMCOnline misinformation can distort witnesses&#x27; memories</span></span></span>
 
 This is why timing matters. A testimony given immediately, before news coverage and group discussion, is more valuable than one given after a local panic has formed. Separate witness statements are more useful than a single collective story. A report that preserves uncertainty — “I could not tell how far away it was” — may be more trustworthy than a later version that supplies confident but unsupported measurements.
 
-The London Monster panic of 1790 is a useful historical warning, even though it belongs more to urban fear than to supernatural Forteana. Reports of attacks on women in London, press attention, reward notices and public anxiety helped create “Monster mania”. Historians have noted that the panic led to false accusations, vigilante behaviour and claims that became difficult to separate from rumour, status, fear and publicity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.historytoday.com/archive/feature/monsters-and-moral-panic-18th-and-19th-century-london" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historytoday.com">[History Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historytoday.com</span><span class="citation-popover-title">History Today Monsters and Moral Panic in 18th and 19th Century London</span><span class="citation-popover-snippet">History Today Monsters and Moral Panic in 18th and 19th Century London</span></span></span>
+The London Monster panic of 1790 is a useful historical warning, even though it belongs more to urban fear than to supernatural Forteana. Reports of attacks on women in London, press attention, reward notices and public anxiety helped create “Monster mania”. Historians have noted that the panic led to false accusations, vigilante behaviour and claims that became difficult to separate from rumour, status, fear and publicity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.historytoday.com/archive/feature/monsters-and-moral-panic-18th-and-19th-century-london" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historytoday.com">[History Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historytoday.com</span><span class="citation-popover-title">History Today Monsters and Moral Panic in 18th and 19th Century London</span><span class="citation-popover-snippet">History Today Monsters and Moral Panic in 18th and 19th Century London</span></span></span>
 
 That pattern recurs across strange-event history. A rumoured attacker, phantom animal, haunted road or sky flap can become a social environment in which witnesses are primed to notice ambiguous stimuli and interpret them through the circulating story. Some reports may describe real incidents; others may be mistakes, exaggerations, jokes, copycat claims or accounts shaped by expectation. The Fortean task is to avoid two equal errors: treating the whole wave as fantasy, or treating every report in the wave as independent confirmation.
 
@@ -512,11 +512,11 @@ The strongest reports tend to have several features:
 
 </div>
 
-Pilot reports show both the promise and the limit of expert witnesses. Pilots and air-traffic professionals may be better observers of aerial conditions than the average person because they have training, cockpit instruments and radio access to independent surveillance. NARCAP has argued that pilot and aviation reports deserve structured safety attention for this reason. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.narcap.org/blog/advisoryforpilots" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: narcap.org">[narcap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">narcap.org</span><span class="citation-popover-snippet">Open source on narcap.org.</span></span></span>
+Pilot reports show both the promise and the limit of expert witnesses. Pilots and air-traffic professionals may be better observers of aerial conditions than the average person because they have training, cockpit instruments and radio access to independent surveillance. NARCAP has argued that pilot and aviation reports deserve structured safety attention for this reason.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.narcap.org/blog/advisoryforpilots" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: narcap.org">[narcap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">narcap.org</span><span class="citation-popover-snippet">Open source on narcap.org.</span></span></span>
 
-Yet expertise is not a magic shield against misidentification. A 2024 study of a commercial aviation UAP case found that multiple pilots on two flights reported an unfamiliar phenomenon over the Pacific, supported by phone images and video, but reconstruction using satellite orbital data and aircraft tracking identified the likely cause as a newly launched Starlink satellite train under unusual illumination. The value of the case is not that “pilots were wrong”, but that good witnesses plus partial imagery still needed technical reconstruction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+Yet expertise is not a magic shield against misidentification. A 2024 study of a commercial aviation UAP case found that multiple pilots on two flights reported an unfamiliar phenomenon over the Pacific, supported by phone images and video, but reconstruction using satellite orbital data and aircraft tracking identified the likely cause as a newly launched Starlink satellite train under unusual illumination. The value of the case is not that “pilots were wrong”, but that good witnesses plus partial imagery still needed technical reconstruction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
-Ball lightning offers another instructive case. It is rare, difficult to record, and still not fully explained, so witness reports remain part of the scientific record. A 2021 review noted thousands of eyewitness reports but few instrumental records and no consensus theory; it therefore focused on published case histories and reports by scientists and trained professionals as a way to improve the evidence base. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hgss.copernicus.org/articles/12/43/2021/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hgss.copernicus.org">[hgss.copernicus.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hgss.copernicus.org</span><span class="citation-popover-snippet">A brief history of ball lightning observations by scientists and...by AG Keul · 2021 · Cited by 12 — The following work compiles 20 publ...</span></span></span>
+Ball lightning offers another instructive case. It is rare, difficult to record, and still not fully explained, so witness reports remain part of the scientific record. A 2021 review noted thousands of eyewitness reports but few instrumental records and no consensus theory; it therefore focused on published case histories and reports by scientists and trained professionals as a way to improve the evidence base.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hgss.copernicus.org/articles/12/43/2021/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hgss.copernicus.org">[hgss.copernicus.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hgss.copernicus.org</span><span class="citation-popover-snippet">A brief history of ball lightning observations by scientists and...by AG Keul · 2021 · Cited by 12 — The following work compiles 20 publ...</span></span></span>
 
 This is where Forteana becomes more than a curiosity cabinet. Some testimony is weak [folklore]({{ 'folklore/' | relative_url }}). Some is distorted panic. Some is the first rough trace of a real but poorly understood phenomenon. The difference lies less in how strange the claim sounds and more in how well the report can be anchored.
 
@@ -529,7 +529,7 @@ A witness account can prove that a person had an experience, and often that some
 
 But testimony alone usually cannot prove the most ambitious Fortean interpretation. A witness may establish that they saw an unidentified object; that does not establish an extraterrestrial craft. A witness may establish that they felt a presence while paralysed at night; that does not establish an external entity. A witness may establish that a community feared a prowling attacker; that does not establish that every reported encounter occurred as described.
 
-Modern official UAP work reflects this caution. NASA’s independent UAP study argued for rigorous, evidence-based methods and better data acquisition rather than reliance on poor-quality observations alone. AARO’s 2024 historical report similarly stated that it found no empirical evidence that US government, academic or private investigations had verified extraterrestrial beings or craft, while also recognising that many reports suffer from insufficient or poor-quality data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
+Modern official UAP work reflects this caution. NASA’s independent UAP study argued for rigorous, evidence-based methods and better data acquisition rather than reliance on poor-quality observations alone. AARO’s 2024 historical report similarly stated that it found no empirical evidence that US government, academic or private investigations had verified extraterrestrial beings or craft, while also recognising that many reports suffer from insufficient or poor-quality data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
 For Forteana, this does not make witnesses irrelevant. It gives them their proper role. Testimony is an evidential starting point, not a final verdict. It is strongest when it generates testable questions: What astronomical objects were visible? What aircraft or satellites were present? Was there a storm? Did other independent reports occur at the same time? Were there physical traces? Were witnesses interviewed separately? Did the story change after press coverage?
 
@@ -545,7 +545,7 @@ A good report might begin with a dramatic sentence — “I saw something imposs
 
 The most common mistake is to treat witness testimony as a simple yes-or-no choice between truth and fraud. Fortean material is usually more complicated. A single case may contain a real stimulus, mistaken distance, sincere fear, suggestive questioning, newspaper exaggeration and later myth-making all at once. That mixture is why old reports can remain fascinating even when they are not strong proof of the paranormal.
 
-The second mistake is to assume that unexplained means inexplicable. Many cases remain unidentified because information was missing, not because the event exceeded nature. Project Blue Book’s distinction between “unidentified” and “insufficient information” is useful here: a report that cannot be solved because key data are absent should not be treated the same as a detailed case that resists several plausible explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD Business Systems]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESD Business Systems Project Blue Book</span><span class="citation-popover-snippet">ESD Business Systems Project Blue Book</span></span></span>
+The second mistake is to assume that unexplained means inexplicable. Many cases remain unidentified because information was missing, not because the event exceeded nature. Project Blue Book’s distinction between “unidentified” and “insufficient information” is useful here: a report that cannot be solved because key data are absent should not be treated the same as a detailed case that resists several plausible explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD Business Systems]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESD Business Systems Project Blue Book</span><span class="citation-popover-snippet">ESD Business Systems Project Blue Book</span></span></span>
 
 The third mistake is to ignore witnesses because human memory is fallible. That would erase the very material from which much anomaly research begins. Ball lightning, unusual meteor sounds, rare atmospheric optics and aviation misidentifications have all depended, at some stage, on people reporting something odd enough to investigate. A witness is not an instrument, but a witness can still be a signal.
 
@@ -561,194 +561,194 @@ Careful doubt is not the same as [dismissal]({{ 'dismissal/' | relative_url }}).
 The strongest witness accounts do not remove uncertainty. They organise it. They show where a case has substance, where it is vulnerable, and what kind of evidence would change the assessment. In Forteana, that is often the honest endpoint: not a solved mystery, not a proved marvel, but a clearer map of how a strange report moved from experience to memory to story.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Much Can Strange Witnesses Tell US?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Much Can Strange Witnesses Tell US?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Eyewitness Testimony on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WgcsAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Eyewitness Testimony" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Eyewitness Testimony">Eyewitness Testimony</a>
-        </h4>
-        <p class="fr-book-author">By Elizabeth F. Loftus, James M. Doyle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Eyewitness Testimony on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WgcsAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Eyewitness Testimony" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Eyewitness Testimony">Eyewitness Testimony</a>
+</h4>
+<p class="fr-book-author">By Elizabeth F. Loftus, James M. Doyle</p>
         
-        <p class="fr-book-desc">Foundational book on eyewitness memory reliability.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Foundational book on eyewitness memory reliability.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
+</h4>
+<p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
         
-        <p class="fr-book-desc">Shows limits of human perception and observation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows limits of human perception and observation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explores belief, memory, and self-justification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores belief, memory, and self-justification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Explores why remarkable stories and beliefs persist across generations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Explores why remarkable stories and beliefs persist across generations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Eyewitness+Testimony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Eyewitness Testimony</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Eyewitness+Testimony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Eyewitness Testimony</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bigfoot Action Figure Mythical Big Foot Gift Novelty Toy Doll Yeti Kitsch Weird"><img src="{{ '/assets/images/marketplace-covers/c8c5ff4166abcca61317.jpg' | relative_url }}" alt="Listing image for Bigfoot Action Figure Mythical Big Foot Gift Novelty Toy Doll Yeti Kitsch Weird" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure" target="_blank" rel="sponsored noopener noreferrer">Bigfoot Action Figure Mythical Big Foot Gift Novelty Toy Doll Yeti Kitsch Weird</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bigfoot figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bigfoot figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bigfoot Action Figure Mythical Big Foot Gift Novelty Toy Doll Yeti Kitsch Weird"><img src="{{ '/assets/images/marketplace-covers/c8c5ff4166abcca61317.jpg' | relative_url }}" alt="Listing image for Bigfoot Action Figure Mythical Big Foot Gift Novelty Toy Doll Yeti Kitsch Weird" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure" target="_blank" rel="sponsored noopener noreferrer">Bigfoot Action Figure Mythical Big Foot Gift Novelty Toy Doll Yeti Kitsch Weird</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bigfoot figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bigfoot figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Marvel toybiz - sasquatch - 1998 - alpha fight - 6&quot; Figure"><img src="{{ '/assets/images/marketplace-covers/97f3cd1937d9278bf70b.jpg' | relative_url }}" alt="Listing image for Marvel toybiz - sasquatch - 1998 - alpha fight - 6&quot; Figure" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure" target="_blank" rel="sponsored noopener noreferrer">Marvel toybiz - sasquatch - 1998 - alpha fight - 6&quot; Figure</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bigfoot figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bigfoot figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Marvel toybiz - sasquatch - 1998 - alpha fight - 6&quot; Figure"><img src="{{ '/assets/images/marketplace-covers/97f3cd1937d9278bf70b.jpg' | relative_url }}" alt="Listing image for Marvel toybiz - sasquatch - 1998 - alpha fight - 6&quot; Figure" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure" target="_blank" rel="sponsored noopener noreferrer">Marvel toybiz - sasquatch - 1998 - alpha fight - 6&quot; Figure</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bigfoot figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bigfoot figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kenner Action Figure Six Million Dollar Man - Bionic Bigfoot VG+"><img src="{{ '/assets/images/marketplace-covers/c95b442fc7e56957b7e9.jpg' | relative_url }}" alt="Listing image for Kenner Action Figure Six Million Dollar Man - Bionic Bigfoot VG+" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure" target="_blank" rel="sponsored noopener noreferrer">Kenner Action Figure Six Million Dollar Man - Bionic Bigfoot VG+</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bigfoot figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bigfoot figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kenner Action Figure Six Million Dollar Man - Bionic Bigfoot VG+"><img src="{{ '/assets/images/marketplace-covers/c95b442fc7e56957b7e9.jpg' | relative_url }}" alt="Listing image for Kenner Action Figure Six Million Dollar Man - Bionic Bigfoot VG+" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure" target="_blank" rel="sponsored noopener noreferrer">Kenner Action Figure Six Million Dollar Man - Bionic Bigfoot VG+</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bigfoot figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bigfoot figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bigfoot Action Figure Mythical Big Foot Gift Novelty Toy Doll Yeti Kitsch Weird"><img src="{{ '/assets/images/marketplace-covers/9be42a9db30eed0b3ef6.jpg' | relative_url }}" alt="Listing image for Bigfoot Action Figure Mythical Big Foot Gift Novelty Toy Doll Yeti Kitsch Weird" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure" target="_blank" rel="sponsored noopener noreferrer">Bigfoot Action Figure Mythical Big Foot Gift Novelty Toy Doll Yeti Kitsch Weird</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bigfoot figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bigfoot figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bigfoot Action Figure Mythical Big Foot Gift Novelty Toy Doll Yeti Kitsch Weird"><img src="{{ '/assets/images/marketplace-covers/9be42a9db30eed0b3ef6.jpg' | relative_url }}" alt="Listing image for Bigfoot Action Figure Mythical Big Foot Gift Novelty Toy Doll Yeti Kitsch Weird" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure" target="_blank" rel="sponsored noopener noreferrer">Bigfoot Action Figure Mythical Big Foot Gift Novelty Toy Doll Yeti Kitsch Weird</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bigfoot figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bigfoot figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bigfoot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bigfoot figure" data-ebay-reference="witnesses-how-much-can-strange-witnesses-tell-us-forteana-bigfoot-figure" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -764,7 +764,7 @@ The strongest witness accounts do not remove uncertainty. They organise it. They
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -784,7 +784,7 @@ The strongest witness accounts do not remove uncertainty. They organise it. They
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -816,7 +816,7 @@ The strongest witness accounts do not remove uncertainty. They organise it. They
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -868,7 +868,7 @@ The strongest witness accounts do not remove uncertainty. They organise it. They
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -913,7 +913,7 @@ The strongest witness accounts do not remove uncertainty. They organise it. They
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -954,197 +954,197 @@ The strongest witness accounts do not remove uncertainty. They organise it. They
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4183265/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4183265/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Neuroscience of Memory: Implications for the Courtroomby JW Lacy · 2013 · Cited by 262 — Abducted by a UFO: Prevalence information...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4183265/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4183265/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Neuroscience of Memory: Implications for the Courtroomby JW Lacy · 2013 · Cited by 262 — Abducted by a UFO: Prevalence information...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8024237/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8024237/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by C Marr · 2020 · Cited by 59 — High proportions of experts from both research fields agreed that very high levels of stress impair t...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8024237/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8024237/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by C Marr · 2020 · Cited by 59 — High proportions of experts from both research fields agreed that very high levels of stress impair t...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: hgss.copernicus.org  
-   Link: <a href="https://hgss.copernicus.org/articles/12/43/2021/" target="_blank" rel="noopener noreferrer nofollow">https://hgss.copernicus.org/articles/12/43/2021/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A brief history of ball lightning observations by scientists and...by AG Keul · 2021 · Cited by 12 — The following work compiles 20 publ...</p></details>
+   Link:<a href="https://hgss.copernicus.org/articles/12/43/2021/" target="_blank" rel="noopener noreferrer nofollow">https://hgss.copernicus.org/articles/12/43/2021/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A brief history of ball lightning observations by scientists and...by AG Keul · 2021 · Cited by 12 — The following work compiles 20 publ...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cnes.fr  
-   Link: <a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
+   Link:<a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCOnline misinformation can distort witnesses' memories  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10829763/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10829763/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10829763/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10829763/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: narcap.org  
-   Link: <a href="https://www.narcap.org/blog/advisoryforpilots" target="_blank" rel="noopener noreferrer nofollow">https://www.narcap.org/blog/advisoryforpilots</a>  
+   Link:<a href="https://www.narcap.org/blog/advisoryforpilots" target="_blank" rel="noopener noreferrer nofollow">https://www.narcap.org/blog/advisoryforpilots</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
+   Link:<a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: narcap.org  
-   Link: <a href="https://www.narcap.org/peripheral-studies" target="_blank" rel="noopener noreferrer nofollow">https://www.narcap.org/peripheral-studies</a>  
+   Link:<a href="https://www.narcap.org/peripheral-studies" target="_blank" rel="noopener noreferrer nofollow">https://www.narcap.org/peripheral-studies</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GeipanMission &amp; Geipan | GEIPANSighting reports and investigation conclusions are published on the GEIPAN website (www.geipan.fr) while m...</p></details>
+   Link:<a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GeipanMission &amp; Geipan | GEIPANSighting reports and investigation conclusions are published on the GEIPAN website (www.geipan.fr) while m...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: esd.whs.mil  
    Title: ESD Business Systems Project Blue Book  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCA Behavioral Account of the Misinformation Effect  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/15881271/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/15881271/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/15881271/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/15881271/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: historytoday.com  
    Title: History Today Monsters and Moral Panic in 18th and 19th Century London  
-   Link: <a href="https://www.historytoday.com/archive/feature/monsters-and-moral-panic-18th-and-19th-century-london" target="_blank" rel="noopener noreferrer nofollow">https://www.historytoday.com/archive/feature/monsters-and-moral-panic-18th-and-19th-century-london</a>  
+   Link:<a href="https://www.historytoday.com/archive/feature/monsters-and-moral-panic-18th-and-19th-century-london" target="_blank" rel="noopener noreferrer nofollow">https://www.historytoday.com/archive/feature/monsters-and-moral-panic-18th-and-19th-century-london</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cnes-geipan.fr  
    Title: 01 HAINES sli  
-   Link: <a href="https://www.cnes-geipan.fr/sites/default/files/01_HAINES_sli.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/01_HAINES_sli.pdf</a>  
+   Link:<a href="https://www.cnes-geipan.fr/sites/default/files/01_HAINES_sli.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/01_HAINES_sli.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6450142/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6450142/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6450142/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6450142/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/12150421/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/12150421/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4131297/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4131297/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4131297/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4131297/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4685320/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4685320/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4685320/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4685320/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Eyewitness memory  
-   Link: <a href="https://en.wikipedia.org/wiki/Eyewitness_memory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eyewitness_memory</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Eyewitness_memory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eyewitness_memory</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/The" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: Wikipedia  
    Title: London Monster  
-   Link: <a href="https://en.wikipedia.org/wiki/London_Monster" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/London_Monster</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/London_Monster" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/London_Monster</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: Wikipedia  
    Title: Ball lightning  
-   Link: <a href="https://en.wikipedia.org/wiki/Ball_lightning" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ball_lightning</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ball_lightning" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ball_lightning</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/en/faq-page" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/faq-page</a>  
+   Link:<a href="https://www.cnes-geipan.fr/en/faq-page" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/faq-page</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/the" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/the</a>  
+   Link:<a href="https://www.merriam-webster.com/dictionary/the" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/the</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/the" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/the</a>  
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/the" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/the</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: books.google.com  
    Title: The London Monster  
-   Link: <a href="https://books.google.com/books/about/The_London_Monster.html?id=xiWYYKklgvsC" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/The_London_Monster.html?id=xiWYYKklgvsC</a>  
+   Link:<a href="https://books.google.com/books/about/The_London_Monster.html?id=xiWYYKklgvsC" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/The_London_Monster.html?id=xiWYYKklgvsC</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: strandmag.com  
    Title: the london monster  
-   Link: <a href="https://strandmag.com/the-london-monster/" target="_blank" rel="noopener noreferrer nofollow">https://strandmag.com/the-london-monster/</a>  
+   Link:<a href="https://strandmag.com/the-london-monster/" target="_blank" rel="noopener noreferrer nofollow">https://strandmag.com/the-london-monster/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 ### Additional References
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=lu6ZScdN4Kw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lu6ZScdN4Kw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Can we always trust our own mind? | Professor Elizabeth Loftus on The fiction of memory (2018)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lu6ZScdN4Kw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lu6ZScdN4Kw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can we always trust our own mind? | Professor Elizabeth Loftus on The fiction of memory (2018)...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=kcGtWU5WrAg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kcGtWU5WrAg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chris French - Weird Science: An Introduction to Anomalistic [Psychology](&amp;#123;&amp;#123; &#x27;psychology/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kcGtWU5WrAg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kcGtWU5WrAg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chris French - Weird Science: An Introduction to Anomalistic [Psychology](&amp;#123;&amp;#123; &#x27;psychology/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
    Title: 25 Memory Facts That Will Break Your Brain  
-   Link: <a href="https://www.youtube.com/watch?v=uXtkTxt_3rM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uXtkTxt_3rM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This lecture explores anomalistic psychology, demonstrating how cognitive biases, top-down processing, and the inherent unreliability of...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=uXtkTxt_3rM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uXtkTxt_3rM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This lecture explores anomalistic psychology, demonstrating how cognitive biases, top-down processing, and the inherent unreliability of...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
    Title: Paranormal activity: science or fiction?  
-   Link: <a href="https://www.youtube.com/watch?v=i8mjM3PB_Tk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i8mjM3PB_Tk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>E102: What Bigfoot Encounters Reveal About the Human Mind | David S. B. Mitchell, PhD...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=i8mjM3PB_Tk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i8mjM3PB_Tk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>E102: What Bigfoot Encounters Reveal About the Human Mind | David S. B. Mitchell, PhD...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100060001-5" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100060001-5</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100060001-5" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100060001-5</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
    Title: Chris French  
-   Link: <a href="https://www.youtube.com/watch?v=rzHEw7ph-kg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rzHEw7ph-kg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>25 Memory Facts That Will Break Your Brain...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rzHEw7ph-kg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rzHEw7ph-kg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>25 Memory Facts That Will Break Your Brain...</p></details>

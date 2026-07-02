@@ -294,7 +294,7 @@ ObservationInterpretation"There was a white light above the hill.""It was a UFO.
 
 Only the first column consists of sensory observations. The second consists of inferences.
 
-This distinction is standard practice in investigative interviewing because memory is reconstructive rather than photographic. Witnesses do not merely replay stored recordings; they reconstruct events from perception, memory and later knowledge. As psychologists studying eyewitness testimony have repeatedly shown, later questioning, discussion with others and repeated recollection can gradually blend observation with interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/edited-volume/62246/chapter/550960878?searchresult=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">Academic Eyewitness Memory</span><span class="citation-popover-snippet">OUP AcademicEyewitness Memory - Oxford Academic22 Mar 2023 — Indeed, the very act of testing memory changes (i.e., contaminates) memory...</span></span></span>
+This distinction is standard practice in investigative interviewing because memory is reconstructive rather than photographic. Witnesses do not merely replay stored recordings; they reconstruct events from perception, memory and later knowledge. As psychologists studying eyewitness testimony have repeatedly shown, later questioning, discussion with others and repeated recollection can gradually blend observation with interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/edited-volume/62246/chapter/550960878?searchresult=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">Academic Eyewitness Memory</span><span class="citation-popover-snippet">OUP AcademicEyewitness Memory - Oxford Academic22 Mar 2023 — Indeed, the very act of testing memory changes (i.e., contaminates) memory...</span></span></span>
 
 In Fortean cases this matters especially because unusual experiences often lack familiar reference points. Faced with something unexpected, witnesses naturally search for the closest available explanation, whether that comes from [folklore]({{ 'folklore/' | relative_url }}), popular culture, aviation, religion or previous beliefs.
 
@@ -326,7 +326,7 @@ These questions recover observations.
 
 By contrast, questions such as "Did it seem extraterrestrial?" or "Was it cloaked?" encourage further interpretation rather than recovering perception.
 
-Investigative interview methods such as the Cognitive Interview similarly encourage witnesses to report everything they remember without filtering details through assumptions about importance. Open-ended recall generally produces richer observational material than leading questions, while avoiding unnecessary suggestion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/AB22B1520524CDFCC2406011ADBBC753/9780511759192c12_p245-270_CBO.pdf/improving_eyewitness_testimony_with_the_cognitive_interview.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: resolve.cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">resolve.cambridge.org</span><span class="citation-popover-snippet">Based on this theoretical framework, we developed an interview protocol containing four general memory enhancement...Read more...</span></span></span>
+Investigative interview methods such as the Cognitive Interview similarly encourage witnesses to report everything they remember without filtering details through assumptions about importance. Open-ended recall generally produces richer observational material than leading questions, while avoiding unnecessary suggestion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/AB22B1520524CDFCC2406011ADBBC753/9780511759192c12_p245-270_CBO.pdf/improving_eyewitness_testimony_with_the_cognitive_interview.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: resolve.cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">resolve.cambridge.org</span><span class="citation-popover-snippet">Based on this theoretical framework, we developed an interview protocol containing four general memory enhancement...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/i8mjM3PB_Tk" title="Paranormal activity: science or fiction? - with Chris French" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=i8mjM3PB_Tk" target="_blank" rel="noopener noreferrer">Paranormal activity: science or fiction? - with Chris French</a></p><p class="youtube-embed-meta">Channel: The Royal Institution &middot; Views: 63.9K &middot; Uploaded: June 2024 &middot; Length: 57 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=i8mjM3PB_Tk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=i8mjM3PB_Tk">Open on YouTube</a></p></div></div></div>
@@ -411,7 +411,7 @@ This process can become stronger over time through:
 
 </div>
 
-Research on eyewitness memory demonstrates that later information can alter recollection, a phenomenon known as the misinformation effect. Repeated exposure to explanations can become incorporated into remembered experience even when the original observation was more limited. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Misinformation_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Misinformation effect</span><span class="citation-popover-snippet">Misinformation effect</span></span></span>
+Research on eyewitness memory demonstrates that later information can alter recollection, a phenomenon known as the misinformation effect. Repeated exposure to explanations can become incorporated into remembered experience even when the original observation was more limited.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Misinformation_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Misinformation effect</span><span class="citation-popover-snippet">Misinformation effect</span></span></span>
 
 For Fortean researchers, this means that the earliest recorded account is often the most valuable. It is usually closest to the original perception and least influenced by subsequent interpretation.
 
@@ -504,194 +504,194 @@ Readers and investigators can then evaluate each independently.
 That approach also allows new explanations to emerge without discarding the original testimony. A report first interpreted as paranormal may later match a rare atmospheric phenomenon, while another may remain unexplained because the observations resist ordinary identification. In either case, the preserved observations retain their evidential value, whereas unsupported labels can easily become obstacles to understanding.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did the Witness Actually Report?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did the Witness Actually Report?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
+</h4>
+<p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
         
-        <p class="fr-book-desc">Separates perception from interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Separates perception from interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Eyewitness Testimony on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WgcsAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Eyewitness Testimony" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Eyewitness Testimony">Eyewitness Testimony</a>
-        </h4>
-        <p class="fr-book-author">By Elizabeth F. Loftus, James M. Doyle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Eyewitness Testimony on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WgcsAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Eyewitness Testimony" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Eyewitness Testimony">Eyewitness Testimony</a>
+</h4>
+<p class="fr-book-author">By Elizabeth F. Loftus, James M. Doyle</p>
         
-        <p class="fr-book-desc">Explains how observations become reconstructed memories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how observations become reconstructed memories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Examines inference, heuristics, and judgment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines inference, heuristics, and judgment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Promotes distinguishing evidence from explanation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Promotes distinguishing evidence from explanation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Eyewitness+Testimony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Eyewitness Testimony</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Eyewitness+Testimony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Eyewitness Testimony</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="observation-what-did-the-witness-actually-report-forteana-ufo-wall-art-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -707,7 +707,7 @@ That approach also allows new explanations to emerge without discarding the orig
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -727,7 +727,7 @@ That approach also allows new explanations to emerge without discarding the orig
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -759,7 +759,7 @@ That approach also allows new explanations to emerge without discarding the orig
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -811,7 +811,7 @@ That approach also allows new explanations to emerge without discarding the orig
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -856,7 +856,7 @@ That approach also allows new explanations to emerge without discarding the orig
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -897,100 +897,100 @@ That approach also allows new explanations to emerge without discarding the orig
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: academic.oup.com  
    Title: Academic Eyewitness Memory  
-   Link: <a href="https://academic.oup.com/edited-volume/62246/chapter/550960878?searchresult=1" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/edited-volume/62246/chapter/550960878?searchresult=1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicEyewitness Memory - Oxford Academic22 Mar 2023 — Indeed, the very act of testing memory changes (i.e., contaminates) memory...</p></details>
+   Link:<a href="https://academic.oup.com/edited-volume/62246/chapter/550960878?searchresult=1" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/edited-volume/62246/chapter/550960878?searchresult=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicEyewitness Memory - Oxford Academic22 Mar 2023 — Indeed, the very act of testing memory changes (i.e., contaminates) memory...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: resolve.cambridge.org  
-   Link: <a href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/AB22B1520524CDFCC2406011ADBBC753/9780511759192c12_p245-270_CBO.pdf/improving_eyewitness_testimony_with_the_cognitive_interview.pdf" target="_blank" rel="noopener noreferrer nofollow">https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/AB22B1520524CDFCC2406011ADBBC753/9780511759192c12_p245-270_CBO.pdf/improving_eyewitness_testimony_with_the_cognitive_interview.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Based on this theoretical framework, we developed an interview protocol containing four general memory enhancement...Read more...</p></details>
+   Link:<a href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/AB22B1520524CDFCC2406011ADBBC753/9780511759192c12_p245-270_CBO.pdf/improving_eyewitness_testimony_with_the_cognitive_interview.pdf" target="_blank" rel="noopener noreferrer nofollow">https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/AB22B1520524CDFCC2406011ADBBC753/9780511759192c12_p245-270_CBO.pdf/improving_eyewitness_testimony_with_the_cognitive_interview.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Based on this theoretical framework, we developed an interview protocol containing four general memory enhancement...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Misinformation effect  
-   Link: <a href="https://en.wikipedia.org/wiki/Misinformation_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Misinformation_effect</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Misinformation_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Misinformation_effect</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: open.edu  
-   Link: <a href="https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=68095&amp;section=2.2" target="_blank" rel="noopener noreferrer nofollow">https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=68095&amp;section=2.2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic [psychology](&amp;#123;&amp;#123; &#x27;psychology/&#x27; | relative_url &amp;#125;&amp;#125;): Week 4: 2.2 | OpenLearnIn addition, it is good interviewing practice to spend the initial part of the interview &#x27;est...</p></details>
+   Link:<a href="https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=68095&amp;section=2.2" target="_blank" rel="noopener noreferrer nofollow">https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=68095&amp;section=2.2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic [psychology](&amp;#123;&amp;#123; &#x27;psychology/&#x27; | relative_url &amp;#125;&amp;#125;): Week 4: 2.2 | OpenLearnIn addition, it is good interviewing practice to spend the initial part of the interview &#x27;est...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/40660286" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/40660286</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>a technique for enhancing memoryby M Ginet · 2001 · Cited by 65 — The first two conditions were designed to enable comparison with the co...</p></details>
+   Link:<a href="https://www.jstor.org/stable/40660286" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/40660286</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a technique for enhancing memoryby M Ginet · 2001 · Cited by 65 — The first two conditions were designed to enable comparison with the co...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: senecalearning.com  
-   Link: <a href="https://senecalearning.com/en-GB/revision-notes/a-level/psychology/aqa/2-1-18-cognitive-interview" target="_blank" rel="noopener noreferrer nofollow">https://senecalearning.com/en-GB/revision-notes/a-level/psychology/aqa/2-1-18-cognitive-interview</a>  
+   Link:<a href="https://senecalearning.com/en-GB/revision-notes/a-level/psychology/aqa/2-1-18-cognitive-interview" target="_blank" rel="noopener noreferrer nofollow">https://senecalearning.com/en-GB/revision-notes/a-level/psychology/aqa/2-1-18-cognitive-interview</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: tutor2u.net  
    Title: cognitive interview  
-   Link: <a href="https://www.tutor2u.net/psychology/reference/cognitive-interview?srsltid=AfmBOoozSIM7mh5IImkbPolYuhK5294e2Hp8r5mUPLn8GzcbOWriT33J" target="_blank" rel="noopener noreferrer nofollow">https://www.tutor2u.net/psychology/reference/cognitive-interview?srsltid=AfmBOoozSIM7mh5IImkbPolYuhK5294e2Hp8r5mUPLn8GzcbOWriT33J</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reference Library | Psychology22 Mar 2021 — A new questioning methodology - the cognitive interview - to achieve more detailed and accura...</p></details>
+   Link:<a href="https://www.tutor2u.net/psychology/reference/cognitive-interview?srsltid=AfmBOoozSIM7mh5IImkbPolYuhK5294e2Hp8r5mUPLn8GzcbOWriT33J" target="_blank" rel="noopener noreferrer nofollow">https://www.tutor2u.net/psychology/reference/cognitive-interview?srsltid=AfmBOoozSIM7mh5IImkbPolYuhK5294e2Hp8r5mUPLn8GzcbOWriT33J</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reference Library | Psychology22 Mar 2021 — A new questioning methodology - the cognitive interview - to achieve more detailed and accura...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: savemyexams.com  
    Title: Cognitive Interview  
-   Link: <a href="https://www.savemyexams.com/a-level/psychology/aqa/17/revision-notes/2-memory/2-4-eye-witness-testimony/improving-the-accuracy-of-eyewitness-testimony-cognitive-interview/" target="_blank" rel="noopener noreferrer nofollow">https://www.savemyexams.com/a-level/psychology/aqa/17/revision-notes/2-memory/2-4-eye-witness-testimony/improving-the-accuracy-of-eyewitness-testimony-cognitive-interview/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Level Psychology Revision Notes24 Jul 2024 — The first stage of the CI involves the eyewitness being asked to recall and recreate the p...</p></details>
+   Link:<a href="https://www.savemyexams.com/a-level/psychology/aqa/17/revision-notes/2-memory/2-4-eye-witness-testimony/improving-the-accuracy-of-eyewitness-testimony-cognitive-interview/" target="_blank" rel="noopener noreferrer nofollow">https://www.savemyexams.com/a-level/psychology/aqa/17/revision-notes/2-memory/2-4-eye-witness-testimony/improving-the-accuracy-of-eyewitness-testimony-cognitive-interview/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Level Psychology Revision Notes24 Jul 2024 — The first stage of the CI involves the eyewitness being asked to recall and recreate the p...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: rke.abertay.ac.uk  
-   Link: <a href="https://rke.abertay.ac.uk/ws/portalfiles/portal/85813741/Gawrylowicz_TheCognitiveInterview_Accepted_2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rke.abertay.ac.uk/ws/portalfiles/portal/85813741/Gawrylowicz_TheCognitiveInterview_Accepted_2018.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Abertay UniversityThe cognitive interviewby A Memon · Cited by 64 — The interviewer facilitates eyewitnesses using focused memory techniq...</p></details>
+   Link:<a href="https://rke.abertay.ac.uk/ws/portalfiles/portal/85813741/Gawrylowicz_TheCognitiveInterview_Accepted_2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rke.abertay.ac.uk/ws/portalfiles/portal/85813741/Gawrylowicz_TheCognitiveInterview_Accepted_2018.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Abertay UniversityThe cognitive interviewby A Memon · Cited by 64 — The interviewer facilitates eyewitnesses using focused memory techniq...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: simplypsychology.org  
-   Link: <a href="https://www.simplypsychology.org/cognitive-interview.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/cognitive-interview.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Interview Techniqueby S McLeod · Cited by 1 — Conclusion: The cognitive interview leads to better memory of events, with witnes...</p></details>
+   Link:<a href="https://www.simplypsychology.org/cognitive-interview.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/cognitive-interview.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Interview Techniqueby S McLeod · Cited by 1 — Conclusion: The cognitive interview leads to better memory of events, with witnes...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: web-archive.southampton.ac.uk  
-   Link: <a href="https://web-archive.southampton.ac.uk/cogprints.org/646/1/memon.memory.html" target="_blank" rel="noopener noreferrer nofollow">https://web-archive.southampton.ac.uk/cogprints.org/646/1/memon.memory.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>performance in Cognitive and Structured...by A Memon · Cited by 104 — This paper addresses two methodological and theoretical questions...</p></details>
+   Link:<a href="https://web-archive.southampton.ac.uk/cogprints.org/646/1/memon.memory.html" target="_blank" rel="noopener noreferrer nofollow">https://web-archive.southampton.ac.uk/cogprints.org/646/1/memon.memory.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>performance in Cognitive and Structured...by A Memon · Cited by 104 — This paper addresses two methodological and theoretical questions...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCExperimental and meta-analytic evidence that source  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10492197/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10492197/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by R O’Donnell · 2023 · Cited by 1 — Experiment 1 used written interview transcripts to deliver misinformation and showed that repetit...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10492197/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10492197/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by R O’Donnell · 2023 · Cited by 1 — Experiment 1 used written interview transcripts to deliver misinformation and showed that repetit...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sru.soc.surrey.ac.uk  
-   Link: <a href="https://sru.soc.surrey.ac.uk/SRU50.html" target="_blank" rel="noopener noreferrer nofollow">https://sru.soc.surrey.ac.uk/SRU50.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Empirically, CI has been validated both experimentally and practically. Experimentally, events...</p></details>
+   Link:<a href="https://sru.soc.surrey.ac.uk/SRU50.html" target="_blank" rel="noopener noreferrer nofollow">https://sru.soc.surrey.ac.uk/SRU50.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Empirically, CI has been validated both experimentally and practically. Experimentally, events...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/237933865_The_Cognitive_Interview_and_its_effect_on_witness%27_confidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/237933865_The_Cognitive_Interview_and_its_effect_on_witness%27_confidence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, less is known about how the CI affects eyewitnesses&#x27;...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/237933865_The_Cognitive_Interview_and_its_effect_on_witness%27_confidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/237933865_The_Cognitive_Interview_and_its_effect_on_witness%27_confidence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, less is known about how the CI affects eyewitnesses&#x27;...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: shs.cairn.info  
    Title: journal l annee psychologique1 2013 3 page 427  
-   Link: <a href="https://shs.cairn.info/journal-l-annee-psychologique1-2013-3-page-427?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://shs.cairn.info/journal-l-annee-psychologique1-2013-3-page-427?lang=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the acceptability of the Cognitive Interview to...11 Jan 2017 — The Cognitive Interview (CI) consists of a set of instructions and attit...</p></details>
+   Link:<a href="https://shs.cairn.info/journal-l-annee-psychologique1-2013-3-page-427?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://shs.cairn.info/journal-l-annee-psychologique1-2013-3-page-427?lang=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the acceptability of the Cognitive Interview to...11 Jan 2017 — The Cognitive Interview (CI) consists of a set of instructions and attit...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: search.proquest.com  
-   Link: <a href="https://search.proquest.com/openview/b80053dcb8cbeb9ecb4a60c3044bd37e/1?cbl=18750&amp;pq-origsite=gscholar" target="_blank" rel="noopener noreferrer nofollow">https://search.proquest.com/openview/b80053dcb8cbeb9ecb4a60c3044bd37e/1?cbl=18750&amp;pq-origsite=gscholar</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>enhanced cognitive interview, imagery, repetition, and...by WA Coker · 2010 · Cited by 1 — The results showed that the inclusion of focu...</p></details>
+   Link:<a href="https://search.proquest.com/openview/b80053dcb8cbeb9ecb4a60c3044bd37e/1?cbl=18750&amp;pq-origsite=gscholar" target="_blank" rel="noopener noreferrer nofollow">https://search.proquest.com/openview/b80053dcb8cbeb9ecb4a60c3044bd37e/1?cbl=18750&amp;pq-origsite=gscholar</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>enhanced cognitive interview, imagery, repetition, and...by WA Coker · 2010 · Cited by 1 — The results showed that the inclusion of focu...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Paranormal activity: science or fiction?  
-   Link: <a href="https://www.youtube.com/watch?v=i8mjM3PB_Tk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i8mjM3PB_Tk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The New Science of Eyewitness Memory | John Wixted | TED...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=i8mjM3PB_Tk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i8mjM3PB_Tk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The New Science of Eyewitness Memory | John Wixted | TED...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Scott Fraser: The problem with eyewitness testimony  
-   Link: <a href="https://www.youtube.com/watch?v=buhMdC7MO0U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=buhMdC7MO0U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Paranormal activity: science or fiction? - with Chris French...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=buhMdC7MO0U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=buhMdC7MO0U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paranormal activity: science or fiction? - with Chris French...</p></details>

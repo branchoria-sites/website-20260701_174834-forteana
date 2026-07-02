@@ -447,7 +447,7 @@ image: /assets/images/forteana_50bdc8_fortean_fieldwork_be_af012d-overview-socia
 
 ## Introduction
 
-Fortean fieldwork is the careful investigation of a strange report before it hardens into a legend. The beginner’s job is not to prove ghosts, monsters, UFOs or impossible weather, but to preserve the earliest account, locate the event in time and place, identify witnesses, and test [ordinary explanations]({{ 'ordinary-causes/' | relative_url }}) before reaching for extraordinary ones. That means asking plain questions, separating first-hand testimony from retellings, checking environmental and astronomical conditions, and keeping a written record that another person could audit. The Society for Psychical Research describes many hauntings, [apparitions]({{ 'apparitions/' | relative_url }}) and similar cases as “spontaneous” because they occur without warning; that makes early documentation especially valuable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spr.ac.uk/book/guidance-notes-investigators-spontaneous-cases-apparitions-hauntings-poltergeists-and-similar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spr.ac.uk">[spr.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spr.ac.uk</span><span class="citation-popover-snippet">Guidance Notes for Investigators of Spontaneous Cases1 Jan 2018 — These guidance notes are intended to be helpful for those who seek to i...</span></span></span>
+Fortean fieldwork is the careful investigation of a strange report before it hardens into a legend. The beginner’s job is not to prove ghosts, monsters, UFOs or impossible weather, but to preserve the earliest account, locate the event in time and place, identify witnesses, and test [ordinary explanations]({{ 'ordinary-causes/' | relative_url }}) before reaching for extraordinary ones. That means asking plain questions, separating first-hand testimony from retellings, checking environmental and astronomical conditions, and keeping a written record that another person could audit. The Society for Psychical Research describes many hauntings, [apparitions]({{ 'apparitions/' | relative_url }}) and similar cases as “spontaneous” because they occur without warning; that makes early documentation especially valuable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spr.ac.uk/book/guidance-notes-investigators-spontaneous-cases-apparitions-hauntings-poltergeists-and-similar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spr.ac.uk">[spr.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spr.ac.uk</span><span class="citation-popover-snippet">Guidance Notes for Investigators of Spontaneous Cases1 Jan 2018 — These guidance notes are intended to be helpful for those who seek to i...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_fortean_fieldwork_be_af012d-overview.webp" | relative_url }}" alt="Overview image for Fieldwork" loading="eager" decoding="sync" fetchpriority="high">
@@ -457,7 +457,7 @@ A Fortean investigator therefore sits between archivist, local reporter and scep
 
 The first version of a strange report is usually the most precious. Later versions may be more dramatic, but they are also more likely to have been shaped by retelling, local rumour, press interest, social media comments, or the witness’s own attempts to make sense of what happened. In practical terms, the fieldworker should try to find the earliest written message, diary entry, emergency call, newspaper notice, social post, photograph, video file or direct statement connected to the event.
 
-This matters because [witness memory]({{ 'witness-memory/' | relative_url }}) is not a fixed recording. The UK Parliamentary Office of Science and Technology notes that memories can be influenced by the conditions under which an event was witnessed and by exposure to inaccurate information afterwards; it also highlights open questions and confidence checks as ways to reduce undue influence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://researchbriefings.files.parliament.uk/documents/POST-PN-0607/POST-PN-0607.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchbriefings.files.parliament.uk">[Research Briefings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchbriefings.files.parliament.uk</span><span class="citation-popover-snippet">Research Briefings</span></span></span> For Fortean cases, the same principle applies outside criminal justice: ask what the person noticed first, what they said before hearing other explanations, and what details appeared only after discussion.
+This matters because [witness memory]({{ 'witness-memory/' | relative_url }}) is not a fixed recording. The UK Parliamentary Office of Science and Technology notes that memories can be influenced by the conditions under which an event was witnessed and by exposure to inaccurate information afterwards; it also highlights open questions and confidence checks as ways to reduce undue influence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://researchbriefings.files.parliament.uk/documents/POST-PN-0607/POST-PN-0607.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchbriefings.files.parliament.uk">[Research Briefings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchbriefings.files.parliament.uk</span><span class="citation-popover-snippet">Research Briefings</span></span></span> For Fortean cases, the same principle applies outside criminal justice: ask what the person noticed first, what they said before hearing other explanations, and what details appeared only after discussion.
 
 A useful [first-account]({{ 'first-account/' | relative_url }}) record should capture:
 
@@ -480,11 +480,11 @@ The key is to record uncertainty rather than smooth it away. “About 9 pm, mayb
 <img src="{{ "/assets/images/forteana_50bdc8_fortean_fieldwork_be_af012d-Illustration-1-dark.svg" | relative_url }}" alt="Fieldwork illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_fortean_fieldwork_be_af012d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_fortean_fieldwork_be_af012d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Record Witnesses and Conditions
 
-A beginner’s best tool is not an electromagnetic meter, night-vision camera or dramatic vigil. It is a calm interview conducted before witnesses have compared stories. ASSAP, a long-running UK organisation concerned with anomalous experiences, argues that the best haunting evidence comes from first-hand, casual, independent witnesses: people who were not trying to experience anything paranormal and who have not been influenced by other witnesses or a site’s reputation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.assap.ac.uk/articles/detail/scientific-ghost-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assap.ac.uk">[assap.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assap.ac.uk</span><span class="citation-popover-title">scientific ghost research</span><span class="citation-popover-snippet">scientific ghost research</span></span></span>
+A beginner’s best tool is not an electromagnetic meter, night-vision camera or dramatic vigil. It is a calm interview conducted before witnesses have compared stories. ASSAP, a long-running UK organisation concerned with anomalous experiences, argues that the best haunting evidence comes from first-hand, casual, independent witnesses: people who were not trying to experience anything paranormal and who have not been influenced by other witnesses or a site’s reputation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.assap.ac.uk/articles/detail/scientific-ghost-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assap.ac.uk">[assap.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assap.ac.uk</span><span class="citation-popover-title">scientific ghost research</span><span class="citation-popover-snippet">scientific ghost research</span></span></span>
 
 The interview should begin with an open invitation: “Tell me what happened from the beginning.” Avoid feeding the witness a theory. “Did you see a tall shadow figure?” is much worse than “What did you see?” If the witness uses a loaded word such as “ghost”, “craft” or “creature”, gently separate the label from the observation: “When you say ghost, what did you actually see, hear or feel?”
 
-Good witness handling also means protecting people. Some reports involve fear, grief, sleep disturbance, family conflict, or possible health hazards. Treat the witness as a person, not as a source of exciting content. Do not publish names, addresses, recordings, children’s testimony, medical details or private grief without informed consent. Ethical guidelines for haunting investigations have been developed precisely because these cases can involve vulnerable people and sensitive domestic spaces. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/283087624_Ethical_guidelines_for_the_investigation_of_haunting_experiences" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
+Good witness handling also means protecting people. Some reports involve fear, grief, sleep disturbance, family conflict, or possible health hazards. Treat the witness as a person, not as a source of exciting content. Do not publish names, addresses, recordings, children’s testimony, medical details or private grief without informed consent. Ethical guidelines for haunting investigations have been developed precisely because these cases can involve vulnerable people and sensitive domestic spaces.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/283087624_Ethical_guidelines_for_the_investigation_of_haunting_experiences" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
 
 ### Keep Witnesses Separate Where Possible
 
@@ -499,17 +499,17 @@ The aim is not to catch people out. It is to distinguish shared observation from
 
 A site visit should capture the ordinary setting in detail. Photograph the witness viewpoint in daylight and, where safe, under similar lighting to the original report. Note reflective windows, passing headlights, nearby roads, railways, flight paths, animals, loose pipes, heating systems, draughts, water tanks, trees brushing walls, and sources of low-frequency vibration or intermittent sound.
 
-In haunting cases, experimental work led by psychologist Richard Wiseman found that reported unusual experiences in allegedly haunted locations may relate to environmental variables such as lighting, magnetic fields and expectation rather than “ghostly” activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/12803815/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span> That does not automatically explain every report, but it gives the fieldworker a practical checklist: before asking whether a house is haunted, ask what the house is doing.
+In haunting cases, experimental work led by psychologist Richard Wiseman found that reported unusual experiences in allegedly haunted locations may relate to environmental variables such as lighting, magnetic fields and expectation rather than “ghostly” activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/12803815/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span> That does not automatically explain every report, but it gives the fieldworker a practical checklist: before asking whether a house is haunted, ask what the house is doing.
 
 ## Test Ordinary Explanations First
 
 The most Fortean mistake is not belief; it is premature certainty. A good fieldworker tests ordinary explanations first because they are common, varied and often surprising. Many famous “anomalies” do not collapse into one simple explanation. They may involve weather, memory, optical effects, [folklore]({{ 'folklore/' | relative_url }}), fraud, equipment artefacts and honest misperception all at once.
 
-For sky reports, start with the sky. The US Air Force’s Project Blue Book materials list common UFO report sources such as bright stars and planets, comets, fireballs, meteors, auroral effects and celestial bodies seen through haze, fog, moving cloud or unusual conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[esd.whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span> The National Archives notes that Project Blue Book’s records are declassified and that the project closed in 1969, which makes them a useful historical model for how reports were filed, not a current reporting service. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+For sky reports, start with the sky. The US Air Force’s Project Blue Book materials list common UFO report sources such as bright stars and planets, comets, fireballs, meteors, auroral effects and celestial bodies seen through haze, fog, moving cloud or unusual conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[esd.whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span> The National Archives notes that Project Blue Book’s records are declassified and that the project closed in 1969, which makes them a useful historical model for how reports were filed, not a current reporting service.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
-For strange falls from the sky, look at weather before wonder. A 1961 US Fish and Wildlife Service leaflet on “rains of fishes” begins from the observation that during violent thunderstorms and heavy rain, objects normally found on land or water sometimes appear to fall from the sky, especially small live animals. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://spo.nmfs.noaa.gov/Fishery%20Leaflets/leaflet513.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spo.nmfs.noaa.gov">[spo.nmfs.noaa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spo.nmfs.noaa.gov</span><span class="citation-popover-snippet">Open source on noaa.gov.</span></span></span> The Library of Congress similarly notes that many scientists consider tornadic waterspouts a plausible explanation for some fish and frog falls, while the National Weather Service distinguishes tornadic waterspouts from fair-weather waterspouts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/browse-all-questions/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">Open source on loc.gov.</span></span></span>
+For strange falls from the sky, look at weather before wonder. A 1961 US Fish and Wildlife Service leaflet on “rains of fishes” begins from the observation that during violent thunderstorms and heavy rain, objects normally found on land or water sometimes appear to fall from the sky, especially small live animals.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://spo.nmfs.noaa.gov/Fishery%20Leaflets/leaflet513.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spo.nmfs.noaa.gov">[spo.nmfs.noaa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spo.nmfs.noaa.gov</span><span class="citation-popover-snippet">Open source on noaa.gov.</span></span></span> The Library of Congress similarly notes that many scientists consider tornadic waterspouts a plausible explanation for some fish and frog falls, while the National Weather Service distinguishes tornadic waterspouts from fair-weather waterspouts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/everyday-mysteries/browse-all-questions/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">Open source on loc.gov.</span></span></span>
 
-For indoor apparitions, odours, voices, presences or repeated “haunting” sensations, check health and safety. Carbon monoxide, faulty appliances, draughts, vibration, mould, sleep disruption, suggestive settings and fear can all matter. A Smithsonian summary of “spooky sensations” describes a case in which a faulty furnace and carbon monoxide poisoning explained weakness, headaches and hallucination-like experiences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/smart-news/five-scientific-explanations-spooky-sensations-180973436/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">Smithsonian Magazine Five Scientific Explanations for Spooky Sensations</span><span class="citation-popover-snippet">Smithsonian Magazine Five Scientific Explanations for Spooky Sensations</span></span></span> Sleep paralysis is another important ordinary explanation for some bedroom entities: research describes it as temporary inability to move or speak at sleep onset or waking, often accompanied by vivid sensory experiences and a felt presence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1704.02342" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Sleep Paralysis: phenomenology, neurophysiology and treatment</span><span class="citation-popover-snippet">arXiv Sleep Paralysis: phenomenology, neurophysiology and treatment</span></span></span>
+For indoor apparitions, odours, voices, presences or repeated “haunting” sensations, check health and safety. Carbon monoxide, faulty appliances, draughts, vibration, mould, sleep disruption, suggestive settings and fear can all matter. A Smithsonian summary of “spooky sensations” describes a case in which a faulty furnace and carbon monoxide poisoning explained weakness, headaches and hallucination-like experiences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/smart-news/five-scientific-explanations-spooky-sensations-180973436/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">Smithsonian Magazine Five Scientific Explanations for Spooky Sensations</span><span class="citation-popover-snippet">Smithsonian Magazine Five Scientific Explanations for Spooky Sensations</span></span></span> Sleep paralysis is another important ordinary explanation for some bedroom entities: research describes it as temporary inability to move or speak at sleep onset or waking, often accompanied by vivid sensory experiences and a felt presence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1704.02342" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Sleep Paralysis: phenomenology, neurophysiology and treatment</span><span class="citation-popover-snippet">arXiv Sleep Paralysis: phenomenology, neurophysiology and treatment</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lsMomLDKIz4" title="Interview: Mick West, Identifying UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lsMomLDKIz4" target="_blank" rel="noopener noreferrer">Interview: Mick West, Identifying UFOs</a></p><p class="youtube-embed-meta">Channel: Fraser Cain &middot; Views: 27.4K &middot; Uploaded: April 2021 &middot; Length: 57 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lsMomLDKIz4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lsMomLDKIz4">Open on YouTube</a></p></div></div></div>
@@ -540,9 +540,9 @@ Not all evidence has the same value. Fortean fieldwork improves when beginners l
 
 A single sincere witness can be worth taking seriously, but a single witness with no time, no location and no contemporaneous record is hard to assess. Several independent witnesses who have not spoken to each other are stronger. A photograph with original metadata is better than a reposted image. A video with a known location, direction, lens, time and unedited file is better than a cropped clip. Physical traces are only useful if their collection, storage and possible contamination are documented.
 
-Recent UAP research makes the same point in more technical language. NASA’s independent study team argued that UAP work needs rigorous, evidence-based methods and stronger data acquisition, while the Galileo Project has proposed multimodal ground-based observatories to collect simultaneous optical, infrared, audio and other sensor data rather than relying only on anecdote. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span> A beginner does not need a research observatory, but the principle scales down: one ambiguous phone clip is weak; several independent lines of timed evidence are stronger.
+Recent UAP research makes the same point in more technical language. NASA’s independent study team argued that UAP work needs rigorous, evidence-based methods and stronger data acquisition, while the Galileo Project has proposed multimodal ground-based observatories to collect simultaneous optical, infrared, audio and other sensor data rather than relying only on anecdote.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span> A beginner does not need a research observatory, but the principle scales down: one ambiguous phone clip is weak; several independent lines of timed evidence are stronger.
 
-The same caution applies to ghost equipment. ASSAP warns that vigils can generate “new” phenomena not reported by original witnesses, often with natural explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.assap.ac.uk/articles/detail/how-to-approach-an-investigation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assap.ac.uk">[assap.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assap.ac.uk</span><span class="citation-popover-snippet">Open source on assap.ac.uk.</span></span></span> Gadgets may be useful for logging temperature, sound or light, but they should not become props that create excitement after the original report has already been lost.
+The same caution applies to ghost equipment. ASSAP warns that vigils can generate “new” phenomena not reported by original witnesses, often with natural explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.assap.ac.uk/articles/detail/how-to-approach-an-investigation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assap.ac.uk">[assap.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assap.ac.uk</span><span class="citation-popover-snippet">Open source on assap.ac.uk.</span></span></span> Gadgets may be useful for logging temperature, sound or light, but they should not become props that create excitement after the original report has already been lost.
 
 ## Common Failure Modes
 
@@ -560,7 +560,7 @@ The beginner’s biggest risks are usually procedural, not intellectual. A perso
 
 **Overclaiming “unexplained”:** a case with missing data is not strong evidence for the extraordinary. It is a case with missing data.
 
-Joe Nickell, one of the best-known sceptical investigators of paranormal claims, was widely associated with hands-on inquiry rather than [dismissal]({{ 'dismissal/' | relative_url }}) from the armchair. His approach, summarised in accounts of his work, involved site visits, checking details, researching precedents, examining physical evidence, recreating effects and testing claims where possible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Joe_Nickell" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Joe Nickell</span><span class="citation-popover-snippet">Joe Nickell</span></span></span> That attitude is useful even for readers who do not share his conclusions: the case must be investigated before it can responsibly be believed or rejected.
+Joe Nickell, one of the best-known sceptical investigators of paranormal claims, was widely associated with hands-on inquiry rather than [dismissal]({{ 'dismissal/' | relative_url }}) from the armchair. His approach, summarised in accounts of his work, involved site visits, checking details, researching precedents, examining physical evidence, recreating effects and testing claims where possible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Joe_Nickell" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Joe Nickell</span><span class="citation-popover-snippet">Joe Nickell</span></span></span> That attitude is useful even for readers who do not share his conclusions: the case must be investigated before it can responsibly be believed or rejected.
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_fortean_fieldwork_be_af012d-Illustration-3-dark.svg" | relative_url }}" alt="Fieldwork illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_fortean_fieldwork_be_af012d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_fortean_fieldwork_be_af012d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -598,194 +598,194 @@ Forteana survives because strange reports are culturally powerful. They travel t
 The best beginner’s stance is disciplined curiosity. Believe witnesses enough to take them seriously. Doubt interpretations enough to test them. Record dates, sources, locations, witnesses and conditions before they blur. Then try ordinary explanations first, not because the world is dull, but because reality is often stranger when it is examined carefully.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How to Investigate a Strange Report Carefully. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How to Investigate a Strange Report Carefully. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Promotes careful investigation and critical thinking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Promotes careful investigation and critical thinking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Explores why remarkable stories and beliefs persist across generations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Explores why remarkable stories and beliefs persist across generations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Illustrates evidence-focused reporting on anomalous claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates evidence-focused reporting on anomalous claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explains how people interpret uncertain evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how people interpret uncertain evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Introverted Meteorology Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ca603b4b895b265ec943.jpg' | relative_url }}" alt="Listing image for Introverted Meteorology Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer">Introverted Meteorology Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Introverted Meteorology Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ca603b4b895b265ec943.jpg' | relative_url }}" alt="Listing image for Introverted Meteorology Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer">Introverted Meteorology Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Like Meteorology Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a637b664b63ed2a68511.jpg' | relative_url }}" alt="Listing image for I Like Meteorology Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer">I Like Meteorology Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Like Meteorology Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a637b664b63ed2a68511.jpg' | relative_url }}" alt="Listing image for I Like Meteorology Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer">I Like Meteorology Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Talking About Meteorology Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5e9b26a1df43946a154d.jpg' | relative_url }}" alt="Listing image for Talking About Meteorology Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer">Talking About Meteorology Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Talking About Meteorology Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5e9b26a1df43946a154d.jpg' | relative_url }}" alt="Listing image for Talking About Meteorology Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer">Talking About Meteorology Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Meteorology Types of Clouds Poster Weather 12 Little Landscapes Wall Art"><img src="{{ '/assets/images/marketplace-covers/2cdf2a7e2f5a329ce7cf.jpg' | relative_url }}" alt="Listing image for Meteorology Types of Clouds Poster Weather 12 Little Landscapes Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer">Meteorology Types of Clouds Poster Weather 12 Little Landscapes Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Meteorology Types of Clouds Poster Weather 12 Little Landscapes Wall Art"><img src="{{ '/assets/images/marketplace-covers/2cdf2a7e2f5a329ce7cf.jpg' | relative_url }}" alt="Listing image for Meteorology Types of Clouds Poster Weather 12 Little Landscapes Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer">Meteorology Types of Clouds Poster Weather 12 Little Landscapes Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology poster" data-ebay-reference="fieldwork-how-to-investigate-a-strange-report-carefully-forteana-meteorology-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -801,7 +801,7 @@ The best beginner’s stance is disciplined curiosity. Believe witnesses enough 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -821,7 +821,7 @@ The best beginner’s stance is disciplined curiosity. Believe witnesses enough 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -853,7 +853,7 @@ The best beginner’s stance is disciplined curiosity. Believe witnesses enough 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -905,7 +905,7 @@ The best beginner’s stance is disciplined curiosity. Believe witnesses enough 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -950,7 +950,7 @@ The best beginner’s stance is disciplined curiosity. Believe witnesses enough 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -991,296 +991,296 @@ The best beginner’s stance is disciplined curiosity. Believe witnesses enough 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: spr.ac.uk  
-   Link: <a href="https://www.spr.ac.uk/book/guidance-notes-investigators-spontaneous-cases-apparitions-hauntings-poltergeists-and-similar" target="_blank" rel="noopener noreferrer nofollow">https://www.spr.ac.uk/book/guidance-notes-investigators-spontaneous-cases-apparitions-hauntings-poltergeists-and-similar</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Guidance Notes for Investigators of Spontaneous Cases1 Jan 2018 — These guidance notes are intended to be helpful for those who seek to i...</p></details>
+   Link:<a href="https://www.spr.ac.uk/book/guidance-notes-investigators-spontaneous-cases-apparitions-hauntings-poltergeists-and-similar" target="_blank" rel="noopener noreferrer nofollow">https://www.spr.ac.uk/book/guidance-notes-investigators-spontaneous-cases-apparitions-hauntings-poltergeists-and-similar</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Guidance Notes for Investigators of Spontaneous Cases1 Jan 2018 — These guidance notes are intended to be helpful for those who seek to i...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: spr.ac.uk  
-   Link: <a href="https://www.spr.ac.uk/research/notes-investigators" target="_blank" rel="noopener noreferrer nofollow">https://www.spr.ac.uk/research/notes-investigators</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Notes for InvestigatorsKinds of Spontaneous Cases. Researchers recognise a range of phenomena which are referred as being spontaneous: th...</p></details>
+   Link:<a href="https://www.spr.ac.uk/research/notes-investigators" target="_blank" rel="noopener noreferrer nofollow">https://www.spr.ac.uk/research/notes-investigators</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Notes for InvestigatorsKinds of Spontaneous Cases. Researchers recognise a range of phenomena which are referred as being spontaneous: th...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchbriefings.files.parliament.uk  
    Title: Research Briefings  
-   Link: <a href="https://researchbriefings.files.parliament.uk/documents/POST-PN-0607/POST-PN-0607.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchbriefings.files.parliament.uk/documents/POST-PN-0607/POST-PN-0607.pdf</a>  
+   Link:<a href="https://researchbriefings.files.parliament.uk/documents/POST-PN-0607/POST-PN-0607.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchbriefings.files.parliament.uk/documents/POST-PN-0607/POST-PN-0607.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: assap.ac.uk  
    Title: scientific ghost research  
-   Link: <a href="https://www.assap.ac.uk/articles/detail/scientific-ghost-research" target="_blank" rel="noopener noreferrer nofollow">https://www.assap.ac.uk/articles/detail/scientific-ghost-research</a>  
+   Link:<a href="https://www.assap.ac.uk/articles/detail/scientific-ghost-research" target="_blank" rel="noopener noreferrer nofollow">https://www.assap.ac.uk/articles/detail/scientific-ghost-research</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/283087624_Ethical_guidelines_for_the_investigation_of_haunting_experiences" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/283087624_Ethical_guidelines_for_the_investigation_of_haunting_experiences</a>  
+   Link:<a href="https://www.researchgate.net/publication/283087624_Ethical_guidelines_for_the_investigation_of_haunting_experiences" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/283087624_Ethical_guidelines_for_the_investigation_of_haunting_experiences</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: esd.whs.mil  
    Title: Project Blue Book  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: spo.nmfs.noaa.gov  
-   Link: <a href="https://spo.nmfs.noaa.gov/Fishery%20Leaflets/leaflet513.pdf" target="_blank" rel="noopener noreferrer nofollow">https://spo.nmfs.noaa.gov/Fishery%20Leaflets/leaflet513.pdf</a>  
+   Link:<a href="https://spo.nmfs.noaa.gov/Fishery%20Leaflets/leaflet513.pdf" target="_blank" rel="noopener noreferrer nofollow">https://spo.nmfs.noaa.gov/Fishery%20Leaflets/leaflet513.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/mfl/waterspouts" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/mfl/waterspouts</a>  
+   Link:<a href="https://www.weather.gov/mfl/waterspouts" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/mfl/waterspouts</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
    Title: arXiv Sleep Paralysis: phenomenology, neurophysiology and treatment  
-   Link: <a href="https://arxiv.org/abs/1704.02342" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1704.02342</a>  
+   Link:<a href="https://arxiv.org/abs/1704.02342" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1704.02342</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
+   Link:<a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: assap.ac.uk  
-   Link: <a href="https://www.assap.ac.uk/articles/detail/how-to-approach-an-investigation" target="_blank" rel="noopener noreferrer nofollow">https://www.assap.ac.uk/articles/detail/how-to-approach-an-investigation</a>  
+   Link:<a href="https://www.assap.ac.uk/articles/detail/how-to-approach-an-investigation" target="_blank" rel="noopener noreferrer nofollow">https://www.assap.ac.uk/articles/detail/how-to-approach-an-investigation</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Joe Nickell  
-   Link: <a href="https://en.wikipedia.org/wiki/Joe_Nickell" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Joe_Nickell</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Joe_Nickell" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Joe_Nickell</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: spr.ac.uk  
-   Link: <a href="https://www.spr.ac.uk/news/spontaneous-case-collection" target="_blank" rel="noopener noreferrer nofollow">https://www.spr.ac.uk/news/spontaneous-case-collection</a>  
+   Link:<a href="https://www.spr.ac.uk/news/spontaneous-case-collection" target="_blank" rel="noopener noreferrer nofollow">https://www.spr.ac.uk/news/spontaneous-case-collection</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: spr.ac.uk  
-   Link: <a href="https://www.spr.ac.uk/8-spontaneous-apparitions-and-ndes" target="_blank" rel="noopener noreferrer nofollow">https://www.spr.ac.uk/8-spontaneous-apparitions-and-ndes</a>  
+   Link:<a href="https://www.spr.ac.uk/8-spontaneous-apparitions-and-ndes" target="_blank" rel="noopener noreferrer nofollow">https://www.spr.ac.uk/8-spontaneous-apparitions-and-ndes</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: spr.ac.uk  
-   Link: <a href="https://www.spr.ac.uk/notes-investigators" target="_blank" rel="noopener noreferrer nofollow">https://www.spr.ac.uk/notes-investigators</a>  
+   Link:<a href="https://www.spr.ac.uk/notes-investigators" target="_blank" rel="noopener noreferrer nofollow">https://www.spr.ac.uk/notes-investigators</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Society" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Society</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Society" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Society</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Society for Psychical Research  
-   Link: <a href="https://en.wikipedia.org/wiki/Society_for_Psychical_Research" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Society_for_Psychical_Research</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Society_for_Psychical_Research" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Society_for_Psychical_Research</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Mick West  
-   Link: <a href="https://en.wikipedia.org/wiki/Mick_West" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mick_West</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Mick_West" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mick_West</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Rain of animals  
-   Link: <a href="https://en.wikipedia.org/wiki/Rain_of_animals" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rain_of_animals</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Rain_of_animals" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rain_of_animals</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/241851924_Why_the_future_is_Fortean" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/241851924_Why_the_future_is_Fortean</a>  
+   Link:<a href="https://www.researchgate.net/publication/241851924_Why_the_future_is_Fortean" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/241851924_Why_the_future_is_Fortean</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/386011319_Unidentified_Anomalous_Phenomena_UAP_Orb_and_Rod_Object_Orientation_and_Energy_Coupling" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/386011319_Unidentified_Anomalous_Phenomena_UAP_Orb_and_Rod_Object_Orientation_and_Energy_Coupling</a>  
+   Link:<a href="https://www.researchgate.net/publication/386011319_Unidentified_Anomalous_Phenomena_UAP_Orb_and_Rod_Object_Orientation_and_Energy_Coupling" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/386011319_Unidentified_Anomalous_Phenomena_UAP_Orb_and_Rod_Object_Orientation_and_Energy_Coupling</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/283087634_%27Do_[Ghosts" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/283087634_%27Do_[Ghosts</a>  
+   Link:<a href="https://www.researchgate.net/publication/283087634_%27Do_[Ghosts" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/283087634_%27Do_[Ghosts</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: researchgate.net  
    Title: (PDF) Examining witness interviewing environments  
-   Link: <a href="https://www.researchgate.net/publication/341728250_Examining_witness_interviewing_environments" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/341728250_Examining_witness_interviewing_environments</a>  
+   Link:<a href="https://www.researchgate.net/publication/341728250_Examining_witness_interviewing_environments" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/341728250_Examining_witness_interviewing_environments</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: researchgate.net  
    Title: Ethical guidelines for the investigation of haunting experiences  
-   Link: <a href="https://www.researchgate.net/profile/Ciaran-Okeeffe-2/publication/283087624_Ethical_guidelines_for_the_investigation_of_haunting_experiences/links/584fc48b08aecb6bd8d1db24/Ethical-guidelines-for-the-investigation-of-haunting-experiences.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Ciaran-Okeeffe-2/publication/283087624_Ethical_guidelines_for_the_investigation_of_haunting_experiences/links/584fc48b08aecb6bd8d1db24/Ethical-guidelines-for-the-investigation-of-haunting-experiences.pdf</a>  
+   Link:<a href="https://www.researchgate.net/profile/Ciaran-Okeeffe-2/publication/283087624_Ethical_guidelines_for_the_investigation_of_haunting_experiences/links/584fc48b08aecb6bd8d1db24/Ethical-guidelines-for-the-investigation-of-haunting-experiences.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Ciaran-Okeeffe-2/publication/283087624_Ethical_guidelines_for_the_investigation_of_haunting_experiences/links/584fc48b08aecb6bd8d1db24/Ethical-guidelines-for-the-investigation-of-haunting-experiences.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/240316959_A_Technique_for_Enhancing_Memory_in_Eyewitness_Testimonies_for_Use_by_Police_Officers_and_Judicial_Officials_The_Cognitive_Interview" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/240316959_A_Technique_for_Enhancing_Memory_in_Eyewitness_Testimonies_for_Use_by_Police_Officers_and_Judicial_Officials_The_Cognitive_Interview</a>  
+   Link:<a href="https://www.researchgate.net/publication/240316959_A_Technique_for_Enhancing_Memory_in_Eyewitness_Testimonies_for_Use_by_Police_Officers_and_Judicial_Officials_The_Cognitive_Interview" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/240316959_A_Technique_for_Enhancing_Memory_in_Eyewitness_Testimonies_for_Use_by_Police_Officers_and_Judicial_Officials_The_Cognitive_Interview</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: researchgate.net  
    Title: Space Time Place 3rd International Conference on Remote Sensing in Archaeology  
-   Link: <a href="https://www.researchgate.net/profile/Stefano_Campana/publication/236838371_Space_Time_Place_3rd_International_Conference_on_Remote_Sensing_in_Archaeology/links/00b7d51948964e0c9e000000/Space-Time-Place-3rd-International-Conference-on-Remote-Sensing-in-Archaeology.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Stefano_Campana/publication/236838371_Space_Time_Place_3rd_International_Conference_on_Remote_Sensing_in_Archaeology/links/00b7d51948964e0c9e000000/Space-Time-Place-3rd-International-Conference-on-Remote-Sensing-in-Archaeology.pdf</a>  
+   Link:<a href="https://www.researchgate.net/profile/Stefano_Campana/publication/236838371_Space_Time_Place_3rd_International_Conference_on_Remote_Sensing_in_Archaeology/links/00b7d51948964e0c9e000000/Space-Time-Place-3rd-International-Conference-on-Remote-Sensing-in-Archaeology.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Stefano_Campana/publication/236838371_Space_Time_Place_3rd_International_Conference_on_Remote_Sensing_in_Archaeology/links/00b7d51948964e0c9e000000/Space-Time-Place-3rd-International-Conference-on-Remote-Sensing-in-Archaeology.pdf</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/407254157_Environmental_Factors_Misidentified_as_Paranormal_Activity_A_Scientific_Review_of_Physical_Chemical_Biological_Environmental_and_Psychological_Influences_on_Reported_Hauntings" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/407254157_Environmental_Factors_Misidentified_as_Paranormal_Activity_A_Scientific_Review_of_Physical_Chemical_Biological_Environmental_and_Psychological_Influences_on_Reported_Hauntings</a>  
+   Link:<a href="https://www.researchgate.net/publication/407254157_Environmental_Factors_Misidentified_as_Paranormal_Activity_A_Scientific_Review_of_Physical_Chemical_Biological_Environmental_and_Psychological_Influences_on_Reported_Hauntings" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/407254157_Environmental_Factors_Misidentified_as_Paranormal_Activity_A_Scientific_Review_of_Physical_Chemical_Biological_Environmental_and_Psychological_Influences_on_Reported_Hauntings</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/242695933_An_investigation_into_the_alleged_haunting_of_Hampton_Court_Palace_Psychological_variables_and_magnetic_fields" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/242695933_An_investigation_into_the_alleged_haunting_of_Hampton_Court_Palace_Psychological_variables_and_magnetic_fields</a>  
+   Link:<a href="https://www.researchgate.net/publication/242695933_An_investigation_into_the_alleged_haunting_of_Hampton_Court_Palace_Psychological_variables_and_magnetic_fields" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/242695933_An_investigation_into_the_alleged_haunting_of_Hampton_Court_Palace_Psychological_variables_and_magnetic_fields</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: researchgate.net  
    Title: 342720967 ARTICLE REVIEW INVESTIGATION INTO HAUNTINGS  
-   Link: <a href="https://www.researchgate.net/publication/342720967_ARTICLE_REVIEW_INVESTIGATION_INTO_HAUNTINGS" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342720967_ARTICLE_REVIEW_INVESTIGATION_INTO_HAUNTINGS</a>  
+   Link:<a href="https://www.researchgate.net/publication/342720967_ARTICLE_REVIEW_INVESTIGATION_INTO_HAUNTINGS" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342720967_ARTICLE_REVIEW_INVESTIGATION_INTO_HAUNTINGS</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2009  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7582c440f0b6397f35efcb/ufo_report_2009.pdf</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/owlie/weird-weather" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/owlie/weird-weather</a>  
+   Link:<a href="https://www.weather.gov/owlie/weird-weather" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/owlie/weird-weather</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: history.com  
    Title: ufo sightings speed appearance movement  
-   Link: <a href="https://www.history.com/articles/ufo-sightings-speed-appearance-movement" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufo-sightings-speed-appearance-movement</a>  
+   Link:<a href="https://www.history.com/articles/ufo-sightings-speed-appearance-movement" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufo-sightings-speed-appearance-movement</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2411.02401v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.02401v1</a>  
+   Link:<a href="https://arxiv.org/html/2411.02401v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.02401v1</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: forums.forteana.org  
-   Link: <a href="https://forums.forteana.org/index.php?threads%2Fevaluating-evidence.61152%2F=" target="_blank" rel="noopener noreferrer nofollow">https://forums.forteana.org/index.php?threads%2Fevaluating-evidence.61152%2F=</a>  
+   Link:<a href="https://forums.forteana.org/index.php?threads%2Fevaluating-evidence.61152%2F=" target="_blank" rel="noopener noreferrer nofollow">https://forums.forteana.org/index.php?threads%2Fevaluating-evidence.61152%2F=</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: assap.ac.uk  
-   Link: <a href="https://www.assap.ac.uk/research" target="_blank" rel="noopener noreferrer nofollow">https://www.assap.ac.uk/research</a>  
+   Link:<a href="https://www.assap.ac.uk/research" target="_blank" rel="noopener noreferrer nofollow">https://www.assap.ac.uk/research</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: assap.ac.uk  
-   Link: <a href="https://www.assap.ac.uk/about/investigations" target="_blank" rel="noopener noreferrer nofollow">https://www.assap.ac.uk/about/investigations</a>  
+   Link:<a href="https://www.assap.ac.uk/about/investigations" target="_blank" rel="noopener noreferrer nofollow">https://www.assap.ac.uk/about/investigations</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/12803815/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/12803815/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/12803815/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/12803815/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: loc.gov  
-   Link: <a href="https://www.loc.gov/everyday-mysteries/browse-all-questions/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/everyday-mysteries/browse-all-questions/item/can-it-rain-frogs-fish-and-other-objects/</a>  
+   Link:<a href="https://www.loc.gov/everyday-mysteries/browse-all-questions/item/can-it-rain-frogs-fish-and-other-objects/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/everyday-mysteries/browse-all-questions/item/can-it-rain-frogs-fish-and-other-objects/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: smithsonianmag.com  
    Title: Smithsonian Magazine Five Scientific Explanations for Spooky Sensations  
-   Link: <a href="https://www.smithsonianmag.com/smart-news/five-scientific-explanations-spooky-sensations-180973436/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smart-news/five-scientific-explanations-spooky-sensations-180973436/</a>  
+   Link:<a href="https://www.smithsonianmag.com/smart-news/five-scientific-explanations-spooky-sensations-180973436/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smart-news/five-scientific-explanations-spooky-sensations-180973436/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: post.parliament.uk  
    Title: uk Improving witness testimony  
-   Link: <a href="https://post.parliament.uk/research-briefings/post-pn-0607/" target="_blank" rel="noopener noreferrer nofollow">https://post.parliament.uk/research-briefings/post-pn-0607/</a>  
+   Link:<a href="https://post.parliament.uk/research-briefings/post-pn-0607/" target="_blank" rel="noopener noreferrer nofollow">https://post.parliament.uk/research-briefings/post-pn-0607/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: psi-encyclopedia.spr.ac.uk  
    Title: ghosts and apparitions psi research overview  
-   Link: <a href="https://psi-encyclopedia.spr.ac.uk/articles/ghosts-and-apparitions-psi-research-overview/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/articles/ghosts-and-apparitions-psi-research-overview/</a>  
+   Link:<a href="https://psi-encyclopedia.spr.ac.uk/articles/ghosts-and-apparitions-psi-research-overview/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/articles/ghosts-and-apparitions-psi-research-overview/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: psi-encyclopedia.spr.ac.uk  
    Title: spr.ac.uk Hauntings & Apparitions  
-   Link: <a href="https://psi-encyclopedia.spr.ac.uk/category/survival-of-death/hauntings-and-apparitions/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/category/survival-of-death/hauntings-and-apparitions/</a>  
+   Link:<a href="https://psi-encyclopedia.spr.ac.uk/category/survival-of-death/hauntings-and-apparitions/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/category/survival-of-death/hauntings-and-apparitions/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: harpur.org  
-   Link: <a href="https://www.harpur.org/x1anomalies.html" target="_blank" rel="noopener noreferrer nofollow">https://www.harpur.org/x1anomalies.html</a>  
+   Link:<a href="https://www.harpur.org/x1anomalies.html" target="_blank" rel="noopener noreferrer nofollow">https://www.harpur.org/x1anomalies.html</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: kids.kiddle.co  
    Title: Joe Nickell  
-   Link: <a href="https://kids.kiddle.co/Joe_Nickell" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/Joe_Nickell</a>  
+   Link:<a href="https://kids.kiddle.co/Joe_Nickell" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/Joe_Nickell</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: upclosed.com  
    Title: joe nickell  
-   Link: <a href="https://upclosed.com/i/joe-nickell/" target="_blank" rel="noopener noreferrer nofollow">https://upclosed.com/i/joe-nickell/</a>  
+   Link:<a href="https://upclosed.com/i/joe-nickell/" target="_blank" rel="noopener noreferrer nofollow">https://upclosed.com/i/joe-nickell/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12259700/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12259700/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12259700/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12259700/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10484215/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10484215/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10484215/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10484215/</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4131297/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4131297/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4131297/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4131297/</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: pointofinquiry.org  
    Title: Joe Nickell  
-   Link: <a href="https://pointofinquiry.org/2007/04/joe_nickell_debunking_in_hollywood/" target="_blank" rel="noopener noreferrer nofollow">https://pointofinquiry.org/2007/04/joe_nickell_debunking_in_hollywood/</a>  
+   Link:<a href="https://pointofinquiry.org/2007/04/joe_nickell_debunking_in_hollywood/" target="_blank" rel="noopener noreferrer nofollow">https://pointofinquiry.org/2007/04/joe_nickell_debunking_in_hollywood/</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: education.nationalgeographic.org  
-   Link: <a href="https://education.nationalgeographic.org/resource/rain/" target="_blank" rel="noopener noreferrer nofollow">https://education.nationalgeographic.org/resource/rain/</a>  
+   Link:<a href="https://education.nationalgeographic.org/resource/rain/" target="_blank" rel="noopener noreferrer nofollow">https://education.nationalgeographic.org/resource/rain/</a>  
 
 ### Additional References
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=K_luX1uNGMg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=K_luX1uNGMg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Recording Ghosts: The Truth About EVPs and Our Scariest Evidence | Ep. 31 | Haunted Objects Podcast...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=K_luX1uNGMg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=K_luX1uNGMg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Recording Ghosts: The Truth About EVPs and Our Scariest Evidence | Ep. 31 | Haunted Objects Podcast...</p></details>
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=vKKJDyz5v9s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vKKJDyz5v9s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stories from Pilots | UFOs: Investigating the Unknown | National Geographic UK...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vKKJDyz5v9s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vKKJDyz5v9s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stories from Pilots | UFOs: Investigating the Unknown | National Geographic UK...</p></details>
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=m6tvTgSIMwI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m6tvTgSIMwI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ParaMOOC 2023 March 7th Gerald Solfvin Science of Spontaneous Cases of the RSPK Type...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=m6tvTgSIMwI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m6tvTgSIMwI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ParaMOOC 2023 March 7th Gerald Solfvin Science of Spontaneous Cases of the RSPK Type...</p></details>
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: youtube.com  
    Title: March 11th Beth Darlington Possible Alternative Explanations  
-   Link: <a href="https://www.youtube.com/watch?v=j_5AWA3IttY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j_5AWA3IttY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bill Roll Lecture, Fall 2023: [Parapsychology](&amp;#123;&amp;#123; &#x27;parapsychology/&#x27; | relative_url &amp;#125;&amp;#125;) As a Science of Lived Experience...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=j_5AWA3IttY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j_5AWA3IttY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bill Roll Lecture, Fall 2023: [Parapsychology](&amp;#123;&amp;#123; &#x27;parapsychology/&#x27; | relative_url &amp;#125;&amp;#125;) As a Science of Lived Experience...</p></details>
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: ojp.gov  
-   Link: <a href="https://www.ojp.gov/ncjrs/virtual-library/abstracts/eyewitness-responses-leading-and-misleading-questions-under" target="_blank" rel="noopener noreferrer nofollow">https://www.ojp.gov/ncjrs/virtual-library/abstracts/eyewitness-responses-leading-and-misleading-questions-under</a>  
+   Link:<a href="https://www.ojp.gov/ncjrs/virtual-library/abstracts/eyewitness-responses-leading-and-misleading-questions-under" target="_blank" rel="noopener noreferrer nofollow">https://www.ojp.gov/ncjrs/virtual-library/abstracts/eyewitness-responses-leading-and-misleading-questions-under</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SkyatNightMagazine/posts/9-things-commonly-mistaken-for-ufos/10159905548066271/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SkyatNightMagazine/posts/9-things-commonly-mistaken-for-ufos/10159905548066271/</a>  
+   Link:<a href="https://www.facebook.com/SkyatNightMagazine/posts/9-things-commonly-mistaken-for-ufos/10159905548066271/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SkyatNightMagazine/posts/9-things-commonly-mistaken-for-ufos/10159905548066271/</a>  
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/2657696/An_investigation_into_the_alleged_haunting_of_Hampton_Court_Palace_Psychological_variables_and_magnetic_fields" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/2657696/An_investigation_into_the_alleged_haunting_of_Hampton_Court_Palace_Psychological_variables_and_magnetic_fields</a>  
+   Link:<a href="https://www.academia.edu/2657696/An_investigation_into_the_alleged_haunting_of_Hampton_Court_Palace_Psychological_variables_and_magnetic_fields" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/2657696/An_investigation_into_the_alleged_haunting_of_Hampton_Court_Palace_Psychological_variables_and_magnetic_fields</a>  
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: aiprinc.org  
-   Link: <a href="https://www.aiprinc.org/apparitions/" target="_blank" rel="noopener noreferrer nofollow">https://www.aiprinc.org/apparitions/</a>  
+   Link:<a href="https://www.aiprinc.org/apparitions/" target="_blank" rel="noopener noreferrer nofollow">https://www.aiprinc.org/apparitions/</a>  
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/newsletter/catching-ghosts/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/catching-ghosts/</a>  
+   Link:<a href="https://skepticalinquirer.org/newsletter/catching-ghosts/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/catching-ghosts/</a>  

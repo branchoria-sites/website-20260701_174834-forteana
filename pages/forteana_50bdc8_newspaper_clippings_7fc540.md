@@ -447,7 +447,7 @@ image: /assets/images/forteana_50bdc8_newspaper_clippings_7fc540-overview-social
 
 ## Introduction
 
-Old newspaper [clippings]({{ 'clippings/' | relative_url }}) can make Fortean stories feel unusually solid: a dated page, a named town, a headline, perhaps even a witness or magistrate. They matter because much of classic Forteana survives through exactly this route. [Charles Fort]({{ 'charles-fort/' | relative_url }}) built his books from published scraps, including newspapers, magazines and scientific journals, treating rejected reports as “damned” data rather than as settled proof. His method turned the clipping into a kind of evidence, but a slippery one: newspapers preserve traces of strange claims, not automatic confirmation that the strange event happened as reported. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kar.kent.ac.uk/50907/1/C.%20Sleigh%20-%20An%20outcry%20of%20silence.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kar.kent.ac.uk">[Kent Academic Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kar.kent.ac.uk</span><span class="citation-popover-title">Kent Academic Repository Charles Hoy Fort and the uncanny voices of science</span><span class="citation-popover-snippet">Kent Academic Repository Charles Hoy Fort and the uncanny voices of science</span></span></span>
+Old newspaper [clippings]({{ 'clippings/' | relative_url }}) can make Fortean stories feel unusually solid: a dated page, a named town, a headline, perhaps even a witness or magistrate. They matter because much of classic Forteana survives through exactly this route. [Charles Fort]({{ 'charles-fort/' | relative_url }}) built his books from published scraps, including newspapers, magazines and scientific journals, treating rejected reports as “damned” data rather than as settled proof. His method turned the clipping into a kind of evidence, but a slippery one: newspapers preserve traces of strange claims, not automatic confirmation that the strange event happened as reported.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kar.kent.ac.uk/50907/1/C.%20Sleigh%20-%20An%20outcry%20of%20silence.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kar.kent.ac.uk">[Kent Academic Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kar.kent.ac.uk</span><span class="citation-popover-title">Kent Academic Repository Charles Hoy Fort and the uncanny voices of science</span><span class="citation-popover-snippet">Kent Academic Repository Charles Hoy Fort and the uncanny voices of science</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_newspaper_clippings_7fc540-overview.webp" | relative_url }}" alt="Overview image for Newspapers" loading="eager" decoding="sync" fetchpriority="high">
@@ -455,9 +455,9 @@ The central question is therefore not “Was it printed?” but “What kind of 
 
 ## Why Fort Used Published Sources
 
-Fort’s choice of newspapers was practical as well as philosophical. He was not running field investigations into every fall of fish, uncanny footprint or aerial light. He was working in libraries, combing through printed records for reports that orthodox explanation had ignored or filed away too quickly. Scholar Charlotte Sleigh describes Fort’s mid-1910s shift into collecting unusual phenomena from scientific journals and newspapers, material that fed into the lost manuscripts *X* and *Y* and then into his four published books. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kar.kent.ac.uk/50907/1/C.%20Sleigh%20-%20An%20outcry%20of%20silence.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kar.kent.ac.uk">[Kent Academic Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kar.kent.ac.uk</span><span class="citation-popover-title">Kent Academic Repository Charles Hoy Fort and the uncanny voices of science</span><span class="citation-popover-snippet">Kent Academic Repository Charles Hoy Fort and the uncanny voices of science</span></span></span>
+Fort’s choice of newspapers was practical as well as philosophical. He was not running field investigations into every fall of fish, uncanny footprint or aerial light. He was working in libraries, combing through printed records for reports that orthodox explanation had ignored or filed away too quickly. Scholar Charlotte Sleigh describes Fort’s mid-1910s shift into collecting unusual phenomena from scientific journals and newspapers, material that fed into the lost manuscripts *X* and *Y* and then into his four published books.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kar.kent.ac.uk/50907/1/C.%20Sleigh%20-%20An%20outcry%20of%20silence.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kar.kent.ac.uk">[Kent Academic Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kar.kent.ac.uk</span><span class="citation-popover-title">Kent Academic Repository Charles Hoy Fort and the uncanny voices of science</span><span class="citation-popover-snippet">Kent Academic Repository Charles Hoy Fort and the uncanny voices of science</span></span></span>
 
-That approach suited Forteana because newspapers sit between private testimony and official record. A strange thing told at a pub or family table can vanish; once printed, it becomes dateable, searchable and comparable. Fort’s surviving reputation rests partly on that paper trail. The New York Public Library catalogue records Fort-related material as including trays of notes on occult phenomena, and other descriptions of his working habits emphasise the small slips, cards and scraps on which he gathered anomalies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archives.nypl.org/mss/2971" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.nypl.org">[NYPL Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.nypl.org</span><span class="citation-popover-snippet">Open source on nypl.org.</span></span></span>
+That approach suited Forteana because newspapers sit between private testimony and official record. A strange thing told at a pub or family table can vanish; once printed, it becomes dateable, searchable and comparable. Fort’s surviving reputation rests partly on that paper trail. The New York Public Library catalogue records Fort-related material as including trays of notes on occult phenomena, and other descriptions of his working habits emphasise the small slips, cards and scraps on which he gathered anomalies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archives.nypl.org/mss/2971" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.nypl.org">[NYPL Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.nypl.org</span><span class="citation-popover-snippet">Open source on nypl.org.</span></span></span>
 
 But Fort’s use of newspapers also exposes a permanent weakness in Fortean evidence. A published clipping is not the same as a sworn deposition, a specimen, a photograph, a [weather]({{ 'weather/' | relative_url }}) record, or a chain of physical custody. Fort often used publication itself as a challenge to exclusion: if respectable journals and newspapers had printed these things, why were they ignored? Yet the answer might be that the report was garbled, copied, satirical, exaggerated, or simply too thin to support the weight placed on it.
 
@@ -467,11 +467,11 @@ This is why newspaper clippings are best read as evidence of reporting, circulat
 <img src="{{ "/assets/images/forteana_50bdc8_newspaper_clippings_7fc540-Illustration-1-dark.svg" | relative_url }}" alt="Newspapers illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_newspaper_clippings_7fc540-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_newspaper_clippings_7fc540-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Local Journalism and Repetition
 
-The most seductive feature of newspaper evidence is volume. A Fortean story may appear in dozens of papers, giving the impression of a widespread evidential base. In nineteenth- and early twentieth-century press culture, however, repetition often means circulation rather than confirmation. Newspapers routinely reprinted material from other newspapers, agencies and exchange networks. Smithsonian Magazine notes that before modern feature syndicates matured, editors commonly filled space by reusing material found elsewhere; later syndication made repeated items even more systematic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/history/how-syndicated-columns-comics-stories-forever-changed-news-media-180973431/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">Smithsonian Magazine How Syndicated Columns, Comics and Stories Forever</span><span class="citation-popover-snippet">Smithsonian Magazine How Syndicated Columns, Comics and Stories Forever</span></span></span>
+The most seductive feature of newspaper evidence is volume. A Fortean story may appear in dozens of papers, giving the impression of a widespread evidential base. In nineteenth- and early twentieth-century press culture, however, repetition often means circulation rather than confirmation. Newspapers routinely reprinted material from other newspapers, agencies and exchange networks. Smithsonian Magazine notes that before modern feature syndicates matured, editors commonly filled space by reusing material found elsewhere; later syndication made repeated items even more systematic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/history/how-syndicated-columns-comics-stories-forever-changed-news-media-180973431/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">Smithsonian Magazine How Syndicated Columns, Comics and Stories Forever</span><span class="citation-popover-snippet">Smithsonian Magazine How Syndicated Columns, Comics and Stories Forever</span></span></span>
 
 This matters because a Fortean researcher can easily mistake one story printed twenty times for twenty stories. A report of a strange light might originate in a single local column, then be shortened, embellished, renamed and printed across a region. The apparent pattern may partly be a map of newspaper exchange, not a map of sightings.
 
-The 1896-97 American “mystery airship” wave is a useful example. Readex’s survey of historical newspaper coverage shows how reports, denials and sceptical commentary moved through the press, including stories of a secret inventor and lawyerly detail that later proved suspect. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readex.com/blog/ufo-fever-americas-historical-newspapers-mysterious-airships-1896-97" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readex.com">[readex.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readex.com</span><span class="citation-popover-title">ufo fever americas historical newspapers mysterious airships 1896 97</span><span class="citation-popover-snippet">ufo fever americas historical newspapers mysterious airships 1896 97</span></span></span> The case is Fortean not because every airship clipping is reliable, but because the clippings show how rumours, technological expectation, local pride and newspaper competition could produce a national anomaly before powered flight was ordinary.
+The 1896-97 American “mystery airship” wave is a useful example. Readex’s survey of historical newspaper coverage shows how reports, denials and sceptical commentary moved through the press, including stories of a secret inventor and lawyerly detail that later proved suspect.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readex.com/blog/ufo-fever-americas-historical-newspapers-mysterious-airships" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readex.com">[readex.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readex.com</span><span class="citation-popover-title">ufo fever americas historical newspapers mysterious airships</span><span class="citation-popover-snippet">ufo fever americas historical newspapers mysterious airships</span></span></span> The case is Fortean not because every airship clipping is reliable, but because the clippings show how rumours, technological expectation, local pride and newspaper competition could produce a national anomaly before powered flight was ordinary.
 
 Repetition can still be useful when handled carefully. It can show where a story first appeared, how quickly it spread, what details changed, and when sceptical counter-reporting entered the record. Those changes are often more revealing than the headline. A copied paragraph that gains a named witness in one town and loses a location in another may indicate editorial embroidery. A report that appears first as humour and later as sober news may show how genre confusion turns entertainment into “evidence”.
 
@@ -493,9 +493,9 @@ A good clipping audit asks several questions:
 
 </div>
 
-The “Devil’s Footprints” of Devon in February 1855 show why this matters. The famous story concerns hoof-like marks reported after snow around the Exe estuary, later associated with the devil and repeated in mystery literature. The case is often remembered as a single eerie event, but newspaper treatment involved local reports, letters, speculation and illustrations, each with its own evidential value. The Fortean question is not simply whether “the newspapers reported it”, but which newspapers reported what, how close they were to the scene, and whether the later demonic framing overtook the physical details. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Devil%27s_Footprints" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Devil&#x27;s Footprints</span><span class="citation-popover-snippet">Devil&#x27;s Footprints</span></span></span>
+The “Devil’s Footprints” of Devon in February 1855 show why this matters. The famous story concerns hoof-like marks reported after snow around the Exe estuary, later associated with the devil and repeated in mystery literature. The case is often remembered as a single eerie event, but newspaper treatment involved local reports, letters, speculation and illustrations, each with its own evidential value. The Fortean question is not simply whether “the newspapers reported it”, but which newspapers reported what, how close they were to the scene, and whether the later demonic framing overtook the physical details.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Devil%27s_Footprints" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Devil&#x27;s Footprints</span><span class="citation-popover-snippet">Devil&#x27;s Footprints</span></span></span>
 
-Tracing the earliest account can also downgrade a classic. The 1835 Great [Moon Hoax]({{ 'moon-hoax/' | relative_url }}) began as a newspaper series in *The Sun* of New York, falsely attributing lunar discoveries to Sir John Herschel and a fictitious companion. It was printed as if derived from scientific authority and widely discussed, but it was a fabricated press event, not a failed astronomical observation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/this-day-in-history/august-25/the-great-moon-hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">The Great Moon Hoax&quot; is published in the &quot;New York Sun</span><span class="citation-popover-snippet">The Great Moon Hoax&quot; is published in the &quot;New York Sun</span></span></span> For Forteana, it is a warning: impressive period newspaper coverage can document public excitement while proving nothing about the alleged phenomenon.
+Tracing the earliest account can also downgrade a classic. The 1835 Great [Moon Hoax]({{ 'moon-hoax/' | relative_url }}) began as a newspaper series in *The Sun* of New York, falsely attributing lunar discoveries to Sir John Herschel and a fictitious companion. It was printed as if derived from scientific authority and widely discussed, but it was a fabricated press event, not a failed astronomical observation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/this-day-in-history/august-25/the-great-moon-hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">The Great Moon Hoax&quot; is published in the &quot;New York Sun</span><span class="citation-popover-snippet">The Great Moon Hoax&quot; is published in the &quot;New York Sun</span></span></span> For Forteana, it is a warning: impressive period newspaper coverage can document public excitement while proving nothing about the alleged phenomenon.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZDUcA3h5p9M" title="The Book of the Damned (1/2) 🌟 By Charles Fort. FULL Audiobook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZDUcA3h5p9M" target="_blank" rel="noopener noreferrer">The Book of the Damned (1/2) 🌟 By Charles Fort. FULL Audiobook</a></p><p class="youtube-embed-meta">Channel: Audiobooks. Full length, free</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZDUcA3h5p9M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZDUcA3h5p9M">Open on YouTube</a></p></div></div></div>
@@ -506,7 +506,7 @@ The strongest use of newspaper clippings in Forteana is modest but important. Th
 
 Clippings also reveal how ordinary people and institutions framed the strange. Some reports quote police officers, doctors, farmers, clergy, scientists or civic officials; others show editors mocking or distancing themselves from the claim. That social context matters. A rain of fish reported in a rural paper may reflect weather, animal transport, mistaken identification, a practical joke, or an editor’s appetite for marvels. The clipping preserves not only the claim but the local vocabulary of plausibility.
 
-Fort himself often used serial accumulation: one odd fall might be dismissible, but dozens of similar printed accounts seemed to him to expose a pattern of exclusion. In *The Book of the Damned*, he repeatedly juxtaposed reports from scientific journals and newspapers, sometimes noting when an explanation or hoax claim appeared later. In one discussion of fallen organic matter, he cites an account and then records that a later journal item, relying on newspaper authority, called the incident a hoax. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sacred-texts.com/fort/damn/damn04.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Open source on sacred-texts.com.</span></span></span>
+Fort himself often used serial accumulation: one odd fall might be dismissible, but dozens of similar printed accounts seemed to him to expose a pattern of exclusion. In *The Book of the Damned*, he repeatedly juxtaposed reports from scientific journals and newspapers, sometimes noting when an explanation or hoax claim appeared later. In one discussion of fallen organic matter, he cites an account and then records that a later journal item, relying on newspaper authority, called the incident a hoax.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sacred-texts.com/fort/damn/damn04.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Open source on sacred-texts.com.</span></span></span>
 
 That habit is more valuable than Fort’s grandest speculations. It models a tension at the heart of Forteana: the clipping keeps the anomaly alive, while the next clipping may undermine it. A serious reader should preserve both.
 
@@ -514,7 +514,7 @@ That habit is more valuable than Fort’s grandest speculations. It models a ten
 
 A newspaper clipping cannot usually establish physical impossibility. It cannot show that all ordinary explanations were excluded, unless the article itself documents a competent investigation. Most short strange-news items do not. They often lack measurements, full witness names, exact times, weather conditions, specimen preservation, or follow-up.
 
-Nor does a clipping become reliable simply because it is old. Nineteenth-century newspapers operated in an environment where sensation, humour, political rivalry and circulation mattered. The Great Moon Hoax shows that scientific-sounding prose and named authority could be used to sell fantasy as fact. The mystery airship wave shows how expectation, technology talk and repeated reporting could generate a sense of national reality from uneven local material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/this-day-in-history/august-25/the-great-moon-hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">The Great Moon Hoax&quot; is published in the &quot;New York Sun</span><span class="citation-popover-snippet">The Great Moon Hoax&quot; is published in the &quot;New York Sun</span></span></span>
+Nor does a clipping become reliable simply because it is old. Nineteenth-century newspapers operated in an environment where sensation, humour, political rivalry and circulation mattered. The Great Moon Hoax shows that scientific-sounding prose and named authority could be used to sell fantasy as fact. The mystery airship wave shows how expectation, technology talk and repeated reporting could generate a sense of national reality from uneven local material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/this-day-in-history/august-25/the-great-moon-hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">The Great Moon Hoax&quot; is published in the &quot;New York Sun</span><span class="citation-popover-snippet">The Great Moon Hoax&quot; is published in the &quot;New York Sun</span></span></span>
 
 There is also a survival bias. Digitised archives make some newspapers easy to search while leaving others absent, paywalled, poorly scanned or undigitised. A modern researcher may think a story begins when it first appears in a searchable database, when in fact an earlier issue is missing or unreadable. Conversely, a story may seem absent from local papers because optical character recognition has failed to read the relevant column.
 
@@ -524,13 +524,13 @@ This means “I found ten clippings” and “I found no clippings” are both w
 <img src="{{ "/assets/images/forteana_50bdc8_newspaper_clippings_7fc540-Illustration-2-dark.svg" | relative_url }}" alt="Newspapers illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_newspaper_clippings_7fc540-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_newspaper_clippings_7fc540-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Digitised Archives Changed the Game
 
-Digitisation has made Fortean newspaper work far more powerful. Chronicling America, a joint project of the National Endowment for the Humanities and the Library of Congress, provides open access to historic American newspapers selected through the National Digital Newspaper Program. The NEH describes it as a database of newspapers published between 1690 and 1963, with state partners contributing title histories as well as digitised pages. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.neh.gov/explore/chronicling-america-historic-american-newspapers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: neh.gov">[NEH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">neh.gov</span><span class="citation-popover-snippet">Open source on neh.gov.</span></span></span>
+Digitisation has made Fortean newspaper work far more powerful. Chronicling America, a joint project of the National Endowment for the Humanities and the Library of Congress, provides open access to historic American newspapers selected through the National Digital Newspaper Program. The NEH describes it as a database of newspapers published between 1690 and 1963, with state partners contributing title histories as well as digitised pages.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.neh.gov/explore/chronicling-america-historic-american-newspapers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: neh.gov">[NEH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">neh.gov</span><span class="citation-popover-snippet">Open source on neh.gov.</span></span></span>
 
-This kind of archive lets researchers do things Fort could only approximate: search across regions, compare wording, identify reprint chains, inspect page context, and test whether a famous story appears before or after a claimed date. Large-scale newspaper datasets have also made repetition itself a subject of study. Work on Chronicling America has extracted visual and textual material from millions of pages, while recent research on newspaper image reprinting treats historic newspapers as systems of constant circulation rather than isolated local witnesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2005.01583" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+This kind of archive lets researchers do things Fort could only approximate: search across regions, compare wording, identify reprint chains, inspect page context, and test whether a famous story appears before or after a claimed date. Large-scale newspaper datasets have also made repetition itself a subject of study. Work on Chronicling America has extracted visual and textual material from millions of pages, while recent research on newspaper image reprinting treats historic newspapers as systems of constant circulation rather than isolated local witnesses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2005.01583" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
-Yet digitisation adds new traps. Searchable text is produced through optical character recognition, or OCR, which turns scanned images into machine-readable text. Old type, damaged pages, narrow columns and unusual layouts can produce errors. The Library of Congress has described reprocessing work to improve Chronicling America OCR, noting that older machine-readable text could be so poor that articles failed to appear in search results at all. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.loc.gov/headlinesandheroes/2025/04/ocr-reprocessing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.loc.gov</span><span class="citation-popover-title">ocr reprocessing</span><span class="citation-popover-snippet">ocr reprocessing</span></span></span>
+Yet digitisation adds new traps. Searchable text is produced through optical character recognition, or OCR, which turns scanned images into machine-readable text. Old type, damaged pages, narrow columns and unusual layouts can produce errors. The Library of Congress has described reprocessing work to improve Chronicling America OCR, noting that older machine-readable text could be so poor that articles failed to appear in search results at all.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.loc.gov/headlinesandheroes/2025/04/ocr-reprocessing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.loc.gov</span><span class="citation-popover-title">ocr reprocessing</span><span class="citation-popover-snippet">ocr reprocessing</span></span></span>
 
-For Fortean evidence, this is not a minor technical issue. A misspelt place name, broken headline or mangled word such as “apparition”, “meteor”, “airship” or “footprints” can hide a key clipping. Research on historical newspaper data warns that digitised newspapers are valuable but methodologically difficult, with OCR quality, layout detection and database coverage affecting what researchers can find and count. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nber.org/system/files/working_papers/w30135/w30135.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nber.org">[NBER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nber.org</span><span class="citation-popover-snippet">Open source on nber.org.</span></span></span>
+For Fortean evidence, this is not a minor technical issue. A misspelt place name, broken headline or mangled word such as “apparition”, “meteor”, “airship” or “footprints” can hide a key clipping. Research on historical newspaper data warns that digitised newspapers are valuable but methodologically difficult, with OCR quality, layout detection and database coverage affecting what researchers can find and count.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nber.org/system/files/working_papers/w30135/w30135.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nber.org">[NBER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nber.org</span><span class="citation-popover-snippet">Open source on nber.org.</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_newspaper_clippings_7fc540-Illustration-3-dark.svg" | relative_url }}" alt="Newspapers illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_newspaper_clippings_7fc540-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_newspaper_clippings_7fc540-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -552,7 +552,7 @@ A clipping that gives no names, no precise location and no follow-up may be usef
 
 **Red-flag evidence: too neat, too marketable, or contradicted nearby.**
 
-Some clippings read like crafted marvels. The Great Moon Hoax was persuasive partly because it borrowed scientific authority; mystery airship stories often mixed plausible mechanical language with impossible performance and theatrical witnesses. In Forteana, vividness is not the same as reliability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/this-day-in-history/august-25/the-great-moon-hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">The Great Moon Hoax&quot; is published in the &quot;New York Sun</span><span class="citation-popover-snippet">The Great Moon Hoax&quot; is published in the &quot;New York Sun</span></span></span>
+Some clippings read like crafted marvels. The Great Moon Hoax was persuasive partly because it borrowed scientific authority; mystery airship stories often mixed plausible mechanical language with impossible performance and theatrical witnesses. In Forteana, vividness is not the same as reliability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/this-day-in-history/august-25/the-great-moon-hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">The Great Moon Hoax&quot; is published in the &quot;New York Sun</span><span class="citation-popover-snippet">The Great Moon Hoax&quot; is published in the &quot;New York Sun</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jI8jzyx0zww" title="London Fortean Society: The Birth of the Hoax with Ian Keable" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jI8jzyx0zww" target="_blank" rel="noopener noreferrer">London Fortean Society: The Birth of the Hoax with Ian Keable</a></p><p class="youtube-embed-meta">Channel: Conway Hall</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jI8jzyx0zww" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jI8jzyx0zww">Open on YouTube</a></p></div></div></div>
@@ -570,194 +570,194 @@ The most honest Fortean use of old newspapers is therefore not to wave a clippin
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Old Newspapers Prove Strange Events?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Old Newspapers Prove Strange Events?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
-        </h4>
-        <p class="fr-book-author">By Charles Fort</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
+</h4>
+<p class="fr-book-author">By Charles Fort</p>
         
-        <p class="fr-book-desc">Built largely from newspaper and journal reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Built largely from newspaper and journal reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+Books+of+Charles+Fort+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete Books of Charles Fort on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NaFUhCtOCb4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Complete Books of Charles Fort" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Complete+Books+of+Charles+Fort+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Books of Charles Fort">The Complete Books of Charles Fort</a>
-        </h4>
-        <p class="fr-book-author">By Charles Fort</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+Books+of+Charles+Fort+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete Books of Charles Fort on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NaFUhCtOCb4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Complete Books of Charles Fort" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Complete+Books+of+Charles+Fort+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Books of Charles Fort">The Complete Books of Charles Fort</a>
+</h4>
+<p class="fr-book-author">By Charles Fort</p>
         
-        <p class="fr-book-desc">Provides the wider context for Fort&#x27;s use of printed sources.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Complete+Books+of+Charles+Fort+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the wider context for Fort&#x27;s use of printed sources.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Complete+Books+of+Charles+Fort+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Explores why remarkable stories and beliefs persist across generations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Explores why remarkable stories and beliefs persist across generations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Damnable+Tales+Charles+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Damnable Tales on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Damnable+Tales+Charles+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Damnable Tales">Damnable Tales</a>
-        </h4>
-        <p class="fr-book-author">By Charles Christian</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Damnable+Tales+Charles+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Damnable Tales on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Damnable+Tales+Charles+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Damnable Tales">Damnable Tales</a>
+</h4>
+<p class="fr-book-author">By Charles Christian</p>
         
-        <p class="fr-book-desc">Draws extensively on historical oddities and archival reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Damnable+Tales+Charles+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Draws extensively on historical oddities and archival reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Damnable+Tales+Charles+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Complete+Books+of+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Complete Books of Charles Fort</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Complete+Books+of+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Complete Books of Charles Fort</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Waterspout in Tampa Bay Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/20413d4d9abfc0567812.jpg' | relative_url }}" alt="Listing image for Waterspout in Tampa Bay Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer">Waterspout in Tampa Bay Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for waterspout poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: waterspout poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Waterspout in Tampa Bay Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/20413d4d9abfc0567812.jpg' | relative_url }}" alt="Listing image for Waterspout in Tampa Bay Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer">Waterspout in Tampa Bay Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for waterspout poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: waterspout poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gustave Courbet the Waterspout O 1 Vintage Art Print Poster Wall Decor Centerpie"><img src="{{ '/assets/images/marketplace-covers/27acaee695b41e3e90cd.jpg' | relative_url }}" alt="Listing image for Gustave Courbet the Waterspout O 1 Vintage Art Print Poster Wall Decor Centerpie" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer">Gustave Courbet the Waterspout O 1 Vintage Art Print Poster Wall Decor Centerpie</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for waterspout poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: waterspout poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gustave Courbet the Waterspout O 1 Vintage Art Print Poster Wall Decor Centerpie"><img src="{{ '/assets/images/marketplace-covers/27acaee695b41e3e90cd.jpg' | relative_url }}" alt="Listing image for Gustave Courbet the Waterspout O 1 Vintage Art Print Poster Wall Decor Centerpie" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer">Gustave Courbet the Waterspout O 1 Vintage Art Print Poster Wall Decor Centerpie</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for waterspout poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: waterspout poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gustave Courbet Marine the Waterspout O 1 Vintage Art Print Poster Wall Decor Ro"><img src="{{ '/assets/images/marketplace-covers/1a82cf6d8318f4b7e1a7.jpg' | relative_url }}" alt="Listing image for Gustave Courbet Marine the Waterspout O 1 Vintage Art Print Poster Wall Decor Ro" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer">Gustave Courbet Marine the Waterspout O 1 Vintage Art Print Poster Wall Decor Ro</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for waterspout poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: waterspout poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gustave Courbet Marine the Waterspout O 1 Vintage Art Print Poster Wall Decor Ro"><img src="{{ '/assets/images/marketplace-covers/1a82cf6d8318f4b7e1a7.jpg' | relative_url }}" alt="Listing image for Gustave Courbet Marine the Waterspout O 1 Vintage Art Print Poster Wall Decor Ro" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer">Gustave Courbet Marine the Waterspout O 1 Vintage Art Print Poster Wall Decor Ro</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for waterspout poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: waterspout poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Water Spout Over Ocean Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4bbf217d6ba276ed9621.jpg' | relative_url }}" alt="Listing image for Water Spout Over Ocean Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer">Water Spout Over Ocean Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for waterspout poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: waterspout poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Water Spout Over Ocean Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4bbf217d6ba276ed9621.jpg' | relative_url }}" alt="Listing image for Water Spout Over Ocean Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer">Water Spout Over Ocean Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for waterspout poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: waterspout poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=waterspout+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="waterspout poster" data-ebay-reference="newspapers-can-old-newspapers-prove-strange-events-forteana-waterspout-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -773,7 +773,7 @@ The most honest Fortean use of old newspapers is therefore not to wave a clippin
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -793,7 +793,7 @@ The most honest Fortean use of old newspapers is therefore not to wave a clippin
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -825,7 +825,7 @@ The most honest Fortean use of old newspapers is therefore not to wave a clippin
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -877,7 +877,7 @@ The most honest Fortean use of old newspapers is therefore not to wave a clippin
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -922,7 +922,7 @@ The most honest Fortean use of old newspapers is therefore not to wave a clippin
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -963,241 +963,241 @@ The most honest Fortean use of old newspapers is therefore not to wave a clippin
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archives.nypl.org  
-   Link: <a href="https://archives.nypl.org/mss/2971" target="_blank" rel="noopener noreferrer nofollow">https://archives.nypl.org/mss/2971</a>  
+   Link:<a href="https://archives.nypl.org/mss/2971" target="_blank" rel="noopener noreferrer nofollow">https://archives.nypl.org/mss/2971</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archives.nypl.org  
-   Link: <a href="https://archives.nypl.org/controlaccess/13206?term=Fort%2C+Charles%2C-1932" target="_blank" rel="noopener noreferrer nofollow">https://archives.nypl.org/controlaccess/13206?term=Fort%2C+Charles%2C-1932</a>  
+   Link:<a href="https://archives.nypl.org/controlaccess/13206?term=Fort%2C+Charles%2C-1932" target="_blank" rel="noopener noreferrer nofollow">https://archives.nypl.org/controlaccess/13206?term=Fort%2C+Charles%2C-1932</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: readex.com  
    Title: ufo fever americas historical newspapers mysterious airships 1896 97  
-   Link: <a href="https://www.readex.com/blog/ufo-fever-americas-historical-newspapers-mysterious-airships-1896-97" target="_blank" rel="noopener noreferrer nofollow">https://www.readex.com/blog/ufo-fever-americas-historical-newspapers-mysterious-airships-1896-97</a>  
+   Link:<a href="https://www.readex.com/blog/ufo-fever-americas-historical-newspapers-mysterious-airships" target="_blank" rel="noopener noreferrer nofollow">https://www.readex.com/blog/ufo-fever-americas-historical-newspapers-mysterious-airships</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Devil's Footprints  
-   Link: <a href="https://en.wikipedia.org/wiki/Devil%27s_Footprints" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Devil%27s_Footprints</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Devil%27s_Footprints" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Devil%27s_Footprints</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: history.com  
    Title: "The Great Moon Hoax" is published in the "New York Sun"  
-   Link: <a href="https://www.history.com/this-day-in-history/august-25/the-great-moon-hoax" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/august-25/the-great-moon-hoax</a>  
+   Link:<a href="https://www.history.com/this-day-in-history/august-25/the-great-moon-hoax" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/august-25/the-great-moon-hoax</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: neh.gov  
-   Link: <a href="https://www.neh.gov/explore/chronicling-america-historic-american-newspapers" target="_blank" rel="noopener noreferrer nofollow">https://www.neh.gov/explore/chronicling-america-historic-american-newspapers</a>  
+   Link:<a href="https://www.neh.gov/explore/chronicling-america-historic-american-newspapers" target="_blank" rel="noopener noreferrer nofollow">https://www.neh.gov/explore/chronicling-america-historic-american-newspapers</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2005.01583" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2005.01583</a>  
+   Link:<a href="https://arxiv.org/abs/2005.01583" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2005.01583</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2606.16209" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2606.16209</a>  
+   Link:<a href="https://arxiv.org/abs/2606.16209" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2606.16209</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nber.org  
-   Link: <a href="https://www.nber.org/system/files/working_papers/w30135/w30135.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/system/files/working_papers/w30135/w30135.pdf</a>  
+   Link:<a href="https://www.nber.org/system/files/working_papers/w30135/w30135.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/system/files/working_papers/w30135/w30135.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2203.03557" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2203.03557</a>  
+   Link:<a href="https://arxiv.org/abs/2203.03557" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2203.03557</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Charles Fort  
-   Link: <a href="https://en.wikipedia.org/wiki/Charles_Fort" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Charles_Fort</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Charles_Fort" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Charles_Fort</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: The Book of the Damned  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Book_of_the_Damned" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Book_of_the_Damned</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Book_of_the_Damned" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Book_of_the_Damned</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Mystery airship  
-   Link: <a href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mystery_airship</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mystery_airship</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Great Moon Hoax  
-   Link: <a href="https://en.wikipedia.org/wiki/Great_Moon_Hoax" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Great_Moon_Hoax</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Great_Moon_Hoax" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Great_Moon_Hoax</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: New York Public Library  
-   Link: <a href="https://en.wikipedia.org/wiki/New_York_Public_Library" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/New_York_Public_Library</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/New_York_Public_Library" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/New_York_Public_Library</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/details/bookofdamnedbych00fortrich" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/bookofdamnedbych00fortrich</a>  
+   Link:<a href="https://archive.org/details/bookofdamnedbych00fortrich" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/bookofdamnedbych00fortrich</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: archive.org  
    Title: 12140.R01166 The Illustrated London News 10Magazines djvu.txt  
-   Link: <a href="https://archive.org/stream/dli.ministry.28850/12140.R01166_The_Illustrated_London_News_10Magazines_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/dli.ministry.28850/12140.R01166_The_Illustrated_London_News_10Magazines_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/dli.ministry.28850/12140.R01166_The_Illustrated_London_News_10Magazines_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/dli.ministry.28850/12140.R01166_The_Illustrated_London_News_10Magazines_djvu.txt</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/download/journalisticlond00hatt/journalisticlond00hatt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/journalisticlond00hatt/journalisticlond00hatt.pdf</a>  
+   Link:<a href="https://archive.org/download/journalisticlond00hatt/journalisticlond00hatt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/journalisticlond00hatt/journalisticlond00hatt.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: dn790008.ca.archive.org  
-   Link: <a href="https://dn790008.ca.archive.org/0/items/londonenvirons00karl/londonenvirons00karl.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dn790008.ca.archive.org/0/items/londonenvirons00karl/londonenvirons00karl.pdf</a>  
+   Link:<a href="https://dn790008.ca.archive.org/0/items/londonenvirons00karl/londonenvirons00karl.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dn790008.ca.archive.org/0/items/londonenvirons00karl/londonenvirons00karl.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: dn790004.ca.archive.org  
-   Link: <a href="https://dn790004.ca.archive.org/0/items/londonerslondon00whitrich/londonerslondon00whitrich.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dn790004.ca.archive.org/0/items/londonerslondon00whitrich/londonerslondon00whitrich.pdf</a>  
+   Link:<a href="https://dn790004.ca.archive.org/0/items/londonerslondon00whitrich/londonerslondon00whitrich.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dn790004.ca.archive.org/0/items/londonerslondon00whitrich/londonerslondon00whitrich.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: dn790009.ca.archive.org  
-   Link: <a href="https://dn790009.ca.archive.org/0/items/7edprehistorictimelubbuoft/7edprehistorictimelubbuoft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dn790009.ca.archive.org/0/items/7edprehistorictimelubbuoft/7edprehistorictimelubbuoft.pdf</a>  
+   Link:<a href="https://dn790009.ca.archive.org/0/items/7edprehistorictimelubbuoft/7edprehistorictimelubbuoft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dn790009.ca.archive.org/0/items/7edprehistorictimelubbuoft/7edprehistorictimelubbuoft.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: dn790004.ca.archive.org  
-   Link: <a href="https://dn790004.ca.archive.org/0/items/bookofdamnedbych00fortrich/bookofdamnedbych00fortrich.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dn790004.ca.archive.org/0/items/bookofdamnedbych00fortrich/bookofdamnedbych00fortrich.pdf</a>  
+   Link:<a href="https://dn790004.ca.archive.org/0/items/bookofdamnedbych00fortrich/bookofdamnedbych00fortrich.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dn790004.ca.archive.org/0/items/bookofdamnedbych00fortrich/bookofdamnedbych00fortrich.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: dn790004.ca.archive.org  
-   Link: <a href="https://dn790004.ca.archive.org/0/items/wiltshirearchaeo7819wilt/wiltshirearchaeo7819wilt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dn790004.ca.archive.org/0/items/wiltshirearchaeo7819wilt/wiltshirearchaeo7819wilt.pdf</a>  
+   Link:<a href="https://dn790004.ca.archive.org/0/items/wiltshirearchaeo7819wilt/wiltshirearchaeo7819wilt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dn790004.ca.archive.org/0/items/wiltshirearchaeo7819wilt/wiltshirearchaeo7819wilt.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/download/19c8c38c-9262-4f37-891a-18f767dbf61c/19c8c38c-9262-4f37-891a-18f767dbf61c.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/19c8c38c-9262-4f37-891a-18f767dbf61c/19c8c38c-9262-4f37-891a-18f767dbf61c.pdf</a>  
+   Link:<a href="https://archive.org/download/19c8c38c-9262-4f37-891a-18f767dbf61c/19c8c38c-9262-4f37-891a-18f767dbf61c.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/19c8c38c-9262-4f37-891a-18f767dbf61c/19c8c38c-9262-4f37-891a-18f767dbf61c.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: dn790007.ca.archive.org  
-   Link: <a href="https://dn790007.ca.archive.org/0/items/cornwall00salm/cornwall00salm.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dn790007.ca.archive.org/0/items/cornwall00salm/cornwall00salm.pdf</a>  
+   Link:<a href="https://dn790007.ca.archive.org/0/items/cornwall00salm/cornwall00salm.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dn790007.ca.archive.org/0/items/cornwall00salm/cornwall00salm.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: dn790006.ca.archive.org  
-   Link: <a href="https://dn790006.ca.archive.org/0/items/witchcraftofnewe00putnuoft/witchcraftofnewe00putnuoft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dn790006.ca.archive.org/0/items/witchcraftofnewe00putnuoft/witchcraftofnewe00putnuoft.pdf</a>  
+   Link:<a href="https://dn790006.ca.archive.org/0/items/witchcraftofnewe00putnuoft/witchcraftofnewe00putnuoft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dn790006.ca.archive.org/0/items/witchcraftofnewe00putnuoft/witchcraftofnewe00putnuoft.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: archive.org  
    Title: The Complete Books of Charles Fort  
-   Link: <a href="https://archive.org/download/biological-mysteries/The%20Complete%20Works%20of%20Charles%20Fort.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/biological-mysteries/The%20Complete%20Works%20of%20Charles%20Fort.pdf</a>  
+   Link:<a href="https://archive.org/download/biological-mysteries/The%20Complete%20Works%20of%20Charles%20Fort.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/biological-mysteries/The%20Complete%20Works%20of%20Charles%20Fort.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: archives.nypl.org  
-   Link: <a href="https://archives.nypl.org/controlaccess/3183?term=Occultism" target="_blank" rel="noopener noreferrer nofollow">https://archives.nypl.org/controlaccess/3183?term=Occultism</a>  
+   Link:<a href="https://archives.nypl.org/controlaccess/3183?term=Occultism" target="_blank" rel="noopener noreferrer nofollow">https://archives.nypl.org/controlaccess/3183?term=Occultism</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: libguides.nypl.org  
-   Link: <a href="https://libguides.nypl.org/newspapers" target="_blank" rel="noopener noreferrer nofollow">https://libguides.nypl.org/newspapers</a>  
+   Link:<a href="https://libguides.nypl.org/newspapers" target="_blank" rel="noopener noreferrer nofollow">https://libguides.nypl.org/newspapers</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: forums.forteana.org  
-   Link: <a href="https://forums.forteana.org/index.php?threads%2Fshockingly-close-to-charles-fort.21526%2F=" target="_blank" rel="noopener noreferrer nofollow">https://forums.forteana.org/index.php?threads%2Fshockingly-close-to-charles-fort.21526%2F=</a>  
+   Link:<a href="https://forums.forteana.org/index.php?threads%2Fshockingly-close-to-charles-fort.21526%2F=" target="_blank" rel="noopener noreferrer nofollow">https://forums.forteana.org/index.php?threads%2Fshockingly-close-to-charles-fort.21526%2F=</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: readex.com  
-   Link: <a href="https://www.readex.com/products/americas-historical-newspapers-periodicals" target="_blank" rel="noopener noreferrer nofollow">https://www.readex.com/products/americas-historical-newspapers-periodicals</a>  
+   Link:<a href="https://www.readex.com/products/americas-historical-newspapers-periodicals" target="_blank" rel="noopener noreferrer nofollow">https://www.readex.com/products/americas-historical-newspapers-periodicals</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: kar.kent.ac.uk  
    Title: Kent Academic Repository Charles Hoy Fort and the uncanny voices of science  
-   Link: <a href="https://kar.kent.ac.uk/50907/1/C.%20Sleigh%20-%20An%20outcry%20of%20silence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kar.kent.ac.uk/50907/1/C.%20Sleigh%20-%20An%20outcry%20of%20silence.pdf</a>  
+   Link:<a href="https://kar.kent.ac.uk/50907/1/C.%20Sleigh%20-%20An%20outcry%20of%20silence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kar.kent.ac.uk/50907/1/C.%20Sleigh%20-%20An%20outcry%20of%20silence.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: smithsonianmag.com  
    Title: Smithsonian Magazine How Syndicated Columns, Comics and Stories Forever  
-   Link: <a href="https://www.smithsonianmag.com/history/how-syndicated-columns-comics-stories-forever-changed-news-media-180973431/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/history/how-syndicated-columns-comics-stories-forever-changed-news-media-180973431/</a>  
+   Link:<a href="https://www.smithsonianmag.com/history/how-syndicated-columns-comics-stories-forever-changed-news-media-180973431/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/history/how-syndicated-columns-comics-stories-forever-changed-news-media-180973431/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: sacred-texts.com  
-   Link: <a href="https://sacred-texts.com/fort/damn/damn04.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/fort/damn/damn04.htm</a>  
+   Link:<a href="https://sacred-texts.com/fort/damn/damn04.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/fort/damn/damn04.htm</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: blogs.loc.gov  
    Title: ocr reprocessing  
-   Link: <a href="https://blogs.loc.gov/headlinesandheroes/2025/04/ocr-reprocessing/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/headlinesandheroes/2025/04/ocr-reprocessing/</a>  
+   Link:<a href="https://blogs.loc.gov/headlinesandheroes/2025/04/ocr-reprocessing/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/headlinesandheroes/2025/04/ocr-reprocessing/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: artandpopularculture.com  
    Title: Charles Fort  
-   Link: <a href="https://www.artandpopularculture.com/Charles_Fort" target="_blank" rel="noopener noreferrer nofollow">https://www.artandpopularculture.com/Charles_Fort</a>  
+   Link:<a href="https://www.artandpopularculture.com/Charles_Fort" target="_blank" rel="noopener noreferrer nofollow">https://www.artandpopularculture.com/Charles_Fort</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: history.nebraska.gov  
    Title: look up in the air  
-   Link: <a href="https://history.nebraska.gov/look-up-in-the-air/" target="_blank" rel="noopener noreferrer nofollow">https://history.nebraska.gov/look-up-in-the-air/</a>  
+   Link:<a href="https://history.nebraska.gov/look-up-in-the-air/" target="_blank" rel="noopener noreferrer nofollow">https://history.nebraska.gov/look-up-in-the-air/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: blogs.loc.gov  
    Title: the great moon hoax  
-   Link: <a href="https://blogs.loc.gov/folklife/2014/08/the-great-moon-hoax/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/folklife/2014/08/the-great-moon-hoax/</a>  
+   Link:<a href="https://blogs.loc.gov/folklife/2014/08/the-great-moon-hoax/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/folklife/2014/08/the-great-moon-hoax/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: catalog.hathitrust.org  
-   Link: <a href="https://catalog.hathitrust.org/Record/011592825" target="_blank" rel="noopener noreferrer nofollow">https://catalog.hathitrust.org/Record/011592825</a>  
+   Link:<a href="https://catalog.hathitrust.org/Record/011592825" target="_blank" rel="noopener noreferrer nofollow">https://catalog.hathitrust.org/Record/011592825</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: ncna.dh.chass.ncsu.edu  
-   Link: <a href="https://ncna.dh.chass.ncsu.edu/imageanalytics/history.php" target="_blank" rel="noopener noreferrer nofollow">https://ncna.dh.chass.ncsu.edu/imageanalytics/history.php</a>  
+   Link:<a href="https://ncna.dh.chass.ncsu.edu/imageanalytics/history.php" target="_blank" rel="noopener noreferrer nofollow">https://ncna.dh.chass.ncsu.edu/imageanalytics/history.php</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: books.google.com  
    Title: The Book of the Damned  
-   Link: <a href="https://books.google.com/books/about/The_Book_of_the_Damned.html?id=ho00KqhKx2wC" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/The_Book_of_the_Damned.html?id=ho00KqhKx2wC</a>  
+   Link:<a href="https://books.google.com/books/about/The_Book_of_the_Damned.html?id=ho00KqhKx2wC" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/The_Book_of_the_Damned.html?id=ho00KqhKx2wC</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: shop.nationalarchives.gov.uk  
-   Link: <a href="https://shop.nationalarchives.gov.uk/products/histl-res-using-newspapers" target="_blank" rel="noopener noreferrer nofollow">https://shop.nationalarchives.gov.uk/products/histl-res-using-newspapers</a>  
+   Link:<a href="https://shop.nationalarchives.gov.uk/products/histl-res-using-newspapers" target="_blank" rel="noopener noreferrer nofollow">https://shop.nationalarchives.gov.uk/products/histl-res-using-newspapers</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: sacred-texts.com  
-   Link: <a href="https://sacred-texts.com/fort/damn/damn13.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/fort/damn/damn13.htm</a>  
+   Link:<a href="https://sacred-texts.com/fort/damn/damn13.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/fort/damn/damn13.htm</a>  
 
 ### Additional References
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: youtube.com  
    Title: London Fortean Society: The Birth of the Hoax with Ian Keable  
-   Link: <a href="https://www.youtube.com/watch?v=jI8jzyx0zww" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jI8jzyx0zww</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Episode 230 Charles Fort Our Supernatural Father Part 1...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jI8jzyx0zww" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jI8jzyx0zww</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Episode 230 Charles Fort Our Supernatural Father Part 1...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: youtube.com  
    Title: Episode 230 Charles Fort Our Supernatural Father Part 1  
-   Link: <a href="https://www.youtube.com/watch?v=E1nxUe7ur-M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E1nxUe7ur-M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Book of the Damned (1/2) By Charles Fort. FULL Audiobook...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=E1nxUe7ur-M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E1nxUe7ur-M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Book of the Damned (1/2) By Charles Fort. FULL Audiobook...</p></details>
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: youtube.com  
    Title: Edinburgh Fortean Society Weird World of Charles Fort  
-   Link: <a href="https://www.youtube.com/watch?v=0mUmC9Wa0TA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0mUmC9Wa0TA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>London Fortean Society: The Birth of the Hoax with Ian Keable...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0mUmC9Wa0TA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0mUmC9Wa0TA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>London Fortean Society: The Birth of the Hoax with Ian Keable...</p></details>
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: youtube.com  
    Title: The Book of the Damned (1/2) By Charles Fort. FULL Audiobook  
-   Link: <a href="https://www.youtube.com/watch?v=ZDUcA3h5p9M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZDUcA3h5p9M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lo! (1/2) By Charles Fort. FULL Audiobook...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZDUcA3h5p9M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZDUcA3h5p9M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lo! (1/2) By Charles Fort. FULL Audiobook...</p></details>
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: yann-ryan.github.io  
-   Link: <a href="https://yann-ryan.github.io/newspapers/ocr.html" target="_blank" rel="noopener noreferrer nofollow">https://yann-ryan.github.io/newspapers/ocr.html</a>  
+   Link:<a href="https://yann-ryan.github.io/newspapers/ocr.html" target="_blank" rel="noopener noreferrer nofollow">https://yann-ryan.github.io/newspapers/ocr.html</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: philosophynow.org  
-   Link: <a href="https://philosophynow.org/issues/38/A_Late_Disciple_of_Lucretius" target="_blank" rel="noopener noreferrer nofollow">https://philosophynow.org/issues/38/A_Late_Disciple_of_Lucretius</a>  
+   Link:<a href="https://philosophynow.org/issues/38/A_Late_Disciple_of_Lucretius" target="_blank" rel="noopener noreferrer nofollow">https://philosophynow.org/issues/38/A_Late_Disciple_of_Lucretius</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/newsletter/charles-fort-purveyor-of-the-unprobed/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/charles-fort-purveyor-of-the-unprobed/</a>  
+   Link:<a href="https://skepticalinquirer.org/newsletter/charles-fort-purveyor-of-the-unprobed/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/charles-fort-purveyor-of-the-unprobed/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: penguinrandomhouse.ca  
-   Link: <a href="https://www.penguinrandomhouse.ca/books/533872/the-book-of-the-damned-by-charles-fort/excerpt" target="_blank" rel="noopener noreferrer nofollow">https://www.penguinrandomhouse.ca/books/533872/the-book-of-the-damned-by-charles-fort/excerpt</a>  
+   Link:<a href="https://www.penguinrandomhouse.ca/books/533872/the-book-of-the-damned-by-charles-fort/excerpt" target="_blank" rel="noopener noreferrer nofollow">https://www.penguinrandomhouse.ca/books/533872/the-book-of-the-damned-by-charles-fort/excerpt</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/StrangeCompanyBlog/photos/this-weeks-forteanfriday-its-charles-fort-himself-vs-the-new-york-public-library/1271030858321259/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/StrangeCompanyBlog/photos/this-weeks-forteanfriday-its-charles-fort-himself-vs-the-new-york-public-library/1271030858321259/</a>  
+   Link:<a href="https://www.facebook.com/StrangeCompanyBlog/photos/this-weeks-forteanfriday-its-charles-fort-himself-vs-the-new-york-public-library/1271030858321259/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/StrangeCompanyBlog/photos/this-weeks-forteanfriday-its-charles-fort-himself-vs-the-new-york-public-library/1271030858321259/</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: gale.com  
-   Link: <a href="https://gale.com/product-catalog/225178" target="_blank" rel="noopener noreferrer nofollow">https://gale.com/product-catalog/225178</a>  
+   Link:<a href="https://gale.com/product-catalog/225178" target="_blank" rel="noopener noreferrer nofollow">https://gale.com/product-catalog/225178</a>  

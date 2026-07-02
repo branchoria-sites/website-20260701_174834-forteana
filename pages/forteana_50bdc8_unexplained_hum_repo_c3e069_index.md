@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /forteana-50bdc8-unexplained-hum-repo/
 description: Focused pages that expand on Odd Hums.
-date: '2026-07-01'
+date: '2026'
 layout: default
 parent_basename: forteana_50bdc8_unexplained_hum_repo_c3e069
 parent_title: Odd Hums
@@ -16,7 +16,7 @@ parent_permalink: /odd-hums/
 
 # Explore Topics in Odd Hums
 
-The following pages expand on the main **[Odd Hums]({{ '/odd-hums/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Odd Hums]({{ '/odd-hums/' | relative_url }})** page and cover its key branches in.
 
 - [Body Sources]({{ '/body-sources/' | relative_url }})
 - [Support Groups]({{ '/support-groups/' | relative_url }})

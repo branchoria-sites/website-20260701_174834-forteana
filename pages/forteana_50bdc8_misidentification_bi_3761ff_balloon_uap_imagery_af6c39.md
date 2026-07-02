@@ -274,7 +274,7 @@ image: /assets/images/forteana_50bdc8_misidentification_bi_3761ff_balloon_uap_im
 
 ## Introduction
 
-Official unidentified anomalous phenomena (UAP) imagery has repeatedly demonstrated how ordinary balloons can appear extraordinary when recorded under difficult viewing conditions. Low-resolution infrared sensors, long focal lengths, uncertain range, moving camera platforms and incomplete [weather]({{ 'weather/' | relative_url }}) data can combine to create objects that seem to hover, accelerate or manoeuvre in ways that initially resist explanation. In recent years, the U.S. Department of Defense's All-domain Anomaly Resolution Office (AARO) has used several publicly released cases to illustrate that an object can remain officially "unidentified" for a time without implying anything exotic, and that additional analysis often resolves such cases as balloons or other commonplace airborne objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryOfficial UAP Imagery. AARO assesses, with high confidence, that the footage depicts the presence of a physical object. UAP...</span></span></span>
+Official unidentified anomalous phenomena (UAP) imagery has repeatedly demonstrated how ordinary balloons can appear extraordinary when recorded under difficult viewing conditions. Low-resolution infrared sensors, long focal lengths, uncertain range, moving camera platforms and incomplete [weather]({{ 'weather/' | relative_url }}) data can combine to create objects that seem to hover, accelerate or manoeuvre in ways that initially resist explanation. In recent years, the U.S. Department of Defense's All-domain Anomaly Resolution Office (AARO) has used several publicly released cases to illustrate that an object can remain officially "unidentified" for a time without implying anything exotic, and that additional analysis often resolves such cases as balloons or other commonplace airborne objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryOfficial UAP Imagery. AARO assesses, with high confidence, that the footage depicts the presence of a physical object. UAP...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_misidentification_bi_3761ff_balloon_uap_imagery_af6c39-Illustration-1-dark.svg" | relative_url }}" alt="Balloon UAPs illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_misidentification_bi_3761ff_balloon_uap_imagery_af6c39-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_misidentification_bi_3761ff_balloon_uap_imagery_af6c39-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -318,7 +318,7 @@ Instead of following powered flight profiles, balloons typically:
 
 </div>
 
-In 2025 AARO publicly released multiple case-resolution videos from Europe recorded in 2022, assessing with high confidence that the recorded objects were almost certainly balloons. The office stated that its conclusions rested on two complementary lines of evidence: the objects' morphology matched other resolved balloon imagery, while their measured movement closely followed expected wind-driven behaviour rather than powered flight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dvidshub.net/video/977840/pr-009-uap-report-resolved-balloon-europe-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-title">pr 009 uap report resolved balloon europe 2022</span><span class="citation-popover-snippet">DVIDSPR-009, UAP Report Resolved as a Balloon, Europe 2022AARO assesses, with high confidence, that the object depicted in the video is a...</span></span></span>
+In 2025 AARO publicly released multiple case-resolution videos from Europe recorded in 2022, assessing with high confidence that the recorded objects were almost certainly balloons. The office stated that its conclusions rested on two complementary lines of evidence: the objects' morphology matched other resolved balloon imagery, while their measured movement closely followed expected wind-driven behaviour rather than powered flight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dvidshub.net/video/977840/pr-009-uap-report-resolved-balloon-europe-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-title">pr 009 uap report resolved balloon europe 2022</span><span class="citation-popover-snippet">DVIDSPR-009, UAP Report Resolved as a Balloon, Europe 2022AARO assesses, with high confidence, that the object depicted in the video is a...</span></span></span>
 
 This combination is significant because neither appearance nor motion alone is always decisive. A blurred object may resemble several different things, but when its track also matches atmospheric drift, confidence in a balloon explanation increases substantially.
 
@@ -328,9 +328,9 @@ This combination is significant because neither appearance nor motion alone is a
 
 Official UAP footage often circulates long before investigators possess enough contextual information to identify the object. The imagery itself rarely contains sufficient information to determine distance, speed or size.
 
-A useful example is the well-known [GOFAST]({{ 'gofast/' | relative_url }}) video recorded by a U.S. Navy aircraft. For years the footage was widely interpreted as showing an object travelling at extraordinary speed just above the ocean surface. Later AARO analysis reconstructed the encounter using aircraft geometry, trigonometry and sensor data, concluding that the object was actually much higher—around 13,000 feet—and moving at roughly wind speed. Its dramatic apparent velocity resulted primarily from motion parallax caused by the observing aircraft's own movement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO+2DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">AARO GoFast Case Resolution6 Feb 2025 — The distance between these two points (red arrows) is the perceived distance the. UAP travell...</span></span></span>
+A useful example is the well-known [GOFAST]({{ 'gofast/' | relative_url }}) video recorded by a U.S. Navy aircraft. For years the footage was widely interpreted as showing an object travelling at extraordinary speed just above the ocean surface. Later AARO analysis reconstructed the encounter using aircraft geometry, trigonometry and sensor data, concluding that the object was actually much higher—around 13,000 feet—and moving at roughly wind speed. Its dramatic apparent velocity resulted primarily from motion parallax caused by the observing aircraft's own movement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO+2DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">AARO GoFast Case Resolution6 Feb 2025 — The distance between these two points (red arrows) is the perceived distance the. UAP travell...</span></span></span>
 
-Although AARO's published GOFAST resolution does not identify the object with complete certainty, the reconstructed speed and altitude are compatible with passive windborne objects such as balloons, illustrating how incomplete geometric information can produce misleading visual impressions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">AARO GoFast Case Resolution6 Feb 2025 — The distance between these two points (red arrows) is the perceived distance the. UAP travell...</span></span></span>
+Although AARO's published GOFAST resolution does not identify the object with complete certainty, the reconstructed speed and altitude are compatible with passive windborne objects such as balloons, illustrating how incomplete geometric information can produce misleading visual impressions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">AARO GoFast Case Resolution6 Feb 2025 — The distance between these two points (red arrows) is the perceived distance the. UAP travell...</span></span></span>
 
 The important lesson is methodological rather than categorical. A striking video does not automatically measure what viewers think it measures. Sensor recordings require reconstruction before claims about extraordinary performance can be evaluated.
 
@@ -341,7 +341,7 @@ The important lesson is methodological rather than categorical. A striking video
 
 Recent AARO reporting shows that balloon identifications are not isolated exceptions but part of a broader pattern in official investigations.
 
-The office's Fiscal Year 2024 report states that it resolved 118 reported cases during the reporting period, identifying prosaic explanations including balloons, birds, drones and other conventional objects. Many remaining cases were not judged anomalous because they displayed impossible behaviour, but because available information was insufficient for confident identification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">Department of WarFiscal Year 2024 Consolidated Annual Report on...14 Nov 2024 — AARO resolved 118 cases during the reporting period, all...</span></span></span>
+The office's Fiscal Year 2024 report states that it resolved 118 reported cases during the reporting period, identifying prosaic explanations including balloons, birds, drones and other conventional objects. Many remaining cases were not judged anomalous because they displayed impossible behaviour, but because available information was insufficient for confident identification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">Department of WarFiscal Year 2024 Consolidated Annual Report on...14 Nov 2024 — AARO resolved 118 cases during the reporting period, all...</span></span></span>
 
 This distinction matters. "Unidentified" is a temporary analytical category rather than evidence for an extraordinary explanation. As additional radar data, weather information, flight records or sensor calibration become available, previously puzzling imagery may be reclassified without any change to the underlying footage.
 
@@ -360,194 +360,194 @@ That does not mean every UAP report is resolved as a balloon, nor that every unr
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Balloons Become Official UAP Cases. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Balloons Become Official UAP Cases. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for official investigations and aerial evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for official investigations and aerial evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Shows why ambiguous visual evidence requires careful analysis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows why ambiguous visual evidence requires careful analysis.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Places strange claims within the wider history of collective belief.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Places strange claims within the wider history of collective belief.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explains why ordinary objects can appear extraordinary.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why ordinary objects can appear extraordinary.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Muscular System Body Educational Poster Skeletal Nervous Anatomy Chart"><img src="{{ '/assets/images/marketplace-covers/f3de2a2889d152054816.jpg' | relative_url }}" alt="Listing image for Human Muscular System Body Educational Poster Skeletal Nervous Anatomy Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer">Human Muscular System Body Educational Poster Skeletal Nervous Anatomy Chart</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Muscular System Body Educational Poster Skeletal Nervous Anatomy Chart"><img src="{{ '/assets/images/marketplace-covers/f3de2a2889d152054816.jpg' | relative_url }}" alt="Listing image for Human Muscular System Body Educational Poster Skeletal Nervous Anatomy Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer">Human Muscular System Body Educational Poster Skeletal Nervous Anatomy Chart</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart"><img src="{{ '/assets/images/marketplace-covers/2d540458477f76b2be20.jpg' | relative_url }}" alt="Listing image for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer">Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart"><img src="{{ '/assets/images/marketplace-covers/2d540458477f76b2be20.jpg' | relative_url }}" alt="Listing image for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer">Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic table with elements poster Science Wall Chart UPDATED Education Poster"><img src="{{ '/assets/images/marketplace-covers/4353dda57fefeae45a72.jpg' | relative_url }}" alt="Listing image for Periodic table with elements poster Science Wall Chart UPDATED Education Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer">Periodic table with elements poster Science Wall Chart UPDATED Education Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic table with elements poster Science Wall Chart UPDATED Education Poster"><img src="{{ '/assets/images/marketplace-covers/4353dda57fefeae45a72.jpg' | relative_url }}" alt="Listing image for Periodic table with elements poster Science Wall Chart UPDATED Education Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer">Periodic table with elements poster Science Wall Chart UPDATED Education Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Snellen Eye Chart Optician Glasses Test Science Poster | A5-A1 | Wall Poster"><img src="{{ '/assets/images/marketplace-covers/44585abe482a25573224.jpg' | relative_url }}" alt="Listing image for Snellen Eye Chart Optician Glasses Test Science Poster | A5-A1 | Wall Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer">Snellen Eye Chart Optician Glasses Test Science Poster | A5-A1 | Wall Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Snellen Eye Chart Optician Glasses Test Science Poster | A5-A1 | Wall Poster"><img src="{{ '/assets/images/marketplace-covers/44585abe482a25573224.jpg' | relative_url }}" alt="Listing image for Snellen Eye Chart Optician Glasses Test Science Poster | A5-A1 | Wall Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer">Snellen Eye Chart Optician Glasses Test Science Poster | A5-A1 | Wall Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="balloon-uaps-how-balloons-become-official-uap-cases-forteana-science-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -563,7 +563,7 @@ That does not mean every UAP report is resolved as a balloon, nor that every unr
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -583,7 +583,7 @@ That does not mean every UAP report is resolved as a balloon, nor that every unr
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -615,7 +615,7 @@ That does not mean every UAP report is resolved as a balloon, nor that every unr
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -667,7 +667,7 @@ That does not mean every UAP report is resolved as a balloon, nor that every unr
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -712,7 +712,7 @@ That does not mean every UAP report is resolved as a balloon, nor that every unr
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -753,106 +753,106 @@ That does not mean every UAP report is resolved as a balloon, nor that every unr
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryOfficial UAP Imagery. AARO assesses, with high confidence, that the footage depicts the presence of a physical object. UAP...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryOfficial UAP Imagery. AARO assesses, with high confidence, that the footage depicts the presence of a physical object. UAP...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: media.defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
-   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarFiscal Year 2024 Consolidated Annual Report on...14 Nov 2024 — AARO resolved 118 cases during the reporting period, all...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarFiscal Year 2024 Consolidated Annual Report on...14 Nov 2024 — AARO resolved 118 cases during the reporting period, all...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: aaro.mil  
    Title: Go Fast Case Resolution Card Methodology Final  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO GoFast Case Resolution6 Feb 2025 — The distance between these two points (red arrows) is the perceived distance the. UAP travell...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO GoFast Case Resolution6 Feb 2025 — The distance between these two points (red arrows) is the perceived distance the. UAP travell...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: defensescoop.com  
    Title: uap aaro findings go fast puerto rico mt etna objects  
-   Link: <a href="https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s UAP office reviews findings on Go Fast, Puerto...19 Nov 2024 — a trick of the eye called &#x27;parallax&#x27; makes it look like the ob...</p></details>
+   Link:<a href="https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s UAP office reviews findings on Go Fast, Puerto...19 Nov 2024 — a trick of the eye called &#x27;parallax&#x27; makes it look like the ob...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeThe official website for the All-domain Anomaly Resolution Office (AARO)... Official UAP Imagery · UAP Case Resolution Reports...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeThe official website for the All-domain Anomaly Resolution Office (AARO)... Official UAP Imagery · UAP Case Resolution Reports...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: war.gov  
    Title: DOW UAP D077 Unresolved Case Analysis Update Western United States Event  
-   Link: <a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/DOW-UAP-D077_Unresolved-Case-Analysis-Update_Western-United-States-Event.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/DOW-UAP-D077_Unresolved-Case-Analysis-Update_Western-United-States-Event.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution Office (AARO) Unidentified...5 Jun 2026 — This memorandum summarizes the All-domain Anomaly Resolution Off...</p></details>
+   Link:<a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/DOW-UAP-D077_Unresolved-Case-Analysis-Update_Western-United-States-Event.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/DOW-UAP-D077_Unresolved-Case-Analysis-Update_Western-United-States-Event.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution Office (AARO) Unidentified...5 Jun 2026 — This memorandum summarizes the All-domain Anomaly Resolution Off...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: dvidshub.net  
    Title: pr 009 uap report resolved balloon europe 2022  
-   Link: <a href="https://www.dvidshub.net/video/977840/pr-009-uap-report-resolved-balloon-europe-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/977840/pr-009-uap-report-resolved-balloon-europe-2022</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DVIDSPR-009, UAP Report Resolved as a Balloon, Europe 2022AARO assesses, with high confidence, that the object depicted in the video is a...</p></details>
+   Link:<a href="https://www.dvidshub.net/video/977840/pr-009-uap-report-resolved-balloon-europe-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/977840/pr-009-uap-report-resolved-balloon-europe-2022</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DVIDSPR-009, UAP Report Resolved as a Balloon, Europe 2022AARO assesses, with high confidence, that the object depicted in the video is a...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: dvidshub.net  
    Title: pr 010 uap report resolved balloon europe 2022  
-   Link: <a href="https://www.dvidshub.net/video/976937/pr-010-uap-report-resolved-balloon-europe-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/976937/pr-010-uap-report-resolved-balloon-europe-2022</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PR-010, UAP Report Resolved as a Balloon, Europe 2022AARO bases its assessment on the object&#x27;s strong morphological consistency with othe...</p></details>
+   Link:<a href="https://www.dvidshub.net/video/976937/pr-010-uap-report-resolved-balloon-europe-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/976937/pr-010-uap-report-resolved-balloon-europe-2022</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PR-010, UAP Report Resolved as a Balloon, Europe 2022AARO bases its assessment on the object&#x27;s strong morphological consistency with othe...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>According to AARO&#x27;s new website, the FLIR, Gimbal and...According to AARO, the FLIR (Tic Tac UAP), Gimbal, and GoFast videos are “unreso...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>According to AARO&#x27;s new website, the FLIR, Gimbal and...According to AARO, the FLIR (Tic Tac UAP), Gimbal, and GoFast videos are “unreso...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DNRG7pJAsNm/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DNRG7pJAsNm/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>StarTalk on Instagram: &quot;Is motion parallax the reason many...Is motion parallax the reason many believe this to be a UAP? Turns out we c...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DNRG7pJAsNm/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DNRG7pJAsNm/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>StarTalk on Instagram: &quot;Is motion parallax the reason many...Is motion parallax the reason many believe this to be a UAP? Turns out we c...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/skeptic/comments/nzmkvc/gofast_ufo_analysis_yeah_no_probably_just_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/nzmkvc/gofast_ufo_analysis_yeah_no_probably_just_a/</a>  
+   Link:<a href="https://www.reddit.com/r/skeptic/comments/nzmkvc/gofast_ufo_analysis_yeah_no_probably_just_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/nzmkvc/gofast_ufo_analysis_yeah_no_probably_just_a/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: 945wpti.iheart.com  
    Title: 2024 11 20 pentagon solves one its highest profile ufo cases  
-   Link: <a href="https://945wpti.iheart.com/content/2024-11-20-pentagon-solves-one-its-highest-profile-ufo-cases/" target="_blank" rel="noopener noreferrer nofollow">https://945wpti.iheart.com/content/2024-11-20-pentagon-solves-one-its-highest-profile-ufo-cases/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Solves One Its Highest-Profile UFO Cases | 94.5 WPTINov 20, 2024 — The Pentagon&#x27;s All-Domain Anomaly Resolution Office (AARO) has resolve...</p></details>
+   Link:<a href="https://945wpti.iheart.com/content/2024-11-20-pentagon-solves-one-its-highest-profile-ufo-cases/" target="_blank" rel="noopener noreferrer nofollow">https://945wpti.iheart.com/content/2024-11-20-pentagon-solves-one-its-highest-profile-ufo-cases/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Solves One Its Highest-Profile UFO Cases | 94.5 WPTINov 20, 2024 — The Pentagon&#x27;s All-Domain Anomaly Resolution Office (AARO) has resolve...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wind speed at that altitude was 60 knots. Object moved in a relatively straight...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wind speed at that altitude was 60 knots. Object moved in a relatively straight...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nypost.com  
    Title: pentagon claims to debunk famous gofast ufo radar video  
-   Link: <a href="https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon claims to debunk famous &#x27;GOFAST&#x27; UFO radar...Nov 20, 2024 — The Pentagon announced they solved one of the most famous UFO video...</p></details>
+   Link:<a href="https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon claims to debunk famous &#x27;GOFAST&#x27; UFO radar...Nov 20, 2024 — The Pentagon announced they solved one of the most famous UFO video...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: rev.com  
    Title: senate hearing on unidentified aerial phenomena  
-   Link: <a href="https://www.rev.com/transcripts/senate-hearing-on-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/senate-hearing-on-unidentified-aerial-phenomena</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP UFO Senate Hearing Unidentified Aerial PhenomenaNov 20, 2024 — AARO has resolved, including the GoFast, which is one of the most prom...</p></details>
+   Link:<a href="https://www.rev.com/transcripts/senate-hearing-on-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/senate-hearing-on-unidentified-aerial-phenomena</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP UFO Senate Hearing Unidentified Aerial PhenomenaNov 20, 2024 — AARO has resolved, including the GoFast, which is one of the most prom...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: armed-services.senate.gov  
    Title: aaro case slides 112024  
-   Link: <a href="https://www.armed-services.senate.gov/download/aaro-case-slides-112024" target="_blank" rel="noopener noreferrer nofollow">https://www.armed-services.senate.gov/download/aaro-case-slides-112024</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Proposed AARO Branding GuideCASES RESOLUTION. The perception of high speed was attributed to motion parallax. RESOLUTION OFFICE (AARO) GO...</p></details>
+   Link:<a href="https://www.armed-services.senate.gov/download/aaro-case-slides-112024" target="_blank" rel="noopener noreferrer nofollow">https://www.armed-services.senate.gov/download/aaro-case-slides-112024</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Proposed AARO Branding GuideCASES RESOLUTION. The perception of high speed was attributed to motion parallax. RESOLUTION OFFICE (AARO) GO...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: uap.elitefasion.com  
    Title: uap ufo declassified database  
-   Link: <a href="https://uap.elitefasion.com/uap-ufo-declassified-database" target="_blank" rel="noopener noreferrer nofollow">https://uap.elitefasion.com/uap-ufo-declassified-database</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP / UFO Records Database - Elite Fashion12 May 2026 — Go Fast. Known from U.S. Navy F/A-18 forward-looking infrared footage. The case i...</p></details>
+   Link:<a href="https://uap.elitefasion.com/uap-ufo-declassified-database" target="_blank" rel="noopener noreferrer nofollow">https://uap.elitefasion.com/uap-ufo-declassified-database</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP / UFO Records Database - Elite Fashion12 May 2026 — Go Fast. Known from U.S. Navy F/A-18 forward-looking infrared footage. The case i...</p></details>
    Published: May 2026  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: bellingcat.com  
    Title: Isn't That A Balloon?  
-   Link: <a href="https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deflating a DoD UFO Video24 Oct 2023 — A US military drone captured video of a metallic, spherical orb flying over the Middle East. The U...</p></details>
+   Link:<a href="https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deflating a DoD UFO Video24 Oct 2023 — A US military drone captured video of a metallic, spherical orb flying over the Middle East. The U...</p></details>

@@ -274,7 +274,7 @@ image: /assets/images/forteana_50bdc8_newspaper_clippings_7fc540_mystery_airship
 
 ## Introduction
 
-The American mystery airship wave of 1896–97 is one of the clearest examples of how [newspapers]({{ 'newspapers/' | relative_url }}) could transform scattered, ambiguous observations into a nationwide Fortean mystery. Months before practical powered flight became an everyday reality, readers encountered reports of cigar-shaped craft carrying brilliant searchlights, mechanical noises and even human occupants. Some accounts described secret inventors testing revolutionary machines, while others claimed encounters with mysterious crews or spectacular crashes. Although many reports may have originated from genuine observations of unusual lights or experimental balloons, the way newspapers copied, embellished and competed over the story helped create an anomaly that became larger than any single sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1990/01/22165233/p71.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[cdn.centerforinquiry.org+2readex.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">November 17 to mid-December 1896, and the second, January 22 to May. 1897 (Bullard 1982a:207, 211)...Read more...</span><span class="citation-popover-meta">Published: December 1896</span></span></span>
+The American mystery airship wave of 1896–97 is one of the clearest examples of how [newspapers]({{ 'newspapers/' | relative_url }}) could transform scattered, ambiguous observations into a nationwide Fortean mystery. Months before practical powered flight became an everyday reality, readers encountered reports of cigar-shaped craft carrying brilliant searchlights, mechanical noises and even human occupants. Some accounts described secret inventors testing revolutionary machines, while others claimed encounters with mysterious crews or spectacular crashes. Although many reports may have originated from genuine observations of unusual lights or experimental balloons, the way newspapers copied, embellished and competed over the story helped create an anomaly that became larger than any single sighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1990/01/22165233/p71.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[cdn.centerforinquiry.org+2readex.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">November 17 to mid-December 1896, and the second, January 22 to May. 1897 (Bullard 1982a:207, 211)...Read more...</span><span class="citation-popover-meta">Published: December 1896</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_newspaper_clippings_7fc540_mystery_airship_clip_a109e0-Illustration-1-dark.svg" | relative_url }}" alt="Airship Wave illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_newspaper_clippings_7fc540_mystery_airship_clip_a109e0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_newspaper_clippings_7fc540_mystery_airship_clip_a109e0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,9 +282,9 @@ For students of [Forteana]({{ 'forteana/' | relative_url }}), the value of the a
 
 ## How airship reports spread across American papers
 
-The first major cluster of reports appeared over northern California in November 1896, particularly around Sacramento, San Francisco and Oakland. Witnesses described an illuminated object moving purposefully through the night sky, often with a powerful searchlight. Because electric lighting, balloons and experimental engineering were all familiar but still novel technologies, the reports sounded just plausible enough to capture public attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kqed.org/arts/13957514/1896-mystery-airship-bay-area-ufo-history-victorian-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kqed.org">[KQED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kqed.org</span><span class="citation-popover-title">1896 mystery airship bay area ufo history victorian aliens</span><span class="citation-popover-snippet">The 1896 UFO That Stunned Bay Area VictoriansMay 10, 2024 — For weeks, witnesses in San Francisco, Oakland and Sacramento saw a myste...</span><span class="citation-popover-meta">Published: May 10, 2024</span></span></span>
+The first major cluster of reports appeared over northern California in November 1896, particularly around Sacramento, San Francisco and Oakland. Witnesses described an illuminated object moving purposefully through the night sky, often with a powerful searchlight. Because electric lighting, balloons and experimental engineering were all familiar but still novel technologies, the reports sounded just plausible enough to capture public attention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kqed.org/arts/13957514/1896-mystery-airship-bay-area-ufo-history-victorian-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kqed.org">[KQED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kqed.org</span><span class="citation-popover-title">1896 mystery airship bay area ufo history victorian aliens</span><span class="citation-popover-snippet">The 1896 UFO That Stunned Bay Area VictoriansMay 10, 2024 — For weeks, witnesses in San Francisco, Oakland and Sacramento saw a myste...</span><span class="citation-popover-meta">Published: May 10, 2024</span></span></span>
 
-Over the following months the story migrated eastward through newspaper exchange networks. By early 1897 reports appeared throughout the Midwest and eventually across much of the United States. Editors frequently reprinted articles from distant papers, sometimes shortening them, combining separate accounts or adding fresh commentary. To readers, dozens of apparently independent reports suggested a widespread phenomenon even when many stories traced back to relatively few original publications. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readex.com/blog/ufo-fever-americas-historical-newspapers-mysterious-airships-1896-97" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readex.com">[readex.com+2cdn.centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readex.com</span><span class="citation-popover-title">ufo fever americas historical newspapers mysterious airships 1896 97</span><span class="citation-popover-snippet">The Mysterious Airships of 1896-9712 Sept 2014 — For five months beginning in November 1896, newspapers across the country described stra...</span><span class="citation-popover-meta">Published: November 1896</span></span></span>
+Over the following months the story migrated eastward through newspaper exchange networks. By early 1897 reports appeared throughout the Midwest and eventually across much of the United States. Editors frequently reprinted articles from distant papers, sometimes shortening them, combining separate accounts or adding fresh commentary. To readers, dozens of apparently independent reports suggested a widespread phenomenon even when many stories traced back to relatively few original publications.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readex.com/blog/ufo-fever-americas-historical-newspapers-mysterious-airships" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readex.com">[readex.com+2cdn.centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readex.com</span><span class="citation-popover-title">ufo fever americas historical newspapers mysterious airships</span><span class="citation-popover-snippet">The Mysterious Airships of 1896-9712 Sept 2014 — For five months beginning in November 1896, newspapers across the country described stra...</span><span class="citation-popover-meta">Published: November 1896</span></span></span>
 
 This pattern reflected normal newspaper practice rather than deliberate deception. Nineteenth-century editors routinely filled columns by borrowing stories from other publications, often with minimal verification. Once the mystery airship became popular copy, every new sighting encouraged further reporting, creating a feedback loop between witnesses, editors and readers.
 
@@ -293,16 +293,16 @@ This pattern reflected normal newspaper practice rather than deliberate deceptio
 
 ## Rumours of inventors, denials and suspect details
 
-One striking feature of the airship wave is that many newspapers assumed the objects were not supernatural but technological. Reports repeatedly suggested that an unknown inventor had secretly perfected a revolutionary flying machine and was conducting night-time trials before revealing the invention publicly. The idea matched contemporary fascination with rapid advances in electricity, engineering and transportation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.howstuffworks.com/space/aliens-ufos/ufo-history5.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">How Stuff Works Airships in America</span><span class="citation-popover-snippet">Airships in America - Aliens &amp; UFOsThe UFO wave of 1896 and 1897 sparked great interest as well as many hoaxes. A Chicago ne...</span></span></span>
+One striking feature of the airship wave is that many newspapers assumed the objects were not supernatural but technological. Reports repeatedly suggested that an unknown inventor had secretly perfected a revolutionary flying machine and was conducting night-time trials before revealing the invention publicly. The idea matched contemporary fascination with rapid advances in electricity, engineering and transportation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.howstuffworks.com/space/aliens-ufos/ufo-history5.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">How Stuff Works Airships in America</span><span class="citation-popover-snippet">Airships in America - Aliens &amp; UFOsThe UFO wave of 1896 and 1897 sparked great interest as well as many hoaxes. A Chicago ne...</span></span></span>
 
-The press eagerly published rumours identifying possible inventors. Various engineers, mechanics and wealthy businessmen found themselves credited with creating the mysterious craft. Many publicly denied involvement, while others allowed speculation to continue because it generated publicity. The repeated cycle of anonymous claims followed by emphatic denials gave the story an appearance of investigative journalism even when little evidence existed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1990/01/22165233/p71.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[cdn.centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">November 17 to mid-December 1896, and the second, January 22 to May. 1897 (Bullard 1982a:207, 211)...Read more...</span><span class="citation-popover-meta">Published: December 1896</span></span></span>
+The press eagerly published rumours identifying possible inventors. Various engineers, mechanics and wealthy businessmen found themselves credited with creating the mysterious craft. Many publicly denied involvement, while others allowed speculation to continue because it generated publicity. The repeated cycle of anonymous claims followed by emphatic denials gave the story an appearance of investigative journalism even when little evidence existed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1990/01/22165233/p71.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[cdn.centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">November 17 to mid-December 1896, and the second, January 22 to May. 1897 (Bullard 1982a:207, 211)...Read more...</span><span class="citation-popover-meta">Published: December 1896</span></span></span>
 
 As the reports multiplied, some became increasingly elaborate. Newspapers printed accounts of:
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* conversations with airship crews; <span class="citation-chip-wrap"><a class="citation-chip" href="https://wedentondoit.com/blog/2017/4/21/the-1897-texas-airship-invasion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wedentondoit.com">[wedentondoit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wedentondoit.com</span><span class="citation-popover-title">the 1897 texas airship invasion</span><span class="citation-popover-snippet">21 Apr 2017 — The earliest reported Airship sighting in Texas came from rural Denton on April 13 of 1897, when a curious local out starga...</span></span></span>
+* conversations with airship crews;<span class="citation-chip-wrap"><a class="citation-chip" href="https://wedentondoit.com/blog/2017/4/21/the-1897-texas-airship-invasion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wedentondoit.com">[wedentondoit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wedentondoit.com</span><span class="citation-popover-title">the 1897 texas airship invasion</span><span class="citation-popover-snippet">21 Apr 2017 — The earliest reported Airship sighting in Texas came from rural Denton on April 13 of 1897, when a curious local out starga...</span></span></span>
 * descriptions of propellers, wings and electric lights;
 * miraculous speeds and manoeuvres;
 * landings in rural districts;
@@ -311,7 +311,7 @@ As the reports multiplied, some became increasingly elaborate. Newspapers printe
 
 </div>
 
-These details often varied dramatically between locations. Rather than converging on a consistent description, the stories accumulated local colour, suggesting that journalists and witnesses alike adapted the central narrative to fit regional expectations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1990/01/22165233/p71.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[cdn.centerforinquiry.org+2readex.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">November 17 to mid-December 1896, and the second, January 22 to May. 1897 (Bullard 1982a:207, 211)...Read more...</span><span class="citation-popover-meta">Published: December 1896</span></span></span>
+These details often varied dramatically between locations. Rather than converging on a consistent description, the stories accumulated local colour, suggesting that journalists and witnesses alike adapted the central narrative to fit regional expectations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1990/01/22165233/p71.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[cdn.centerforinquiry.org+2readex.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">November 17 to mid-December 1896, and the second, January 22 to May. 1897 (Bullard 1982a:207, 211)...Read more...</span><span class="citation-popover-meta">Published: December 1896</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_newspaper_clippings_7fc540_mystery_airship_clip_a109e0-Illustration-2-dark.svg" | relative_url }}" alt="Airship Wave illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_newspaper_clippings_7fc540_mystery_airship_clip_a109e0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_newspaper_clippings_7fc540_mystery_airship_clip_a109e0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -319,7 +319,7 @@ These details often varied dramatically between locations. Rather than convergin
 
 The airship wave emerged during an intensely competitive period in American journalism. Newspapers competed aggressively for circulation, and unusual stories attracted readers. Editors therefore had incentives to print dramatic eyewitness accounts while also publishing sceptical commentary, allowing both believers and doubters to remain engaged.
 
-Importantly, many newspapers did not simply endorse the reports. Contemporary editorials frequently mocked witnesses, ridiculed extravagant claims and accused rival publications of printing nonsense. Yet even hostile coverage kept the mystery alive. Every attempt to debunk a new report reminded readers that another airship story had appeared somewhere else. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Mystery airshipSome newspapers denounced the entire airship story as nonsense and openly mocked and ridiculed the witnesses and believers...</span></span></span>
+Importantly, many newspapers did not simply endorse the reports. Contemporary editorials frequently mocked witnesses, ridiculed extravagant claims and accused rival publications of printing nonsense. Yet even hostile coverage kept the mystery alive. Every attempt to debunk a new report reminded readers that another airship story had appeared somewhere else.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Mystery airshipSome newspapers denounced the entire airship story as nonsense and openly mocked and ridiculed the witnesses and believers...</span></span></span>
 
 This mixture of belief and ridicule helped sustain public interest. A completely credulous press would likely have lost credibility, while universal [dismissal]({{ 'dismissal/' | relative_url }}) would have ended the story quickly. Instead, disagreement between newspapers encouraged readers to continue following developments.
 
@@ -327,9 +327,9 @@ This mixture of belief and ridicule helped sustain public interest. A completely
 
 Several well-known episodes reveal how newspaper narratives could become detached from reliable evidence.
 
-The alleged crash near Aurora, Texas, in April 1897 became famous only because newspapers reported that a strange airship had collided with a windmill and that its non-human pilot had been buried locally. Later investigations found little contemporary physical evidence, and historians generally regard the story as a likely journalistic fabrication or local publicity effort rather than a documented accident. Nevertheless, repeated reprinting transformed it into one of the most enduring legends associated with early UFO history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Mystery airshipSome newspapers denounced the entire airship story as nonsense and openly mocked and ridiculed the witnesses and believers...</span></span></span>
+The alleged crash near Aurora, Texas, in April 1897 became famous only because newspapers reported that a strange airship had collided with a windmill and that its non-human pilot had been buried locally. Later investigations found little contemporary physical evidence, and historians generally regard the story as a likely journalistic fabrication or local publicity effort rather than a documented accident. Nevertheless, repeated reprinting transformed it into one of the most enduring legends associated with early UFO history.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Mystery airshipSome newspapers denounced the entire airship story as nonsense and openly mocked and ridiculed the witnesses and believers...</span></span></span>
 
-Another example is the colourful Kansas story in which farmer Alexander Hamilton claimed that an airship carried away one of his cattle. The tale later became associated with a local "Liars' Club" and is widely regarded as an intentional tall tale, yet it continues to appear in compilations of unexplained mysteries because the original newspaper clipping survives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/notesandqueries/query/0%2C%2C-2556%2C00.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">0,, 2556,00</span><span class="citation-popover-snippet">The GuardianNovember 1876 to May 1897 mysterious large airships...Most famous of the hoaxes were Alexander Hamilton&#x27;s March 1897 cow-nap...</span><span class="citation-popover-meta">Published: November 1876</span></span></span>
+Another example is the colourful Kansas story in which farmer Alexander Hamilton claimed that an airship carried away one of his cattle. The tale later became associated with a local "Liars' Club" and is widely regarded as an intentional tall tale, yet it continues to appear in compilations of unexplained mysteries because the original newspaper clipping survives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/notesandqueries/query/0%2C%2C-2556%2C00.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">0,, 2556,00</span><span class="citation-popover-snippet">The GuardianNovember 1876 to May 1897 mysterious large airships...Most famous of the hoaxes were Alexander Hamilton&#x27;s March 1897 cow-nap...</span><span class="citation-popover-meta">Published: November 1876</span></span></span>
 
 These cases demonstrate that preservation in print can give fictional or humorous stories a misleading appearance of documentary authority when removed from their original social context.
 
@@ -353,7 +353,7 @@ Several mechanisms worked together:
 
 </div>
 
-These mechanisms are now recognised in studies of [folklore]({{ 'folklore/' | relative_url }}), rumour transmission and mass communication, but the 1896–97 airship wave provides an unusually well-preserved historical example because thousands of newspaper pages survive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1990/01/22165233/p71.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[cdn.centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">November 17 to mid-December 1896, and the second, January 22 to May. 1897 (Bullard 1982a:207, 211)...Read more...</span><span class="citation-popover-meta">Published: December 1896</span></span></span>
+These mechanisms are now recognised in studies of [folklore]({{ 'folklore/' | relative_url }}), rumour transmission and mass communication, but the 1896–97 airship wave provides an unusually well-preserved historical example because thousands of newspaper pages survive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1990/01/22165233/p71.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[cdn.centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">November 17 to mid-December 1896, and the second, January 22 to May. 1897 (Bullard 1982a:207, 211)...Read more...</span><span class="citation-popover-meta">Published: December 1896</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_newspaper_clippings_7fc540_mystery_airship_clip_a109e0-Illustration-3-dark.svg" | relative_url }}" alt="Airship Wave illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_newspaper_clippings_7fc540_mystery_airship_clip_a109e0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_newspaper_clippings_7fc540_mystery_airship_clip_a109e0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -361,201 +361,201 @@ These mechanisms are now recognised in studies of [folklore]({{ 'folklore/' | re
 
 Within Fortean studies, the mystery airship remains significant because it predates both powered aviation and the twentieth-century flying saucer era. It demonstrates that extraordinary aerial mysteries can emerge from an interaction between genuine observations, technological imagination and media circulation rather than from a single identifiable event.
 
-The surviving newspaper record therefore deserves careful reading. Individual clippings establish that people reported remarkable aerial phenomena at specific places and times. They do not automatically establish that every reported encounter occurred exactly as described. The real historical anomaly is twofold: unusual lights were genuinely being reported, and newspapers collectively transformed those reports into one of America's earliest nationwide aerial mysteries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1990/01/22165233/p71.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[cdn.centerforinquiry.org+2readex.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">November 17 to mid-December 1896, and the second, January 22 to May. 1897 (Bullard 1982a:207, 211)...Read more...</span><span class="citation-popover-meta">Published: December 1896</span></span></span>
+The surviving newspaper record therefore deserves careful reading. Individual clippings establish that people reported remarkable aerial phenomena at specific places and times. They do not automatically establish that every reported encounter occurred exactly as described. The real historical anomaly is twofold: unusual lights were genuinely being reported, and newspapers collectively transformed those reports into one of America's earliest nationwide aerial mysteries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1990/01/22165233/p71.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[cdn.centerforinquiry.org+2readex.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">November 17 to mid-December 1896, and the second, January 22 to May. 1897 (Bullard 1982a:207, 211)...Read more...</span><span class="citation-popover-meta">Published: December 1896</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IBaw2oqVz8w" title="&quot;Mystery Airship&quot; Sightings, 1896 - 1897" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IBaw2oqVz8w" target="_blank" rel="noopener noreferrer">&quot;Mystery Airship&quot; Sightings, 1896 - 1897</a></p><p class="youtube-embed-meta">Channel: Think Anomalous</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IBaw2oqVz8w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IBaw2oqVz8w">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IBaw2oqVz8w" title="&quot;Mystery Airship&quot; Sightings," frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IBaw2oqVz8w" target="_blank" rel="noopener noreferrer">&quot;Mystery Airship&quot; Sightings,</a></p><p class="youtube-embed-meta">Channel: Think Anomalous</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IBaw2oqVz8w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IBaw2oqVz8w">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Newspapers Build the Mystery Airship?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Newspapers Build the Mystery Airship?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
-        </h4>
-        <p class="fr-book-author">By Charles Fort</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
+</h4>
+<p class="fr-book-author">By Charles Fort</p>
         
-        <p class="fr-book-desc">Classic source for unusual historical reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Classic source for unusual historical reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Places historical aerial mysteries into a wider investigative framework.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places historical aerial mysteries into a wider investigative framework.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Links folklore and historical aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Links folklore and historical aerial reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+Books+of+Charles+Fort+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete Books of Charles Fort on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NaFUhCtOCb4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Complete Books of Charles Fort" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Complete+Books+of+Charles+Fort+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Books of Charles Fort">The Complete Books of Charles Fort</a>
-        </h4>
-        <p class="fr-book-author">By Charles Fort</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+Books+of+Charles+Fort+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete Books of Charles Fort on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NaFUhCtOCb4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Complete Books of Charles Fort" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Complete+Books+of+Charles+Fort+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Books of Charles Fort">The Complete Books of Charles Fort</a>
+</h4>
+<p class="fr-book-author">By Charles Fort</p>
         
-        <p class="fr-book-desc">Provides broader context for newspaper-based anomalies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Complete+Books+of+Charles+Fort+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for newspaper-based anomalies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Complete+Books+of+Charles+Fort+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &quot;Lilac Mystery&quot; Original Handmade Acrylic Canvas Painting Wall Art Gift Idea"><img src="{{ '/assets/images/marketplace-covers/1cb7fd0276a469bd10b1.jpg' | relative_url }}" alt="Listing image for &quot;Lilac Mystery&quot; Original Handmade Acrylic Canvas Painting Wall Art Gift Idea" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">&quot;Lilac Mystery&quot; Original Handmade Acrylic Canvas Painting Wall Art Gift Idea</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &quot;Lilac Mystery&quot; Original Handmade Acrylic Canvas Painting Wall Art Gift Idea"><img src="{{ '/assets/images/marketplace-covers/1cb7fd0276a469bd10b1.jpg' | relative_url }}" alt="Listing image for &quot;Lilac Mystery&quot; Original Handmade Acrylic Canvas Painting Wall Art Gift Idea" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">&quot;Lilac Mystery&quot; Original Handmade Acrylic Canvas Painting Wall Art Gift Idea</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mystery forest Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5eb2b9bf8e926c565ad6.jpg' | relative_url }}" alt="Listing image for Mystery forest Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Mystery forest Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mystery forest Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5eb2b9bf8e926c565ad6.jpg' | relative_url }}" alt="Listing image for Mystery forest Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Mystery forest Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mystery gang silhouette Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9e466ddc691680c84338.jpg' | relative_url }}" alt="Listing image for Mystery gang silhouette Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Mystery gang silhouette Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mystery gang silhouette Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9e466ddc691680c84338.jpg' | relative_url }}" alt="Listing image for Mystery gang silhouette Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Mystery gang silhouette Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gothic Silhouette Painting on Rustic Wood | Staircase Mystery Wall Art"><img src="{{ '/assets/images/marketplace-covers/7f3f2c5e40c1a5c1ca26.jpg' | relative_url }}" alt="Listing image for Gothic Silhouette Painting on Rustic Wood | Staircase Mystery Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Gothic Silhouette Painting on Rustic Wood | Staircase Mystery Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gothic Silhouette Painting on Rustic Wood | Staircase Mystery Wall Art"><img src="{{ '/assets/images/marketplace-covers/7f3f2c5e40c1a5c1ca26.jpg' | relative_url }}" alt="Listing image for Gothic Silhouette Painting on Rustic Wood | Staircase Mystery Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Gothic Silhouette Painting on Rustic Wood | Staircase Mystery Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="airship-wave-did-newspapers-build-the-mystery-airship-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -571,7 +571,7 @@ The surviving newspaper record therefore deserves careful reading. Individual cl
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -591,7 +591,7 @@ The surviving newspaper record therefore deserves careful reading. Individual cl
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -623,7 +623,7 @@ The surviving newspaper record therefore deserves careful reading. Individual cl
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -675,7 +675,7 @@ The surviving newspaper record therefore deserves careful reading. Individual cl
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -720,7 +720,7 @@ The surviving newspaper record therefore deserves careful reading. Individual cl
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -761,119 +761,119 @@ The surviving newspaper record therefore deserves careful reading. Individual cl
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cdn.centerforinquiry.org  
-   Link: <a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1990/01/22165233/p71.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1990/01/22165233/p71.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>November 17 to mid-December 1896, and the second, January 22 to May. 1897 (Bullard 1982a:207, 211)...Read more...</p></details>
+   Link:<a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1990/01/22165233/p71.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1990/01/22165233/p71.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November 17 to mid-December 1896, and the second, January 22 to May. 1897 (Bullard 1982a:207, 211)...Read more...</p></details>
    Published: December 1896  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: readex.com  
    Title: ufo fever americas historical newspapers mysterious airships 1896 97  
-   Link: <a href="https://www.readex.com/blog/ufo-fever-americas-historical-newspapers-mysterious-airships-1896-97" target="_blank" rel="noopener noreferrer nofollow">https://www.readex.com/blog/ufo-fever-americas-historical-newspapers-mysterious-airships-1896-97</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious Airships of 1896-9712 Sept 2014 — For five months beginning in November 1896, newspapers across the country described stra...</p></details>
+   Link:<a href="https://www.readex.com/blog/ufo-fever-americas-historical-newspapers-mysterious-airships" target="_blank" rel="noopener noreferrer nofollow">https://www.readex.com/blog/ufo-fever-americas-historical-newspapers-mysterious-airships</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious Airships of 1896-9712 Sept 2014 — For five months beginning in November 1896, newspapers across the country described stra...</p></details>
    Published: November 1896  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mystery_airship</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery airshipSome newspapers denounced the entire airship story as nonsense and openly mocked and ridiculed the witnesses and believers...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mystery_airship</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery airshipSome newspapers denounced the entire airship story as nonsense and openly mocked and ridiculed the witnesses and believers...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: kqed.org  
    Title: 1896 mystery airship bay area ufo history victorian aliens  
-   Link: <a href="https://www.kqed.org/arts/13957514/1896-mystery-airship-bay-area-ufo-history-victorian-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.kqed.org/arts/13957514/1896-mystery-airship-bay-area-ufo-history-victorian-aliens</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1896 UFO That Stunned Bay Area VictoriansMay 10, 2024 — For weeks, witnesses in San Francisco, Oakland and Sacramento saw a myste...</p></details>
+   Link:<a href="https://www.kqed.org/arts/13957514/1896-mystery-airship-bay-area-ufo-history-victorian-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.kqed.org/arts/13957514/1896-mystery-airship-bay-area-ufo-history-victorian-aliens</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1896 UFO That Stunned Bay Area VictoriansMay 10, 2024 — For weeks, witnesses in San Francisco, Oakland and Sacramento saw a myste...</p></details>
    Published: May 10, 2024  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: science.howstuffworks.com  
    Title: How Stuff Works Airships in America  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/ufo-history5.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/ufo-history5.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Airships in America - Aliens &amp; UFOsThe UFO wave of 1896 and 1897 sparked great interest as well as many [hoaxes](&amp;#123;&amp;#123; &#x27;hoaxes/&#x27; | relative_url &amp;#125;&amp;#125;). A Chicago ne...</p></details>
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/ufo-history5.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/ufo-history5.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Airships in America - Aliens &amp; UFOsThe UFO wave of 1896 and 1897 sparked great interest as well as many [hoaxes](&amp;#123;&amp;#123; &#x27;hoaxes/&#x27; | relative_url &amp;#125;&amp;#125;). A Chicago ne...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/1896" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1896</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>18961896 (MDCCCXCVI) was a leap year starting on Wednesday of the Gregorian calendar and a leap year starting on Monday of the Julian...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/1896" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1896</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>18961896 (MDCCCXCVI) was a leap year starting on Wednesday of the Gregorian calendar and a leap year starting on Monday of the Julian...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: 1896 in the United States  
-   Link: <a href="https://en.wikipedia.org/wiki/1896_in_the_United_States" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1896_in_the_United_States</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1896 in the United StatesJanuary–March · January 4 – Utah is admitted as the 45th U.S. state (see History of Utah). · February 6–Augus...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/1896_in_the_United_States" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1896_in_the_United_States</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1896 in the United StatesJanuary–March · January 4 – Utah is admitted as the 45th U.S. state (see History of Utah). · February 6–Augus...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: history.com  
    Title: a year in history  
-   Link: <a href="https://www.history.com/a-year-in-history/1896" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/a-year-in-history/1896</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1896 ArchivesOn April 6, 1896, the Olympic Games, a long-lost tradition of ancient Greece, are reborn in Athens 1,500 years after being b...</p></details>
+   Link:<a href="https://www.history.com/a-year-in-history/1896" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/a-year-in-history/1896</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1896 ArchivesOn April 6, 1896, the Olympic Games, a long-lost tradition of ancient Greece, are reborn in Athens 1,500 years after being b...</p></details>
    Published: April 6, 1896  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: theguardian.com  
    Title: 0,, 2556,00  
-   Link: <a href="https://www.theguardian.com/notesandqueries/query/0%2C%2C-2556%2C00.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/notesandqueries/query/0%2C%2C-2556%2C00.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianNovember 1876 to May 1897 mysterious large airships...Most famous of the hoaxes were Alexander Hamilton&#x27;s March 1897 cow-nap...</p></details>
+   Link:<a href="https://www.theguardian.com/notesandqueries/query/0%2C%2C-2556%2C00.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/notesandqueries/query/0%2C%2C-2556%2C00.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianNovember 1876 to May 1897 mysterious large airships...Most famous of the hoaxes were Alexander Hamilton&#x27;s March 1897 cow-nap...</p></details>
    Published: November 1876  
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: history.nebraska.gov  
-   Link: <a href="https://history.nebraska.gov/flashback-friday-a-celestial-visitor-revisited-a-nebraska-newspaper-hoax-from-1884-patricia-c-gaster/" target="_blank" rel="noopener noreferrer nofollow">https://history.nebraska.gov/flashback-friday-a-celestial-visitor-revisited-a-nebraska-newspaper-hoax-from-1884-patricia-c-gaster/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Friday: “A Celestial Visitor” Revisited: A Nebraska...Predating by a dozen years the wave of airship sightings across America in 1896 an...</p></details>
+   Link:<a href="https://history.nebraska.gov/flashback-friday-a-celestial-visitor-revisited-a-nebraska-newspaper-hoax-from-1884-patricia-c-gaster/" target="_blank" rel="noopener noreferrer nofollow">https://history.nebraska.gov/flashback-friday-a-celestial-visitor-revisited-a-nebraska-newspaper-hoax-from-1884-patricia-c-gaster/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Friday: “A Celestial Visitor” Revisited: A Nebraska...Predating by a dozen years the wave of airship sightings across America in 1896 an...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: weirdhistorian.com  
-   Link: <a href="https://www.weirdhistorian.com/martians-hoaxers-and-ufos-at-the-turn-of-the-century-the-great-airship-flap-of-1896-and-1897/" target="_blank" rel="noopener noreferrer nofollow">https://www.weirdhistorian.com/martians-hoaxers-and-ufos-at-the-turn-of-the-century-the-great-airship-flap-of-1896-and-1897/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Martians, Hoaxers, and UFOs at the Turn of the CenturyOr that people allegedly started seeing them by the end of 1896, when a wave of “ai...</p></details>
+   Link:<a href="https://www.weirdhistorian.com/martians-hoaxers-and-ufos-at-the-turn-of-the-century-the-great-airship-flap-of-1896-and-1897/" target="_blank" rel="noopener noreferrer nofollow">https://www.weirdhistorian.com/martians-hoaxers-and-ufos-at-the-turn-of-the-century-the-great-airship-flap-of-1896-and-1897/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Martians, Hoaxers, and UFOs at the Turn of the CenturyOr that people allegedly started seeing them by the end of 1896, when a wave of “ai...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: an 1897 ufo this clipping is just one of many mystery airship reports that fille  
-   Link: <a href="https://www.facebook.com/newspaperscom/posts/an-1897-ufo-this-clipping-is-just-one-of-many-mystery-airship-reports-that-fille/1415480043926635/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newspaperscom/posts/an-1897-ufo-this-clipping-is-just-one-of-many-mystery-airship-reports-that-fille/1415480043926635/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This clipping is just one of many &quot;mystery...In late 1896 through early 1897 newspapers across the country began to report sightings of...</p></details>
+   Link:<a href="https://www.facebook.com/newspaperscom/posts/an-1897-ufo-this-clipping-is-just-one-of-many-mystery-airship-reports-that-fille/1415480043926635/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newspaperscom/posts/an-1897-ufo-this-clipping-is-just-one-of-many-mystery-airship-reports-that-fille/1415480043926635/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This clipping is just one of many &quot;mystery...In late 1896 through early 1897 newspapers across the country began to report sightings of...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: medium.com  
    Title: the 1897 great airship mystery americas ufo wave 214943686541  
-   Link: <a href="https://medium.com/%40bvkg1982/the-1897-great-airship-mystery-americas-ufo-wave-214943686541" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40bvkg1982/the-1897-great-airship-mystery-americas-ufo-wave-214943686541</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1897 Great Airship Mystery: America&#x27;s UFO WaveIn 1897, a wave of mysterious airship sightings swept across the United States, marking...</p></details>
+   Link:<a href="https://medium.com/%40bvkg1982/the-1897-great-airship-mystery-americas-ufo-wave-214943686541" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40bvkg1982/the-1897-great-airship-mystery-americas-ufo-wave-214943686541</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1897 Great Airship Mystery: America&#x27;s UFO WaveIn 1897, a wave of mysterious airship sightings swept across the United States, marking...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
    Title: mystery airship sightings 1896 1897 over 8 months  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/tmlc40/mystery_airship_sightings_1896_1897_over_8_months/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/tmlc40/mystery_airship_sightings_1896_1897_over_8_months/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Mystery Airship&quot; Sightings, 1896 - 1897: Over 8 months...The mystery airships remain unidentified constituting an early wave of UFOs be...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/tmlc40/mystery_airship_sightings_1896_1897_over_8_months/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/tmlc40/mystery_airship_sightings_1896_1897_over_8_months/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Mystery Airship&quot; Sightings, 1896 - 1897: Over 8 months...The mystery airships remain unidentified constituting an early wave of UFOs be...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
    Title: were the airships sightings of 18961897 genuine  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/12137yj/were_the_airships_sightings_of_18961897_genuine/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/12137yj/were_the_airships_sightings_of_18961897_genuine/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Were the Airships Sightings of 1896-1897 genuine UFO...The accounts of the 1896 and 1897 unidentified Airship sightings may be a story o...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/12137yj/were_the_airships_sightings_of_18961897_genuine/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/12137yj/were_the_airships_sightings_of_18961897_genuine/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Were the Airships Sightings of 1896-1897 genuine UFO...The accounts of the 1896 and 1897 unidentified Airship sightings may be a story o...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: history.nebraska.gov  
    Title: doc publications NH1979UFOs  
-   Link: <a href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 1897, beginning in Nebraska, people across much of the United States began reporting nighttime sightings of an airship flying...</p></details>
+   Link:<a href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 1897, beginning in Nebraska, people across much of the United States began reporting nighttime sightings of an airship flying...</p></details>
    Published: February 1897  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
    Title: can the airship wave of 18961897 validate now  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1hfhwti/can_the_airship_wave_of_18961897_validate_now/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1hfhwti/can_the_airship_wave_of_18961897_validate_now/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Can the Airship Wave of 1896-1897 validate now recent &#x27;...The general conclusion of investigators was that a considerable number of the...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/1hfhwti/can_the_airship_wave_of_18961897_validate_now/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1hfhwti/can_the_airship_wave_of_18961897_validate_now/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can the Airship Wave of 1896-1897 validate now recent &#x27;...The general conclusion of investigators was that a considerable number of the...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-tuesday-april-13-1897-during-t/1508580773962060/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-tuesday-april-13-1897-during-t/1508580773962060/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On today&#x27;s date 129 years ago, Tuesday, April 13, 1897...The newspapers went wild, some supporting the idea of an airship, some ridicul...</p></details>
+   Link:<a href="https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-tuesday-april-13-1897-during-t/1508580773962060/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-tuesday-april-13-1897-during-t/1508580773962060/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On today&#x27;s date 129 years ago, Tuesday, April 13, 1897...The newspapers went wild, some supporting the idea of an airship, some ridicul...</p></details>
    Published: April 13, 1897  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: wedentondoit.com  
    Title: the 1897 texas airship invasion  
-   Link: <a href="https://wedentondoit.com/blog/2017/4/21/the-1897-texas-airship-invasion" target="_blank" rel="noopener noreferrer nofollow">https://wedentondoit.com/blog/2017/4/21/the-1897-texas-airship-invasion</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>21 Apr 2017 — The earliest reported Airship sighting in Texas came from rural Denton on April 13 of 1897, when a curious local out starga...</p></details>
+   Link:<a href="https://wedentondoit.com/blog/2017/4/21/the-1897-texas-airship-invasion" target="_blank" rel="noopener noreferrer nofollow">https://wedentondoit.com/blog/2017/4/21/the-1897-texas-airship-invasion</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>21 Apr 2017 — The earliest reported Airship sighting in Texas came from rural Denton on April 13 of 1897, when a curious local out starga...</p></details>

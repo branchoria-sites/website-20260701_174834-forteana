@@ -280,13 +280,13 @@ image: /assets/images/forteana_50bdc8_folklore_evidence_me_a6b0f2_lochness_touri
 
 ## Introduction
 
-Loch Ness is one of the clearest examples in Forteana of how an unresolved mystery can reshape the identity of a place. Whether the Loch Ness Monster exists is a separate question from what the legend has achieved. Repeated sightings, famous but disputed photographs, scientific expeditions and decades of media attention have transformed a Highland freshwater loch into a globally recognised destination. The enduring appeal of Nessie demonstrates that uncertainty itself can become culturally and economically valuable. Rather than diminishing interest, the lack of conclusive proof has encouraged visitors to [experience]({{ 'experience/' | relative_url }}) the landscape for themselves, making Loch Ness a case study in how [folklore]({{ 'folklore/' | relative_url }}) becomes evidence of meaning rather than evidence of a monster. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.visitscotland.com/places-to-go/loch-ness/things-to-do/nessie" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitscotland.com">[VisitScotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitscotland.com</span><span class="citation-popover-title">Visit Scotland The Loch Ness Monster</span><span class="citation-popover-snippet">The Loch Ness Monster - Is Nessie Real?What does Nessie look like? Loch Ness Monster is said to be long, green, and mysterio...</span></span></span>
+Loch Ness is one of the clearest examples in Forteana of how an unresolved mystery can reshape the identity of a place. Whether the Loch Ness Monster exists is a separate question from what the legend has achieved. Repeated sightings, famous but disputed photographs, scientific expeditions and decades of media attention have transformed a Highland freshwater loch into a globally recognised destination. The enduring appeal of Nessie demonstrates that uncertainty itself can become culturally and economically valuable. Rather than diminishing interest, the lack of conclusive proof has encouraged visitors to [experience]({{ 'experience/' | relative_url }}) the landscape for themselves, making Loch Ness a case study in how [folklore]({{ 'folklore/' | relative_url }}) becomes evidence of meaning rather than evidence of a monster.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.visitscotland.com/places-to-go/loch-ness/things-to-do/nessie" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitscotland.com">[VisitScotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitscotland.com</span><span class="citation-popover-title">Visit Scotland The Loch Ness Monster</span><span class="citation-popover-snippet">The Loch Ness Monster - Is Nessie Real?What does Nessie look like? Loch Ness Monster is said to be long, green, and mysterio...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_folklore_evidence_me_a6b0f2_lochness_tourism_mea_d6e9ad-Illustration-1-dark.svg" | relative_url }}" alt="Loch Ness illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_folklore_evidence_me_a6b0f2_lochness_tourism_mea_d6e9ad-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_folklore_evidence_me_a6b0f2_lochness_tourism_mea_d6e9ad-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## From sightings to global recognition
 
-Although stories connected with Loch Ness are often traced to the account of Saint Columba in the sixth century, the modern Nessie phenomenon dates from 1933. Reports of an unusual creature, widely circulated through [newspapers]({{ 'newspapers/' | relative_url }}), coincided with improved road access around the loch, making it easier for visitors to travel there and witness the landscape first-hand. Public fascination expanded rapidly as newspapers published eyewitness accounts and, in 1934, the famous "Surgeon's Photograph", long accepted by many as convincing evidence before eventually being exposed as an elaborate hoax. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Loch Ness Monster</span><span class="citation-popover-snippet">Loch Ness Monster</span></span></span>
+Although stories connected with Loch Ness are often traced to the account of Saint Columba in the sixth century, the modern Nessie phenomenon dates from 1933. Reports of an unusual creature, widely circulated through [newspapers]({{ 'newspapers/' | relative_url }}), coincided with improved road access around the loch, making it easier for visitors to travel there and witness the landscape first-hand. Public fascination expanded rapidly as newspapers published eyewitness accounts and, in 1934, the famous "Surgeon's Photograph", long accepted by many as convincing evidence before eventually being exposed as an elaborate hoax.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Loch Ness Monster</span><span class="citation-popover-snippet">Loch Ness Monster</span></span></span>
 
 The exposure of that photograph did not end the legend. Instead, it became part of the story. Every claimed photograph, sonar contact or eyewitness report now joins a historical sequence in which evidence is debated rather than settled. This continuous cycle of claim, investigation and reinterpretation keeps the mystery alive without requiring definitive confirmation.
 
@@ -297,9 +297,9 @@ For students of folklore, this persistence is significant. Nessie has survived b
 
 ## Tourism, landscape and Highland mystery
 
-Loch Ness is marketed not simply as a location where a monster might live, but as a landscape whose atmosphere encourages imagination. [Tourism]({{ 'tourism/' | relative_url }}) campaigns consistently combine the immense depth of the loch, dramatic Highland scenery, ruined castles and stories of unexplained sightings into a single visitor experience. The natural environment becomes inseparable from the legend itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.visitinvernesslochness.com/the-lochness-monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitinvernesslochness.com">[Visit Inverness Loch Ness]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitinvernesslochness.com</span><span class="citation-popover-snippet">Visit Inverness Loch NessThe Loch Ness MonsterThe Loch Ness Monster, or Nessie, as we like to call her, is one of the world&#x27;s greatest un...</span></span></span>
+Loch Ness is marketed not simply as a location where a monster might live, but as a landscape whose atmosphere encourages imagination. [Tourism]({{ 'tourism/' | relative_url }}) campaigns consistently combine the immense depth of the loch, dramatic Highland scenery, ruined castles and stories of unexplained sightings into a single visitor experience. The natural environment becomes inseparable from the legend itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.visitinvernesslochness.com/the-lochness-monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitinvernesslochness.com">[Visit Inverness Loch Ness]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitinvernesslochness.com</span><span class="citation-popover-snippet">Visit Inverness Loch NessThe Loch Ness MonsterThe Loch Ness Monster, or Nessie, as we like to call her, is one of the world&#x27;s greatest un...</span></span></span>
 
-Visitor attractions reinforce this approach by presenting science and folklore together rather than treating them as opposites. Museums, exhibitions and boat cruises explain geological history, research expeditions and famous sightings while inviting visitors to decide for themselves what they think. Modern attractions increasingly frame the experience as participating in an ongoing investigation rather than merely consuming a fictional story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://lochness.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lochness.com">[The Loch Ness Experience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lochness.com</span><span class="citation-popover-snippet">Find out more. LN Deepscan...</span></span></span>
+Visitor attractions reinforce this approach by presenting science and folklore together rather than treating them as opposites. Museums, exhibitions and boat cruises explain geological history, research expeditions and famous sightings while inviting visitors to decide for themselves what they think. Modern attractions increasingly frame the experience as participating in an ongoing investigation rather than merely consuming a fictional story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://lochness.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lochness.com">[The Loch Ness Experience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lochness.com</span><span class="citation-popover-snippet">Find out more. LN Deepscan...</span></span></span>
 
 This strategy creates a distinctive form of place branding:
 
@@ -319,11 +319,11 @@ Unlike many heritage sites, Loch Ness does not depend upon visitors accepting on
 <img src="{{ "/assets/images/forteana_50bdc8_folklore_evidence_me_a6b0f2_lochness_tourism_mea_d6e9ad-Illustration-2-dark.svg" | relative_url }}" alt="Loch Ness illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_folklore_evidence_me_a6b0f2_lochness_tourism_mea_d6e9ad-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_folklore_evidence_me_a6b0f2_lochness_tourism_mea_d6e9ad-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why disputed proof can still attract visitors
 
-From an evidential perspective, Loch Ness is notable because disputed evidence often strengthens public interest instead of weakening it. The exposure of [hoaxes]({{ 'hoaxes/' | relative_url }}) such as the "Surgeon's Photograph" did not end tourism. Instead, the distinction between genuine observations, mistaken identifications and deliberate fabrications became another layer of the legend. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Loch Ness Monster</span><span class="citation-popover-snippet">Loch Ness Monster</span></span></span>
+From an evidential perspective, Loch Ness is notable because disputed evidence often strengthens public interest instead of weakening it. The exposure of [hoaxes]({{ 'hoaxes/' | relative_url }}) such as the "Surgeon's Photograph" did not end tourism. Instead, the distinction between genuine observations, mistaken identifications and deliberate fabrications became another layer of the legend.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Loch Ness Monster</span><span class="citation-popover-snippet">Loch Ness Monster</span></span></span>
 
 This reflects an important feature of Fortean culture. Complete proof would largely end debate, while complete dismissal would remove the mystery. Loch Ness occupies the productive middle ground where uncertainty continues to invite participation. Visitors can examine historical photographs, hear competing explanations, watch the water themselves and become part of a story that remains unresolved.
 
-Recent developments illustrate that maintaining credibility has become part of preserving the brand. As artificial intelligence has made fabricated images easier to create, the Loch Ness Centre has stated that submitted sightings are reviewed by experienced investigators before being promoted publicly. Rather than accepting every dramatic image, tourism organisations increasingly argue that protecting the mystery requires distinguishing genuine anomalies from manufactured fakes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thescottishsun.co.uk/news/14660075/loch-ness-monster-experts-dodgy-ai-fakes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thescottishsun.co.uk">[The Scottish Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thescottishsun.co.uk</span><span class="citation-popover-snippet">The rise of AI-generated images, portraying misleading anomalies such as humps on the water, has prompted the center to enhance its verif...</span></span></span>
+Recent developments illustrate that maintaining credibility has become part of preserving the brand. As artificial intelligence has made fabricated images easier to create, the Loch Ness Centre has stated that submitted sightings are reviewed by experienced investigators before being promoted publicly. Rather than accepting every dramatic image, tourism organisations increasingly argue that protecting the mystery requires distinguishing genuine anomalies from manufactured fakes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thescottishsun.co.uk/news/14660075/loch-ness-monster-experts-dodgy-ai-fakes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thescottishsun.co.uk">[The Scottish Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thescottishsun.co.uk</span><span class="citation-popover-snippet">The rise of AI-generated images, portraying misleading anomalies such as humps on the water, has prompted the center to enhance its verif...</span></span></span>
 
 This approach shows that the attraction is not based simply on encouraging belief. Instead, it depends on maintaining a careful balance between imagination, investigation and responsible scepticism.
 
@@ -335,7 +335,7 @@ This approach shows that the attraction is not based simply on encouraging belie
 
 ## What Nessie reveals about folklore as evidence of meaning
 
-Within the broader study of [Forteana]({{ 'forteana/' | relative_url }}), Nessie demonstrates that the cultural impact of a legend can be measured independently of its biological reality. The monster has shaped how millions of people imagine the Scottish Highlands, influenced local identity, inspired decades of scientific inquiry and generated a tourism economy centred on mystery rather than certainty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.continuumattractions.com/about-us/case-studies/the-loch-ness-experience/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: continuumattractions.com">[Continuum Attractions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">continuumattractions.com</span><span class="citation-popover-snippet">Open source on continuumattractions.com.</span></span></span>
+Within the broader study of [Forteana]({{ 'forteana/' | relative_url }}), Nessie demonstrates that the cultural impact of a legend can be measured independently of its biological reality. The monster has shaped how millions of people imagine the Scottish Highlands, influenced local identity, inspired decades of scientific inquiry and generated a tourism economy centred on mystery rather than certainty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.continuumattractions.com/about-us/case-studies/the-loch-ness-experience/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: continuumattractions.com">[Continuum Attractions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">continuumattractions.com</span><span class="citation-popover-snippet">Open source on continuumattractions.com.</span></span></span>
 
 Loch Ness therefore illustrates a central principle of folklore as evidence of meaning. The enduring importance of Nessie lies less in proving that an unknown animal inhabits the loch than in showing how repeated stories, contested evidence and shared curiosity can transform an ordinary landscape into one of the world's most recognisable places of mystery.
 
@@ -343,194 +343,194 @@ Loch Ness therefore illustrates a central principle of folklore as evidence of m
 <img src="{{ "/assets/images/forteana_50bdc8_folklore_evidence_me_a6b0f2_lochness_tourism_mea_d6e9ad-Illustration-3-dark.svg" | relative_url }}" alt="Loch Ness illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_folklore_evidence_me_a6b0f2_lochness_tourism_mea_d6e9ad-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_folklore_evidence_me_a6b0f2_lochness_tourism_mea_d6e9ad-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Nessie Turned Mystery Into Place Branding. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Nessie Turned Mystery Into Place Branding. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The vanishing hitchhiker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4614126-M.jpg" alt="Cover for The vanishing hitchhiker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The vanishing hitchhiker">The vanishing hitchhiker</a>
-        </h4>
-        <p class="fr-book-author">By Jan Harold Brunvand</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The vanishing hitchhiker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4614126-M.jpg" alt="Cover for The vanishing hitchhiker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The vanishing hitchhiker">The vanishing hitchhiker</a>
+</h4>
+<p class="fr-book-author">By Jan Harold Brunvand</p>
         
-        <p class="fr-book-desc">First published 1981. Subjects: History and criticism, Legends, Urban folklore, Légendes, Folklore urbain.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1981. Subjects: History and criticism, Legends, Urban folklore, Légendes, Folklore urbain.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Loch+Ness+monster+Steuart+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Loch Ness monster on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/825764-M.jpg" alt="Cover for The Loch Ness monster" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Loch+Ness+monster+Steuart+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Loch Ness monster">The Loch Ness monster</a>
-        </h4>
-        <p class="fr-book-author">By Steuart Campbell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Loch+Ness+monster+Steuart+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Loch Ness monster on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/825764-M.jpg" alt="Cover for The Loch Ness monster" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Loch+Ness+monster+Steuart+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Loch Ness monster">The Loch Ness monster</a>
+</h4>
+<p class="fr-book-author">By Steuart Campbell</p>
         
-        <p class="fr-book-desc">First published 1986. Subjects: Loch Ness monster.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Loch+Ness+monster+Steuart+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1986. Subjects: Loch Ness monster.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Loch+Ness+monster+Steuart+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Loch+Ness+Monster%3A+The+Evidence+Steuart+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Loch Ness Monster: The Evidence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Loch+Ness+Monster%3A+The+Evidence+Steuart+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Loch Ness Monster: The Evidence">The Loch Ness Monster: The Evidence</a>
-        </h4>
-        <p class="fr-book-author">By Steuart Campbell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Loch+Ness+Monster%3A+The+Evidence+Steuart+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Loch Ness Monster: The Evidence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Loch+Ness+Monster%3A+The+Evidence+Steuart+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Loch Ness Monster: The Evidence">The Loch Ness Monster: The Evidence</a>
+</h4>
+<p class="fr-book-author">By Steuart Campbell</p>
         
-        <p class="fr-book-desc">Examines the evidence and history behind the Loch Ness phenomenon.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Loch+Ness+Monster%3A+The+Evidence+Steuart+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines the evidence and history behind the Loch Ness phenomenon.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Loch+Ness+Monster%3A+The+Evidence+Steuart+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton+and+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton+and+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Loxton and Donald R. Prothero</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton+and+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton+and+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a>
+</h4>
+<p class="fr-book-author">By Daniel Loxton and Donald R. Prothero</p>
         
-        <p class="fr-book-desc">Includes Loch Ness as a case study in enduring monster traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton+and+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes Loch Ness as a case study in enduring monster traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton+and+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+vanishing+hitchhiker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The vanishing hitchhiker</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Loch+Ness+monster&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Loch Ness monster</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Loch+Ness+Monster%3A+Evidence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Loch Ness Monster: Evidence</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+vanishing+hitchhiker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The vanishing hitchhiker</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Loch+Ness+monster&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Loch Ness monster</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Loch+Ness+Monster%3A+Evidence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Loch Ness Monster: Evidence</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mystery forest Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5eb2b9bf8e926c565ad6.jpg' | relative_url }}" alt="Listing image for Mystery forest Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Mystery forest Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mystery forest Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5eb2b9bf8e926c565ad6.jpg' | relative_url }}" alt="Listing image for Mystery forest Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Mystery forest Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mystery gang silhouette Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9e466ddc691680c84338.jpg' | relative_url }}" alt="Listing image for Mystery gang silhouette Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Mystery gang silhouette Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mystery gang silhouette Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9e466ddc691680c84338.jpg' | relative_url }}" alt="Listing image for Mystery gang silhouette Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">Mystery gang silhouette Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &quot;Lilac Mystery&quot; Original Handmade Acrylic Canvas Painting Wall Art Gift Idea"><img src="{{ '/assets/images/marketplace-covers/1cb7fd0276a469bd10b1.jpg' | relative_url }}" alt="Listing image for &quot;Lilac Mystery&quot; Original Handmade Acrylic Canvas Painting Wall Art Gift Idea" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">&quot;Lilac Mystery&quot; Original Handmade Acrylic Canvas Painting Wall Art Gift Idea</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &quot;Lilac Mystery&quot; Original Handmade Acrylic Canvas Painting Wall Art Gift Idea"><img src="{{ '/assets/images/marketplace-covers/1cb7fd0276a469bd10b1.jpg' | relative_url }}" alt="Listing image for &quot;Lilac Mystery&quot; Original Handmade Acrylic Canvas Painting Wall Art Gift Idea" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">&quot;Lilac Mystery&quot; Original Handmade Acrylic Canvas Painting Wall Art Gift Idea</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for mystery house Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6395bae7581ab610b9ca.jpg' | relative_url }}" alt="Listing image for mystery house Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">mystery house Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for mystery house Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6395bae7581ab610b9ca.jpg' | relative_url }}" alt="Listing image for mystery house Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">mystery house Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mystery wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: mystery wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=mystery+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mystery wall art" data-ebay-reference="loch-ness-how-nessie-turned-mystery-into-place-branding-forteana-mystery-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -546,7 +546,7 @@ Loch Ness therefore illustrates a central principle of folklore as evidence of m
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -566,7 +566,7 @@ Loch Ness therefore illustrates a central principle of folklore as evidence of m
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -598,7 +598,7 @@ Loch Ness therefore illustrates a central principle of folklore as evidence of m
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -650,7 +650,7 @@ Loch Ness therefore illustrates a central principle of folklore as evidence of m
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -695,7 +695,7 @@ Loch Ness therefore illustrates a central principle of folklore as evidence of m
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -736,79 +736,79 @@ Loch Ness therefore illustrates a central principle of folklore as evidence of m
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: visitscotland.com  
    Title: Visit Scotland The Loch Ness Monster  
-   Link: <a href="https://www.visitscotland.com/places-to-go/loch-ness/things-to-do/nessie" target="_blank" rel="noopener noreferrer nofollow">https://www.visitscotland.com/places-to-go/loch-ness/things-to-do/nessie</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Loch Ness Monster - Is Nessie Real?What does Nessie look like? Loch Ness Monster is said to be long, green, and mysterio...</p></details>
+   Link:<a href="https://www.visitscotland.com/places-to-go/loch-ness/things-to-do/nessie" target="_blank" rel="noopener noreferrer nofollow">https://www.visitscotland.com/places-to-go/loch-ness/things-to-do/nessie</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Loch Ness Monster - Is Nessie Real?What does Nessie look like? Loch Ness Monster is said to be long, green, and mysterio...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Loch Ness Monster  
-   Link: <a href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Loch_Ness_Monster</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Loch_Ness_Monster" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Loch_Ness_Monster</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: lochness.com  
-   Link: <a href="https://lochness.com/" target="_blank" rel="noopener noreferrer nofollow">https://lochness.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Find out more. LN Deepscan...</p></details>
+   Link:<a href="https://lochness.com/" target="_blank" rel="noopener noreferrer nofollow">https://lochness.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Find out more. LN Deepscan...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: visitinvernesslochness.com  
-   Link: <a href="https://www.visitinvernesslochness.com/the-lochness-monster" target="_blank" rel="noopener noreferrer nofollow">https://www.visitinvernesslochness.com/the-lochness-monster</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Visit Inverness Loch NessThe Loch Ness MonsterThe Loch Ness Monster, or Nessie, as we like to call her, is one of the world&#x27;s greatest un...</p></details>
+   Link:<a href="https://www.visitinvernesslochness.com/the-lochness-monster" target="_blank" rel="noopener noreferrer nofollow">https://www.visitinvernesslochness.com/the-lochness-monster</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Visit Inverness Loch NessThe Loch Ness MonsterThe Loch Ness Monster, or Nessie, as we like to call her, is one of the world&#x27;s greatest un...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: continuumattractions.com  
-   Link: <a href="https://www.continuumattractions.com/about-us/case-studies/the-loch-ness-experience/" target="_blank" rel="noopener noreferrer nofollow">https://www.continuumattractions.com/about-us/case-studies/the-loch-ness-experience/</a>  
+   Link:<a href="https://www.continuumattractions.com/about-us/case-studies/the-loch-ness-experience/" target="_blank" rel="noopener noreferrer nofollow">https://www.continuumattractions.com/about-us/case-studies/the-loch-ness-experience/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: thescottishsun.co.uk  
-   Link: <a href="https://www.thescottishsun.co.uk/news/14660075/loch-ness-monster-experts-dodgy-ai-fakes/" target="_blank" rel="noopener noreferrer nofollow">https://www.thescottishsun.co.uk/news/14660075/loch-ness-monster-experts-dodgy-ai-fakes/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The rise of AI-generated images, portraying misleading anomalies such as humps on the water, has prompted the center to enhance its verif...</p></details>
+   Link:<a href="https://www.thescottishsun.co.uk/news/14660075/loch-ness-monster-experts-dodgy-ai-fakes/" target="_blank" rel="noopener noreferrer nofollow">https://www.thescottishsun.co.uk/news/14660075/loch-ness-monster-experts-dodgy-ai-fakes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The rise of AI-generated images, portraying misleading anomalies such as humps on the water, has prompted the center to enhance its verif...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: weewalkingtours.com  
    Title: loch ness centre  
-   Link: <a href="https://www.weewalkingtours.com/post/loch-ness-centre" target="_blank" rel="noopener noreferrer nofollow">https://www.weewalkingtours.com/post/loch-ness-centre</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In Search of Nessie: Loch Ness Centre and Exhibition31 Jan 2021 — Nessie · Loch Ness Monster · History &amp; Culture · Visitor Attractions- S...</p></details>
+   Link:<a href="https://www.weewalkingtours.com/post/loch-ness-centre" target="_blank" rel="noopener noreferrer nofollow">https://www.weewalkingtours.com/post/loch-ness-centre</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In Search of Nessie: Loch Ness Centre and Exhibition31 Jan 2021 — Nessie · Loch Ness Monster · History &amp; Culture · Visitor Attractions- S...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/664157424630796/posts/1422450775468120/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/664157424630796/posts/1422450775468120/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How a Loch Ness poster affected Scottish tourismEdward Sweeney ▻ BIGFOOT &amp; [URBAN LEGENDS](&amp;#123;&amp;#123; &#x27;urban-legends/&#x27; | relative_url &amp;#125;&amp;#125;) REAL OR NOT. 8y · Public · The Loch Ness Monster...</p></details>
+   Link:<a href="https://www.facebook.com/groups/664157424630796/posts/1422450775468120/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/664157424630796/posts/1422450775468120/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How a Loch Ness poster affected Scottish tourismEdward Sweeney ▻ BIGFOOT &amp; [URBAN LEGENDS](&amp;#123;&amp;#123; &#x27;urban-legends/&#x27; | relative_url &amp;#125;&amp;#125;) REAL OR NOT. 8y · Public · The Loch Ness Monster...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: intectica.com  
    Title: The Loch Ness Monster and Trademarks  
-   Link: <a href="https://intectica.com/the-loch-ness-monster-and-trademarks-or-turning-myth-in-profit/" target="_blank" rel="noopener noreferrer nofollow">https://intectica.com/the-loch-ness-monster-and-trademarks-or-turning-myth-in-profit/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Or turning myth...In 1934, a famous “photograph of the Loch Ness Monster” appeared in the British press — a dark shadow emerging from th...</p></details>
+   Link:<a href="https://intectica.com/the-loch-ness-monster-and-trademarks-or-turning-myth-in-profit/" target="_blank" rel="noopener noreferrer nofollow">https://intectica.com/the-loch-ness-monster-and-trademarks-or-turning-myth-in-profit/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Or turning myth...In 1934, a famous “photograph of the Loch Ness Monster” appeared in the British press — a dark shadow emerging from th...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=9y4SVIVPQBY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9y4SVIVPQBY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Visiting Scotland&#x27;s Mysterious Loch Ness...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9y4SVIVPQBY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9y4SVIVPQBY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Visiting Scotland&#x27;s Mysterious Loch Ness...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: The REAL story of the Loch Ness Monster  
-   Link: <a href="https://www.youtube.com/watch?v=NChfAgiLALk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NChfAgiLALk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Loch Ness Monster Explained: Saints, Hoaxes, DNA Tests, and Why Nessie Endures...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=NChfAgiLALk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NChfAgiLALk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Loch Ness Monster Explained: Saints, Hoaxes, DNA Tests, and Why Nessie Endures...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Visiting Scotland's Mysterious Loch Ness  
-   Link: <a href="https://www.youtube.com/watch?v=LjcFhYkWtmA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LjcFhYkWtmA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Loch Ness Monster vs Science ~ Real or Fantasy? Full Documentary HD...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LjcFhYkWtmA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LjcFhYkWtmA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Loch Ness Monster vs Science ~ Real or Fantasy? Full Documentary HD...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Inside SCOTLAND's Darkest Legends | [Ghosts](&#123;&#123; 'ghosts/' | relative_url &#125;&#125;), Castles & the Truth About Loch Ness  
-   Link: <a href="https://www.youtube.com/watch?v=Fhc-ymiAMwU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Fhc-ymiAMwU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The REAL story of the Loch Ness Monster...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Fhc-ymiAMwU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Fhc-ymiAMwU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The REAL story of the Loch Ness Monster...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Loch Ness Monster vs Science ~ Real or Fantasy? Full Documentary HD  
-   Link: <a href="https://www.youtube.com/watch?v=szxB6FagvCA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=szxB6FagvCA</a>  
+   Link:<a href="https://www.youtube.com/watch?v=szxB6FagvCA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=szxB6FagvCA</a>  

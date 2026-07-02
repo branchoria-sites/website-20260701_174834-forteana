@@ -284,7 +284,7 @@ One of the most striking features of alleged spontaneous human [combustion]({{ '
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_spontaneous_combusti_2682c4_limited_room_damage_fb21b3-Illustration-1-dark.svg" | relative_url }}" alt="Intact Rooms illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_spontaneous_combusti_2682c4_limited_room_damage_fb21b3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_spontaneous_combusti_2682c4_limited_room_damage_fb21b3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Modern fire investigation offers a different explanation. In many cases, the contrast between a severely burned body and a largely intact room is exactly what investigators would expect from a slow, localised fire rather than a rapidly developing house fire. The proposed "[wick effect]({{ 'wick-effect/' | relative_url }})" produces a relatively small but sustained flame that consumes body fat and nearby clothing over many hours. Such a fire can cause intense damage within a limited area while never generating the large flames needed to ignite the rest of the room. This mismatch between public expectation and actual fire dynamics is one reason spontaneous human combustion remains a persistent Fortean mystery rather than a forensic one. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26873440/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Forensic Sci Med Pathol. 2016 Sep;12(3):350-2. doi: 10.1007/s12024-016-9748-2. Epub 2016 Feb 12.Read more...</span></span></span>
+Modern fire investigation offers a different explanation. In many cases, the contrast between a severely burned body and a largely intact room is exactly what investigators would expect from a slow, localised fire rather than a rapidly developing house fire. The proposed "[wick effect]({{ 'wick-effect/' | relative_url }})" produces a relatively small but sustained flame that consumes body fat and nearby clothing over many hours. Such a fire can cause intense damage within a limited area while never generating the large flames needed to ignite the rest of the room. This mismatch between public expectation and actual fire dynamics is one reason spontaneous human combustion remains a persistent Fortean mystery rather than a forensic one.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26873440/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Forensic Sci Med Pathol. 2016 Sep;12(3):350-2. doi: 10.1007/s12024-016-9748-2. Epub 2016 Feb 12.Read more...</span></span></span>
 
 ## How a slow local fire can leave most of a room standing
 
@@ -295,14 +295,14 @@ Instead, forensic investigators describe a slow-burning process in which:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* clothing absorbs melted body fat and behaves like a candle wick; <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/todayilearned/comments/c6iofu/til_about_the_wick_effect_when_a_human_body_is/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">TIL About the Wick Effect, when a human body is destroyed...A human body is destroyed by fire due to their clothing having soaked up mel...</span></span></span>
+* clothing absorbs melted body fat and behaves like a candle wick;<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/todayilearned/comments/c6iofu/til_about_the_wick_effect_when_a_human_body_is/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">TIL About the Wick Effect, when a human body is destroyed...A human body is destroyed by fire due to their clothing having soaked up mel...</span></span></span>
 * combustion remains concentrated around the torso, where body fat is greatest;
 * flames are comparatively small, although temperatures immediately around the body remain high;
 * the fire progresses over several hours rather than minutes.
 
 </div>
 
-Because the burning area remains limited, much of the heat is consumed in continuously evaporating moisture from tissue and burning the available fuel immediately around the body. There may simply not be enough radiant heat or flame contact to ignite more distant furnishings. Experimental work has repeatedly shown that sustained combustion under these conditions can remain remarkably localised. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/10.1111/j.1556-4029.2012.02190.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibrarySustained Combustion of Bodies: Some Observations*4 May 2012 — The combustion then takes place where the body fat bur...</span><span class="citation-popover-meta">Published: May 2012</span></span></span>
+Because the burning area remains limited, much of the heat is consumed in continuously evaporating moisture from tissue and burning the available fuel immediately around the body. There may simply not be enough radiant heat or flame contact to ignite more distant furnishings. Experimental work has repeatedly shown that sustained combustion under these conditions can remain remarkably localised.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/10.1111/j.1556-4029.2012.02190.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibrarySustained Combustion of Bodies: Some Observations*4 May 2012 — The combustion then takes place where the body fat bur...</span><span class="citation-popover-meta">Published: May 2012</span></span></span>
 
 This helps explain why investigators sometimes find a chair almost completely destroyed while nearby shelves, books or curtains remain only lightly scorched.
 
@@ -313,9 +313,9 @@ This helps explain why investigators sometimes find a chair almost completely de
 
 The apparent contradiction becomes less surprising when different fuels are compared.
 
-A human body is mostly water and does not burn easily on its own. However, once an external ignition source starts a fire and clothing becomes saturated with liquefied fat, the combination resembles an inside-out oil lamp. The clothing provides the wick, while rendered fat provides a continuing fuel source. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22269823/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Spontaneous human combustion in the light of the 21st...by V Koljonen · 2012 · Cited by 12 — A tear in the skin has to occur for t...</span></span></span>
+A human body is mostly water and does not burn easily on its own. However, once an external ignition source starts a fire and clothing becomes saturated with liquefied fat, the combination resembles an inside-out oil lamp. The clothing provides the wick, while rendered fat provides a continuing fuel source.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22269823/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Spontaneous human combustion in the light of the 21st...by V Koljonen · 2012 · Cited by 12 — A tear in the skin has to occur for t...</span></span></span>
 
-Furniture elsewhere in the room may never receive sufficient heat for long enough to ignite. Many household materials require sustained exposure to high temperatures before flaming combustion begins. If flames remain only a few tens of centimetres high and are concentrated around one location, ignition of distant objects may never occur despite many hours of burning. Fire dynamics research emphasises that fire spread depends not simply on maximum temperature but on heat transfer, ventilation, fuel arrangement and duration of exposure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/el/fire-research-division-73300/firegov-fire-service/fire-dynamics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-title">fire dynamics</span><span class="citation-popover-snippet">Fire Dynamics &#124; NISTNovember 17, 2010 — Dynamics is the study of how fires start, spread and develop. (NFPA 921). Human skin temperat...</span><span class="citation-popover-meta">Published: November 17, 2010</span></span></span>
+Furniture elsewhere in the room may never receive sufficient heat for long enough to ignite. Many household materials require sustained exposure to high temperatures before flaming combustion begins. If flames remain only a few tens of centimetres high and are concentrated around one location, ignition of distant objects may never occur despite many hours of burning. Fire dynamics research emphasises that fire spread depends not simply on maximum temperature but on heat transfer, ventilation, fuel arrangement and duration of exposure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/el/fire-research-division-73300/firegov-fire-service/fire-dynamics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-title">fire dynamics</span><span class="citation-popover-snippet">Fire Dynamics &#124; NISTNovember 17, 2010 — Dynamics is the study of how fires start, spread and develop. (NFPA 921). Human skin temperat...</span><span class="citation-popover-meta">Published: November 17, 2010</span></span></span>
 
 ## What soot and heat damage reveal
 
@@ -334,9 +334,9 @@ Typical observations in these cases include:
 
 </div>
 
-These patterns are consistent with prolonged smouldering and slow combustion. Heat and smoke naturally rise, producing vertical staining above the point of burning. A ceiling may become heavily blackened while furniture only a short distance away escapes ignition. Fire investigators regard these patterns as clues to a confined fire rather than evidence that flames somehow ignored surrounding combustible materials. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apps.usfa.fema.gov/ax/sm/sm_0770.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apps.usfa.fema.gov">[USFA Applications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apps.usfa.fema.gov</span><span class="citation-popover-title">R. Thermal damage on the sides of furnishings close to the fire may be</span><span class="citation-popover-snippet">USFA ApplicationsFire Investigation: First Responders-Student ManualThermal damage is limited to the areas where the fire or hot gases ar...</span></span></span>
+These patterns are consistent with prolonged smouldering and slow combustion. Heat and smoke naturally rise, producing vertical staining above the point of burning. A ceiling may become heavily blackened while furniture only a short distance away escapes ignition. Fire investigators regard these patterns as clues to a confined fire rather than evidence that flames somehow ignored surrounding combustible materials.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apps.usfa.fema.gov/ax/sm/sm_0770.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apps.usfa.fema.gov">[USFA Applications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apps.usfa.fema.gov</span><span class="citation-popover-title">R. Thermal damage on the sides of furnishings close to the fire may be</span><span class="citation-popover-snippet">USFA ApplicationsFire Investigation: First Responders-Student ManualThermal damage is limited to the areas where the fire or hot gases ar...</span></span></span>
 
-Historical reports often mention sticky soot or greasy residues coating the room. Such deposits are compatible with incomplete combustion of fats and other organic materials during a long-burning, oxygen-limited fire rather than requiring an unusual or unknown process. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2409-9252/5/3/39" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">The Phenomenon of Spontaneous Human Combustion in...by A Pérez-Pérez · 2025 — The room was covered with a thick, sticky and foul-sme...</span></span></span>
+Historical reports often mention sticky soot or greasy residues coating the room. Such deposits are compatible with incomplete combustion of fats and other organic materials during a long-burning, oxygen-limited fire rather than requiring an unusual or unknown process.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2409-9252/5/3/39" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">The Phenomenon of Spontaneous Human Combustion in...by A Pérez-Pérez · 2025 — The room was covered with a thick, sticky and foul-sme...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_spontaneous_combusti_2682c4_limited_room_damage_fb21b3-Illustration-2-dark.svg" | relative_url }}" alt="Intact Rooms illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_spontaneous_combusti_2682c4_limited_room_damage_fb21b3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_spontaneous_combusti_2682c4_limited_room_damage_fb21b3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -344,9 +344,9 @@ Historical reports often mention sticky soot or greasy residues coating the room
 
 The impression that "the room should have burned down" largely comes from comparing these deaths with dramatic building fires seen in films or television.
 
-In reality, a room reaches full involvement only if enough heat is produced to ignite multiple surrounding fuels. Investigators refer to this transition as flashover. Many alleged spontaneous human combustion scenes never show evidence that flashover occurred. Without it, a fire may remain surprisingly restricted despite lasting for many hours. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/el/fire-research-division-73300/firegov-fire-service/fire-dynamics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-title">fire dynamics</span><span class="citation-popover-snippet">Fire Dynamics &#124; NISTNovember 17, 2010 — Dynamics is the study of how fires start, spread and develop. (NFPA 921). Human skin temperat...</span><span class="citation-popover-meta">Published: November 17, 2010</span></span></span>
+In reality, a room reaches full involvement only if enough heat is produced to ignite multiple surrounding fuels. Investigators refer to this transition as flashover. Many alleged spontaneous human combustion scenes never show evidence that flashover occurred. Without it, a fire may remain surprisingly restricted despite lasting for many hours.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/el/fire-research-division-73300/firegov-fire-service/fire-dynamics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-title">fire dynamics</span><span class="citation-popover-snippet">Fire Dynamics &#124; NISTNovember 17, 2010 — Dynamics is the study of how fires start, spread and develop. (NFPA 921). Human skin temperat...</span><span class="citation-popover-meta">Published: November 17, 2010</span></span></span>
 
-Another source of confusion is cremation. Modern crematoria use controlled temperatures of roughly 800–1,000°C together with forced airflow and specialised equipment to reduce a body to bone fragments over several hours. A slow domestic fire operates under very different conditions. It can destroy soft tissue and severely damage bone locally without reproducing the complete cremation process familiar to the public. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cfitrainer.net/Training_Programs/Fatal-Fires-Fire-Effects-on-the-Body.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cfitrainer.net">[cfitrainer.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cfitrainer.net</span><span class="citation-popover-title">Fatal Fires: Fire Effects on the Body This module provides a foundational</span><span class="citation-popover-snippet">Fatal Fires: Fire Effects on the BodyThis module provides a foundational introduction to the dynamic fire effects on the human body, incl...</span></span></span>
+Another source of confusion is cremation. Modern crematoria use controlled temperatures of roughly 800–1,000°C together with forced airflow and specialised equipment to reduce a body to bone fragments over several hours. A slow domestic fire operates under very different conditions. It can destroy soft tissue and severely damage bone locally without reproducing the complete cremation process familiar to the public.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cfitrainer.net/Training_Programs/Fatal-Fires-Fire-Effects-on-the-Body.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cfitrainer.net">[cfitrainer.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cfitrainer.net</span><span class="citation-popover-title">Fatal Fires: Fire Effects on the Body This module provides a foundational</span><span class="citation-popover-snippet">Fatal Fires: Fire Effects on the BodyThis module provides a foundational introduction to the dynamic fire effects on the human body, incl...</span></span></span>
 
 Because most people have little [experience]({{ 'experience/' | relative_url }}) with real fire behaviour, they intuitively assume that severe damage to one object must imply catastrophic damage to everything nearby. Fire investigations repeatedly show that this assumption is unreliable.
 
@@ -357,9 +357,9 @@ Because most people have little [experience]({{ 'experience/' | relative_url }})
 
 Several experiments have explored whether a body can burn extensively without destroying an entire room.
 
-Laboratory demonstrations of the wick effect have shown that cloth impregnated with fat burns slowly with a relatively modest flame, producing considerable soot over an extended period. Larger demonstrations using pig carcasses wrapped in blankets likewise produced prolonged burning with limited flame spread, while leaving much of the test room structurally intact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Wick_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Wick effect</span><span class="citation-popover-snippet">Wick effect</span></span></span>
+Laboratory demonstrations of the wick effect have shown that cloth impregnated with fat burns slowly with a relatively modest flame, producing considerable soot over an extended period. Larger demonstrations using pig carcasses wrapped in blankets likewise produced prolonged burning with limited flame spread, while leaving much of the test room structurally intact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Wick_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Wick effect</span><span class="citation-popover-snippet">Wick effect</span></span></span>
 
-A more detailed forensic study of cadavers found that sustained combustion under wick-effect conditions could continue for six to seven hours. Destruction was concentrated in the torso, where subcutaneous fat is greatest, while the limbs often remained comparatively preserved. This closely resembles the damage pattern seen in many historical spontaneous human combustion reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/10.1111/j.1556-4029.2012.02190.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibrarySustained Combustion of Bodies: Some Observations*4 May 2012 — The combustion then takes place where the body fat bur...</span><span class="citation-popover-meta">Published: May 2012</span></span></span>
+A more detailed forensic study of cadavers found that sustained combustion under wick-effect conditions could continue for six to seven hours. Destruction was concentrated in the torso, where subcutaneous fat is greatest, while the limbs often remained comparatively preserved. This closely resembles the damage pattern seen in many historical spontaneous human combustion reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/10.1111/j.1556-4029.2012.02190.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibrarySustained Combustion of Bodies: Some Observations*4 May 2012 — The combustion then takes place where the body fat bur...</span><span class="citation-popover-meta">Published: May 2012</span></span></span>
 
 These experiments do not recreate every historical case, but they demonstrate that highly localised, prolonged burning is physically possible without requiring the entire room to ignite.
 
@@ -369,7 +369,7 @@ These experiments do not recreate every historical case, but they demonstrate th
 
 From a forensic perspective, the survival of the room is not strong evidence that an impossible fire occurred. Instead, it often suggests the opposite: a confined fire that remained fuel-limited and never developed into a conventional structural blaze.
 
-Roger Byard and other forensic authors argue that the supposedly mysterious preservation of the surroundings is one of the very features that the wick-effect model predicts. Rather than indicating combustion from within the body, it is consistent with a slow fire sustained by clothing and body fat after an ordinary ignition source, such as a dropped cigarette or nearby flame, initiated the process. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26873440/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Forensic Sci Med Pathol. 2016 Sep;12(3):350-2. doi: 10.1007/s12024-016-9748-2. Epub 2016 Feb 12.Read more...</span></span></span>
+Roger Byard and other forensic authors argue that the supposedly mysterious preservation of the surroundings is one of the very features that the wick-effect model predicts. Rather than indicating combustion from within the body, it is consistent with a slow fire sustained by clothing and body fat after an ordinary ignition source, such as a dropped cigarette or nearby flame, initiated the process.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26873440/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Forensic Sci Med Pathol. 2016 Sep;12(3):350-2. doi: 10.1007/s12024-016-9748-2. Epub 2016 Feb 12.Read more...</span></span></span>
 
 For this reason, the contrast between a devastated body and an apparently intact room is no longer regarded by most fire investigators as evidence for spontaneous human combustion. It is instead viewed as one of the principal reasons these tragic deaths can appear so extraordinary to observers unfamiliar with the behaviour of slow, localised fires.
 
@@ -378,194 +378,194 @@ For this reason, the contrast between a devastated body and an apparently intact
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Did the Room Not Burn Down?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Did the Room Not Burn Down?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Helps readers evaluate extraordinary interpretations of ordinary evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers evaluate extraordinary interpretations of ordinary evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explores why unusual fire scenes become paranormal stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores why unusual fire scenes become paranormal stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unexplained+Phenomena+by+Roy+Bainton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Book of Unexplained Phenomena on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YHCeBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mammoth Book of Unexplained Phenomena" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unexplained+Phenomena+by+Roy+Bainton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of Unexplained Phenomena">The Mammoth Book of Unexplained Phenomena</a>
-        </h4>
-        <p class="fr-book-author">By Roy Bainton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unexplained+Phenomena+by+Roy+Bainton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Book of Unexplained Phenomena on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YHCeBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mammoth Book of Unexplained Phenomena" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unexplained+Phenomena+by+Roy+Bainton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of Unexplained Phenomena">The Mammoth Book of Unexplained Phenomena</a>
+</h4>
+<p class="fr-book-author">By Roy Bainton</p>
         
-        <p class="fr-book-desc">Provides broader Fortean context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unexplained+Phenomena+by+Roy+Bainton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader Fortean context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unexplained+Phenomena+by+Roy+Bainton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Spontaneous+human+combustion+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Spontaneous human combustion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1346249-M.jpg" alt="Cover for Spontaneous human combustion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Spontaneous+human+combustion+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spontaneous human combustion">Spontaneous human combustion</a>
-        </h4>
-        <p class="fr-book-author">By Jenny Randles, Peter Hough</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Spontaneous+human+combustion+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Spontaneous human combustion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1346249-M.jpg" alt="Cover for Spontaneous human combustion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Spontaneous+human+combustion+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spontaneous human combustion">Spontaneous human combustion</a>
+</h4>
+<p class="fr-book-author">By Jenny Randles, Peter Hough</p>
         
-        <p class="fr-book-desc">First published 2007. Subjects: Spontaneous human Combustion, Spontaneous Combustion, History, BODY, MIND &amp; SPIRIT, Unexplained Phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Spontaneous+human+combustion+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2007. Subjects: Spontaneous human Combustion, Spontaneous Combustion, History, BODY, MIND &amp; SPIRIT, Unexplained Phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Spontaneous+human+combustion+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unexplained+Phenomena&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mammoth Book of Unexplained Phenomena</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unexplained+Phenomena&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mammoth Book of Unexplained Phenomena</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Missing Persons Concert Poster Greek Theatre"><img src="{{ '/assets/images/marketplace-covers/b139e6959141b1a0be5d.jpg' | relative_url }}" alt="Listing image for Missing Persons Concert Poster Greek Theatre" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">Missing Persons Concert Poster Greek Theatre</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missing persons poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: missing persons poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Missing Persons Concert Poster Greek Theatre"><img src="{{ '/assets/images/marketplace-covers/b139e6959141b1a0be5d.jpg' | relative_url }}" alt="Listing image for Missing Persons Concert Poster Greek Theatre" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">Missing Persons Concert Poster Greek Theatre</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missing persons poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: missing persons poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/064f13354b9b88e64041.jpg' | relative_url }}" alt="Listing image for Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missing persons poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: missing persons poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/064f13354b9b88e64041.jpg' | relative_url }}" alt="Listing image for Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missing persons poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: missing persons poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1c4d78cf65d0439dd374.jpg' | relative_url }}" alt="Listing image for Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missing persons poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: missing persons poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1c4d78cf65d0439dd374.jpg' | relative_url }}" alt="Listing image for Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">Missing Persons Band Framed Art Pri Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missing persons poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: missing persons poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1961 MISSING PERSONS RETAIL STORE LITHO POSTER - UK Design USA Printing 28x54”"><img src="{{ '/assets/images/marketplace-covers/253e2b7699229a0416af.jpg' | relative_url }}" alt="Listing image for 1961 MISSING PERSONS RETAIL STORE LITHO POSTER - UK Design USA Printing 28x54”" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">1961 MISSING PERSONS RETAIL STORE LITHO POSTER - UK Design USA Printing 28x54”</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missing persons poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: missing persons poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1961 MISSING PERSONS RETAIL STORE LITHO POSTER - UK Design USA Printing 28x54”"><img src="{{ '/assets/images/marketplace-covers/253e2b7699229a0416af.jpg' | relative_url }}" alt="Listing image for 1961 MISSING PERSONS RETAIL STORE LITHO POSTER - UK Design USA Printing 28x54”" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">1961 MISSING PERSONS RETAIL STORE LITHO POSTER - UK Design USA Printing 28x54”</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missing persons poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: missing persons poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=missing+persons+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missing persons poster" data-ebay-reference="intact-rooms-why-did-the-room-not-burn-down-forteana-missing-persons-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -581,7 +581,7 @@ For this reason, the contrast between a devastated body and an apparently intact
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -601,7 +601,7 @@ For this reason, the contrast between a devastated body and an apparently intact
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -633,7 +633,7 @@ For this reason, the contrast between a devastated body and an apparently intact
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -685,7 +685,7 @@ For this reason, the contrast between a devastated body and an apparently intact
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -730,7 +730,7 @@ For this reason, the contrast between a devastated body and an apparently intact
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -771,146 +771,146 @@ For this reason, the contrast between a devastated body and an apparently intact
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: onlinelibrary.wiley.com  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1111/j.1556-4029.2012.02190.x" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/j.1556-4029.2012.02190.x</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibrarySustained Combustion of Bodies: Some Observations*4 May 2012 — The combustion then takes place where the body fat bur...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/10.1111/j.1556-4029.2012.02190.x" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/j.1556-4029.2012.02190.x</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibrarySustained Combustion of Bodies: Some Observations*4 May 2012 — The combustion then takes place where the body fat bur...</p></details>
    Published: May 2012  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/224916488_Sustained_Combustion_of_Bodies_Some_Observations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/224916488_Sustained_Combustion_of_Bodies_Some_Observations</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sustained Combustion of Bodies: Some Observations*The presence of a substrate material that can act as a wick for the combustion of the r...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/224916488_Sustained_Combustion_of_Bodies_Some_Observations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/224916488_Sustained_Combustion_of_Bodies_Some_Observations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sustained Combustion of Bodies: Some Observations*The presence of a substrate material that can act as a wick for the combustion of the r...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nist.gov  
    Title: fire dynamics  
-   Link: <a href="https://www.nist.gov/el/fire-research-division-73300/firegov-fire-service/fire-dynamics" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/el/fire-research-division-73300/firegov-fire-service/fire-dynamics</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fire Dynamics | NISTNovember 17, 2010 — Dynamics is the study of how fires start, spread and develop. (NFPA 921). Human skin temperat...</p></details>
+   Link:<a href="https://www.nist.gov/el/fire-research-division-73300/firegov-fire-service/fire-dynamics" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/el/fire-research-division-73300/firegov-fire-service/fire-dynamics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fire Dynamics | NISTNovember 17, 2010 — Dynamics is the study of how fires start, spread and develop. (NFPA 921). Human skin temperat...</p></details>
    Published: November 17, 2010  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2409-9252/5/3/39" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2409-9252/5/3/39</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Phenomenon of Spontaneous Human Combustion in...by A Pérez-Pérez · 2025 — The room was covered with a thick, sticky and foul-sme...</p></details>
+   Link:<a href="https://www.mdpi.com/2409-9252/5/3/39" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2409-9252/5/3/39</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Phenomenon of Spontaneous Human Combustion in...by A Pérez-Pérez · 2025 — The room was covered with a thick, sticky and foul-sme...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cfitrainer.net  
    Title: Fatal Fires: Fire Effects on the Body This module provides a foundational  
-   Link: <a href="https://www.cfitrainer.net/Training_Programs/Fatal-Fires-Fire-Effects-on-the-Body.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.cfitrainer.net/Training_Programs/Fatal-Fires-Fire-Effects-on-the-Body.aspx</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fatal Fires: Fire Effects on the BodyThis module provides a foundational introduction to the dynamic fire effects on the human body, incl...</p></details>
+   Link:<a href="https://www.cfitrainer.net/Training_Programs/Fatal-Fires-Fire-Effects-on-the-Body.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.cfitrainer.net/Training_Programs/Fatal-Fires-Fire-Effects-on-the-Body.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fatal Fires: Fire Effects on the BodyThis module provides a foundational introduction to the dynamic fire effects on the human body, incl...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Wick effect  
-   Link: <a href="https://en.wikipedia.org/wiki/Wick_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wick_effect</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Wick_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wick_effect</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
    Title: 294278754 The mythology of spontaneous human combustion  
-   Link: <a href="https://www.researchgate.net/publication/294278754_The_mythology_of_spontaneous_human_combustion" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/294278754_The_mythology_of_spontaneous_human_combustion</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The mythology of “spontaneous” human combustion12 Feb 2016 — Its main features are that some parts of the body (usually the middle third)...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/294278754_The_mythology_of_spontaneous_human_combustion" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/294278754_The_mythology_of_spontaneous_human_combustion</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The mythology of “spontaneous” human combustion12 Feb 2016 — Its main features are that some parts of the body (usually the middle third)...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/277968093_Use_of_damage_in_fire_investigation_a_review_of_fire_patterns_analysis_research_and_future_direction" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/277968093_Use_of_damage_in_fire_investigation_a_review_of_fire_patterns_analysis_research_and_future_direction</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Use of damage in fire investigation: a review...NFPA 921 further lists. The literature review is limited to structure fire stu- di...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/277968093_Use_of_damage_in_fire_investigation_a_review_of_fire_patterns_analysis_research_and_future_direction" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/277968093_Use_of_damage_in_fire_investigation_a_review_of_fire_patterns_analysis_research_and_future_direction</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Use of damage in fire investigation: a review...NFPA 921 further lists. The literature review is limited to structure fire stu- di...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/230703694_Solving_the_mystery_of_spontaneous_human_combustion" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/230703694_Solving_the_mystery_of_spontaneous_human_combustion</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Article. Full-text available. Sep 2016; Forensic Sci Med Pathol. Roger Byard · View. ResearchGate has...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/230703694_Solving_the_mystery_of_spontaneous_human_combustion" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/230703694_Solving_the_mystery_of_spontaneous_human_combustion</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Article. Full-text available. Sep 2016; Forensic Sci Med Pathol. Roger Byard · View. ResearchGate has...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Can Spontaneous Human Combustion REALLY Happen?  
-   Link: <a href="https://www.youtube.com/watch?v=eMXv7bylYt4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eMXv7bylYt4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spontaneous Human Combustion | Debunking Historic Mysteries...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=eMXv7bylYt4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eMXv7bylYt4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spontaneous Human Combustion | Debunking Historic Mysteries...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Spontaneous Human Combustion | Debunking Historic Mysteries  
-   Link: <a href="https://www.youtube.com/watch?v=fEUxT1OZIr4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fEUxT1OZIr4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Can You Spontaneously Combust? | Earth Science...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=fEUxT1OZIr4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fEUxT1OZIr4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can You Spontaneously Combust? | Earth Science...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26873440/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26873440/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Sci Med Pathol. 2016 Sep;12(3):350-2. doi: 10.1007/s12024-016-9748-2. Epub 2016 Feb 12.Read more...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26873440/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26873440/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Sci Med Pathol. 2016 Sep;12(3):350-2. doi: 10.1007/s12024-016-9748-2. Epub 2016 Feb 12.Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/22269823/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22269823/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spontaneous human combustion in the light of the 21st...by V Koljonen · 2012 · Cited by 12 — A tear in the skin has to occur for t...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/22269823/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22269823/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spontaneous human combustion in the light of the 21st...by V Koljonen · 2012 · Cited by 12 — A tear in the skin has to occur for t...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: apps.usfa.fema.gov  
    Title: R. Thermal damage on the sides of furnishings close to the fire may be  
-   Link: <a href="https://apps.usfa.fema.gov/ax/sm/sm_0770.pdf" target="_blank" rel="noopener noreferrer nofollow">https://apps.usfa.fema.gov/ax/sm/sm_0770.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USFA ApplicationsFire Investigation: First Responders-Student ManualThermal damage is limited to the areas where the fire or hot gases ar...</p></details>
+   Link:<a href="https://apps.usfa.fema.gov/ax/sm/sm_0770.pdf" target="_blank" rel="noopener noreferrer nofollow">https://apps.usfa.fema.gov/ax/sm/sm_0770.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USFA ApplicationsFire Investigation: First Responders-Student ManualThermal damage is limited to the areas where the fire or hot gases ar...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: laughingsquid.com  
    Title: spontaneous human combustion  
-   Link: <a href="https://laughingsquid.com/spontaneous-human-combustion/" target="_blank" rel="noopener noreferrer nofollow">https://laughingsquid.com/spontaneous-human-combustion/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Plausible Scientific Explanation for Spontaneous Human...24 May 2026 — He says the wick effect describes how human fat burns under bla...</p></details>
+   Link:<a href="https://laughingsquid.com/spontaneous-human-combustion/" target="_blank" rel="noopener noreferrer nofollow">https://laughingsquid.com/spontaneous-human-combustion/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Plausible Scientific Explanation for Spontaneous Human...24 May 2026 — He says the wick effect describes how human fat burns under bla...</p></details>
    Published: May 2026  
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nfpa.org  
-   Link: <a href="https://www.nfpa.org/about-nfpa/press-room/reporters-guide-to-fire/consequences-of-fire" target="_blank" rel="noopener noreferrer nofollow">https://www.nfpa.org/about-nfpa/press-room/reporters-guide-to-fire/consequences-of-fire</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reporter&#x27;s Guide: The consequences of fireMost fire deaths are not caused by burns, but by smoke inhalation. Often smoke incapacitates so...</p></details>
+   Link:<a href="https://www.nfpa.org/about-nfpa/press-room/reporters-guide-to-fire/consequences-of-fire" target="_blank" rel="noopener noreferrer nofollow">https://www.nfpa.org/about-nfpa/press-room/reporters-guide-to-fire/consequences-of-fire</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reporter&#x27;s Guide: The consequences of fireMost fire deaths are not caused by burns, but by smoke inhalation. Often smoke incapacitates so...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: scispace.com  
-   Link: <a href="https://scispace.com/pdf/debunking-the-spontaneous-human-combustion-myth-experiments-1zpbxt246a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/debunking-the-spontaneous-human-combustion-myth-experiments-1zpbxt246a.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking the Spontaneous Human Combustion MythThe &quot;wick effect&quot; may also account for the pattern of bodily destruction in these cases wh...</p></details>
+   Link:<a href="https://scispace.com/pdf/debunking-the-spontaneous-human-combustion-myth-experiments-1zpbxt246a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/debunking-the-spontaneous-human-combustion-myth-experiments-1zpbxt246a.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking the Spontaneous Human Combustion MythThe &quot;wick effect&quot; may also account for the pattern of bodily destruction in these cases wh...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/todayilearned/comments/c6iofu/til_about_the_wick_effect_when_a_human_body_is/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/c6iofu/til_about_the_wick_effect_when_a_human_body_is/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TIL About the Wick Effect, when a human body is destroyed...A human body is destroyed by fire due to their clothing having soaked up mel...</p></details>
+   Link:<a href="https://www.reddit.com/r/todayilearned/comments/c6iofu/til_about_the_wick_effect_when_a_human_body_is/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/c6iofu/til_about_the_wick_effect_when_a_human_body_is/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TIL About the Wick Effect, when a human body is destroyed...A human body is destroyed by fire due to their clothing having soaked up mel...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: popsci.com  
    Title: Popular Science Can humans spontaneously combust?  
-   Link: <a href="https://www.popsci.com/health/can-humans-spontaneously-combust-the-baffling-cases-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.popsci.com/health/can-humans-spontaneously-combust-the-baffling-cases-explained/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The baffling cases...3 Jun 2025 — It&#x27;s deeply improbable, nigh impossible that “spontaneous combustion” is a valid explanation for any o...</p></details>
+   Link:<a href="https://www.popsci.com/health/can-humans-spontaneously-combust-the-baffling-cases-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.popsci.com/health/can-humans-spontaneously-combust-the-baffling-cases-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The baffling cases...3 Jun 2025 — It&#x27;s deeply improbable, nigh impossible that “spontaneous combustion” is a valid explanation for any o...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: iflscience.com  
    Title: is spontaneous combustion in humans real 69852  
-   Link: <a href="https://www.iflscience.com/is-spontaneous-combustion-in-humans-real-69852" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/is-spontaneous-combustion-in-humans-real-69852</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is Spontaneous Combustion In Humans Real?17 Jul 2023 — “The most likely explanation is the &#x27;wick effect&#x27;,” Roger Byard, a Professor of Pa...</p></details>
+   Link:<a href="https://www.iflscience.com/is-spontaneous-combustion-in-humans-real-69852" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/is-spontaneous-combustion-in-humans-real-69852</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is Spontaneous Combustion In Humans Real?17 Jul 2023 — “The most likely explanation is the &#x27;wick effect&#x27;,” Roger Byard, a Professor of Pa...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/MartinbutlerO/posts/when-the-human-body-is-exposed-to-intense-fire-the-process-that-follows-is-often/122160984266953345/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MartinbutlerO/posts/when-the-human-body-is-exposed-to-intense-fire-the-process-that-follows-is-often/122160984266953345/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ly the fat, acts as fuel for the mysterious flames.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/MartinbutlerO/posts/when-the-human-body-is-exposed-to-intense-fire-the-process-that-follows-is-often/122160984266953345/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MartinbutlerO/posts/when-the-human-body-is-exposed-to-intense-fire-the-process-that-follows-is-often/122160984266953345/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ly the fat, acts as fuel for the mysterious flames.Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: ous-research.no  
    Title: Roger Byard Publications August 2024  
-   Link: <a href="https://ous-research.no/files/forensicpathology/dokumenter/Roger%20Byard%20Publications%20August%202024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ous-research.no/files/forensicpathology/dokumenter/Roger%20Byard%20Publications%20August%202024.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An approach to peer review in forensic pathology. J Forens Leg Med 2013... The myth of spontaneous human combustion. Forensic Sci Med Pa...</p></details>
+   Link:<a href="https://ous-research.no/files/forensicpathology/dokumenter/Roger%20Byard%20Publications%20August%202024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ous-research.no/files/forensicpathology/dokumenter/Roger%20Byard%20Publications%20August%202024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An approach to peer review in forensic pathology. J Forens Leg Med 2013... The myth of spontaneous human combustion. Forensic Sci Med Pa...</p></details>
    Published: August 2024  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: fireinvestigation.ie  
    Title: fire scene investigation for chemists  
-   Link: <a href="https://www.fireinvestigation.ie/wp-content/uploads/2013/04/fire%20scene%20investigation%20for%20chemists.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fireinvestigation.ie/wp-content/uploads/2013/04/fire%20scene%20investigation%20for%20chemists.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It provides the chemist with a basic overview of fire department activities, how and why investiga-.Read more...</p></details>
+   Link:<a href="https://www.fireinvestigation.ie/wp-content/uploads/2013/04/fire%20scene%20investigation%20for%20chemists.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fireinvestigation.ie/wp-content/uploads/2013/04/fire%20scene%20investigation%20for%20chemists.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It provides the chemist with a basic overview of fire department activities, how and why investiga-.Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: Spontaneous Human Combustion: The "Human Candle" Mystery Solved  
-   Link: <a href="https://www.youtube.com/watch?v=AvIJ59RbpuM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AvIJ59RbpuM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Baffling Cases of Spontaneous Human Combustion...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=AvIJ59RbpuM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AvIJ59RbpuM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Baffling Cases of Spontaneous Human Combustion...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: The Baffling Cases of Spontaneous Human Combustion  
-   Link: <a href="https://www.youtube.com/watch?v=_AU9EWNTn2A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_AU9EWNTn2A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Can Spontaneous Human Combustion REALLY Happen?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_AU9EWNTn2A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_AU9EWNTn2A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can Spontaneous Human Combustion REALLY Happen?...</p></details>

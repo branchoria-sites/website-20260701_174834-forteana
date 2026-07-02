@@ -274,7 +274,7 @@ image: /assets/images/forteana_50bdc8_missing_people_retel_d09daa_wilderness_sea
 
 ## Introduction
 
-One of the most persistent claims in Fortean [retellings]({{ 'retellings/' | relative_url }}) of wilderness [disappearances]({{ 'disappearances/' | relative_url }}) is that a person "vanished despite extensive searches". Presented without context, this can sound almost impossible. In reality, search-and-rescue professionals have long documented that even intensive operations can fail to locate someone who is relatively close to search teams. Dense vegetation, broken terrain, weather, limited visibility, fatigue, imperfect search coverage and the unpredictable behaviour of lost people all reduce the probability of detection. Search failure is therefore not unusual in wilderness incidents, even when trained personnel, dogs, aircraft and volunteers are involved. Studies of search-and-rescue operations have led to increasingly sophisticated models of lost-person behaviour precisely because simple assumptions about where someone "must be" repeatedly proved wrong. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.alpine-rescue.org/system/production/article/documents/file/004/617/6cc2c53ee77aec631b9d9b5e7dfe1582e6aad9fbc3b7595af2efe1e56be84bd2/20231020-12-Koester%202023.pdf?1702324630=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alpine-rescue.org">[alpine-rescue.org+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alpine-rescue.org</span><span class="citation-popover-snippet">Lost Person Behavior – The Science of Search and RescueWhat are the probabilities? • 25% and 50% rings shown. • 9% within 100 meters. • 5...</span></span></span>
+One of the most persistent claims in Fortean [retellings]({{ 'retellings/' | relative_url }}) of wilderness [disappearances]({{ 'disappearances/' | relative_url }}) is that a person "vanished despite extensive searches". Presented without context, this can sound almost impossible. In reality, search-and-rescue professionals have long documented that even intensive operations can fail to locate someone who is relatively close to search teams. Dense vegetation, broken terrain, weather, limited visibility, fatigue, imperfect search coverage and the unpredictable behaviour of lost people all reduce the probability of detection. Search failure is therefore not unusual in wilderness incidents, even when trained personnel, dogs, aircraft and volunteers are involved. Studies of search-and-rescue operations have led to increasingly sophisticated models of lost-person behaviour precisely because simple assumptions about where someone "must be" repeatedly proved wrong.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.alpine-rescue.org/system/production/article/documents/file/004/617/6cc2c53ee77aec631b9d9b5e7dfe1582e6aad9fbc3b7595af2efe1e56be84bd2/20231020-12-Koester%202023.pdf?1702324630=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alpine-rescue.org">[alpine-rescue.org+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alpine-rescue.org</span><span class="citation-popover-snippet">Lost Person Behavior – The Science of Search and RescueWhat are the probabilities? • 25% and 50% rings shown. • 9% within 100 meters. • 5...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_missing_people_retel_d09daa_wilderness_search_li_b78254-Illustration-1-dark.svg" | relative_url }}" alt="Search Limits illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_missing_people_retel_d09daa_wilderness_search_li_b78254-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_missing_people_retel_d09daa_wilderness_search_li_b78254-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -284,7 +284,7 @@ Within Fortean literature, however, unsuccessful searches often become transform
 
 The phrase "they searched the area" often creates a misleading mental picture of every square metre being examined. Wilderness searches rarely work like that.
 
-Search teams instead work from probabilities. Incident commanders estimate where a missing person is most likely to be based on the person's age, [experience]({{ 'experience/' | relative_url }}), health, likely decisions, terrain, available tracks, watercourses and elapsed time. Resources are then concentrated where detection is most likely rather than evenly covering an entire landscape. Modern search planning uses statistical models developed from thousands of previous incidents because exhaustive searches are usually impossible within the available time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.alpine-rescue.org/system/production/article/documents/file/004/617/6cc2c53ee77aec631b9d9b5e7dfe1582e6aad9fbc3b7595af2efe1e56be84bd2/20231020-12-Koester%202023.pdf?1702324630=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alpine-rescue.org">[alpine-rescue.org+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alpine-rescue.org</span><span class="citation-popover-snippet">Lost Person Behavior – The Science of Search and RescueWhat are the probabilities? • 25% and 50% rings shown. • 9% within 100 meters. • 5...</span></span></span>
+Search teams instead work from probabilities. Incident commanders estimate where a missing person is most likely to be based on the person's age, [experience]({{ 'experience/' | relative_url }}), health, likely decisions, terrain, available tracks, watercourses and elapsed time. Resources are then concentrated where detection is most likely rather than evenly covering an entire landscape. Modern search planning uses statistical models developed from thousands of previous incidents because exhaustive searches are usually impossible within the available time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.alpine-rescue.org/system/production/article/documents/file/004/617/6cc2c53ee77aec631b9d9b5e7dfe1582e6aad9fbc3b7595af2efe1e56be84bd2/20231020-12-Koester%202023.pdf?1702324630=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alpine-rescue.org">[alpine-rescue.org+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alpine-rescue.org</span><span class="citation-popover-snippet">Lost Person Behavior – The Science of Search and RescueWhat are the probabilities? • 25% and 50% rings shown. • 9% within 100 meters. • 5...</span></span></span>
 
 Even when searchers physically pass through an area, this does not guarantee they will detect someone. Detection depends on numerous interacting factors, including:
 
@@ -301,16 +301,16 @@ Even when searchers physically pass through an area, this does not guarantee the
 
 </div>
 
-Search theory therefore distinguishes between searching an area and successfully detecting everything within it. Probability of detection is almost never 100%. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.alpine-rescue.org/system/production/article/documents/file/004/617/6cc2c53ee77aec631b9d9b5e7dfe1582e6aad9fbc3b7595af2efe1e56be84bd2/20231020-12-Koester%202023.pdf?1702324630=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alpine-rescue.org">[alpine-rescue.org+2pure.port.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alpine-rescue.org</span><span class="citation-popover-snippet">Lost Person Behavior – The Science of Search and RescueWhat are the probabilities? • 25% and 50% rings shown. • 9% within 100 meters. • 5...</span></span></span>
+Search theory therefore distinguishes between searching an area and successfully detecting everything within it. Probability of detection is almost never 100%.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.alpine-rescue.org/system/production/article/documents/file/004/617/6cc2c53ee77aec631b9d9b5e7dfe1582e6aad9fbc3b7595af2efe1e56be84bd2/20231020-12-Koester%202023.pdf?1702324630=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alpine-rescue.org">[alpine-rescue.org+2pure.port.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alpine-rescue.org</span><span class="citation-popover-snippet">Lost Person Behavior – The Science of Search and RescueWhat are the probabilities? • 25% and 50% rings shown. • 9% within 100 meters. • 5...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/C_IqFk6y9Dg" title="Lost Person Behaviour | BC AdventureSmart Winter Series 2021-22" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=C_IqFk6y9Dg" target="_blank" rel="noopener noreferrer">Lost Person Behaviour | BC AdventureSmart Winter Series 2021-22</a></p><p class="youtube-embed-meta">Channel: BC Search and Rescue Association</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=C_IqFk6y9Dg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=C_IqFk6y9Dg">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/C_IqFk6y9Dg" title="Lost Person Behaviour | BC AdventureSmart Winter Series" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=C_IqFk6y9Dg" target="_blank" rel="noopener noreferrer">Lost Person Behaviour | BC AdventureSmart Winter Series</a></p><p class="youtube-embed-meta">Channel: BC Search and Rescue Association</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=C_IqFk6y9Dg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=C_IqFk6y9Dg">Open on YouTube</a></p></div></div></div>
 
 ## How terrain changes what searchers can see
 
 Forests frequently appear much more open in photographs or aerial imagery than they do at ground level. Mature woodland may permit visibility of only a few metres in some directions, while ravines, boulder fields and dense undergrowth create numerous blind spots.
 
-Research into wilderness search behaviour has shown that terrain strongly influences both where lost people travel and how easily they can be found. People often follow paths of least resistance, drift downhill, follow streams or continue along linear features, but they may also become trapped in vegetation, fall into depressions or remain concealed beneath natural cover. Modern Bayesian search models explicitly incorporate terrain characteristics because they measurably affect both movement and detection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/220556911_A_Bayesian_approach_to_modeling_lost_person_behaviors_based_on_terrain_features_in_Wilderness_Search_and_Rescue" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">September 2010; Computational...Read more...</span><span class="citation-popover-meta">Published: September 2010</span></span></span>
+Research into wilderness search behaviour has shown that terrain strongly influences both where lost people travel and how easily they can be found. People often follow paths of least resistance, drift downhill, follow streams or continue along linear features, but they may also become trapped in vegetation, fall into depressions or remain concealed beneath natural cover. Modern Bayesian search models explicitly incorporate terrain characteristics because they measurably affect both movement and detection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/220556911_A_Bayesian_approach_to_modeling_lost_person_behaviors_based_on_terrain_features_in_Wilderness_Search_and_Rescue" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">September 2010; Computational...Read more...</span><span class="citation-popover-meta">Published: September 2010</span></span></span>
 
 These realities help explain why remains are occasionally discovered months or years later in locations that had previously received search attention. Such discoveries are frequently described in [folklore]({{ 'folklore/' | relative_url }}) as proof that someone "appeared where they could not have been before". Investigators are usually more cautious, recognising that difficult terrain and incomplete detection provide a simpler explanation.
 
@@ -320,7 +320,7 @@ Weather changes both the landscape and the evidence left within it.
 
 Heavy rain removes footprints, alters scent conditions for search dogs and changes water levels. Snow may conceal tracks while simultaneously preserving others. Wind disperses scent unpredictably through valleys and forests. Fog dramatically reduces visibility for both aircraft and ground teams.
 
-Time also works against investigators. As hours pass, the potential search area expands rapidly because a mobile person may continue walking for many kilometres. Search resources, however, remain finite. This mismatch between an expanding search radius and limited personnel is one reason why early assumptions are often revised as new information emerges. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/220556911_A_Bayesian_approach_to_modeling_lost_person_behaviors_based_on_terrain_features_in_Wilderness_Search_and_Rescue" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2AIDR Knowledge Hub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">September 2010; Computational...Read more...</span><span class="citation-popover-meta">Published: September 2010</span></span></span>
+Time also works against investigators. As hours pass, the potential search area expands rapidly because a mobile person may continue walking for many kilometres. Search resources, however, remain finite. This mismatch between an expanding search radius and limited personnel is one reason why early assumptions are often revised as new information emerges.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/220556911_A_Bayesian_approach_to_modeling_lost_person_behaviors_based_on_terrain_features_in_Wilderness_Search_and_Rescue" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2AIDR Knowledge Hub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">September 2010; Computational...Read more...</span><span class="citation-popover-meta">Published: September 2010</span></span></span>
 
 Retellings commonly compress this evolving process into a single statement such as "hundreds searched everywhere". The operational reality is far more complicated, involving changing priorities, probability maps and repeated reassessments.
 
@@ -330,7 +330,7 @@ Retellings commonly compress this evolving process into a single statement such 
 
 A second source of misunderstanding is the assumption that lost people behave logically.
 
-Search-and-rescue databases have shown that different categories of missing people display different patterns. Experienced hikers, children, people with dementia and injured individuals often make very different decisions after becoming lost. Some remain close to the point where they realised they were disoriented. Others continue walking for many hours. Some intentionally avoid steep ground, while others descend into drainages or follow streams because they believe these will lead to civilisation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.alpine-rescue.org/system/production/article/documents/file/004/617/6cc2c53ee77aec631b9d9b5e7dfe1582e6aad9fbc3b7595af2efe1e56be84bd2/20231020-12-Koester%202023.pdf?1702324630=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alpine-rescue.org">[alpine-rescue.org+2socialsciencespace.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alpine-rescue.org</span><span class="citation-popover-snippet">Lost Person Behavior – The Science of Search and RescueWhat are the probabilities? • 25% and 50% rings shown. • 9% within 100 meters. • 5...</span></span></span>
+Search-and-rescue databases have shown that different categories of missing people display different patterns. Experienced hikers, children, people with dementia and injured individuals often make very different decisions after becoming lost. Some remain close to the point where they realised they were disoriented. Others continue walking for many hours. Some intentionally avoid steep ground, while others descend into drainages or follow streams because they believe these will lead to civilisation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.alpine-rescue.org/system/production/article/documents/file/004/617/6cc2c53ee77aec631b9d9b5e7dfe1582e6aad9fbc3b7595af2efe1e56be84bd2/20231020-12-Koester%202023.pdf?1702324630=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alpine-rescue.org">[alpine-rescue.org+2socialsciencespace.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alpine-rescue.org</span><span class="citation-popover-snippet">Lost Person Behavior – The Science of Search and RescueWhat are the probabilities? • 25% and 50% rings shown. • 9% within 100 meters. • 5...</span></span></span>
 
 These behavioural differences explain why search planning increasingly relies on statistical evidence rather than intuition. They also undermine a common Fortean claim that a person was found "too far away" or "in an impossible location". Sometimes the individual simply behaved differently from what relatives, witnesses or later commentators expected.
 
@@ -363,7 +363,7 @@ This pattern illustrates how uncertainty gradually hardens into apparent impossi
 
 Several well-known disappearance stories frequently cited in Fortean discussions rely heavily on the claim that victims were "missed" during earlier searches. Yet subsequent recoveries often occurred in environments known to present poor visibility, heavy vegetation or complex topography.
 
-Search-and-rescue professionals generally regard these recoveries as reminders that negative search results must be interpreted cautiously rather than as evidence that the missing person was absent from the area. Detection failures are expected outcomes in difficult terrain and are explicitly incorporated into modern search planning through probability-based methods rather than assumptions of perfect coverage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.alpine-rescue.org/system/production/article/documents/file/004/617/6cc2c53ee77aec631b9d9b5e7dfe1582e6aad9fbc3b7595af2efe1e56be84bd2/20231020-12-Koester%202023.pdf?1702324630=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alpine-rescue.org">[alpine-rescue.org+2pure.port.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alpine-rescue.org</span><span class="citation-popover-snippet">Lost Person Behavior – The Science of Search and RescueWhat are the probabilities? • 25% and 50% rings shown. • 9% within 100 meters. • 5...</span></span></span>
+Search-and-rescue professionals generally regard these recoveries as reminders that negative search results must be interpreted cautiously rather than as evidence that the missing person was absent from the area. Detection failures are expected outcomes in difficult terrain and are explicitly incorporated into modern search planning through probability-based methods rather than assumptions of perfect coverage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.alpine-rescue.org/system/production/article/documents/file/004/617/6cc2c53ee77aec631b9d9b5e7dfe1582e6aad9fbc3b7595af2efe1e56be84bd2/20231020-12-Koester%202023.pdf?1702324630=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alpine-rescue.org">[alpine-rescue.org+2pure.port.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alpine-rescue.org</span><span class="citation-popover-snippet">Lost Person Behavior – The Science of Search and RescueWhat are the probabilities? • 25% and 50% rings shown. • 9% within 100 meters. • 5...</span></span></span>
 
 For readers of Fortean material, this distinction is important. A failed search is undeniably dramatic and emotionally compelling, but it does not by itself demonstrate that something extraordinary occurred.
 
@@ -376,194 +376,194 @@ Search failure deserves attention because it is one of the mechanisms most often
 Recognising these constraints does not diminish the tragedy or mystery of unresolved disappearances. Instead, it places them within the realities of wilderness search and rescue. Many cases remain unexplained because there is insufficient evidence to reconstruct what happened, not because the initial inability to locate someone necessarily points towards an anomalous cause.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Searched Ground Still Hides People. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Searched Ground Still Hides People. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Survival+by+Laurence+Gonzales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Survival on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4YGq0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Deep Survival" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Deep+Survival+by+Laurence+Gonzales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Survival">Deep Survival</a>
-        </h4>
-        <p class="fr-book-author">By Laurence Gonzales</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Survival+by+Laurence+Gonzales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Survival on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4YGq0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Deep Survival" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Deep+Survival+by+Laurence+Gonzales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Survival">Deep Survival</a>
+</h4>
+<p class="fr-book-author">By Laurence Gonzales</p>
         
-        <p class="fr-book-desc">Explores human behavior during survival situations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Deep+Survival+by+Laurence+Gonzales&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores human behavior during survival situations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Deep+Survival+by+Laurence+Gonzales&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
-        </h4>
-        <p class="fr-book-author">By Charles Fort</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
+</h4>
+<p class="fr-book-author">By Charles Fort</p>
         
-        <p class="fr-book-desc">Contrasts anomalous interpretation with practical search evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contrasts anomalous interpretation with practical search evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Lost+person+behavior+Koester%2C+Robert+J.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lost person behavior on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5544847-M.jpg" alt="Cover for Lost person behavior" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Lost+person+behavior+Koester%2C+Robert+J.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lost person behavior">Lost person behavior</a>
-        </h4>
-        <p class="fr-book-author">By Koester, Robert J.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Lost+person+behavior+Koester%2C+Robert+J.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lost person behavior on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5544847-M.jpg" alt="Cover for Lost person behavior" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Lost+person+behavior+Koester%2C+Robert+J.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lost person behavior">Lost person behavior</a>
+</h4>
+<p class="fr-book-author">By Koester, Robert J.</p>
         
-        <p class="fr-book-desc">First published 2008. Subjects: Missing persons, Investigation, Psychology, Databases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Lost+person+behavior+Koester%2C+Robert+J.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2008. Subjects: Missing persons, Investigation, Psychology, Databases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Lost+person+behavior+Koester%2C+Robert+J.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=98.6+degrees+Cody+Lundin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 98.6 degrees on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/853929-M.jpg" alt="Cover for 98.6 degrees" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=98.6+degrees+Cody+Lundin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="98.6 degrees">98.6 degrees</a>
-        </h4>
-        <p class="fr-book-author">By Cody Lundin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=98.6+degrees+Cody+Lundin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 98.6 degrees on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/853929-M.jpg" alt="Cover for 98.6 degrees" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=98.6+degrees+Cody+Lundin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="98.6 degrees">98.6 degrees</a>
+</h4>
+<p class="fr-book-author">By Cody Lundin</p>
         
-        <p class="fr-book-desc">First published 2003. Subjects: Handbooks, manuals, Wilderness survival.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=98.6+degrees+Cody+Lundin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2003. Subjects: Handbooks, manuals, Wilderness survival.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=98.6+degrees+Cody+Lundin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Survival&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Survival</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Lost+person+behavior&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lost person behavior</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Survival&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Survival</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Lost+person+behavior&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lost person behavior</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=hiking+trail+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hiking trail poster -book -books" data-ebay-reference="search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sporticorn: Trail Running Hiking Un Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bf9099ebeb9d3e42c837.jpg' | relative_url }}" alt="Listing image for Sporticorn: Trail Running Hiking Un Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hiking+trail+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hiking trail poster -book -books" data-ebay-reference="search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Sporticorn: Trail Running Hiking Un Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=hiking+trail+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hiking trail poster -book -books" data-ebay-reference="search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hiking trail poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: hiking trail poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hiking+trail+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hiking trail poster -book -books" data-ebay-reference="search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=hiking+trail+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hiking trail poster -book -books" data-ebay-reference="search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sporticorn: Trail Running Hiking Un Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bf9099ebeb9d3e42c837.jpg' | relative_url }}" alt="Listing image for Sporticorn: Trail Running Hiking Un Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=hiking+trail+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hiking trail poster -book -books" data-ebay-reference="search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Sporticorn: Trail Running Hiking Un Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=hiking+trail+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hiking trail poster -book -books" data-ebay-reference="search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hiking trail poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: hiking trail poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=hiking+trail+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hiking trail poster -book -books" data-ebay-reference="search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=hiking+trail+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hiking trail poster -book -books" data-ebay-reference="search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HIT THE TRAIL Mountain Hiking Hike Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/45e41ea5f22a57e928f4.jpg' | relative_url }}" alt="Listing image for HIT THE TRAIL Mountain Hiking Hike Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hiking+trail+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hiking trail poster -book -books" data-ebay-reference="search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">HIT THE TRAIL Mountain Hiking Hike Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=hiking+trail+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hiking trail poster -book -books" data-ebay-reference="search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hiking trail poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: hiking trail poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hiking+trail+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hiking trail poster -book -books" data-ebay-reference="search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=hiking+trail+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hiking trail poster -book -books" data-ebay-reference="search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HIT THE TRAIL Mountain Hiking Hike Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/45e41ea5f22a57e928f4.jpg' | relative_url }}" alt="Listing image for HIT THE TRAIL Mountain Hiking Hike Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=hiking+trail+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hiking trail poster -book -books" data-ebay-reference="search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">HIT THE TRAIL Mountain Hiking Hike Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=hiking+trail+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hiking trail poster -book -books" data-ebay-reference="search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hiking trail poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: hiking trail poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=hiking+trail+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hiking trail poster -book -books" data-ebay-reference="search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=hiking+trail+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hiking trail poster -book -books" data-ebay-reference="search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Forest Hiking Trail Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/33891ebfe3463f5dcb76.jpg' | relative_url }}" alt="Listing image for Forest Hiking Trail Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hiking+trail+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hiking trail poster -book -books" data-ebay-reference="search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Forest Hiking Trail Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=hiking+trail+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hiking trail poster -book -books" data-ebay-reference="search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hiking trail poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: hiking trail poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hiking+trail+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hiking trail poster -book -books" data-ebay-reference="search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=hiking+trail+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hiking trail poster -book -books" data-ebay-reference="search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Forest Hiking Trail Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/33891ebfe3463f5dcb76.jpg' | relative_url }}" alt="Listing image for Forest Hiking Trail Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=hiking+trail+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hiking trail poster -book -books" data-ebay-reference="search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Forest Hiking Trail Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=hiking+trail+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hiking trail poster -book -books" data-ebay-reference="search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hiking trail poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: hiking trail poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=hiking+trail+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hiking trail poster -book -books" data-ebay-reference="search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=hiking+trail+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hiking trail poster -book -books" data-ebay-reference="search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wildflowers beside hiking trail Fra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f4e19c94f2cdc40b76c0.jpg' | relative_url }}" alt="Listing image for Wildflowers beside hiking trail Fra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hiking+trail+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hiking trail poster -book -books" data-ebay-reference="search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Wildflowers beside hiking trail Fra Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=hiking+trail+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hiking trail poster -book -books" data-ebay-reference="search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hiking trail poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: hiking trail poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hiking+trail+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hiking trail poster -book -books" data-ebay-reference="search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=hiking+trail+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hiking trail poster -book -books" data-ebay-reference="search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=hiking+trail+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hiking trail poster -book -books" data-ebay-reference="search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wildflowers beside hiking trail Fra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f4e19c94f2cdc40b76c0.jpg' | relative_url }}" alt="Listing image for Wildflowers beside hiking trail Fra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=hiking+trail+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hiking trail poster -book -books" data-ebay-reference="search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Wildflowers beside hiking trail Fra Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=hiking+trail+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hiking trail poster -book -books" data-ebay-reference="search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hiking trail poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: hiking trail poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=hiking+trail+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hiking trail poster -book -books" data-ebay-reference="search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=hiking+trail+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hiking trail poster -book -books" data-ebay-reference="search-limits-why-searched-ground-still-hides-people-forteana-hiking-trail-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -579,7 +579,7 @@ Recognising these constraints does not diminish the tragedy or mystery of unreso
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -599,7 +599,7 @@ Recognising these constraints does not diminish the tragedy or mystery of unreso
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -631,7 +631,7 @@ Recognising these constraints does not diminish the tragedy or mystery of unreso
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -683,7 +683,7 @@ Recognising these constraints does not diminish the tragedy or mystery of unreso
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -728,7 +728,7 @@ Recognising these constraints does not diminish the tragedy or mystery of unreso
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -769,87 +769,87 @@ Recognising these constraints does not diminish the tragedy or mystery of unreso
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: alpine-rescue.org  
-   Link: <a href="https://www.alpine-rescue.org/system/production/article/documents/file/004/617/6cc2c53ee77aec631b9d9b5e7dfe1582e6aad9fbc3b7595af2efe1e56be84bd2/20231020-12-Koester%202023.pdf?1702324630=" target="_blank" rel="noopener noreferrer nofollow">https://www.alpine-rescue.org/system/production/article/documents/file/004/617/6cc2c53ee77aec631b9d9b5e7dfe1582e6aad9fbc3b7595af2efe1e56be84bd2/20231020-12-Koester%202023.pdf?1702324630=</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lost Person Behavior – The Science of Search and RescueWhat are the probabilities? • 25% and 50% rings shown. • 9% within 100 meters. • 5...</p></details>
+   Link:<a href="https://www.alpine-rescue.org/system/production/article/documents/file/004/617/6cc2c53ee77aec631b9d9b5e7dfe1582e6aad9fbc3b7595af2efe1e56be84bd2/20231020-12-Koester%202023.pdf?1702324630=" target="_blank" rel="noopener noreferrer nofollow">https://www.alpine-rescue.org/system/production/article/documents/file/004/617/6cc2c53ee77aec631b9d9b5e7dfe1582e6aad9fbc3b7595af2efe1e56be84bd2/20231020-12-Koester%202023.pdf?1702324630=</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lost Person Behavior – The Science of Search and RescueWhat are the probabilities? • 25% and 50% rings shown. • 9% within 100 meters. • 5...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAn agent-based model reveals lost person behavior  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8990012/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8990012/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by A Hashimoto · 2022 · Cited by 49 — A Bayesian approach to modeling lost person behaviors based on terrain features in wilderness se...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8990012/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8990012/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by A Hashimoto · 2022 · Cited by 49 — A Bayesian approach to modeling lost person behaviors based on terrain features in wilderness se...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/220556911_A_Bayesian_approach_to_modeling_lost_person_behaviors_based_on_terrain_features_in_Wilderness_Search_and_Rescue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/220556911_A_Bayesian_approach_to_modeling_lost_person_behaviors_based_on_terrain_features_in_Wilderness_Search_and_Rescue</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>September 2010; Computational...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/220556911_A_Bayesian_approach_to_modeling_lost_person_behaviors_based_on_terrain_features_in_Wilderness_Search_and_Rescue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/220556911_A_Bayesian_approach_to_modeling_lost_person_behaviors_based_on_terrain_features_in_Wilderness_Search_and_Rescue</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>September 2010; Computational...Read more...</p></details>
    Published: September 2010  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pure.port.ac.uk  
    Title: Koester Thesis Final Revised  
-   Link: <a href="https://pure.port.ac.uk/ws/portalfiles/portal/13065953/Koester_Thesis_Final_Revised.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.port.ac.uk/ws/portalfiles/portal/13065953/Koester_Thesis_Final_Revised.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Comput Math Organ Theory...Read more...</p></details>
+   Link:<a href="https://pure.port.ac.uk/ws/portalfiles/portal/13065953/Koester_Thesis_Final_Revised.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.port.ac.uk/ws/portalfiles/portal/13065953/Koester_Thesis_Final_Revised.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Comput Math Organ Theory...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: socialsciencespace.com  
    Title: exploring lost person behavior and the science of search and rescue  
-   Link: <a href="https://www.socialsciencespace.com/2024/04/exploring-lost-person-behavior-and-the-science-of-search-and-rescue/" target="_blank" rel="noopener noreferrer nofollow">https://www.socialsciencespace.com/2024/04/exploring-lost-person-behavior-and-the-science-of-search-and-rescue/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring &#x27;Lost Person Behavior&#x27; and the Science of...24 Apr 2024 — The statistics on lost people didn&#x27;t come from large sample sizes, a...</p></details>
+   Link:<a href="https://www.socialsciencespace.com/2024/04/exploring-lost-person-behavior-and-the-science-of-search-and-rescue/" target="_blank" rel="noopener noreferrer nofollow">https://www.socialsciencespace.com/2024/04/exploring-lost-person-behavior-and-the-science-of-search-and-rescue/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring &#x27;Lost Person Behavior&#x27; and the Science of...24 Apr 2024 — The statistics on lost people didn&#x27;t come from large sample sizes, a...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: knowledge.aidr.org.au  
-   Link: <a href="https://knowledge.aidr.org.au/resources/ajem-april-2023-understanding-lost-person-behaviour-in-the-australian-wilderness-for-search-and-rescue/" target="_blank" rel="noopener noreferrer nofollow">https://knowledge.aidr.org.au/resources/ajem-april-2023-understanding-lost-person-behaviour-in-the-australian-wilderness-for-search-and-rescue/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AIDR Knowledge HubUnderstanding lost person behaviour in the Australian...2 Apr 2023 — This study examined the demographics and behaviou...</p></details>
+   Link:<a href="https://knowledge.aidr.org.au/resources/ajem-april-2023-understanding-lost-person-behaviour-in-the-australian-wilderness-for-search-and-rescue/" target="_blank" rel="noopener noreferrer nofollow">https://knowledge.aidr.org.au/resources/ajem-april-2023-understanding-lost-person-behaviour-in-the-australian-wilderness-for-search-and-rescue/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AIDR Knowledge HubUnderstanding lost person behaviour in the Australian...2 Apr 2023 — This study examined the demographics and behaviou...</p></details>
    Published: april 2023  
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: searchinvestigations.org  
    Title: finding missing person wilderness sar  
-   Link: <a href="https://www.searchinvestigations.org/blog/finding-missing-person-wilderness-sar" target="_blank" rel="noopener noreferrer nofollow">https://www.searchinvestigations.org/blog/finding-missing-person-wilderness-sar</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Finding a Missing Person in the Wilderness: SAR Techniques1 Apr 2026 — Wilderness SAR combines lost person behavior analysis, thermal dro...</p></details>
+   Link:<a href="https://www.searchinvestigations.org/blog/finding-missing-person-wilderness-sar" target="_blank" rel="noopener noreferrer nofollow">https://www.searchinvestigations.org/blog/finding-missing-person-wilderness-sar</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Finding a Missing Person in the Wilderness: SAR Techniques1 Apr 2026 — Wilderness SAR combines lost person behavior analysis, thermal dro...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/1005035709/Lost-Person-Behavior" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/1005035709/Lost-Person-Behavior</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lost Person Behavior | PDF | Statistics | Search And RescueIt incorporates research on lost person behavior, particularly focusing on fac...</p></details>
+   Link:<a href="https://www.scribd.com/document/1005035709/Lost-Person-Behavior" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/1005035709/Lost-Person-Behavior</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lost Person Behavior | PDF | Statistics | Search And RescueIt incorporates research on lost person behavior, particularly focusing on fac...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/adirondackmountainnews/posts/the-science-of-getting-lost-staying-found-in-the-adirondacksresearch-on-how-peop/1896711687724235/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/adirondackmountainnews/posts/the-science-of-getting-lost-staying-found-in-the-adirondacksresearch-on-how-peop/1896711687724235/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ion range for an adult in full-canopy eastern forest...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/adirondackmountainnews/posts/the-science-of-getting-lost-staying-found-in-the-adirondacksresearch-on-how-peop/1896711687724235/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/adirondackmountainnews/posts/the-science-of-getting-lost-staying-found-in-the-adirondacksresearch-on-how-peop/1896711687724235/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ion range for an adult in full-canopy eastern forest...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=C_IqFk6y9Dg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C_IqFk6y9Dg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lost Person Behavior || Radcliffe Institute...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=C_IqFk6y9Dg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C_IqFk6y9Dg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lost Person Behavior || Radcliffe Institute...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Lost Person Behavior || Radcliffe Institute  
-   Link: <a href="https://www.youtube.com/watch?v=hE1B6JOu2R8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hE1B6JOu2R8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When hikers vanish, how modern searches really work | Policing Matters...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hE1B6JOu2R8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hE1B6JOu2R8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When hikers vanish, how modern searches really work | Policing Matters...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: When hikers vanish, how modern searches really work | Policing Matters  
-   Link: <a href="https://www.youtube.com/watch?v=LzsQfcCepf8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LzsQfcCepf8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to Search and Rescue...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LzsQfcCepf8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LzsQfcCepf8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to Search and Rescue...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=iU4PDHRhuSE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iU4PDHRhuSE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Safe and Found: A Search and Rescue Documentary...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=iU4PDHRhuSE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iU4PDHRhuSE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Safe and Found: A Search and Rescue Documentary...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Safe and Found: A Search and Rescue Documentary  
-   Link: <a href="https://www.youtube.com/watch?v=mL2UeIMm9Xo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mL2UeIMm9Xo</a>  
+   Link:<a href="https://www.youtube.com/watch?v=mL2UeIMm9Xo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mL2UeIMm9Xo</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Bayesian search theory  
-   Link: <a href="https://en.wikipedia.org/wiki/Bayesian_search_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bayesian_search_theory</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Bayesian_search_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bayesian_search_theory</a>  

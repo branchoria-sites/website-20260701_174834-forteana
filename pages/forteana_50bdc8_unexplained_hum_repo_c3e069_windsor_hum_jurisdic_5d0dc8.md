@@ -274,19 +274,19 @@ image: /assets/images/forteana_50bdc8_unexplained_hum_repo_c3e069_windsor_hum_ju
 
 ## Introduction
 
-The Windsor Hum became far more than a mysterious low-frequency noise. It exposed a practical problem that is unusual even among famous Hum cases: many residents in Windsor, Ontario, believed the source lay across the Detroit River in the United States, leaving Canadian authorities responsible for responding to complaints without having clear authority over the suspected industrial facilities. The result was a years-long dispute in which scientific evidence, municipal responsibility, diplomatic channels and public frustration became tightly intertwined. Rather than asking only what caused the Hum, officials increasingly faced a different question: who, if anyone, had the power to make it stop? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.international.gc.ca/department-ministere/windsor_hum_results-bourdonnement_windsor_resultats.aspx?lang=eng" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: international.gc.ca">[Global Affairs Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">international.gc.ca</span><span class="citation-popover-snippet">Summary of the &#x27;Windsor Hum Study&#x27; Results23 May 2014 — The conclusion of the research is that the Windsor Hum does exist and has both qu...</span><span class="citation-popover-meta">Published: May 2014</span></span></span>
+The Windsor Hum became far more than a mysterious low-frequency noise. It exposed a practical problem that is unusual even among famous Hum cases: many residents in Windsor, Ontario, believed the source lay across the Detroit River in the United States, leaving Canadian authorities responsible for responding to complaints without having clear authority over the suspected industrial facilities. The result was a years-long dispute in which scientific evidence, municipal responsibility, diplomatic channels and public frustration became tightly intertwined. Rather than asking only what caused the Hum, officials increasingly faced a different question: who, if anyone, had the power to make it stop?<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.international.gc.ca/department-ministere/windsor_hum_results-bourdonnement_windsor_resultats.aspx?lang=eng" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: international.gc.ca">[Global Affairs Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">international.gc.ca</span><span class="citation-popover-snippet">Summary of the &#x27;Windsor Hum Study&#x27; Results23 May 2014 — The conclusion of the research is that the Windsor Hum does exist and has both qu...</span><span class="citation-popover-meta">Published: May 2014</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_unexplained_hum_repo_c3e069_windsor_hum_jurisdic_5d0dc8-Illustration-1-dark.svg" | relative_url }}" alt="Windsor illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_unexplained_hum_repo_c3e069_windsor_hum_jurisdic_5d0dc8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_unexplained_hum_repo_c3e069_windsor_hum_jurisdic_5d0dc8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why residents suspected industry across the river
 
-From 2011 onwards, many Windsor and LaSalle residents described a deep rumble or vibration resembling an idling diesel engine or blast furnace. The reports were intermittent but often strong enough to disturb sleep and shake buildings. Early seismic and acoustic investigations commissioned in Canada consistently suggested that the strongest signals arrived from the direction of the heavily industrialised American shoreline, particularly the vicinity of Zug Island in Michigan. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.international.gc.ca/department-ministere/windsor_hum_results-bourdonnement_windsor_resultats.aspx?lang=eng" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: international.gc.ca">[Global Affairs Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">international.gc.ca</span><span class="citation-popover-snippet">Summary of the &#x27;Windsor Hum Study&#x27; Results23 May 2014 — The conclusion of the research is that the Windsor Hum does exist and has both qu...</span><span class="citation-popover-meta">Published: May 2014</span></span></span>
+From 2011 onwards, many Windsor and LaSalle residents described a deep rumble or vibration resembling an idling diesel engine or blast furnace. The reports were intermittent but often strong enough to disturb sleep and shake buildings. Early seismic and acoustic investigations commissioned in Canada consistently suggested that the strongest signals arrived from the direction of the heavily industrialised American shoreline, particularly the vicinity of Zug Island in Michigan.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.international.gc.ca/department-ministere/windsor_hum_results-bourdonnement_windsor_resultats.aspx?lang=eng" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: international.gc.ca">[Global Affairs Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">international.gc.ca</span><span class="citation-popover-snippet">Summary of the &#x27;Windsor Hum Study&#x27; Results23 May 2014 — The conclusion of the research is that the Windsor Hum does exist and has both qu...</span><span class="citation-popover-meta">Published: May 2014</span></span></span>
 
 The suspicion was understandable for several reasons:
 
 * The reported direction pointed west across the Detroit River rather than towards Canadian industry.
 * Zug Island contained large steel-making operations capable of producing substantial low-frequency sound and vibration.
-* Residents frequently reported that the Hum's intensity varied with apparent industrial activity rather than with local [weather]({{ 'weather/' | relative_url }}) or neighbourhood conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.international.gc.ca/department-ministere/windsor_hum_results-bourdonnement_windsor_resultats.aspx?lang=eng" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: international.gc.ca">[Global Affairs Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">international.gc.ca</span><span class="citation-popover-snippet">Summary of the &#x27;Windsor Hum Study&#x27; Results23 May 2014 — The conclusion of the research is that the Windsor Hum does exist and has both qu...</span><span class="citation-popover-meta">Published: May 2014</span></span></span>
+* Residents frequently reported that the Hum's intensity varied with apparent industrial activity rather than with local [weather]({{ 'weather/' | relative_url }}) or neighbourhood conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.international.gc.ca/department-ministere/windsor_hum_results-bourdonnement_windsor_resultats.aspx?lang=eng" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: international.gc.ca">[Global Affairs Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">international.gc.ca</span><span class="citation-popover-snippet">Summary of the &#x27;Windsor Hum Study&#x27; Results23 May 2014 — The conclusion of the research is that the Windsor Hum does exist and has both qu...</span><span class="citation-popover-meta">Published: May 2014</span></span></span>
 
 This geographical setting made the Windsor case distinctive. Most environmental noise complaints are handled by the jurisdiction where the suspected source operates. Here, the people experiencing the disturbance and the facilities under suspicion appeared to fall under different national legal systems.
 
@@ -295,13 +295,13 @@ This geographical setting made the Windsor case distinctive. Most environmental 
 
 ## What the Canadian study did and did not prove
 
-The Canadian government funded an extensive investigation involving researchers from the University of Windsor and Western University after recommendations from the International Joint Commission, the long-standing Canada–United States body that addresses shared boundary-water issues. The project aimed not merely to confirm that residents were hearing something unusual, but to identify a specific source that could support regulatory action. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/news/archive/2014/05/results-study-windsor-hum-released.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Results of Study on &#x27;Windsor Hum&#x27; ReleasedThe results of a study to identify the cause of the so-called Windsor Hum. The Hum refers...</span></span></span>
+The Canadian government funded an extensive investigation involving researchers from the University of Windsor and Western University after recommendations from the International Joint Commission, the long-standing Canada–United States body that addresses shared boundary-water issues. The project aimed not merely to confirm that residents were hearing something unusual, but to identify a specific source that could support regulatory action.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/news/archive/2014/05/results-study-windsor-hum-released.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Results of Study on &#x27;Windsor Hum&#x27; ReleasedThe results of a study to identify the cause of the so-called Windsor Hum. The Hum refers...</span></span></span>
 
 The investigation reached two important but sometimes misunderstood conclusions.
 
-First, researchers concluded that the Windsor Hum was a genuine physical phenomenon. Monitoring equipment recorded low-frequency acoustic signals consistent with residents' descriptions, showing that the reports could not simply be dismissed as imagination or mass suggestion. One University of Windsor investigation judged that the Hum's characteristics strongly suggested blast furnace operations on Zug Island as the likely source. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.international.gc.ca/department-ministere/windsor_hum_results-bourdonnement_windsor_resultats.aspx?lang=eng" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: international.gc.ca">[Global Affairs Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">international.gc.ca</span><span class="citation-popover-snippet">Summary of the &#x27;Windsor Hum Study&#x27; Results23 May 2014 — The conclusion of the research is that the Windsor Hum does exist and has both qu...</span><span class="citation-popover-meta">Published: May 2014</span></span></span>
+First, researchers concluded that the Windsor Hum was a genuine physical phenomenon. Monitoring equipment recorded low-frequency acoustic signals consistent with residents' descriptions, showing that the reports could not simply be dismissed as imagination or mass suggestion. One University of Windsor investigation judged that the Hum's characteristics strongly suggested blast furnace operations on Zug Island as the likely source.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.international.gc.ca/department-ministere/windsor_hum_results-bourdonnement_windsor_resultats.aspx?lang=eng" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: international.gc.ca">[Global Affairs Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">international.gc.ca</span><span class="citation-popover-snippet">Summary of the &#x27;Windsor Hum Study&#x27; Results23 May 2014 — The conclusion of the research is that the Windsor Hum does exist and has both qu...</span><span class="citation-popover-meta">Published: May 2014</span></span></span>
 
-However, another component of the same broader study was more cautious. Using infrasound arrays to determine the direction of arriving sound waves, researchers were unable to obtain enough simultaneous observations to pinpoint one definitive origin. Their measurements did not conclusively support Zug Island itself as the exact source, instead indicating that the most probable direction lay generally to the south-west and could include other industrial processes or quarry-related activity. The Hum occurred only intermittently during field campaigns, making definitive localisation especially difficult. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.international.gc.ca/department-ministere/windsor_hum_results-bourdonnement_windsor_resultats.aspx?lang=eng" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: international.gc.ca">[Global Affairs Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">international.gc.ca</span><span class="citation-popover-snippet">Summary of the &#x27;Windsor Hum Study&#x27; Results23 May 2014 — The conclusion of the research is that the Windsor Hum does exist and has both qu...</span><span class="citation-popover-meta">Published: May 2014</span></span></span>
+However, another component of the same broader study was more cautious. Using infrasound arrays to determine the direction of arriving sound waves, researchers were unable to obtain enough simultaneous observations to pinpoint one definitive origin. Their measurements did not conclusively support Zug Island itself as the exact source, instead indicating that the most probable direction lay generally to the south-west and could include other industrial processes or quarry-related activity. The Hum occurred only intermittently during field campaigns, making definitive localisation especially difficult.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.international.gc.ca/department-ministere/windsor_hum_results-bourdonnement_windsor_resultats.aspx?lang=eng" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: international.gc.ca">[Global Affairs Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">international.gc.ca</span><span class="citation-popover-snippet">Summary of the &#x27;Windsor Hum Study&#x27; Results23 May 2014 — The conclusion of the research is that the Windsor Hum does exist and has both qu...</span><span class="citation-popover-meta">Published: May 2014</span></span></span>
 
 This distinction mattered enormously. The studies substantially narrowed the search area but stopped short of producing the kind of unequivocal proof that would compel regulatory enforcement against a specific American facility.
 
@@ -323,7 +323,7 @@ Canadian agencies could:
 
 </div>
 
-They could not, however, inspect or regulate industrial equipment located on private property in Michigan without American cooperation. Even obtaining permission to deploy specialised source-identification equipment on suspected sites proved challenging, and researchers specifically recommended that future measurements be allowed on Zug Island during periods when the Hum was active. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.international.gc.ca/department-ministere/windsor_hum_results-bourdonnement_windsor_resultats.aspx?lang=eng" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: international.gc.ca">[Global Affairs Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">international.gc.ca</span><span class="citation-popover-snippet">Summary of the &#x27;Windsor Hum Study&#x27; Results23 May 2014 — The conclusion of the research is that the Windsor Hum does exist and has both qu...</span><span class="citation-popover-meta">Published: May 2014</span></span></span>
+They could not, however, inspect or regulate industrial equipment located on private property in Michigan without American cooperation. Even obtaining permission to deploy specialised source-identification equipment on suspected sites proved challenging, and researchers specifically recommended that future measurements be allowed on Zug Island during periods when the Hum was active.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.international.gc.ca/department-ministere/windsor_hum_results-bourdonnement_windsor_resultats.aspx?lang=eng" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: international.gc.ca">[Global Affairs Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">international.gc.ca</span><span class="citation-popover-snippet">Summary of the &#x27;Windsor Hum Study&#x27; Results23 May 2014 — The conclusion of the research is that the Windsor Hum does exist and has both qu...</span><span class="citation-popover-meta">Published: May 2014</span></span></span>
 
 For residents, this created an accountability gap. Local officials received complaints but lacked direct authority over the suspected source. American local governments, meanwhile, had no equivalent volume of complaints from affected residents because most reports originated across the river in Canada. The burden of proving responsibility therefore became unusually high before any cross-border intervention could realistically occur.
 
@@ -336,7 +336,7 @@ The situation also demonstrated a broader limitation of environmental regulation
 
 Public discussion often simplified the issue into a straightforward claim that "the Hum came from Zug Island." The official scientific record was more nuanced.
 
-Researchers accumulated several strands of evidence pointing towards industrial activity in the area surrounding Zug Island, including directional measurements, frequency characteristics and correlations with reported events. Yet they also acknowledged that their monitoring campaigns failed to capture enough simultaneous data while the Hum was active to identify one individual machine or process beyond reasonable [doubt]({{ 'doubt/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.international.gc.ca/department-ministere/windsor_hum_results-bourdonnement_windsor_resultats.aspx?lang=eng" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: international.gc.ca">[Global Affairs Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">international.gc.ca</span><span class="citation-popover-snippet">Summary of the &#x27;Windsor Hum Study&#x27; Results23 May 2014 — The conclusion of the research is that the Windsor Hum does exist and has both qu...</span><span class="citation-popover-meta">Published: May 2014</span></span></span>
+Researchers accumulated several strands of evidence pointing towards industrial activity in the area surrounding Zug Island, including directional measurements, frequency characteristics and correlations with reported events. Yet they also acknowledged that their monitoring campaigns failed to capture enough simultaneous data while the Hum was active to identify one individual machine or process beyond reasonable [doubt]({{ 'doubt/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.international.gc.ca/department-ministere/windsor_hum_results-bourdonnement_windsor_resultats.aspx?lang=eng" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: international.gc.ca">[Global Affairs Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">international.gc.ca</span><span class="citation-popover-snippet">Summary of the &#x27;Windsor Hum Study&#x27; Results23 May 2014 — The conclusion of the research is that the Windsor Hum does exist and has both qu...</span><span class="citation-popover-meta">Published: May 2014</span></span></span>
 
 That uncertainty had practical consequences:
 
@@ -357,7 +357,7 @@ As a result, the Windsor Hum became less a mystery about whether something exist
 
 Although the formal investigations never produced absolute proof identifying one specific piece of equipment, later events significantly influenced public understanding.
 
-In 2020, operations at the U.S. Steel facilities on Zug Island were substantially reduced, including blast furnace activity. Researchers involved in earlier investigations reported that complaints about the Windsor Hum effectively ceased following the shutdown, regarding this as very strong circumstantial evidence that the industrial operations had been responsible, even if the earlier studies had been unable to prove the connection conclusively through direct measurement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.capradio.org/news/npr/story?storyid=898853311" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: capradio.org">[CapRadio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">capradio.org</span><span class="citation-popover-snippet">It Took A Pandemic: Mystery Of Windsor Hum Is Solved4 Aug 2020 — Canadians living near the U.S. border swore they could hear a st...</span></span></span>
+In 2020, operations at the U.S. Steel facilities on Zug Island were substantially reduced, including blast furnace activity. Researchers involved in earlier investigations reported that complaints about the Windsor Hum effectively ceased following the shutdown, regarding this as very strong circumstantial evidence that the industrial operations had been responsible, even if the earlier studies had been unable to prove the connection conclusively through direct measurement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.capradio.org/news/npr/story?storyid=898853311" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: capradio.org">[CapRadio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">capradio.org</span><span class="citation-popover-snippet">It Took A Pandemic: Mystery Of Windsor Hum Is Solved4 Aug 2020 — Canadians living near the U.S. border swore they could hear a st...</span></span></span>
 
 For Fortean discussions, this ending is revealing. The Windsor Hum did not conclude with a dramatic scientific breakthrough or a single instrument recording an unmistakable culprit. Instead, it became a case study in how environmental mysteries can persist because evidence, jurisdiction and regulatory authority fail to align. The central question was never simply whether the Hum was real, but whether a cross-border society possessed the legal and technical means to identify and control a suspected source located just beyond its reach.
 
@@ -366,162 +366,162 @@ For Fortean discussions, this ending is revealing. The Windsor Hum did not concl
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Could Stop the Windsor Hum?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Could Stop the Windsor Hum?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports evidence-based interpretation of disputed claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports evidence-based interpretation of disputed claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Relevant to persistent disagreements over evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to persistent disagreements over evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Noise+David+Hendy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12669046-M.jpg" alt="Cover for Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Noise+David+Hendy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Noise">Noise</a>
-        </h4>
-        <p class="fr-book-author">By David Hendy</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Noise+David+Hendy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12669046-M.jpg" alt="Cover for Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Noise+David+Hendy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Noise">Noise</a>
+</h4>
+<p class="fr-book-author">By David Hendy</p>
         
-        <p class="fr-book-desc">First published 2013. Subjects: Sound, Noise, Listening, History, Media Studies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Noise+David+Hendy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2013. Subjects: Sound, Noise, Listening, History, Media Studies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Noise+David+Hendy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Unexplained+phenomena+John+F.+Michell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Unexplained phenomena on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/911775-M.jpg" alt="Cover for Unexplained phenomena" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Unexplained+phenomena+John+F.+Michell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Unexplained phenomena">Unexplained phenomena</a>
-        </h4>
-        <p class="fr-book-author">By John F. Michell, John Michell et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Unexplained+phenomena+John+F.+Michell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Unexplained phenomena on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/911775-M.jpg" alt="Cover for Unexplained phenomena" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Unexplained+phenomena+John+F.+Michell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Unexplained phenomena">Unexplained phenomena</a>
+</h4>
+<p class="fr-book-author">By John F. Michell, John Michell et al.</p>
         
-        <p class="fr-book-desc">First published 2000. Subjects: Curiosities and wonders, Reference works, Unexplained phenomena, Metaphysical Phenomena - General, Refere...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Unexplained+phenomena+John+F.+Michell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2000. Subjects: Curiosities and wonders, Reference works, Unexplained phenomena, Metaphysical Phenomena - General, Refere...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Unexplained+phenomena+John+F.+Michell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Noise</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Noise</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Windsor+Ontario+map+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=windsor-who-could-stop-the-windsor-hum-forteana-windsor-ontario-map-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Windsor Ontario map print -book -books" data-ebay-reference="windsor-who-could-stop-the-windsor-hum-forteana-windsor-ontario-map-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WINDSOR ONTARIO CANADA MAP GLOSSY POSTER PICTURE PHOTO PRINT BANNER 10244"><img src="{{ '/assets/images/marketplace-covers/b4d18d4508a4191276df.jpg' | relative_url }}" alt="Listing image for WINDSOR ONTARIO CANADA MAP GLOSSY POSTER PICTURE PHOTO PRINT BANNER 10244" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Windsor+Ontario+map+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=windsor-who-could-stop-the-windsor-hum-forteana-windsor-ontario-map-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Windsor Ontario map print -book -books" data-ebay-reference="windsor-who-could-stop-the-windsor-hum-forteana-windsor-ontario-map-print-book-books" target="_blank" rel="sponsored noopener noreferrer">WINDSOR ONTARIO CANADA MAP GLOSSY POSTER PICTURE PHOTO PRINT BANNER 10244</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Windsor+Ontario+map+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=windsor-who-could-stop-the-windsor-hum-forteana-windsor-ontario-map-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Windsor Ontario map print -book -books" data-ebay-reference="windsor-who-could-stop-the-windsor-hum-forteana-windsor-ontario-map-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Windsor Ontario map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Windsor Ontario map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Windsor+Ontario+map+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=windsor-who-could-stop-the-windsor-hum-forteana-windsor-ontario-map-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Windsor Ontario map print -book -books" data-ebay-reference="windsor-who-could-stop-the-windsor-hum-forteana-windsor-ontario-map-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Windsor+Ontario+map+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=windsor-who-could-stop-the-windsor-hum-forteana-windsor-ontario-map-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Windsor Ontario map print -book -books" data-ebay-reference="windsor-who-could-stop-the-windsor-hum-forteana-windsor-ontario-map-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WINDSOR ONTARIO CANADA MAP GLOSSY POSTER PICTURE PHOTO PRINT BANNER 10244"><img src="{{ '/assets/images/marketplace-covers/b4d18d4508a4191276df.jpg' | relative_url }}" alt="Listing image for WINDSOR ONTARIO CANADA MAP GLOSSY POSTER PICTURE PHOTO PRINT BANNER 10244" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Windsor+Ontario+map+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=windsor-who-could-stop-the-windsor-hum-forteana-windsor-ontario-map-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Windsor Ontario map print -book -books" data-ebay-reference="windsor-who-could-stop-the-windsor-hum-forteana-windsor-ontario-map-print-book-books" target="_blank" rel="sponsored noopener noreferrer">WINDSOR ONTARIO CANADA MAP GLOSSY POSTER PICTURE PHOTO PRINT BANNER 10244</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Windsor+Ontario+map+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=windsor-who-could-stop-the-windsor-hum-forteana-windsor-ontario-map-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Windsor Ontario map print -book -books" data-ebay-reference="windsor-who-could-stop-the-windsor-hum-forteana-windsor-ontario-map-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Windsor Ontario map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Windsor Ontario map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Windsor+Ontario+map+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=windsor-who-could-stop-the-windsor-hum-forteana-windsor-ontario-map-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Windsor Ontario map print -book -books" data-ebay-reference="windsor-who-could-stop-the-windsor-hum-forteana-windsor-ontario-map-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Windsor+Ontario+map+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=windsor-who-could-stop-the-windsor-hum-forteana-windsor-ontario-map-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Windsor Ontario map print -book -books" data-ebay-reference="windsor-who-could-stop-the-windsor-hum-forteana-windsor-ontario-map-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Windsor City Map Print, Ontario Travel Poster, Modern Map, Wall Decor Art"><img src="{{ '/assets/images/marketplace-covers/ace71d182d0d8fb5795a.jpg' | relative_url }}" alt="Listing image for Windsor City Map Print, Ontario Travel Poster, Modern Map, Wall Decor Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Windsor+Ontario+map+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=windsor-who-could-stop-the-windsor-hum-forteana-windsor-ontario-map-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Windsor Ontario map print -book -books" data-ebay-reference="windsor-who-could-stop-the-windsor-hum-forteana-windsor-ontario-map-print-book-books" target="_blank" rel="sponsored noopener noreferrer">Windsor City Map Print, Ontario Travel Poster, Modern Map, Wall Decor Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Windsor+Ontario+map+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=windsor-who-could-stop-the-windsor-hum-forteana-windsor-ontario-map-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Windsor Ontario map print -book -books" data-ebay-reference="windsor-who-could-stop-the-windsor-hum-forteana-windsor-ontario-map-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Windsor Ontario map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Windsor Ontario map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Windsor+Ontario+map+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=windsor-who-could-stop-the-windsor-hum-forteana-windsor-ontario-map-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Windsor Ontario map print -book -books" data-ebay-reference="windsor-who-could-stop-the-windsor-hum-forteana-windsor-ontario-map-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Windsor+Ontario+map+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=windsor-who-could-stop-the-windsor-hum-forteana-windsor-ontario-map-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Windsor Ontario map print -book -books" data-ebay-reference="windsor-who-could-stop-the-windsor-hum-forteana-windsor-ontario-map-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Windsor+Ontario+map+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=windsor-who-could-stop-the-windsor-hum-forteana-windsor-ontario-map-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Windsor Ontario map print -book -books" data-ebay-reference="windsor-who-could-stop-the-windsor-hum-forteana-windsor-ontario-map-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Windsor City Map Print, Ontario Travel Poster, Modern Map, Wall Decor Art"><img src="{{ '/assets/images/marketplace-covers/ace71d182d0d8fb5795a.jpg' | relative_url }}" alt="Listing image for Windsor City Map Print, Ontario Travel Poster, Modern Map, Wall Decor Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Windsor+Ontario+map+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=windsor-who-could-stop-the-windsor-hum-forteana-windsor-ontario-map-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Windsor Ontario map print -book -books" data-ebay-reference="windsor-who-could-stop-the-windsor-hum-forteana-windsor-ontario-map-print-book-books" target="_blank" rel="sponsored noopener noreferrer">Windsor City Map Print, Ontario Travel Poster, Modern Map, Wall Decor Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Windsor+Ontario+map+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=windsor-who-could-stop-the-windsor-hum-forteana-windsor-ontario-map-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Windsor Ontario map print -book -books" data-ebay-reference="windsor-who-could-stop-the-windsor-hum-forteana-windsor-ontario-map-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Windsor Ontario map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Windsor Ontario map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Windsor+Ontario+map+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=windsor-who-could-stop-the-windsor-hum-forteana-windsor-ontario-map-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Windsor Ontario map print -book -books" data-ebay-reference="windsor-who-could-stop-the-windsor-hum-forteana-windsor-ontario-map-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Windsor+Ontario+map+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=windsor-who-could-stop-the-windsor-hum-forteana-windsor-ontario-map-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Windsor Ontario map print -book -books" data-ebay-reference="windsor-who-could-stop-the-windsor-hum-forteana-windsor-ontario-map-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -537,7 +537,7 @@ For Fortean discussions, this ending is revealing. The Windsor Hum did not concl
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -557,7 +557,7 @@ For Fortean discussions, this ending is revealing. The Windsor Hum did not concl
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -589,7 +589,7 @@ For Fortean discussions, this ending is revealing. The Windsor Hum did not concl
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -641,7 +641,7 @@ For Fortean discussions, this ending is revealing. The Windsor Hum did not concl
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -686,7 +686,7 @@ For Fortean discussions, this ending is revealing. The Windsor Hum did not concl
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -727,76 +727,76 @@ For Fortean discussions, this ending is revealing. The Windsor Hum did not concl
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: canada.ca  
-   Link: <a href="https://www.canada.ca/en/news/archive/2014/05/results-study-windsor-hum-released.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/news/archive/2014/05/results-study-windsor-hum-released.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Results of Study on &#x27;Windsor Hum&#x27; ReleasedThe results of a study to identify the cause of the so-called Windsor Hum. The Hum refers...</p></details>
+   Link:<a href="https://www.canada.ca/en/news/archive/2014/05/results-study-windsor-hum-released.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/news/archive/2014/05/results-study-windsor-hum-released.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Results of Study on &#x27;Windsor Hum&#x27; ReleasedThe results of a study to identify the cause of the so-called Windsor Hum. The Hum refers...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: capradio.org  
-   Link: <a href="https://www.capradio.org/news/npr/story?storyid=898853311" target="_blank" rel="noopener noreferrer nofollow">https://www.capradio.org/news/npr/story?storyid=898853311</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It Took A Pandemic: Mystery Of Windsor Hum Is Solved4 Aug 2020 — Canadians living near the U.S. border swore they could hear a st...</p></details>
+   Link:<a href="https://www.capradio.org/news/npr/story?storyid=898853311" target="_blank" rel="noopener noreferrer nofollow">https://www.capradio.org/news/npr/story?storyid=898853311</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It Took A Pandemic: Mystery Of Windsor Hum Is Solved4 Aug 2020 — Canadians living near the U.S. border swore they could hear a st...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: international.gc.ca  
    Title: Global Affairs Canada  
-   Link: <a href="https://www.international.gc.ca/department-ministere/windsor_hum_results-bourdonnement_windsor_resultats.aspx?lang=eng" target="_blank" rel="noopener noreferrer nofollow">https://www.international.gc.ca/department-ministere/windsor_hum_results-bourdonnement_windsor_resultats.aspx?lang=eng</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Summary of the &#x27;Windsor Hum Study&#x27; Results23 May 2014 — The conclusion of the research is that the Windsor Hum does exist and has both qu...</p></details>
+   Link:<a href="https://www.international.gc.ca/department-ministere/windsor_hum_results-bourdonnement_windsor_resultats.aspx?lang=eng" target="_blank" rel="noopener noreferrer nofollow">https://www.international.gc.ca/department-ministere/windsor_hum_results-bourdonnement_windsor_resultats.aspx?lang=eng</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Summary of the &#x27;Windsor Hum Study&#x27; Results23 May 2014 — The conclusion of the research is that the Windsor Hum does exist and has both qu...</p></details>
    Published: May 2014  
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ijc.org  
-   Link: <a href="https://ijc.org/sites/default/files/ID377.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ijc.org/sites/default/files/ID377.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of Detroit and Windsor, on either side of the international boundary, being polluted by smoke, soot, fly ash, or other impurities, in qua...</p></details>
+   Link:<a href="https://ijc.org/sites/default/files/ID377.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ijc.org/sites/default/files/ID377.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Detroit and Windsor, on either side of the international boundary, being polluted by smoke, soot, fly ash, or other impurities, in qua...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: hbkworld.com  
-   Link: <a href="https://www.hbkworld.com/en/knowledge/resource-center/articles/windsor-hum" target="_blank" rel="noopener noreferrer nofollow">https://www.hbkworld.com/en/knowledge/resource-center/articles/windsor-hum</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In Pursuit Of The Windsor Hum | Brüel &amp; KjærThe hum emanates from the industrialized Zug Island on the US side of the border. The U. S. S...</p></details>
+   Link:<a href="https://www.hbkworld.com/en/knowledge/resource-center/articles/windsor-hum" target="_blank" rel="noopener noreferrer nofollow">https://www.hbkworld.com/en/knowledge/resource-center/articles/windsor-hum</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In Pursuit Of The Windsor Hum | Brüel &amp; KjærThe hum emanates from the industrialized Zug Island on the US side of the border. The U. S. S...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/rememberwindsor/posts/2466589186768371/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/rememberwindsor/posts/2466589186768371/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>indsor hum,&quot; came from the area of Zug Island, a 600-acre, steel...</p></details>
+   Link:<a href="https://www.facebook.com/groups/rememberwindsor/posts/2466589186768371/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/rememberwindsor/posts/2466589186768371/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>indsor hum,&quot; came from the area of Zug Island, a 600-acre, steel...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Scientific study addresses the mystery of the Windsor hum  
-   Link: <a href="https://www.youtube.com/watch?v=zPLl7omu_2U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zPLl7omu_2U</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This Windsor Hum Investigative Report highlights how cross-border jurisdiction between Canada and the United States complicated official...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zPLl7omu_2U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zPLl7omu_2U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This Windsor Hum Investigative Report highlights how cross-border jurisdiction between Canada and the United States complicated official...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=VB1707GeXq8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VB1707GeXq8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Confusion Looms Over High-Pitched Strange Noise That&#x27;s Plaguing a Town...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VB1707GeXq8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VB1707GeXq8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Confusion Looms Over High-Pitched Strange Noise That&#x27;s Plaguing a Town...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: docs.wind-watch.org  
    Title: Windsor hum UW 2014  
-   Link: <a href="https://docs.wind-watch.org/Windsor-hum-UW-2014.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.wind-watch.org/Windsor-hum-UW-2014.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>investigation of the windsor hum17 Jan 2014 — A previous study confirmed the existence of the low frequency excitation and estimated the...</p></details>
+   Link:<a href="https://docs.wind-watch.org/Windsor-hum-UW-2014.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.wind-watch.org/Windsor-hum-UW-2014.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>investigation of the windsor hum17 Jan 2014 — A previous study confirmed the existence of the low frequency excitation and estimated the...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=aPYp1TU9cc0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aPYp1TU9cc0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>w frequency pulsing they dubbed the &#x27;Windsor...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=aPYp1TU9cc0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aPYp1TU9cc0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>w frequency pulsing they dubbed the &#x27;Windsor...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Confusion Looms Over High-Pitched Strange Noise That's Plaguing a Town  
-   Link: <a href="https://www.youtube.com/watch?v=txqogec85g4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=txqogec85g4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific study addresses the mystery of the Windsor hum...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=txqogec85g4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=txqogec85g4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific study addresses the mystery of the Windsor hum...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: The Windsor 'Hum'  
-   Link: <a href="https://www.youtube.com/watch?v=MeeQj6ArZ2c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MeeQj6ArZ2c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Still no explanation for the mysterious Windsor hum haunting Ontario city, southeastern Michigan...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=MeeQj6ArZ2c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MeeQj6ArZ2c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Still no explanation for the mysterious Windsor hum haunting Ontario city, southeastern Michigan...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: The Mysterious Case of the Windsor Hum (HBO)  
-   Link: <a href="https://www.youtube.com/watch?v=jhXaM_r80_c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jhXaM_r80_c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Windsor &#x27;Hum&#x27;...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jhXaM_r80_c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jhXaM_r80_c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Windsor &#x27;Hum&#x27;...</p></details>

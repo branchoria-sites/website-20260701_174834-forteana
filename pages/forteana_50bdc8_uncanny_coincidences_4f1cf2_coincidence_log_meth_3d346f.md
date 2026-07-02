@@ -280,7 +280,7 @@ image: /assets/images/forteana_50bdc8_uncanny_coincidences_4f1cf2_coincidence_lo
 
 ## Introduction
 
-People who [experience]({{ 'experience/' | relative_url }}) an extraordinary coincidence often remember the event as a complete story. The difficulty is that the story rarely exists in complete form at the moment it happens. Memory is reconstructive rather than a literal recording, and every retelling can sharpen, simplify or unintentionally alter details. For anyone interested in Fortean reports, the single most valuable step is therefore to make a contemporaneous record before discussing the event widely or trying to interpret it. That first record does not prove that an unusual coincidence has occurred, but it preserves what was actually known at the time and makes later evaluation far more reliable. Research on memory, eyewitness testimony and coincidence perception all points to the same practical lesson: the earlier the record, the more useful it becomes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Eyewitness_testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Eyewitness testimony</span><span class="citation-popover-snippet">Eyewitness testimony</span></span></span>
+People who [experience]({{ 'experience/' | relative_url }}) an extraordinary coincidence often remember the event as a complete story. The difficulty is that the story rarely exists in complete form at the moment it happens. Memory is reconstructive rather than a literal recording, and every retelling can sharpen, simplify or unintentionally alter details. For anyone interested in Fortean reports, the single most valuable step is therefore to make a contemporaneous record before discussing the event widely or trying to interpret it. That first record does not prove that an unusual coincidence has occurred, but it preserves what was actually known at the time and makes later evaluation far more reliable. Research on memory, eyewitness testimony and coincidence perception all points to the same practical lesson: the earlier the record, the more useful it becomes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Eyewitness_testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Eyewitness testimony</span><span class="citation-popover-snippet">Eyewitness testimony</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_uncanny_coincidences_4f1cf2_coincidence_log_meth_3d346f-Illustration-1-dark.svg" | relative_url }}" alt="Coincidence Log illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_uncanny_coincidences_4f1cf2_coincidence_log_meth_3d346f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_uncanny_coincidences_4f1cf2_coincidence_log_meth_3d346f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -302,7 +302,7 @@ Record the following as soon as possible:
 
 </div>
 
-Including unsuccessful predictions is important because coincidence stories naturally highlight memorable "hits" while forgetting the many ordinary misses. Psychologists studying coincidence perception have long argued that overlooking these non-events can make unusual matches appear far rarer than they really are. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/555649219/International-Library-of-Psychology-Watt-Caroline-Wiseman-Richard-Parapsychology-Taylor-and-Francis-2017" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">International Library of Psychology.) Watt, Caroline Objectively, a close coincidence is large enough sample, any outrageous thing more</span><span class="citation-popover-snippet">Scribd(International Library of Psychology.) Watt, CarolineObjectively, a close coincidence is large enough sample, any outrageous thing...</span></span></span>
+Including unsuccessful predictions is important because coincidence stories naturally highlight memorable "hits" while forgetting the many ordinary misses. Psychologists studying coincidence perception have long argued that overlooking these non-events can make unusual matches appear far rarer than they really are.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/555649219/International-Library-of-Psychology-Watt-Caroline-Wiseman-Richard-Parapsychology-Taylor-and-Francis-2017" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">International Library of Psychology.) Watt, Caroline Objectively, a close coincidence is large enough sample, any outrageous thing more</span><span class="citation-popover-snippet">Scribd(International Library of Psychology.) Watt, CarolineObjectively, a close coincidence is large enough sample, any outrageous thing...</span></span></span>
 
 Writing in plain language also helps. Instead of "I knew she would call," write "At 2:15 pm I thought of Jane after seeing her old photograph. At 4:40 pm she telephoned." This separates [observation]({{ 'observation/' | relative_url }}) from later interpretation.
 
@@ -314,7 +314,7 @@ The strongest coincidence records preserve context as carefully as content.
 
 If the coincidence involves a dream, prediction or sudden impression, record the exact words you used before any outcome is known. Even small wording changes can greatly widen what appears to count as a successful match.
 
-For example, "I dreamt of a [bridge collapse]({{ 'bridge-collapse/' | relative_url }})" is much more specific than "I dreamt something bad would happen." After a news event, memories often drift towards whichever version seems the better fit. Recording the original phrasing prevents this unconscious broadening of the prediction. Research on coincidence judgement notes that people frequently remember a prediction as having been more precise than it originally was, especially after learning the outcome. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/555649219/International-Library-of-Psychology-Watt-Caroline-Wiseman-Richard-Parapsychology-Taylor-and-Francis-2017" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">International Library of Psychology.) Watt, Caroline Objectively, a close coincidence is large enough sample, any outrageous thing more</span><span class="citation-popover-snippet">Scribd(International Library of Psychology.) Watt, CarolineObjectively, a close coincidence is large enough sample, any outrageous thing...</span></span></span>
+For example, "I dreamt of a [bridge collapse]({{ 'bridge-collapse/' | relative_url }})" is much more specific than "I dreamt something bad would happen." After a news event, memories often drift towards whichever version seems the better fit. Recording the original phrasing prevents this unconscious broadening of the prediction. Research on coincidence judgement notes that people frequently remember a prediction as having been more precise than it originally was, especially after learning the outcome.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/555649219/International-Library-of-Psychology-Watt-Caroline-Wiseman-Richard-Parapsychology-Taylor-and-Francis-2017" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">International Library of Psychology.) Watt, Caroline Objectively, a close coincidence is large enough sample, any outrageous thing more</span><span class="citation-popover-snippet">Scribd(International Library of Psychology.) Watt, CarolineObjectively, a close coincidence is large enough sample, any outrageous thing...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PB2OegI6wvI" title="How reliable is your memory? | Elizabeth Loftus" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PB2OegI6wvI" target="_blank" rel="noopener noreferrer">How reliable is your memory? | Elizabeth Loftus</a></p><p class="youtube-embed-meta">Channel: TED &middot; Views: 2.7M &middot; Uploaded: September 2013 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PB2OegI6wvI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PB2OegI6wvI">Open on YouTube</a></p></div></div></div>
@@ -323,7 +323,7 @@ For example, "I dreamt of a [bridge collapse]({{ 'bridge-collapse/' | relative_u
 
 If more than one person experienced the event, ask each witness to write their own account before comparing notes.
 
-Studies of eyewitness memory show that people often influence one another after discussing an event. Shared conversations can create "memory conformity", where details remembered by one person become incorporated into another person's recollection, even when they were not originally observed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Memory_conformity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Memory conformity</span><span class="citation-popover-snippet">Memory conformity</span></span></span>
+Studies of eyewitness memory show that people often influence one another after discussing an event. Shared conversations can create "memory conformity", where details remembered by one person become incorporated into another person's recollection, even when they were not originally observed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Memory_conformity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Memory conformity</span><span class="citation-popover-snippet">Memory conformity</span></span></span>
 
 Independent accounts are therefore more valuable than a single jointly constructed version.
 
@@ -353,7 +353,7 @@ Such material provides fixed reference points that are not dependent on later me
 
 Retelling is not simply repeating a memory. Each recollection is an opportunity for the memory to be reconstructed.
 
-Classic work by Frederic Bartlett showed that repeated retelling tends to make stories shorter, more coherent and better fitted to existing expectations. Missing details are often replaced with information that feels plausible rather than information that was definitely present. Later research by Elizabeth Loftus and others demonstrated that post-event information, suggestive questioning and even subtle changes in wording can alter what people sincerely believe they remember. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Eyewitness_testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Eyewitness testimony</span><span class="citation-popover-snippet">Eyewitness testimony</span></span></span>
+Classic work by Frederic Bartlett showed that repeated retelling tends to make stories shorter, more coherent and better fitted to existing expectations. Missing details are often replaced with information that feels plausible rather than information that was definitely present. Later research by Elizabeth Loftus and others demonstrated that post-event information, suggestive questioning and even subtle changes in wording can alter what people sincerely believe they remember.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Eyewitness_testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Eyewitness testimony</span><span class="citation-popover-snippet">Eyewitness testimony</span></span></span>
 
 This matters especially for Fortean coincidence reports because many are emotionally meaningful. Emotional importance often increases confidence in a memory without guaranteeing its accuracy. The more often a remarkable coincidence is discussed, the easier it becomes for interpretation and observation to merge.
 
@@ -412,194 +412,194 @@ Including uncertainty is a strength rather than a weakness. It marks the boundar
 <img src="{{ "/assets/images/forteana_50bdc8_uncanny_coincidences_4f1cf2_coincidence_log_meth_3d346f-Illustration-3-dark.svg" | relative_url }}" alt="Coincidence Log illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_uncanny_coincidences_4f1cf2_coincidence_log_meth_3d346f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_uncanny_coincidences_4f1cf2_coincidence_log_meth_3d346f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How to Record a Coincidence Before It Grows. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How to Record a Coincidence Before It Grows. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explains cognitive biases that influence coincidence stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains cognitive biases that influence coincidence stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Examines how people form meaningful patterns from events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how people form meaningful patterns from events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
-        </h4>
-        <p class="fr-book-author">By Charles Fort</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of the Damned on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sRXXoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of the Damned" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
+</h4>
+<p class="fr-book-author">By Charles Fort</p>
         
-        <p class="fr-book-desc">Historical foundation for collecting unusual reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Historical foundation for collecting unusual reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Memory+%28Frances+Yates%3A+Selected+Works%29+Frances+Amelia+Yates&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Memory (Frances Yates: Selected Works) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/265771-M.jpg" alt="Cover for The Art of Memory (Frances Yates: Selected Works)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Memory+%28Frances+Yates%3A+Selected+Works%29+Frances+Amelia+Yates&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Memory (Frances Yates: Selected Works)">The Art of Memory (Frances Yates: Selected Works)</a>
-        </h4>
-        <p class="fr-book-author">By Frances Amelia Yates</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Memory+%28Frances+Yates%3A+Selected+Works%29+Frances+Amelia+Yates&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Memory (Frances Yates: Selected Works) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/265771-M.jpg" alt="Cover for The Art of Memory (Frances Yates: Selected Works)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+Memory+%28Frances+Yates%3A+Selected+Works%29+Frances+Amelia+Yates&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Memory (Frances Yates: Selected Works)">The Art of Memory (Frances Yates: Selected Works)</a>
+</h4>
+<p class="fr-book-author">By Frances Amelia Yates</p>
         
-        <p class="fr-book-desc">First published 1999. Subjects: Memory.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Memory+%28Frances+Yates%3A+Selected+Works%29+Frances+Amelia+Yates&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1999. Subjects: Memory.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+Memory+%28Frances+Yates%3A+Selected+Works%29+Frances+Amelia+Yates&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+the+Damned&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of the Damned</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for White Cliffs Sunset Aviation Boat War Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/79d7c1c2f8b6a13b52b4.jpg' | relative_url }}" alt="Listing image for White Cliffs Sunset Aviation Boat War Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">White Cliffs Sunset Aviation Boat War Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for White Cliffs Sunset Aviation Boat War Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/79d7c1c2f8b6a13b52b4.jpg' | relative_url }}" alt="Listing image for White Cliffs Sunset Aviation Boat War Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">White Cliffs Sunset Aviation Boat War Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vulcan bomber aviation wall art canvas print mounted framed ready to hang"><img src="{{ '/assets/images/marketplace-covers/df93f96186ab197a5b3a.jpg' | relative_url }}" alt="Listing image for Vulcan bomber aviation wall art canvas print mounted framed ready to hang" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vulcan bomber aviation wall art canvas print mounted framed ready to hang</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vulcan bomber aviation wall art canvas print mounted framed ready to hang"><img src="{{ '/assets/images/marketplace-covers/df93f96186ab197a5b3a.jpg' | relative_url }}" alt="Listing image for Vulcan bomber aviation wall art canvas print mounted framed ready to hang" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vulcan bomber aviation wall art canvas print mounted framed ready to hang</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Silver Airplane Aeroplane Canvas Wall Art Picture Print"><img src="{{ '/assets/images/marketplace-covers/bf14f3ae1c3e0d868966.jpg' | relative_url }}" alt="Listing image for Vintage Silver Airplane Aeroplane Canvas Wall Art Picture Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage Silver Airplane Aeroplane Canvas Wall Art Picture Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Silver Airplane Aeroplane Canvas Wall Art Picture Print"><img src="{{ '/assets/images/marketplace-covers/bf14f3ae1c3e0d868966.jpg' | relative_url }}" alt="Listing image for Vintage Silver Airplane Aeroplane Canvas Wall Art Picture Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage Silver Airplane Aeroplane Canvas Wall Art Picture Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vulcan Bomber Red Arrows Aviation Wall Art Canvas 22 x 14 inch ready to hang"><img src="{{ '/assets/images/marketplace-covers/b9902b7979d1c778c904.jpg' | relative_url }}" alt="Listing image for Vulcan Bomber Red Arrows Aviation Wall Art Canvas 22 x 14 inch ready to hang" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vulcan Bomber Red Arrows Aviation Wall Art Canvas 22 x 14 inch ready to hang</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vulcan Bomber Red Arrows Aviation Wall Art Canvas 22 x 14 inch ready to hang"><img src="{{ '/assets/images/marketplace-covers/b9902b7979d1c778c904.jpg' | relative_url }}" alt="Listing image for Vulcan Bomber Red Arrows Aviation Wall Art Canvas 22 x 14 inch ready to hang" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vulcan Bomber Red Arrows Aviation Wall Art Canvas 22 x 14 inch ready to hang</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="coincidence-log-how-to-record-a-coincidence-before-it-grows-forteana-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -615,7 +615,7 @@ Including uncertainty is a strength rather than a weakness. It marks the boundar
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -635,7 +635,7 @@ Including uncertainty is a strength rather than a weakness. It marks the boundar
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -667,7 +667,7 @@ Including uncertainty is a strength rather than a weakness. It marks the boundar
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -719,7 +719,7 @@ Including uncertainty is a strength rather than a weakness. It marks the boundar
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -764,7 +764,7 @@ Including uncertainty is a strength rather than a weakness. It marks the boundar
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -805,52 +805,52 @@ Including uncertainty is a strength rather than a weakness. It marks the boundar
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Eyewitness testimony  
-   Link: <a href="https://en.wikipedia.org/wiki/Eyewitness_testimony" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eyewitness_testimony</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Eyewitness_testimony" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eyewitness_testimony</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/555649219/International-Library-of-[Psychology" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/555649219/International-Library-of-[Psychology</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scribd(International Library of Psychology.) Watt, CarolineObjectively, a close coincidence is large enough sample, any outrageous thing...</p></details>
+   Link:<a href="https://www.scribd.com/document/555649219/International-Library-of-[Psychology" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/555649219/International-Library-of-[Psychology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scribd(International Library of Psychology.) Watt, CarolineObjectively, a close coincidence is large enough sample, any outrageous thing...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Memory conformity  
-   Link: <a href="https://en.wikipedia.org/wiki/Memory_conformity" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Memory_conformity</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Memory_conformity" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Memory_conformity</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=m6aY9Wr-xjI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m6aY9Wr-xjI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Reliable Is Your Memory? | Elizabeth Loftus...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=m6aY9Wr-xjI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m6aY9Wr-xjI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Reliable Is Your Memory? | Elizabeth Loftus...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cd.textfiles.com  
-   Link: <a href="https://cd.textfiles.com/thegreatunsorted/zines_and_groups/zines_m-z/ad-words.txt" target="_blank" rel="noopener noreferrer nofollow">https://cd.textfiles.com/thegreatunsorted/zines_and_groups/zines_m-z/ad-words.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>textfiles.comad-words.txt... bartlett bartley bartlog bartlow bartman barto bartok bartolemo bartoli... coincidence coincident coinciden...</p></details>
+   Link:<a href="https://cd.textfiles.com/thegreatunsorted/zines_and_groups/zines_m-z/ad-words.txt" target="_blank" rel="noopener noreferrer nofollow">https://cd.textfiles.com/thegreatunsorted/zines_and_groups/zines_m-z/ad-words.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>textfiles.comad-words.txt... bartlett bartley bartlog bartlow bartman barto bartok bartolemo bartoli... coincidence coincident coinciden...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: How Memory can be manipulated, with Elizabeth Loftus, Ph D  
-   Link: <a href="https://www.youtube.com/watch?v=v-krDtRkuqs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=v-krDtRkuqs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>25 Shocking Memory Facts That Will Change How You See Reality...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=v-krDtRkuqs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=v-krDtRkuqs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>25 Shocking Memory Facts That Will Change How You See Reality...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Scott Fraser: The problem with eyewitness testimony  
-   Link: <a href="https://www.youtube.com/watch?v=buhMdC7MO0U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=buhMdC7MO0U</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Memory can be manipulated, with Elizabeth Loftus, PhD...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=buhMdC7MO0U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=buhMdC7MO0U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Memory can be manipulated, with Elizabeth Loftus, PhD...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: How Reliable Is Your Memory? | Elizabeth Loftus  
-   Link: <a href="https://www.youtube.com/watch?v=PB2OegI6wvI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PB2OegI6wvI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scott Fraser: The problem with eyewitness testimony...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PB2OegI6wvI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PB2OegI6wvI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scott Fraser: The problem with eyewitness testimony...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: 25 Shocking Memory Facts That Will Change How You See Reality  
-   Link: <a href="https://www.youtube.com/watch?v=y_yqAw4MewM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=y_yqAw4MewM</a>  
+   Link:<a href="https://www.youtube.com/watch?v=y_yqAw4MewM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=y_yqAw4MewM</a>  

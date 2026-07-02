@@ -284,13 +284,13 @@ Lenticular clouds are among the most convincing examples of how ordinary weather
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_misidentification_bi_3761ff_lenticular_cloud_ufo_856dfa-Illustration-1-dark.svg" | relative_url }}" alt="Cloud UFOs illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_misidentification_bi_3761ff_lenticular_cloud_ufo_856dfa-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_misidentification_bi_3761ff_lenticular_cloud_ufo_856dfa-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Unlike vague lights or distant objects, lenticular clouds possess features that many people instinctively associate with engineering rather than nature: precise curves, layered symmetry and an uncanny ability to remain fixed in one part of the sky. Understanding how they form helps explain why they have repeatedly become part of UFO [folklore]({{ 'folklore/' | relative_url }}) without requiring deception or unusual atmospheric anomalies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office+2National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeUnusual cloud formations... UFO sightings across the world. How do lenticular clouds form? When air... Lenticular clouds are a...</span></span></span>
+Unlike vague lights or distant objects, lenticular clouds possess features that many people instinctively associate with engineering rather than nature: precise curves, layered symmetry and an uncanny ability to remain fixed in one part of the sky. Understanding how they form helps explain why they have repeatedly become part of UFO [folklore]({{ 'folklore/' | relative_url }}) without requiring deception or unusual atmospheric anomalies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office+2National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeUnusual cloud formations... UFO sightings across the world. How do lenticular clouds form? When air... Lenticular clouds are a...</span></span></span>
 
 ## Why lenticular clouds form
 
 Lenticular clouds develop when stable, moist air flows across mountains or other substantial terrain barriers. As the air is forced upwards it cools, allowing water vapour to condense. Downwind of the mountain, the airflow often settles into a series of standing atmospheric waves, sometimes called mountain waves.
 
-A key point is that the wave remains fixed relative to the landscape even though the air itself is moving rapidly through it. Moist air continually condenses at one point in the wave and evaporates further downstream. The cloud therefore appears almost stationary despite strong winds passing through it. Meteorologists sometimes describe this as a cloud being continuously rebuilt in the same location rather than physically sitting still. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/abq/features_acsl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service+2Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">National Weather ServiceAltocumulus Standing Lenticular CloudsWhen sufficient moisture is present above mountain-top level, ACSL clouds d...</span></span></span>
+A key point is that the wave remains fixed relative to the landscape even though the air itself is moving rapidly through it. Moist air continually condenses at one point in the wave and evaporates further downstream. The cloud therefore appears almost stationary despite strong winds passing through it. Meteorologists sometimes describe this as a cloud being continuously rebuilt in the same location rather than physically sitting still.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/abq/features_acsl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service+2Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">National Weather ServiceAltocumulus Standing Lenticular CloudsWhen sufficient moisture is present above mountain-top level, ACSL clouds d...</span></span></span>
 
 The resulting cloud often has characteristics unlike the ragged appearance people expect from everyday clouds:
 
@@ -304,7 +304,7 @@ The resulting cloud often has characteristics unlike the ragged appearance peopl
 
 </div>
 
-Because these clouds reveal the shape of invisible air currents, they often look less like drifting vapour than like solid objects suspended in the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mountwashington.org/a-closer-look-at-lenticular-clouds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mountwashington.org">[Mount Washington Observatory+2National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mountwashington.org</span><span class="citation-popover-snippet">Mount Washington ObservatoryA Closer Look at Lenticular CloudsThese visually striking clouds have been variously described to appear as l...</span></span></span>
+Because these clouds reveal the shape of invisible air currents, they often look less like drifting vapour than like solid objects suspended in the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mountwashington.org/a-closer-look-at-lenticular-clouds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mountwashington.org">[Mount Washington Observatory+2National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mountwashington.org</span><span class="citation-popover-snippet">Mount Washington ObservatoryA Closer Look at Lenticular CloudsThese visually striking clouds have been variously described to appear as l...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KgO7Kyq3q-U" title="Lenticular Clouds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KgO7Kyq3q-U" target="_blank" rel="noopener noreferrer">Lenticular Clouds</a></p><p class="youtube-embed-meta">Channel: Alan Sealls &middot; Views: 11.3K &middot; Uploaded: January 2023 &middot; Length: 3 minutes 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KgO7Kyq3q-U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KgO7Kyq3q-U">Open on YouTube</a></p></div></div></div>
@@ -317,7 +317,7 @@ Their symmetry is especially important. People often associate circles, smooth c
 
 The illusion is strengthened by its apparent stillness. Since the cloud remains anchored over one location while neighbouring clouds continue moving, observers may conclude that an object is hovering rather than recognising that they are seeing a stationary wave in moving air. The lack of obvious motion also removes one of the easiest visual clues people use to classify clouds.
 
-Lighting adds another layer of confusion. Around sunrise or sunset, low-angle sunlight can illuminate the upper surface while leaving the underside in shadow, giving the impression of a metallic disc with a darker base. Photographs can exaggerate this effect because cameras compress depth and contrast, making the cloud appear even more solid than it looked to the eye. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office+2Mount Washington Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeUnusual cloud formations... UFO sightings across the world. How do lenticular clouds form? When air... Lenticular clouds are a...</span></span></span>
+Lighting adds another layer of confusion. Around sunrise or sunset, low-angle sunlight can illuminate the upper surface while leaving the underside in shadow, giving the impression of a metallic disc with a darker base. Photographs can exaggerate this effect because cameras compress depth and contrast, making the cloud appear even more solid than it looked to the eye.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office+2Mount Washington Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeUnusual cloud formations... UFO sightings across the world. How do lenticular clouds form? When air... Lenticular clouds are a...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_misidentification_bi_3761ff_lenticular_cloud_ufo_856dfa-Illustration-2-dark.svg" | relative_url }}" alt="Cloud UFOs illustration 2" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_misidentification_bi_3761ff_lenticular_cloud_ufo_856dfa-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_misidentification_bi_3761ff_lenticular_cloud_ufo_856dfa-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -338,9 +338,9 @@ This association is particularly strong in mountainous regions where standing-wa
 
 </div>
 
-These landscapes regularly produce striking photographs that circulate online with captions suggesting impossible or alien-looking skies before being identified as ordinary meteorology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.accuweather.com/en/weather-news/lenticular-clouds-sometimes-mistaken-for-ufos-are-in-a-league-of-their-own/1694242" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: accuweather.com">[AccuWeather+2Mount Washington Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">accuweather.com</span><span class="citation-popover-snippet">Lenticular clouds, sometimes mistaken for UFOs, are in a...25 Sept 2024 — Lenticular clouds, sometimes mistaken for UFOs, are...</span></span></span>
+These landscapes regularly produce striking photographs that circulate online with captions suggesting impossible or alien-looking skies before being identified as ordinary meteorology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.accuweather.com/en/weather-news/lenticular-clouds-sometimes-mistaken-for-ufos-are-in-a-league-of-their-own/1694242" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: accuweather.com">[AccuWeather+2Mount Washington Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">accuweather.com</span><span class="citation-popover-snippet">Lenticular clouds, sometimes mistaken for UFOs, are in a...25 Sept 2024 — Lenticular clouds, sometimes mistaken for UFOs, are...</span></span></span>
 
-Within broader UFO investigations, weather phenomena have consistently appeared among the [ordinary explanations]({{ 'ordinary-causes/' | relative_url }}) for reports initially considered mysterious. Historical investigations such as [Project Blue Book]({{ 'blue-book-75a50c/' | relative_url }}) concluded that many sightings were ultimately attributable to conventional aircraft, astronomical objects or meteorological phenomena rather than unknown technology. Although lenticular clouds represented only one category among many, they became culturally significant because they so closely matched the popular "flying saucer" image. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Pieces of History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
+Within broader UFO investigations, weather phenomena have consistently appeared among the [ordinary explanations]({{ 'ordinary-causes/' | relative_url }}) for reports initially considered mysterious. Historical investigations such as [Project Blue Book]({{ 'blue-book-75a50c/' | relative_url }}) concluded that many sightings were ultimately attributable to conventional aircraft, astronomical objects or meteorological phenomena rather than unknown technology. Although lenticular clouds represented only one category among many, they became culturally significant because they so closely matched the popular "flying saucer" image.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Pieces of History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qKqu37x85AU" title="Spotted a UFO near the mountains? It was likely a lenticular cloud" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qKqu37x85AU" target="_blank" rel="noopener noreferrer">Spotted a UFO near the mountains? It was likely a lenticular cloud</a></p><p class="youtube-embed-meta">Channel: CBS 13 News &middot; Views: 309 &middot; Uploaded: February 2026 &middot; Length: 1 minute 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qKqu37x85AU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qKqu37x85AU">Open on YouTube</a></p></div></div></div>
@@ -364,7 +364,7 @@ Observers can often distinguish a lenticular cloud from a physical airborne obje
 
 By contrast, an aircraft or other solid object changes position independently of the terrain and does not continually dissolve and reform.
 
-Pilots also recognise lenticular clouds for a practical reason unrelated to UFO folklore. They are visible indicators of mountain-wave activity, which can produce powerful updraughts, downdraughts and rotor turbulence beneath the smooth-looking cloud. The attractive appearance therefore signals potentially hazardous flying conditions rather than calm skies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/abq/features_acsl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service+2Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">National Weather ServiceAltocumulus Standing Lenticular CloudsWhen sufficient moisture is present above mountain-top level, ACSL clouds d...</span></span></span>
+Pilots also recognise lenticular clouds for a practical reason unrelated to UFO folklore. They are visible indicators of mountain-wave activity, which can produce powerful updraughts, downdraughts and rotor turbulence beneath the smooth-looking cloud. The attractive appearance therefore signals potentially hazardous flying conditions rather than calm skies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/abq/features_acsl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service+2Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">National Weather ServiceAltocumulus Standing Lenticular CloudsWhen sufficient moisture is present above mountain-top level, ACSL clouds d...</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_misidentification_bi_3761ff_lenticular_cloud_ufo_856dfa-Illustration-3-dark.svg" | relative_url }}" alt="Cloud UFOs illustration 3" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_misidentification_bi_3761ff_lenticular_cloud_ufo_856dfa-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_misidentification_bi_3761ff_lenticular_cloud_ufo_856dfa-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -381,194 +381,194 @@ This makes lenticular clouds an excellent example of the broader pattern behind 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Clouds That Look Too Perfect. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Clouds That Look Too Perfect. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cloudspotter&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gbDYPEiB0T0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cloudspotter&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cloudspotter&#x27;s Guide">The Cloudspotter&#x27;s Guide</a>
-        </h4>
-        <p class="fr-book-author">By Gavin Pretor-Pinney</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cloudspotter&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gbDYPEiB0T0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cloudspotter&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cloudspotter&#x27;s Guide">The Cloudspotter&#x27;s Guide</a>
+</h4>
+<p class="fr-book-author">By Gavin Pretor-Pinney</p>
         
-        <p class="fr-book-desc">Explains lenticular and other unusual cloud formations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains lenticular and other unusual cloud formations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Applies scientific thinking to extraordinary observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Applies scientific thinking to extraordinary observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Places strange claims within the wider history of collective belief.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Places strange claims within the wider history of collective belief.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for evaluating aerial sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating aerial sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cloudspotter&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cloudspotter&#x27;s books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="cloud-ufos-the-clouds-that-look-too-perfect-forteana-ufo-poster-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -584,7 +584,7 @@ This makes lenticular clouds an excellent example of the broader pattern behind 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -604,7 +604,7 @@ This makes lenticular clouds an excellent example of the broader pattern behind 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -636,7 +636,7 @@ This makes lenticular clouds an excellent example of the broader pattern behind 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -688,7 +688,7 @@ This makes lenticular clouds an excellent example of the broader pattern behind 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -733,7 +733,7 @@ This makes lenticular clouds an excellent example of the broader pattern behind 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -774,175 +774,175 @@ This makes lenticular clouds an excellent example of the broader pattern behind 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/abq/features_acsl" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/abq/features_acsl</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceAltocumulus Standing Lenticular CloudsWhen sufficient moisture is present above mountain-top level, ACSL clouds d...</p></details>
+   Link:<a href="https://www.weather.gov/abq/features_acsl" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/abq/features_acsl</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceAltocumulus Standing Lenticular CloudsWhen sufficient moisture is present above mountain-top level, ACSL clouds d...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/hfo/lenticular" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/hfo/lenticular</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>clouds Big Island 11/25/200325 Nov 2003 — Some people have mistaken them for UFOs due to their smooth saucer like shape.... National Wea...</p></details>
+   Link:<a href="https://www.weather.gov/hfo/lenticular" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/hfo/lenticular</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>clouds Big Island 11/25/200325 Nov 2003 — Some people have mistaken them for UFOs due to their smooth saucer like shape.... National Wea...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: accuweather.com  
-   Link: <a href="https://www.accuweather.com/en/weather-news/lenticular-clouds-sometimes-mistaken-for-ufos-are-in-a-league-of-their-own/1694242" target="_blank" rel="noopener noreferrer nofollow">https://www.accuweather.com/en/weather-news/lenticular-clouds-sometimes-mistaken-for-ufos-are-in-a-league-of-their-own/1694242</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lenticular clouds, sometimes mistaken for UFOs, are in a...25 Sept 2024 — Lenticular clouds, sometimes mistaken for UFOs, are...</p></details>
+   Link:<a href="https://www.accuweather.com/en/weather-news/lenticular-clouds-sometimes-mistaken-for-ufos-are-in-a-league-of-their-own/1694242" target="_blank" rel="noopener noreferrer nofollow">https://www.accuweather.com/en/weather-news/lenticular-clouds-sometimes-mistaken-for-ufos-are-in-a-league-of-their-own/1694242</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lenticular clouds, sometimes mistaken for UFOs, are in a...25 Sept 2024 — Lenticular clouds, sometimes mistaken for UFOs, are...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: history.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/project-blue-book</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien, Definition &amp; Files22 Feb 2010 — Fully 90 percent of the sightings, according to the Robertson Panel, could be attributed to astrol...</p></details>
+   Link:<a href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/project-blue-book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alien, Definition &amp; Files22 Feb 2010 — Fully 90 percent of the sightings, according to the Robertson Panel, could be attributed to astrol...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Lenticular cloud  
-   Link: <a href="https://en.wikipedia.org/wiki/Lenticular_cloud" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lenticular_cloud</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lenticular cloudLenticular clouds are stationary clouds that form mostly in the troposphere, typically in parallel alignment to the wi...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Lenticular_cloud" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lenticular_cloud</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lenticular cloudLenticular clouds are stationary clouds that form mostly in the troposphere, typically in parallel alignment to the wi...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Identification studies of UFOs  
-   Link: <a href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identification_studies_of_UFOs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Identification studies of UFOsAir Force&#x27;s Project Blue Book, have been identified as being due to honest misidentifications of natural...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identification_studies_of_UFOs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Identification studies of UFOsAir Force&#x27;s Project Blue Book, have been identified as being due to honest misidentifications of natural...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: unidentified.cloud  
-   Link: <a href="https://www.unidentified.cloud/" target="_blank" rel="noopener noreferrer nofollow">https://www.unidentified.cloud/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP/UFO DECLASSIFIED ARCHIVEunidentified.cloud UAP/UFO declassified incident archive with verified government reports, timelines, and dis...</p></details>
+   Link:<a href="https://www.unidentified.cloud/" target="_blank" rel="noopener noreferrer nofollow">https://www.unidentified.cloud/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP/UFO DECLASSIFIED ARCHIVEunidentified.cloud UAP/UFO declassified incident archive with verified government reports, timelines, and dis...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: news.sky.com  
    Title: what are the ufo clouds seen hanging over uk skies 13291303  
-   Link: <a href="https://news.sky.com/story/what-are-the-ufo-clouds-seen-hanging-over-uk-skies-13291303" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/what-are-the-ufo-clouds-seen-hanging-over-uk-skies-13291303</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>are the &#x27;UFO clouds&#x27; seen hanging over UK skies?18 Jan 2025 — Rare clouds which have historically been blamed for a number of UFO sightin...</p></details>
+   Link:<a href="https://news.sky.com/story/what-are-the-ufo-clouds-seen-hanging-over-uk-skies-13291303" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/what-are-the-ufo-clouds-seen-hanging-over-uk-skies-13291303</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>are the &#x27;UFO clouds&#x27; seen hanging over UK skies?18 Jan 2025 — Rare clouds which have historically been blamed for a number of UFO sightin...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Met OfficeUnusual cloud formations... UFO sightings across the world. How do lenticular clouds form? When air... Lenticular clouds are a...</p></details>
+   Link:<a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Met OfficeUnusual cloud formations... UFO sightings across the world. How do lenticular clouds form? When air... Lenticular clouds are a...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: mountwashington.org  
-   Link: <a href="https://mountwashington.org/a-closer-look-at-lenticular-clouds/" target="_blank" rel="noopener noreferrer nofollow">https://mountwashington.org/a-closer-look-at-lenticular-clouds/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mount Washington ObservatoryA Closer Look at Lenticular CloudsThese visually striking clouds have been variously described to appear as l...</p></details>
+   Link:<a href="https://mountwashington.org/a-closer-look-at-lenticular-clouds/" target="_blank" rel="noopener noreferrer nofollow">https://mountwashington.org/a-closer-look-at-lenticular-clouds/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mount Washington ObservatoryA Closer Look at Lenticular CloudsThese visually striking clouds have been variously described to appear as l...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: prologue.blogs.archives.gov  
    Title: Pieces of History UFOs: Natural Explanations  
-   Link: <a href="https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pieces of HistoryUFOs: Natural Explanations - Pieces of History16 Apr 2018 — The purpose of the investigations was to assess the nature o...</p></details>
+   Link:<a href="https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pieces of HistoryUFOs: Natural Explanations - Pieces of History16 Apr 2018 — The purpose of the investigations was to assess the nature o...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/woahdude/comments/isl10y/lenticular_cloud_stays_over_the_mountain_for/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/woahdude/comments/isl10y/lenticular_cloud_stays_over_the_mountain_for/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>en though air is moving through the cloud.”...</p></details>
+   Link:<a href="https://www.reddit.com/r/woahdude/comments/isl10y/lenticular_cloud_stays_over_the_mountain_for/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/woahdude/comments/isl10y/lenticular_cloud_stays_over_the_mountain_for/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>en though air is moving through the cloud.”...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/interestingasfuck/comments/huo2re/lenticular_clouds_often_form_at_high_altitudes/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interestingasfuck/comments/huo2re/lenticular_clouds_often_form_at_high_altitudes/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These have been mistaken for UFOs at times. The cloud formation in the troposphere...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/interestingasfuck/comments/huo2re/lenticular_clouds_often_form_at_high_altitudes/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interestingasfuck/comments/huo2re/lenticular_clouds_often_form_at_high_altitudes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These have been mistaken for UFOs at times. The cloud formation in the troposphere...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects25 Jun 2024 — Pro-UFO researchers claim that an extraterrestrial spacecraft and its alien occupants were recov...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects25 Jun 2024 — Pro-UFO researchers claim that an extraterrestrial spacecraft and its alien occupants were recov...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=KgO7Kyq3q-U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KgO7Kyq3q-U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lenticular CloudsLenticular clouds are also known as lenticularis because they are shaped like a lens. They are common over mountains whe...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KgO7Kyq3q-U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KgO7Kyq3q-U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lenticular CloudsLenticular clouds are also known as lenticularis because they are shaped like a lens. They are common over mountains whe...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: chroniclelive.co.uk  
    Title: lenticular cloud northumberland hexham weather 22480061  
-   Link: <a href="https://www.chroniclelive.co.uk/news/north-east-news/lenticular-cloud-northumberland-hexham-weather-22480061" target="_blank" rel="noopener noreferrer nofollow">https://www.chroniclelive.co.uk/news/north-east-news/lenticular-cloud-northumberland-hexham-weather-22480061</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Met Office gives explanation after &#x27;UFO-like clouds&#x27; spotted...16 Dec 2021 — The weather service say the clouds are believed to be a com...</p></details>
+   Link:<a href="https://www.chroniclelive.co.uk/news/north-east-news/lenticular-cloud-northumberland-hexham-weather-22480061" target="_blank" rel="noopener noreferrer nofollow">https://www.chroniclelive.co.uk/news/north-east-news/lenticular-cloud-northumberland-hexham-weather-22480061</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Met Office gives explanation after &#x27;UFO-like clouds&#x27; spotted...16 Dec 2021 — The weather service say the clouds are believed to be a com...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: dailyrecord.co.uk  
    Title: met office ufo shaped clouds 32355770  
-   Link: <a href="https://www.dailyrecord.co.uk/news/scottish-news/met-office-ufo-shaped-clouds-32355770" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/news/scottish-news/met-office-ufo-shaped-clouds-32355770</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings across the world. Article continues below. &quot;When air...Read more...</p></details>
+   Link:<a href="https://www.dailyrecord.co.uk/news/scottish-news/met-office-ufo-shaped-clouds-32355770" target="_blank" rel="noopener noreferrer nofollow">https://www.dailyrecord.co.uk/news/scottish-news/met-office-ufo-shaped-clouds-32355770</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings across the world. Article continues below. &quot;When air...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: yahoo.com  
    Title: lenticular clouds sometimes mistaken ufos 150745839  
-   Link: <a href="https://www.yahoo.com/news/lenticular-clouds-sometimes-mistaken-ufos-150745839.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/lenticular-clouds-sometimes-mistaken-ufos-150745839.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lenticular clouds, sometimes mistaken for UFOs, are in a...25 Sept 2024 — Lenticular clouds are different from other clouds because they...</p></details>
+   Link:<a href="https://www.yahoo.com/news/lenticular-clouds-sometimes-mistaken-ufos-150745839.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/lenticular-clouds-sometimes-mistaken-ufos-150745839.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lenticular clouds, sometimes mistaken for UFOs, are in a...25 Sept 2024 — Lenticular clouds are different from other clouds because they...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: geologywales.co.uk  
    Title: LENTICULA R CLOUDS  
-   Link: <a href="https://www.geologywales.co.uk/storms/lenticular.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.geologywales.co.uk/storms/lenticular.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LENTICULAR CLOUDS - UK EXAMPLES&quot;UFO&quot; Clouds. These weird, stacked lens-shaped clouds can form when strong winds flow over mountainous ter...</p></details>
+   Link:<a href="https://www.geologywales.co.uk/storms/lenticular.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.geologywales.co.uk/storms/lenticular.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LENTICULAR CLOUDS - UK EXAMPLES&quot;UFO&quot; Clouds. These weird, stacked lens-shaped clouds can form when strong winds flow over mountainous ter...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ghostarchive.org  
    Title: Lenticular clouds  
-   Link: <a href="https://ghostarchive.org/archive/N4HKO" target="_blank" rel="noopener noreferrer nofollow">https://ghostarchive.org/archive/N4HKO</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Met Office17 Feb 2023 —... UFO sightings across the world. How do lenticular clouds form? When... Lenticular clouds are a visible sign...</p></details>
+   Link:<a href="https://ghostarchive.org/archive/N4HKO" target="_blank" rel="noopener noreferrer nofollow">https://ghostarchive.org/archive/N4HKO</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Met Office17 Feb 2023 —... UFO sightings across the world. How do lenticular clouds form? When... Lenticular clouds are a visible sign...</p></details>
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on Unidentified Flying ObjectsThis is a book about unidentified flying objects—UFO&#x27;s—&quot;flying saucers.&quot; It is actually more tha...</p></details>
+   Link:<a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on Unidentified Flying ObjectsThis is a book about unidentified flying objects—UFO&#x27;s—&quot;flying saucers.&quot; It is actually more tha...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 remained &quot;un...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 remained &quot;un...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: esd.whs.mil  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue BookWhen observed through haze, light fog, moving clouds, or other obscurations or unusual conditions, particularly during adverse w...</p></details>
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue BookWhen observed through haze, light fog, moving clouds, or other obscurations or unusual conditions, particularly during adverse w...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: sofrep.com  
    Title: the truth behind ufos from project blue book to the pentagons uap task force  
-   Link: <a href="https://sofrep.com/news/the-truth-behind-ufos-from-project-blue-book-to-the-pentagons-uap-task-force/" target="_blank" rel="noopener noreferrer nofollow">https://sofrep.com/news/the-truth-behind-ufos-from-project-blue-book-to-the-pentagons-uap-task-force/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth Behind UFOs: From Project Blue Book to the...8 Feb 2026 — Most of these sightings were explained as misidentifications of natur...</p></details>
+   Link:<a href="https://sofrep.com/news/the-truth-behind-ufos-from-project-blue-book-to-the-pentagons-uap-task-force/" target="_blank" rel="noopener noreferrer nofollow">https://sofrep.com/news/the-truth-behind-ufos-from-project-blue-book-to-the-pentagons-uap-task-force/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth Behind UFOs: From Project Blue Book to the...8 Feb 2026 — Most of these sightings were explained as misidentifications of natur...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: dailypost.co.uk  
    Title: rare ufo shaped cloud formation 26750551  
-   Link: <a href="https://www.dailypost.co.uk/news/north-wales-news/rare-ufo-shaped-cloud-formation-26750551" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/rare-ufo-shaped-cloud-formation-26750551</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rare UFO-shaped cloud formation spotted above...21 Apr 2023 — The strange clouds are believed to one of the most common explanations for...</p></details>
+   Link:<a href="https://www.dailypost.co.uk/news/north-wales-news/rare-ufo-shaped-cloud-formation-26750551" target="_blank" rel="noopener noreferrer nofollow">https://www.dailypost.co.uk/news/north-wales-news/rare-ufo-shaped-cloud-formation-26750551</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rare UFO-shaped cloud formation spotted above...21 Apr 2023 — The strange clouds are believed to one of the most common explanations for...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/metoffice/photos/owing-to-their-distinctive-oval-shape-lenticular-clouds-have-often-been-mistaken/10152570754964209/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/metoffice/photos/owing-to-their-distinctive-oval-shape-lenticular-clouds-have-often-been-mistaken/10152570754964209/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>staken as #UFO sightings. They form when the air is stable and...</p></details>
+   Link:<a href="https://www.facebook.com/metoffice/photos/owing-to-their-distinctive-oval-shape-lenticular-clouds-have-often-been-mistaken/10152570754964209/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/metoffice/photos/owing-to-their-distinctive-oval-shape-lenticular-clouds-have-often-been-mistaken/10152570754964209/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>staken as #UFO sightings. They form when the air is stable and...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: osi.af.mil  
    Title: project blue book part 1 ufo reports  
-   Link: <a href="https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book Part 1 (UFO Reports)6 Aug 2020 — the crash of what was reported as a weather or nuclear test surveillance balloon near Roswell...</p></details>
+   Link:<a href="https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book Part 1 (UFO Reports)6 Aug 2020 — the crash of what was reported as a weather or nuclear test surveillance balloon near Roswell...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: space.com  
    Title: project blue book season 2 explained  
-   Link: <a href="https://www.space.com/project-blue-book-season-2-explained.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/project-blue-book-season-2-explained.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien investigation series &#x27;Project Blue Book&#x27; shows more...28 Jan 2020 — Some of the stories examined include: A reported UFO &quot;dogfight...</p></details>
+   Link:<a href="https://www.space.com/project-blue-book-season-2-explained.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/project-blue-book-season-2-explained.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alien investigation series &#x27;Project Blue Book&#x27; shows more...28 Jan 2020 — Some of the stories examined include: A reported UFO &quot;dogfight...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/flying/comments/i9n4a0/what_is_happening_inside_the_lenticular_clouds/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flying/comments/i9n4a0/what_is_happening_inside_the_lenticular_clouds/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The issue with lenticular clouds...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/flying/comments/i9n4a0/what_is_happening_inside_the_lenticular_clouds/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flying/comments/i9n4a0/what_is_happening_inside_the_lenticular_clouds/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The issue with lenticular clouds...Read more...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: abc11.com  
    Title: circular cloud hovers over mountain like ufo video  
-   Link: <a href="https://abc11.com/post/circular-cloud-hovers-over-mountain-like-ufo-video/5742107/" target="_blank" rel="noopener noreferrer nofollow">https://abc11.com/post/circular-cloud-hovers-over-mountain-like-ufo-video/5742107/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The National Weather Service in Boulder took to Twitter to share time-lapse video it...Read more...</p></details>
+   Link:<a href="https://abc11.com/post/circular-cloud-hovers-over-mountain-like-ufo-video/5742107/" target="_blank" rel="noopener noreferrer nofollow">https://abc11.com/post/circular-cloud-hovers-over-mountain-like-ufo-video/5742107/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The National Weather Service in Boulder took to Twitter to share time-lapse video it...Read more...</p></details>

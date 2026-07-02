@@ -280,20 +280,20 @@ image: /assets/images/forteana_50bdc8_spontaneous_combusti_2682c4_mary_reeser_ci
 
 ## Introduction
 
-Mary Reeser's death in St Petersburg, Florida, on 2 July 1951 became the defining modern case in debates over alleged spontaneous human [combustion]({{ 'combustion/' | relative_url }}) because it combined an extraordinary fire scene with an apparently ordinary ignition source. Reeser, a 67-year-old widow, was found almost completely reduced to ash while much of her apartment remained standing. The contrast between the destruction of her body and the limited damage to the room encouraged decades of paranormal speculation. Yet the official investigation followed a different line: that a dropped cigarette, combined with sedative medication, flammable clothing and a slow-burning "[wick effect]({{ 'wick-effect/' | relative_url }})", could account for the scene without invoking an unknown phenomenon. The enduring fascination with the case lies not in a single unexplained fact but in the tension between what seems intuitively impossible and what fire investigators argue can occur under unusual conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Death_of_Mary_Reeser" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Death of Mary Reeser</span><span class="citation-popover-snippet">March 31, 2026 — Mary Hardy Reeser (March 8, 1884 – July 2, 1951) of St. Petersburg, Florida, was a woman whose unusual death by burning...</span><span class="citation-popover-meta">Published: March 31, 2026</span></span></span>
+Mary Reeser's death in St Petersburg, Florida, on 2 July 1951 became the defining modern case in debates over alleged spontaneous human [combustion]({{ 'combustion/' | relative_url }}) because it combined an extraordinary fire scene with an apparently ordinary ignition source. Reeser, a 67-year-old widow, was found almost completely reduced to ash while much of her apartment remained standing. The contrast between the destruction of her body and the limited damage to the room encouraged decades of paranormal speculation. Yet the official investigation followed a different line: that a dropped cigarette, combined with sedative medication, flammable clothing and a slow-burning "[wick effect]({{ 'wick-effect/' | relative_url }})", could account for the scene without invoking an unknown phenomenon. The enduring fascination with the case lies not in a single unexplained fact but in the tension between what seems intuitively impossible and what fire investigators argue can occur under unusual conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Death_of_Mary_Reeser" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Death of Mary Reeser</span><span class="citation-popover-snippet">March 31, 2026 — Mary Hardy Reeser (March 8, 1884 – July 2, 1951) of St. Petersburg, Florida, was a woman whose unusual death by burning...</span><span class="citation-popover-meta">Published: March 31, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_spontaneous_combusti_2682c4_mary_reeser_cigarett_a8e081-Illustration-1-dark.svg" | relative_url }}" alt="Mary Reeser illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_spontaneous_combusti_2682c4_mary_reeser_cigarett_a8e081-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_spontaneous_combusti_2682c4_mary_reeser_cigarett_a8e081-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What investigators found in the apartment
 
-When Reeser's landlady arrived with a telegram on the morning of 2 July 1951, she found the apartment door closed and the metal doorknob unusually hot. Police entering the flat discovered that Reeser had been almost entirely consumed by fire while seated in an upholstered chair. Only part of her left foot, sections of her spine and portions of her skull remained. Nearby plastic objects had softened from heat, but the fire had not spread through the apartment as a conventional house fire would. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Death_of_Mary_Reeser" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Death of Mary Reeser</span><span class="citation-popover-snippet">March 31, 2026 — Mary Hardy Reeser (March 8, 1884 – July 2, 1951) of St. Petersburg, Florida, was a woman whose unusual death by burning...</span><span class="citation-popover-meta">Published: March 31, 2026</span></span></span>
+When Reeser's landlady arrived with a telegram on the morning of 2 July 1951, she found the apartment door closed and the metal doorknob unusually hot. Police entering the flat discovered that Reeser had been almost entirely consumed by fire while seated in an upholstered chair. Only part of her left foot, sections of her spine and portions of her skull remained. Nearby plastic objects had softened from heat, but the fire had not spread through the apartment as a conventional house fire would.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Death_of_Mary_Reeser" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Death of Mary Reeser</span><span class="citation-popover-snippet">March 31, 2026 — Mary Hardy Reeser (March 8, 1884 – July 2, 1951) of St. Petersburg, Florida, was a woman whose unusual death by burning...</span><span class="citation-popover-meta">Published: March 31, 2026</span></span></span>
 
-The unusual appearance of the scene prompted the St Petersburg Police Department to seek outside assistance. Physical evidence, including carpet fragments, glass, the surviving slipper and other recovered material, was sent to the FBI for laboratory examination. Local investigators specifically asked whether science could explain how a human body could be so extensively destroyed while the fire remained confined to such a small area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Mary_Reeser" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mary Reeser</span><span class="citation-popover-snippet">Mary Reeser</span></span></span>
+The unusual appearance of the scene prompted the St Petersburg Police Department to seek outside assistance. Physical evidence, including carpet fragments, glass, the surviving slipper and other recovered material, was sent to the FBI for laboratory examination. Local investigators specifically asked whether science could explain how a human body could be so extensively destroyed while the fire remained confined to such a small area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Mary_Reeser" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mary Reeser</span><span class="citation-popover-snippet">Mary Reeser</span></span></span>
 
 Several details quickly entered popular [folklore]({{ 'folklore/' | relative_url }}) but deserve careful treatment:
 
-* **The apartment was not untouched.** The chair in which Reeser had been sitting was destroyed, heat damaged nearby objects, and soot and greasy residues were present. The mystery arose because the damage was localised rather than room-wide. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Death_of_Mary_Reeser" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Death of Mary Reeser</span><span class="citation-popover-snippet">March 31, 2026 — Mary Hardy Reeser (March 8, 1884 – July 2, 1951) of St. Petersburg, Florida, was a woman whose unusual death by burning...</span><span class="citation-popover-meta">Published: March 31, 2026</span></span></span>
-* **The famous "shrunken skull" became controversial.** Contemporary reports claimed the skull had shrunk dramatically. Later fire researchers argued that skulls do not contract in that manner under heat, suggesting that early descriptions were inaccurate or misunderstood, making this one of the most repeated but least reliable elements of the story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Death_of_Mary_Reeser" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Death of Mary Reeser</span><span class="citation-popover-snippet">March 31, 2026 — Mary Hardy Reeser (March 8, 1884 – July 2, 1951) of St. Petersburg, Florida, was a woman whose unusual death by burning...</span><span class="citation-popover-meta">Published: March 31, 2026</span></span></span>
+* **The apartment was not untouched.** The chair in which Reeser had been sitting was destroyed, heat damaged nearby objects, and soot and greasy residues were present. The mystery arose because the damage was localised rather than room-wide.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Death_of_Mary_Reeser" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Death of Mary Reeser</span><span class="citation-popover-snippet">March 31, 2026 — Mary Hardy Reeser (March 8, 1884 – July 2, 1951) of St. Petersburg, Florida, was a woman whose unusual death by burning...</span><span class="citation-popover-meta">Published: March 31, 2026</span></span></span>
+* **The famous "shrunken skull" became controversial.** Contemporary reports claimed the skull had shrunk dramatically. Later fire researchers argued that skulls do not contract in that manner under heat, suggesting that early descriptions were inaccurate or misunderstood, making this one of the most repeated but least reliable elements of the story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Death_of_Mary_Reeser" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Death of Mary Reeser</span><span class="citation-popover-snippet">March 31, 2026 — Mary Hardy Reeser (March 8, 1884 – July 2, 1951) of St. Petersburg, Florida, was a woman whose unusual death by burning...</span><span class="citation-popover-meta">Published: March 31, 2026</span></span></span>
 
 These features made the case appear extraordinary to the public while simultaneously presenting a challenging but recognisable fire investigation for forensic specialists.
 
@@ -304,7 +304,7 @@ These features made the case appear extraordinary to the public while simultaneo
 
 The most influential non-paranormal explanation is often called the cigarette theory. Rather than suggesting that a cigarette could instantly cremate a person, investigators proposed a sequence of events in which the cigarette merely served as the initial ignition source.
 
-According to this reconstruction, Reeser had taken barbiturate sleeping medication before retiring for the night and was also known to smoke. If a lit cigarette fell onto her nightdress or the upholstery of the chair after she became drowsy or unconscious, the clothing could begin smouldering without provoking an effective response. Smoke inhalation, sedation or both could then have prevented escape before flames developed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Spontaneous_human_combustion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Spontaneous human combustion</span><span class="citation-popover-snippet">Spontaneous human combustion</span></span></span>
+According to this reconstruction, Reeser had taken barbiturate sleeping medication before retiring for the night and was also known to smoke. If a lit cigarette fell onto her nightdress or the upholstery of the chair after she became drowsy or unconscious, the clothing could begin smouldering without provoking an effective response. Smoke inhalation, sedation or both could then have prevented escape before flames developed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Spontaneous_human_combustion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Spontaneous human combustion</span><span class="citation-popover-snippet">Spontaneous human combustion</span></span></span>
 
 From that point, investigators argued that the fire could transition into what later became widely known as the **wick effect**. In this process:
 
@@ -318,7 +318,7 @@ From that point, investigators argued that the fire could transition into what l
 
 </div>
 
-This mechanism produces a long-duration, relatively low-flame fire capable of destroying much of the body while leaving surprisingly limited damage elsewhere. Experimental work and later forensic literature have shown that such slow-burning conditions can reproduce many of the characteristics once thought unique to spontaneous human combustion claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Wick_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Wick effect</span><span class="citation-popover-snippet">Wick effect</span></span></span>
+This mechanism produces a long-duration, relatively low-flame fire capable of destroying much of the body while leaving surprisingly limited damage elsewhere. Experimental work and later forensic literature have shown that such slow-burning conditions can reproduce many of the characteristics once thought unique to spontaneous human combustion claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Wick_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Wick effect</span><span class="citation-popover-snippet">Wick effect</span></span></span>
 
 Importantly, the cigarette theory does not claim that a cigarette alone possesses enough energy to reduce a body to ash. Instead, it proposes that the cigarette provides only the initial spark, after which the body's own fat and nearby combustible materials sustain combustion for many hours. This distinction is often lost in popular [retellings]({{ 'retellings/' | relative_url }}).
 
@@ -340,7 +340,7 @@ In the proposed reconstruction, several factors restricted the fire:
 
 </div>
 
-As a result, temperatures immediately around the body could remain high for extended periods while temperatures elsewhere never reached the levels needed to ignite furniture across the apartment. This selective pattern has since become one of the principal arguments supporting the wick-effect explanation in similar cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Wick_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Wick effect</span><span class="citation-popover-snippet">Wick effect</span></span></span>
+As a result, temperatures immediately around the body could remain high for extended periods while temperatures elsewhere never reached the levels needed to ignite furniture across the apartment. This selective pattern has since become one of the principal arguments supporting the wick-effect explanation in similar cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Wick_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Wick effect</span><span class="citation-popover-snippet">Wick effect</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZWmaKKTzeDg" title="Samozapłon ciała. Prawda czy mit?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZWmaKKTzeDg" target="_blank" rel="noopener noreferrer">Samozapłon ciała. Prawda czy mit?</a></p><p class="youtube-embed-meta">Channel: OdwróconaLekcja</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZWmaKKTzeDg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZWmaKKTzeDg">Open on YouTube</a></p></div></div></div>
@@ -351,10 +351,10 @@ The Reeser case has accumulated layers of embellishment over more than seventy y
 
 Several changes in emphasis shaped public memory:
 
-* The FBI's interest was sometimes portrayed as evidence that investigators believed in spontaneous combustion, when in reality laboratory staff were asked to evaluate an unusual fire scene rather than endorse a paranormal explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Mary_Reeser" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mary Reeser</span><span class="citation-popover-snippet">Mary Reeser</span></span></span>
-* Reports often highlighted the remarkable preservation of the apartment while minimising the documented damage around the chair and floor area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stpetecatalyst.com/vintage-st-pete-the-strange-case-of-mary-reeser/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stpetecatalyst.com">[St Pete Catalyst]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stpetecatalyst.com</span><span class="citation-popover-title">St Pete Catalyst Vintage St. Pete: The strange case of Mary Reeser</span><span class="citation-popover-snippet">St Pete Catalyst Vintage St. Pete: The strange case of Mary Reeser</span></span></span>
-* The disputed "teacup-sized skull" became one of the case's most repeated details despite later criticism from fire researchers who questioned the original description. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Death_of_Mary_Reeser" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Death of Mary Reeser</span><span class="citation-popover-snippet">March 31, 2026 — Mary Hardy Reeser (March 8, 1884 – July 2, 1951) of St. Petersburg, Florida, was a woman whose unusual death by burning...</span><span class="citation-popover-meta">Published: March 31, 2026</span></span></span>
-* Some later accounts implied that investigators found no possible ignition source, even though Reeser's smoking habit formed a central part of the official reconstruction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Spontaneous_human_combustion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Spontaneous human combustion</span><span class="citation-popover-snippet">Spontaneous human combustion</span></span></span>
+* The FBI's interest was sometimes portrayed as evidence that investigators believed in spontaneous combustion, when in reality laboratory staff were asked to evaluate an unusual fire scene rather than endorse a paranormal explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Mary_Reeser" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mary Reeser</span><span class="citation-popover-snippet">Mary Reeser</span></span></span>
+* Reports often highlighted the remarkable preservation of the apartment while minimising the documented damage around the chair and floor area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://stpetecatalyst.com/vintage-st-pete-the-strange-case-of-mary-reeser/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stpetecatalyst.com">[St Pete Catalyst]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stpetecatalyst.com</span><span class="citation-popover-title">St Pete Catalyst Vintage St. Pete: The strange case of Mary Reeser</span><span class="citation-popover-snippet">St Pete Catalyst Vintage St. Pete: The strange case of Mary Reeser</span></span></span>
+* The disputed "teacup-sized skull" became one of the case's most repeated details despite later criticism from fire researchers who questioned the original description.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Death_of_Mary_Reeser" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Death of Mary Reeser</span><span class="citation-popover-snippet">March 31, 2026 — Mary Hardy Reeser (March 8, 1884 – July 2, 1951) of St. Petersburg, Florida, was a woman whose unusual death by burning...</span><span class="citation-popover-meta">Published: March 31, 2026</span></span></span>
+* Some later accounts implied that investigators found no possible ignition source, even though Reeser's smoking habit formed a central part of the official reconstruction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Spontaneous_human_combustion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Spontaneous human combustion</span><span class="citation-popover-snippet">Spontaneous human combustion</span></span></span>
 
 These retellings gradually shifted the public image of the case from an unusual accidental fire to an apparent violation of known physical laws.
 
@@ -366,201 +366,201 @@ Reeser's death continues to occupy a unique place in discussions of spontaneous 
 
 However, the case has also become one of the strongest examples used by sceptics precisely because it illustrates how an apparently impossible fire can arise from an ordinary ignition source under uncommon circumstances. The combination of cigarette smoking, sedative medication, prolonged burning and the wick effect offers a coherent explanation that fits much of the available evidence without requiring spontaneous ignition.
 
-For that reason, Mary Reeser's death remains important not because it conclusively proves or disproves spontaneous human combustion, but because it demonstrates how dramatic fire scenes can become enduring mysteries when public expectations about how fires should behave differ from the realities documented by forensic fire science. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Spontaneous_human_combustion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Ovid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Spontaneous human combustion</span><span class="citation-popover-snippet">Spontaneous human combustion</span></span></span>
+For that reason, Mary Reeser's death remains important not because it conclusively proves or disproves spontaneous human combustion, but because it demonstrates how dramatic fire scenes can become enduring mysteries when public expectations about how fires should behave differ from the realities documented by forensic fire science.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Spontaneous_human_combustion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Ovid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Spontaneous human combustion</span><span class="citation-popover-snippet">Spontaneous human combustion</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EwpWW6Fc5q8" title="Spontaneous Human Combustion - Q+A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EwpWW6Fc5q8" target="_blank" rel="noopener noreferrer">Spontaneous Human Combustion - Q+A</a></p><p class="youtube-embed-meta">Channel: BuzzFeed Unsolved Network</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EwpWW6Fc5q8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EwpWW6Fc5q8">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Mary Reeser Became the Cinder Lady. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Mary Reeser Became the Cinder Lady. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Useful for evaluating extraordinary interpretations of the case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for evaluating extraordinary interpretations of the case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mysteries+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10290585-M.jpg" alt="Cover for Mysteries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mysteries+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysteries">Mysteries</a>
-        </h4>
-        <p class="fr-book-author">By Colin Wilson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mysteries+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10290585-M.jpg" alt="Cover for Mysteries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mysteries+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysteries">Mysteries</a>
+</h4>
+<p class="fr-book-author">By Colin Wilson</p>
         
-        <p class="fr-book-desc">First published 1978. Subjects: Occultism, Parapsychology, Supernatural, Curiosities and wonders.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mysteries+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1978. Subjects: Occultism, Parapsychology, Supernatural, Curiosities and wonders.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mysteries+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Forensic+Pathology+Dominick+DiMaio&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Forensic Pathology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12383445-M.jpg" alt="Cover for Forensic Pathology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Forensic+Pathology+Dominick+DiMaio&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forensic Pathology">Forensic Pathology</a>
-        </h4>
-        <p class="fr-book-author">By Dominick DiMaio, Vincent J. M. DiMaio et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Forensic+Pathology+Dominick+DiMaio&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Forensic Pathology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12383445-M.jpg" alt="Cover for Forensic Pathology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Forensic+Pathology+Dominick+DiMaio&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forensic Pathology">Forensic Pathology</a>
+</h4>
+<p class="fr-book-author">By Dominick DiMaio, Vincent J. M. DiMaio et al.</p>
         
-        <p class="fr-book-desc">First published 2001. Subjects: Pathology, Medical jurisprudence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Forensic+Pathology+Dominick+DiMaio&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2001. Subjects: Pathology, Medical jurisprudence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Forensic+Pathology+Dominick+DiMaio&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cases+That+Haunt+Us+John+Douglas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cases That Haunt Us on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/403793-M.jpg" alt="Cover for Cases That Haunt Us" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cases+That+Haunt+Us+John+Douglas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cases That Haunt Us">Cases That Haunt Us</a>
-        </h4>
-        <p class="fr-book-author">By John Douglas, Mark Olshaker et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cases+That+Haunt+Us+John+Douglas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cases That Haunt Us on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/403793-M.jpg" alt="Cover for Cases That Haunt Us" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cases+That+Haunt+Us+John+Douglas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cases That Haunt Us">Cases That Haunt Us</a>
+</h4>
+<p class="fr-book-author">By John Douglas, Mark Olshaker et al.</p>
         
-        <p class="fr-book-desc">First published 2001. Subjects: Murderers, Criminal psychology, Murder, Case studies, Psychology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cases+That+Haunt+Us+John+Douglas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2001. Subjects: Murderers, Criminal psychology, Murder, Case studies, Psychology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cases+That+Haunt+Us+John+Douglas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mysteries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mysteries</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Forensic+Pathology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Forensic Pathology</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mysteries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mysteries</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Forensic+Pathology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Forensic Pathology</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Twin Paranormal Merch Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e81c3be635c0399faf40.jpg' | relative_url }}" alt="Listing image for Twin Paranormal Merch Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer">Twin Paranormal Merch Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Twin Paranormal Merch Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e81c3be635c0399faf40.jpg' | relative_url }}" alt="Listing image for Twin Paranormal Merch Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer">Twin Paranormal Merch Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: paranormal wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Satanic Tapestry Wall Art Polyester Lucifer Ritual Pentagram Baphomet Symbol"><img src="{{ '/assets/images/marketplace-covers/38327e1ee9ac31afe7de.jpg' | relative_url }}" alt="Listing image for Satanic Tapestry Wall Art Polyester Lucifer Ritual Pentagram Baphomet Symbol" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer">Satanic Tapestry Wall Art Polyester Lucifer Ritual Pentagram Baphomet Symbol</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Satanic Tapestry Wall Art Polyester Lucifer Ritual Pentagram Baphomet Symbol"><img src="{{ '/assets/images/marketplace-covers/38327e1ee9ac31afe7de.jpg' | relative_url }}" alt="Listing image for Satanic Tapestry Wall Art Polyester Lucifer Ritual Pentagram Baphomet Symbol" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer">Satanic Tapestry Wall Art Polyester Lucifer Ritual Pentagram Baphomet Symbol</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: paranormal wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Minimalist Ghost Trap Poster - Paranormal-Inspired Wall Art Print Gift Decor"><img src="{{ '/assets/images/marketplace-covers/d75f042b15766aa0acd7.jpg' | relative_url }}" alt="Listing image for Minimalist Ghost Trap Poster - Paranormal-Inspired Wall Art Print Gift Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer">Minimalist Ghost Trap Poster - Paranormal-Inspired Wall Art Print Gift Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Minimalist Ghost Trap Poster - Paranormal-Inspired Wall Art Print Gift Decor"><img src="{{ '/assets/images/marketplace-covers/d75f042b15766aa0acd7.jpg' | relative_url }}" alt="Listing image for Minimalist Ghost Trap Poster - Paranormal-Inspired Wall Art Print Gift Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer">Minimalist Ghost Trap Poster - Paranormal-Inspired Wall Art Print Gift Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: paranormal wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Home Wall Art Print - Vintage Spiritual Paranormal - OUIJA BOARD PRINT -A4,A3,A2"><img src="{{ '/assets/images/marketplace-covers/d774124c198e7e2efe0e.jpg' | relative_url }}" alt="Listing image for Home Wall Art Print - Vintage Spiritual Paranormal - OUIJA BOARD PRINT -A4,A3,A2" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer">Home Wall Art Print - Vintage Spiritual Paranormal - OUIJA BOARD PRINT -A4,A3,A2</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Home Wall Art Print - Vintage Spiritual Paranormal - OUIJA BOARD PRINT -A4,A3,A2"><img src="{{ '/assets/images/marketplace-covers/d774124c198e7e2efe0e.jpg' | relative_url }}" alt="Listing image for Home Wall Art Print - Vintage Spiritual Paranormal - OUIJA BOARD PRINT -A4,A3,A2" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer">Home Wall Art Print - Vintage Spiritual Paranormal - OUIJA BOARD PRINT -A4,A3,A2</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: paranormal wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal wall art" data-ebay-reference="mary-reeser-why-mary-reeser-became-the-cinder-lady-forteana-paranormal-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -576,7 +576,7 @@ For that reason, Mary Reeser's death remains important not because it conclusive
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -596,7 +596,7 @@ For that reason, Mary Reeser's death remains important not because it conclusive
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -628,7 +628,7 @@ For that reason, Mary Reeser's death remains important not because it conclusive
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -680,7 +680,7 @@ For that reason, Mary Reeser's death remains important not because it conclusive
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -725,7 +725,7 @@ For that reason, Mary Reeser's death remains important not because it conclusive
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -766,109 +766,109 @@ For that reason, Mary Reeser's death remains important not because it conclusive
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Death of Mary Reeser  
-   Link: <a href="https://en.wikipedia.org/wiki/Death_of_Mary_Reeser" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Death_of_Mary_Reeser</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 31, 2026 — Mary Hardy Reeser (March 8, 1884 – July 2, 1951) of St. Petersburg, Florida, was a woman whose unusual death by burning...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Death_of_Mary_Reeser" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Death_of_Mary_Reeser</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 31, 2026 — Mary Hardy Reeser (March 8, 1884 – July 2, 1951) of St. Petersburg, Florida, was a woman whose unusual death by burning...</p></details>
    Published: March 31, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Mary Reeser  
-   Link: <a href="https://es.wikipedia.org/wiki/Mary_Reeser" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Mary_Reeser</a>  
+   Link:<a href="https://es.wikipedia.org/wiki/Mary_Reeser" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Mary_Reeser</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Spontaneous human combustion  
-   Link: <a href="https://en.wikipedia.org/wiki/Spontaneous_human_combustion" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Spontaneous_human_combustion</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Spontaneous_human_combustion" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Spontaneous_human_combustion</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Wick effect  
-   Link: <a href="https://en.wikipedia.org/wiki/Wick_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wick_effect</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Wick_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wick_effect</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ovid.com  
    Title: j.1556 4029.2011.01746.x~so called spontaneous human combustion  
-   Link: <a href="https://www.ovid.com/journals/jofsc/pdf/10.1111/j.1556-4029.2011.01746.x~so-called-spontaneous-human-combustion" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/jofsc/pdf/10.1111/j.1556-4029.2011.01746.x~so-called-spontaneous-human-combustion</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Socalled Spontaneous Human Combustionby TW Levi-Faict · 2011 · Cited by 16 — In forensic practice, arson with secondary burning of victim...</p></details>
+   Link:<a href="https://www.ovid.com/journals/jofsc/pdf/10.1111/j.1556-4029.2011.01746.x~so-called-spontaneous-human-combustion" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/jofsc/pdf/10.1111/j.1556-4029.2011.01746.x~so-called-spontaneous-human-combustion</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Socalled Spontaneous Human Combustionby TW Levi-Faict · 2011 · Cited by 16 — In forensic practice, arson with secondary burning of victim...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: The Spontaneous Human Combustion Of Mary Reeser  
-   Link: <a href="https://www.youtube.com/watch?v=4hVrSEWrKDY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4hVrSEWrKDY</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spontaneous Human Combustion - Q+A...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4hVrSEWrKDY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4hVrSEWrKDY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spontaneous Human Combustion - Q+A...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Spontaneous Human Combustion  
-   Link: <a href="https://www.youtube.com/watch?v=EwpWW6Fc5q8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EwpWW6Fc5q8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fire Inside: Strange Cases of Spontaneous Human Combustion...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=EwpWW6Fc5q8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EwpWW6Fc5q8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fire Inside: Strange Cases of Spontaneous Human Combustion...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: stpetecatalyst.com  
    Title: St Pete Catalyst Vintage St. Pete: The strange case of Mary Reeser  
-   Link: <a href="https://stpetecatalyst.com/vintage-st-pete-the-strange-case-of-mary-reeser/" target="_blank" rel="noopener noreferrer nofollow">https://stpetecatalyst.com/vintage-st-pete-the-strange-case-of-mary-reeser/</a>  
+   Link:<a href="https://stpetecatalyst.com/vintage-st-pete-the-strange-case-of-mary-reeser/" target="_blank" rel="noopener noreferrer nofollow">https://stpetecatalyst.com/vintage-st-pete-the-strange-case-of-mary-reeser/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: northeastjournal.org  
    Title: Spontaneous Combustion?  
-   Link: <a href="https://northeastjournal.org/spontaneous-combustion-the-curious-case-of-mary-reeser/" target="_blank" rel="noopener noreferrer nofollow">https://northeastjournal.org/spontaneous-combustion-the-curious-case-of-mary-reeser/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Curious Case of Mary...30 Sept 2025 — They agreed with her son: Mary had died due to the “wick effect” of an external heat source do...</p></details>
+   Link:<a href="https://northeastjournal.org/spontaneous-combustion-the-curious-case-of-mary-reeser/" target="_blank" rel="noopener noreferrer nofollow">https://northeastjournal.org/spontaneous-combustion-the-curious-case-of-mary-reeser/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Curious Case of Mary...30 Sept 2025 — They agreed with her son: Mary had died due to the “wick effect” of an external heat source do...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/mystery/comments/1lbkxik/spontaneous_human_combustion_the_bizarre_case_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/mystery/comments/1lbkxik/spontaneous_human_combustion_the_bizarre_case_of/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Bizarre Case of Mary Reeser: r/mysteryOne theory: she fell asleep smoking and her flammable nightgown ignited a “wick effect,” turni...</p></details>
+   Link:<a href="https://www.reddit.com/r/mystery/comments/1lbkxik/spontaneous_human_combustion_the_bizarre_case_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/mystery/comments/1lbkxik/spontaneous_human_combustion_the_bizarre_case_of/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Bizarre Case of Mary Reeser: r/mysteryOne theory: she fell asleep smoking and her flammable nightgown ignited a “wick effect,” turni...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1660866237657971/posts/2305647206513201/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1660866237657971/posts/2305647206513201/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>oking a cigarette in her chair, groggy from the two Seconal...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1660866237657971/posts/2305647206513201/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1660866237657971/posts/2305647206513201/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>oking a cigarette in her chair, groggy from the two Seconal...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: skepticalinquirer.org  
    Title: a fiery death murder or spontaneous combustion  
-   Link: <a href="https://skepticalinquirer.org/newsletter/a-fiery-death-murder-or-spontaneous-combustion/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/a-fiery-death-murder-or-spontaneous-combustion/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Fiery Death: Murder or &#x27;Spontaneous Combustion&#x27;?4 Feb 2013 — This is the story of a fiery death that became a cold case—a mystery unsol...</p></details>
+   Link:<a href="https://skepticalinquirer.org/newsletter/a-fiery-death-murder-or-spontaneous-combustion/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/a-fiery-death-murder-or-spontaneous-combustion/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Fiery Death: Murder or &#x27;Spontaneous Combustion&#x27;?4 Feb 2013 — This is the story of a fiery death that became a cold case—a mystery unsol...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
    Title: Mary Reeser's mysterious death by fire in St  
-   Link: <a href="https://www.facebook.com/groups/1660866237657971/posts/2252139865197269/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1660866237657971/posts/2252139865197269/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI believed that Reeser had fallen asleep after the use of sleeping pills and fell unconscious whilst she had been smo...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1660866237657971/posts/2252139865197269/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1660866237657971/posts/2252139865197269/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FBI believed that Reeser had fallen asleep after the use of sleeping pills and fell unconscious whilst she had been smo...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: clickorlando.com  
    Title: WKMGThis Florida woman was reduced to ashes  
-   Link: <a href="https://www.clickorlando.com/features/2024/03/20/this-florida-woman-was-reduced-to-ashes-how-she-died-remains-a-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://www.clickorlando.com/features/2024/03/20/this-florida-woman-was-reduced-to-ashes-how-she-died-remains-a-mystery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How she died...20 Mar 2024 — An investigative report shows that Reeser smoked a cigarette, sitting in her easy chair before heading to b...</p></details>
+   Link:<a href="https://www.clickorlando.com/features/2024/03/20/this-florida-woman-was-reduced-to-ashes-how-she-died-remains-a-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://www.clickorlando.com/features/2024/03/20/this-florida-woman-was-reduced-to-ashes-how-she-died-remains-a-mystery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How she died...20 Mar 2024 — An investigative report shows that Reeser smoked a cigarette, sitting in her easy chair before heading to b...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DNqRpSntxnE/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DNqRpSntxnE/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;#deathstination In the summer of 1951, Mary Reeser...Then, being overweight creates a wick effect as the burning fat fuels the fire...</p></details>
+   Link:<a href="https://www.instagram.com/p/DNqRpSntxnE/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DNqRpSntxnE/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;#deathstination In the summer of 1951, Mary Reeser...Then, being overweight creates a wick effect as the burning fat fuels the fire...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ExpeditionUnknownTV/posts/the-most-terrifying-mystery-youve-ever-heard-of-spontaneous-human-combustioncoul/1189293769660507/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ExpeditionUnknownTV/posts/the-most-terrifying-mystery-youve-ever-heard-of-spontaneous-human-combustioncoul/1189293769660507/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>g into a fire source, which then led to the wick effect.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/ExpeditionUnknownTV/posts/the-most-terrifying-mystery-youve-ever-heard-of-spontaneous-human-combustioncoul/1189293769660507/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ExpeditionUnknownTV/posts/the-most-terrifying-mystery-youve-ever-heard-of-spontaneous-human-combustioncoul/1189293769660507/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>g into a fire source, which then led to the wick effect.Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40nikyoung/spontaneous-combustion-or-something-else-02114bf78a07" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40nikyoung/spontaneous-combustion-or-something-else-02114bf78a07</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>d fallen asleep in her chair while she smoked...Read more...</p></details>
+   Link:<a href="https://medium.com/%40nikyoung/spontaneous-combustion-or-something-else-02114bf78a07" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40nikyoung/spontaneous-combustion-or-something-else-02114bf78a07</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>d fallen asleep in her chair while she smoked...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: whyhorror.blog  
    Title: Sticky Ends: The Cinder Woman Case  
-   Link: <a href="https://whyhorror.blog/2022/11/21/sticky-ends-cinder/" target="_blank" rel="noopener noreferrer nofollow">https://whyhorror.blog/2022/11/21/sticky-ends-cinder/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reeser&#x27;s scenario fit this possibility. She was smoking a cigarette at bedtime, and likely fell asleep. That cigarette likely lit the cha...</p></details>
+   Link:<a href="https://whyhorror.blog/2022/11/21/sticky-ends-cinder/" target="_blank" rel="noopener noreferrer nofollow">https://whyhorror.blog/2022/11/21/sticky-ends-cinder/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reeser&#x27;s scenario fit this possibility. She was smoking a cigarette at bedtime, and likely fell asleep. That cigarette likely lit the cha...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/buzzfeedunsolved/videos/the-spontaneous-human-combustion-of-mary-reeser/815476071939241/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/buzzfeedunsolved/videos/the-spontaneous-human-combustion-of-mary-reeser/815476071939241/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>eeping pills have kept her asleep as she burned??...</p></details>
+   Link:<a href="https://www.facebook.com/buzzfeedunsolved/videos/the-spontaneous-human-combustion-of-mary-reeser/815476071939241/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/buzzfeedunsolved/videos/the-spontaneous-human-combustion-of-mary-reeser/815476071939241/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>eeping pills have kept her asleep as she burned??...</p></details>

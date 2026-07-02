@@ -284,7 +284,7 @@ Pilot [UFO reports]({{ 'ufo-reports/' | relative_url }}) occupy a distinctive pl
 
 
 <img src="{{ "/assets/images/forteana_50bdc8_ufo_evidence_problem_238bdf_pilot_ufo_misidentif_329f24-Illustration-1-dark.svg" | relative_url }}" alt="Pilot Reports illustration 1" data-theme-src-dark="{{ "/assets/images/forteana_50bdc8_ufo_evidence_problem_238bdf_pilot_ufo_misidentif_329f24-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/forteana_50bdc8_ufo_evidence_problem_238bdf_pilot_ufo_misidentif_329f24-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This balance is important. Pilot reports can be stronger than many casual eyewitness accounts because they often include precise times, routes, radio communications and, occasionally, radar or cockpit sensor data. Yet history also shows that even experienced aviators sometimes misidentify satellites, balloons, astronomical objects or ordinary aircraft under unusual conditions. The evidential value therefore lies not in the witness's profession alone, but in how well the [observation]({{ 'observation/' | relative_url }}) can be independently verified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceUAPJune 16, 2022 — 9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of ev...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
+This balance is important. Pilot reports can be stronger than many casual eyewitness accounts because they often include precise times, routes, radio communications and, occasionally, radar or cockpit sensor data. Yet history also shows that even experienced aviators sometimes misidentify satellites, balloons, astronomical objects or ordinary aircraft under unusual conditions. The evidential value therefore lies not in the witness's profession alone, but in how well the [observation]({{ 'observation/' | relative_url }}) can be independently verified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceUAPJune 16, 2022 — 9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of ev...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
 
 ## What pilot testimony can and cannot prove
 
@@ -302,7 +302,7 @@ However, pilots are not immune to the same perceptual constraints that affect ev
 
 </div>
 
-An object that appears to accelerate dramatically may instead be distant and moving slowly while the observing aircraft changes course. Likewise, a bright light may seem stationary when approaching almost directly head-on, only to appear to move abruptly once the viewing geometry changes. Aviation safety training explicitly warns pilots about visual illusions and the need to rely on instruments rather than perception alone under difficult conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/SpatialD.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration+2FAASafety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Spatial D</span><span class="citation-popover-snippet">Federal Aviation AdministrationSpatial Disorientation_English18 Sept 2024 — False Visual Reference Illusions may cause you to orient your...</span></span></span>
+An object that appears to accelerate dramatically may instead be distant and moving slowly while the observing aircraft changes course. Likewise, a bright light may seem stationary when approaching almost directly head-on, only to appear to move abruptly once the viewing geometry changes. Aviation safety training explicitly warns pilots about visual illusions and the need to rely on instruments rather than perception alone under difficult conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/SpatialD.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration+2FAASafety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Spatial D</span><span class="citation-popover-snippet">Federal Aviation AdministrationSpatial Disorientation_English18 Sept 2024 — False Visual Reference Illusions may cause you to orient your...</span></span></span>
 
 For Fortean evidence, this means pilot expertise increases the credibility of the observation itself—"I saw something unusual"—without automatically validating the interpretation—"it was an extraordinary craft."
 
@@ -315,7 +315,7 @@ One reason pilot UFO reports often appear especially persuasive is that several 
 
 Commercial aircraft frequently travel similar routes at similar altitudes. If several crews share nearly identical viewing geometry, they may all experience the same optical conditions.
 
-A recent example illustrates this well. In August 2022, five pilots on two commercial flights over the Pacific independently reported an unusual formation of lights that initially appeared anomalous. Subsequent reconstruction using aircraft position data and orbital information concluded that the phenomenon was consistent with a newly launched train of [Starlink satellites]({{ 'starlink-trains/' | relative_url }}) reflecting sunlight at an unexpected angle. The researchers argued that improving pilots' awareness of satellite constellations could reduce future misidentifications without dismissing the [sincerity]({{ 'sincerity/' | relative_url }}) of the witnesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
+A recent example illustrates this well. In August 2022, five pilots on two commercial flights over the Pacific independently reported an unusual formation of lights that initially appeared anomalous. Subsequent reconstruction using aircraft position data and orbital information concluded that the phenomenon was consistent with a newly launched train of [Starlink satellites]({{ 'starlink-trains/' | relative_url }}) reflecting sunlight at an unexpected angle. The researchers argued that improving pilots' awareness of satellite constellations could reduce future misidentifications without dismissing the [sincerity]({{ 'sincerity/' | relative_url }}) of the witnesses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
 
 This case demonstrates an important evidential principle: agreement among trained observers confirms that an unusual visual event occurred, but not necessarily that its first interpretation was correct.
 
@@ -323,13 +323,13 @@ This case demonstrates an important evidential principle: agreement among traine
 
 Several well-understood visual effects can make ordinary aerial objects appear extraordinary.
 
-**Autokinesis.** A stationary light viewed against a dark background can appear to drift or manoeuvre after prolonged fixation. Pilots are specifically trained to avoid staring continuously at isolated lights because this illusion has contributed to aviation accidents. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aopa.org/training-and-safety/online-learning/safety-spotlights/spatial-disorientation/tricked-by-illusions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aopa.org">[AOPA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aopa.org</span><span class="citation-popover-snippet">Tricked by IllusionsAutokinesis: At night, a stationary dim light against a dark background will appear to move if a pilot visually f...</span></span></span>
+**Autokinesis.** A stationary light viewed against a dark background can appear to drift or manoeuvre after prolonged fixation. Pilots are specifically trained to avoid staring continuously at isolated lights because this illusion has contributed to aviation accidents.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aopa.org/training-and-safety/online-learning/safety-spotlights/spatial-disorientation/tricked-by-illusions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aopa.org">[AOPA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aopa.org</span><span class="citation-popover-snippet">Tricked by IllusionsAutokinesis: At night, a stationary dim light against a dark background will appear to move if a pilot visually f...</span></span></span>
 
-**Loss of distance cues.** At cruising altitude, especially over water or at night, there may be almost no reliable reference points. Without known distances, apparent speed and size become difficult to estimate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://flightsafety.org/asw-article/in-the-dark/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafety.org">[Flight Safety Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafety.org</span><span class="citation-popover-title">in the dark</span><span class="citation-popover-snippet">Flight Safety FoundationIn the Dark20 Jan 2017 — Most night-vision–related accidents, however, occur because pilots misperceive visual cu...</span></span></span>
+**Loss of distance cues.** At cruising altitude, especially over water or at night, there may be almost no reliable reference points. Without known distances, apparent speed and size become difficult to estimate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://flightsafety.org/asw-article/in-the-dark/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafety.org">[Flight Safety Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafety.org</span><span class="citation-popover-title">in the dark</span><span class="citation-popover-snippet">Flight Safety FoundationIn the Dark20 Jan 2017 — Most night-vision–related accidents, however, occur because pilots misperceive visual cu...</span></span></span>
 
 **Head-on geometry.** Aircraft approaching nearly head-on can appear almost motionless despite travelling hundreds of kilometres per hour. A subsequent turn can make them seem to accelerate suddenly, even though their speed has not changed.
 
-**Satellite reflections.** Modern satellite constellations can produce unfamiliar patterns of bright lights or sudden flashes. Pilots who trained before the widespread deployment of large satellite constellations may encounter visual phenomena that simply did not exist earlier in their careers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
+**Satellite reflections.** Modern satellite constellations can produce unfamiliar patterns of bright lights or sudden flashes. Pilots who trained before the widespread deployment of large satellite constellations may encounter visual phenomena that simply did not exist earlier in their careers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
 
 None of these mechanisms implies that every pilot report has an ordinary explanation. They simply illustrate why honest observers can produce detailed descriptions that nevertheless misidentify the source.
 
@@ -339,9 +339,9 @@ None of these mechanisms implies that every pilot report has an ordinary explana
 
 Recent official UAP investigations have increasingly focused on measurable evidence rather than witness status alone.
 
-NASA's independent UAP study concluded that improving data collection is more valuable than relying on anecdotal reports, however sincere. Better sensor calibration, synchronised observations and complete metadata allow investigators to distinguish genuinely unusual cases from those arising through incomplete information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceUAPJune 16, 2022 — 9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of ev...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
+NASA's independent UAP study concluded that improving data collection is more valuable than relying on anecdotal reports, however sincere. Better sensor calibration, synchronised observations and complete metadata allow investigators to distinguish genuinely unusual cases from those arising through incomplete information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceUAPJune 16, 2022 — 9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of ev...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
 
-Similarly, the US Department of Defense's All-domain Anomaly Resolution Office (AARO) has resolved numerous reported UAP cases as balloons, birds, drones or other conventional objects after detailed review of sensor information. In some well-publicised military pilot cases, additional analysis found that apparently extraordinary motion resulted from perspective, infrared imaging characteristics or limited observational data rather than exotic flight behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.twz.com/air/eglin-afb-pilot-likely-saw-a-lighting-balloon-not-a-ufo-pentagon-concludes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[TWZ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">eglin afb pilot likely saw a lighting balloon not a ufo pentagon concludes</span><span class="citation-popover-snippet">Eglin AFB Pilot Likely Saw A Lighting Balloon, Not A UFO...24 Apr 2024 — AARO assessed that based on information provided by the airc...</span></span></span>
+Similarly, the US Department of Defense's All-domain Anomaly Resolution Office (AARO) has resolved numerous reported UAP cases as balloons, birds, drones or other conventional objects after detailed review of sensor information. In some well-publicised military pilot cases, additional analysis found that apparently extraordinary motion resulted from perspective, infrared imaging characteristics or limited observational data rather than exotic flight behaviour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.twz.com/air/eglin-afb-pilot-likely-saw-a-lighting-balloon-not-a-ufo-pentagon-concludes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[TWZ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">eglin afb pilot likely saw a lighting balloon not a ufo pentagon concludes</span><span class="citation-popover-snippet">Eglin AFB Pilot Likely Saw A Lighting Balloon, Not A UFO...24 Apr 2024 — AARO assessed that based on information provided by the airc...</span></span></span>
 
 These findings do not suggest that pilots fabricate reports. Instead, they show that careful technical analysis frequently changes the initial interpretation.
 
@@ -386,194 +386,194 @@ For Fortean inquiry, this is precisely what makes pilot reports so significant. 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Pilots Can Misread Strange Lights. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Pilots Can Misread Strange Lights. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly addresses pilot testimony and its strengths and limits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses pilot testimony and its strengths and limits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Discusses witness reliability and investigative methods.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses witness reliability and investigative methods.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports critical evaluation of eyewitness evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports critical evaluation of eyewitness evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Provides context for advanced aircraft often mistaken for UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for advanced aircraft often mistaken for UFOs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/f85be2c5b8e158c6af1f.jpg' | relative_url }}" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/f85be2c5b8e158c6af1f.jpg' | relative_url }}" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="pilot-reports-why-pilots-can-misread-strange-lights-forteana-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -589,7 +589,7 @@ For Fortean inquiry, this is precisely what makes pilot reports so significant. 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -609,7 +609,7 @@ For Fortean inquiry, this is precisely what makes pilot reports so significant. 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -641,7 +641,7 @@ For Fortean inquiry, this is precisely what makes pilot reports so significant. 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -693,7 +693,7 @@ For Fortean inquiry, this is precisely what makes pilot reports so significant. 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -738,7 +738,7 @@ For Fortean inquiry, this is precisely what makes pilot reports so significant. 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -779,134 +779,134 @@ For Fortean inquiry, this is precisely what makes pilot reports so significant. 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAPJune 16, 2022 — 9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of ev...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAPJune 16, 2022 — 9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of ev...</p></details>
    Published: June 16, 2022  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: faasafety.gov  
    Title: Your Senses in the Shadows  
-   Link: <a href="https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nighttime Visual Illusions...During nighttime operations, pilots can fall victim to optical illusions that can drastically compromise th...</p></details>
+   Link:<a href="https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nighttime Visual Illusions...During nighttime operations, pilots can fall victim to optical illusions that can drastically compromise th...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched [Starlink](&amp;#123;&amp;#123; &#x27;starlink/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link:<a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched [Starlink](&amp;#123;&amp;#123; &#x27;starlink/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: aopa.org  
-   Link: <a href="https://www.aopa.org/training-and-safety/online-learning/safety-spotlights/spatial-disorientation/tricked-by-illusions" target="_blank" rel="noopener noreferrer nofollow">https://www.aopa.org/training-and-safety/online-learning/safety-spotlights/spatial-disorientation/tricked-by-illusions</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tricked by IllusionsAutokinesis: At night, a stationary dim light against a dark background will appear to move if a pilot visually f...</p></details>
+   Link:<a href="https://www.aopa.org/training-and-safety/online-learning/safety-spotlights/spatial-disorientation/tricked-by-illusions" target="_blank" rel="noopener noreferrer nofollow">https://www.aopa.org/training-and-safety/online-learning/safety-spotlights/spatial-disorientation/tricked-by-illusions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tricked by IllusionsAutokinesis: At night, a stationary dim light against a dark background will appear to move if a pilot visually f...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: twz.com  
    Title: eglin afb pilot likely saw a lighting balloon not a ufo pentagon concludes  
-   Link: <a href="https://www.twz.com/air/eglin-afb-pilot-likely-saw-a-lighting-balloon-not-a-ufo-pentagon-concludes" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/air/eglin-afb-pilot-likely-saw-a-lighting-balloon-not-a-ufo-pentagon-concludes</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Eglin AFB Pilot Likely Saw A Lighting Balloon, Not A UFO...24 Apr 2024 — AARO assessed that based on information provided by the airc...</p></details>
+   Link:<a href="https://www.twz.com/air/eglin-afb-pilot-likely-saw-a-lighting-balloon-not-a-ufo-pentagon-concludes" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/air/eglin-afb-pilot-likely-saw-a-lighting-balloon-not-a-ufo-pentagon-concludes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eglin AFB Pilot Likely Saw A Lighting Balloon, Not A UFO...24 Apr 2024 — AARO assessed that based on information provided by the airc...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolu...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolu...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of nine &#x27;&#x27;circular type&#x27;&#x27; objects near Mount Rainier in Washington on June 24...</p></details>
+   Link:<a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of nine &#x27;&#x27;circular type&#x27;&#x27; objects near Mount Rainier in Washington on June 24...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeThe official website for the All-domain Anomaly Resolution Office (AARO)... The DoW considers Unidentified Anomalous Phenomena...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeThe official website for the All-domain Anomaly Resolution Office (AARO)... The DoW considers Unidentified Anomalous Phenomena...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aliensarerunningoperations.com  
-   Link: <a href="https://www.aliensarerunningoperations.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.aliensarerunningoperations.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Resolved - Identified Objects. Balloons, drones, aircraft, weather phenomena. 50%. Unresolved - Insufficient Data. Cases lacking...Read...</p></details>
+   Link:<a href="https://www.aliensarerunningoperations.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.aliensarerunningoperations.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Resolved - Identified Objects. Balloons, drones, aircraft, weather phenomena. 50%. Unresolved - Insufficient Data. Cases lacking...Read...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: twz.com  
    Title: By Howard Altman.Read more  
-   Link: <a href="https://www.twz.com/balloons-no-ufos-found-by-satellites-shoot-down-video-coming-says-aaro-chief" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/balloons-no-ufos-found-by-satellites-shoot-down-video-coming-says-aaro-chief</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Balloons, No UFOs, Found By Satellites, Shoot Down...31 Oct 2023 — In a rare press briefing, the head of the Pentagon office charged wit...</p></details>
+   Link:<a href="https://www.twz.com/balloons-no-ufos-found-by-satellites-shoot-down-video-coming-says-aaro-chief" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/balloons-no-ufos-found-by-satellites-shoot-down-video-coming-says-aaro-chief</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Balloons, No UFOs, Found By Satellites, Shoot Down...31 Oct 2023 — In a rare press briefing, the head of the Pentagon office charged wit...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Study Team ReportConvincing evidence of verified anomalous accelerations and velocity would point towards potentially novel explanations...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Study Team ReportConvincing evidence of verified anomalous accelerations and velocity would point towards potentially novel explanations...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: faa.gov  
    Title: Spatial D  
-   Link: <a href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/SpatialD.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/pilots/safety/pilotsafetybrochures/SpatialD.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationSpatial Disorientation_English18 Sept 2024 — False Visual Reference Illusions may cause you to orient your...</p></details>
+   Link:<a href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/SpatialD.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/pilots/safety/pilotsafetybrochures/SpatialD.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationSpatial Disorientation_English18 Sept 2024 — False Visual Reference Illusions may cause you to orient your...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: flightsafety.org  
    Title: in the dark  
-   Link: <a href="https://flightsafety.org/asw-article/in-the-dark/" target="_blank" rel="noopener noreferrer nofollow">https://flightsafety.org/asw-article/in-the-dark/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flight Safety FoundationIn the Dark20 Jan 2017 — Most night-vision–related accidents, however, occur because pilots misperceive visual cu...</p></details>
+   Link:<a href="https://flightsafety.org/asw-article/in-the-dark/" target="_blank" rel="noopener noreferrer nofollow">https://flightsafety.org/asw-article/in-the-dark/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flight Safety FoundationIn the Dark20 Jan 2017 — Most night-vision–related accidents, however, occur because pilots misperceive visual cu...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/sites/faa.gov/files/2022-11/spatial_disorientation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/2022-11/spatial_disorientation.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spacial DisorientationSpatial disorientation demonstrators provide pilots the experience of vestibular and visual illusions in a safe, gr...</p></details>
+   Link:<a href="https://www.faa.gov/sites/faa.gov/files/2022-11/spatial_disorientation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/2022-11/spatial_disorientation.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spacial DisorientationSpatial disorientation demonstrators provide pilots the experience of vestibular and visual illusions in a safe, gr...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1cc7fx2/aaro_released_its_resolution_for_the_case_known/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1cc7fx2/aaro_released_its_resolution_for_the_case_known/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO released its resolution for the case known as...Today, AARO released its resolution for the case known as the &quot;Eglin UAP.&quot; It prese...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1cc7fx2/aaro_released_its_resolution_for_the_case_known/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1cc7fx2/aaro_released_its_resolution_for_the_case_known/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO released its resolution for the case known as...Today, AARO released its resolution for the case known as the &quot;Eglin UAP.&quot; It prese...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1hgcvof/faa_lights_4_dummies/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1hgcvof/faa_lights_4_dummies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FAA Lights 4 Dummies: r/UFOsIf a commercial plane is in the sky it MUST have a red blinking light on the top of it somewhere, as well as...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1hgcvof/faa_lights_4_dummies/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1hgcvof/faa_lights_4_dummies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAA Lights 4 Dummies: r/UFOsIf a commercial plane is in the sky it MUST have a red blinking light on the top of it somewhere, as well as...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/CxL-UQHxSzQ/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/CxL-UQHxSzQ/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UAP (UFO) report released today offers a few answers...* unidentified aerial sightings by military personnel ✈️ * radar anomalies a...</p></details>
+   Link:<a href="https://www.instagram.com/reel/CxL-UQHxSzQ/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/CxL-UQHxSzQ/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UAP (UFO) report released today offers a few answers...* unidentified aerial sightings by military personnel ✈️ * radar anomalies a...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Releases AARO Report on &#x27;Go Fast&#x27; Video...AARO exists to investigate alleged anomalous incidents - it is in their title &quot;Anomal...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Releases AARO Report on &#x27;Go Fast&#x27; Video...AARO exists to investigate alleged anomalous incidents - it is in their title &quot;Anomal...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/articles/pilot-perception" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/pilot-perception</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pilot PerceptionVisual Illusions occur when a pilot perceives the outside world differently to what it actually is pilot perceives the ru...</p></details>
+   Link:<a href="https://skybrary.aero/articles/pilot-perception" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/pilot-perception</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pilot PerceptionVisual Illusions occur when a pilot perceives the outside world differently to what it actually is pilot perceives the ru...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/287254485_Aviation_visual_perception_Research_misperception_and_mishaps" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/287254485_Aviation_visual_perception_Research_misperception_and_mishaps</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation visual perception: Research, misperception and...Illusions due to reduced visual cues at night have long been cited as contribu...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/287254485_Aviation_visual_perception_Research_misperception_and_mishaps" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/287254485_Aviation_visual_perception_Research_misperception_and_mishaps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation visual perception: Research, misperception and...Illusions due to reduced visual cues at night have long been cited as contribu...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cfinotebook.net  
-   Link: <a href="https://www.cfinotebook.net/notebook/aeromedical-and-human-factors/spatial-disorientation-and-illusions-in-flight" target="_blank" rel="noopener noreferrer nofollow">https://www.cfinotebook.net/notebook/aeromedical-and-human-factors/spatial-disorientation-and-illusions-in-flight</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spatial Disorientation &amp; Illusions In FlightSpatial disorientation in aviation occurs when a pilot&#x27;s senses misinterpret aircraft positio...</p></details>
+   Link:<a href="https://www.cfinotebook.net/notebook/aeromedical-and-human-factors/spatial-disorientation-and-illusions-in-flight" target="_blank" rel="noopener noreferrer nofollow">https://www.cfinotebook.net/notebook/aeromedical-and-human-factors/spatial-disorientation-and-illusions-in-flight</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spatial Disorientation &amp; Illusions In FlightSpatial disorientation in aviation occurs when a pilot&#x27;s senses misinterpret aircraft positio...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1fqhn02/wikipedia_says_aaro_has_resolved_half_of_its_510/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fqhn02/wikipedia_says_aaro_has_resolved_half_of_its_510/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikipedia says AARO has resolved &quot;half&quot; of its &quot;510 UAP...AARO has resolved only four cases, none of which were weather balloons. I find...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1fqhn02/wikipedia_says_aaro_has_resolved_half_of_its_510/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fqhn02/wikipedia_says_aaro_has_resolved_half_of_its_510/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wikipedia says AARO has resolved &quot;half&quot; of its &quot;510 UAP...AARO has resolved only four cases, none of which were weather balloons. I find...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: researchgate.net  
    Title: 323856886 Optical Illusions and Spatial Disorientation in Aviation Pilots  
-   Link: <a href="https://www.researchgate.net/publication/323856886_Optical_Illusions_and_Spatial_Disorientation_in_Aviation_Pilots" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/323856886_Optical_Illusions_and_Spatial_Disorientation_in_Aviation_Pilots</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Optical Illusions and Spatial Disorientation in Aviation Pilots12 May 2026 — Optical illusions are involved in the perception of false or...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/323856886_Optical_Illusions_and_Spatial_Disorientation_in_Aviation_Pilots" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/323856886_Optical_Illusions_and_Spatial_Disorientation_in_Aviation_Pilots</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Optical Illusions and Spatial Disorientation in Aviation Pilots12 May 2026 — Optical illusions are involved in the perception of false or...</p></details>
    Published: May 2026  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: defensescoop.com  
    Title: uap aaro chief unveils pentagon annual caseload analysis new efforts  
-   Link: <a href="https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;The truly anomalous&#x27;: New AARO chief unveils Pentagon&#x27;s...14 Nov 2024 — “AARO has successfully resolved hundreds of cases in its holdin...</p></details>
+   Link:<a href="https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;The truly anomalous&#x27;: New AARO chief unveils Pentagon&#x27;s...14 Nov 2024 — “AARO has successfully resolved hundreds of cases in its holdin...</p></details>

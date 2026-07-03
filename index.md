@@ -166,6 +166,10 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+header:
+  og_image: /assets/images/forteana_50bdc8-overview-social.jpg
+  preview_image: /assets/images/forteana_50bdc8-overview-social.jpg
+image: /assets/images/forteana_50bdc8-overview-social.jpg
 site_image_description: A desk covered with old newspaper clippings, witness notes, a magnifying glass, and photographs of odd lights, animal falls, and...
 ---
 

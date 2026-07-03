@@ -477,7 +477,7 @@ Scepticism without dismissal therefore treats pareidolia as a starting point rat
 <p class="fr-section-kicker">eBay marketplace picks</p>
 <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
 </div>
-<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
 <div class="fr-ebay-market-toolbar">
 <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
@@ -501,15 +501,15 @@ Scepticism without dismissal therefore treats pareidolia as a starting point rat
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pareidolia-why-we-see-faces-in-the-strange-forteana-ghost-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster -book -books" data-ebay-reference="pareidolia-why-we-see-faces-in-the-strange-forteana-ghost-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ghost - live band music show 2022 TOUR promotional tour concert gig poster"><img src="{{ '/assets/images/marketplace-covers/75e6bc036c3aa8306735.jpg' | relative_url }}" alt="Listing image for Ghost - live band music show 2022 TOUR promotional tour concert gig poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=skeptic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-we-see-faces-in-the-strange-skeptic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="skeptic t shirt" data-ebay-reference="why-we-see-faces-in-the-strange-skeptic-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SKEPTIC T-SHIRT - philosophy belief skepticism non paranormal knowledge science"><img src="https://i.ebayimg.com/images/g/EBMAAOSwtaZnl15Z/s-l225.jpg" alt="Listing image for SKEPTIC T-SHIRT - philosophy belief skepticism non paranormal knowledge science" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pareidolia-why-we-see-faces-in-the-strange-forteana-ghost-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster -book -books" data-ebay-reference="pareidolia-why-we-see-faces-in-the-strange-forteana-ghost-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Ghost - live band music show 2022 TOUR promotional tour concert gig poster</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=skeptic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-we-see-faces-in-the-strange-skeptic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="skeptic t shirt" data-ebay-reference="why-we-see-faces-in-the-strange-skeptic-t-shirt" target="_blank" rel="sponsored noopener noreferrer">SKEPTIC T-SHIRT - philosophy belief skepticism non paranormal knowledge science</a>
 </h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pareidolia-why-we-see-faces-in-the-strange-forteana-ghost-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster -book -books" data-ebay-reference="pareidolia-why-we-see-faces-in-the-strange-forteana-ghost-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost poster</a>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=skeptic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-we-see-faces-in-the-strange-skeptic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="skeptic t shirt" data-ebay-reference="why-we-see-faces-in-the-strange-skeptic-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for skeptic t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: skeptic t shirt</a>
 <div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pareidolia-why-we-see-faces-in-the-strange-forteana-ghost-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster -book -books" data-ebay-reference="pareidolia-why-we-see-faces-in-the-strange-forteana-ghost-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=skeptic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-we-see-faces-in-the-strange-skeptic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="skeptic t shirt" data-ebay-reference="why-we-see-faces-in-the-strange-skeptic-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 </div>
@@ -517,15 +517,15 @@ Scepticism without dismissal therefore treats pareidolia as a starting point rat
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pareidolia-why-we-see-faces-in-the-strange-forteana-ghost-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster -book -books" data-ebay-reference="pareidolia-why-we-see-faces-in-the-strange-forteana-ghost-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ghost - live band music show 2025 UK TOUR promotional tour concert gig poster"><img src="{{ '/assets/images/marketplace-covers/17472db92673842b8db9.jpg' | relative_url }}" alt="Listing image for Ghost - live band music show 2025 UK TOUR promotional tour concert gig poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=skeptic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-we-see-faces-in-the-strange-skeptic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="skeptic t shirt" data-ebay-reference="why-we-see-faces-in-the-strange-skeptic-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Slipknot Men&#x27;s Skeptic T-Shirt, Black, Large"><img src="https://i.ebayimg.com/images/g/JT4AAOSwBQ1mWcLP/s-l225.jpg" alt="Listing image for Slipknot Men&#x27;s Skeptic T-Shirt, Black, Large" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pareidolia-why-we-see-faces-in-the-strange-forteana-ghost-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster -book -books" data-ebay-reference="pareidolia-why-we-see-faces-in-the-strange-forteana-ghost-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Ghost - live band music show 2025 UK TOUR promotional tour concert gig poster</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=skeptic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-we-see-faces-in-the-strange-skeptic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="skeptic t shirt" data-ebay-reference="why-we-see-faces-in-the-strange-skeptic-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Slipknot Men&#x27;s Skeptic T-Shirt, Black, Large</a>
 </h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pareidolia-why-we-see-faces-in-the-strange-forteana-ghost-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster -book -books" data-ebay-reference="pareidolia-why-we-see-faces-in-the-strange-forteana-ghost-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost poster</a>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=skeptic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-we-see-faces-in-the-strange-skeptic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="skeptic t shirt" data-ebay-reference="why-we-see-faces-in-the-strange-skeptic-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for skeptic t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: skeptic t shirt</a>
 <div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pareidolia-why-we-see-faces-in-the-strange-forteana-ghost-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster -book -books" data-ebay-reference="pareidolia-why-we-see-faces-in-the-strange-forteana-ghost-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=skeptic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-we-see-faces-in-the-strange-skeptic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="skeptic t shirt" data-ebay-reference="why-we-see-faces-in-the-strange-skeptic-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 </div>
@@ -533,15 +533,31 @@ Scepticism without dismissal therefore treats pareidolia as a starting point rat
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pareidolia-why-we-see-faces-in-the-strange-forteana-ghost-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster -book -books" data-ebay-reference="pareidolia-why-we-see-faces-in-the-strange-forteana-ghost-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ghost - live music show Nov 2019 promotional tour concert gig poster"><img src="{{ '/assets/images/marketplace-covers/e9bbab17781e4df43065.jpg' | relative_url }}" alt="Listing image for Ghost - live music show Nov 2019 promotional tour concert gig poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=skeptic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-we-see-faces-in-the-strange-skeptic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="skeptic t shirt" data-ebay-reference="why-we-see-faces-in-the-strange-skeptic-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Official Slipknot T Shirt We Are Not Your Kind Gray Chapter Band Logo"><img src="https://i.ebayimg.com/images/g/8usAAeSwdUJoME9f/s-l225.jpg" alt="Listing image for Official Slipknot T Shirt We Are Not Your Kind Gray Chapter Band Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pareidolia-why-we-see-faces-in-the-strange-forteana-ghost-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster -book -books" data-ebay-reference="pareidolia-why-we-see-faces-in-the-strange-forteana-ghost-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Ghost - live music show Nov 2019 promotional tour concert gig poster</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=skeptic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-we-see-faces-in-the-strange-skeptic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="skeptic t shirt" data-ebay-reference="why-we-see-faces-in-the-strange-skeptic-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Official Slipknot T Shirt We Are Not Your Kind Gray Chapter Band Logo</a>
 </h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pareidolia-why-we-see-faces-in-the-strange-forteana-ghost-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster -book -books" data-ebay-reference="pareidolia-why-we-see-faces-in-the-strange-forteana-ghost-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost poster</a>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=skeptic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-we-see-faces-in-the-strange-skeptic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="skeptic t shirt" data-ebay-reference="why-we-see-faces-in-the-strange-skeptic-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for skeptic t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: skeptic t shirt</a>
 <div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pareidolia-why-we-see-faces-in-the-strange-forteana-ghost-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster -book -books" data-ebay-reference="pareidolia-why-we-see-faces-in-the-strange-forteana-ghost-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=skeptic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-we-see-faces-in-the-strange-skeptic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="skeptic t shirt" data-ebay-reference="why-we-see-faces-in-the-strange-skeptic-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=skeptic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-we-see-faces-in-the-strange-skeptic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="skeptic t shirt" data-ebay-reference="why-we-see-faces-in-the-strange-skeptic-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Slipknot Skeptic Black T-Shirt OFFICIAL"><img src="https://i.ebayimg.com/images/g/8EgAAOSwFx9de6XJ/s-l225.jpg" alt="Listing image for Slipknot Skeptic Black T-Shirt OFFICIAL" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=skeptic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-we-see-faces-in-the-strange-skeptic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="skeptic t shirt" data-ebay-reference="why-we-see-faces-in-the-strange-skeptic-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Slipknot Skeptic Black T-Shirt OFFICIAL</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=skeptic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-we-see-faces-in-the-strange-skeptic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="skeptic t shirt" data-ebay-reference="why-we-see-faces-in-the-strange-skeptic-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for skeptic t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: skeptic t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=skeptic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-we-see-faces-in-the-strange-skeptic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="skeptic t shirt" data-ebay-reference="why-we-see-faces-in-the-strange-skeptic-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 </div>
@@ -549,7 +565,7 @@ Scepticism without dismissal therefore treats pareidolia as a starting point rat
 </article>
 </div>
 <div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pareidolia-why-we-see-faces-in-the-strange-forteana-ghost-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost poster -book -books" data-ebay-reference="pareidolia-why-we-see-faces-in-the-strange-forteana-ghost-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=skeptic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-we-see-faces-in-the-strange-skeptic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="skeptic t shirt" data-ebay-reference="why-we-see-faces-in-the-strange-skeptic-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -759,7 +775,6 @@ Scepticism without dismissal therefore treats pareidolia as a starting point rat
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1.<a id="endnote-1"></a>

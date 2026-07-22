@@ -381,7 +381,7 @@ That outcome reflects a recurring pattern at the boundary between [folklore]({{ 
           <a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunting Monsters">Hunting Monsters</a>
         </h4>
         <p class="fr-book-author">By Darren Naish</p>
-        
+
         <p class="fr-book-desc">Discusses Nessie alongside zoological evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ That outcome reflects a recurring pattern at the boundary between [folklore]({{ 
           <a href="https://www.amazon.com/s?k=The+field+guide+to+Bigfoot%2C+Yeti%2C+and+other+mystery+primates+worldwide+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The field guide to Bigfoot, Yeti, and other mystery primates worldwide">The field guide to Bigfoot, Yeti, and other mystery primates...</a>
         </h4>
         <p class="fr-book-author">By Loren Coleman, Patrick Huyghe et al.</p>
-        
+
         <p class="fr-book-desc">Provides wider cryptid context for Nessie readers.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+field+guide+to+Bigfoot%2C+Yeti%2C+and+other+mystery+primates+worldwide+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -415,7 +415,7 @@ That outcome reflects a recurring pattern at the boundary between [folklore]({{ 
           <a href="https://www.amazon.com/s?k=The+Loch+Ness+monster+Steuart+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Loch Ness monster">The Loch Ness monster</a>
         </h4>
         <p class="fr-book-author">By Steuart Campbell</p>
-        
+
         <p class="fr-book-desc">Examines scientific and investigative claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Loch+Ness+monster+Steuart+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -432,7 +432,7 @@ That outcome reflects a recurring pattern at the boundary between [folklore]({{ 
           <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science">Abominable Science</a>
         </h4>
         <p class="fr-book-author">By Donald R. Prothero, Daniel Loxton</p>
-        
+
         <p class="fr-book-desc">Includes the Loch Ness case and scientific testing.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

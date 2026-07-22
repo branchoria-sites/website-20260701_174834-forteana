@@ -374,7 +374,7 @@ Within the wider history of crop circles, Wiltshire therefore stands as an examp
           <a href="https://www.amazon.com/s?k=The+Megalithic+European+Julian+Cope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Megalithic European">The Megalithic European</a>
         </h4>
         <p class="fr-book-author">By Julian Cope</p>
-        
+
         <p class="fr-book-desc">Provides context for Avebury and Wiltshire&#x27;s ancient landscape.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Megalithic+European+Julian+Cope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -391,7 +391,7 @@ Within the wider history of crop circles, Wiltshire therefore stands as an examp
           <a href="https://www.amazon.com/s?k=Crop+circles+Colin+Andrews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crop circles">Crop circles</a>
         </h4>
         <p class="fr-book-author">By Colin Andrews</p>
-        
+
         <p class="fr-book-desc">Covers famous Wiltshire formations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Crop+circles+Colin+Andrews&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -408,7 +408,7 @@ Within the wider history of crop circles, Wiltshire therefore stands as an examp
           <a href="https://www.amazon.com/s?k=Silbury+Hill+Jim+Leary&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Silbury Hill">Silbury Hill</a>
         </h4>
         <p class="fr-book-author">By Jim Leary, Gill Campbell et al.</p>
-        
+
         <p class="fr-book-desc">Explains one of the monuments most associated with crop circles.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Silbury+Hill+Jim+Leary&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -425,7 +425,7 @@ Within the wider history of crop circles, Wiltshire therefore stands as an examp
           <a href="https://www.amazon.com/s?k=Prehistoric+Avebury+Aubrey+Burl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Prehistoric Avebury">Prehistoric Avebury</a>
         </h4>
         <p class="fr-book-author">By Aubrey Burl</p>
-        
+
         <p class="fr-book-desc">First published 1979. Subjects: Megalithic monuments, Antiquities, Stone circles, Neolithic period, Avebury (Wiltshire, England).</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Prehistoric+Avebury+Aubrey+Burl&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -432,7 +432,7 @@ Reading beyond the headline—and comparing it with the witness's own words—is
 <a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Made to Stick">Made to Stick</a>
 </h4>
 <p class="fr-book-author">By Chip Heath, Dan Heath</p>
-        
+
 <p class="fr-book-desc">Explains why memorable wording outlives nuance.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -449,7 +449,7 @@ Reading beyond the headline—and comparing it with the witness's own words—is
 <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
 </h4>
 <p class="fr-book-author">By Charles Fort</p>
-        
+
 <p class="fr-book-desc">Shows how anomalous reports become enduring narratives.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -466,7 +466,7 @@ Reading beyond the headline—and comparing it with the witness's own words—is
 <a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trust Me I&#x27;m Lying">Trust Me I&#x27;m Lying</a>
 </h4>
 <p class="fr-book-author">By Ryan Holiday</p>
-        
+
 <p class="fr-book-desc">Examines sensationalism and headline-driven media.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

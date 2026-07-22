@@ -356,7 +356,7 @@ Within Forteana, the giant squid therefore represents a rare and valuable transi
           <a href="https://www.amazon.com/s?k=The+search+for+the+giant+squid+Richard+Ellis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The search for the giant squid">The search for the giant squid</a>
         </h4>
         <p class="fr-book-author">By Richard Ellis</p>
-        
+
         <p class="fr-book-desc">Traces the shift from legend to accepted zoology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+search+for+the+giant+squid+Richard+Ellis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -373,7 +373,7 @@ Within Forteana, the giant squid therefore represents a rare and valuable transi
           <a href="https://www.amazon.com/s?k=Squid+empire+Danna+Staaf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Squid empire">Squid empire</a>
         </h4>
         <p class="fr-book-author">By Danna Staaf</p>
-        
+
         <p class="fr-book-desc">Explains giant squid biology and discovery.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Squid+empire+Danna+Staaf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +390,7 @@ Within Forteana, the giant squid therefore represents a rare and valuable transi
           <a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunting Monsters">Hunting Monsters</a>
         </h4>
         <p class="fr-book-author">By Darren Naish</p>
-        
+
         <p class="fr-book-desc">Uses the giant squid as a boundary case.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +407,7 @@ Within Forteana, the giant squid therefore represents a rare and valuable transi
           <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science">Abominable Science</a>
         </h4>
         <p class="fr-book-author">By Donald R. Prothero, Daniel Loxton</p>
-        
+
         <p class="fr-book-desc">Discusses evidence and changing scientific acceptance.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

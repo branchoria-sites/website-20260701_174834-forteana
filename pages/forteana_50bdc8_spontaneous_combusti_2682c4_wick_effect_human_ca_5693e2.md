@@ -380,16 +380,16 @@ For this reason, modern forensic literature generally treats the wick effect as 
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Spontaneous+human+combustion+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Spontaneous human combustion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1346249-M.jpg" alt="Cover for Spontaneous human combustion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Spontaneous+human+combustion+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spontaneous human combustion">Spontaneous human combustion</a>
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
-        <p class="fr-book-author">By Jenny Randles, Peter Hough</p>
-        
-        <p class="fr-book-desc">Discusses the wick-effect explanation alongside combustion claims.</p>
+        <p class="fr-book-author">By Carl Sagan</p>
+
+        <p class="fr-book-desc">Supports critical evaluation of extraordinary fire claims.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Spontaneous+human+combustion+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -397,16 +397,16 @@ For this reason, modern forensic literature generally treats the wick effect as 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Forensic+fire+scene+reconstruction+David+J.+Icove&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Forensic fire scene reconstruction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1111609-M.jpg" alt="Cover for Forensic fire scene reconstruction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Spontaneous+human+combustion+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Spontaneous human combustion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1346249-M.jpg" alt="Cover for Spontaneous human combustion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Forensic+fire+scene+reconstruction+David+J.+Icove&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forensic fire scene reconstruction">Forensic fire scene reconstruction</a>
+          <a href="https://www.amazon.com/s?k=Spontaneous+human+combustion+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spontaneous human combustion">Spontaneous human combustion</a>
         </h4>
-        <p class="fr-book-author">By David J. Icove, John D. De Haan</p>
-        
-        <p class="fr-book-desc">Explains fire behaviour relevant to wick-effect scenarios.</p>
+        <p class="fr-book-author">By Jenny Randles, Peter Hough</p>
+
+        <p class="fr-book-desc">Discusses the wick-effect explanation alongside combustion claims.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Forensic+fire+scene+reconstruction+David+J.+Icove&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Spontaneous+human+combustion+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -420,7 +420,7 @@ For this reason, modern forensic literature generally treats the wick effect as 
           <a href="https://www.amazon.com/s?k=Knight%27s+Forensic+Pathology+Pekka+Saukko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Knight&#x27;s Forensic Pathology">Knight&#x27;s Forensic Pathology</a>
         </h4>
         <p class="fr-book-author">By Pekka Saukko, Bernard Knight</p>
-        
+
         <p class="fr-book-desc">Covers fire deaths and body-burning processes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Knight%27s+Forensic+Pathology+Pekka+Saukko&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -437,7 +437,7 @@ For this reason, modern forensic literature generally treats the wick effect as 
           <a href="https://www.amazon.com/s?k=Forensic+Pathology+Dominick+DiMaio&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forensic Pathology">Forensic Pathology</a>
         </h4>
         <p class="fr-book-author">By Dominick DiMaio, Vincent J. M. DiMaio et al.</p>
-        
+
         <p class="fr-book-desc">Explains burn mechanisms underlying the wick effect.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Forensic+Pathology+Dominick+DiMaio&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -448,7 +448,7 @@ For this reason, modern forensic literature generally treats the wick effect as 
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Spontaneous+human+combustion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Spontaneous human combustion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Forensic+fire+scene+reconstruction&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Forensic fire scene reconstruction</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Knight%27s+Forensic+Pathology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Knight&#x27;s Forensic Pathology</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Spontaneous+human+combustion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Spontaneous human combustion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Knight%27s+Forensic+Pathology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Knight&#x27;s Forensic Pathology</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

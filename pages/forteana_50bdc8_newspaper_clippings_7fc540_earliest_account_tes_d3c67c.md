@@ -418,7 +418,7 @@ For this reason, the earliest recoverable newspaper account functions as a pract
           <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
         </h4>
         <p class="fr-book-author">By Charles Fort</p>
-        
+
         <p class="fr-book-desc">Provides the historical newspaper context behind many cases.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -435,7 +435,7 @@ For this reason, the earliest recoverable newspaper account functions as a pract
           <a href="https://www.amazon.com/s?k=The+Complete+Books+of+Charles+Fort+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Books of Charles Fort">The Complete Books of Charles Fort</a>
         </h4>
         <p class="fr-book-author">By Charles Fort</p>
-        
+
         <p class="fr-book-desc">Shows how original reports evolved into Fortean case collections.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Complete+Books+of+Charles+Fort+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -452,7 +452,7 @@ For this reason, the earliest recoverable newspaper account functions as a pract
           <a href="https://www.amazon.com/s?k=Past+imperfect+Julian+Fellowes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Past imperfect">Past imperfect</a>
         </h4>
         <p class="fr-book-author">By Julian Fellowes</p>
-        
+
         <p class="fr-book-desc">Encourages thinking about how narratives change over time.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Past+imperfect+Julian+Fellowes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -469,7 +469,7 @@ For this reason, the earliest recoverable newspaper account functions as a pract
           <a href="https://www.amazon.com/s?k=The+World+of+the+Unknown+Ghosts+%28World+of+the+Unknown%29+Christopher+Maynard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World of the Unknown Ghosts (World of the Unknown)">The World of the Unknown Ghosts (World of the Unknown)</a>
         </h4>
         <p class="fr-book-author">By Christopher Maynard</p>
-        
+
         <p class="fr-book-desc">First published 1977. Subjects: Ghosts, Juvenile literature.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+World+of+the+Unknown+Ghosts+%28World+of+the+Unknown%29+Christopher+Maynard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

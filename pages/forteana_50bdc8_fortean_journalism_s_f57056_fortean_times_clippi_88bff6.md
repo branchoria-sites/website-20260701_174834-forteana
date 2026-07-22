@@ -406,7 +406,7 @@ Approached in this way, clipped oddities become historical documents rather than
           <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
         </h4>
         <p class="fr-book-author">By Charles Fort</p>
-        
+
         <p class="fr-book-desc">Originates the clipping-based Fortean tradition.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -423,7 +423,7 @@ Approached in this way, clipped oddities become historical documents rather than
           <a href="https://www.amazon.com/s?k=The+Complete+Books+of+Charles+Fort+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Books of Charles Fort">The Complete Books of Charles Fort</a>
         </h4>
         <p class="fr-book-author">By Charles Fort</p>
-        
+
         <p class="fr-book-desc">Collects the foundational Fortean texts in one volume.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Complete+Books+of+Charles+Fort+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -440,7 +440,7 @@ Approached in this way, clipped oddities become historical documents rather than
           <a href="https://www.amazon.com/s?k=Wild+talents+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wild talents">Wild talents</a>
         </h4>
         <p class="fr-book-author">By Charles Fort</p>
-        
+
         <p class="fr-book-desc">Expands on Fortean documentation of extraordinary claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Wild+talents+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -457,7 +457,7 @@ Approached in this way, clipped oddities become historical documents rather than
           <a href="https://www.amazon.com/s?k=Lo%21+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lo!">Lo!</a>
         </h4>
         <p class="fr-book-author">By Charles Fort</p>
-        
+
         <p class="fr-book-desc">Continues Fort&#x27;s examination of anomalous reports.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Lo%21+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

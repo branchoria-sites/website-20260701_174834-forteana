@@ -392,7 +392,7 @@ In that sense, the camera was not merely recording the phenomenon—it was one o
           <a href="https://www.amazon.co.uk/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
         <p class="fr-book-author">By Carl Sagan</p>
-        
+
         <p class="fr-book-desc">Provides critical thinking tools for evaluating extraordinary photographic claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.co.uk/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -409,7 +409,7 @@ In that sense, the camera was not merely recording the phenomenon—it was one o
           <a href="https://www.amazon.co.uk/s?k=Crop+circles+Colin+Andrews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crop circles">Crop circles</a>
         </h4>
         <p class="fr-book-author">By Colin Andrews</p>
-        
+
         <p class="fr-book-desc">Emphasises visual evidence and interpretation of formations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.co.uk/s?k=Crop+circles+Colin+Andrews&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -426,7 +426,7 @@ In that sense, the camera was not merely recording the phenomenon—it was one o
           <a href="https://www.amazon.co.uk/s?k=Circular+evidence+Pat+Delgado&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Circular evidence">Circular evidence</a>
         </h4>
         <p class="fr-book-author">By Pat Delgado, Colin Andrews</p>
-        
+
         <p class="fr-book-desc">Explores the rise of crop circles through photographs and field documentation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.co.uk/s?k=Circular+evidence+Pat+Delgado&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -443,7 +443,7 @@ In that sense, the camera was not merely recording the phenomenon—it was one o
           <a href="https://www.amazon.co.uk/s?k=Mysteries+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysteries">Mysteries</a>
         </h4>
         <p class="fr-book-author">By Colin Wilson</p>
-        
+
         <p class="fr-book-desc">First published 1978. Subjects: Occultism, Parapsychology, Supernatural, Curiosities and wonders.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.co.uk/s?k=Mysteries+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

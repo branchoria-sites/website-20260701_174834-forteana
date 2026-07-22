@@ -344,7 +344,7 @@ Over time, the location itself became inseparable from the Mothman narrative. Ev
           <a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mothman Prophecies">The Mothman Prophecies</a>
         </h4>
         <p class="fr-book-author">By John A. Keel</p>
-        
+
         <p class="fr-book-desc">Covers the TNT Area and original sightings extensively.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -361,7 +361,7 @@ Over time, the location itself became inseparable from the Mothman narrative. Ev
           <a href="https://www.amazon.com/s?k=Monsters+Among+Us+Linda+S.+Godfrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Monsters Among Us">Monsters Among Us</a>
         </h4>
         <p class="fr-book-author">By Linda S. Godfrey</p>
-        
+
         <p class="fr-book-desc">Provides wider cryptid context for Mothman.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Monsters+Among+Us+Linda+S.+Godfrey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -378,7 +378,7 @@ Over time, the location itself became inseparable from the Mothman narrative. Ev
           <a href="https://www.amazon.com/s?k=Unexplained%21+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Unexplained!">Unexplained!</a>
         </h4>
         <p class="fr-book-author">By Jerome Clark</p>
-        
+
         <p class="fr-book-desc">Discusses Mothman within broader Fortean traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Unexplained%21+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -395,7 +395,7 @@ Over time, the location itself became inseparable from the Mothman narrative. Ev
           <a href="https://www.amazon.com/s?k=Mothman%3A+Behind+the+Red+Eyes+Jeff+Wamsley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mothman: Behind the Red Eyes">Mothman: Behind the Red Eyes</a>
         </h4>
         <p class="fr-book-author">By Jeff Wamsley</p>
-        
+
         <p class="fr-book-desc">Detailed history of the location and witnesses.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mothman%3A+Behind+the+Red+Eyes+Jeff+Wamsley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

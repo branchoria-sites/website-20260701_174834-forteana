@@ -564,7 +564,7 @@ The “impossible” feeling, then, is part of the evidence, but not the whole e
           <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
         </h4>
         <p class="fr-book-author">By Michael Shermer</p>
-        
+
         <p class="fr-book-desc">Explores belief formation around uncanny experiences.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -581,7 +581,7 @@ The “impossible” feeling, then, is part of the evidence, but not the whole e
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
         <p class="fr-book-author">By Carl Sagan</p>
-        
+
         <p class="fr-book-desc">Provides tools for evaluating extraordinary claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -598,7 +598,7 @@ The “impossible” feeling, then, is part of the evidence, but not the whole e
           <a href="https://www.amazon.com/s?k=The+Drunkard%27s+Walk+Leonard+Mlodinow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drunkard&#x27;s Walk">The Drunkard&#x27;s Walk</a>
         </h4>
         <p class="fr-book-author">By Leonard Mlodinow</p>
-        
+
         <p class="fr-book-desc">Shows how randomness creates meaningful-seeming events.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Drunkard%27s+Walk+Leonard+Mlodinow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -615,7 +615,7 @@ The “impossible” feeling, then, is part of the evidence, but not the whole e
           <a href="https://www.amazon.com/s?k=The+Improbability+Principle+David+J.+Hand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Improbability Principle">The Improbability Principle</a>
         </h4>
         <p class="fr-book-author">By David J. Hand</p>
-        
+
         <p class="fr-book-desc">Directly explains why astonishing coincidences occur.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Improbability+Principle+David+J.+Hand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

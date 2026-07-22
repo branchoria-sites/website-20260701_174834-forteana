@@ -405,7 +405,7 @@ What the evidence does establish with considerable confidence is a narrower poin
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
         <p class="fr-book-author">By Carl Sagan</p>
-        
+
         <p class="fr-book-desc">Explains why simple methods can produce apparently mysterious results.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -422,7 +422,7 @@ What the evidence does establish with considerable confidence is a narrower poin
           <a href="https://www.amazon.com/s?k=The+skeptic%27s+dictionary+Robert+Todd+Carroll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The skeptic&#x27;s dictionary">The skeptic&#x27;s dictionary</a>
         </h4>
         <p class="fr-book-author">By Robert Todd Carroll</p>
-        
+
         <p class="fr-book-desc">Explains skeptical approaches to extraordinary construction claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+skeptic%27s+dictionary+Robert+Todd+Carroll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -439,7 +439,7 @@ What the evidence does establish with considerable confidence is a narrower poin
           <a href="https://www.amazon.com/s?k=Crop+circles+Colin+Andrews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crop circles">Crop circles</a>
         </h4>
         <p class="fr-book-author">By Colin Andrews</p>
-        
+
         <p class="fr-book-desc">Shows the evolution of increasingly elaborate formations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Crop+circles+Colin+Andrews&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -456,7 +456,7 @@ What the evidence does establish with considerable confidence is a narrower poin
           <a href="https://www.amazon.com/s?k=Unexplained+phenomena+John+F.+Michell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Unexplained phenomena">Unexplained phenomena</a>
         </h4>
         <p class="fr-book-author">By John F. Michell, John Michell et al.</p>
-        
+
         <p class="fr-book-desc">First published 2000. Subjects: Curiosities and wonders, Reference works, Unexplained phenomena, Metaphysical Phenomena - General, Refere...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Unexplained+phenomena+John+F.+Michell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

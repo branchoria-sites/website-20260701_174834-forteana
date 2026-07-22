@@ -384,7 +384,7 @@ That makes Lourdes an unusual example in Forteana. Instead of presenting unexpla
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
 </h4>
 <p class="fr-book-author">By Carl Sagan</p>
-        
+
 <p class="fr-book-desc">Encourages careful evaluation of extraordinary medical claims.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +401,7 @@ That makes Lourdes an unusual example in Forteana. Instead of presenting unexpla
 <a href="https://www.amazon.com/s?k=Miracles+C.+S.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Miracles">Miracles</a>
 </h4>
 <p class="fr-book-author">By C. S. Lewis</p>
-        
+
 <p class="fr-book-desc">First published 1947. Subjects: Miracles, Nonfiction, Religion &amp; Spirituality, Christianity.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Miracles+C.+S.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -418,7 +418,7 @@ That makes Lourdes an unusual example in Forteana. Instead of presenting unexpla
 <a href="https://www.amazon.com/s?k=The+Case+for+Miracles+Lee+Strobel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Case for Miracles">The Case for Miracles</a>
 </h4>
 <p class="fr-book-author">By Lee Strobel</p>
-        
+
 <p class="fr-book-desc">First published 2018. Subjects: Miracles, Supernatural.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Case+for+Miracles+Lee+Strobel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -435,7 +435,7 @@ That makes Lourdes an unusual example in Forteana. Instead of presenting unexpla
 <a href="https://www.amazon.com/s?k=Lourdes+Ruth+Harris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lourdes">Lourdes</a>
 </h4>
 <p class="fr-book-author">By Ruth Harris</p>
-        
+
 <p class="fr-book-desc">First published 1999. Subjects: Apparitions and miracles, Lourdes (france), Mary, blessed virgin, saint, apparitions and miracles, Bernad...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Lourdes+Ruth+Harris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

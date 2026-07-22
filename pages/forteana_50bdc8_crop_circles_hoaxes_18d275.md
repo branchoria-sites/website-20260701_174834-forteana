@@ -551,7 +551,7 @@ Most of all, crop circles show how modern mysteries are made socially. A pattern
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
         <p class="fr-book-author">By Carl Sagan</p>
-        
+
         <p class="fr-book-desc">Provides the best-known skeptical framework for evaluating mysteries such as crop circles.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -568,7 +568,7 @@ Most of all, crop circles show how modern mysteries are made socially. A pattern
           <a href="https://www.amazon.com/s?k=The+skeptic%27s+dictionary+Robert+Todd+Carroll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The skeptic&#x27;s dictionary">The skeptic&#x27;s dictionary</a>
         </h4>
         <p class="fr-book-author">By Robert Todd Carroll</p>
-        
+
         <p class="fr-book-desc">Explains reasoning commonly applied to crop-circle investigations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+skeptic%27s+dictionary+Robert+Todd+Carroll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -585,7 +585,7 @@ Most of all, crop circles show how modern mysteries are made socially. A pattern
           <a href="https://www.amazon.com/s?k=Crop+circles+Colin+Andrews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crop circles">Crop circles</a>
         </h4>
         <p class="fr-book-author">By Colin Andrews</p>
-        
+
         <p class="fr-book-desc">Documents the early rise of the phenomenon before the major hoax revelations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Crop+circles+Colin+Andrews&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -596,16 +596,16 @@ Most of all, crop circles show how modern mysteries are made socially. A pattern
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Unexplained+phenomena+John+F.+Michell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Unexplained phenomena on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/911775-M.jpg" alt="Cover for Unexplained phenomena" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mysteries of the Unexplained on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Unexplained+phenomena+John+F.+Michell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Unexplained phenomena">Unexplained phenomena</a>
+          <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysteries of the Unexplained">Mysteries of the Unexplained</a>
         </h4>
-        <p class="fr-book-author">By John F. Michell, John Michell et al.</p>
-        
-        <p class="fr-book-desc">First published 2000. Subjects: Curiosities and wonders, Reference works, Unexplained phenomena, Metaphysical Phenomena - General, Refere...</p>
+        <p class="fr-book-author">By Reader&#x27;s Digest Association</p>
+
+        <p class="fr-book-desc">Includes crop circles alongside other famous unexplained mysteries.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Unexplained+phenomena+John+F.+Michell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

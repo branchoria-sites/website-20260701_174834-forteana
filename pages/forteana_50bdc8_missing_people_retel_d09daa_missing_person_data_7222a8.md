@@ -367,7 +367,7 @@ These questions do not diminish genuine mysteries. Instead, they separate docume
           <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
         </h4>
         <p class="fr-book-author">By Charles Fort</p>
-        
+
         <p class="fr-book-desc">Historical backdrop for anomalous reporting traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -384,7 +384,7 @@ These questions do not diminish genuine mysteries. Instead, they separate docume
           <a href="https://www.amazon.com/s?k=Practical+Homicide+Investigation+Vernon+J.+Geberth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Homicide Investigation">Practical Homicide Investigation</a>
         </h4>
         <p class="fr-book-author">By Vernon J. Geberth</p>
-        
+
         <p class="fr-book-desc">Provides context on investigative methods and evidence handling.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Practical+Homicide+Investigation+Vernon+J.+Geberth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +401,7 @@ These questions do not diminish genuine mysteries. Instead, they separate docume
           <a href="https://www.amazon.com/s?k=Lost+person+behavior+Koester%2C+Robert+J.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lost person behavior">Lost person behavior</a>
         </h4>
         <p class="fr-book-author">By Koester, Robert J.</p>
-        
+
         <p class="fr-book-desc">Explains real missing-person investigations and evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Lost+person+behavior+Koester%2C+Robert+J.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -418,7 +418,7 @@ These questions do not diminish genuine mysteries. Instead, they separate docume
           <a href="https://www.amazon.com/s?k=Unexplained%21+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Unexplained!">Unexplained!</a>
         </h4>
         <p class="fr-book-author">By Jerome Clark</p>
-        
+
         <p class="fr-book-desc">Balances famous mysteries with documented background.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Unexplained%21+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

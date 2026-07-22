@@ -390,10 +390,27 @@ For that reason, Mary Reeser's death remains important not because it conclusive
           <a href="https://www.amazon.com/s?k=Spontaneous+human+combustion+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spontaneous human combustion">Spontaneous human combustion</a>
         </h4>
         <p class="fr-book-author">By Jenny Randles, Peter Hough</p>
-        
+
         <p class="fr-book-desc">Covers the Mary Reeser case in depth.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Spontaneous+human+combustion+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mysteries+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10290585-M.jpg" alt="Cover for Mysteries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Mysteries+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysteries">Mysteries</a>
+        </h4>
+        <p class="fr-book-author">By Colin Wilson</p>
+
+        <p class="fr-book-desc">Retells notable unexplained historical cases including combustion lore.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Mysteries+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -407,7 +424,7 @@ For that reason, Mary Reeser's death remains important not because it conclusive
           <a href="https://www.amazon.com/s?k=Forensic+Pathology+Dominick+DiMaio&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forensic Pathology">Forensic Pathology</a>
         </h4>
         <p class="fr-book-author">By Dominick DiMaio, Vincent J. M. DiMaio et al.</p>
-        
+
         <p class="fr-book-desc">Explains burn injuries and death-scene interpretation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Forensic+Pathology+Dominick+DiMaio&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -424,7 +441,7 @@ For that reason, Mary Reeser's death remains important not because it conclusive
           <a href="https://www.amazon.com/s?k=Cases+That+Haunt+Us+John+Douglas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cases That Haunt Us">Cases That Haunt Us</a>
         </h4>
         <p class="fr-book-author">By John Douglas, Mark Olshaker et al.</p>
-        
+
         <p class="fr-book-desc">Shows how famous mysteries are re-examined using evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Cases+That+Haunt+Us+John+Douglas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -433,26 +450,9 @@ For that reason, Mary Reeser's death remains important not because it conclusive
         </div>
       </div>
     </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mysteries+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10290585-M.jpg" alt="Cover for Mysteries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mysteries+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysteries">Mysteries</a>
-        </h4>
-        <p class="fr-book-author">By Colin Wilson</p>
-        
-        <p class="fr-book-desc">Retells notable unexplained historical cases including combustion lore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mysteries+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Spontaneous+human+combustion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Spontaneous human combustion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Forensic+Pathology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Forensic Pathology</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cases+That+Haunt+Us&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cases That Haunt Us</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Spontaneous+human+combustion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Spontaneous human combustion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mysteries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mysteries</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Forensic+Pathology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Forensic Pathology</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

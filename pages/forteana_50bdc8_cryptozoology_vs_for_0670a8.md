@@ -580,7 +580,7 @@ That is why the phrase “Cryptozoology Versus Forteana” should not be read as
           <a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunting Monsters">Hunting Monsters</a>
         </h4>
         <p class="fr-book-author">By Darren Naish</p>
-        
+
         <p class="fr-book-desc">Examines major cryptid claims using zoological evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -597,7 +597,7 @@ That is why the phrase “Cryptozoology Versus Forteana” should not be read as
           <a href="https://www.amazon.com/s?k=The+new+annotated+H.P.+Lovecraft+H.P.+Lovecraft&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The new annotated H.P. Lovecraft">The new annotated H.P. Lovecraft</a>
         </h4>
         <p class="fr-book-author">By H.P. Lovecraft, Leslie S. Klinger et al.</p>
-        
+
         <p class="fr-book-desc">Connects with the broader tradition of strange phenomena and Fortean interests.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+new+annotated+H.P.+Lovecraft+H.P.+Lovecraft&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -614,7 +614,7 @@ That is why the phrase “Cryptozoology Versus Forteana” should not be read as
           <a href="https://www.amazon.com/s?k=The+world+of+Lore+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world of Lore">The world of Lore</a>
         </h4>
         <p class="fr-book-author">By Aaron Mahnke</p>
-        
+
         <p class="fr-book-desc">Explores the folklore side of strange creature reports central to Forteana.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+world+of+Lore+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -631,7 +631,7 @@ That is why the phrase “Cryptozoology Versus Forteana” should not be read as
           <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysteries of the Unexplained">Mysteries of the Unexplained</a>
         </h4>
         <p class="fr-book-author">By Reader&#x27;s Digest Association</p>
-        
+
         <p class="fr-book-desc">Covers the wider Fortean landscape beyond cryptozoology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -423,7 +423,7 @@ That unresolved tension—between personal significance and objective demonstrat
           <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
         </h4>
         <p class="fr-book-author">By Michael Shermer</p>
-        
+
         <p class="fr-book-desc">Balances subjective meaning with critical thinking.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -440,7 +440,7 @@ That unresolved tension—between personal significance and objective demonstrat
           <a href="https://www.amazon.com/s?k=Man+and+His+Symbols+Carl+Gustav+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Man and His Symbols">Man and His Symbols</a>
         </h4>
         <p class="fr-book-author">By Carl Gustav Jung</p>
-        
+
         <p class="fr-book-desc">Accessible introduction to Jungian ideas about meaning and symbols.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Man+and+His+Symbols+Carl+Gustav+Jung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -457,7 +457,7 @@ That unresolved tension—between personal significance and objective demonstrat
           <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
         </h4>
         <p class="fr-book-author">By Charles Fort</p>
-        
+
         <p class="fr-book-desc">Provides historical context for anomalous interpretations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -474,7 +474,7 @@ That unresolved tension—between personal significance and objective demonstrat
           <a href="https://www.amazon.com/s?k=Synchronicity+-+An+Acausal+Connecting+Principle+Carl+Gustav+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Synchronicity - An Acausal Connecting Principle">Synchronicity - An Acausal Connecting Principle</a>
         </h4>
         <p class="fr-book-author">By Carl Gustav Jung, R. F. C. Hull</p>
-        
+
         <p class="fr-book-desc">Primary source for Jung&#x27;s theory of synchronicity.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Synchronicity+-+An+Acausal+Connecting+Principle+Carl+Gustav+Jung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -401,7 +401,7 @@ The strongest investigations therefore treat species composition as one piece of
           <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
         </h4>
         <p class="fr-book-author">By Charles Fort</p>
-        
+
         <p class="fr-book-desc">Introduces famous anomalous animal-fall reports.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -418,7 +418,7 @@ The strongest investigations therefore treat species composition as one piece of
           <a href="https://www.amazon.com/s?k=National+Audubon+Society+Field+Guide+to+North+American+Fishes+National+Audubon+Society&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="National Audubon Society Field Guide to North American Fishes">National Audubon Society Field Guide to North American Fishes</a>
         </h4>
         <p class="fr-book-author">By National Audubon Society</p>
-        
+
         <p class="fr-book-desc">Supports understanding species identification and ecology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=National+Audubon+Society+Field+Guide+to+North+American+Fishes+National+Audubon+Society&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -435,7 +435,7 @@ The strongest investigations therefore treat species composition as one piece of
           <a href="https://www.amazon.com/s?k=How+to+think+about+weird+things+Theodore+Schick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to think about weird things">How to think about weird things</a>
         </h4>
         <p class="fr-book-author">By Theodore Schick, Lewis Vaughn et al.</p>
-        
+
         <p class="fr-book-desc">Encourages evaluating competing explanations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=How+to+think+about+weird+things+Theodore+Schick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -452,7 +452,7 @@ The strongest investigations therefore treat species composition as one piece of
           <a href="https://www.amazon.com/s?k=Unexplained%21+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Unexplained!">Unexplained!</a>
         </h4>
         <p class="fr-book-author">By Jerome Clark</p>
-        
+
         <p class="fr-book-desc">Discusses unusual natural mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Unexplained%21+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

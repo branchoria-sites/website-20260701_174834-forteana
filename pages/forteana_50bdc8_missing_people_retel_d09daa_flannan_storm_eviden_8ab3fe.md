@@ -410,7 +410,7 @@ The Flannan Isles therefore serve as an important case study in Fortean storytel
           <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
         </h4>
         <p class="fr-book-author">By Charles Fort</p>
-        
+
         <p class="fr-book-desc">Connects the case to the broader Fortean tradition.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -427,7 +427,7 @@ The Flannan Isles therefore serve as an important case study in Fortean storytel
           <a href="https://www.amazon.com/s?k=The+lighthouse+Stevensons+Bella+Bathurst&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lighthouse Stevensons">The lighthouse Stevensons</a>
         </h4>
         <p class="fr-book-author">By Bella Bathurst</p>
-        
+
         <p class="fr-book-desc">Provides strong historical context for lighthouse life and dangers.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+lighthouse+Stevensons+Bella+Bathurst&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -444,7 +444,7 @@ The Flannan Isles therefore serve as an important case study in Fortean storytel
           <a href="https://www.amazon.com/s?k=The+world+of+Lore+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world of Lore">The world of Lore</a>
         </h4>
         <p class="fr-book-author">By Aaron Mahnke</p>
-        
+
         <p class="fr-book-desc">Illustrates how eerie stories grow around historical events.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+world+of+Lore+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

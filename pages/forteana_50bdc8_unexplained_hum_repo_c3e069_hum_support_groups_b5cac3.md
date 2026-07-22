@@ -384,7 +384,7 @@ For [Forteana]({{ 'forteana/' | relative_url }}), this is one of the most reveal
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
         <p class="fr-book-author">By Carl Sagan</p>
-        
+
         <p class="fr-book-desc">Frames evidence gathering in unusual claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +401,7 @@ For [Forteana]({{ 'forteana/' | relative_url }}), this is one of the most reveal
           <a href="https://www.amazon.com/s?k=The+Believing+Brain+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
         </h4>
         <p class="fr-book-author">By Michael Shermer</p>
-        
+
         <p class="fr-book-desc">Examines how communities form and sustain beliefs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Believing+Brain+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -418,7 +418,7 @@ For [Forteana]({{ 'forteana/' | relative_url }}), this is one of the most reveal
           <a href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds%3AWhy+the+Many+Are+Smarter+Than+the+Few+and+How+Collective+Wisdom+Shapes+Business%2C+Economies%2C+Societies+and+Nations+James+Surowiecki&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Wisdom of Crowds:Why the Many Are Smarter Than the Few and How Collective Wisdom Shapes Business, Economies, Societies and Nations">The Wisdom of Crowds:Why the Many Are Smarter Than the Few an...</a>
         </h4>
         <p class="fr-book-author">By James Surowiecki</p>
-        
+
         <p class="fr-book-desc">Explores how groups develop shared judgments.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Wisdom+of+Crowds%3AWhy+the+Many+Are+Smarter+Than+the+Few+and+How+Collective+Wisdom+Shapes+Business%2C+Economies%2C+Societies+and+Nations+James+Surowiecki&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -435,7 +435,7 @@ For [Forteana]({{ 'forteana/' | relative_url }}), this is one of the most reveal
           <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (But Not by Me)">Mistakes Were Made (But Not by Me)</a>
         </h4>
         <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
-        
+
         <p class="fr-book-desc">Useful for understanding belief reinforcement in communities.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

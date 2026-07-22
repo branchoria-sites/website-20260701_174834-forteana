@@ -424,7 +424,7 @@ This distinction allows investigators to take witnesses seriously while applying
 <a href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why We Sleep">Why We Sleep</a>
 </h4>
 <p class="fr-book-author">By Matthew Walker</p>
-        
+
 <p class="fr-book-desc">Provides accessible background on sleep states and REM.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -441,7 +441,7 @@ This distinction allows investigators to take witnesses seriously while applying
 <a href="https://www.amazon.com/s?k=The+Complete+Books+of+Charles+Fort+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Books of Charles Fort">The Complete Books of Charles Fort</a>
 </h4>
 <p class="fr-book-author">By Charles Fort</p>
-        
+
 <p class="fr-book-desc">Places extraordinary testimony within the wider Fortean tradition.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Complete+Books+of+Charles+Fort+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -458,7 +458,7 @@ This distinction allows investigators to take witnesses seriously while applying
 <a href="https://www.amazon.com/s?k=Hallucinations+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hallucinations">Hallucinations</a>
 </h4>
 <p class="fr-book-author">By Oliver Sacks</p>
-        
+
 <p class="fr-book-desc">First published 2012. Subjects: Hallucinations, Perceptual Disorders, Hallucinations and illusions, Cognition disorders, New York Times b...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Hallucinations+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -475,7 +475,7 @@ This distinction allows investigators to take witnesses seriously while applying
 <a href="https://www.amazon.com/s?k=Sleep+paralysis+Shelley+R.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sleep paralysis">Sleep paralysis</a>
 </h4>
 <p class="fr-book-author">By Shelley R. Adler</p>
-        
+
 <p class="fr-book-desc">First published 2010. Subjects: Nightmares, Sleep disorders, Mind and body, Dreams, Mind-Body Relations, Metaphysical.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Sleep+paralysis+Shelley+R.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

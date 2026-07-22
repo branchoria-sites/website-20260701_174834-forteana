@@ -407,7 +407,7 @@ The frequency illusion therefore provides an important baseline explanation for 
           <a href="https://www.amazon.com/s?k=You+are+Not+So+Smart+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="You are Not So Smart">You are Not So Smart</a>
         </h4>
         <p class="fr-book-author">By David McRaney</p>
-        
+
         <p class="fr-book-desc">Explains confirmation bias and selective attention behind the frequency illusion.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=You+are+Not+So+Smart+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -424,7 +424,7 @@ The frequency illusion therefore provides an important baseline explanation for 
           <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
         </h4>
         <p class="fr-book-author">By Daniel Kahneman</p>
-        
+
         <p class="fr-book-desc">Covers cognitive biases involved in noticing patterns.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -441,7 +441,7 @@ The frequency illusion therefore provides an important baseline explanation for 
           <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
         </h4>
         <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
-        
+
         <p class="fr-book-desc">Shows how attention filters what we notice.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -458,7 +458,7 @@ The frequency illusion therefore provides an important baseline explanation for 
           <a href="https://www.amazon.com/s?k=The+Improbability+Principle+David+J.+Hand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Improbability Principle">The Improbability Principle</a>
         </h4>
         <p class="fr-book-author">By David J. Hand</p>
-        
+
         <p class="fr-book-desc">Explains why repeated observations can seem uncanny.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Improbability+Principle+David+J.+Hand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

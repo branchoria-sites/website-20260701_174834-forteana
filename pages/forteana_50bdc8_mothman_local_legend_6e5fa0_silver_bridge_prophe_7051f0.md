@@ -376,7 +376,7 @@ For historians, engineers and sceptics, the Silver Bridge remains a well-documen
           <a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mothman Prophecies">The Mothman Prophecies</a>
         </h4>
         <p class="fr-book-author">By John A. Keel</p>
-        
+
         <p class="fr-book-desc">Explores the prophetic interpretation that followed the collapse.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -393,7 +393,7 @@ For historians, engineers and sceptics, the Silver Bridge remains a well-documen
           <a href="https://www.amazon.com/s?k=Engineering+in+Plain+Sight+Grady+Hillhouse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Engineering in Plain Sight">Engineering in Plain Sight</a>
         </h4>
         <p class="fr-book-author">By Grady Hillhouse</p>
-        
+
         <p class="fr-book-desc">Provides accessible context on infrastructure failures and engineering.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Engineering+in+Plain+Sight+Grady+Hillhouse&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,7 +410,7 @@ For historians, engineers and sceptics, the Silver Bridge remains a well-documen
           <a href="https://www.amazon.com/s?k=Unexplained%21+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Unexplained!">Unexplained!</a>
         </h4>
         <p class="fr-book-author">By Jerome Clark</p>
-        
+
         <p class="fr-book-desc">Places the Mothman prophecy tradition in wider Fortean context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Unexplained%21+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -427,7 +427,7 @@ For historians, engineers and sceptics, the Silver Bridge remains a well-documen
           <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science">Abominable Science</a>
         </h4>
         <p class="fr-book-author">By Donald R. Prothero, Daniel Loxton</p>
-        
+
         <p class="fr-book-desc">Examines how extraordinary narratives develop around real events.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

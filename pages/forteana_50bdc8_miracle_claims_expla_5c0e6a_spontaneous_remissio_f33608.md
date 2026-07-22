@@ -425,7 +425,7 @@ For Fortean investigations, this makes spontaneous remission especially signific
           <a href="https://www.amazon.com/s?k=The+Emperor+of+All+Maladies+Siddhartha+Mukherjee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Emperor of All Maladies">The Emperor of All Maladies</a>
         </h4>
         <p class="fr-book-author">By Siddhartha Mukherjee</p>
-        
+
         <p class="fr-book-desc">Provides medical context for cancer and rare recoveries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Emperor+of+All+Maladies+Siddhartha+Mukherjee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -442,7 +442,7 @@ For Fortean investigations, this makes spontaneous remission especially signific
           <a href="https://www.amazon.com/s?k=Radical+Remission+Kelly+A.+Turner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Radical Remission">Radical Remission</a>
         </h4>
         <p class="fr-book-author">By Kelly A. Turner</p>
-        
+
         <p class="fr-book-desc">Focuses on unexpected recoveries often discussed alongside miracle claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Radical+Remission+Kelly+A.+Turner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -459,7 +459,7 @@ For Fortean investigations, this makes spontaneous remission especially signific
           <a href="https://www.amazon.com/s?k=Being+Mortal+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Being Mortal">Being Mortal</a>
         </h4>
         <p class="fr-book-author">By Atul Gawande</p>
-        
+
         <p class="fr-book-desc">Explores uncertainty, prognosis and medical outcomes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Being+Mortal+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -476,7 +476,7 @@ For Fortean investigations, this makes spontaneous remission especially signific
           <a href="https://www.amazon.com/s?k=The+Case+for+Miracles+Lee+Strobel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Case for Miracles">The Case for Miracles</a>
         </h4>
         <p class="fr-book-author">By Lee Strobel</p>
-        
+
         <p class="fr-book-desc">Includes discussions of healing testimony.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Case+for+Miracles+Lee+Strobel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

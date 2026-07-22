@@ -501,7 +501,7 @@ That is the enduring value of Forteana: it teaches a disciplined comfort with un
 <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
 </h4>
 <p class="fr-book-author">By Charles Fort</p>
-        
+
 <p class="fr-book-desc">Introduces the core ideas behind Forteana and &#x27;damned facts&#x27;.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -518,7 +518,7 @@ That is the enduring value of Forteana: it teaches a disciplined comfort with un
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
 </h4>
 <p class="fr-book-author">By Carl Sagan</p>
-        
+
 <p class="fr-book-desc">Provides a skeptical framework for evaluating anomalous reports.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -552,7 +552,7 @@ That is the enduring value of Forteana: it teaches a disciplined comfort with un
 <a href="https://www.amazon.com/s?k=The+World+of+the+Unknown+Ghosts+%28World+of+the+Unknown%29+Christopher+Maynard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World of the Unknown Ghosts (World of the Unknown)">The World of the Unknown Ghosts (World of the Unknown)</a>
 </h4>
 <p class="fr-book-author">By Christopher Maynard</p>
-        
+
 <p class="fr-book-desc">First published 1977. Subjects: Ghosts, Juvenile literature.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+World+of+the+Unknown+Ghosts+%28World+of+the+Unknown%29+Christopher+Maynard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

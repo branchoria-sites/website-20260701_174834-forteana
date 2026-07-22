@@ -405,7 +405,7 @@ For readers of *The Book of the Damned*, strange rain therefore functions as mor
 <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
 </h4>
 <p class="fr-book-author">By Charles Fort</p>
-        
+
 <p class="fr-book-desc">Famous for anomalous rains and mysterious substances.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -422,7 +422,7 @@ For readers of *The Book of the Damned*, strange rain therefore functions as mor
 <a href="https://www.amazon.com/s?k=The+Complete+Books+of+Charles+Fort+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Books of Charles Fort">The Complete Books of Charles Fort</a>
 </h4>
 <p class="fr-book-author">By Charles Fort</p>
-        
+
 <p class="fr-book-desc">Expands Fort&#x27;s catalog of strange falls and materials.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Complete+Books+of+Charles+Fort+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -439,7 +439,7 @@ For readers of *The Book of the Damned*, strange rain therefore functions as mor
 <a href="https://www.amazon.com/s?k=Rain+Cynthia+Barnett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rain">Rain</a>
 </h4>
 <p class="fr-book-author">By Cynthia Barnett</p>
-        
+
 <p class="fr-book-desc">First published 2015. Subjects: Rain and rainfall, Climatic changes, Physical geography, Rainfall anomalies, Earth sciences.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Rain+Cynthia+Barnett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -456,7 +456,7 @@ For readers of *The Book of the Damned*, strange rain therefore functions as mor
 <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysteries of the Unexplained">Mysteries of the Unexplained</a>
 </h4>
 <p class="fr-book-author">By Reader&#x27;s Digest Association</p>
-        
+
 <p class="fr-book-desc">First published 1985.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -384,7 +384,7 @@ Within the history of [Forteana]({{ 'forteana/' | relative_url }}), that balance
           <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
         </h4>
         <p class="fr-book-author">By Charles Fort</p>
-        
+
         <p class="fr-book-desc">Historic source for anomalous falls and unexplained events.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +401,7 @@ Within the history of [Forteana]({{ 'forteana/' | relative_url }}), that balance
           <a href="https://www.amazon.com/s?k=Weather+For+Dummies+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
         </h4>
         <p class="fr-book-author">By John D. Cox</p>
-        
+
         <p class="fr-book-desc">Explains storms and meteorological mechanisms relevant to fish falls.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Weather+For+Dummies+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -418,7 +418,7 @@ Within the history of [Forteana]({{ 'forteana/' | relative_url }}), that balance
           <a href="https://www.amazon.com/s?k=National+Audubon+Society+Field+Guide+to+North+American+Fishes+National+Audubon+Society&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="National Audubon Society Field Guide to North American Fishes">National Audubon Society Field Guide to North American Fishes</a>
         </h4>
         <p class="fr-book-author">By National Audubon Society</p>
-        
+
         <p class="fr-book-desc">Useful for identifying species reported in fish-fall cases.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=National+Audubon+Society+Field+Guide+to+North+American+Fishes+National+Audubon+Society&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -435,7 +435,7 @@ Within the history of [Forteana]({{ 'forteana/' | relative_url }}), that balance
           <a href="https://www.amazon.com/s?k=Unexplained%21+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Unexplained!">Unexplained!</a>
         </h4>
         <p class="fr-book-author">By Jerome Clark</p>
-        
+
         <p class="fr-book-desc">Places famous animal-fall cases in wider context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Unexplained%21+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

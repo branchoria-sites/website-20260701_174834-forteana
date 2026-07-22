@@ -397,7 +397,7 @@ That distinction explains why the debate increasingly centres on breeding popula
 <a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunting Monsters">Hunting Monsters</a>
 </h4>
 <p class="fr-book-author">By Darren Naish</p>
-        
+
 <p class="fr-book-desc">First published 2017. Subjects: Monsters, Zoology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -414,7 +414,7 @@ That distinction explains why the debate increasingly centres on breeding popula
 <a href="https://www.amazon.com/s?k=Sasquatch+Jeff+Meldrum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sasquatch">Sasquatch</a>
 </h4>
 <p class="fr-book-author">By Jeff Meldrum</p>
-        
+
 <p class="fr-book-desc">First published 2006. Subjects: Sasquatch, Animals.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Sasquatch+Jeff+Meldrum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -431,7 +431,7 @@ That distinction explains why the debate increasingly centres on breeding popula
 <a href="https://www.amazon.com/s?k=Bigfoot+Joshua+Blu+Buhs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bigfoot">Bigfoot</a>
 </h4>
 <p class="fr-book-author">By Joshua Blu Buhs</p>
-        
+
 <p class="fr-book-desc">First published 2009. Subjects: Sasquatch, History, New Age, Nonfiction, Science.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Bigfoot+Joshua+Blu+Buhs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -448,7 +448,7 @@ That distinction explains why the debate increasingly centres on breeding popula
 <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science">Abominable Science</a>
 </h4>
 <p class="fr-book-author">By Donald R. Prothero, Daniel Loxton</p>
-        
+
 <p class="fr-book-desc">First published 2012. Subjects: Animals, mythical.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

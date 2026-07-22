@@ -404,7 +404,7 @@ For Fortean researchers, this does not eliminate the possibility of unusual case
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
         <p class="fr-book-author">By Carl Sagan</p>
-        
+
         <p class="fr-book-desc">Teaches careful evaluation of unexplained claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -421,7 +421,7 @@ For Fortean researchers, this does not eliminate the possibility of unusual case
           <a href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Paranormality">Paranormality</a>
         </h4>
         <p class="fr-book-author">By Richard Wiseman</p>
-        
+
         <p class="fr-book-desc">Explains ordinary causes behind strange experiences.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Paranormality+Richard+Wiseman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -438,7 +438,7 @@ For Fortean researchers, this does not eliminate the possibility of unusual case
           <a href="https://www.amazon.com/s?k=This+house+is+haunted+Guy+Lyon+Playfair&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This house is haunted">This house is haunted</a>
         </h4>
         <p class="fr-book-author">By Guy Lyon Playfair</p>
-        
+
         <p class="fr-book-desc">Provides a contrasting investigative perspective.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=This+house+is+haunted+Guy+Lyon+Playfair&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -455,7 +455,7 @@ For Fortean researchers, this does not eliminate the possibility of unusual case
           <a href="https://www.amazon.com/s?k=Poltergeist+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Poltergeist">Poltergeist</a>
         </h4>
         <p class="fr-book-author">By Colin Wilson</p>
-        
+
         <p class="fr-book-desc">First published 1981. Subjects: Haunted houses, Poltergeists, Ghosts, Case studies, Occultism.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Poltergeist+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

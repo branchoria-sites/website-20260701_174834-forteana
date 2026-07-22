@@ -375,7 +375,7 @@ Within the broader study of coincidences that feel impossible, the birthday prob
 <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
 </h4>
 <p class="fr-book-author">By Michael Shermer</p>
-        
+
 <p class="fr-book-desc">Connects statistical errors with extraordinary beliefs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -392,7 +392,7 @@ Within the broader study of coincidences that feel impossible, the birthday prob
 <a href="https://www.amazon.com/s?k=The+Drunkard%27s+Walk+Leonard+Mlodinow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drunkard&#x27;s Walk">The Drunkard&#x27;s Walk</a>
 </h4>
 <p class="fr-book-author">By Leonard Mlodinow</p>
-        
+
 <p class="fr-book-desc">First published 2008. Subjects: Probabilities, Chance, Random variables, Mathematics, Nonfiction.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Drunkard%27s+Walk+Leonard+Mlodinow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -409,7 +409,7 @@ Within the broader study of coincidences that feel impossible, the birthday prob
 <a href="https://www.amazon.com/s?k=The+Improbability+Principle+David+J.+Hand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Improbability Principle">The Improbability Principle</a>
 </h4>
 <p class="fr-book-author">By David J. Hand</p>
-        
+
 <p class="fr-book-desc">First published 2014. Subjects: Probabilities, Mathematics, popular works, Coincidence.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Improbability+Principle+David+J.+Hand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -426,7 +426,7 @@ Within the broader study of coincidences that feel impossible, the birthday prob
 <a href="https://www.amazon.com/s?k=Innumeracy+John+Allen+Paulos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Innumeracy">Innumeracy</a>
 </h4>
 <p class="fr-book-author">By John Allen Paulos</p>
-        
+
 <p class="fr-book-desc">First published 1988. Subjects: Mathematical ability, Mathematics, Number concept, Popular works, Ouvrages de vulgarisation.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Innumeracy+John+Allen+Paulos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

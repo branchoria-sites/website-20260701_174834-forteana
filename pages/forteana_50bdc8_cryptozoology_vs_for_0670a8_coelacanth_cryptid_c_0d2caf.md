@@ -378,7 +378,7 @@ For that reason, the coelacanth is best understood not as evidence that every cr
           <a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunting Monsters">Hunting Monsters</a>
         </h4>
         <p class="fr-book-author">By Darren Naish</p>
-        
+
         <p class="fr-book-desc">Explains why rediscovered species differ from legendary cryptids.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -395,7 +395,7 @@ For that reason, the coelacanth is best understood not as evidence that every cr
           <a href="https://www.amazon.com/s?k=Your+inner+fish+Neil+Shubin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Your inner fish">Your inner fish</a>
         </h4>
         <p class="fr-book-author">By Neil Shubin</p>
-        
+
         <p class="fr-book-desc">Provides broader evolutionary context for ancient fish lineages.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Your+inner+fish+Neil+Shubin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -412,7 +412,7 @@ For that reason, the coelacanth is best understood not as evidence that every cr
           <a href="https://www.amazon.com/s?k=Fish+Caught+In+Time+the+Search+for+The+Samantha+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fish Caught In Time the Search for The">Fish Caught In Time the Search for The</a>
         </h4>
         <p class="fr-book-author">By Samantha Weinberg, Fourth Estate</p>
-        
+
         <p class="fr-book-desc">First published 1999. Subjects: Coelacanth, New York Times reviewed, Fishes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Fish+Caught+In+Time+the+Search+for+The+Samantha+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -429,7 +429,7 @@ For that reason, the coelacanth is best understood not as evidence that every cr
           <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science">Abominable Science</a>
         </h4>
         <p class="fr-book-author">By Donald R. Prothero, Daniel Loxton</p>
-        
+
         <p class="fr-book-desc">First published 2012. Subjects: Animals, mythical.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

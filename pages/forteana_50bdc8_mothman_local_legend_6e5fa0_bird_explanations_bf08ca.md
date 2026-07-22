@@ -398,7 +398,7 @@ For Fortean researchers, this is why the owl and crane explanations remain so im
           <a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mothman Prophecies">The Mothman Prophecies</a>
         </h4>
         <p class="fr-book-author">By John A. Keel</p>
-        
+
         <p class="fr-book-desc">Provides the core eyewitness accounts and competing interpretations, including natural explanations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -415,7 +415,7 @@ For Fortean researchers, this is why the owl and crane explanations remain so im
           <a href="https://www.amazon.com/s?k=Bird+brains+Candace+Sherk+Savage&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bird brains">Bird brains</a>
         </h4>
         <p class="fr-book-author">By Candace Sherk Savage</p>
-        
+
         <p class="fr-book-desc">Helps readers understand bird behaviour and perception relevant to misidentification.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Bird+brains+Candace+Sherk+Savage&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -432,7 +432,7 @@ For Fortean researchers, this is why the owl and crane explanations remain so im
           <a href="https://www.amazon.com/s?k=Unexplained%21+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Unexplained!">Unexplained!</a>
         </h4>
         <p class="fr-book-author">By Jerome Clark</p>
-        
+
         <p class="fr-book-desc">Places Mothman and natural explanations within wider unexplained phenomena.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Unexplained%21+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -449,7 +449,7 @@ For Fortean researchers, this is why the owl and crane explanations remain so im
           <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science">Abominable Science</a>
         </h4>
         <p class="fr-book-author">By Donald R. Prothero, Daniel Loxton</p>
-        
+
         <p class="fr-book-desc">Explains misidentification, perception and evidence issues behind monster reports.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -549,7 +549,7 @@ That evolution is what makes Mothman one of the clearest modern examples of Fort
           <a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mothman Prophecies">The Mothman Prophecies</a>
         </h4>
         <p class="fr-book-author">By John A. Keel</p>
-        
+
         <p class="fr-book-desc">Definitive popular book on the Mothman legend.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -566,7 +566,7 @@ That evolution is what makes Mothman one of the clearest modern examples of Fort
           <a href="https://www.amazon.com/s?k=Monsters+Among+Us+Linda+S.+Godfrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Monsters Among Us">Monsters Among Us</a>
         </h4>
         <p class="fr-book-author">By Linda S. Godfrey</p>
-        
+
         <p class="fr-book-desc">Places Mothman within broader cryptid traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Monsters+Among+Us+Linda+S.+Godfrey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -583,7 +583,7 @@ That evolution is what makes Mothman one of the clearest modern examples of Fort
           <a href="https://www.amazon.com/s?k=Unexplained%21+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Unexplained!">Unexplained!</a>
         </h4>
         <p class="fr-book-author">By Jerome Clark</p>
-        
+
         <p class="fr-book-desc">Includes Mothman and related phenomena.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Unexplained%21+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -600,7 +600,7 @@ That evolution is what makes Mothman one of the clearest modern examples of Fort
           <a href="https://www.amazon.com/s?k=Mothman+Jeff+Wamsley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mothman">Mothman</a>
         </h4>
         <p class="fr-book-author">By Jeff Wamsley</p>
-        
+
         <p class="fr-book-desc">First published 2005.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mothman+Jeff+Wamsley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

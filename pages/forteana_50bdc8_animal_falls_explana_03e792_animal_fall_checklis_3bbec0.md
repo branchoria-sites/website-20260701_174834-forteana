@@ -480,7 +480,7 @@ The strongest investigations remain descriptive for as long as possible. They di
           <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
         </h4>
         <p class="fr-book-author">By Charles Fort</p>
-        
+
         <p class="fr-book-desc">Foundational work on anomalous phenomena including unusual falls.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -514,7 +514,7 @@ The strongest investigations remain descriptive for as long as possible. They di
           <a href="https://www.amazon.com/s?k=How+to+think+about+weird+things+Theodore+Schick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to think about weird things">How to think about weird things</a>
         </h4>
         <p class="fr-book-author">By Theodore Schick, Lewis Vaughn et al.</p>
-        
+
         <p class="fr-book-desc">Helps readers evaluate extraordinary claims systematically.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=How+to+think+about+weird+things+Theodore+Schick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -531,7 +531,7 @@ The strongest investigations remain descriptive for as long as possible. They di
           <a href="https://www.amazon.com/s?k=Unexplained%21+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Unexplained!">Unexplained!</a>
         </h4>
         <p class="fr-book-author">By Jerome Clark</p>
-        
+
         <p class="fr-book-desc">Covers anomalous events and investigative context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Unexplained%21+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

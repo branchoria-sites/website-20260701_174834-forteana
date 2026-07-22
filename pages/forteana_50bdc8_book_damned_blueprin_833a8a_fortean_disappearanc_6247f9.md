@@ -429,7 +429,7 @@ That balanced posture reflects Fort's idea of "intermediatism": resisting premat
 <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
 </h4>
 <p class="fr-book-author">By Charles Fort</p>
-        
+
 <p class="fr-book-desc">Introduces the anomaly-collecting approach applied to disappearances.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -446,7 +446,7 @@ That balanced posture reflects Fort's idea of "intermediatism": resisting premat
 <a href="https://www.amazon.com/s?k=The+Complete+Books+of+Charles+Fort+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Books of Charles Fort">The Complete Books of Charles Fort</a>
 </h4>
 <p class="fr-book-author">By Charles Fort</p>
-        
+
 <p class="fr-book-desc">Contains Fort&#x27;s broader discussions of unexplained disappearances.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Complete+Books+of+Charles+Fort+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -463,7 +463,7 @@ That balanced posture reflects Fort's idea of "intermediatism": resisting premat
 <a href="https://www.amazon.com/s?k=The+mammoth+book+of+unsolved+crimes+Roger+Wilkes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The mammoth book of unsolved crimes">The mammoth book of unsolved crimes</a>
 </h4>
 <p class="fr-book-author">By Roger Wilkes</p>
-        
+
 <p class="fr-book-desc">First published 2005. Subjects: Homicide, Case studies, Cold cases (Criminal investigation), Crime, Criminal investigation.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+mammoth+book+of+unsolved+crimes+Roger+Wilkes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -480,7 +480,7 @@ That balanced posture reflects Fort's idea of "intermediatism": resisting premat
 <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysteries of the Unexplained">Mysteries of the Unexplained</a>
 </h4>
 <p class="fr-book-author">By Reader&#x27;s Digest Association</p>
-        
+
 <p class="fr-book-desc">First published 1985.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

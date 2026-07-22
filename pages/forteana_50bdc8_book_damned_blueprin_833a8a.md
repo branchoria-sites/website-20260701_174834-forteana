@@ -561,7 +561,7 @@ For a modern reader, the best way to approach *The Book of the Damned* is neithe
           <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
         </h4>
         <p class="fr-book-author">By Charles Fort</p>
-        
+
         <p class="fr-book-desc">The page is directly about this book.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -578,7 +578,7 @@ For a modern reader, the best way to approach *The Book of the Damned* is neithe
           <a href="https://www.amazon.com/s?k=The+Complete+Books+of+Charles+Fort+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Books of Charles Fort">The Complete Books of Charles Fort</a>
         </h4>
         <p class="fr-book-author">By Charles Fort</p>
-        
+
         <p class="fr-book-desc">Places The Book of the Damned in the context of Fort&#x27;s wider work.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Complete+Books+of+Charles+Fort+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -595,7 +595,7 @@ For a modern reader, the best way to approach *The Book of the Damned* is neithe
           <a href="https://www.amazon.com/s?k=Charles+Fort+Jim+Steinmeyer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Charles Fort">Charles Fort</a>
         </h4>
         <p class="fr-book-author">By Jim Steinmeyer</p>
-        
+
         <p class="fr-book-desc">Explains Fort&#x27;s ideas, methods and influence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Charles+Fort+Jim+Steinmeyer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -612,7 +612,7 @@ For a modern reader, the best way to approach *The Book of the Damned* is neithe
           <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysteries of the Unexplained">Mysteries of the Unexplained</a>
         </h4>
         <p class="fr-book-author">By Reader&#x27;s Digest Association</p>
-        
+
         <p class="fr-book-desc">Illustrates the style of anomalous cases Fort popularised.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

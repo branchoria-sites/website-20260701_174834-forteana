@@ -369,7 +369,7 @@ This distinction shaped later investigations of other hum reports. Rather than a
           <a href="https://www.amazon.com/s?k=The+Believing+Brain+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
         </h4>
         <p class="fr-book-author">By Michael Shermer</p>
-        
+
         <p class="fr-book-desc">Helps explain perception and belief around unexplained sounds.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Believing+Brain+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ This distinction shaped later investigations of other hum reports. Rather than a
           <a href="https://www.amazon.com/s?k=Unexplained%21+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Unexplained!">Unexplained!</a>
         </h4>
         <p class="fr-book-author">By Jerome Clark</p>
-        
+
         <p class="fr-book-desc">Provides wider context for unresolved anomalies.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Unexplained%21+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ This distinction shaped later investigations of other hum reports. Rather than a
           <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysteries of the Unexplained">Mysteries of the Unexplained</a>
         </h4>
         <p class="fr-book-author">By Reader&#x27;s Digest Association</p>
-        
+
         <p class="fr-book-desc">Includes famous unsolved cases relevant to Taos.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -420,7 +420,7 @@ This distinction shaped later investigations of other hum reports. Rather than a
           <a href="https://www.amazon.com/s?k=The+Hum%3A+A+History+of+the+Mysterious+Sounds+Heard+Around+the+World+David+Deming&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hum: A History of the Mysterious Sounds Heard Around the World">The Hum: A History of the Mysterious Sounds Heard Around the...</a>
         </h4>
         <p class="fr-book-author">By David Deming</p>
-        
+
         <p class="fr-book-desc">Discusses the Taos Hum as a defining case.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Hum%3A+A+History+of+the+Mysterious+Sounds+Heard+Around+the+World+David+Deming&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

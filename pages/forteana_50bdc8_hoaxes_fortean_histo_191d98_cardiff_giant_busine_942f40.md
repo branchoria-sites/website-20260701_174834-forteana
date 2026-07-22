@@ -344,7 +344,7 @@ Later Fortean hoaxes would repeatedly employ the same strategy. Rather than dema
           <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unexplained+Phenomena+Roy+Bainton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of Unexplained Phenomena">The Mammoth Book of Unexplained Phenomena</a>
         </h4>
         <p class="fr-book-author">By Roy Bainton</p>
-        
+
         <p class="fr-book-desc">Includes famous hoaxes and anomalous historical claims including the Cardiff Giant.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unexplained+Phenomena+Roy+Bainton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -361,7 +361,7 @@ Later Fortean hoaxes would repeatedly employ the same strategy. Rather than dema
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
         <p class="fr-book-author">By Carl Sagan</p>
-        
+
         <p class="fr-book-desc">Offers a framework for evaluating extraordinary evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -395,7 +395,7 @@ Later Fortean hoaxes would repeatedly employ the same strategy. Rather than dema
           <a href="https://www.amazon.com/s?k=Humbug+Neil+Harris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Humbug">Humbug</a>
         </h4>
         <p class="fr-book-author">By Neil Harris</p>
-        
+
         <p class="fr-book-desc">First published 1973. Subjects: Social conditions, Circus owners, Biography, Barnum, p. t. (phineas taylor), 1810-1891.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Humbug+Neil+Harris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

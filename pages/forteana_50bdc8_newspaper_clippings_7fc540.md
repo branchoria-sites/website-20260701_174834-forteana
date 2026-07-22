@@ -587,7 +587,7 @@ The most honest Fortean use of old newspapers is therefore not to wave a clippin
           <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
         </h4>
         <p class="fr-book-author">By Charles Fort</p>
-        
+
         <p class="fr-book-desc">Built largely from newspaper and journal reports.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -604,7 +604,7 @@ The most honest Fortean use of old newspapers is therefore not to wave a clippin
           <a href="https://www.amazon.com/s?k=The+Complete+Books+of+Charles+Fort+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Books of Charles Fort">The Complete Books of Charles Fort</a>
         </h4>
         <p class="fr-book-author">By Charles Fort</p>
-        
+
         <p class="fr-book-desc">Provides the wider context for Fort&#x27;s use of printed sources.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Complete+Books+of+Charles+Fort+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -621,7 +621,7 @@ The most honest Fortean use of old newspapers is therefore not to wave a clippin
           <a href="https://www.amazon.com/s?k=The+World+of+the+Unknown+Ghosts+%28World+of+the+Unknown%29+Christopher+Maynard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World of the Unknown Ghosts (World of the Unknown)">The World of the Unknown Ghosts (World of the Unknown)</a>
         </h4>
         <p class="fr-book-author">By Christopher Maynard</p>
-        
+
         <p class="fr-book-desc">First published 1977. Subjects: Ghosts, Juvenile literature.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+World+of+the+Unknown+Ghosts+%28World+of+the+Unknown%29+Christopher+Maynard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -638,7 +638,7 @@ The most honest Fortean use of old newspapers is therefore not to wave a clippin
           <a href="https://www.amazon.com/s?k=Damnable+Tales+Richard+Wells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Damnable Tales">Damnable Tales</a>
         </h4>
         <p class="fr-book-author">By Richard Wells</p>
-        
+
         <p class="fr-book-desc">Draws extensively on historical oddities and archival reports.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Damnable+Tales+Richard+Wells&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

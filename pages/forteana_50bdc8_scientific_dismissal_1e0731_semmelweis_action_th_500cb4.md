@@ -367,7 +367,7 @@ The enduring lesson is therefore procedural rather than ideological. Good scient
           <a href="https://www.amazon.com/s?k=The+Ghost+Map+Steven+Johnson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ghost Map">The Ghost Map</a>
         </h4>
         <p class="fr-book-author">By Steven Johnson</p>
-        
+
         <p class="fr-book-desc">Shows evidence changing medical practice despite resistance.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Ghost+Map+Steven+Johnson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -384,7 +384,7 @@ The enduring lesson is therefore procedural rather than ideological. Good scient
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
         <p class="fr-book-author">By Carl Sagan</p>
-        
+
         <p class="fr-book-desc">Discusses balancing evidence, caution and action.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +401,7 @@ The enduring lesson is therefore procedural rather than ideological. Good scient
           <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
         </h4>
         <p class="fr-book-author">By Charles Fort</p>
-        
+
         <p class="fr-book-desc">Provides broader context for rejected observations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -418,7 +418,7 @@ The enduring lesson is therefore procedural rather than ideological. Good scient
           <a href="https://www.amazon.com/s?k=The+Structure+of+Scientific+Revolutions+Thomas+S.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Structure of Scientific Revolutions">The Structure of Scientific Revolutions</a>
         </h4>
         <p class="fr-book-author">By Thomas S. Kuhn</p>
-        
+
         <p class="fr-book-desc">Frames scientific resistance to new evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Structure+of+Scientific+Revolutions+Thomas+S.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

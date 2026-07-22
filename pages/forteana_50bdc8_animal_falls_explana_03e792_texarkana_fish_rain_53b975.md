@@ -371,7 +371,7 @@ For [Forteana]({{ 'forteana/' | relative_url }}) more broadly, the Texarkana cas
           <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
         </h4>
         <p class="fr-book-author">By Charles Fort</p>
-        
+
         <p class="fr-book-desc">Historic framework for unusual falls from the sky.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ For [Forteana]({{ 'forteana/' | relative_url }}) more broadly, the Texarkana cas
           <a href="https://www.amazon.com/s?k=Weather+For+Dummies+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
         </h4>
         <p class="fr-book-author">By John D. Cox</p>
-        
+
         <p class="fr-book-desc">Explains thunderstorms and storm dynamics.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Weather+For+Dummies+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ For [Forteana]({{ 'forteana/' | relative_url }}) more broadly, the Texarkana cas
           <a href="https://www.amazon.com/s?k=National+Geographic+field+guide+to+the+birds+of+North+America+Jon+Dunn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="National Geographic field guide to the birds of North America">National Geographic field guide to the birds of North America</a>
         </h4>
         <p class="fr-book-author">By Jon Dunn, Jon L. Dunn et al.</p>
-        
+
         <p class="fr-book-desc">Relevant to bird-based explanations for fish deposition.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=National+Geographic+field+guide+to+the+birds+of+North+America+Jon+Dunn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -422,7 +422,7 @@ For [Forteana]({{ 'forteana/' | relative_url }}) more broadly, the Texarkana cas
           <a href="https://www.amazon.com/s?k=Unexplained%21+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Unexplained!">Unexplained!</a>
         </h4>
         <p class="fr-book-author">By Jerome Clark</p>
-        
+
         <p class="fr-book-desc">Provides context for modern fish-rain reports.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Unexplained%21+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

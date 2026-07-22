@@ -378,7 +378,7 @@ Within the broader history of Forteana, however, roadside encounters with owls, 
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
         <p class="fr-book-author">By Carl Sagan</p>
-        
+
         <p class="fr-book-desc">Encourages evidence-based interpretation of unusual sightings.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -395,7 +395,7 @@ Within the broader history of Forteana, however, roadside encounters with owls, 
           <a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mothman Prophecies">The Mothman Prophecies</a>
         </h4>
         <p class="fr-book-author">By John A. Keel</p>
-        
+
         <p class="fr-book-desc">Provides famous creature accounts often discussed alongside bird explanations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -412,7 +412,7 @@ Within the broader history of Forteana, however, roadside encounters with owls, 
           <a href="https://www.amazon.com/s?k=National+Geographic+field+guide+to+the+birds+of+North+America+Jon+Dunn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="National Geographic field guide to the birds of North America">National Geographic field guide to the birds of North America</a>
         </h4>
         <p class="fr-book-author">By Jon Dunn, Jon L. Dunn et al.</p>
-        
+
         <p class="fr-book-desc">Helps identify large birds commonly mistaken for monsters.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=National+Geographic+field+guide+to+the+birds+of+North+America+Jon+Dunn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -429,7 +429,7 @@ Within the broader history of Forteana, however, roadside encounters with owls, 
           <a href="https://www.amazon.com/s?k=Bird+brains+Candace+Sherk+Savage&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bird brains">Bird brains</a>
         </h4>
         <p class="fr-book-author">By Candace Sherk Savage</p>
-        
+
         <p class="fr-book-desc">Provides engaging insight into bird behaviour relevant to misidentification.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Bird+brains+Candace+Sherk+Savage&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -426,16 +426,16 @@ For students of [Forteana]({{ 'forteana/' | relative_url }}), Doyle's role is th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Fairies+Richard+Sugg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fairies on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Fairies%3A+A+Dangerous+History+Richard+Sugg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fairies: A Dangerous History on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fairies+Richard+Sugg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fairies">Fairies</a>
+          <a href="https://www.amazon.com/s?k=Fairies%3A+A+Dangerous+History+Richard+Sugg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fairies: A Dangerous History">Fairies: A Dangerous History</a>
         </h4>
         <p class="fr-book-author">By Richard Sugg</p>
 
-        <p class="fr-book-desc">First published 2018. Subjects: Fairies.</p>
+        <p class="fr-book-desc">Explores fairy belief that framed Doyle&#x27;s interest.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fairies+Richard+Sugg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Fairies%3A+A+Dangerous+History+Richard+Sugg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

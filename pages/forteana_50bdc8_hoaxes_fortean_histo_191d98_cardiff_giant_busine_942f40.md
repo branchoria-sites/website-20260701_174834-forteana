@@ -389,16 +389,16 @@ Later Fortean hoaxes would repeatedly employ the same strategy. Rather than dema
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Humbug+Neil+Harris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Humbug on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5005008-M.jpg" alt="Cover for Humbug" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Humbug%3A+The+Art+of+P.+T.+Barnum+Neil+Harris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Humbug: The Art of P. T. Barnum on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5005008-M.jpg" alt="Cover for Humbug: The Art of P. T. Barnum" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Humbug+Neil+Harris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Humbug">Humbug</a>
+          <a href="https://www.amazon.com/s?k=Humbug%3A+The+Art+of+P.+T.+Barnum+Neil+Harris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Humbug: The Art of P. T. Barnum">Humbug: The Art of P. T. Barnum</a>
         </h4>
         <p class="fr-book-author">By Neil Harris</p>
 
-        <p class="fr-book-desc">First published 1973. Subjects: Social conditions, Circus owners, Biography, Barnum, p. t. (phineas taylor), 1810-1891.</p>
+        <p class="fr-book-desc">Explains Barnum&#x27;s role in commercial spectacle and rival giant exhibition.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Humbug+Neil+Harris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Humbug%3A+The+Art+of+P.+T.+Barnum+Neil+Harris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

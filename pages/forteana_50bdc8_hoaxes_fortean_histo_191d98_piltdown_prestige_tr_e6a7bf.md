@@ -424,16 +424,16 @@ Within the wider history of Fortean [hoaxes]({{ 'hoaxes/' | relative_url }}), Pi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Piltdown+Spencer%2C+Frank&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Piltdown on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4605536-M.jpg" alt="Cover for Piltdown" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Piltdown%3A+A+Scientific+Forgery+Spencer%2C+Frank&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Piltdown: A Scientific Forgery on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4605536-M.jpg" alt="Cover for Piltdown: A Scientific Forgery" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Piltdown+Spencer%2C+Frank&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Piltdown">Piltdown</a>
+          <a href="https://www.amazon.com/s?k=Piltdown%3A+A+Scientific+Forgery+Spencer%2C+Frank&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Piltdown: A Scientific Forgery">Piltdown: A Scientific Forgery</a>
         </h4>
         <p class="fr-book-author">By Spencer, Frank</p>
 
-        <p class="fr-book-desc">First published 1990. Subjects: Piltdown forgery, Forgery of antiquities, Fossil hominids.</p>
+        <p class="fr-book-desc">Directly examines the Piltdown fraud and its acceptance.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Piltdown+Spencer%2C+Frank&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Piltdown%3A+A+Scientific+Forgery+Spencer%2C+Frank&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

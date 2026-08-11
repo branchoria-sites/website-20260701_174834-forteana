@@ -397,7 +397,7 @@ For cryptozoology, the thylacine remains an unusually disciplined case study. It
 <a href="https://www.amazon.com/s?k=The+world+of+Lore+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world of Lore">The world of Lore</a>
 </h4>
 <p class="fr-book-author">By Aaron Mahnke</p>
-
+        
 <p class="fr-book-desc">First published 2017. Subjects: Ghosts, Haunted places.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+world+of+Lore+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -414,7 +414,7 @@ For cryptozoology, the thylacine remains an unusually disciplined case study. It
 <a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunting Monsters">Hunting Monsters</a>
 </h4>
 <p class="fr-book-author">By Darren Naish</p>
-
+        
 <p class="fr-book-desc">First published 2017. Subjects: Monsters, Zoology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -431,7 +431,7 @@ For cryptozoology, the thylacine remains an unusually disciplined case study. It
 <a href="https://www.amazon.com/s?k=Tasmanian+Tiger+David+Owen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tasmanian Tiger">Tasmanian Tiger</a>
 </h4>
 <p class="fr-book-author">By David Owen</p>
-
+        
 <p class="fr-book-desc">First published 2004. Subjects: Thylacine, Extinct mammals, Rare mammals, Zoology, australia, tasmania, Extinct animals.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Tasmanian+Tiger+David+Owen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -448,7 +448,7 @@ For cryptozoology, the thylacine remains an unusually disciplined case study. It
 <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science">Abominable Science</a>
 </h4>
 <p class="fr-book-author">By Donald R. Prothero, Daniel Loxton</p>
-
+        
 <p class="fr-book-desc">First published 2012. Subjects: Animals, mythical.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

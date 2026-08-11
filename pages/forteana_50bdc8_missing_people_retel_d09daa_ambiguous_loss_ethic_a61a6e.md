@@ -398,7 +398,7 @@ For Fortean audiences, this approach preserves curiosity without sacrificing com
 <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
 </h4>
 <p class="fr-book-author">By Charles Fort</p>
-
+        
 <p class="fr-book-desc">Provides broader Fortean context without focusing on speculation.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -415,7 +415,7 @@ For Fortean audiences, this approach preserves curiosity without sacrificing com
 <a href="https://www.amazon.com/s?k=The+Stranger+Beside+Me+Ann+Rule&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Stranger Beside Me">The Stranger Beside Me</a>
 </h4>
 <p class="fr-book-author">By Ann Rule</p>
-
+        
 <p class="fr-book-desc">First published 1980. Subjects: Criminals, Biography, Serial murderers, Murderers, Criminals, biography.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Stranger+Beside+Me+Ann+Rule&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -432,7 +432,7 @@ For Fortean audiences, this approach preserves curiosity without sacrificing com
 <a href="https://www.amazon.com/s?k=Loving+someone+who+has+dementia+Pauline+Boss&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Loving someone who has dementia">Loving someone who has dementia</a>
 </h4>
 <p class="fr-book-author">By Pauline Boss</p>
-
+        
 <p class="fr-book-desc">First published 2011. Subjects: Stress (Psychology), Grief, Care, Patients, Psychological aspects.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Loving+someone+who+has+dementia+Pauline+Boss&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -449,7 +449,7 @@ For Fortean audiences, this approach preserves curiosity without sacrificing com
 <a href="https://www.amazon.com/s?k=Ambiguous+loss+Pauline+Boss&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ambiguous loss">Ambiguous loss</a>
 </h4>
 <p class="fr-book-author">By Pauline Boss</p>
-
+        
 <p class="fr-book-desc">First published 1999. Subjects: Death, Psychology, Verlust, Rouw, Perte (Psychologie).</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Ambiguous+loss+Pauline+Boss&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

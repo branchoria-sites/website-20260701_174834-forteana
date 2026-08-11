@@ -370,7 +370,7 @@ This is why the archive functions as pattern-making machinery rather than simply
 <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
 </h4>
 <p class="fr-book-author">By Charles Fort</p>
-
+        
 <p class="fr-book-desc">Built from collected reports that reveal recurring anomalous patterns.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -387,7 +387,7 @@ This is why the archive functions as pattern-making machinery rather than simply
 <a href="https://www.amazon.com/s?k=The+mammoth+encyclopedia+of+the+unsolved+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The mammoth encyclopedia of the unsolved">The mammoth encyclopedia of the unsolved</a>
 </h4>
 <p class="fr-book-author">By Colin Wilson</p>
-
+        
 <p class="fr-book-desc">First published 2000. Subjects: Curiosities and wonders.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+mammoth+encyclopedia+of+the+unsolved+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +404,7 @@ This is why the archive functions as pattern-making machinery rather than simply
 <a href="https://www.amazon.com/s?k=Mysteries+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysteries">Mysteries</a>
 </h4>
 <p class="fr-book-author">By Colin Wilson</p>
-
+        
 <p class="fr-book-desc">First published 1978. Subjects: Occultism, Parapsychology, Supernatural, Curiosities and wonders.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Mysteries+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -421,7 +421,7 @@ This is why the archive functions as pattern-making machinery rather than simply
 <a href="https://www.amazon.com/s?k=%22Fortean+Times%22+Paul+Sieveking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="&quot;Fortean Times&quot;">&quot;Fortean Times&quot;</a>
 </h4>
 <p class="fr-book-author">By Paul Sieveking</p>
-
+        
 <p class="fr-book-desc">First published 1992. Subjects: Death, Anecdotes, Humor, Curiosities and wonders.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=%22Fortean+Times%22+Paul+Sieveking&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

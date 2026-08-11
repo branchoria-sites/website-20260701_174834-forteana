@@ -393,7 +393,7 @@ Recognising these constraints does not diminish the tragedy or mystery of unreso
 <a href="https://www.amazon.com/s?k=Deep+Survival+by+Laurence+Gonzales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Survival">Deep Survival</a>
 </h4>
 <p class="fr-book-author">By Laurence Gonzales</p>
-
+        
 <p class="fr-book-desc">Explores human behavior during survival situations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Deep+Survival+by+Laurence+Gonzales&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,7 +410,7 @@ Recognising these constraints does not diminish the tragedy or mystery of unreso
 <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
 </h4>
 <p class="fr-book-author">By Charles Fort</p>
-
+        
 <p class="fr-book-desc">Contrasts anomalous interpretation with practical search evidence.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -427,7 +427,7 @@ Recognising these constraints does not diminish the tragedy or mystery of unreso
 <a href="https://www.amazon.com/s?k=Lost+person+behavior+Koester%2C+Robert+J.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lost person behavior">Lost person behavior</a>
 </h4>
 <p class="fr-book-author">By Koester, Robert J.</p>
-
+        
 <p class="fr-book-desc">First published 2008. Subjects: Missing persons, Investigation, Psychology, Databases.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Lost+person+behavior+Koester%2C+Robert+J.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -444,7 +444,7 @@ Recognising these constraints does not diminish the tragedy or mystery of unreso
 <a href="https://www.amazon.com/s?k=98.6+degrees+Cody+Lundin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="98.6 degrees">98.6 degrees</a>
 </h4>
 <p class="fr-book-author">By Cody Lundin</p>
-
+        
 <p class="fr-book-desc">First published 2003. Subjects: Handbooks, manuals, Wilderness survival.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=98.6+degrees+Cody+Lundin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -892,7 +892,6 @@ That balanced posture reflects Fort's idea of "intermediatism": resisting premat
 16.<a id="endnote-16"></a>
    Source: holybooks.com  
    Title: The Book of the Damned by Charles Fort  
-   Link:https://www.holybooks.com/the-book-of-the-damned/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>13 Aug 2025 — The Book of the Damned - Charles Fort&#x27;s 1919 classic on strange phenomena, anomalies, and mysteries that defy...</p></details>
 
 17.<a id="endnote-17"></a>

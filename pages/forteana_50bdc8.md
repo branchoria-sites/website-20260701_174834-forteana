@@ -946,7 +946,6 @@ That is the enduring value of Forteana: it teaches a disciplined comfort with un
 16.<a id="endnote-16"></a>
    Source: encyclopedia.com  
    Title: fort charles hoy 1874 1932  
-   Link:https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/fort-charles-hoy  
 
 17.<a id="endnote-17"></a>
    Source: encyclopedia.com  
@@ -1057,7 +1056,6 @@ That is the enduring value of Forteana: it teaches a disciplined comfort with un
 40.<a id="endnote-40"></a>
    Source: holybooks.com  
    Title: the book of the damned  
-   Link:https://www.holybooks.com/the-book-of-the-damned/  
 
 41.<a id="endnote-41"></a>
    Source: fancyclopedia.org  
